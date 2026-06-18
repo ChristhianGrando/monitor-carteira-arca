@@ -1,0 +1,46 @@
+name: Monitor Carteira ARCA
+
+on:
+  schedule:
+    # 21:00 UTC = 18:00 horário de Brasília
+    - cron: "0 21 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor_investimentos.py
+
+      - name: Salvar relatório como artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio-carteira-arca
+          path: relatorios/
+
+      - name: Commitar relatório no repositório
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add relatorios/
+          git commit -m "Atualiza relatório da carteira" || echo "Sem mudanças para commitar"
+          git push
