@@ -144,21 +144,70 @@ def gerar_relatorio(noticias):
     return "\n".join(linhas), analisadas
 
 
+dedef dividir_texto_telegram(texto, limite=3500):
+    partes = []
+
+    while len(texto) > limite:
+        corte = texto.rfind("\n### ", 0, limite)
+
+        if corte == -1:
+            corte = texto.rfind("\n## ", 0, limite)
+
+        if corte == -1:
+            corte = texto.rfind("\n\n", 0, limite)
+
+        if corte == -1:
+            corte = limite
+
+        partes.append(texto[:corte].strip())
+        texto = texto[corte:].strip()
+
+    if texto:
+        partes.append(texto.strip())
+
+    return partes
+
+
 def enviar_telegram(texto):
+    import os
+    import time
+    import urllib.parse
+    import urllib.request
+
     token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
+
     if not token or not chat_id:
+        print("Telegram não configurado.")
         return False
-    mensagem = texto[:3500] + ("\n\n...relatório completo salvo no GitHub." if len(texto) > 3500 else "")
+
+    partes = dividir_texto_telegram(texto, limite=3500)
+    total = len(partes)
+
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    dados = urllib.parse.urlencode({"chat_id": chat_id, "text": mensagem, "parse_mode": "Markdown", "disable_web_page_preview": "true"}).encode("utf-8")
-    req = urllib.request.Request(url, data=dados, method="POST")
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            return resp.status == 200
-    except Exception as e:
-        print(f"Erro ao enviar Telegram: {e}")
-        return False
+
+    for i, parte in enumerate(partes, start=1):
+        cabecalho = f"📊 Relatório Carteira ARCA — Parte {i}/{total}\n\n"
+        mensagem = cabecalho + parte
+
+        dados = urllib.parse.urlencode({
+            "chat_id": chat_id,
+            "text": mensagem,
+            "disable_web_page_preview": "true"
+        }).encode("utf-8")
+
+        req = urllib.request.Request(url, data=dados, method="POST")
+
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                print(f"Parte {i}/{total} enviada para o Telegram.")
+        except Exception as e:
+            print(f"Erro ao enviar parte {i}/{total} para o Telegram: {e}")
+            return False
+
+        time.sleep(1)
+
+    return True
 
 
 def main():
