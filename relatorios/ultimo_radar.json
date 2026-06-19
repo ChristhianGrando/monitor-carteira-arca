@@ -1,65 +1,85 @@
 [
   {
-    "titulo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? - InfoMoney",
-    "resumo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVdTTF9lQTFSd0YzY000My0yaFhBazJid0JaTDdrQ2tEb25yT05MakpaZ29LajFlR19KM0I2NVl0Vkh4c2hHRmFvS3NJeEoyUXlKWUxxeWlLVVZGN1VaRmk2RWhRZk9Md09yVURJWU1mM3hPTFllUm4ySlJ6NjY4Wl9yN3prUGNGdG4tVDUzLUxGV1RTc0FjSnphQkZ4QdIBowFBVV95cUxOTFhXNF9abFBuVkhnQ2xNUFhTcHRNOExsbFZaWVNvSlRQN2wzNE5FR2l1Tm43WF9yYWdxZUk4VHZjR21iQWtlbEx5WE5iWmJkT25HWXhlelVManhUdG1aazN6dTBETGJIa0pGX3BhbnVyeWpUejJNd3kzbTJNbFk1WV9YLVp1OXowaXAxZzhMWnNlYkxxSUlGU2dvclYyRC00Y3dV?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "c2c7448eb5696b2d9443fbf15116608238065fa08a22f5428c5da5230af5d2e4",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "9 fundos imobiliários (FIIs) baratos que pagam dividendos acima da Selic - Estadão",
-    "resumo": "9 fundos imobiliários (FIIs) baratos que pagam dividendos acima da Selic Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOFlQT0htc1ZKdm5KZ3NRay1mTmRubFd2YU1mZDlyYlpzWXFLUXpWQWJ4dG5xcVBLaGdIWFV4N056bm5zekxJN2VqSlh6M01EenlVZkozU0w4VmRvUEI4Q0ZRTFo4cmZXR1Myb3BweUFvMUhUS3hWbHZ1TkNFNkdzbjloRURLN01kaldyMnFReWRQWmh5bF9wZXVaQlk4TTFVS3Zj0gGoAUFVX3lxTFBpUDM4S0Y3cFQway1ZQ3F6R0FWT1VDb1BVbVU5czlkT0doOHltcjI2T1R1ejdMS0FiUkM0bFlNbGxvM0Z5R1JXeTg1WktUQ3RWSGJfbDdtNTE0WTRZQzAzWWxDMVhXTVpXdGdQS1lrcFBFVk9WMnRDRkJqSXJEYXhzaDRtQnlDRGpTMVFDQVFtOXloYWNhVk1td2RxeUVrVjltTkVhU3BXNA?oc=5",
-    "fonte": "Estadão",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "fd4a8d8e7d2158c5ba9e933bfb4af8417b67ee2da54967017102b81e0fe8ee6a",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom reduz taxa Selic para 14,25% ao ano - Agência Brasil",
-    "resumo": "Copom reduz taxa Selic para 14,25% ao ano Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnhJOWdNTHZWeG1taHNZbEsybnd6d1dlek5BNDU0T0FLdVJ3YUlsZmUtY283a3dfdjdZYU1odUE4RDBSM01xZEJ0dkZRejY5WGlCaGVxckNJWnZxUnZKTmg4R1MtckhjZk1sWWd1VWk3WVhEV0VBeUg3ejM5MDZkcDNiQ1QzSFVCSFZraFFWbndwYWFHdjVsNzRKSWl0QQ?oc=5",
-    "fonte": "Agência Brasil",
+    "titulo": "Renda fixa e bolsa: o que muda após decisões de Copom e Fed - InvestNews",
+    "resumo": "Renda fixa e bolsa: o que muda após decisões de Copom e Fed InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mcHJpLURMNWpabERQNVl0R0xNRnkxT3ozNEZWRXM1aEE0ZzF1cHB5MlVBOWstbkluaW05QmRmUzNpZkdGVXZNbnNTYnlYdEhBYkxJaV9vaTJwc283OTV5bk9SLS15Q1BraWVPb01oT0dINTZBRXh3Umhn0gF_QVVfeXFMTVhyRTd1SUNYZXhPVW5mRUtiRFlqYmNCQ3Fnd1d3d3lXMVdpU09OUzBhZ1A4dEFVX3p3MWRLVGNOekJzaWtZNTRfX1ZiUjY4MW1veWtDMGRNNjRUdmVsOE9sOUF3dm9KSkVMazhKc3pJejNqc0psZXE2TVViZEJYOA?oc=5",
+    "fonte": "InvestNews",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6f03827850073e0abfdb40b0000ba717b93cd888d8b1bd4b3af8a9534564db71",
+    "chave": "5469258a74e551efc9f2cce588c92e409eb1d6a438aec6a129badfc762298aaf",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "S&P 500 cai enquanto investidores avaliam dados mistos e consequências da guerra no Oriente Médio - UOL Economia",
+    "resumo": "S&P 500 cai enquanto investidores avaliam dados mistos e consequências da guerra no Oriente Médio UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUDFvclV0cmZYNWh6VGUxeDJ6Tl9TdjgwWnUyYURPTGx6VDh2TFJlNzJEdWpaUGlWSUw3d0N5bVo2MEpicXU3ZnloblBBcDVRTzBIeFU4dTZYMVB2Z0JuWmgtMGlHS2UzcWxVWTh3Mlp1M201N05aajJqQWpsOGczck9NME9RNHlnSW1GU1hfVlM3Ym1LZ3gxREZXRFNrd2JybmkzQ3NjdnRIbDlWY3dtWEkxSU1pZEpINDVKcUlCS2liaVpVRXlTRFpuM1JtTU1nejhpdUV4Zml5MDJJX3loMl9oN01LWkZkU3R1NA?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "401523c2240b41391a4a6e6a094bdb1acb6d5e3b407c2c4172b0a220f4c48d68",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Tempo Real: Ibovespa recua e destoa de Wall Street digerindo comunicado do Copom; dólar avança a R$ 5,17 - Money Times",
+    "resumo": "Tempo Real: Ibovespa recua e destoa de Wall Street digerindo comunicado do Copom; dólar avança a R$ 5,17 Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1U2Q1V4cXlTR2R5X2hFMkp3d2tfNFlFblBNTVpSNlY4Tk5vNDZ0YkdoWFhmbHhKNnFVUW1OTVljbm1xQ2JZUGxaTVRHUk1HZ0d5d1c5a3AyLVBtMFhxOFU4Ul82TnYtaGlwdGV0OGpCZ09Qc05ibjRHSjNUWjZyY0haU3hhTy1iR2VrcjdYZkdSX1FnWDhCZXByZ2M1UQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
+    "chave": "98780c0c2fe3fe2b289744dfd2a303c4f53c34e6bb462cf6fdd53a91b5ac1c64",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Melhores fundos imobiliários para investir hoje com a Selic a 15% - Nord Investimentos",
+    "resumo": "Melhores fundos imobiliários para investir hoje com a Selic a 15% Nord Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRllDYVZtNzJBaVRiVENvcWQzNTY2emQ4aFZCVjg5bVRjdXJyV0d2LUtMLUVGVUMxcm16anZjTWY2YlNqaEsxRDkyQXFITzA5UGlMVXhwOGV3eXRhdTJodXpueE0zVDIxUDFTZmZNMmctTkhFZmQ2bzh6dVdQVURCOGJB0gGHAUFVX3lxTE9ZUWNlQjhnOUFRcDRBN0R1MUYyQzJ3NGIySlpQUTh6TUp5VV9FRzQ4V1pmRVhwbXdwb0NJajhmREM3TWtzZHY1SU1fcEdDNEZaWllrNzJwa3JPQ1Y2Q0d4eFB0aEYxQWNoSHhEZ0hVb1hEYjVfRWtiMy03YmFRNHJtYldPWF94QQ?oc=5",
+    "fonte": "Nord Investimentos",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "6107533d700cb5a9c95b9de083b225a73cd937924bb84ecd9d97d8bb0f80e054",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -80,38 +100,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom: mercado precifica 80% de probabilidade de corte de 0,25 ponto na Selic - Bora Investir",
-    "resumo": "Copom: mercado precifica 80% de probabilidade de corte de 0,25 ponto na Selic Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSTByNGJ3dV9SaXF0aTBqRjVFNTI1Zm04Ml9lb1gzd3FHWmRQRy1EdEstSFE5TWRlQ2NqNDlfVzhMWUJydW9KTXg2Z25zSnlTeWN6Rkl3RURUQUlLaHlnQ3ZyQy1KRU5HeFE1OU9OZ1BuRXhFbEpkVDlTd3lyUmdVTkVtU3FobmVZZ0cwOXU2RHZTSW1veWpBclZONWI3U2NOSmJEUmVZdnZ5VmdRa3h2UXN4VlBmUWpRUDNQMnVXOEQ?oc=5",
-    "fonte": "Bora Investir",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3946813628563ee0b9c9e7d6c57ce447561016f695304c620684d74f8d138c65",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "IPCA de maio confirma preocupação - Portal Contabeis",
-    "resumo": "IPCA de maio confirma preocupação Portal Contabeis",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQU5CSXRZVFZHekFvMV9ZWDlfbmxVeGVPN3JlZDAtNnc2OWFhMWN0VWlKZXBDOEM5QkNsb2g0NVZ2UURJT3ZVWHJQemNvRFRGa2J5QXhoSmg2Y1l4VUR2UjdSR0tFWGtKMnk2MVBILUJXWHdwU1Q3OWxzTVhpRDBCV05nMA?oc=5",
-    "fonte": "Portal Contabeis",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ba0665716d8d283a25012f9f9bac20c5b5e7625dcce97965516463838890549c",
+    "titulo": "Redução da taxa Selic em apenas 0,25% é insuficiente - Sindipublicos",
+    "resumo": "Redução da taxa Selic em apenas 0,25% é insuficiente Sindipublicos",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjdoWmVRV0hGcU9HREthWGpzNWczUEdLTGpVaWJDNnc5aURBV0ljeVZRWGpsc1FYbV9TQTBVaThHQ3RYSnBBU2ZuUlI2anRGdkZMSHVvT01OX0FRSTF1QWNqUU43Y2FBM2xVODZGZ1V2NVh5TXY4TmhHNGNBSUZlUThHSlYyUzNiZWVjaw?oc=5",
+    "fonte": "Sindipublicos",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "539562fc0e92b91d92bd3bef6b16e9b920b9904d8eb299b5a7c2d216c19d057a",
     "ativos": [
       "IBOB11",
       "KNCR11",
