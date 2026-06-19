@@ -14,6 +14,20 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
+    "titulo": "Copom: mercado precifica 80% de probabilidade de corte de 0,25 ponto na Selic - Bora Investir",
+    "resumo": "Copom: mercado precifica 80% de probabilidade de corte de 0,25 ponto na Selic Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSTByNGJ3dV9SaXF0aTBqRjVFNTI1Zm04Ml9lb1gzd3FHWmRQRy1EdEstSFE5TWRlQ2NqNDlfVzhMWUJydW9KTXg2Z25zSnlTeWN6Rkl3RURUQUlLaHlnQ3ZyQy1KRU5HeFE1OU9OZ1BuRXhFbEpkVDlTd3lyUmdVTkVtU3FobmVZZ0cwOXU2RHZTSW1veWpBclZONWI3U2NOSmJEUmVZdnZ5VmdRa3h2UXN4VlBmUWpRUDNQMnVXOEQ?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
     "titulo": "Ibovespa encerra em leve queda após comunicados do Copom e do Fed - Valor Econômico",
     "resumo": "Ibovespa encerra em leve queda após comunicados do Copom e do Fed Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ25ycmIyTWJvc3ppbUNxS2s3RGQtNkdtbWJmamlBR3BOaFJVdDN2WEdfSVBLcjBmS25PTC1nZl9UZ3lQT1FGa19ocXhZclZiTHQ3Nk1RQUNSVE9hN1JZTUc1OU1iUjVMZ2J2dHZXaEg5Um83ODBjSVNmcVRBRlkyd1FESWR1aV9DYV9lVG0tMW92U1VHZ1V6ckNLSEZfMmJEOWp2LWJIQ04wVzcxaDk3cHZubFQ5cXlPUFg3ei1oTHMtQjBkazdwVWt1aFdMVm_SAc8BQVVfeXFMT0NucnJiMk1ib3N6aW1DcUtrN0RkLTZHbW1iZmppQUdwTmhSVXQzdlhHX0lQS3IwZktuT0wtZ2ZfVGd5UE9RRmtfaHF4WXJWYkx0NzZNUUFDUlRPYTdSWU1HNTlNYlI1TGdidnR2V2hIOVJvNzgwY0lTZnFUQUZZMndRRElkdWlfQ2FfZVRtLTFvdlNVR2dVenJDS0hGXzJiRDlqdi1iSENOMFc3MWg5N3B2bmxUOXF5T1BYN3otaExzLUIwZGs3cFVrdWhXTFZv?oc=5",
@@ -28,37 +42,21 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa B3 fecha perto da estabilidade, após decisão do Copom; dólar vai a R$ 5,17 - Bora Investir",
-    "resumo": "Ibovespa B3 fecha perto da estabilidade, após decisão do Copom; dólar vai a R$ 5,17 Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDdmUVRYTDRhZTBaTG9qblBZTFEtUkNrc3N0d3hnZnFMS3BJREtqLXJ5ZVQ4V0h0QnpYaG9qY3d2Qk1UWHhWR3VkcnlBMWJ3OGFQdzkzNWdfQ1M4S2lQUFhfeFFBY1hobGlTTDlHM0FIYjh1QzgtTmpDR2VYZGVNMjJBTG5nWUlITEFBVE4xUWNqLWRVMm4tNWN4c3ZqR0JfVmZ6dHBpcDFIQzdBTUpfa1diNC1oSW1ha3RWeERPZHJfSUNGaUw4?oc=5",
-    "fonte": "Bora Investir",
+    "titulo": "Copom decide em meio a complexo balanço de riscos - Estadão",
+    "resumo": "Copom decide em meio a complexo balanço de riscos Estadão",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkNfaF91M3ljQlczbTZXNFJvMUFpSWpEdmxaQVRHQVM5UGJBV0s1b05nYnItNmdBVVBnc0JBanFiR3FnVmRSQUZZWFlVc0RKN1pSaHpJWmlnVl9oMWctTUtRcDVPNUFMUkdGR2hIUEUtNDF4SWc1RlNNdXBzUTQ2ZFM3c2ozVEZTaGVIazlNdEpWU0l6dDB5engxYTA3X2lkV1MyTdIBqgFBVV95cUxPYlRyQUV6RTktcGVDWVc5dGNBNlZYVWRnZ1NDaFBWQ05kU0cxMnE5NVptdVFLUkVtczR1cmR0RHFyZVdZMFlWbEdOQUlIY3dhQ01YQTg4bmNtcFdqVWRMOTNDWG1MV2NkQUxnSDh3cTZLajZmRVhjUmg5eVZNay13eFNsMWNqakZ6VUFqM1hfTTR3WmxEck1ibGZ2NzU4WUJzdGcwYnpwMHBSZw?oc=5",
+    "fonte": "Estadão",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa Fecha com Queda e Dólar em Alta após BC Deixar em Aberto Próximas Decisões sobre a Selic - Forbes Brasil",
-    "resumo": "Ibovespa Fecha com Queda e Dólar em Alta após BC Deixar em Aberto Próximas Decisões sobre a Selic Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaG56TEdzeWxTdWoyc3NrLUJkMzRVbVN2b0VlWjAwdnRXMjNTVS1iWUhvampaMkh6Q3BuUzBvdl9telNxZnE4ajNkVXpiNElUMElKNEU3VFRYUkN4UlFpWGs3eFdmbXctZ0VxWURUNF84N25oZWFzSWs5ZUtjRy0wX2Fkb2NsUzV4WFBZRlhtUDlteG11cERiUHBueE4yZ1phSG9mZG5tcWZrVENxWThPaWlSMlBLWE5xd2MtZThQQi1MeXF5aFNWdFpkaHVLZ19IVjgwRnpWT1k?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Taxa Selic: o que é? Ccomo afeta seus investimentos? - Safra",
-    "resumo": "Taxa Selic: o que é? Ccomo afeta seus investimentos? Safra",
+    "titulo": "Taxa Selic: o que é, como funciona e como afeta seus investimentos - Safra",
+    "resumo": "Taxa Selic: o que é, como funciona e como afeta seus investimentos Safra",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FeFZ5OEhSY3NPRU1jSllMOFJGaTlNUmdvTVN3Z3NBVUZUY1V3b3hNR0I2My0zcVdYV2d6RW5XcVNOYlJUR05rUGVGZzB0RFplQS1QbFMwYnZ6dEZOU0REZkVUUjVUMEdGNXFvblpHSEZYQTJVRTFn?oc=5",
     "fonte": "Safra",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
@@ -69,6 +67,19 @@
     ],
     "impacto": "Alto",
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Copom reduz taxa básica de juros para 14,25% ao ano - Gazeta do Povo",
+    "resumo": "Copom reduz taxa básica de juros para 14,25% ao ano Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0N0VF84enhKblJ2NVE5Yk5OQnNsNDFtOUw2Ri1sY0FibHZ1MENnX05ULTctMWFVNXBReTE5QnotZlo5ODNMeG9FNFloRnpOSzc5b0JYTks3N2R3a2R0UHNZVTdrbGl6bHl2emFEZmxOc3hiQ0tuaDlTWENON3FGMC0tV0p3T29pNmdqbG51MVZHX3hvUlE?oc=5",
+    "fonte": "Gazeta do Povo",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
   },
   {
     "titulo": "Dólar sobe a R$ 5,16 e Ibovespa fecha perto da estabilidade após decisão do Copom - Bloomberg Línea Brasil",
@@ -85,10 +96,24 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa hoje: Weg (WEGE3) lidera ganhos com dólar em alta; Braskem (BRKM5) afunda 10% - Estadão",
-    "resumo": "Ibovespa hoje: Weg (WEGE3) lidera ganhos com dólar em alta; Braskem (BRKM5) afunda 10% Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQak5wRm4wX2VHbzBfdWJUcm8teUdqdmVYcGx5cFdmYkQyYUpzalI1NEdGbERzTlJMaTZPaGJjd3ZoelJNVXFhWVNhMVVEU3Q1cWJnVUJsRXhwQzFSZDlkQ04xaEJ0TlA2Nmo1LUhWMWMzWEo1MzZwVmRxYmJscm5iVjZEcjV4ZVdaUUxVUmhtT3JPeEl5eFVzT2ptc1B2ci1Gc3BHQVFta2VlTnFiUmMyOU5QSUUtbUltV1FHc3ZNWU1saG9ITnZBUW14SEZhZ0dwQW9BbdIB2gFBVV95cUxOOW5sRmlkV0k2LWQ4T0Y4WS1CbGtmLVVhRXFmSzhqTnluYlRHZGx5SDRGUV8wdEZDbjd3Q1ROeV9BcWctNmlRdXpSeVR3ZjBoUzhkdlluUjFjWUs3bkRzMGFCTWFYSmFYLXJWSDFvOUxYeVpVcVFDX1RqNGdaT2lNSm9hUzZWeVZCOW5yQlhZemIwMFhfZXpYZU42QkpyMFdjckRiT1lHa1dOd0l5V1lEVHRDVDFGbFZDOVJJOVlfRmZKTktnb2dFNVZlVnZHeV9Na0hxT05WQXJndw?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Juros sobem após Copom e mercado vê corte da Selic - ES Brasil",
+    "resumo": "Juros sobem após Copom e mercado vê corte da Selic ES Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hd2F4Ump3S2VkdVFkbEdGR0RZemdMOEpCNVEzbHlublNMU2xTeTJ4Q3VhZ1dOUFEtVnVVRkQwUENnem1uN0NnV18zbnY3M2pGbFpuWG1LZHM0VlhaRHRrUzB3UQ?oc=5",
+    "fonte": "ES Brasil",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Dólar sobe e vai a R$ 5,17; Ibovespa cai 0,13% - brasilagro.com.br",
+    "resumo": "Dólar sobe e vai a R$ 5,17; Ibovespa cai 0,13% brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbS0xSEYyVkNWUkdkekZObFhQeVRpZ0tJV1RHeTZ5Z1Vzb2hCaHdSQnJzcTZzempZeTdGZnlaMUd4V2Q4ZEdvakExVDY0emxaT3pEZXByaG9PRWNWeUxMRzNhcER4bVdzU2xveHc5V1ZCZ01mTWJ3NEsybEFESllKYktfYXdsYmxQN0RCc2RB?oc=5",
+    "fonte": "brasilagro.com.br",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -96,34 +121,6 @@
     ],
     "impacto": "Alto",
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Ibovespa fecha em queda com ruído do Copom e rotação global para ações de IA - Canal Rural",
-    "resumo": "Ibovespa fecha em queda com ruído do Copom e rotação global para ações de IA Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGQtLTBxbm9nWkxDc05kU05yNGp6cThjNDZHZUpyclV4SXJLT0pEbThLZjUxN0p1akVCb0hRa0tTR2lmNm1FNTg4OEtCUjN4N051R29vNGdkWk10ZkZnazFGbVZPVG5KNW5OdXlrU183Mm1uSHVqYVBLNEdURjVKdnNmWlMxRWM0bmIyXzd1SHhBN3RXRGJobFlkYUdXMTlOQmlNQ0RxUFJaTnBwZm1FMEs3THNkQUU?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Tesouro IPCA+ passa de 8,5% e atinge recorde da série após Fed e Copom - InfoMoney",
-    "resumo": "Tesouro IPCA+ passa de 8,5% e atinge recorde da série após Fed e Copom InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0pjR0l5dHRCdG5jd05BSnBVdHk5S3BuOUpSQl9uYl8tWTlZVEFlSEVpNHIwbHlnZEpraDV3YkR3TkFUVF8tUGpFVmIxUkRad3NaZjlIT3I4c3VfY3FORUk2VFJsQU9RZ21LMDdMeEFrTUNzbV9scFdya3hIQjdLTDUwOHlQemFsZTdBeHVua3BwQXgxQlF4YWR1YXVveUVLWVVwbDZxNXBfSmxCS0MzZdIBtgFBVV95cUxOVVNtMXlkeE84MmdpcC1DZ2dYaHl2TXFSN2tQd3hUSjlRdkVEQlRwR093aXRhVEc3VGVidU41dHJnX3NSM3BZUE1wWlRNaTBPS1pDV2JudG5NMk5NU0s0R3MxNTVHcm5fcDBVbmppcV8tZ09GWXpFWm9fNkozMzNkZE5uaU03QXJfbUxvc2tYMi1GWE1xdmE4d0V2WmM4S2tRWlRxZ1ptNWtNQ3ZUcjFUZkJ6eUc1UQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
     "titulo": "Bitcoin sobe e mantém performance superior ao do S&P 500 desde o início da guerra - Estadão",
@@ -151,24 +148,10 @@
     "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Novo corte da Selic destaca oportunidades em FIIs - Clube FII News",
-    "resumo": "Novo corte da Selic destaca oportunidades em FIIs Clube FII News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0tCdnFuNWEtUFg3RUh3dlFoWGZUN1NNa0NSVzJyb3JaN0xmaHpnX0d3eUowM1EtYzZpTmxUQmRiQlM2amVZZzlIZVFyOFBjT2x5Q0FORFRCWWRHNVhRTzRjcGYxdlVwOHBMTmJ3bTBSOXpMaVg0ckxLYlBqeWt6LWtoVDB6eDhsTHllZEF3X3JvYlk?oc=5",
-    "fonte": "Clube FII News",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Copom corta Selic em 0,25 ponto porcentual, para 14,25%: como ficam os investimentos? - InvesTalk",
-    "resumo": "Copom corta Selic em 0,25 ponto porcentual, para 14,25%: como ficam os investimentos? InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS044VWl3LUFBOE9lRFlzLVhXWXNhYlhKNDAtTnA4MWpfekxPMEZXT2F5Smdlc1FjbVdsZktSREVTQ0NVcGVwNnFyRmJvVTBhaHAwRjJEQlVtY09ZbmNkd2x3Z2gxa3JiYm9EMXlCaXd4RFN5SjdSM1BMQnJiUUNHUTRXTHlaSi1kbGNNejlYSlBRUHhqSDNNNW1IZExQUUFTSGNSaXMxbW1sRTkyMVlQUUpBMEIxd1NkX1BZYVJjcW5SSEE?oc=5",
-    "fonte": "InvesTalk",
+    "titulo": "Redução da taxa Selic em apenas 0,25% é insuficiente - Sindipublicos",
+    "resumo": "Redução da taxa Selic em apenas 0,25% é insuficiente Sindipublicos",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjdoWmVRV0hGcU9HREthWGpzNWczUEdLTGpVaWJDNnc5aURBV0ljeVZRWGpsc1FYbV9TQTBVaThHQ3RYSnBBU2ZuUlI2anRGdkZMSHVvT01OX0FRSTF1QWNqUU43Y2FBM2xVODZGZ1V2NVh5TXY4TmhHNGNBSUZlUThHSlYyUzNiZWVjaw?oc=5",
+    "fonte": "Sindipublicos",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "IBOB11",
@@ -179,10 +162,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Redução da taxa Selic em 0,25 ponto percentual é insuficiente - CONDSEF",
-    "resumo": "Redução da taxa Selic em 0,25 ponto percentual é insuficiente CONDSEF",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT0c2eHJzTTliUkJvajFaczRNOFZDQmd6SjYwRXZfNzhFTS1WSnhveTVibnJLbExqX3RCRnFfak5tYkVVMDl5Z1ZET2UtUlliY3pTVnZiRERNTXkxWjd3Ui1KcWhSSndhbGZ0Tkpickg3eGdsYzRUcDNWUHo0eVBCUXY0VVA2NXN1RDNoSXNzdFBvVVk?oc=5",
-    "fonte": "CONDSEF",
+    "titulo": "Os sinais do Copom sobre a próxima reunião, após cortar Selic a 14,25% - CartaCapital",
+    "resumo": "Os sinais do Copom sobre a próxima reunião, após cortar Selic a 14,25% CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3JaR20wWWhMSVBuaVNCamdKOVlubHhLbmJ5QXNHT2ZUNUtfWDQ4bTVYZkR2bkZ5b0UtVkJIN1RPYUM0YmplNUItcEpIanluMnhiWFpkTXp1ZlZGN2lkQU5ZT01PMHc1RjRnTVdwOGp3em1fRUdUVk51SzdSWVZTWUprMGprRFNzT0Q0Z0t5UGFnRkhVa2diS0s5UDBFZmI0MWlZWVprN0x5d2ROVXc?oc=5",
+    "fonte": "CartaCapital",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "IBOB11",
@@ -197,6 +180,18 @@
     "resumo": "Hedge para proteger S&P500 após ganhos de US$ 9 trilhões dispara antes do Fed InfoMoney",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmRkSHM3S0ptUGFIZmpuSGpTTXNSRHprY3RYOHItM09uNTlCR1ZnV05NVGwzaFRsaHduZ2tsZHQ1dlZ3cF91NkJlWHhQQnNBZGx4UWlwSWJCSXlpSDN1WWFPaURtSHhfLTk2MkppSmIxNEVQNkRpbHdJek9aaDBNV3FXNnQ4NWdvZTZJSWZNV1JCQmMzLXlaTUJ5QnU2bnFuRFAtWHd0QUVKUzVNYjFOZVVRMDjSAboBQVVfeXFMT0xhc0FmNzh2WkVxOGJma244RjNQUW45NkZVVW52aTRoWjZfVkRBdFVLeDVHdnJZR0NPWEhvdWZROG1udnVLQm5mT1BacFkzd2toVkRyeFRMR3JxMEJqdHQwVzZSYXdLTWVFS21EdEQ0aXFWc09UTmN4YW5PUVlJODNhMTZJVXM1WEFPSVk4UmQ0ZDI0V0Q2UTJOaUlxXzl3WXRsX20yd3ctQWlTY1JJYUNSeTh5dzVGTzRR?oc=5",
     "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "S&P 500 dispara com a IA, mas concentração acende alerta - CNN Brasil",
+    "resumo": "S&P 500 dispara com a IA, mas concentração acende alerta CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0pZVnFTQTY4WnI0SUJSRlkxa3o1aUVib0VuT19SS1dnM2hGM3B3a1FEclJNWTJORk1paDg3OU44bzdxMEN1M1ZZZVdTbEMxMGhiVnRvaFVyWWc1YXVFTDhsQnFGVldwakQzakJUUkpqeXAxYUxiUnZ0ODBzTmRxR1FIeU12cjh6NEpLb0FCZXRuMUFkSkwzSmdnOHN5bVhscllB?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
