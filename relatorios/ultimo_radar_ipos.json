@@ -1,15 +1,14 @@
 [
   {
-    "titulo": "Grupo Soma estreia na B3 com oferta de ações e capta 331,8 milhões de dólares - LexLatin",
-    "resumo": "Grupo Soma estreia na B3 com oferta de ações e capta 331,8 milhões de dólares LexLatin",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1JJQnJ3cGpqUUJlYVhFUGRRa0JlRkNGU1N6VENvaFRTanktS2JKWENKaWhyUjZaY3JyWFZTSlBYbjZiV1lycjBXWmhkeU5TUUlETnZ6dGdieDFqa0VNMllzcWtINEh4SFhPREp3czBKeWlTb1AxN2VzTEczV3JlMGREMjhKVTdOUE1mV1ZMSjRZQjRlaHBueU1oeTJ2U2l2WUtSQkRFc2pvTFlrVHc?oc=5",
-    "fonte": "LexLatin",
-    "consulta": "banco coordenador IPO OR prospecto preliminar OR prospecto definitivo",
-    "chave": "ed4cd3e07f5b0b81c8da79f32aa551fa6cc58b5a0729d27bebdc08ce517ca877",
-    "score": 14,
+    "titulo": "BDR da SpaceX estreia na B3 e poderá ser comprado por cerca de R$ 50 - CNN Brasil",
+    "resumo": "BDR da SpaceX estreia na B3 e poderá ser comprado por cerca de R$ 50 CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXE2YWU2Ym5sTnByWXdjQ3QxUEJITW1TX25xMzV6c09ZTHZheW5CV0N0OFdoeGtYdUlpWUQxeFFVWW1qVjhmeDVQMWN4ZFV2Z2NHak9UdTc0NzF4aVZUOGMxWVJrOVdETFNEQlRwbUtwS2JrY2dOVFFfYU9qZk5HTER5TnFpUjJHU05zUjdlTlZGcFJ4U0RwY1RGS0luYU0yZGFRMXNaSlhpQU9YRTE0dW91MWI?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "a9db6b1790601f6395717d4c7fee8922d496f7224e3043d92755cf8a69a08030",
+    "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "cita oferta pública, follow-on ou emissão de ações",
       "tem relação direta com mercado financeiro/bolsa",
       "envolve bolsa, regulador ou mercado externo"
     ],
@@ -18,29 +17,80 @@
     "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
   },
   {
-    "titulo": "IPO bilionário? Gigante chinesa mira oferta de ações de US$ 1 bi em Hong Kong - suno.com.br",
-    "resumo": "IPO bilionário? Gigante chinesa mira oferta de ações de US$ 1 bi em Hong Kong suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2hlalpmOVZvVmpBc1FuckpjRVBRcFpMeFFaWl9HdVV5VDlQTmRlYWhKNHAtbFdwZWJKQU43WFJpOThIRHhtTlR5YU02LXVsdUN3Z1FyakxlNUtrM2VXeW9YWUR1OE1PWkxuc1RtUGRZQUxUOFBjc29rVFotcXUzVGt1a0lGSTTSAYwBQVVfeXFMUFl2a1VVeHlzelVZdDZzcWl6N0gySjZOd29sM2RBOWp2NEFjRlYxV2R4OUpxVmxYdWswdHlZUXNkYUtRMzg1ZkRyVWdhbDVxcFAzRHNnVTFaS003VzFGYVgtbWRxaV9NdzBidHMwd2VfUzBUbzVWYjljTGtJVnY3OVJZZE1saDNDeVNfUy0?oc=5",
-    "fonte": "suno.com.br",
-    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "31763d19576abf8d8dd1644c9b4a57387afc3c139e10ba88e88d87f1339b3f1c",
-    "score": 12,
+    "titulo": "A Compass reabriu os IPOs na B3. Mas a fila vai andar? - NeoFeed",
+    "resumo": "A Compass reabriu os IPOs na B3. Mas a fila vai andar? NeoFeed",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3plS2xTLWRVZXhjYlhzQlo4NDBjUnhKMGluMkc3MlFVOUlJdFBhaXJvQ2tfWFFxVmlscGo1TDFEYlEyZlJGenVfWUIzYVdRSUtvWWY3R1REejhQZlpLYWUyNTlKMC00LTdKdGhfWlFQNGNxeDRLaVRPRkhWbVR5eHctVVFqUUxuRjhKN1l3?oc=5",
+    "fonte": "NeoFeed",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "0fb02e81e1069ebe218cbf050f5e47f2087cee3e28c7840c4ed6be14769b645e",
+    "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "cita oferta pública, follow-on ou emissão de ações",
-      "tem relação direta com mercado financeiro/bolsa"
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
     ],
-    "tipo": "Oferta / follow-on",
-    "estagio": "Oferta subsequente / follow-on",
-    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Mega IPOS nos EUA vão espantar gringos da B3 ou trazer mais fluxo para o Brasil? - InfoMoney",
+    "resumo": "Mega IPOS nos EUA vão espantar gringos da B3 ou trazer mais fluxo para o Brasil? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkc3UGZLMXoxUTBwZVNUSVNDQjJmdHVMcGxONXFKYWZfY2tOWGlEb3N0Rks1REVVWkZkOHhnS29LWkF0bHZNUG5lYkpxSlZiMG1nb25nMHJVOFJvRXM3UU9CR204c2pFcmY5QU9oZGhvSTVwV0JRTWh1UVA5X0pULXR0ci04cHZWTGp3TzZ0UjRuWDdac3FzSGloWFUweFBxQjI5anpvQ0V2aEw3QXhyblRSV3F0VEloQXfSAb8BQVVfeXFMT0JSNEs4c3lqUmtUeFcydkdiNU93Mm8tQzlkWldVTklzMTdnSmk2UmlkbDZvS3lzaVFrbzhnQXQ5cmV2OU5pTnBrbVB3SC13bjdCeW0zQk41dFZWcjN1WXpOWU81dVhkWEhqMWxjb0VqNlVETXoxWXdodEJrOER5MWNLRWZLXzhoOUtQZFJRNm9PbHlMdlNSZ1NNc3Z0ODZhVEU4YWhqVUZOdlpOQ2Zva0FRMWhmd05RMEhhNmxiU3M?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "47f1ec9d0a2fcfa93826f26817e9ad3f805fc88cbb12d6f82db1636f7b8c3e16",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Aegea manifesta interesse por IPO e pede conversão de registro na CVM - Estadão",
+    "resumo": "Aegea manifesta interesse por IPO e pede conversão de registro na CVM Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFZQU1dMWGFlR3RQY1hSNnJ3c3pXN2NMWHF5cWVZRWt5a3lqajc1UTZyWHBiaDdYVVQ5VE5KR3pzeDVMN0hSaTFnX0VsclFMSVdROXdDaXZZbnpYdW5jQVZyNUdVLVZSYVBxem04Vk5pMDcxOHpkbllMNFZ4ekgtV21uUlJjZFRTSmU0d2RxQTZaTGhST1ZJOGVMZnUydVdhNXdV0gGoAUFVX3lxTE5qcFpGejU4bWtJeEtOTGhkRVZpZkxDb09kR1JueGdpb2FTV1Btb0tyY0tnMThZX256TVhmQzhuazhRdXN5ZWdhcU1YdUV4SmJqckJnMGV5Wm5ZejlBb3J6U2JpWTdaYXNOcFdjX3BiaWFjdmN3WUE2bmNscGNDNUdSMEtSSjRKRmhsUmg1SGd4eDlhY3FxS1lSS0E2MzVXZER0S3BxVE1aTA?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CVM IPO OR pedido de registro oferta pública inicial OR registro de oferta ações",
+    "chave": "228ba0852bd63471f25e3ce1877f2e72370953cf8f47f35fd9be68646c25d4ed",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Novo IPO em análise",
+    "estagio": "Pedido de registro / prospecto preliminar",
+    "acao": "Acompanhar próximos passos: prospecto, faixa de preço, coordenadores e período de reserva."
+  },
+  {
+    "titulo": "Aegea obtém novo registro da CVM e avança em plano de IPO - InvestNews - InvestNews",
+    "resumo": "Aegea obtém novo registro da CVM e avança em plano de IPO - InvestNews InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VS1UYWl3Z00xbWlyX2FPQTVXMVJlSjJjNVhBdk1uVkVfYW1EMUpqeU9PUE5mVS00Rk1sUXdESl9ra1lwNXVWMlRZQlc4VDdsckRCUWRoVzhwNUFiSGQxUUxuN0RNZmZldmJYZnFHY9IBdEFVX3lxTE5OcWdCRzBHTUpMV292ZW0ta1I5b2lNZVpYZ3N1cWlseTduY2RJX0d1SEZMUGU4cjJKd2d4SWdWSWFKY0JLRWplNVJPSmlkZnlhUVlaSzFwUGNSdXdrYUgtY2RPLXRXZ0oxaDktbXozXzhpTVZH?oc=5",
+    "fonte": "InvestNews",
+    "consulta": "CVM IPO OR pedido de registro oferta pública inicial OR registro de oferta ações",
+    "chave": "f8d94f8c7b21bc6c54dbc47ab14a50848f34a9944e4782ff48d7b50d31702cb7",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Novo IPO em análise",
+    "estagio": "Pedido de registro / prospecto preliminar",
+    "acao": "Acompanhar próximos passos: prospecto, faixa de preço, coordenadores e período de reserva."
   },
   {
     "titulo": "O erro de US$ 17 bilhões escondido por trás da estrondosa oferta pública inicial da SpaceX - Estadão",
     "resumo": "O erro de US$ 17 bilhões escondido por trás da estrondosa oferta pública inicial da SpaceX Estadão",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFVPTjdPUUdIN3hVN1NFRjB5emV0THktajB2cThpQnZVY2tvd25SN182S0hXcjNiT2NneHQ5ekxkRkVmWGhqTnBKMlJkMHJCQUthNXBOZkFkUm1NNnlXT1RvVzJ6THhsWjJfeHR1SDZ3elRCczE5dFBpa3NWSkNFOVpEb2JfRkptTlJFVElHc01lRWdCdW840gGcAUFVX3lxTE9sSEhuLVRPWEtHN2xBbll5TFVUQ1VkdlBBMFl4NE11QXNzbklLSGM2ckFWQ1Q2ZDFVRW51QWFURUJjSGhLY2txY1o4S0k1em0zY1h0emQ4VGVXMExReUM2WE8td2hQdFBjcmRuUXRQVHNJY3RwTHJGVGZlNldHYWxnZDRJUWJsLTlJVnFnM3MzeWNtR0tvcmVCNTNWLQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEhIbi1UT1hLRzdsQW5ZeUxVVENVZHZQQTBZeDRNdUFzc25JS0hjNnJBVkNUNmQxVUVudUFhVEVCY0hoS2NrcWNaOEtJNXptM2NYdHpkOFRlVzBMUXlDNlhPLXdoUHRQY3JkblF0UFRzSWN0cExyRlRmZTZXR2FsZ2Q0SVFibC05SVZxZzNzM3ljbUdLb3JlQjUzVi3SAZwBQVVfeXFMT2xISG4tVE9YS0c3bEFuWXlMVVRDVWR2UEEwWXg0TXVBc3NuSUtIYzZyQVZDVDZkMVVFbnVBYVRFQmNIaEtja3FjWjhLSTV6bTNjWHR6ZDhUZVcwTFF5QzZYTy13aFB0UGNyZG5RdFBUc0ljdHBMckZUZmU2V0dhbGdkNElRYmwtOUlWcWczczN5Y21HS29yZUI1M1Yt?oc=5",
     "fonte": "Estadão",
-    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
-    "chave": "8fc83da97fa207454fb8e57f70c96bec7bb0f11f30efe517aa99eafbd782ca6d",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "9c6ee13218eabc50cccb7efd1ff8ad9908c46ed5f30bb7dd29310d993802b9d0",
     "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
@@ -51,29 +101,12 @@
     "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   },
   {
-    "titulo": "Compass estreia na bolsa nesta segunda, em primeiro IPO na B3 desde 2021 - G1",
-    "resumo": "Compass estreia na bolsa nesta segunda, em primeiro IPO na B3 desde 2021 G1",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mWmFtRXo5YVotOThSSTFpamRtb1paemVhalVLVFYxMnhrZFpYS29vSUV1eGhvS1AyYy1tbWhfQkE4c1hJOGluekh1YmRuTmhpNGdndVh2WkxOdUk2LWw1bjVvWGFlQU9nRXE1WjJxS0ZXZ00y0gGDAUFVX3lxTE9MbWtsTzgxQVpLTnljWTdyU21OZUFfNVlqSTZDandOT2VJRWhjMW9pXzZFcEM1ZEFBLU5NWUcweU5uWmkwNmplM1B4ZDVtY2ttTkdCTmtFWVNIb3VDUjE4czlDZWphWU50M2FkUDRtR0JkSUNBNUdjbmY1cVFrVE9sS0k4?oc=5",
-    "fonte": "G1",
-    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
-    "chave": "241b39666e5040dc6ea39350b296ae8026fbec105704db77443c3d2beaf82132",
-    "score": 10,
-    "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa",
-      "envolve bolsa, regulador ou mercado externo"
-    ],
-    "tipo": "IPO em fase avançada",
-    "estagio": "Fase avançada / estreia ou precificação",
-    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
-  },
-  {
-    "titulo": "IPO - B3",
-    "resumo": "IPO B3",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObnBZU1JaeDFFbjJXTUI2Z05DbUV2cTBWVVBNek9IdlVoX3dUV0Z4ZzZzOThoQW9WdEdyZ2ViTV9DSXVMV3RRODNRUVIyelZSRjg2Vkk4c1NVdW1lQjY5eG9KcXZsdDcwX2ppZTF2Z2QydlRlekNQeDA3djJ6dEpNc1FyZw?oc=5",
-    "fonte": "B3",
-    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
-    "chave": "2356a71a4346059eadbd69fffed2f5fb9964a4568c4188b571b3b57bc9092610",
+    "titulo": "Mao Shan Huang, Tech-Enabled Global Distributor and Retailer of Premium Musang King Durians, Files for Nasdaq IPO - TradingView",
+    "resumo": "Mao Shan Huang, Tech-Enabled Global Distributor and Retailer of Premium Musang King Durians, Files for Nasdaq IPO TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM1pEeEhuUE1vN1VfZ0I1STRoNkd1RlpZVEphMVBVandJZE1LeDAtc2ZaQjZReFpPY3Q1TnFjb3R6ZUxzeVNVMlVVaGpPS3BYRUQ5cDgyWm92S2JhbklickxPNUh4UlREd2FiS05JODc3dTFTQi1OXzlkY2lSZTBDbXRMOE9oUjdxYllMYmJvWmwya1paVkR1RHZOcElkdFNsaC14UkgzdG9mSzlDWTY1SU1iNGJmMEZQQjROVFlWaTA0elNKNVFmV0JGblZYa0E3cVJJLTFTWXhPbTBsSHRldjdVRW5pdGJQaVVNcGM1TFhlN0w2SEhtcUZidVNWOF9ZR1E?oc=5",
+    "fonte": "TradingView",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "180a6eef4c844df02f8339703ec03627a9d4968236aa49b01344ff010b5c75aa",
     "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
@@ -85,46 +118,12 @@
     "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
   },
   {
-    "titulo": "IPO da Compass vai reabrir janela na B3? Entenda por que retomada ainda pode demorar - Estadão",
-    "resumo": "IPO da Compass vai reabrir janela na B3? Entenda por que retomada ainda pode demorar Estadão",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1EwQnFOYk9HMkw1QUxZbHJkTU5HNXMxLXhISXFyZTNSUFNuNTdOeWJRb19kaWtSVlYweUhqd2ZuU3BQVUZGUDB0YVZsdDVvRFNmSUtZX3g4X2NXT3lKbENRRGR3NkxqMndyTUFEUjJyTzZMdVhtbHlsUFhKbVU2ZHp2bnJ5WEFWT0g4REkzQ3JEUnY1T3RwNtIBngFBVV95cUxNZTA4T1FDellsZlJxYmNGanMxbk1hUTZRemJxOEIzNGV2T0R1dmVkRFhUNVpTT2g0QkR5T1hhQjJoa04xVzM0S0U0Q1BFbnFyWTY1LTJndXdaZWwzNzFXUHVhZDdTbmNmdldvUG8wRmpBZ1ZBamtnU3gxUE5iQm1wTzBGVmZfN2hodmk2WVJCSHVFZEgzRXRQSE5NdzllZw?oc=5",
-    "fonte": "Estadão",
-    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
-    "chave": "4d10ec51d393c18721167a4f84c77d627635cb6a68ce350de4aa16acb35947a2",
-    "score": 10,
-    "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa",
-      "envolve bolsa, regulador ou mercado externo"
-    ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
-  },
-  {
-    "titulo": "IPOs de volta à B3? Conheça a empresa que pode acabar com o jejum de ofertas - Investidor10",
-    "resumo": "IPOs de volta à B3? Conheça a empresa que pode acabar com o jejum de ofertas Investidor10",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUk5lQ1FoMTRWanNYNjI0bXMxNnF3WUNXd3Jta1NrM1VlYndQSzFWQURpR2lSaFNaRHVkemdZTlVPZVJ1Y001UFAzYlIxa3FrMWR2bjFtd2VJYVZvSTVuNnIyNEppQUI0VEk3ZHR2ZXJ0cWJNTEJodFdkdnV1ZDNfamMzTkJ0cWFnUnl2WmVTY3Vtb1I3QnRwV3NaWU51TUFpc3JqTnpFZEhQS0JJaXFKRE8yamFJVzlNb2hhTNIBwgFBVV95cUxPR0htYnJtYkZTdUJkcU80dEVTeFk3dEZxYXRCeXhLTUlxdVJfbXpyaVhMZkpwcGdqLVRQcmozRHNBQmhZWlFTQUdCcWlmWmlpakp0VVBUQ0tpUURlYVNYZVVta2NGTy1XNFc4anM1cGFWUVFkX1V6NnNmRDFmemlBcTNvZHFJUC0wTF9VVWRlbG92YW9SNE1aRzUybDVHWk8xLXAtUzFTa1NoSXVFSktqQ0pabHVCd0thRGprdkxvM1gydw?oc=5",
-    "fonte": "Investidor10",
-    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
-    "chave": "10d84ae7d06c22f13ddb1727ec0ba4da32a9dcf637c1d0239b383f7f6bfb60f5",
-    "score": 10,
-    "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa",
-      "envolve bolsa, regulador ou mercado externo"
-    ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
-  },
-  {
-    "titulo": "O Efeito SpaceX Chega à B3: BDRs Sobem Até 25% Após IPO Bilionário - Forbes Brasil",
-    "resumo": "O Efeito SpaceX Chega à B3: BDRs Sobem Até 25% Após IPO Bilionário Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZk9IeGprWHNrZ0lqUkhGTmFMVEhMczdlR01PckFtY0pEV0NiSlNHcFd3N0JHa21NekhpT2M0M2ZLQVJvbXR5VmVYOF9hNlhNOTQzZ0tMRnN6UDRJQTBPQ3UwZXMxM0JTV1pBbzljcFM4Nnlfd0dTOHhZRnhhS3pqRmlnT1NTbDg2TV9YN2ZCYVhjMUJ6ajhzYjlUdnpiNU5LTV81aUNQY3doT0t6?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
-    "chave": "c6cfa00d2370391aef859eac0862678fa9281118813be86d7175d7e38307b0bf",
+    "titulo": "IPO da SpaceX na Nasdaq previsto para início às 10h50 - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "IPO da SpaceX na Nasdaq previsto para início às 10h50 Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEJTSTAzTElwOUNMWmpranktMEx5UjdaZS1QTmxlRllEZUpUYWlDZ3c2SXBNWDdDM2czV1dLMEV2SU5odzZyM0RVelltcGJzUUJYQks4Z1Y0VU9MWW5zeVpuWTdJcTFIcGVhaWs5NGdybm5mZ19wZGJXd3VvN01pelItT0FydHYxdjkzaG9QZGFIVFNxeDVZRWNEeFE5UWE5QkQtbU1HV3hJbTlIYkNsVk9qZ1ZjZw?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "733e40b4341072f6f8a998244cbb2b89ad4fb4f149cc59e0de0eca11074f0b9e",
     "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
