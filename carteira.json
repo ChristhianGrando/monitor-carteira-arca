@@ -1,0 +1,18 @@
+{
+  "observacao": "Atualize os valores pelo saldo bruto aproximado do BTG. O radar usa isso para sugerir o próximo aporte.",
+  "meta": {
+    "Ações Brasil": 25,
+    "Real Estate / FIIs": 25,
+    "Caixa / Reserva": 25,
+    "Ativos Internacionais": 25
+  },
+  "ativos": [
+    {"classe": "Ações Brasil", "ativo": "IBOB11", "valor": 2395.30},
+    {"classe": "Real Estate / FIIs", "ativo": "HGLG11", "valor": 908.40},
+    {"classe": "Real Estate / FIIs", "ativo": "KNCR11", "valor": 855.36},
+    {"classe": "Real Estate / FIIs", "ativo": "KNRI11", "valor": 0.00},
+    {"classe": "Caixa / Reserva", "ativo": "CDB 100% CDI", "valor": 0.00},
+    {"classe": "Ativos Internacionais", "ativo": "WRLD11", "valor": 2423.86},
+    {"classe": "Ativos Internacionais", "ativo": "SPCX34", "valor": 0.00}
+  ]
+}
