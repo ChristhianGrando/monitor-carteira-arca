@@ -1,0 +1,54 @@
+name: Radar de IPOs e Ofertas
+
+on:
+  schedule:
+    # Roda todos os dias às 08:30, 12:30 e 18:30 no horário do Brasil.
+    # GitHub usa UTC: 11:30, 15:30 e 21:30 UTC.
+    - cron: "30 11,15,21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-ipos-mercado
+  cancel-in-progress: false
+
+jobs:
+  radar_ipos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar radar de IPOs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python radar_ipos.py
+
+      - name: Salvar artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: radar-ipos-mercado
+          path: relatorios/
+
+      - name: Commitar histórico do radar de IPOs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git pull --rebase origin main || true
+          git add relatorios/
+          git diff --staged --quiet && echo "Sem mudanças para commitar" || git commit -m "Atualiza histórico do radar de IPOs"
+          git push || echo "Push falhou, mas o radar já executou"
