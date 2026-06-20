@@ -1,76 +1,20 @@
 [
   {
-    "titulo": "Especialistas veem renda fixa atrativa após corte da Selic - Vero Notícias",
-    "resumo": "Especialistas veem renda fixa atrativa após corte da Selic Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV1JNX3RXa0VHaGtUTUJSZVllRHhiREFGelNwekNUeF9aNHJ3WmxMRmRoVGxQT21DZFY3QWI0ZFdWaHMwdGJ1d0lSWW5UaEU3aUo3VUJSU2t4bFZBc1NCa2FLTExNZVdtWHNOUTVZLU81a3ZhTmxTcUhxMjFaMTF4eVNybGhVWlRIQTBYMFFENzZXQlBVMVpNZg?oc=5",
-    "fonte": "Vero Notícias",
+    "titulo": "Copom completa 3 décadas de mudanças, com turbulências e amadurecimento - Estadão",
+    "resumo": "Copom completa 3 décadas de mudanças, com turbulências e amadurecimento Estadão",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWU2ckpSWjQ4NF9fOUdJNW9MTFFSNjFyRExIdl81WTl3OW1BYkNJRjRIUHgyRWtCQjAyU3BZSExiRXI3c2htZ3FHR2d1czhiR1FJLTg4V3lvWEJzLWxhRXZrMkNEbW4tMVZGSEpfY3RZRlYyVGpOVVhlcW1GbE42MUlPYkdsVHo1SlUtOXpIZG82OXNmUWMzQ3g5aGFRTlpEak41cjJDc0VZeGJTNGNKbtIBsAFBVV95cUxNTWU2ckpSWjQ4NF9fOUdJNW9MTFFSNjFyRExIdl81WTl3OW1BYkNJRjRIUHgyRWtCQjAyU3BZSExiRXI3c2htZ3FHR2d1czhiR1FJLTg4V3lvWEJzLWxhRXZrMkNEbW4tMVZGSEpfY3RZRlYyVGpOVVhlcW1GbE42MUlPYkdsVHo1SlUtOXpIZG82OXNmUWMzQ3g5aGFRTlpEak41cjJDc0VZeGJTNGNKbg?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4ed2fac9628bf334e5a5cbae36e8364ae15880f0b3f51a85816d195e6d5be62b",
+    "chave": "281281cdaf41efa1641324d781fb7c9b2b46843d534a54c04c3042cc14aac5f6",
     "ativos": [
       "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Corte da Selic traz atratividade aos pós-fixados e melhora na renda variável - InfoMoney",
-    "resumo": "Corte da Selic traz atratividade aos pós-fixados e melhora na renda variável InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZU9fM2pqc244d3c4anFobDFDN2Zvd2R0X21jc3JjdzdjdTA1T25GWU00akZ4eTdrc1pGSnFlam5DUXVoTW1CZGNPVU9hSnZNYnJZTzdlWG1MUXhJRlpscnMySlMzemtMVUo3bnVCMzVwdTVsQ211b2xuZGtWZUlXdEZJbkVRMXE1enFLdWJoM3F5OUJBOHBKUk80ZFg4WGdkSi1ZSWROcTFJNThKdXNLVFU3VHo4Z9IBuwFBVV95cUxOdUJ2dzUwaXAyS2xQbmlwUjZjMm9TQnhDQ1pGYUg3bF9DZmxCUGlfWnNBdFBOd1RtdElUYUtWTUNQSW0tOHR0RFg5NFNVMEJvWFN1b3VrNEVQV184V0oxc3BzaUN2MUt4ZHQ2UDFtTFlkZ0ZTMjdMRy1MSkRuLUdMTERQaV9UQ0FRRUZIQU0wNER2VTFQaC1DRWZXMEdTd0dndzY2QjBpT3ZQaDJzNnpKaWRidkhvb1JUVTZn?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7798818495b16c4054f957f9f95b3a884987f6f60018c8dfca4d620db34aac5a",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Reunião do Copom deve avaliar taxa de juros Selic nesta semana; entenda - meutudo",
-    "resumo": "Reunião do Copom deve avaliar taxa de juros Selic nesta semana; entenda meutudo",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2ZqVkZYdmRjZ01OYTRzV1N1RGs2Wk1Nek1JV2I4TXFTRV9haDJzUm9WOHR6RmxiaUFhNTZ4SGJiZVJ1ZUNTZGFxbXpBWUtVa09lNTVlWnhyMFdRb0l6a1E1THpzaFhsZFJCQlU5S2pyaFNJUFkzc1d2cGRZdTd0LUx2TmNNdjUyY2JyZlRHd1Etd0hEVHQ1dkNHSG16d3N3TU40QVZObEpCX1c4WE1Xa1pUcnJBUnNfMXo3TVMyTQ?oc=5",
-    "fonte": "meutudo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c3c69076aa2229abbb67bef618deb68a90f3432f79d4d23a08554a65470f6408",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -80,19 +24,45 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central reduz taxa básica de juros de 14,5% para 14,25% ao ano - Agência Brasil",
-    "resumo": "Banco Central reduz taxa básica de juros de 14,5% para 14,25% ao ano Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN0ZjQWFRcHBQeDB1QmRHa1o3ZmhwRC1HeHJ3Sk55Nm9fd0VjWjdXWjZrNWpGTVBxbnYzZWotdzBuVWw2VXl5MkwwajFFeUNkSjdMLXU3ZUJEZlM4ZVQ0em1TVm53VDdfMm5kVFdONlg4Rjh0LTFuRkRGMlFMN0dWa0UwbVNLcjY0bHdYXzhEZU1pdTFDdm5LVTduQzNpdEdwNFBYdW9RbmtSVTFQU2RxRm1KOGRIT3lTN0Jhby1yVTdCOXpiazhEZWVyS3VZbkx0MHlPVDlMdW5hQQ?oc=5",
-    "fonte": "Agência Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e8a78cb1491110bca699314fc8336062c1a61f6c449b4bff52fdf5d6ac045d42",
+    "titulo": "Itaú vê espaço para mais corte nos juros no próximo Copom - CNN Brasil",
+    "resumo": "Itaú vê espaço para mais corte nos juros no próximo Copom CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTdwTUhnT3VmUXN3cUVxNVQtTzVpSkVONUp3bmticFhlaS02bWgwOGlFMjhQSWdHelFKNTB4QnNTek5fUWxZZ0QwT3hDMGFpUXV3NzFTRjJJNGlkekhoV3A1Q2F0Wkt1djRSYUl5UXhvZWRYcXR3SUFPX2lMbC1Sb2xjYUdEckZLdVVPdWE0ZFNVTXM5cm40LVdiRzg5SUhia2FLcktJckNuQmZRZDdr?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "99e104beddf8cdc5665bde12aae4c1eae32ae24961a2d424a19ac950c7fedeb3",
     "ativos": [
+      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom completa 3 décadas de mudanças, com turbulências e amadurecimento - Estadão",
+    "resumo": "Copom completa 3 décadas de mudanças, com turbulências e amadurecimento Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXZ6RzVydmdoU3gxcE9FNU9MOHNPWl8tUTFaWExxT1d1N01oR1lxNWVhajh6UXdnaWlZV3VaVDFqMnJWUGVPVjBSanZRSTZJc1RWV0p3bFYxODBnQm5mNjVwQ21DRTBKbjFNTFRsb2xMYkliNmhhVW1YRkc0TlRHOGtEbHNQZnJzZGpHdUx2U1lLb3BBNHl2aGlMUkJsQnFFU0M1cnpraHJ6UE3SAbABQVVfeXFMTU1lNnJKUlo0ODRfXzlHSTVvTExRUjYxckRMSHZfNVk5dzltQWJDSUY0SFB4MkVrQkIwMlNwWUhMYkVyN3NobWdxR0dndXM4YkdRSS04OFd5b1hCcy1sYUV2azJDRG1uLTFWRkhKX2N0WUZWMlRqTlVYZXFtRmxONjFJT2JHbFR6NUpVLTl6SGRvNjlzZlFjM0N4OWhhUU5aRGpONXIyQ3NFWXhiUzRjSm4?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "77f30c92a40803a6a16355e2b1f47f155f675d45d98b6b612b37e3d8f5134dd0",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
