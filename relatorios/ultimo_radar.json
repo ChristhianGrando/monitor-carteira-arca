@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "titulo": "Banco Central da China discute integração com sistema de pagamentos do Brasil e uso de moedas locais - Brasília in Foco",
+    "resumo": "Banco Central da China discute integração com sistema de pagamentos do Brasil e uso de moedas locais Brasília in Foco",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcTh4OERkR1dPMEZFV3V2M3JPamVLMk9DSExVZjBtZ1lES2RWcTJ4dXo1YmxSVWxoR01TYXk5NHppckFlbGludHJiOUZqdHNFRTIwT2FaYi1ja0ZKNFJYTS1mNDR4Uy1uYU9kODVLZHZMMkhqYzNrTk1NTy0xWl9hZFR5WFp0VG1TOVJiUjJIRnJqUGZiR0wxbDUtZ1Nnbm1RbFFrUlVnSXJaOVRnWG5UY1l6UlNheG54d09ERzJqLXpqQUNvX2Jn?oc=5",
+    "fonte": "Brasília in Foco",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "680ad17296319595bf8b6c070dd72e752389c9610b944bcd4830e796eab3b34a",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Calendário econômico da semana: IPCA-15, PCE e ata do Copom ficam no radar após decisões de juros - Estadão",
+    "resumo": "Calendário econômico da semana: IPCA-15, PCE e ata do Copom ficam no radar após decisões de juros Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaVNxWTdXQXZVcXVKcnJQd0NlVE5DblJGZTdJVDJTNVg3a3poVkktZDE2OEF0ZUlhUEFzZDBpejdqRXdweGE5OXFxV0c0UkRZZW04d0dBcG9IbFB0LXF6VnU5aHR5Nm5NaDFndF9uTHJ0WVJaRk9ZRkJ1Y3lIeUpXRmhmZjg4aHhOYVpNZW5TdmxKWVpHQThTS21rTmR6Sm9HS0ZpMGFJRmhRcTdQUzJnejk0MkppcTZLMVZGVFBtcXpVMzNTZFJFRHphUXpzMDhwNVV3N0dfQnJiSUJObW5BbHZxMk8tWVdGV1HSAe8BQVVfeXFMT3FNZElTaE4za3ZLVnVRY2hJMUNNbmljSHRrRGlvWjRrRE5RdElzcGQ4LUFKM1ZaRVQ4UzY2ZWlfTFJCYjEtMmFqUlMtRlp2ZVFJRS1Hb21uVC1KalZWU2oxUXpxREFBR29WWW0yWHdyTnNLc0ZKRWw4X0p2Tnh1ZnVnVVk1LWZjbGFERHJNVHpUU2p3Q0xpNXhQaW5fNGd2U3hqNVVFNVdHZGF3UEthSXRtWkVoSjV3V3EzVFRoSF9EalJZSWEwRzdYZ2VOU1VIVkRYb1dpVldjaXBLSW9FMGRTMmJkcFVxVVM5WVAycG8?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a6f3c502e450ed32def9c62e9bad966eca7427e57e65f157a8157342a46864bc",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom foi confuso e deixou cenário incerto, diz economista - CNN Brasil",
+    "resumo": "Copom foi confuso e deixou cenário incerto, diz economista CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmFzNWlmX29uLVBRSDJrM0RxaG1nTi02NG1zU1Z6ejRWNHMtTkdKSjNndnYxbkZ6akRhQnJSRnRyLUVWcjFpcEY4TFZyd1lDWUViNl9rTHh1UFZQRmdIeWNrRDMzR2pGSHZqc1hXbnkyRllkODJnUGc0TGtpYTJtSlk0OVFPOGdEa1hTdUZUTzViREtRQnd2R21aWU8wbHhwNm9HOV8xN0c5Y0xiNEJr?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "dabe4178553bb4a81e2374f8fb2365c640e3fb94f6b9b98041ae1fa65b9b59fa",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
