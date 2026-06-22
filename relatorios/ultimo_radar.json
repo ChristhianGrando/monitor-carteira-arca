@@ -1,22 +1,20 @@
 [
   {
-    "titulo": "Tempo Real: Ibovespa cai à espera de Copom; dólar sobe a R$ 5,10 com sinalização de alta nos juros dos EUA ainda neste ano - Money Times",
-    "resumo": "Tempo Real: Ibovespa cai à espera de Copom; dólar sobe a R$ 5,10 com sinalização de alta nos juros dos EUA ainda neste ano Money Times",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0ljbXFNWFRFME5zVTJxdFhJZlNCZHlwVGJCdW1jT2RXUl9pRWJ5WFNHZXNReGZvUEx1aWJjdGlZVDloYkMxSGtoR2tFc2pxVS1WT0NpVmVmbFpZazZwWV8yQVptYTFIejRyVm4xUWF1ZUFjczd5TWZoVWV2dDdCVzhsekhsZVdJemk4MkxhZ0dyNFpRRVdSN1ZlQUNmQQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
-    "chave": "0b15f214d55fb9aebcdfbd9018115e207307c30ff480d6edee5bfe688384c43b",
+    "titulo": "Dólar fecha em queda, cotado a R$ 5,14, após atuação do Banco Central - UOL Economia",
+    "resumo": "Dólar fecha em queda, cotado a R$ 5,14, após atuação do Banco Central UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSENiV0k1TFdMWUVxOGlqenhUY1FYNW9LRnIzV3BCMnlxWkRlZHgzZ0stNHMyZENoNWMzVlc4UHNxU1BLU3Q2dktGLTFMZW5QRjlES2NvVFMySGM0OGpfVXpRRzVrbVdpamJobHJyTFpaOFprc1VCRkJmT19IWW1qdTBNeXhsdU9ZQTA3TTE2bnQ2Wkw4Q1V6YXdxUzJIV2c?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "04ef988735a5aa3b785e3fb10336f08f3893173372b20649ec3a2154b1a28633",
     "ativos": [
-      "IBOB11",
       "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -27,39 +25,64 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Queda da Selic traz alívio limitado e atenção ao cenário da inflação | - Sindilojas-SP",
-    "resumo": "Queda da Selic traz alívio limitado e atenção ao cenário da inflação | Sindilojas-SP",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFRJTkNvck1oblFlM2RfMVkxVXJTZ2daMm5XaE9RUjQ3X2RrSlNsODRlcnc0TEJ3cTFsa3hYTnFLTjU2R2JaTWFwcG0xTDh3bmxfTENEOW53QnlHTjRqd0JNWEprOGhJUjVzNjVkUDZCekhtXzEyNmFoMHBYVmF6MzBJWGdoR2h5bW4yV2t1eGtWSGV3ZTNZZWZzYmtqR1E?oc=5",
-    "fonte": "Sindilojas-SP",
+    "titulo": "IPCA na RMF recua para 0,72% em maio e no ano atinge 3,85% - Instituto de Pesquisa e Estratégia Econômica do Ceará",
+    "resumo": "IPCA na RMF recua para 0,72% em maio e no ano atinge 3,85% Instituto de Pesquisa e Estratégia Econômica do Ceará",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQajlUUlJ3Uld6cmgwck5kVHNQQzZqeWNXcHJvYjFJVjY5NmFSSGZEdjNHX2xwNzJJWW04bm5vVGpjV1ZObzVHd3JvcjhkMktFOTIxNkIwdEN0R3IySmNZdmNOVWpBdEpwNk5ic1RRQkZMQVBRR0NSWHBnQVhEM295cko3Sm5UZGpOTG9QSHN0alE4Wm45U1JSYlpR?oc=5",
+    "fonte": "Instituto de Pesquisa e Estratégia Econômica do Ceará",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3c6ac158edd30881f1041a2be983244c0f8f95fcb40f0d5571ac0109314c37e2",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado eleva projeção de inflação e vê Selic em 14% ao ano em 2026 - Sindifiscalms",
+    "resumo": "Mercado eleva projeção de inflação e vê Selic em 14% ao ano em 2026 Sindifiscalms",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVF81UUtJeFBSZDZoUzhtcUNNSmxlNU5HQXdqOVpOcGVpc2NrT0trbUhOUzhMNEdTVFJWNC1JVGduSEVSSXgwMEVxNjZBTkI0LTd6N2dfb1FOY2dIb1lfZGtsb1JDSy1wd21VX0JJcURBU3hJdVc5emh6enpWdlYtVF9RNy1kNVRoUHEteVlOOGdacU54R0kwb1ZKOW5ySDk5NkhIRHVXM19KS3pMeE9fdTV1QTc?oc=5",
+    "fonte": "Sindifiscalms",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "49e63539ed7f5c6c71f3c0a5773a4f8c81c048f37ba329c5d19f7a5964b50432",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado revisa para cima expectativa para a Selic antes da ata do Copom - VEJA",
+    "resumo": "Mercado revisa para cima expectativa para a Selic antes da ata do Copom VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3FXbXBnQWpoVXdBNmFDbFZmUW8wUnB0Y1dHdnBDUFI5U3VWWkYwWlkweGk2WGtYU0FSMU9mTjVpb0lYX19Ha2dDVzU5c0d2NTlFWWpWRzhjTXlzOGZrVmRqOGI3OHA5NllfUWhTcGRWSGszblB0T0NQeldORmktS010dzJlb0RPQk8tclFFUjFpbFdwV1BMRVNDOUd5b1BxeVlXcXhGNTh0bzQ?oc=5",
+    "fonte": "VEJA",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f4ca183f0fa3a4549c0bc14600c10965b4df257569ecf7da5f242db325462787",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado eleva projeção de alta do IPCA em 2026 de 5,30% para 5,33%, aponta Focus - Valor Econômico",
-    "resumo": "Mercado eleva projeção de alta do IPCA em 2026 de 5,30% para 5,33%, aponta Focus Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOclJSY1ZZMU9fM2ExSHJwRmlmZ1FaTFZ0ak9oSkVYaFUyUzZKdGEwMmlMLWo4cXBVWnBUWFdqcHVGeWM5NHlQRW10TXFoV1loMVg1cTJPSFl0TllWNVhoM2JKTFlINUQ2d0dEQUZJSy1qRmxMZXp5TElCS0RQa3dhNkxLLTdrUk1YTGRnSmlpZFBTbnJGRFFfTkhqWGo4OVcyX0lWaXVTeUg5WjA5alk4X0lGRGEyelpHOVRNRHhNb1cxNGwxdXlQcHNzc2dVWnpMc01MckhlZWJrbk5Kc3U4WE1PNzJ5TlB2bThoTdIB7AFBVV95cUxOclJSY1ZZMU9fM2ExSHJwRmlmZ1FaTFZ0ak9oSkVYaFUyUzZKdGEwMmlMLWo4cXBVWnBUWFdqcHVGeWM5NHlQRW10TXFoV1loMVg1cTJPSFl0TllWNVhoM2JKTFlINUQ2d0dEQUZJSy1qRmxMZXp5TElCS0RQa3dhNkxLLTdrUk1YTGRnSmlpZFBTbnJGRFFfTkhqWGo4OVcyX0lWaXVTeUg5WjA5alk4X0lGRGEyelpHOVRNRHhNb1cxNGwxdXlQcHNzc2dVWnpMc01MckhlZWJrbk5Kc3U4WE1PNzJ5TlB2bThoTQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c0854144b47fac70a2a9e5fbbde0ec1a796978dfd2a952373e0271885a6bcc10",
+    "chave": "d28971290b6ccd5f74d10604274a5321c869c2e60ee6fd720498331f63af86f2",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -80,38 +103,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Mercado eleva projeções da taxa Selic, inflação e PIB para o fechamento de 2026 - Movimento Econômico",
-    "resumo": "Mercado eleva projeções da taxa Selic, inflação e PIB para o fechamento de 2026 Movimento Econômico",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUS1pbEw5TC04b04yajZCYno2UlZJd0ZXMnRBLWNTZHBmakdDZTlwNktQTjdyU01QRE1nMlVzR0txTE9qQkc4YlJFaDBJaERqTHFCRnlFc1U3eEh1MnBuZXZLR1V1d19sTjFYd2JPUzllZmhhTnNQTW9LVjYtSW91T014aEZnellMd25rcFhEVk1SUFl1cVBNdHg5a0pvckZyd01MVkEzR2RwYWozdmEtWk1HQWdBWW5uckVILTNxYldBOFdjVG1mOWp5czYxdw?oc=5",
-    "fonte": "Movimento Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3f54eaf5b60cee24c2fc359d997e1de422bafbb277632a12cb82c37cdd8e869a",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Tesouro IPCA+ de curto prazo renova máxima acima de 8%; prefixados rumam a 15% - InfoMoney",
-    "resumo": "Tesouro IPCA+ de curto prazo renova máxima acima de 8%; prefixados rumam a 15% InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlI5WC0yS25lNWY5dThFd1JscUItWjMtdGVZVUJYMEpuX2FnQXo1cUhpam1KWVFNZ05NQkNuZnlMUUZGNkR3Nk9FX3BYOVJ1UWRLaFl4THZfWHhiUk1fdF9XU0o4a1gybHBYSTN2XzJrdU05M0ZodVVkRmUwajRyblNJUkUydVp5bzNBUnJlRW5MbEVEVlpSTmNSWnBJN3RtUnU0RUhZUE95cVhuUVNVeVBzSXdydmstNnfSAb8BQVVfeXFMT1VxQVBvR0FzckF5NEE4dllFNHE2NmxpdDFyX1phcnBhRG5fNmpsUjBOTjNzT1ZuQ0ZiMFFoNjgyZkJuTDhRaUs1Qk00NEdGY09CeS1md3YxQzU5UV80RVQ1dHJNNHFDcFhuSGh5c3ZncVNicGs5R1BCaDJ5SndXMEJtTHlfUjFZb2NFNlFXWFd0dWFmR3VaN2lWSlVhSTgyNno0Q2gtWFB6eXBDRk9tUTBCWHpEOW9ZaWRDXzZVWU0?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "608396c9e418e3997d88649b8619339dce01e2c414c55f84e63d462e17dd8ee8",
+    "titulo": "Boletim Focus: Mercado antevê Selic a 14,00% em 2026 | 22/06/2026 - XP Investimentos",
+    "resumo": "Boletim Focus: Mercado antevê Selic a 14,00% em 2026 | 22/06/2026 XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3gteHF5UkQxai1HUmpPdE5Ha3gzM01jMmZzbnRDWlBxX3NvUU54X0pzbW9kbnpaVHZYSkRTdlF4SjdISGhCS0Itelhxc3pxT0VCS2p0V096bmhvbGJfU01KWnpDcmFpYWoxczd2TkMtWExXdEZxejVTWnEwN1dXdURWd19fMy1DckJQLW9kY0E2UUJMN2lNQ2xWZXRhSGxu?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "fdf7c7820843cc36417dbec3d9b13bbb058a37bb44135eb2f5dd4d9d15bef5a4",
     "ativos": [
       "IBOB11",
       "KNCR11",
