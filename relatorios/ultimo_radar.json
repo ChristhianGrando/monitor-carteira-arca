@@ -1,44 +1,74 @@
 [
   {
-    "titulo": "Comunicação do Banco Central segue em xeque e mercado vê risco à meta de inflação - Bloomberg Línea Brasil",
-    "resumo": "Comunicação do Banco Central segue em xeque e mercado vê risco à meta de inflação Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTVFkcnVhc01KTFh6cl9SbnFHcWM2TlFic0Z0YUdiYlBHRV9rM18wWDJCVHdRb19IWEFiTzdKYkNybm94NzdTT2xoLWVMTHFjaXF5ZFRoZFFfNkdrZW1KQnN1NnhYaDZrUG9NdU1MZEFKU0dZS1g5XzRTbEFmQnlwdWRaVEUyY2tqM054TEV6b1puYm9Kd0ZLRC04WHRCakhJRWFkVUhEemU3UHVHcm5ReDh2dTduSkxodU1XRkxLTljSAdQBQVVfeXFMUER3Z0psWFFFT2xSZEtnckc1NnRjU2dXOFBjS1JtR2tIUWN5TlIwY3hreG8yZzJseWliem9CYWFLQ3dLa01sSlJDM0RVckh4Z1pGYWFCR3BXc1IwOTFTa3h1Qmx5VDRFbjN3aUhkY0Fha3VLYjRoTWxTWG9JTFVWR0hkQ21wOVdmS1R6cDFLWE9LS3hQbEFPUHcxOVd4eEdNUU4yWUtEVVY1TUt5XzBhbVh5ZjVjSkM2bTVOWE1QR3pzeDlZOUp6WXN2ZGt5cHNTN1hoVHU?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Juros futuros têm forte queda após ata do Copom gerar ajuste de expectativas para Selic - Valor Econômico",
+    "resumo": "Juros futuros têm forte queda após ata do Copom gerar ajuste de expectativas para Selic Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVHNrcnhQcUdXbjJqa0NlUlBHWlp4LUVKZW1DVHZlWEY1YlBRa3pkSFhDLWZJU1ROQ3UxNFlvM0RGVFhLdm9tWnRUNERLYWF6c1p5QURyaU5kY0M1Rjh2MGg4WjA0X3BwQm96VXNKcDUzV1AwSHlEc0FhSUhVcFpVbVJ4cGZjLTNndzhPVHA4VXMzZVlLRFVvVmdSdDlqVkVtaFJsLXNiR18xOVBiNFUyLUdZYWlhSUVTSzNLYThFY0ZHbmczcjhYRkFfTGxsR045Yy1jalBaR1dnQ1YxMXfSAewBQVVfeXFMUC04el9XbENPN1pKbzdWc2dVaTRkT3NrbEstcGRkbEozVFJOV3FIVER3X2xKcU1oTU4xTEkzVVRKSzltTmU0SllyejhrVVFHc3JleXRuUW1fT0hEYjFGUXlwQVR3OXNiWGh0anhma3NWd2VISHFlSlJxLTJNLXRoR1VGMmg5YndrRFdOWGdnTXJ4dVZCaUFGdUc4MFQwQ1NJTkVvRUs5dk1Md2dHQ21VcUVlbHp1VTR0QXhISlVtSUg4eFJpcEl6ZTgtaUM5SXdwa29KOFRRbnpfYnBxR0FCSmdQbzZWVWpFNExlQzg?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "723802398afd82b651a9e0510e84ba8f7071403cc2015c4ef1f7efbb01777c48",
+    "chave": "a557173d2beff6bc8a9398d6c5e49ebc2e8c62fea3ff32d2eb660668240d2ab7",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ata do Copom elimina ruído do comunicado e indica pausa dos cortes da Selic, diz AZ Quest - Valor Econômico",
+    "resumo": "Ata do Copom elimina ruído do comunicado e indica pausa dos cortes da Selic, diz AZ Quest Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWTVyUHVWN0hBdUctb24xOFZMS3cycG5YQzdIeWxlNVVSVDV6el9yTjNYYjFrbnlGazM0bEJwYzV5WXBWN2ZtWldPZXFBX2lmMHFiSTlzWEVCM1ZLWHNmUERhbHlIRk0wVFZpemNBcmdxcjRqSjZsUmZGcDRUSXo2LVI1NDVhQWMwWWNhTlBTVzVBTVZ1MlFramlvcFFxUnZwTEVYS3ZRZzhNRUVqUXlJYThOazA2NUgyMzNMcVhJMjNSOV9TRVlvWWIyOEJIQnhxVWpQd3QzdVo5ek5uVW0xWEdBdzNMRzlWRGh1SNIB7AFBVV95cUxQWTVyUHVWN0hBdUctb24xOFZMS3cycG5YQzdIeWxlNVVSVDV6el9yTjNYYjFrbnlGazM0bEJwYzV5WXBWN2ZtWldPZXFBX2lmMHFiSTlzWEVCM1ZLWHNmUERhbHlIRk0wVFZpemNBcmdxcjRqSjZsUmZGcDRUSXo2LVI1NDVhQWMwWWNhTlBTVzVBTVZ1MlFramlvcFFxUnZwTEVYS3ZRZzhNRUVqUXlJYThOazA2NUgyMzNMcVhJMjNSOV9TRVlvWWIyOEJIQnhxVWpQd3QzdVo5ek5uVW0xWEdBdzNMRzlWRGh1SA?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d3ab1cf2a53343dffda562d3abf5b204d3a9a0e70cf60f73676616620ebf42c5",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa B3 sobe 0,52%, com investidores de olho na Ata do Copom; dólar vai a R$ 5,18 - Bora Investir",
+    "resumo": "Ibovespa B3 sobe 0,52%, com investidores de olho na Ata do Copom; dólar vai a R$ 5,18 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTJ6Mmt5SXFLalU5RDhkUVZnRHdzdTJDWmREeFdJdE9QWU5sUmRvTTk1U3Rzdi1iTDBUSGluejN1VFFZaXNjWENYamV0TlBNb2VuOF9VZ05OdndrMHpnNEFRZ0MybUFkMmFjbEtpTGxnRW1DVTNvUnpfRk0zN0JlOG93MzdLOHFZQWJoaDVkSGRuOW1ucVplYkJDUTFBanF2NXlTQ3cwRjJvSGdvN1ZBQ3dJR3RCdXpPZUhRMGVIUzBzZkh5R3hr?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4bcb934e8621b82e1cf21b4c3044f7e817aae8d7701620c9dbafb63e3ef30d7c",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dovish ou Hawkish? Analistas se dividem sobre ata do Copom e perspectivas para a Selic - InvesTalk",
-    "resumo": "Dovish ou Hawkish? Analistas se dividem sobre ata do Copom e perspectivas para a Selic InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZWFQUFE0QUFHcktha2kzbzVBZ2huVjBSTUlqZnFMUmlFZlVjZUtQdGdpZjVieXVOdWo4dDF2TE0xS1Z1RkNaYmg2c1NhSFp5NXFMTzdERFFyS0ZtMHZtNEVsR1RjUlhsVEw4NTRVNW4zOEtnVkZuTm5qa0o2aEI2SkpmOEUxczA3Sk9IdDVhTlpxcFJUbzBvaFFBbzM0elZQS3QxWkdqZ3lwU0NjMnUyTFdLanIycnEzSDFUYWRIQlhiM1FETms1QUVHdw?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "50861f1ce58b6702543bf225fedfe3fb719d3179525596718370389c48ea0f25",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
@@ -49,38 +79,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ata do Copom deixa futuro da Selic em aberto, dizem economistas - Folha de S.Paulo",
-    "resumo": "Ata do Copom deixa futuro da Selic em aberto, dizem economistas Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjB5SEtiRzd2Q1U2Vm1fRExZOHVCcndfNlhTZUVQa1N5Q3lCSWdkQ1M5dFkzYzFlb19Rc3hPcVd4dVg3SVdPR3E1YjBUcGFLTE9zNGZwc0F5ZlRtNFNTbTJocFFDOWxoTFRRcEdQZUkzRndVdDFWVWk2Rzd4OHJSSmhzN25IVk9NeDRjUHJ4cC1MSjh4ZkNPX19vMlVzTTBpcnE4NENfcG1iMjlxVlRYTFNkd2x5X1l3em5HdVp4blhDbHRfZnRTSnd4WmxpS244TmRsN0Z5akp4cXc?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "def31b05986b4642ca4516fd874a45e55006e812a381d60b2247ec758c3d1fd4",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Após reduzir juros, BC diz que cenário exige Selic alta por mais tempo - CNN Brasil",
-    "resumo": "Após reduzir juros, BC diz que cenário exige Selic alta por mais tempo CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTUE2aXlUVjhmbnRYYmlmZ2x2TFpLR095QzNVdjdveV9GQmsybTA0cDhKS1dxaUZDM0xXYUpMeEh2Rmd2Y012Ym5lc1B4dXRsYWQwaW82dzgzWmJQUXVLc01NUXU0eFJybUw4Z0stY2tyRFVSWGY2cm5ycjlJcXlYbk1DMjUzelBlSHFkMnRzbWw5YlVQRW1KX2xOdnhacndzdzI3RVRXYTltLVBaeDIwUnU2UWdrMEV2RnRXNFFvQQ?oc=5",
+    "titulo": "Análise: Banco Central reforça Selic alta após reduzir juros - CNN Brasil",
+    "resumo": "Análise: Banco Central reforça Selic alta após reduzir juros CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMnc2cEtzOUprc2FlMm9VMEdPdm8zWkZKNDJMemM3SUFSQ0hmNV83WEFxUmlLeFM2SGlXeHFieWFHdGVlODJkTGZMT0xFWm50NE53M1hxazAyMDJXYzQ2Q0lNQzBZQi1wOWh4TUItSTJvdGMyVy11a2FJZkFyTmpJZTVUTk91ZXJ3bzI0QnhfWHgtOHpjemdFRXVSRlltZUZ5YWxZWHpFczVaVTdLUXdhdFhR?oc=5",
     "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3b5d90d3ba4d9751f406b25041956a5bf16759c468bef8a672589ebd14f997e0",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "25351151d3187158a393751e1845bb088ad811c302077713b53df2383b25803a",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -101,23 +105,21 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom reduz Selic, mas vê cenário mais desafiador para inflação - Safra",
-    "resumo": "Copom reduz Selic, mas vê cenário mais desafiador para inflação Safra",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tcldJWmwtX2JNS1VaUnE4OG9FLW1VLTdSM0F6SmlQYzI4amVEbERhMWp1NU9tN0lSOS0yZGQtc1JWQ010NkptcGJkc0NReXU3c3cwSEtURnMzZlRXazVmZ3hrVGV2eXJCNjBRc0hpUE5fU3loeWFsaUVEQQ?oc=5",
-    "fonte": "Safra",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "df4d5bce1a32c53b854d8a8a5c7ff9dfcc4e3d1ec330c8f63f92f8043ae311b9",
+    "titulo": "Copom Corta Juros, Mas Ata Deixa Claro: Ciclo de Alívio Está Longe de Ser Garantido - Forbes Brasil",
+    "resumo": "Copom Corta Juros, Mas Ata Deixa Claro: Ciclo de Alívio Está Longe de Ser Garantido Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0l1NEVZQVhBVnM1X1RPZUVKcl9UT2FLejVjaUxXMGd4M2pqSV9IUlU0ZlR0NXE5MlZHNWNqdmQ2Y0pIeXFyVTBqVkVzR3RiNU1zUFRsOE5tZHlPME8zcUhoWHFGVld5eXNILUI0Si1zM0dpSDZtSVoyTkhVQm1WT1hYRWlZYTFXSDJvSV9YRjhCaEdGekM3ajgxREVCRnI5UThjS25xdENPX3FZeTFaVzkyd29nRjJrTTluLU9wWUhrRUE?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "236df89a0fc3f1a4363cd00359e578f1626775aea7639d2f7928f60ad085b8eb",
     "ativos": [
       "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
