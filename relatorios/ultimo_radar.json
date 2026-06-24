@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Mercado Esperava Selic em 14% no Fim de 2026 em Questionário Usado Como Referência Pelo Copom - Forbes Brasil",
-    "resumo": "Mercado Esperava Selic em 14% no Fim de 2026 em Questionário Usado Como Referência Pelo Copom Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORnZrM0NFdVYzVUlheGtveVlQbmxQWWdXcEJQZXVaYWV5WlctSGF2Tmp6OHRSUEwyMmI2Ui1obEZ3OVo0ajcxbnRiTEh5azJQbnVSN0d5RW5uelZQX0xkRDA4c2FXblh0WGYwVGVYNFpBZ0dHMDE2cC1YNURVa1piUDJPei1pZEhiNzVKNHhjeV9Bd3JMcUxsakF1STYySkEzNVl6SFJicVA0YndOV1I5eDRaVlNveGRzUXV3MGtJRk1xVWRpcGdYdWl5akQ2Sk5EYWc?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "09d864a0a3c3f9ce3b29835081101d7b89914dcc7c3364892f1a223f4fe66828",
+    "titulo": "Ata do Copom não dissipa dúvidas sobre futuro da Selic - Gazeta do Povo",
+    "resumo": "Ata do Copom não dissipa dúvidas sobre futuro da Selic Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUlGaUJ5MEVYaEJtQTItSUJhNmk2eEJmdUY5T2hEaUFZZzlHNE9uVTB0RWhzT3NzQm5jUElnNmpjSnZoN2NkRFo0YlJYUVo0SXM2dXdGaFhicHppeUFEQzhRQnJDOU5sQmZJZUpYZVl4TGxDNC1HNzN0Y0JQZG1MUjJCRVc?oc=5",
+    "fonte": "Gazeta do Povo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b7a56d2efaeeab35d60d30792f02037fb24fb476a28740de1e14ba1d32c38762",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,68 +26,18 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "O que esperar da Selic a partir de agora? Veja cenários após corte - Seu Dinheiro",
-    "resumo": "O que esperar da Selic a partir de agora? Veja cenários após corte Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTDhORko2WmZSbXhoQjYtWWZ2akhhcTRWaEI4eUF5VkstSGdPYzZYVmdqV28tMU1xQXltdHdGSDRScEpCR1c0NnJoT2xOaFk2X2RNVzlqRzd6UVJpU1BoYXVKOUUyQzc2ZjBrR2trUXU1RFdsNGV5ZHJJWTkwTmtHRFBEZGdvX0pqUlVTbzBzb2ZDRVVNSl9OTkpnQkltSlc2c3JnMDlBTHNYQ2ZCTkNRWElIQkxlREdSa0ZWakp1cXBMSm9TQkxDZjBGSGpWVHJUUjRpVERXdGk?oc=5",
+    "titulo": "Banco Central pressionado: juros, inflação e o gatilho que pode levar o dólar de volta aos R$ 6 - Seu Dinheiro",
+    "resumo": "Banco Central pressionado: juros, inflação e o gatilho que pode levar o dólar de volta aos R$ 6 Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTdfT0g4RFR2VTRuV2MyT3l6V2l2RkRkdHpOMXV6Q1hsSTEyLWcxV1FYMElzbXItbUxCSTRiZzV1UnN0YS1ack1EYUtXOGdJWHhsVGd4QldvbXhMYXV5anlTVTAxYjBESUdHMnpYbUlhYnVSRjRlU3pqNlVpR0JEWi1aeTZSMmR6Wk5UUHhvR2piRlIwOExVczBzajNDQmRvTjZiampHUXk2T01pWkRybkNSNm1pLU5JY3pMd3JTYklWVlZJV2xKLWpyb0lER1dNSHI3ck05QQ?oc=5",
     "fonte": "Seu Dinheiro",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "fb930c5fe3672dcda2b66d3e557980506b5972d6deafe5974bc3d254edd875bc",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "6b4b0d58aab909b72cf524c9aecb3961704b4ef5d989d75c754fcf45c206fd81",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa hoje cai pressionado por Petrobras e tombo do petróleo; dólar sobe a R$ 5,20 - Estadão",
-    "resumo": "Ibovespa hoje cai pressionado por Petrobras e tombo do petróleo; dólar sobe a R$ 5,20 Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2xqX0tMVG82SGE3ak1SYm9XRF9CZGNfVWlHSmM0dzNsT1JjYmI5NjRaQ19NQ1JRbFZYamYyZVBfbjRCRkhTMFhnNzlCdktYQ0pzSzN1MllJOE9Qb2w0Zm1RM3hTeHY4NzEyb3BRdzVrbk9IUkpHY0VKa1ZzRmxKQk8zdEluc2lKUmtYUmRkelRSV1dyV3d6YUdDcTYydTBneW9yZ0RycnJVMkZsQXZTb0hZb2FIUEFmU0ViWDBaY3pTbzlZc25sZjViY1ZGN2ZlUGfSAdcBQVVfeXFMT0NHX0NKdmN6Y0ZpbmtKaHMtV0x5bFNHcVJaZnhwZkw4N1d6azNqZFFiTXRrVmFZaDZnQkhZWEw3bGdSVkJ2OGJZTnBOenZCTk5Pc1dfODlnb24waHg0SEFTRzE3N1hDVkxfeXp6X2VQWVVvS2tXOHlJQXU5ZGprU0d2LW81ajRFTFJST0tNdHNnc1JNYTB5dkZJRUhpZHk2OUNnVVduaHk0azZqYW1OWTFTYXFhWTg2VXFCbU5tNzVlU1Bjck1uQ2d5cGZkTTB5MFZJN213eWc?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4ccc47f4c31a3cd5e10b2f98d44693178e4c09ec674138f9b707f2fbef5694d7",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "PEC 65 transforma Banco Central em balcão de papeis podres de bancos privados - Condsef",
-    "resumo": "PEC 65 transforma Banco Central em balcão de papeis podres de bancos privados Condsef",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0x4SEhORmU1V3NYLV8ybVAwZGt5ckJBeWtBZ3lZODE3dEtLNEJsVXRUV3FmUVd1MUtyYTZUWkRYVFRKY09tanlubGFGT2JZZUZlSlFGUVdYSkZPMmdJaU03Zlo1MTdyRXM2dmk5dkxGTHFDT1BzMVRERlZSb2NiaXE5WkhpcE5ORE5rYVNWeFNISUJtWWxSRl9HUEJFTnVqdlNVZUh2aw?oc=5",
-    "fonte": "Condsef",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "56155a7fac31dab19b17fca723ccd54545e451408befeb494a27bbd82b3f6998",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
     "score": 11,
@@ -100,21 +50,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Análise: Banco Central destaca incertezas no cenário fiscal do Brasil - CNN Brasil",
-    "resumo": "Análise: Banco Central destaca incertezas no cenário fiscal do Brasil CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFZLVWJleEhGakNFZkY4NWFEYWtoSklodGtyUC1KQU1zMDVNWjlyVE1DUWg0RUhNZ1d0WTJjTnh2c1I0N0JvR1Y0TWVGdW93YnNIS1N6dHJZYVNiVG9hYjc5NThWbTNOZE44UjVHeUgxY3N0cUtneHZuYjJvSVMwSjMtRVVoYXlMOHh5ajVaNUpfbkVHOEpKRHNlWTNHRGRrblRwN0pLOU9IcDA?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Banco Central monitora falta de troco e estuda máquinas de moedas para o varejo - DComercio",
+    "resumo": "Banco Central monitora falta de troco e estuda máquinas de moedas para o varejo DComercio",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclprbFlWcWx6VEhpenpRT1lrRk9GYUhjdWRJckdaUThYWHZ2MEcwVnpVSXNrNXIxVWg2TFYwQXYyQlpyc0wwcFVocnVmRHlIX0pIaXZnRVExaW5xbm5JbHNPWWVxVUZ4NXNIOVV4V1lZbFRiTVY4RVJRM3Zqdl9UclBqdXNtcUtmRzFhQlFoS2JURGJJOGVITDBSelRaUVFPRTlDcEU4RjVjMUtwdl94Q094b3JDTDk1?oc=5",
+    "fonte": "DComercio",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1984e9951debf41f5f653915918a2e8dab1417785417ce5f8cf85eea3441c3cf",
+    "chave": "b67da8bc20cac40515992341fdb2346c1cf68c4c8e68f7082ff71fa6804beacf",
     "ativos": [
-      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
