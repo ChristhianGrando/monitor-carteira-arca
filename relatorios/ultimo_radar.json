@@ -1,20 +1,43 @@
 [
   {
-    "titulo": "Ibovespa sobe apesar de a ata do Copom deixar dúvidas; dólar avança a R$ 5,19 - Bloomberg Línea Brasil",
-    "resumo": "Ibovespa sobe apesar de a ata do Copom deixar dúvidas; dólar avança a R$ 5,19 Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGsyUHB2NXJSUm90enlpUXVGaFI4bUVBMV8zT3F2WHU4SC1GZjhJQ25fWU5jelFHclprZ1c3NWROaUZxbW1uWS04RXpxUTU4NXN0X3Z3czhIZVM0WVozSG95c2tXMXNESmI4RENwOWhfZU13RHJNNktyeE9PRktnUDRac280UkRGbkNiZ3VOaFZWc3pmZjdHZVZ0U01ycnF6WDE4QUdFQnRfLV9JcHpONUpxQ1pBd9IBygFBVV95cUxONlZKM2pkVDZVTVN2czBXTEJydzJERFV3ejZXeVB4R3RrWnN2bWJVQ3V5WnU1YjRBV0gxY2hZOGctcHVQWVc2WG8xMjl2QkFtdXd2cW5qOGRtdUVhbUpXXzYzZFlCNWhZQ3U1bk15UkVkM2JaOTliWG5kVTBnUlF4SHpWQkwtWWI1LWprb3hqaHpIc1lJbGdONjVfX2VvSlhROEE5RlliWjNaUmlRQjdENGh3b3Ztb1JleDJQUE1sVmdRaXJhY0xyN0R3?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "bfc64383905141778a5c2b1d837644ffbcd92d135af0d02028a9187b2d66324d",
+    "titulo": "Digimais corre risco de ser liquidado pelo Banco Central - CNN Brasil",
+    "resumo": "Digimais corre risco de ser liquidado pelo Banco Central CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkwwMG5pZG1IOHA3UE5sMFpoZjFZT2hPZWczcXZmNDEyQy1XVThONkFhNTIybUYxRWk4RDZDVDVSbW9HNjQ0OGVXZEpnMzBxSUMtZHAySDViZ0R2bUVPNTlwTHdjbnhzdVVnQmtYVlg2SUZTSnVUbldWRmJubGljRXJrbTNMSTI4bkJnMjFhNjFzMXB3dzhFT3NUQnlmLUt3aWliMzdMWm45VGtkREQ3WE5KWQ?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7bda23cb085ff4d488e115465c9259448c62a0caf05ad343834f473dcf475ad0",
     "ativos": [
-      "IBOB11",
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
       "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Conflito no Oriente Médio terá impacto de 1 ponto percentual no IPCA de 2026, dizem instituições no Questionário Pré-Copom - Valor Econômico",
+    "resumo": "Conflito no Oriente Médio terá impacto de 1 ponto percentual no IPCA de 2026, dizem instituições no Questionário Pré-Copom Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZWw0SElnSVRob04tbkxWMFlQZDNlVlNwalllM0RVSU8wNUIwMTljYndybXMzQlV4ajJNSzhkR0l4ZmxRWXE5RUY2VWFmTThlNElEZVVxZDRNcy1pWE1jQkxvOXRjX2pHaGxSdWpOWm1mdkJnMGR2MEkyMnRoT0FYbk4zVDVkRFctZy1yYldMdXp5M0dsektsMzhpMFc2eHBoN1VtbHpkWldHWG9ISGtPSXF5cUt5Nk15OEhyNGVKUjlvTWl3cmlLZW5HUll3UVctVHo5X29UV3lPakFhTHFkMGxpbGNTN1JCeGpqYXZudV96WHJLWm9oSldWb3U5VERfRVBZYW9JZUtUZ1XSAZoCQVVfeXFMUHlMangtU3R0aENkRkxKUjFUTU1HVkxYX1ZnWVZOVkp6akNqVE5zNklFRnNvNF9FQndlOVlGRDdSd1hsQ210Y2hCMWdDcUVTRUQ2X3ZjLXFsMVRwYUtzbGpqWHFLcnMwbktwVWVzSkpCdnYyc2syOFVQVWxqcFRzTzVaX3ZjcHRNLUZrSEhXd0VNUXk3N252NVpCZnowdElNcXMzSE9OMm5oVTFjMldveXVtYmZvdWVYMjl2N1hOUnlRdjBhNDhyZTNhV3o4UDAxeFZOOUdSeGpNeVNkSV9yNUdSbWhqYko1ck84UU90ekhqUGVNYldVZ2NjV1VzNEIxVDltZVBHcmNFckZ3QkVJNXJwczNxMWV3eDN3?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "80696e85485ec8ad257b3324568dcbfa955f552247a43ea813b1c36903ff9b7c",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
     "score": 12,
     "motivos": [
@@ -26,21 +49,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ata do Copom muda leitura sobre juros? Ouça a análise econômica do dia - Canal Rural",
-    "resumo": "Ata do Copom muda leitura sobre juros? Ouça a análise econômica do dia Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHloMzVEbVdHaW1YNEktOTJoYUdfQWtucVFxM3lhRDMxRE45M2hfQ3VYbTZudUhKR2tjY3JmV2lKcGE0T2w2dEVxTUo3dHpEaVlVcjJqdlpLX200M3J0N29RTVZtd0oxWVdNUzFTMnFqUEhNTnhXcGNjRktrekh5UFRQT2FBYTZFTnIxQTI2U3dvR25lWmRSaDdULWd2MTdGazloeXZidm9iMGZPM0E?oc=5",
-    "fonte": "Canal Rural",
+    "titulo": "Abertura | Baixa do petróleo pode pressionar Bolsa, à espera do IPCA-15 amanhã - InvesTalk",
+    "resumo": "Abertura | Baixa do petróleo pode pressionar Bolsa, à espera do IPCA-15 amanhã InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MVG4yUWJLUktFOFlIcE5ibE4yN0tIWTZYT2J5Ny1VcVg3Y18wOUJTTFp5UVctZWN5QjFpQkpkTjIyMzVGSHoyR2ZWeDBLNFNCdTlsZmlCSnlINnBHUkhwYkV0ODJjZGs4ZDE0WTlJYUFEc3FhNThZ?oc=5",
+    "fonte": "InvesTalk",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3498693a77736eba53bc257f5c8c1d6c6ff21040898f13f3d80659843a551824",
+    "chave": "c7c74ff7db81ce1efdf62eed9ef495ac2acb2ace5eece1d812597239879374ea",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -50,25 +75,53 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central dá mais um passo na integração entre Pix e open finance - Agência Brasil",
-    "resumo": "Banco Central dá mais um passo na integração entre Pix e open finance Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGNrSWY1YU02MTBtTDFFbXdXbFB0Z0I1elNtb0NaanhGbDFoX21QQVcxQVpqQ0Z5M2JaSmcyV1ozc28tbnFpbUZrNnFFQjZ4OXpYVHhEZFBFRU9QVDJYdklyZGR2Q2pYYTlrM25yOWNIQktHZWctSnVSdGFiWGlYOFBFY3VSVmQzU1hBNVd2c0lRUFVGZGR3d05FajhXSUdjNHBHaEprakJ3N1c5ejBFYzVmR3BHWTcwSmljV2szbFJZdEpHbFRteGR1eW9GSmVabnVHcHM1VExuOF9FTTVBdw?oc=5",
-    "fonte": "Agência Brasil",
+    "titulo": "Mercado esperava Selic em 14% no fim de 2026 em questionário de referência do Copom - InfoMoney",
+    "resumo": "Mercado esperava Selic em 14% no fim de 2026 em questionário de referência do Copom InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGxZYkdzb0R0NFo0a3JBcWRpRy1kSkNWQWhmUklmTXlXcFVRZ2pxejlSOUdTLW1NdkNTNDhINGtHUWMzQWFZREhmOFlyel9jcTg3dFVDLXg3YjNQeklTTzZ0TGp4VDFzRVZfdW1XZ0tlOWF1NnpBLWZTNVlMUXFxUmxYVEtONWpTTUQ2S0RhRmVUb0ZfZk15UUdnMnlOUF9Vc0NKOWFSYzRSeHRxMjRwV1l4SHBvNmlHUlJnYjln0gHDAUFVX3lxTFB2S1dwOUFMTjdDQmNYTzF2Vmk5cS00Z212VnhmbTVkd29uakUxd2JCdm55ZzFhRjBPUkN0T2lQM1NEVV9SUjBySXhhN3dHLVEyU1V5UjVpZWR5NlNmTHhmc2psRXROaGtWQlpNUVllUXB6WVBWWnQxYlhmblJVdGxzNkowN29oTlRwTlFwTXQtU0h3VDlsdndoQTdNLXMtVmxMQmgwVkxCcWlBMUl6SVdpS2tsNXRHNHhGU0Zxd3YwWlJaTQ?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a792e3793f03ed36809438a95cf7fbf661d3b9da703adb25ebe1e40b8e8a0c31",
+    "chave": "d54aca77f2a05c84998523168ebda4b3c59f360ead926baac5bc72b0113e712b",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje cai pressionado pelo petróleo; dólar sobe a R$ 5,20 - Estadão",
+    "resumo": "Ibovespa hoje cai pressionado pelo petróleo; dólar sobe a R$ 5,20 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2xqX0tMVG82SGE3ak1SYm9XRF9CZGNfVWlHSmM0dzNsT1JjYmI5NjRaQ19NQ1JRbFZYamYyZVBfbjRCRkhTMFhnNzlCdktYQ0pzSzN1MllJOE9Qb2w0Zm1RM3hTeHY4NzEyb3BRdzVrbk9IUkpHY0VKa1ZzRmxKQk8zdEluc2lKUmtYUmRkelRSV1dyV3d6YUdDcTYydTBneW9yZ0RycnJVMkZsQXZTb0hZb2FIUEFmU0ViWDBaY3pTbzlZc25sZjViY1ZGN2ZlUGfSAdcBQVVfeXFMT0NHX0NKdmN6Y0ZpbmtKaHMtV0x5bFNHcVJaZnhwZkw4N1d6azNqZFFiTXRrVmFZaDZnQkhZWEw3bGdSVkJ2OGJZTnBOenZCTk5Pc1dfODlnb24waHg0SEFTRzE3N1hDVkxfeXp6X2VQWVVvS2tXOHlJQXU5ZGprU0d2LW81ajRFTFJST0tNdHNnc1JNYTB5dkZJRUhpZHk2OUNnVVduaHk0azZqYW1OWTFTYXFhWTg2VXFCbU5tNzVlU1Bjck1uQ2d5cGZkTTB5MFZJN213eWc?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "423f8a911ad1521930da81f2f59c263606c97ed6e8c940c5abe155a78b337651",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
