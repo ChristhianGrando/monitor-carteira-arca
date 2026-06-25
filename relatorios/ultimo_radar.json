@@ -1,38 +1,11 @@
 [
   {
-    "titulo": "Juros futuros despencam diante de otimismo sobre cortes da Selic com recuo do petróleo - Valor Econômico",
-    "resumo": "Juros futuros despencam diante de otimismo sobre cortes da Selic com recuo do petróleo Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVjhKaEtYVFMtYzVtb0FJV1haNXp4Q1BLTnZHZ0tUQUFWc1J1V1hSS1lsVGFzU0lNWnEzSzVaLXpGZkQzX0h0aHlyT0lqc2E4eHdFM0ZXZlduTHhmdVZyWHBqOUdTcUpXbWtpZVBQeFJFRmx0eVhIS01jWFNWVGVuZFdaaHdKTGxzeEhDRHNUOUxpbXhFc2tXSFg3SjZsaXFJN2tMM3VPWklnTDV0MGxVYWZ1TUJLSHEwXzlMOHkwYklIQ2pITTFzZFRMZkRLWlhDSkJHcDBEMXNOeGR3N19rLWpsZ2s3UHdmQTRZ0gHrAUFVX3lxTE9WOEpoS1hUUy1jNW1vQUlXWFo1enhDUEtOdkdnS1RBQVZzUnVXWFJLWWxUYXNTSU1acTNLNVotekZmRDNfSHRoeXJPSWpzYTh4d0UzRldmV25MeGZ1VnJYcGo5R1NxSldta2llUFB4UkVGbHR5WEhLTWNYU1ZUZW5kV1pod0pMbHN4SENEc1Q5TGlteEVza1dIWDdKNmxpcUk3a0wzdU9aSWdMNXQwbFVhZnVNQktIcTBfOUw4eTBiSUhDakhNMXNkVExmREtaWENKQkdwMEQxc054ZHc3X2stamxnazdQd2ZBNFk?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1f00cd0b1868222f89222c53f2cf1ad9cc3a702fc114a586610234738cecf3b7",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Extrato digital de cliente do Selic agregou informações do Tesouro Direto - Monitor Mercantil",
-    "resumo": "Extrato digital de cliente do Selic agregou informações do Tesouro Direto Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3BvRXAxWWtSMjhxWFI0ZklQOWpVaWdqT3RrMDNUZ0R4TzMzOXN5TElxV0E5djhQVl9pc3VQbVZSNzN5Q0dMRWd0c2s0RGYtN2dTOFRuWTVhVHBpbFlXbENUT0RxZnFfaGVCQ0plWGNSamhLVHlqUFhGUFM1NFVGdkFzdlJVX1J5TnBaWjNybEVYTG9Bc0xhcllaM3dCbzgtZWtHcTVmTWFfZw?oc=5",
-    "fonte": "Monitor Mercantil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "faa3b4a9a16d8975709957dcea98fc93608fdc3ff9bb10dd06c1f99010f8c8ad",
+    "titulo": "ALZC11 registra carrego próximo de IPCA +12% após ajustes na carteira - Fiis",
+    "resumo": "ALZC11 registra carrego próximo de IPCA +12% após ajustes na carteira Fiis",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmFDaU1qamRUNDlTaXpjbHlNblE2M1RiZm9FRXp5UHNTQmNTaHM5NFIyanlXY09WRFhJaUg0RTcydmZFNFNhVmhhWFMtbkRyaDVnQlA2RzZpY0ZSMDlKX0hrRVp2SG1zeEpkTklFQzVZakhQLVpiak1QcTFQNDd3MkVKSWx0RDJ5aU1PX21wTVp4Z3lkLWtMSWpCYw?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "e4294c2283cee4498667501d65e3cc165519baaba971fde1efb84b246861e528",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -53,74 +26,25 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa hoje cai com perdas acima de 2% das ações da Petrobras; dólar sobe a R$ 5,20 - Estadão",
-    "resumo": "Ibovespa hoje cai com perdas acima de 2% das ações da Petrobras; dólar sobe a R$ 5,20 Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2xqX0tMVG82SGE3ak1SYm9XRF9CZGNfVWlHSmM0dzNsT1JjYmI5NjRaQ19NQ1JRbFZYamYyZVBfbjRCRkhTMFhnNzlCdktYQ0pzSzN1MllJOE9Qb2w0Zm1RM3hTeHY4NzEyb3BRdzVrbk9IUkpHY0VKa1ZzRmxKQk8zdEluc2lKUmtYUmRkelRSV1dyV3d6YUdDcTYydTBneW9yZ0RycnJVMkZsQXZTb0hZb2FIUEFmU0ViWDBaY3pTbzlZc25sZjViY1ZGN2ZlUGfSAdcBQVVfeXFMT0NHX0NKdmN6Y0ZpbmtKaHMtV0x5bFNHcVJaZnhwZkw4N1d6azNqZFFiTXRrVmFZaDZnQkhZWEw3bGdSVkJ2OGJZTnBOenZCTk5Pc1dfODlnb24waHg0SEFTRzE3N1hDVkxfeXp6X2VQWVVvS2tXOHlJQXU5ZGprU0d2LW81ajRFTFJST0tNdHNnc1JNYTB5dkZJRUhpZHk2OUNnVVduaHk0azZqYW1OWTFTYXFhWTg2VXFCbU5tNzVlU1Bjck1uQ2d5cGZkTTB5MFZJN213eWc?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "86c433e166c628dd949a16be4206c001bbdfa4d3229e08c1b2e0354fdaa9961c",
+    "titulo": "A misteriosa projeção do Banco Central - 23/06/2026 - Opinião - Folha de S.Paulo",
+    "resumo": "A misteriosa projeção do Banco Central - 23/06/2026 - Opinião Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUU5OSW9Pc25zOE5icWVqU25MS09yQnltdmVRbnNUeFFCS01MU1UyeEFxdnktMkNvSU9tQUstbHd6MHdaZ2VtSWRfYTR6MElxOGU0TkFGSFlyUFN1ZERZb0pSTFFnR1dLMUg1UGlYa3Q5UFJySzZnZ0UzNU4xNng3TVNMMGgxSjVDS0Q1U1RCR1pUemcw?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "9f9d8483ff58b13e0a2d7da58d72d073a16cd5093347fd05499c50b447e5a09a",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha em queda de 0,44% e dólar comercial sobe a R$ 5,2020 - Canal Rural",
-    "resumo": "Ibovespa fecha em queda de 0,44% e dólar comercial sobe a R$ 5,2020 Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3hwMHVqUThCQ2p2OUpTbW5QVDVNVXE0c1oyYlNHQ0hBMS13MXlvRGxxLVR5T0pVYkJxQXV0VGRxcC10ZF9zQ3hPSkxyM0k5WDBqTGNTX2VBVDhiU0d3dF94ajhXOVZvdVE0c1dLTHRidnFTR2p0NE56TF9GeEFIZm9jRTBCTER1bW16VHMzSDRnd0pBR3NhQkU1WGNjckYycUVJS1B3?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "af63f41ef02da89ac189611b9f74757c41fa8a03ba0eff7e2c64e552622062b3",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos - Nord Investimentos",
-    "resumo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos Nord Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96WS1QWWVsTmhXSFRUSzJ1LWk3M2pLb2dtVFh6M3dlSUdBUGttTWNMMzRKdEUtYW5kS3hpVjRwOXFDd2hpVEFfVXZGeXViMDBVSTRfS1lpSFdRZlh1S0x0cUg2ONIBaEFVX3lxTE93cm40V0xjLTRZS0dhWmM1UnpIVDNVQ2drVHpzMWN3MXJtVVJNdGFIUGo1N0dWTEl1ZWFFSUIzeENOMU5BUGRFQWVQQWQ3bzJlZm9EUS1PV05DcUhVanh3ckR1clh3TzQw?oc=5",
-    "fonte": "Nord Investimentos",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "9eda1d7f4acc9a2df886ed6c8f9b058f22ebfb27d9f981b26a815ee57962481c",
-    "ativos": [
-      "IBOB11",
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
