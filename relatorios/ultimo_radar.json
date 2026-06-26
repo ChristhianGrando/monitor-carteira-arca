@@ -1,53 +1,18 @@
 [
   {
-    "titulo": "Ibovespa B3 avança 0,87%, com IPCA-15 abaixo do esperado; dólar cai a R$ 5,18 - Bora Investir",
-    "resumo": "Ibovespa B3 avança 0,87%, com IPCA-15 abaixo do esperado; dólar cai a R$ 5,18 Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUNERU5SalRIQ0pzWEtoWlotdHF3Y2VEbEFaMUZKV2kyVTItN2gzTFdFazNXc1NuU3dPSlpVTURBeGtZRkt3Q01mQUY1cjNKTUwwOFNZbG9KQUVCeWRteXMwWkNxSnQ4NnZJOXVGekJLMm1LM1lSMHZFVGtkeU45N05jUnZfY3B6VGZZTnVTLXR0b3pQR2w2M0RKU1M3b2k5ZDU2SS1kUDU4X1d2d3F6eFpmRGJsd01aSkpscQ?oc=5",
-    "fonte": "Bora Investir",
+    "titulo": "Prévia da inflação foi de 0,41% em junho - Agência de Notícias - IBGE",
+    "resumo": "Prévia da inflação foi de 0,41% em junho Agência de Notícias - IBGE",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWmlrN2Q0RzhrcEFQRWNqczI0a3N4Vm1rXzZrRzBKX1I3OW1pSkxQT2o2alUyUkNkQ2hVbGZNZWl0dVYwLTAzd0VEUHV2RDRMWFdDdkZyOHZhM2p1X2VGekJOU0NHeVE2ZUhQdThkUTZYdkVSZFQ5N09oUkIzb3dSMjE1STA5TEphOEdPcXphbnpReElvOE45SVBwZ1BKN1N3YmxyOHA1TGdMN3JzT1JDRzJsMUU4cVc3OEtEVl9VS0YzR3VJVzhvMUZRLWIxcW8?oc=5",
+    "fonte": "Agência de Notícias - IBGE",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7aa63ed2ec2da16aede0088c4f46625f0866b1d72bb42d653ebcc8d217528a5e",
+    "chave": "58f19adfa874c1e5bb617f8d10ecb7b91f713754d726c52bd1169812768ed5a9",
     "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa sobe com IPCA-15 abaixo do esperado e dados econômicos dos EUA - trademap.com.br",
-    "resumo": "Ibovespa sobe com IPCA-15 abaixo do esperado e dados econômicos dos EUA trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUJUREpqNUdFZmo3SnJoVFp4eE1VSVdUY0xFRTdTbHhJZTdSTTlIM0h5ek9nS1NHWWpTV3ZhcFFZeGlXc0NHQnlVbThLTUpQVWYxSS14SDZGNVZlRTdZWENMeFNNbG0yNGp3cDFEV3lOelkxVWlrdDh2RFdmZ09BV2dDa2toQlE2Wjg3OEROQV9NZ2MxYk5IWEhWaWNrSEJtOUV1bnBR?oc=5",
-    "fonte": "trademap.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "d0d0720225b9b40a0985457a459c6cf162401bc8370212e9204dd1954fb227ac",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 13,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -57,23 +22,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Juros futuros recuam com perspectiva de cortes da Selic após IPCA-15 - Valor Econômico",
-    "resumo": "Juros futuros recuam com perspectiva de cortes da Selic após IPCA-15 Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVpJV0VVbnUtZ0hLRTlZU25KT2VKU3hNaDZjWmJIekx6MlVhZXpYVmp6MFBQNkFOV3V4MW9DZi1JRmJDT0luQjJPREZnR1FQRERmQ044d3F5NHk3LWZDQmRyS0otNUhiZl94aUpQcWNJX1NFVTBFMFBqV01uVnh4bnZhWFE0M0Z2RHg4QTZLdWhVUnI0OUlHaHExbjJwZWtsWlRuYnJaRmZhdFZBUWx2a0xMdTN4RC03NXM3Wm5DdmN1cmJV0gHTAUFVX3lxTE9OZm1MZkdHZGYtcVdhRlIwTFRpUmlKMURGcUpHamVMVHVIcU1RdlJsdUdkMTBFWWt4bFlWRWd4d05uV1c5Nkx0Rno5MVBibm5yNVNGX2hLeG5ybk5DcnMzVzQ0dWlZTFg4MERxSHkxLTlZVHBJR3lRUzVGd2NDNTkwM3V2QldrZlBhd3lYYmhSeVdJUjdxNGNOd0gzcElybzNzNkg4eVl3QnZDdWViR2M4SW9XNkJGbXNibjg5Z0l6alNRY1Y3R3NzelRnc3dDVFNnbzQ?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Prévia da inflação perde força pelo 2º mês e fecha junho em 0,41% - Sinpro-DF",
+    "resumo": "Prévia da inflação perde força pelo 2º mês e fecha junho em 0,41% Sinpro-DF",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3JKMnBvQUxUSHVlc1lPUW9HcFg1bS1BblRmY3h0TVJPOF8ySUFpQk5Jdlhob0xOMDlFY3J1ZFY5bUFjWC15Yk53blUwRDhiQU8tbFhiUGJCOFBOVkRhZWJnWElBT19JSUJtRVNKeFZqbHpQTG1ac0xBSEh1eUtDOUNZTVFHam9kM0Q1THZHZ0dhMktZci04?oc=5",
+    "fonte": "Sinpro-DF",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7f8c37cbda13443f5d2fba513f81c8a946d45b6d8cca835aadc5d98447ee4b4b",
+    "chave": "6ab103677260d5fd456d6966e52bc7edee1735dfc4ec6368ea5c6a18028a4f12",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -83,23 +44,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic - Folha de S.Paulo",
-    "resumo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeW50SjRwNm5oM2djRTByRXJLVVhYQWJrckpUWHhfS1RkV0NoalBrVXRfa2FwcVd6bDFmYklhenRhenk0eE52RkYwUTBDanhsclJTeUthWFVtRTU5czlUNjVUb2drc2Zfc1UydktzM2lvU1ozamRibmJWQ01PNVk0VzZmeEE3alVDY3hneWloZUxSMnJpejBib2xCU2NzZXlJaGo1V1FVNi1KVWNMSE05TmhxTWJ3QlZPanN0cVV2X3BmY2FsQ0xiekViaE82eVFj0gHWAUFVX3lxTE5yY1RHQ0FfUmZxbWVrd1BSamJuY1VXeld3TGxZd3JoZzY1WWc0dE1FREtDUkZTc19ZSl8yMFBHS2k2emJiY1ZmUThPVGVoVTBXZFViTzU5ekVmN2FxV2pfbkt0ZGZyQW80Y3JVQVNuVDA5X0lKWWRDYnViX2dua2plX2RUSVBNSXZQU0JKS1dMY2hweWw2TXUxbC0tUkttWlNVYmJpM2VpQmN5VmdsZTg2bTUwaDA5RnprNFdzd0tRcU1hc1dkUGlQU1RJYzdubE9LRmRtaXc?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Banco Central prevê crescimento de 2% para o PIB em 2026 - Agência Brasil",
+    "resumo": "Banco Central prevê crescimento de 2% para o PIB em 2026 Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUV5T2Y0QlU3OUFRWEdPUEJneFZMRkc1YkdualF2a3FNSTc5Z0pORnBtbUJXeG9qZVp6LVI1cElKSkY5YWlUMmctU0xQREJmRHJLZGMtd2RQMWl4Q1ZFLWdYUGFFeFJNNVZ1R01FckhIMWx3YXc0YWtEUldsY2tNY0w0WTlWelJmV1RpSy0yVmhSS3hwdkhocXZWUVlHeGZkaGFaa0NtSHZsZ2F1dks0cGNOYw?oc=5",
+    "fonte": "Agência Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fbcca568355d262c31eb3956b1e1a598a7fa2014490407831dee54b6f18db06a",
+    "chave": "dce8e104588fe929bb085e3220be98472540ce8b4f0c88fedac967a8e5ece310",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -109,21 +66,41 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central lançará ecossistema de duplicatas escriturais - Safra",
-    "resumo": "Banco Central lançará ecossistema de duplicatas escriturais Safra",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHRQVVlLaldkV2FxN1I2em5oUTQtTzRkN3dBWGhSQ2pIRzZ3Y0ZMdmhfUXZaSUtHVVpsRHZ5bjEtcERnYkVGeWVvU1ZhZVQxT0YwcnNYLTBTQ1oyT2szWUx3TDhRT2NiUF9KN1p6aU9rZ3FrVTlUOXRER2xncWFNTE9QSENibElrMlRjRQ?oc=5",
-    "fonte": "Safra",
+    "titulo": "Banco Central prevê crescimento de 2% para o PIB em 2026 - Monitor Mercantil",
+    "resumo": "Banco Central prevê crescimento de 2% para o PIB em 2026 Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdEJ3M2FXQWJ2V0t4elJuVEEydGhjcFJydkFqSy1KY0R0cWhLOVY0aV9ySC1HZml6bEVpWlVBUW1lcWZQUEw0VTBrRHpzSTVXOU0tTXVqU2x4XzR6SVJiZFZJd0EtZERLVEdNY1VIY043QzFXcTh2bVRVYkVMZV96bUtpLUZRNEhZVDJFM0ozb25Rdw?oc=5",
+    "fonte": "Monitor Mercantil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b2864bfc1b38d5de2745efbbd4ed1e81facd0ad724385ee7e0a1575a8bba115d",
+    "chave": "eb6e3e22ba0983bf7cc8bb9e2597b70c771f9906c15ff75b41fe529f83be481e",
     "ativos": [
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "O Banco Central pode influenciar nas eleições? Galípolo responde - PlatôBR",
+    "resumo": "O Banco Central pode influenciar nas eleições? Galípolo responde PlatôBR",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjMwMUdJX1Zwb2pOUzNnM2V6NzJZeTFmcDdmbUNJUHRySFpMSWd1dU53djE2UkFkSHBwOHFUNEVESUdwSDBiN2Q2YVZlV25pdl9SRmZYQ3kxYWlBTkJodHV3Y1FxWXpQaXg5cFk2WXQwT3dMeUl2akdxQ0FBbUpPbm5zTGZDVTE1UWx2OE4tRQ?oc=5",
+    "fonte": "PlatôBR",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "454cf5aeb0a43958e64013b7ee8add1f4ebff0cd3fee3301ca0fde8995a9ed49",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
