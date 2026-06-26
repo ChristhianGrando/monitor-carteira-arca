@@ -1,49 +1,18 @@
 [
   {
-    "titulo": "RPM e IPCA-15 abrem porta para apostas em novo corte da Selic - Valor Econômico",
-    "resumo": "RPM e IPCA-15 abrem porta para apostas em novo corte da Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnhXUTNURUlZeGc1b0w2WUV1ZWRLNWJTcHIwWGFWSTJhTFJ5dC1vZU9MSlh4WGJnNExnY2h1TUp5NHQ1ZGZENGkzSWRKNDZtbmRxVTduSnFPbFhJYkZnSmxNVmxjQzI0RVBVcjlDTGNpLXp1OWE5UnVZVzc3cy1VUHQ2Wmk4R0RNdTJsbVcxMWVxRUFjc0ZUYXg1enQxeS1aek56RFEzWEFDR29WQ3BXR2daMGRYaGlmWjFLTDFJTdIBzgFBVV95cUxQNG9KN0RyWHl0eVhqN0taSk9uQTBlbG1yQjVpeGZNLVpOUWlGY0lad2I4V2FxSDBOZ0U0bnFjRi00djJGN3VBMURNZWRsNnR2Yl9KajEzVVp1YnJGN2lpZlVjQlFBWGdKMF9ScU54ME1iR214M1pLalh0dk1kYUtFVTd2SXAxNUN2Q25RcnNVa3dBZ0VBcWNabncxWk5fVEhURkdTeHlTZ1laZDhnT0FBRlNvSVdRYmtoN3BUTldOWm4tTHAyYlBfd1M0UHlQUQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "14700f9fa431b9c93957289b332290390389b4bbb158433b30fa1cd87dc29e49",
+    "titulo": "Banco Central decreta liquidação extrajudicial da Sefer Investimentos, alvo de operação da PF no caso Master - G1",
+    "resumo": "Banco Central decreta liquidação extrajudicial da Sefer Investimentos, alvo de operação da PF no caso Master G1",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXBNX3Q5R21KSDVxc1ROYXE1RUwwaVRKNVFrdEU0Q3d6TXRiT3AwbHJPQUw1Vk9Yb1JXUlRsa0F6emFZUXUzenNEaW1iczZwY0tPejlleGV1WDV6U3FlUlp3akFLY0dzMVZ3bFRNSy1nTU0tOWFwYTZuMnlDZEVfWHVTcnVmR1VDdDJnbHZyTDNwWWIzRTJuRVluT1NVSm5aSGRTaW50bngtUUE3YlZCMDFSbVBDNXhibUVoeDBvVTJYQdIB0AFBVV95cUxQcFJTUFBORk9VSjZCSjE2aTBVVi1qTHV6djZVWE45b0Q3NFByam8xOS16R0Y2Z1VZOEVCdVdQN01PbS1odVRFUkpjNlFCZ2xObXBiUkpkbXJGTFNtU0ZMc3NKYXE4NlBGVDl3Mmhjd200U1lJamJtRjBmUDBUMXR6Snh1WlljWERXOW9pMjRvM19QbHgybVlxdHFJaGwwU2F6TklCaDNkbmRSMG5iYlNuWkp6WHotRkhHYmJsblZmOE0xMWd2c1dScGRWWGNhcDdB?oc=5",
+    "fonte": "G1",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "fff2ebb592a0d824b598dbf950ee86e206fbacf4cb229f70104027cf3b3cf6cb",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Juros futuros recuam com a perspectiva de novo corte na Selic - Valor Econômico",
-    "resumo": "Juros futuros recuam com a perspectiva de novo corte na Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckdtTzBOX05iN1BCV1VHSnFxRHZ6Mk1SalVEWV9hVk82dXBJajNNVE1kNU04RzVJNEExcUVuVkhUOWt6Sm9pekVTSjNHaFl2cU81eV9jcm9HZmlLWnpxMDhycU51a1pQRHdhVzdKdzhWUGF1VzJ5eFp5VDRRa0RGN3dSZldrcVZweGUxaHh4Q253M0pSMzNoaFY5OW9BZU5yWU9aRU9jTVp1UdIBuAFBVV95cUxOMjdVb3UzZ1RackxQelRUb3U4ckdUbzh3WjhjWmp0UGE3YldELXBpN01QLWk5SFJQOWxJWUp6ajJHcFJUZ0JyWWs0ODhoQ1JyQlltUlVUQ295Um1QYjkwRDBzdmVLZ0R1Y1pjUVdNYl9jODB2QVVweVR0N0Rfd1hLbk5jY2IyQ3NxdHlDLS1lSkgzS0c5NG8xdUhyeXVkd0pEQld6Nzg5Q3dVY2NFYlRyTER1Tm1EQmVr?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "04e527786376b3ee5e9d4809283f0e6c23a7fb15d2778f4e7a7e869c0f8d4e28",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -53,12 +22,56 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central eleva projeção de crescimento para 2026 e bancada do PT destaca ações do governo - PT no Senado",
-    "resumo": "Banco Central eleva projeção de crescimento para 2026 e bancada do PT destaca ações do governo PT no Senado",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcTI0b1NYeE1uaE1VT0VYNjFwVUUxVEt1OVFXcFludktYQ0M1N1RwaTF5UHB5MkJxODZlU0k5aVVxVXNPeTVhVlM1dGRKc0g4MDJORGQwZTdTa2E1QlJ4TEkwS0QwRjJqem5ieFRZZWdFU3g1UHBUZzZSbjlCQ1llSXNuR3lqdTJ1SGZBck5VQ2tvbWZmbnJPRDlUY1ZoUGtFdHQyb2xVbl9kanRfTXlLYWlmbE1JbmEyc0d3dWhB?oc=5",
-    "fonte": "PT no Senado",
+    "titulo": "Banco Central liquida Sefer, distribuidora de títulos envolvida no caso Master - Folha de S.Paulo",
+    "resumo": "Banco Central liquida Sefer, distribuidora de títulos envolvida no caso Master Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3lHdThxcU1QZVhocFU1MEx3d2lnRXhlV2RJZ0pQTWdvc3JObDl6ZTROWURPaEhkaUN3WGFwdGJxcUN2V0NJZ0FHSTdqeFhoaHNOVFBFaFVyLUxDR2F0Z3ZIQ1N5OWF3eEQ0Ni1kbVV4NkQyTGJQNGh5YmVJQ1ZPLUcyVUhmNXRJaDhoVks4Q2tiN0NpUXlybmJ2eGZzOGlaNVBJWmtiMnk3SHRvdjIzRmNGSTlVV0loV09SaVo4SFA1U1RRQVFrZtIBzgFBVV95cUxORFFtVlNnUGZRU3hOY3lubXBvT2ZJSHIxYVp0TGEtRjJrb05ydU1ScHZLN2sxdXN5LTdES3hYc2xFVXlseUt2N1poU0RndUk0TDRlQ2NrT0ppUW4xNGd4aGRVZXFjMjBvT0NNaklWV1NOeUNoNGZjR0RYRUJxbTZYaHJpdW5BTUMyVVVocUZNaEY2TWN0M1l3YzI2eV94MjVqNHlqSm54dkNlUXJleXphRnRmNlhYeWxBRUkzMWthTzByQXV3QUJQRDFlWUtnQQ?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "254b6dac73c2f88084b8d40dd9feeb9444183e9ed429d13dada1a0c121ab1efe",
+    "chave": "9cf985d576fe991217c4b52a04aa5f13d53f630f6fd74689e07bbeb5b7a26ea2",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central decreta liquidação da Sefer Investimentos - VEJA",
+    "resumo": "Banco Central decreta liquidação da Sefer Investimentos VEJA",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEZmYTlQUUJWVS1UeDRfcE4yZDJmUkM3UDAtYUhoZXhEVk1DYXNlQm9GVGFlRzRzcXcxZnYzTy15Vm5mYVpabVpYNXlHZVFja1R3MXYwem93OUpuN3NmUDNXMDA1bDdDUS1ja3IxTzdQdnRwaGdrd1JOVzZpRW81STVtNVRFNTIzQll6cnJqekJzOFhHSlE?oc=5",
+    "fonte": "VEJA",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "6b281e7f09891b81823989d9f49527483e795b50a01603b2c02f205c4fd4f94c",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central liquida a Sefer Investimentos, alvo da PF no caso Banco Master, e congela bens dos controladores - Seu Dinheiro",
+    "resumo": "Banco Central liquida a Sefer Investimentos, alvo da PF no caso Banco Master, e congela bens dos controladores Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcjJmRHVCc0pIaWFYMVJ1RzNXeXlqa21EVmw1N2dZNkhNWkRucEcydUNpam9UTy1oWV8wMnZ0cnZwalc4MWVVcjdZclRvdFRvVXJxX0xVVzA0eXc5aFVxblhTaTU0bXZhY3lQSjVNaEFlWUdGbnlqWHJBcmVLSzNXX3l4Qy05SE5GTjE2TzlKQm91ZThHVmU2bFVLeS00NWk2Yi1JRXNsOWx5Y1ljMzFRaWg5RVlhSDBvalVZRjZFSFZvX0ZWR2JiYjBWSnFsV1IzMUJwajhpT1ZNbnhEMnF3em9KZW03dXE3X045cw?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "66e00276ed836f86f3554dbac3483826cc76c90bc949396a3faebf85a08fcb55",
     "ativos": [
       "CDB 100% CDI"
     ],
