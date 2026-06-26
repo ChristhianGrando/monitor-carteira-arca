@@ -1,36 +1,11 @@
 [
   {
-    "titulo": "Galípolo assume falha na comunicação do Copom, mas diz que papel do BC não é gerar consenso no mercado - G1",
-    "resumo": "Galípolo assume falha na comunicação do Copom, mas diz que papel do BC não é gerar consenso no mercado G1",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVU1wWUtWUGZUMzF1d1BNLVNCd09YZk1xUDZ5bkdJMXMySjN5WGJhUVhqdW45XzByYUFyN1Q5cFZMeGNjS3RadlUzMTBWb3IzNU44Z0xqWHpMb2Jyd0xGYllyTzcxR0VVVndKenNkWWVoSm02aGFXZGE3Q0FPOEgxSUI5TlZIdW5Eb3RaZUNKdVlGbEd2ZlJWa0RWQXBEeXBIeXMwVjZlLVRKS1FnYUFpNVI4aWR1d0lKd3NqNkI5Q1NkN2JNQ3pUV2hfZzY1bFMwRjBuZFRtZk5mcGpTWk0yU25lWUFTTUdvcW50c9IB-wFBVV95cUxPQlBEUXBHMl9Md0JjejBUQUt3cTJMeW56alJvc09sNlQwa05ENWNJQVZVa3pFX0k3UHNPYzRFT1k1YkpZT3A5alFueTlRUXE1OGZFOGxBZ0R5U2oxZ0dnYWdULU5RVmJURy1SUGdXY1NJcVZpc09iaE9haWVCWTJVWXRjWEVkUTF0R0ppQ2N4VFpLbmE0ckVqOUtkMlFfeGRrUUFLMUhsWmZ3X2hrRjBTNGdRQVZrVkx1NDhUX3h4cVRmbzExWTh5V0RmMnVXeVZQbk11WnNhZWQ3a1BhdjNZTk5RdTY5YzZlNFJzWnpzcFRFU2JQcUpsZVhCdw?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4440a050f29cb95e0570b63408f8bd982780e9bc38f9402d001af183b1ab2693",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Juros futuros têm queda firme após IPCA-15 e mercado passa a ver corte da Selic em agosto - Valor Econômico",
-    "resumo": "Juros futuros têm queda firme após IPCA-15 e mercado passa a ver corte da Selic em agosto Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDNjVS1PVU9rVDFLMzJZdjg2MnhMLUdYWGNGUkphV3RISVQ3ZFNaRU1GdUtRbmU0Q3c4SlRCbE10bXJLekE2WlNDbmJzRWVZTEJjNThodWY2WUplZmJEMjdCR0lIYUg1LXRfUkNVNzNHR180eE5FTEtweldFZmFuTmlaeVR0VHZRVUxxRXVNTzdKZndEcU5EakhoVy1SbGtsQVpSWktVVk1Hek1zajRpcHFSRlowRVVLYlHSAcgBQVVfeXFMTmQyRmx1czc3X0tMMVhLNGRVY0xQUmtDTVZIR2N2dGtWOE1SMklCM19CRFE0SWdZdmxMRGJIZExaU0xGT3A0MnQxZ1dvZ1kxMGNReHluZTl2aXRsUWRvNjF0c2RwU0lxMklrNlplTERTTnNmU0lQY1A0MXBPRGJ2ZVRkVHI5TzM3WE1RS0pvRnFQWlpDa3dnaWVNNWJYV2tZYWdEbXlGbnBlZzZKNHgyTXlINjZsdFlKdDFxWUdvZU54T3ZNUGZLTXo?oc=5",
+    "titulo": "RPM e IPCA-15 abrem porta para apostas em novo corte da Selic - Valor Econômico",
+    "resumo": "RPM e IPCA-15 abrem porta para apostas em novo corte da Selic Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnhXUTNURUlZeGc1b0w2WUV1ZWRLNWJTcHIwWGFWSTJhTFJ5dC1vZU9MSlh4WGJnNExnY2h1TUp5NHQ1ZGZENGkzSWRKNDZtbmRxVTduSnFPbFhJYkZnSmxNVmxjQzI0RVBVcjlDTGNpLXp1OWE5UnVZVzc3cy1VUHQ2Wmk4R0RNdTJsbVcxMWVxRUFjc0ZUYXg1enQxeS1aek56RFEzWEFDR29WQ3BXR2daMGRYaGlmWjFLTDFJTdIBzgFBVV95cUxQNG9KN0RyWHl0eVhqN0taSk9uQTBlbG1yQjVpeGZNLVpOUWlGY0lad2I4V2FxSDBOZ0U0bnFjRi00djJGN3VBMURNZWRsNnR2Yl9KajEzVVp1YnJGN2lpZlVjQlFBWGdKMF9ScU54ME1iR214M1pLalh0dk1kYUtFVTd2SXAxNUN2Q25RcnNVa3dBZ0VBcWNabncxWk5fVEhURkdTeHlTZ1laZDhnT0FBRlNvSVdRYmtoN3BUTldOWm4tTHAyYlBfd1M0UHlQUQ?oc=5",
     "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3045b1338e728339e4b4ad78a7ed705903ce961bdc7bf9a3d9004bd2af3a769a",
+    "chave": "14700f9fa431b9c93957289b332290390389b4bbb158433b30fa1cd87dc29e49",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -52,21 +27,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dow Jones hoje fecha em alta com investidores atentos à inflação e ao PIB dos EUA - Estadão",
-    "resumo": "Dow Jones hoje fecha em alta com investidores atentos à inflação e ao PIB dos EUA Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejI0RDVoS1N0Wjh6dTMyZ3JuMjZVUTVBMDhmZ21OWE9kMHBrVlBVMTBIdWpJc1RLLUpLdnlpcnQ2aTFOcUkxdlZka0c3dWJSNjZhUTNfbm1lTTNpdWh2S2c1OE90c1VvaGhwbzd1WFNPQXZ4WWZqQ2QzbWhWOXVVeUZZa09Gc2Y4VlpRZ05yc2dxTlNhQndSNTlmZEY5UjlHa0pHS3JfR2MyalFjMHlYYzhXazhxNkJSS1RKTEFVaU1XMktKSEY2cGN0d2hSQWZuSlA4dXF6YjZPMkxPd2FGSGRZM2h2Zmgx0gHuAUFVX3lxTE5GRXFkZ0lBMDllV2JhNF9GWnlBaVpyY0swV203VHNwckVZQWhtenBqZlljMkVlellRYTk4ZUtVZi00T3o2aWdSdHRUb2p4YzJEb185VXB5T2syZldMZXZtYUtXeGF3c25xalJxNXc1WHlpUUlmTUttZ1lRLTNIZ19tbDUzYlpaclFIN3YwQi00c2YwTk96TGRRdloyVzRyRzZtYVlRdmVOdW5NMHhxV19JSDUwUWFaZzNONUdwTzlwaWxEZlpTYkNIU05RWUt0RUJDUDZGREZTTXVQOXVSSnpLeUl0cWRsRWZUd0YzalE?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "3cb7652253ff4d8ccfea149399387c457a7f5749d642125d33fb718a0e2c9de4",
+    "titulo": "Juros futuros recuam com a perspectiva de novo corte na Selic - Valor Econômico",
+    "resumo": "Juros futuros recuam com a perspectiva de novo corte na Selic Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckdtTzBOX05iN1BCV1VHSnFxRHZ6Mk1SalVEWV9hVk82dXBJajNNVE1kNU04RzVJNEExcUVuVkhUOWt6Sm9pekVTSjNHaFl2cU81eV9jcm9HZmlLWnpxMDhycU51a1pQRHdhVzdKdzhWUGF1VzJ5eFp5VDRRa0RGN3dSZldrcVZweGUxaHh4Q253M0pSMzNoaFY5OW9BZU5yWU9aRU9jTVp1UdIBuAFBVV95cUxOMjdVb3UzZ1RackxQelRUb3U4ckdUbzh3WjhjWmp0UGE3YldELXBpN01QLWk5SFJQOWxJWUp6ajJHcFJUZ0JyWWs0ODhoQ1JyQlltUlVUQ295Um1QYjkwRDBzdmVLZ0R1Y1pjUVdNYl9jODB2QVVweVR0N0Rfd1hLbk5jY2IyQ3NxdHlDLS1lSkgzS0c5NG8xdUhyeXVkd0pEQld6Nzg5Q3dVY2NFYlRyTER1Tm1EQmVr?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "04e527786376b3ee5e9d4809283f0e6c23a7fb15d2778f4e7a7e869c0f8d4e28",
     "ativos": [
-      "WRLD11",
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -76,34 +53,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Bolsas de NY ganham força, mas tecnologia pesa com Fed no radar; petróleo cai - Valor Econômico",
-    "resumo": "Bolsas de NY ganham força, mas tecnologia pesa com Fed no radar; petróleo cai Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGpFdGdpeE5Db01Id2dsVkZ2cHdmNU8ydzNaM3ZwenNWVlpWY01nWWk2MGtrVi1HUVV3OEhIa3Z5YmpER3ZfUmQ0NUJJcWxqZTVrSjJnUEdERmxmblU0blFBazhsdjY3bzRnNS02ODl6VFByTk9GZU9jS0JGWURBRHNBNzRLRlJ2NVk3d05uS21Ba0V5X0VMQzZlTERQSWgxWjl2QW5CNXgxVmRia3dXVUM2NWN4d00zMTJIVTl5S1M4NzNldGFn0gHWAUFVX3lxTFBKWW9jSDJEUWFsSF9SOEFBZlpuVzFBbVRZSU5UMlpmdno4Vk9Wc084RnpZR1dybV9SRnRmWjZRdVNpbGpid3BvdC1IQlZiT244WUpwN2hJQ3JUb3hNbFdoWnZlSUhNMXVDdzRIRVRoNG5GQVVySjk3V2ZxeTlLRWRIaDJEWFgwX3lLblJzWXZkR1NTWFMwVFFacE1LRUFCRUJoVUFxWG9sWnphT05ndFMtT0c3NWdPVVZBMDZrUkJnN0NmSUN0Nk4zQzFfckttVnFwbkc2aEE?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "589ef122d3b13e51a5e991b0b33cbf81c5b97e9db5d3173a6912092d6543bd89",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco central do México mantém taxa de juros inalterada em 6,50% ao ano - Valor Econômico",
-    "resumo": "Banco central do México mantém taxa de juros inalterada em 6,50% ao ano Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMVRuajh6YkphTjdqRjFBbHcwUE4tZGRBTGFxSFdKVTJjZWJNRzZ2d1ZjcDNXWVByMGlMQ0EyLUpxNkg5bEVDUElJSnlGVjA3SnZYcTJBUXJaRWFiQ0NvTi1rSmxWRmdkejhsdWk3elVKQVJ1dkx2dkQxUGFZd3VwbXVZU1RSNW1nZzdFSC1IeFQ1UVRhWHlRcDhURXFiSGpqNFZpc3NKS0s2UkRxeV8tUjN1eEhKV1pOcExwQk5DcTlUSmNlRWpSSzR4a2FLQVJPODJvWUZPc0xqNHB00gHrAUFVX3lxTE5kdDJmWS1ROHZhQThwNVdXQ2Z3Wm1vNW9nVzBBZHdYVnM1Vlgtb1Q4REFQS3pvNVQ2VUlLU0JGSVkyQlJaeGxYcG5VXy1ITTgzMmZLUjBJTGp6Z0Z3dGtKc0Iyc1V0RV9Ha2NkWm9KMTVFNGZrOEp1Y3R6Y1p2aFBpUkd4TTd3WnNHNml5UUlINU1OUWZvaXRzVDBSQ0JXXzNxZGhoTUdzOWJOdW5jSkN0YjZQX0d1T2tPRXdaYlppWUg0cjBBbTgtOFR5ZXNpSjM4d3A2RW1ZQnhSVWV2WGltdVZTWWhzeU5ZR3M?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Banco Central eleva projeção de crescimento para 2026 e bancada do PT destaca ações do governo - PT no Senado",
+    "resumo": "Banco Central eleva projeção de crescimento para 2026 e bancada do PT destaca ações do governo PT no Senado",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcTI0b1NYeE1uaE1VT0VYNjFwVUUxVEt1OVFXcFludktYQ0M1N1RwaTF5UHB5MkJxODZlU0k5aVVxVXNPeTVhVlM1dGRKc0g4MDJORGQwZTdTa2E1QlJ4TEkwS0QwRjJqem5ieFRZZWdFU3g1UHBUZzZSbjlCQ1llSXNuR3lqdTJ1SGZBck5VQ2tvbWZmbnJPRDlUY1ZoUGtFdHQyb2xVbl9kanRfTXlLYWlmbE1JbmEyc0d3dWhB?oc=5",
+    "fonte": "PT no Senado",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6f41803e348eadcf334cceea7824b92470b49ee9446dec822a897c79fa3ac7bb",
+    "chave": "254b6dac73c2f88084b8d40dd9feeb9444183e9ed429d13dada1a0c121ab1efe",
     "ativos": [
       "CDB 100% CDI"
     ],
