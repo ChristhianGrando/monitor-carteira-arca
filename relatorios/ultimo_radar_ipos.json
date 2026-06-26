@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "titulo": "ClearScore contrata o JPMorgan como passo rumo a uma possível oferta pública inicial de ações de £ 2 bilhões - Sky News - TradingView",
+    "resumo": "ClearScore contrata o JPMorgan como passo rumo a uma possível oferta pública inicial de ações de £ 2 bilhões - Sky News TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ma1lwZkN3Z3V1bXIycVNhRGxDR0ExZERwSkJPbFZXLUV0V3JUTldiaW04LWw1SkQ2V3RHdjRsQTc0WGJvSmtPYVFhZTZuOEltMUo1MVRoRGd3eEVVZzUyQjFCMzI0OExlblh1ODhvUFc4VVhCWWRN?oc=5",
+    "fonte": "TradingView",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "ecf25b3c9e93dae8c730e45be53bc2b415694427232a43f405875e14eb66c65b",
+    "score": 12,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+  },
+  {
+    "titulo": "DSC Holdings estreia na Nasdaq abaixo do preço de IPO - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "DSC Holdings estreia na Nasdaq abaixo do preço de IPO Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSHhTNTliY3RrZHF5YkdpMFJmVkdVWV9STXFwRjM1R0lvSFBXOEpBSFM3MnJKUFJwdEd6VzhCVjRZbHJURk45T2J0MjFSSl9KUVYxT0NxZHFZWUdrNzk0cWJ4VXljSFRaLXdOR3pCdXlpTmdBMG82ZzZPN0RpNU9QOFRiVmVTN2lxUW8tZndQaVBCR21ZOFJNTFgtZmViMzBQcHl2dkppVk5Jem9PdDI1QV9rbHQ?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "09f1bfd1b9e56266f8d60edfc82a37f7dada7d9549e99d87021db5555e78e2a4",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "IPO em fase avançada",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "A seca acabou: PicPay estreia na Nasdaq com oferta de US$ 500 milhões e reabre a janela de IPOs de empresas brasileiras - Seu Dinheiro",
+    "resumo": "A seca acabou: PicPay estreia na Nasdaq com oferta de US$ 500 milhões e reabre a janela de IPOs de empresas brasileiras Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcGV4TnR5OEpIQU96c1VELXpvOS1NcjVLRmw5MDRZRTEtMzNFMmRBY3JNUURVaXVYNmNIaEVRWWVWY0hnNGVGS0k4SjFTaVFleEdzR0NnUEIyRWU5RC1KSnBOcS1BMmp0a1p0c3FNOEE5T1pPQkFTdmFVYnFWQmtaLTMwTU5LbXU2eFE2X2JGM0VscTFqb1kxMFotbmhrMGYwV0xDUnZmaE1rc1I5MjJWUU0zVmhqNlpIa2ZURVNYTzdQMG9CSHZWMHpNMExySlpfUVBrN3A0Z3ZjUjFOOFZsX2g1NGFDQ2M?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "ações estreia bolsa IPO empresa brasileira",
+    "chave": "cbc2a6974930326bc45a5477aad4c626a311f88286c2ab538265614a0b4a62e1",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "IPO em fase avançada",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Agibank estreia após primeiro IPO de empresa brasileira na NYSE desde o Nubank - Bloomberg Línea Brasil",
+    "resumo": "Agibank estreia após primeiro IPO de empresa brasileira na NYSE desde o Nubank Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd21aendmb0RwSS1pLXdHZWJSVnFBczdDZGtOZTM2Nk5ja0xPVG0xN1JEVjJsYkMyVGM4RHhFTXBlYnpkU2xZM01jVVpiZnJ6ZVN4aVRmOWJrN255YklCTTR2ZDIxYi1ucmxuV2ZCZTFscER6cmtpUWFwYWN5Nnk5TGFCbENzX3NFdzY1c3d6bHYzY0N5LUVNNFhBT1BTWTZzNmxCWThKanJLSlpLNXdTWDBZTDhORzNmSGVLNHhDc9IB0wFBVV95cUxORXFDdXk5VDg0VGpsMHM0akF3LXdNR2FGMmRWS29iakw3ZDV6QjdzSHZ1REIwMWRJZ2x4Q0diNFBKc3Z1bEt5ME5MRS1uN2c4YThuSGNDT3RnUDV0UlF6U3pCT2dPT3JnN3ZJTklMTHYtM0Y0a3o3ZzFING5LbUtIbjRwWEo4c2JBbUZCOEdjQlVPRVJLMUNqS20zLW5iZFFjRmswbWlBN19xdWZ0U1BLRXdDd2JLM2xlS1AyMkJtT1Fqelc2WGpiNk9meHAtU19QQ0xZ?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "ações estreia bolsa IPO empresa brasileira",
+    "chave": "b7ea47f03d2da449f64aa5fa06ed4b319aa9c915eb75bc5abd224de6fe5d8bca",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "IPO em fase avançada",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  }
+]
