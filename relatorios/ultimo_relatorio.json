@@ -1,52 +1,21 @@
 [
   {
-    "titulo": "IPCA-15: Prévia da inflação sobe 0,41% em junho, diz IBGE - CNN Brasil",
-    "resumo": "IPCA-15: Prévia da inflação sobe 0,41% em junho, diz IBGE CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3b2toTnk4T3dfTW5KSlFHXzVWWk5EWjR2ejJwM3k2blFTLU1qNzVwcFpvUkwtWUZYMFNWSG9UNE9sVWxqbjhlWVpFVW9MWDNMVFdTbDZQMlJXbldTVnB4R1FCYVB6R2JON2VZS0ZTeWdrOVlDNzl3ejBGbw?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta - InfoMoney",
+    "resumo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDM5UEhDbkZyaGpCUHNTNEtMd1owempiUnFTTVZmS2ZTZHVQTC1TaWl4dENlaFFiaFlkODJza2lzVVpvTWZBN0N3TFpDV3VvQ1BtVGhGN0VRVmc2Y1I1YURQem03TE1HYjNvU0lvVnhQemVlcW9tZTdTVEN2MUQxRUtITWF0Vm1QQXN4cmVUcw?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa B3 avança 0,87%, com IPCA-15 abaixo do esperado; dólar cai a R$ 5,18 - Bora Investir",
-    "resumo": "Ibovespa B3 avança 0,87%, com IPCA-15 abaixo do esperado; dólar cai a R$ 5,18 Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUNERU5SalRIQ0pzWEtoWlotdHF3Y2VEbEFaMUZKV2kyVTItN2gzTFdFazNXc1NuU3dPSlpVTURBeGtZRkt3Q01mQUY1cjNKTUwwOFNZbG9KQUVCeWRteXMwWkNxSnQ4NnZJOXVGekJLMm1LM1lSMHZFVGtkeU45N05jUnZfY3B6VGZZTnVTLXR0b3pQR2w2M0RKU1M3b2k5ZDU2SS1kUDU4X1d2d3F6eFpmRGJsd01aSkpscQ?oc=5",
-    "fonte": "Bora Investir",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Ibovespa sobe com IPCA-15 abaixo do esperado e dados econômicos dos EUA - trademap.com.br",
-    "resumo": "Ibovespa sobe com IPCA-15 abaixo do esperado e dados econômicos dos EUA trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUJUREpqNUdFZmo3SnJoVFp4eE1VSVdUY0xFRTdTbHhJZTdSTTlIM0h5ek9nS1NHWWpTV3ZhcFFZeGlXc0NHQnlVbThLTUpQVWYxSS14SDZGNVZlRTdZWENMeFNNbG0yNGp3cDFEV3lOelkxVWlrdDh2RFdmZ09BV2dDa2toQlE2Wjg3OEROQV9NZ2MxYk5IWEhWaWNrSEJtOUV1bnBR?oc=5",
-    "fonte": "trademap.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Juros futuros recuam com perspectiva de cortes da Selic após IPCA-15 - Valor Econômico",
-    "resumo": "Juros futuros recuam com perspectiva de cortes da Selic após IPCA-15 Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVpJV0VVbnUtZ0hLRTlZU25KT2VKU3hNaDZjWmJIekx6MlVhZXpYVmp6MFBQNkFOV3V4MW9DZi1JRmJDT0luQjJPREZnR1FQRERmQ044d3F5NHk3LWZDQmRyS0otNUhiZl94aUpQcWNJX1NFVTBFMFBqV01uVnh4bnZhWFE0M0Z2RHg4QTZLdWhVUnI0OUlHaHExbjJwZWtsWlRuYnJaRmZhdFZBUWx2a0xMdTN4RC03NXM3Wm5DdmN1cmJV?oc=5",
+    "titulo": "RPM e IPCA-15 abrem porta para apostas em novo corte da Selic - Valor Econômico",
+    "resumo": "RPM e IPCA-15 abrem porta para apostas em novo corte da Selic Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnhXUTNURUlZeGc1b0w2WUV1ZWRLNWJTcHIwWGFWSTJhTFJ5dC1vZU9MSlh4WGJnNExnY2h1TUp5NHQ1ZGZENGkzSWRKNDZtbmRxVTduSnFPbFhJYkZnSmxNVmxjQzI0RVBVcjlDTGNpLXp1OWE5UnVZVzc3cy1VUHQ2Wmk4R0RNdTJsbVcxMWVxRUFjc0ZUYXg1enQxeS1aek56RFEzWEFDR29WQ3BXR2daMGRYaGlmWjFLTDFJTdIBzgFBVV95cUxQNG9KN0RyWHl0eVhqN0taSk9uQTBlbG1yQjVpeGZNLVpOUWlGY0lad2I4V2FxSDBOZ0U0bnFjRi00djJGN3VBMURNZWRsNnR2Yl9KajEzVVp1YnJGN2lpZlVjQlFBWGdKMF9ScU54ME1iR214M1pLalh0dk1kYUtFVTd2SXAxNUN2Q25RcnNVa3dBZ0VBcWNabncxWk5fVEhURkdTeHlTZ1laZDhnT0FBRlNvSVdRYmtoN3BUTldOWm4tTHAyYlBfd1M0UHlQUQ?oc=5",
     "fonte": "Valor Econômico",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
@@ -58,49 +27,89 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Dow Jones hoje: petróleo demonstra recuperação e investidores reagem à inflação e PIB dos EUA - Estadão",
-    "resumo": "Dow Jones hoje: petróleo demonstra recuperação e investidores reagem à inflação e PIB dos EUA Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejI0RDVoS1N0Wjh6dTMyZ3JuMjZVUTVBMDhmZ21OWE9kMHBrVlBVMTBIdWpJc1RLLUpLdnlpcnQ2aTFOcUkxdlZka0c3dWJSNjZhUTNfbm1lTTNpdWh2S2c1OE90c1VvaGhwbzd1WFNPQXZ4WWZqQ2QzbWhWOXVVeUZZa09Gc2Y4VlpRZ05yc2dxTlNhQndSNTlmZEY5UjlHa0pHS3JfR2MyalFjMHlYYzhXazhxNkJSS1RKTEFVaU1XMktKSEY2cGN0d2hSQWZuSlA4dXF6YjZPMkxPd2FGSGRZM2h2Zmgx0gHuAUFVX3lxTE5GRXFkZ0lBMDllV2JhNF9GWnlBaVpyY0swV203VHNwckVZQWhtenBqZlljMkVlellRYTk4ZUtVZi00T3o2aWdSdHRUb2p4YzJEb185VXB5T2syZldMZXZtYUtXeGF3c25xalJxNXc1WHlpUUlmTUttZ1lRLTNIZ19tbDUzYlpaclFIN3YwQi00c2YwTk96TGRRdloyVzRyRzZtYVlRdmVOdW5NMHhxV19JSDUwUWFaZzNONUdwTzlwaWxEZlpTYkNIU05RWUt0RUJDUDZGREZTTXVQOXVSSnpLeUl0cWRsRWZUd0YzalE?oc=5",
+    "titulo": "Ibovespa fecha em alta em dia com dados de inflação no foco; Braskem desaba - Notícias Agrícolas",
+    "resumo": "Ibovespa fecha em alta em dia com dados de inflação no foco; Braskem desaba Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd3NvZUJ6Zk9DQ09lY25CMlhaNDhtdzlTNzJ0Z0l4YXRBcEEwbjNrSFNZbW1BaDFOb2dOa1M2WTd6bGEtV3BfVmxfV04yd29wb0QzcU1od1BJdHpDeUVLWHZ3MVNWdE1xVzhHTlBRcE1ybjJqYXdaUUFTNmxod3ZIWEgwc3dodlBHNEs5Q2lsemtjMHRaRk81akhJaXBlYTBHNlRocFlfaEJSYzFyU3ZNUl9fcnZMbHFHc2lhb05keWdheE1WQWNnMW9XS0tFSnJGR1JSZkdBMENTZVR5YTJiRU13VHLSAeoBQVVfeXFMTTg1UTZQckJzbzl5Z04wc254YW9JcXYtR0JvTW1xZVk1bzBSTlNnczRKYXpUbEdVN0tiZENTcW5MZlJ0SHFVT0lRcFNjdUhGdGtoOFBTZFVoeUJPZmNjcUFSUE5MNldXVnlOMV9kYTh0UmF6VEZrZkxTLXY4bTVFM3d6WlFSbmNZRWUtcVNjSncxek10SVlKb3lIa1dMZ09LSFBvTlFQamZyV0RWdWxIbXJua0Q1V1M2TC0zaTEtNHlUTEpheFdLZUVac0FoUEJYSzBiZk5hellZSWtuT1hsZHMxcVhLODBCYkt3?oc=5",
+    "fonte": "Notícias Agrícolas",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Tesouro Direto: prefixado recua 69 pontos-base na semana e volta abaixo da Selic - InfoMoney",
+    "resumo": "Tesouro Direto: prefixado recua 69 pontos-base na semana e volta abaixo da Selic InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNemI2Ui16YTdsNk16X2F1aGFUUVllb01Nd1RwTlZuT1E4ZjFYUVJMWHAwQXB1aW9GMzN3SUNpd0lHMnpqVG1GR3pxbHN4TkJhU3hwS1ZlUGt0TUEzcG5lWnVSVU5rNGxJQkE4ZW0zWUJCU0dDTmc0Zm9fNE9iSFduT3VKQ1FjVThENWVESGVvVF9DLWQ1Q1g5UWhBNTdSMFRnZHRsVHZSTzNCNUs5ZXhsQnphUkl3VjRJamh2U3RVcDnSAcYBQVVfeXFMUEk5dnY0Y3hyUHlfdFVxU25GZkNLanU5TnFlZk1Od1JHV0RrTTA1ZE9mTldWa1N6T3pJZ3lwU0NoNGhFME5pVkMtcy1GeHd5V2J1S3ZWb0Z6cGJ5NzAwUHlPVDFPNjlobDFpcU9UMElUMUNrLUZnQTR1cGk3b3ZiNHVfaXcxY2VRTzlYc1JnV3RDZTlPX1ltN1N2eXNqTi1KQ3lLUF9tX21ZSzdJaG5xVHhYbWxiUmM0YjA4Vlo1RFl6RHZmNHdR?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Juros futuros recuam com a perspectiva de novo corte na Selic - Valor Econômico",
+    "resumo": "Juros futuros recuam com a perspectiva de novo corte na Selic Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckdtTzBOX05iN1BCV1VHSnFxRHZ6Mk1SalVEWV9hVk82dXBJajNNVE1kNU04RzVJNEExcUVuVkhUOWt6Sm9pekVTSjNHaFl2cU81eV9jcm9HZmlLWnpxMDhycU51a1pQRHdhVzdKdzhWUGF1VzJ5eFp5VDRRa0RGN3dSZldrcVZweGUxaHh4Q253M0pSMzNoaFY5OW9BZU5yWU9aRU9jTVp1UdIBuAFBVV95cUxOMjdVb3UzZ1RackxQelRUb3U4ckdUbzh3WjhjWmp0UGE3YldELXBpN01QLWk5SFJQOWxJWUp6ajJHcFJUZ0JyWWs0ODhoQ1JyQlltUlVUQ295Um1QYjkwRDBzdmVLZ0R1Y1pjUVdNYl9jODB2QVVweVR0N0Rfd1hLbk5jY2IyQ3NxdHlDLS1lSkgzS0c5NG8xdUhyeXVkd0pEQld6Nzg5Q3dVY2NFYlRyTER1Tm1EQmVr?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Selic a 14,25%: quais FIIs seguem pagando mais do que os juros? - Riconnect",
+    "resumo": "Selic a 14,25%: quais FIIs seguem pagando mais do que os juros? Riconnect",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGxYVVFUOFN2X0xXLVdUQnFqQnJoZHJpMUlqN2oydGljOUR6bU1EYWwyeU51aTVPb3pfUGV6Ri1WSi1OSWxJX2g2a1VIMHFsNUVjcllhUlVxNUZDNDh4NDVuMUZSLUs0b3RjSVJFVi02VW1GX0RpWEpzVDNTUnhZVEZpaFdIaW1HRUw0MTJOZEZOVlk?oc=5",
+    "fonte": "Riconnect",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Ibovespa hoje: Assaí (ASAI3) salta 4%; Braskem (BRKM5) tomba em meio a impasse com credores - Estadão",
+    "resumo": "Ibovespa hoje: Assaí (ASAI3) salta 4%; Braskem (BRKM5) tomba em meio a impasse com credores Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUkx3emJJbWNNNlRUZHZ3MnFtenB0Q0xhZUdQdDBCU2pxWUpCVUdCTnVHTEZTMWFEUEFGQnhPQ2NfZTJnaUxnLVJ3R1dvdHNtUTNyRVZKd1V4bF9aLWViWHZfSmFvZ1lkbV9kaElYX0VnSmVJb013TWROek9qRzJKLWZrVnJSd2w4TExQSE9pWkdZcGRFT0ZVZHVjY2sxV0R1dTJDRjJrS0lFeVpESjZINnpxUWJnbTJuY0o3dDRNNmpPZnRLQmVQZWdVSTMwaWVhRmM0alhXb3J5N1XSAeABQVVfeXFMUDdYb0pUdkJteTYyZmE0RFhSZVh0UGxQWWdDeTAyR2xrQnZtMGxKanl5Rm05TWZWZG0yT2E5ZFd0UXlxMVg2dEZiZ0FKcXpnMDJiWDc1aUVDbkxySFp2NXlqLWhEbTJNS1ZMVF9UMVNrbU9UT0gwSkFyMDFwbEFUZXZfaHhxazJOaDRYUkpUX0RfZzZRYk5mZ0NxN292Q3VwUURRSC05cFlDM1JTSjdEbWVBV01fVURpUEM4bU5iM0prdHRmN3poWUZ6ZFpKNlAwSU55SDR5VkFVTUMxZnJXNWg?oc=5",
+    "fonte": "Estadão",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Mercados internacionais tombam após tarifas de Trump; S&P 500 tem maior queda desde 2020 - Estadão",
+    "resumo": "Mercados internacionais tombam após tarifas de Trump; S&P 500 tem maior queda desde 2020 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVppMmhGcENZdnd6VEcycHBDRlBwRDZnMTRRMUo3MGlaeFhqOU8wNHdrQTU0dXFrZmZJalJkaTZ2d2daRE9iai1UNDFYNVNCclk2aE9OWGxKSkNqYzhIZWNXclBzaW54ZGRyQk12dzVxS2xwRlFhMVZrYkVXVWVLM2g0b0VCWGo3VjA0YlVRdjFfRUg2YmREaFVzanlDQkN3NnBPbF9oUW5SeUl1WWs1OVp30gG3AUFVX3lxTFBqTVJqbjVSaG5jZThtYnhmeU5TVlFCYVo5Z1hncHN3Sk0wcGhhZ0pMRmZ6ZTB2ejdVOHJZMHVIOHBtMEdYUkMxYm1CWW1fOUdBX2pOTVA1Y3NRR1o1S2ZYTXdyX1JCWTNUeGR2cHRTaXJVaXc0ODZQend6Z21XWDB6b25jMDNvMXhTR3hVTkI1OWdZN29pUVFIZUlGd3o5bkNuX2o2UDdaLXRNREQtNnJqVWpxbm9MOA?oc=5",
     "fonte": "Estadão",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic - Folha de S.Paulo",
-    "resumo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeW50SjRwNm5oM2djRTByRXJLVVhYQWJrckpUWHhfS1RkV0NoalBrVXRfa2FwcVd6bDFmYklhenRhenk0eE52RkYwUTBDanhsclJTeUthWFVtRTU5czlUNjVUb2drc2Zfc1UydktzM2lvU1ozamRibmJWQ01PNVk0VzZmeEE3alVDY3hneWloZUxSMnJpejBib2xCU2NzZXlJaGo1V1FVNi1KVWNMSE05TmhxTWJ3QlZPanN0cVV2X3BmY2FsQ0xiekViaE82eVFj0gHWAUFVX3lxTE5yY1RHQ0FfUmZxbWVrd1BSamJuY1VXeld3TGxZd3JoZzY1WWc0dE1FREtDUkZTc19ZSl8yMFBHS2k2emJiY1ZmUThPVGVoVTBXZFViTzU5ekVmN2FxV2pfbkt0ZGZyQW80Y3JVQVNuVDA5X0lKWWRDYnViX2dua2plX2RUSVBNSXZQU0JKS1dMY2hweWw2TXUxbC0tUkttWlNVYmJpM2VpQmN5VmdsZTg2bTUwaDA5RnprNFdzd0tRcU1hc1dkUGlQU1RJYzdubE9LRmRtaXc?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Prévia da inflação foi de 0,41% em junho - Agência de Notícias - IBGE",
-    "resumo": "Prévia da inflação foi de 0,41% em junho Agência de Notícias - IBGE",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWmlrN2Q0RzhrcEFQRWNqczI0a3N4Vm1rXzZrRzBKX1I3OW1pSkxQT2o2alUyUkNkQ2hVbGZNZWl0dVYwLTAzd0VEUHV2RDRMWFdDdkZyOHZhM2p1X2VGekJOU0NHeVE2ZUhQdThkUTZYdkVSZFQ5N09oUkIzb3dSMjE1STA5TEphOEdPcXphbnpReElvOE45SVBwZ1BKN1N3YmxyOHA1TGdMN3JzT1JDRzJsMUU4cVc3OEtEVl9VS0YzR3VJVzhvMUZRLWIxcW8?oc=5",
-    "fonte": "Agência de Notícias - IBGE",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "impacto": "Médio",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Wall Street fecha sem direção única com ações de tecnologia pressionando S&P 500 e Nasdaq - Money Times",
-    "resumo": "Wall Street fecha sem direção única com ações de tecnologia pressionando S&P 500 e Nasdaq Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxX2N6VWVheXdNMjhZY0sxMHFQZV9ic1JDX2tsamlMQjdpcS1uOGExV2MzMG5vVXJXdXR1Rkd2RnNXLXNVckhDX2NMTjVRMGRpSndoQ2RGYThjMHE0QXp1UUZJX25oQQ?oc=5",
-    "fonte": "Money Times",
+    "titulo": "RSP vs SPY: Devo comprar o ETF de ponderação igualitária do S&P 500 em 2026? - EBC Financial Group",
+    "resumo": "RSP vs SPY: Devo comprar o ETF de ponderação igualitária do S&P 500 em 2026? EBC Financial Group",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFAyVkhXYUkyOU16WnNMcTdLVDE1bk9vZTVMdm1xZnQxakd1ZkMxRU91Q2thaXlQXzd4NmVJbi04YU9XZ2JOM2VjTG9wTU9rTTdneVNQWnpwRGUySmlTM215V1FaUGVBMnd0cXV4TXBmUkRQS09KY2RjYWxQSnNoUENYa0JOZDNJREFKdkpESmt2a3NHenYzdWtvcEVPdGdIbDNsMnluMnp5Q2M?oc=5",
+    "fonte": "EBC Financial Group",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -109,10 +118,10 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Perdas de megacaps de tecnologia compensam previsão positiva da Micron e S&P 500 e Nasdaq caem - TradingView",
-    "resumo": "Perdas de megacaps de tecnologia compensam previsão positiva da Micron e S&P 500 e Nasdaq caem TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sOTUxRWdWZlZqMlBhUjRVeFNFUDB6cVVQVW1fOGJKeHdLc0J3U1JsSFZ0alNkMzlJTl9RM2ZrR1QwSjh1bjZ5azIzUlRPelVJZklWa0k2UDVWbUhzbVhOM09uaUJ1YmhpMU92eVV3Z2NZRG8wQ3o4?oc=5",
-    "fonte": "TradingView",
+    "titulo": "Futuros da Nasdaq caem com perspectiva de continuidade da liquidação de ações de tecnologia nesta sexta (26) - Times Brasil | CNBC",
+    "resumo": "Futuros da Nasdaq caem com perspectiva de continuidade da liquidação de ações de tecnologia nesta sexta (26) Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb3hBWHdVM0JueUZWT2trRF9FeDhsN21pWkV5eEtZMGliSUhLbGM0YXZiUTJJeWRoZkN4U1BmQ2djT1UxZGtvRUFnMVlqUF82VGJzNVBfTUZOQU9GcFFPRmdyYU52OUg0OE9nSER5bTRXekg1QmpwbW1SVTR2N0xLYnJrTi0wTE1EczdESWFoM3I5V3huT1BzSnNOZnBVS2VKSjZMRVpHc0ZaSVp5T0xIUHRzd3FwMUVsbGdKc1k3QUt2ZGJrRS1uR0ZLRzdmYWpoYWY0RUgxTUZHWm1xTF84NjRnWG5ORmJLMEVLWlNNc3ZMZFlxbUt3?oc=5",
+    "fonte": "Times Brasil | CNBC",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -121,10 +130,10 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Perdas de megacaps de tecnologia compensam previsão positiva da Micron e S&P 500 e Nasdaq caem - Terra",
-    "resumo": "Perdas de megacaps de tecnologia compensam previsão positiva da Micron e S&P 500 e Nasdaq caem Terra",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYl9oMldOVFBIZ25pbVpyckJfOGV4QmdtVG1GVVRYUFRGdDNVRWVQc3NIYlVZZTR2QjNFUWpYRGcxMlFVRHZ2OUMwLThfbWRzOU5kc1dBeFYxZDZRbE9MQ1F2MVpZSGxJZFZFMXFoWUpSRjVUWVdqd2FEVFdLMDVSVmFhd0Vqbm1LRWlIMTBJWWZZSVpPeUFrcklkLUVieFZ1d0Z1bzFjQS1GbWx0VzJZMkdFcnAwZTZpQzNMemJiSW9tc0hSTmZhWFRFbDlQWkRrRDFXUnRpWUtMVEgwaDcycnNpRWhnMmZRaWRESzNUdXZEMGVUZ3RSSlpVeHM4Q1NNbDBV?oc=5",
-    "fonte": "Terra",
+    "titulo": "Nasdaq e S&P 500 registram pior sessão do ano com pressão do setor de IA - CNN Brasil",
+    "resumo": "Nasdaq e S&P 500 registram pior sessão do ano com pressão do setor de IA CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXdNRWRBZ004VldoSU9ONVhvdlJkRllWSlZZTUxXcllJRERKSGN4UlIxRjBFOFJVWGgtR1RBb0ZFZVNiN2dUV216VGdHbHFlQWY3TXFnbHJhaE5KZUJrYnZvbVFpc1hrSjczcVc0SnRMdFhsTEhQQXdUTDBGSDN1S1hwZkdQZWw2VUhueUNfeU5heXFpRURaTEFib2dOcG81ai1nRTIzYUd6MjVXdmk5TXlVTlgxZTc3WlE?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -133,10 +142,22 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Elon Musk terá que depor em casos sobre eleição nos EUA - Valor Econômico",
-    "resumo": "Elon Musk terá que depor em casos sobre eleição nos EUA Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3hsZnhxalVsUEl3dUs5Mi03bWMtUWFNaUtEOG9qNmlKa3c1UEN0cVlWaXROWm1DVFhhYTk2OHQyWnFpUG05ZXV5Q3RYSS1LQjVqTmtfRVo4MTc2bndKLVFna1N3OWlHNGJfWXNwWHRLOXQ4TWJtbFkzdGlyc3dwMTJWWFdOSVFtYVZfcmNUYTVPZm9Td1N5VWtwSTRFc3pNQnNoX1pmSnhCNUhOREt4WlFxQ1JTaGVXNllINkNHbk1LZ9IBwgFBVV95cUxPY3hsZnhxalVsUEl3dUs5Mi03bWMtUWFNaUtEOG9qNmlKa3c1UEN0cVlWaXROWm1DVFhhYTk2OHQyWnFpUG05ZXV5Q3RYSS1LQjVqTmtfRVo4MTc2bndKLVFna1N3OWlHNGJfWXNwWHRLOXQ4TWJtbFkzdGlyc3dwMTJWWFdOSVFtYVZfcmNUYTVPZm9Td1N5VWtwSTRFc3pNQnNoX1pmSnhCNUhOREt4WlFxQ1JTaGVXNllINkNHbk1LZw?oc=5",
+    "titulo": "Bolsas de NY não firmam direção única, com ‘techs’ pesando sobre S&P 500 e Nasdaq - Valor Econômico",
+    "resumo": "Bolsas de NY não firmam direção única, com ‘techs’ pesando sobre S&P 500 e Nasdaq Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTm9rZ2NOYmM0SVMtTG5tZWxkRTlFSG9xZER1R3ZHUTZXdXU3TjRyOHo5eFl0dEMxS1BhOGxUQ1NjY1FIYloxUnFLOTNDY0o3alhzV0lGMm5zYWZZNFlvaTVPN0tDU24zckRCN3d4U2JDY2d1RDVNZFE5eVo4Y1hpeTR6eE9oOWlwTF85VU5DdHdHQlVndlo4ZnlaM3JhNEJKQ2Z6aU9QdXRHb2U2NTRvcFhXVVVNYmVuWFVEMHg2aGRvN3FFQ3lQOVRmLWlvWXVQOVd6ZNIB4wFBVV95cUxPd1YzTWMxSUc1ZmxTYlllRVVNcm1CZjEtVmFQOHJzbnFpUGU0Tk9pSWt5TFk3X2tBd2VfbGVtNXdPV3oyWTM3SUw5eFhWRWpCcGViVFFfYjBvazRsVktYdW5VbEIydlBPaldlUXZ1T3BXc0sxc1dBX2dJdFlaQTRpaFVhWndwcGZDd3d6QVVGSmwxaXMwZDRZUTJIX3FQRDVaMGhjbURDekpqZVI1Q1BUbU9hSkszX0JiMndVMS13bWRySGVOakNLNmJGNlRhWkJyVE8weWNfbjdIRy1OMkh6UE9CNA?oc=5",
     "fonte": "Valor Econômico",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Starlink de Elon Musk poderá em breve oferecer serviços móveis como operadora dos EUA - cinemaecerveja.com.br",
+    "resumo": "Starlink de Elon Musk poderá em breve oferecer serviços móveis como operadora dos EUA cinemaecerveja.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHlEcUxrYjllOEt0Q01PcVVOaWpheW4wcHZjUEo2VnBHeXZDeTVBSG5DcmpKd3drenJZSElwd3FHVGx3T2d4Yk5tV1JxbWVUdHh2Z1NqZmFwSVlSREpYT0FQd0lMUl8zcl83amIxbXFBZmRXSzNjbVRPUGhkNUJ1eVMwR1FRQVpScjctMEFVSUZTek5hMC00R3Jab2Mxa0FpMDdra2xhMU5oQ1FMelZjWDBZejhRSkM3WGRyS3JDNEpxMkNHVXFOVVRqSy14QQ?oc=5",
+    "fonte": "cinemaecerveja.com.br",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "WRLD11",
@@ -146,52 +167,26 @@
     "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "SpaceX: Emissão de dívida após IPO sinaliza “terreno de bolha”, diz Allianz - InfoMoney",
-    "resumo": "SpaceX: Emissão de dívida após IPO sinaliza “terreno de bolha”, diz Allianz InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjRzcmhmeVZiZjJZTVhaVXFxbFZQNXFzaHRmQ3lmcTdhYldOLVppeHNOd3hQVlRXRXpLNGQzLWc2YVE2emNxOEJEbnlCZUd4dHE1MEo2dXp1cVJZVXJJRTdObm52dVZzSHJhdTdFRTJOdHZfYjlFc0JMeGpwWWlCSE5ETnhObjNJTHUwQl82cFVFM3prcmtTZnFEeGxDVWJ1YVkycVJTSE9iWTZMVjZtZjZ1Szl3d9IBuwFBVV95cUxOOXY1VDVjRmNDaEgtTTRLRlZjMldNbGNFSUR5R3NqeVhoU1hNTU1aeUQ4ZFVoTWlxVkZEdU1raXJXNGdRWHVoajl0ZU9Fa3ZQVm9mbmcwUnBvUDBqdFVZUFlmd3BQbkhhX3lWQnpMSlNMNmw2M0Y3a0FGdnN6R21UY2VRS3EyaFg3RnNldkRFelBqUS1CeHFnbUdwdlZZNXZiWnJfVWR5U0pEeENQSVRKa2oybHdfSnhTTHFv?oc=5",
+    "titulo": "Dividendos de quase 9%: veja os FIIs que mais pagaram rendimentos no semestre - InfoMoney",
+    "resumo": "Dividendos de quase 9%: veja os FIIs que mais pagaram rendimentos no semestre InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ0xuT3J6VW1jOGRWanBDMWpWd04tZ2xRdHpzSWo2NVB4ZkQ5Zk5Yc1M1NFY3NXI1eTBCenRKRzhlZXlwbm1kUEZBU2JLbk9JNjZiZzFBcFktdDkxOTVlazhUbkNJcERSOHl3Tmd1WVM5NmJpQmNtZFpIb19qLTJUUEtFTmpMR3R0T243VE9lWUVWb2JPREU2bklaOXF3WjQ3Sk41dXdkaEJpTXlPcHgzSFZVdGdVbU92Vnpn0gHAAUFVX3lxTE9aVGVmY0pjSndMVVZOeXZHczNyQURIMDV4TE9rVEViUDZsZEk4VGJ6Q1k2dDVMWldnYmNwRlZmbmtBbmFQbG1GRDJQUW1CR2c3SGFWbUVLVXZHLVdjTmtuX2RMYndFbG9Fdld0V3VXREdSSUl3aWFXSW5uQnRiR3BwMjRuMDhna3NpamFjVzN5NnpFeXkxekl4S0g0NG9TZW95NDFIZFNjVGczbW5WN1k0Wk9ZUXcyYVlpank5dWNFRw?oc=5",
     "fonte": "InfoMoney",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Você pode receber até 10 aluguéis por mês a partir de julho; confira - Empiricus",
-    "resumo": "Você pode receber até 10 aluguéis por mês a partir de julho; confira Empiricus",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0xjZWxrcDEyUG5CTEV0akhteW9HSjd5Sm9fNDVhb0lHOEFXd20zc09PT2dLNDFpcl81cGZCWGtSMFUzUlBGVDM1MERiMU44cm4zWG81SHR4aVY1N1NMZ2pqNjhFeTJxYlg2RnRvUTItbVFXbnZfT3BHYlZ6Nnl4eWhzU0xVQXJoa1J6QUtpV2pXS3g4TG5kdFpHeEJyWkZ1UHlKZGdGdWRTU19ZRUF0SERPOHVWVG9BRU1lZExnVGYtZ3lmVjZ4cg?oc=5",
-    "fonte": "Empiricus",
     "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "HGLG11",
-      "KNRI11"
-    ],
+    "afetados": [],
     "impacto": "Médio",
-    "explicacao": "pode afetar FIIs de tijolo, vacância ou aluguéis"
+    "explicacao": "impacto indireto ou apenas informativo"
   },
   {
-    "titulo": "Banco central do México mantém taxa de juros inalterada em 6,50% ao ano - Valor Econômico",
-    "resumo": "Banco central do México mantém taxa de juros inalterada em 6,50% ao ano Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMVRuajh6YkphTjdqRjFBbHcwUE4tZGRBTGFxSFdKVTJjZWJNRzZ2d1ZjcDNXWVByMGlMQ0EyLUpxNkg5bEVDUElJSnlGVjA3SnZYcTJBUXJaRWFiQ0NvTi1rSmxWRmdkejhsdWk3elVKQVJ1dkx2dkQxUGFZd3VwbXVZU1RSNW1nZzdFSC1IeFQ1UVRhWHlRcDhURXFiSGpqNFZpc3NKS0s2UkRxeV8tUjN1eEhKV1pOcExwQk5DcTlUSmNlRWpSSzR4a2FLQVJPODJvWUZPc0xqNHB00gHrAUFVX3lxTE5kdDJmWS1ROHZhQThwNVdXQ2Z3Wm1vNW9nVzBBZHdYVnM1Vlgtb1Q4REFQS3pvNVQ2VUlLU0JGSVkyQlJaeGxYcG5VXy1ITTgzMmZLUjBJTGp6Z0Z3dGtKc0Iyc1V0RV9Ha2NkWm9KMTVFNGZrOEp1Y3R6Y1p2aFBpUkd4TTd3WnNHNml5UUlINU1OUWZvaXRzVDBSQ0JXXzNxZGhoTUdzOWJOdW5jSkN0YjZQX0d1T2tPRXdaYlppWUg0cjBBbTgtOFR5ZXNpSjM4d3A2RW1ZQnhSVWV2WGltdVZTWWhzeU5ZR3M?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "PEC 65 transforma Banco Central em balcão de papeis podres de bancos privados - Sindsep-DF",
+    "resumo": "PEC 65 transforma Banco Central em balcão de papeis podres de bancos privados Sindsep-DF",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0lJc242THY2dkVNdjQyTTVOa0M1MzAtdUtsMG5nVndWMU11TkFjcWxkT3ItSXFTZVozdDF1YldxcldBNUNzYmhhWnFzOVhVTDRNd1ZiQ0pjRFEzaVg1MFpoNUVQQzI1c3cyNmxqVjZ0X3lvd2xSWkVLMXNiQ2QxMVdKY0Zkbm1CTlVmanR6TEZBS0oxWGhEX0Z3OHItZ2Q0NXN1Wk5CZw?oc=5",
+    "fonte": "Sindsep-DF",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
+      "IBOB11",
       "CDB 100% CDI"
     ],
     "impacto": "Médio",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Luana Piovani assinou contrato de R$ 300 mil com sindicato do BC para criticar PEC da autonomia financeira - Folha de S.Paulo",
-    "resumo": "Luana Piovani assinou contrato de R$ 300 mil com sindicato do BC para criticar PEC da autonomia financeira Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaFQ0cVhwN3M5TjktYWM4RjJJcjluRGtMUllVbjRlejNTZlhweE5BcmY2NXBGTFhUbHg4WDA4ek5HNmpMOFgzeFRYQUR3aWNKZlZnS0poZkF4R0Zmb1dnUF9ibkhKS1JwU3JQcENqSERXeUczcXVYSTdndEpTUmJHSWZXeGJmM2gySExuR2xjeDVXUHpjbEd3MUV6b3FEM2NNSmhHNFA1RmpNSXFDSUI0bnZmOXBFVnVnTVBwMXJRTEdpa1NfWU52WHd0cXFRX215SE5oZk9oczFtNWJ1NV9nMnVfMU0wQ1NnQk9YUGZ30gHzAUFVX3lxTE5kSW5IdnFycUdTY2NrMk9TT3hUanlOcFQwekc3YTgxZnJrTGpCMXZOaDEzTVB3eEYzVDBDUmRseEZuTDMtZ1dKZUQzQklxSmt2NHRXMkd0cUVEbGlWdF9qckw0Tjd5OGo3QWR3VVZxVDlPNGVZWk5uWmsyZVlDNlhPOWtrSE91by1KWUNoYXZpRlE3TFozMk4xZ2EyVVFNc0drbi1GdjRWdGFhMmtwODVCN0ZjU3U4akJITjIzRHd1RjNBa19NdHlDVjhZT1p3cVNIRHBiQnVsdzdoUWdhU1puUlhLVVAzZmxmc29COElmX2ZJdw?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
   }
 ]
