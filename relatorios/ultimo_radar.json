@@ -1,51 +1,24 @@
 [
   {
-    "titulo": "Banco Central decreta liquidação da Sefer Investimentos, alvo de investigação relacionada ao Master - O GLOBO",
-    "resumo": "Banco Central decreta liquidação da Sefer Investimentos, alvo de investigação relacionada ao Master O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWtIQmNhZmY0c0pIaW5ONmkzQ2ZjMUlab3FJUUhTM0c5U3Exd2FvZG5RU25JbVNEMmZmM0RMMWZQYTBmY3daaFg5S294WjhCazR4NnJRSmpWSkRLVGtXeDRZdjhMSzlRZlFoMjE4bnR4VEVZTTk5UHZSN05OclVkVEE2U1B2Ry12N3FSM0NDSXpxVVNQaFg2SXhLUG52d0UwRUg5Y3dHbHVlYXpSRzB3MmM2dznSAcMBQVVfeXFMTmpvUkIwV0lDX2Q4bS1LUGt6bURuZG9VMER2MjRQLWExYUhzQ3AzQ2FFRC1rdFBRMTJkS1JjZGNVRjlscUdZV2Ryc3U0c1Q2V3A0b1FadlZBY080bzNDSWdaS0ZfZ3hXb0VfVWZVMHAxbzlIX2o0eW1Gbm9pOFJPYUNfcTg5eDh5U2VVemFFejFDM3ZIQnp2Yk1WWEdiSnd1cmI0Q0xUUF9mdmlLT2lfaHZNNXEyYmo4UHJPcTNnMU9ESjRF?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e42631b80beba0d17b2647a96a3a0be684680a880873db1deb5762fd62cbd3c0",
+    "titulo": "Wall Street fecha em queda; Nasdaq despenca 4% na semana com liquidação tech - Money Times",
+    "resumo": "Wall Street fecha em queda; Nasdaq despenca 4% na semana com liquidação tech Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41QWZRNnN2ZlBuM19TQlNFTjQxajRxczhBeWg1Q3Y5ZkNaWVItT1NJWFRXVl9Tdld1Szc5MzRqYlYzem5YRjRfb3Q4ZVpyVW5IU0pyRnBlR0VaT2xtVTBjbEY1ZlprUQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "5cb08adf9832fcd5f603f38a13882957ec9306130b78ccf7e58fb404c3e9fcd4",
     "ativos": [
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Juros futuros recuam em meio ao otimismo por cortes da Selic - Valor Econômico",
-    "resumo": "Juros futuros recuam em meio ao otimismo por cortes da Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGNrZ0RHeURWYlA4NHkzNTE0TFBEdDVrT3ZFZHN4NHBuakRxdzduVXJaYUFQREl3NjlOcTZaOGZYS1h4c3hvc0FPbXFVdGRLd1ZySG5CRWFuQktnWmZHNFpxTERjbEJZcGJzaFZ0Qy0wQTBOcExHVWNkOTFHQk84U1ZNNF9pcmFLSTNUNTVRN1M4VVBYbXBvZjMzdlNwUk5aaDJUckFsNWw3MXZrUlVLckRWdGxvZzNNODZhR21iQ1JNc2FqZkxz0gHHAUFVX3lxTE04Y2tnREd5RFZiUDg0eTM1MTRMUER0NWtPdkVkc3g0cG5qRHF3N25VclphQVBESXc2OU5xNlo4ZlhLWHhzeG9zQU9tcVV0ZEt3VnJIbkJFYW5CS2daZkc0WnFMRGNsQllwYnNoVnRDLTBBME5wTEdVY2Q5MUdCTzhTVk00X2lyYUtJM1Q1NVE3UzhVUFhtcG9mMzN2U3BSTlpoMlRyQWw1bDcxdmtSVUtyRFZ0bG9nM004NmFHbWJDUk1zYWpmTHM?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "38570f39f14b11e3a50c27299dd860add88df69dd4b4ab19af9c3e70aa7d1194",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
