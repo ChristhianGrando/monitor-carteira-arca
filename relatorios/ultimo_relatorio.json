@@ -1,51 +1,23 @@
 [
   {
-    "titulo": "IPCA-15 desacelera para 0,41% e fica abaixo do esperado, mas ainda é o maior para junho desde 2022 - O Globo",
-    "resumo": "IPCA-15 desacelera para 0,41% e fica abaixo do esperado, mas ainda é o maior para junho desde 2022 O Globo",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNG5JU21nYWtiVngzNDJ1dUkzU3gtdDE0Z3hEU2lYeHZvY0FqUENad3RDblIxejRXaVBpcjlMOXRRMWNuVTlFbngwVnVyVXZnOXhTbVI2NkQtUWRjOVlkbGJlMXdHYUFpR2tlZE9CY25QSmduc1Z3YlRPa3JLVnVDTlRyRDhLWXR1ZzVZc29rNnJkTGF2M291SlB30gGoAUFVX3lxTE1GeHh5QnZ0cUFYQkpPeERubHNzMjBJLVRrZl9OcGdGMXd4TVlWb1RwMFd0bzRweFJ0dFpZNm1FYXZ0dzk4OEFmVFNucC10NmgzU0VTelhZWEVyR3M5Y3FfdWlBdFozVTlNTWI0bXJZV2NLQ0ZKWThETV9sZ0prcUJKaXRJZTU3WnBwWlFLY2p2Y0pMaXZvUTFoZnNPOHFIQXZVQ3JMcnQtUg?oc=5",
-    "fonte": "O Globo",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "De Ford à SpaceX: a tradição dos EUA de produzir IPOs históricos - InvestNews",
-    "resumo": "De Ford à SpaceX: a tradição dos EUA de produzir IPOs históricos InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xeEVIRUI3ZGRjR1RqNnY0M0FxdEw4MEtOejF2QUNac2h4YWZTQVVfaUlqbkQzNGpJMnhrZ2NtV043SkRiR25KVmdBYXphSlBHTnpTYjFBOTlkeW80ZlloamF4WTA2S1dOcjN30gFwQVVfeXFMT0V5TFFEczU4V3FEU1A2azY4RTdtR09DMHkyLXhEWFp4bHBQUXQwYzFjUEZCeTRjN3RmdWVRMm1ObEtTV2Y5YVVNaElqejFGU0ZVSDJpUDlqdFhTZTVvZ3VUd2FLdzI4dkdGQVI0RFVjRw?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Fundo imobiliário em liquidação e Tesouro IPCA+ 10%: Veja o que mais chamou atenção na semana - Money Times",
-    "resumo": "Fundo imobiliário em liquidação e Tesouro IPCA+ 10%: Veja o que mais chamou atenção na semana Money Times",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNnUyVE55LWh5TkZ3dFU4aXktY0JlLXp6VGxvSkRxRlF5cEt1aXBQSFo2Q1VGa2RWMF9kZm1wY2lITGZBTWJMZnRzNHBHM1ZSSFQ1RFY0cExFOWpiZldIVG14TDNNMjlFSHpBc0F0b0VqVnQ0OXg2M21fTXdUaGxyZzU5Rm9STnlMbjB4N1pqZHJabFRjN2RKaWNIa1BYaTJOanFkc1VMck55QnJCZEtfTGFreld1ODdlRXZuWUthZUxZLUd2?oc=5",
-    "fonte": "Money Times",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Mudança climática e inflação: O novo alerta do Banco Central Inglês - Exame",
-    "resumo": "Mudança climática e inflação: O novo alerta do Banco Central Inglês Exame",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTcyazVEb1U1X3l6ZXBUMWd5WDJmYjd0SXh2d3ZQamJyWEN0Q0dHNXlHeHk3UC0wRGg5RXlQNEdFSUhjcTIzRU5zTkZKVUpFMHNnVGc0Z1dmZURRSGtMVGRXSkNlX191eXo5Mk96YjNGRldIWFUwRHIxSlctTEx6dHRsckZOWUczaU9XNV9kMGtoV3V5VW5PRWRwQmVUSW8wal9B?oc=5",
-    "fonte": "Exame",
+    "titulo": "Juros, Bolsa e dólar: o que movimenta os mercados em 2026 - Nord Investimentos",
+    "resumo": "Juros, Bolsa e dólar: o que movimenta os mercados em 2026 Nord Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NOXQxRWN2Vk9JRFJUZngtREJlOVZXT0dhSkQ0WGlXNGZwVlRRdWlIU3Q1bjdVWHd3NzR6aVkxc0tYVUd4UDdjZlY2QUpHV0NjcDI3TFlfLW13QkQ3T2JEd2hOWTVlQWRGam4zT3l4WkVoOG9fWjE2N2dSSDBLSkXSAYQBQVVfeXFMTjh6SzMwd01ENW9nMFM2RENxY1A2ekZWRDBhdFU3eG1GMzFFdEtfWnJtUjZVSFVNQk5ZUUZXcUtnVnJIamlOZXZLRG9DdkdLZjBwRlU2X0VZbGJkRjd3cl9nZzRyaU9hZ0xSMUtCTC0xdEdBa0dzWWs0NWpEWi1qbjdmX0lh?oc=5",
+    "fonte": "Nord Investimentos",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Inflação de alimentos pode chegar a 7% em 2026 com impacto do El Niño sobre milho, soja e proteínas - MundoCoop",
+    "resumo": "Inflação de alimentos pode chegar a 7% em 2026 com impacto do El Niño sobre milho, soja e proteínas MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTVscWNTR1YyX1ZQcndJWGQyN0JKOWhWMExQdFpRTldIMFdEaHNDM1FJZF9uVmR3WGVCYXJLVWJ2UHVGOVoxS1JfbnZGWndlVFpBWDNFa1FacEkwSmdaUVV3WWVtLVFKM3N4ZUplWUtwUGdWb2syTFBRTHlEWDl2b1FOaDJwbWU1emNWSlltTEtUMlZ0b2V2V1Bkc0pFTHpOU1Z0QmFVTVRCQk1FT0s2MmlDZDEwSFNfZXdFMWRDc3ZDSTlaUllLUmpOMVBkM2hj?oc=5",
+    "fonte": "MundoCoop",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "CDB 100% CDI"
     ],
@@ -53,10 +25,82 @@
     "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "O erro de Luana Piovani para justificar propaganda contra o Banco Central - VEJA",
-    "resumo": "O erro de Luana Piovani para justificar propaganda contra o Banco Central VEJA",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXgxa3VFYWxmTE16OXNKbTBQck5yV0F1VzdoT1ZEMWR4RlJrMEJuZWJuSUhHT0RxMHF3cGNIYk1yOEdGVnphTFl4cUktTzl6U0x6VWNOZnZwSVBNS2VSdHJBdk52NWhsTUN4ZUJ2S004d0xWdU5jcHpyNkVoaUlHaWpqaU5FQzhGNENIRlZ2Y3hjbWJRenFiOXplRzhCQW5mcjhqWWxhaDRGZ2Zr?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Ações da SpaceX valorizam 13,5% duas semanas depois do IPO - Poder360",
+    "resumo": "Ações da SpaceX valorizam 13,5% duas semanas depois do IPO Poder360",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG16TTZUa181UmtmUkJ3UFlCQlh0eHduU1lQd01UU05CQVl5VE1Vc2pHR1JCamxHQURBMkJMY01NTW9ONU1YcnBFcXV5Wms0OHlzX3dDZlg4aE5MTVBscVNyTlFVNFVuWERwNS1PMG9rNGFFWVdWUDFmYWM1X0NySTFtOWRPZ2w2WE03TXVpLUhobEJfMy1JRld3Zno?oc=5",
+    "fonte": "Poder360",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Entenda quanto é US$ 1 trilhão, quantia que fez de Musk a pessoa mais rica da história do capitalismo - Folha de S.Paulo",
+    "resumo": "Entenda quanto é US$ 1 trilhão, quantia que fez de Musk a pessoa mais rica da história do capitalismo Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUWJpRFdtNS1ieWZUVXlEdE5FM3ZqbXhNUGRtcXB3eVNWOEJaOHZNZXpCb0hIVDhDSHRwaDZNVGxrMXRKNXVfWl9uN3VhSThkcjhvLXl2RDNuY2JpNVU4dUd6NmhPOGZVc1BRY19rckRyeXZXUXVpclk3bmhUdHJQV1R2SXpoQkxMQ0dGUWN5UG9TRVVrYWlhX2hhb2ItMVRSSmJnandpSl9hYnpSNGlCREtrRzhWRWF0aWFVczc1Um9jcXlHQmlSUURrSmZoVWVGME1ZTXBEQnY0SU5zM1JmNDNoUTNDZXF0c0s00gHrAUFVX3lxTE1RYmlEV201LWJ5ZlRVeUR0TkUzdmpteE1QZG1xcHd5U1Y4Qlo4dk1lekJvSEhUOENIdHBoNk1UbGsxdEo1dV9aX243dWFJOGRyOG8teXZEM25jYmk1VTh1R3o2aE84ZlVzUFFjX2tyRHJ5dldRdWlyWTduaFR0clBXVHZJemhCTExDR0ZRY3lQb1NFVWthaWFfaGFvYi0xVFJKYmdqd2lKX2FielI0aUJES2tHOFZFYXRpYVVzNzVSb2NxeUdCaVJRRGtKZmhVZUYwTVlNcERCdjRJTnMzUmY0M2hRM0NlcXRzSzQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Existe um Musk Menos Famoso, Mas Também Bilionário: a Discreta História de Kimbal, o Irmão do Magnata - Forbes Brasil",
+    "resumo": "Existe um Musk Menos Famoso, Mas Também Bilionário: a Discreta História de Kimbal, o Irmão do Magnata Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HbE1QZ0MxSlU4NmhNOEN6dzJEdE0xcHlaX3hoSzNXMElQUm04MHRQQXNfZlowQjRlQmhFY1RHdFV2R19LOWxON3IzX3QwY3ltLUViTkhuN0E4MWNOZG9yV2JTMmEzSHdBdllPT2lBM2NmY1Qz?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Tomar e distribuir a fortuna de Elon Musk poderia acabar com a miséria no mundo? - Gazeta do Povo",
+    "resumo": "Tomar e distribuir a fortuna de Elon Musk poderia acabar com a miséria no mundo? Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2FOZ3hXSU1uWGVMV2NEb3FpTGl0bUR6bHB1dDJVcHYtS2w5TzdJVG1YUzl1STlyVk1HRzc5T185WlpFTG5nVGJBNXlxV3VYemtMamVjcnRNeGhxWDQ3R2V0NU5SY3gyQ1NZYlJGOEVhZ2kyaDFiNFB2OEZSaTBVbDFoaDF6QThPZzRYVWlZUUFXSUhuSE1QbE0xcVJfc2xJaWhIQWVFTmZIWVE?oc=5",
+    "fonte": "Gazeta do Povo",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Musk anuncia que Grok 4.5 entra em beta privado na SpaceX e Tesla - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Musk anuncia que Grok 4.5 entra em beta privado na SpaceX e Tesla Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckFPOEUyMmNKOFc1WTJrbkFxdDExV3ZoOG9IdndhRzBlVWFFekJ6T2NMYktWR29sT19MbW5OSGNXeGY4VE11U0taZ1hOT2dEcFAtUXlSRFRQdDdwTl9tMFpRc1RreEFYNEZwTUw5bkxmZE4tZGtJcGVaazltTzhuMFdrRmlZMzg2eXNONWhlLWhEYVBlcm04Mm1kVno4ZGpUOWlpMjBrTDc3eHdqTjhkQVV0U1pKSlpkSDZLTA?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "O Banco Central é apenas o mensageiro - O Globo",
+    "resumo": "O Banco Central é apenas o mensageiro O Globo",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTM3NGU4U1ZNVXlUUW1pRUlXRHI1WU9QRGFRMTlPdkEyTG9aUnhLaXB4NHFIQUIwbXNRa01SS2FVT1dsVUdCd0NSVXltRlBtSjF6UW04Wk9RUW9IZDY5Z21wQm11R0lPcmNtVUstMjMxRXVkMm1mNHFHazNYd01makI4QjJVaGZENXdfaF9IMEJGdzZPRXM3dURRUC1iSUY1OGNzRUpQd3M4ZlnSAboBQVVfeXFMT3FfbVduYWVNeE16WWYxeUFZZktqcFJNWW96YUR4SEFUbUNfSElrV2FfVmJpYnV4NjZnUmhUN0hZa2RzenE0NnpnUkpSMG1wSFNwWjVfemlqWHRYN1pZVEJhRHd3S1pmVTVOZGVQMk03OTliZjhwVFBkaFlwa0tDMWxkU2Nyekt4eDZhUklINFozNlV0RjZxNzBlYkxTVWNKV0kyU0pxY0FMVTRkajlESDYwNndNeUtiTERR?oc=5",
+    "fonte": "O Globo",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Panamá: O país sem Banco Central - Money Report",
+    "resumo": "Panamá: O país sem Banco Central Money Report",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45MzhaUWFBZ1dnVHhWeVJGdnprTzZacVNKb2FjR2x3d0I1Mm5vSWpDaWpoR0s2ZHVZSmt5OTAzc29ZZzRMTUhSU2wwUUVBekk2ZlpyQTRzaWpISnYzUnFQTmRTX1hXVE1UbHFEb3RSLUIzNnBTRk9XSWl4eFc?oc=5",
+    "fonte": "Money Report",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
