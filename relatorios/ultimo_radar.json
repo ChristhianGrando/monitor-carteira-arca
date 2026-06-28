@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8% - Money Times",
-    "resumo": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8% Money Times",
+    "titulo": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8% em 25 anos - Money Times",
+    "resumo": "Inter vê chance rara na renda fixa e destaca retorno de mais de 3.000% do IPCA+8% em 25 anos Money Times",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2FGUzU0NGRxQ1h3WlVTb2pxdzh2Y0pYUUEzTGRTSFhzZmJjWDV2LXRSSXhmbnhPa3IyNkl0R3pFaTNYZEdKX1ZpTmVKanAxbUZibDRicUl6alYxSTlBYVE2TWRYcFRYN201UTRDZG1BYVhpTy1fVlBZM0J6ZmZNdUlYNmR3SE1FMHlaOFZ4NU54M0pfbWgwZTVZTHR6dWowNkwwbEZlSHUyY0l5RExzM2hoemo?oc=5",
     "fonte": "Money Times",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "99c3bf2a53d67b829471b4b18e5f9685bbe73ef1139732df21d22f9c21177070",
+    "chave": "81f352c7e57d82434ffefea6f102b5658f849afc3be3dc3188e039109fee720b",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -17,28 +17,6 @@
       "Real Estate / FIIs"
     ],
     "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Inflação de alimentos pode chegar a 7% em 2026 com impacto do El Niño sobre milho, soja e proteínas - MundoCoop",
-    "resumo": "Inflação de alimentos pode chegar a 7% em 2026 com impacto do El Niño sobre milho, soja e proteínas MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTVscWNTR1YyX1ZQcndJWGQyN0JKOWhWMExQdFpRTldIMFdEaHNDM1FJZF9uVmR3WGVCYXJLVWJ2UHVGOVoxS1JfbnZGWndlVFpBWDNFa1FacEkwSmdaUVV3WWVtLVFKM3N4ZUplWUtwUGdWb2syTFBRTHlEWDl2b1FOaDJwbWU1emNWSlltTEtUMlZ0b2V2V1Bkc0pFTHpOU1Z0QmFVTVRCQk1FT0s2MmlDZDEwSFNfZXdFMWRDc3ZDSTlaUllLUmpOMVBkM2hj?oc=5",
-    "fonte": "MundoCoop",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "dbd193a99a496e0403c800aa5815ca133187806e54a6b830ee836fcf1ec2f254",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
