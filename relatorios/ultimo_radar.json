@@ -1,37 +1,11 @@
 [
   {
-    "titulo": "Selic baixa popularizou os FIIs, mas deixou uma lição errada, diz professor da USP - InfoMoney",
-    "resumo": "Selic baixa popularizou os FIIs, mas deixou uma lição errada, diz professor da USP InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGo4S3psNlNuWVdMbzVNQVF1cFEwWnBteDZKZTlmcEhKUmtDZF8yUTlhY2tpQW8tTDJMSVJiOTMwQUpQWmZhakpNVDRwUDBuaXNZRkx5XzBJUmo4QWF1dWoyODNFbWkxTVh2aVlSZEQ2a2c5dWg4OE01bEpmT1JwWjg1cHdIYWJLSGNjd1hWZGxiVEMyVGVJR2NtU2pNWmtpOE5Nc2dHLVJJX2dEamhyNV9scTVMVldhc2tjV3NYcmZkd9IBxwFBVV95cUxNdkFfb045QkxJSURJYTNsV09sRW12SE9Yb1BaeXdtS3VOVXVSYVdxeEFNTXpRN2ZYQXV6Q1JyTWo0UW5TclVBalJYM184TFJ2ZzZMOHl1NTl6YzFyWTlMNmlzdnBOem9VVHFaTFhrNGRMa1VxbmhUWmhrNW1EVHFDZ1FvRTZTV05VX1lGOGloRzZyUnhtd09RZWFBMzlmMkR5dGFqSEtKN09fSDVxZWRwXzFhZzJmOXJ1V3dGMDNpUS1lQ01qWmR3?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "754fef98c622aab74e8ef63c8619bf5f2d941df84ca0321af4994f221b7a69e5",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "O Banco Central é apenas o mensageiro - O Globo",
-    "resumo": "O Banco Central é apenas o mensageiro O Globo",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTM3NGU4U1ZNVXlUUW1pRUlXRHI1WU9QRGFRMTlPdkEyTG9aUnhLaXB4NHFIQUIwbXNRa01SS2FVT1dsVUdCd0NSVXltRlBtSjF6UW04Wk9RUW9IZDY5Z21wQm11R0lPcmNtVUstMjMxRXVkMm1mNHFHazNYd01makI4QjJVaGZENXdfaF9IMEJGdzZPRXM3dURRUC1iSUY1OGNzRUpQd3M4ZlnSAboBQVVfeXFMT3FfbVduYWVNeE16WWYxeUFZZktqcFJNWW96YUR4SEFUbUNfSElrV2FfVmJpYnV4NjZnUmhUN0hZa2RzenE0NnpnUkpSMG1wSFNwWjVfemlqWHRYN1pZVEJhRHd3S1pmVTVOZGVQMk03OTliZjhwVFBkaFlwa0tDMWxkU2Nyekt4eDZhUklINFozNlV0RjZxNzBlYkxTVWNKV0kyU0pxY0FMVTRkajlESDYwNndNeUtiTERR?oc=5",
-    "fonte": "O Globo",
+    "titulo": "Panamá: O país sem Banco Central - Money Report",
+    "resumo": "Panamá: O país sem Banco Central Money Report",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45MzhaUWFBZ1dnVHhWeVJGdnprTzZacVNKb2FjR2x3d0I1Mm5vSWpDaWpoR0s2ZHVZSmt5OTAzc29ZZzRMTUhSU2wwUUVBekk2ZlpyQTRzaWpISnYzUnFQTmRTX1hXVE1UbHFEb3RSLUIzNnBTRk9XSWl4eFc?oc=5",
+    "fonte": "Money Report",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b795010cf43f837f87b2ff3b7919fe450072c8c4c184236db3a08a7dd41f4cf4",
+    "chave": "73e3bd3cef85cdd46aa114c0250b5f9b402fd71d08ba59cb6ab7515cced2af2a",
     "ativos": [
       "CDB 100% CDI"
     ],
