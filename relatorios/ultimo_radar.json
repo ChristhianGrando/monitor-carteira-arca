@@ -1,18 +1,22 @@
 [
   {
-    "titulo": "A treta entre procuradores e auditores do Banco Central na PEC da autonomia - PlatôBR",
-    "resumo": "A treta entre procuradores e auditores do Banco Central na PEC da autonomia PlatôBR",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmhyQUZWeWs4cW1ncW9vMjl3b1FCajZoV0FmNWdWN29hdE1Ob1ctR3lQY1htd2xXVE9yOUpLQzBpMG0wQkdzR2c1bFpvUXZORHFCYlJCTEJlNDlEQ3hDcVpsTlg1c3FVNThqQUkzbzFIZ1ZjV0FGSjQyRnpmN055SVBNTTBkT29kcGRyWTNuNTh6N2ZVSGVyTW00NWlETXc?oc=5",
-    "fonte": "PlatôBR",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a0406bc835d949bca57acf7925717d958f756934c316d70d6b8c0a50d31cc425",
+    "titulo": "Bradesco eleva projeção para a Selic de 12,75% para 13,75% no fim deste ano - Valor Econômico",
+    "resumo": "Bradesco eleva projeção para a Selic de 12,75% para 13,75% no fim deste ano Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3FveWRHdlJhbk56OUNnYWloX2EzTTNILVhKbnNQM093enVRS1hqYm1KX244T0tXeHd6WU10RjVZMkw1NGpyRG9ZMG9jZjA3Q3V1bnRJbDhoeGNUSlFpZlR3Mk41LVNobkZOQlA4NlZxc1pLai1yemV4THdqd1ZDUWpMX2NlVWtwRExaU1A0bWZaSk85NFBud0NXM1lVSjJMS0dhN3VIUzJIZHZjUXRHemFfRXlwYXBLeU9VT1F3cjd3c0ktOXZkaTNiSnJkYkJ0TzdaWGlQMTNWOHMxTFVZ0gHuAUFVX3lxTE5WRFEybWRvOUZCbzdBa0k1QW9oUjdyYzUxalptaGlGWGF5Q0hZdlpoZHdYQW5CdFU4QTRYRlhQdjJkbVZMZFVfTExGd0pnM05YSFZndk9pSUpsbW56aVZsMVVINV9DbjFRRFJiNjlTcy1oY1kzalRxQnlObHhUbjJVeFM4SlVOaXdYWHdDTDBLTFI2clRjamg3Y3g4V1lCaWtPYVlLbWFwcXM4RUE2LWM2TUNqV1dETnlrbk9SbFIwOFBtTklETDJrRTdaSXh4dXNvQ0pYeGwwdlRrcnFUUFNtQnROUmZMb3BVbloxaVE?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b7fc78882956b107d4ec50b35df5d395c6e3000c96f26dc819da5932587dddeb",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -22,19 +26,101 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "O sindicato que representa servidores do Banco Central contratou por R$ 300 mil a atriz Luana Piovani para gravar um vídeo contrário à PEC que dá autonomia financeira e administrativa à instituição. O pagamento foi autorizado pela direção do conselho re - instagram.com",
-    "resumo": "O sindicato que representa servidores do Banco Central contratou por R$ 300 mil a atriz Luana Piovani para gravar um vídeo contrário à PEC que dá autonomia financeira e administrativa à instituição. O pagamento foi autorizado pela direção do conselho re instagram.com",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53aVZiMlpLV1ZDT3Zhc2d3WU5ZcGVONlFmLUNSRG5LaWN3eWcyS2YwREdndzZuZGFKMmxqeGtraER4eFRHVGN1TXVBNVZQY3ZaSmc?oc=5",
-    "fonte": "instagram.com",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "63c6d4e52cf7f57ffee447b8305384066005a2c6260941688d1fc44941ac30e0",
+    "titulo": "Boletim Focus: IPCA de 2027 segue em alta | 29/06/2026 - XP Investimentos",
+    "resumo": "Boletim Focus: IPCA de 2027 segue em alta | 29/06/2026 XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSk5xd01PNlJCUXNkb1dlZGpETzU2MTc5VnQ1YkpfbjVFbVNzUzI0aVlTb2p6U1pXOW5lMGdudHRzN0tBTjZpMlF5NnM4V2Jsdmx5eFkxd2RzcE1YZ01FS0VuTEcwLW44LTNibjdGYnB0VWRHMWlRemxDb0tWakFRNk5GWGpEbE9UdUNWSnliUEV5LTJB?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "6c4175ead25652a0afb3e00365c408aec54c71937c27d0ccbec3134328a5859a",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus: Mercado interrompe série de 15 altas seguidas na projeção para IPCA - CNN Brasil",
+    "resumo": "Focus: Mercado interrompe série de 15 altas seguidas na projeção para IPCA CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnRMbmVrc2dJRlh0S1A2Q1lzbWZQVDZFUlM4ZkNQY2JjLXlRNXJaV3pLSjNCcjNyd0VLdGp0bU1YYW05bVpsOUdqNjdveENJcGItYjdUNERQV0pFakNQaXNpZXVRVzZaOTE5YXFjazNpNXU2X1dfV1lZdWFhQzZaalhVZnFHdVR3cVZGZUtFVWhpaTVMZklaSXRFTTROejhGWER6RzdYM0dhRkVxYW5idEd5SHNtSkZ4ZmlXLVpyOW9wSE1l?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e32d6c7e1125c5e399aa8a8987db6552f676df252deac1de62168ad543abf639",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado mantém aposta de mais um corte na Selic em agosto e vê inflação mais alta em 2027 - ISTOÉ DINHEIRO",
+    "resumo": "Mercado mantém aposta de mais um corte na Selic em agosto e vê inflação mais alta em 2027 ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNUkxZVJaRmpWaTlTdUhhZzQ2LTZvbXR0a0NfZXdRSXhrUF84OGYta2RDSTdmRGhYZ0s1ZWpmdGlzMTJHc0hSbWRNTW9iVGdYUWJFWldBTFl2SHowb2FSNGtyRFI4V1lqU1pCLXM2N0otMlFsb2I3ek9uUHpTTVRGbEdwZ0xiNWxMdVB6U1JySllQb2NycmItZUJsRHB4MGtDVDM3c1pIeGNnbG1vbFdBZktjb0lXRmRlMkE?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e7e3308e66c7ba907d24f05f45f31d2175e027a4efee565b122c124f32e27cc7",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mediana do Focus para o IPCA de 2026 fica em 5,33% e segue acima do teto da meta - Canal Rural",
+    "resumo": "Mediana do Focus para o IPCA de 2026 fica em 5,33% e segue acima do teto da meta Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLW9ndlZBS3JFdzdncmJzVGVOc3I3U2RRN0FUc1M2VzdIWGMtSWJDcnd4M2dtWTVOQzVXVjlFREd6UXQwY3Y2emZSYkpsb19ac2tPY1czb0dpalJKc2xfaFlZTnI5VkVPNVNzMUM3NUdIZTZodDA5S1h4dmw5WHJ6eGtGRHhGbm5FTUlXcENlYjVCWW92WVNOdXNoTGJqcUFVdDRISEM2OGNPeUpxVll4SGx6SnhJd1hxZmc?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "44aa8f188e04ce9c26e3e36084512518cbbb3e91af9a084dcb32347d2788118d",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
