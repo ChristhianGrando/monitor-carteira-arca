@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Investidores se preparam: Selic alta cria a melhor oportunidade nos FIIs em anos - arevista.com.br",
-    "resumo": "Investidores se preparam: Selic alta cria a melhor oportunidade nos FIIs em anos arevista.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVE3M2xSbHV0MlQxS2tWTFNxbWFoOENpTTlzbVBJT2lrZUJYSkhsdDVhWUtObUx3ZEVRSm9JZlp4cENPTFl5REFLZ1E4Z0pvVXZnd2VVMF84WTMxM080U2dxckFaLWRuenNzWjBsbnJnbUoyMWstZWo3RG8zR1BUeWxoWndGek5KaTNYYkJNZV8wNDluVFR0Y0FhcVo4MGlmVFRwNTNCU0VkSzJnMkE?oc=5",
-    "fonte": "arevista.com.br",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "a48a22c0e2535343538daca869b764aa750a38af722b6e006b316837474c53d9",
+    "titulo": "Como funciona e quem pode investir na B3 em contratos de previsões de IPCA e PIB - ISTOÉ DINHEIRO",
+    "resumo": "Como funciona e quem pode investir na B3 em contratos de previsões de IPCA e PIB ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjhNTFZiR0I5YmcyZlVoTnl0UkptdFo1V0RRSXQweVR1LTFkQXdOZ2dxSVB2M2FmUEVKTlNuOTFRV3NURkJmUExrLWtDS2NQSE5BU0NDNXFqLXVkNGpyaHVtTktQRVZfSXcwcnZId3dMUUM1ZVFvTDZ1dG8tQ3J3REwtMUhsMGQ0cW1IX21BdGY0eXE1OUJoQ3NQMUlhMFduWUY2b3NSRjAxcHNHdGc?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1841b681b21c79cb3a539643042ea6e1ea2c50736819e24f025784d1d67f3cc5",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,14 +16,57 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "PEC da autonomia financeira do Banco Central gera debate e coloca especialistas em lados opostos - Estadão",
+    "resumo": "PEC da autonomia financeira do Banco Central gera debate e coloca especialistas em lados opostos Estadão",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXk0SW1vTXUyajVnWGhuZ3JmYU5WdFlNWk5JOGR0OGptcG15T1BxYkNiSTlhM3dOMDJnT19iaHNUdzRQTTN4S1g3NzF6QkZjTnNXUmUxMFpyZWdPN1RTZGRRVDVKMnJydzN6aUNyOF9KMkR1MkdJNFk1bWoxRmlzLWUxM2tlZExZdTZhUUJyOEI2ZmxCWElXU2NPR1B0VHlhVkVUWnhUMHZMYjVPZlBiNzhDUXhKQdIBuwFBVV95cUxNMVlleXYzVXZGMmpyajFZYzdTY2RxSHNaSUlYS2hpTjdWWHdITXI5QW1hbU5wRWlpMmJzcUdORWowZmdvZzMtWmZNaUNpUGEybjhJUFhJQXFpSURjalBWbHFVRzF6Z2p1RFd1YTZGTVA1dU1oWFdkSEJyN19vSGxUdmR0T1hXQmIxRVVVblBsS1JMYUhZUXh1TTIyTF91Z0MzRjRTWndHS2lMM0FoQTk2TXVCYUZYM2ctaF9V?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3549fc75975e3fc81e9710c207659f04dbc94dd334b2fcc898972ecae1e85845",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central prorroga contrato com a B3 até 2028 por R$ 77,5 mil - O TEMPO",
+    "resumo": "Banco Central prorroga contrato com a B3 até 2028 por R$ 77,5 mil O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTRzdnp4Q3FyZ2N1LUEzUXNKLUxEZTNhQXUwdkVIM3hmZW85aDZIY0lxeHJZYmhrWUc3QUFjRDBOck5XY1VLaXNGZkNZYk02enlvX08ya0liS3pMZHRpYzJ2SWZZcTc0QlJpc29GZENpZW43a29QVTVXcU5lMDNQV3NvYkRTRnU0akcxeUdNajh0WVVDNmhXNkZ3UjFDUzA3WS0zZXVWRUpfeGE20gGyAUFVX3lxTE1UeXZ0WndybmVCUmUyRlNVMTQxTTJlN1N3WS1zZGoxRy1hdnVIOHF6SFZuVkgzRUowMWFtY1YtdlNjRjZRVndYcjBENDN0S2hSSDVsenIyMXJfOS1xT1pmcVBLYW1SLWlkRDg4TE4xeWoyZ2pDZXBXdi16cml1N3l3dFFJRVA1T0QxYUtSU0xzejNSU3Vfck9aQzVuRU9mazMwZ0oyTVhuLXFDRHFtWG9NbXc?oc=5",
+    "fonte": "O TEMPO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0499161a2c0fb3eebffec6417cf347f624de5117e21d95ba1d0cb0993361272a",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
