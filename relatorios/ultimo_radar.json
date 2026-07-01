@@ -1,20 +1,49 @@
 [
   {
-    "titulo": "Kevin Warsh diz que buscará \"com firmeza\" meta de inflação de 2% do Fed - CNN Brasil",
-    "resumo": "Kevin Warsh diz que buscará \"com firmeza\" meta de inflação de 2% do Fed CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVdCbS1UWEZ4NUZNVEFfT3J2d2tTdlV1dm1jT0trX1VLbTAxTWJKb09xSzExNGtrTVpkVjVkdGloM21YSW9DYmdCMXl6N3R1Q192YW9hazRHeVBaQ0FSTkF6bGhrZ3daQXkxUUw4Wkp1VXVCRTZiV1A1eXQ4dTN6MW96dWM2S3VhX3F2ajF1a0xCeHlzVFVGcEp4N1h1YWI2UlFhLUttdXFESFdCS0RJTXdtTm4?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2509d83052ab08d4010e980679a2f7dce8f643fd90fe3d645e0464dca9366cc7",
+    "titulo": "Sentença autoriza retomada da correção de depósitos tributários pela SELIC - Honda, Teixeira, Rocha Advogados",
+    "resumo": "Sentença autoriza retomada da correção de depósitos tributários pela SELIC Honda, Teixeira, Rocha Advogados",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGZzZWhrcURCRWdiUl9ycEZWOFZjeEFJdnJYVzVWM05nZnJHek5WbU42LTBCZWRvUTdHRHBQY01nd21BS3FvY19yRFhycjB4TXRmS2VpcFQyNmNyY29Lc3ZkNnRPeXdSM3dCdkc4Z2FERnFFYV9iZDBScER6WEZoOVdwcHZxMmdtQjRVZ1hhLWw2REN5TV9IVm1RWnpWTWFELUk3Qlh3?oc=5",
+    "fonte": "Honda, Teixeira, Rocha Advogados",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e14bfdab94b86be85881973d634f98b95ddfaff9c18f3a21b4dedb253efb5cea",
     "ativos": [
-      "WRLD11",
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Os impactos da Selic no crédito - Monitor Mercantil",
+    "resumo": "Os impactos da Selic no crédito Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBraEdldzR1SzVsZURKUFNQd0tXbnJfdENsbFpOZjN1UTl3MHJpQUpucy0wNXBIMjJrT0s4UjVFVDhLS1B1eGFTazNXMi1JVUkyMFAtdXhOWURpZUF3akVoOHVVUXppU3paYzRGU183NGt5UQ?oc=5",
+    "fonte": "Monitor Mercantil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "21ffcbf59366a4d4fb7799d6ec0e768543c89f83399d3e88b9214f695cc082e8",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -24,12 +53,36 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "BC divulga Estatísticas Monetárias e de Crédito à imprensa - Banco Central do Brasil",
-    "resumo": "BC divulga Estatísticas Monetárias e de Crédito à imprensa Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKbzJVbnZsRjRfQWVyVXd3UDZKVFBMUVhIRUhiNVJWaTBXVGpKWHRid20xQ1U5d0I1WlFOZ0lxSGlnaEZtNDFNSXVnZGR1RnJ0TnY2czVnY2dtVEVL?oc=5",
-    "fonte": "Banco Central do Brasil",
+    "titulo": "Ibovespa hoje fecha em queda; dólar sobe quase 1% e vai a R$ 5,21 - Estadão",
+    "resumo": "Ibovespa hoje fecha em queda; dólar sobe quase 1% e vai a R$ 5,21 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTVpjWHlsV1FSNkNyZzZ0SWc2bEVLNmNzNHlTS2YzVTlsbGZVQWM3ZVpqTmhvYlVmTmw3Yk4xVWp6Tk4tcVZiWWhUWGZCaGp3QWF4THFJb3NIVW9rSnc4ZkdkX0NJd0pBT0NfdzFhRkRzNzJWZDVHWEk0NUtfdXpvVDBDaTJGb2ZvdmxodjFmSUE5eFJzV2MxWWtlUF9LQk9RNkpNZDhmX2pBOEppMkpPTTVvUzN0UkQxVHJZZWltcXROMlVmUGVqOWU4NGZnZknSAdQBQVVfeXFMTnNycHBQQUZNVlQ0ek1sd1VHclJMTFp2TUJEOGZhb3R6TXYxS1otLUJfb05YQWliX1pBTjJIdXZtb1dnRzVUa0t4TkJ5amZqZ2tvaWE3c1o5RTFvRVFBaDVOS1V3SmlDN3gwWG41U0k3ak1GSWpmTXV0UExVMnpBZVVpY092UzdiVVBoYWFCWjA3YjZjTllfcEVTVEkycFoySHY5VnJFQnJkZFdjVzNVa3VBQ1BsbEMxa1Z5Q3FZR2tvNkVDS3V1U3pYMTBXTlNqY2RidTg?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "dd29f455c18a069159b08f7d8868cf0a23a82aa7a9a111a4d6ed6356c347c542",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "\"Se acham que estamos satisfeitos com inflação acima de 2%, vão se decepcionar”. O recado de quem decide os juros ao redor do mundo para os investidores - Seu Dinheiro",
+    "resumo": "\"Se acham que estamos satisfeitos com inflação acima de 2%, vão se decepcionar”. O recado de quem decide os juros ao redor do mundo para os investidores Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQM3pNcUhiMUFiMjVLaGN6Mmh5M1NjaERUbzRzSjBtYmFMWTFfWFhzMFZETnU5X2NHRmNXQ2FvZXZKMEJCVGhxX2lnanZsSmJteldWa2NIeTFfTGdwQ3BSLW90MkU4VXV5R0ZydjY1NzBqZ0JaaU5vaTBhbl9ybjduWEpiVEh4dVJDbU5sZDZBYi1DTkVSblRyeDZodVEweVNDcVluYklwQk0tdzhRamxfVGRNaTA3c0IwelotbDF3UHBndlVjZ1VwUmRsYnBqNWV0Y1N2bHhGMnp0d1hCRWxnaGcwazlYbklZZFlhcDR0TGxSMmlyc0Z5Z0NXQ3F4bzdKT19rTEh1X1Z4QVdyby1ibmFDM3lkTThQckpsQ2JKTzVmUEI3ckxv?oc=5",
+    "fonte": "Seu Dinheiro",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a7f00b25407cfa9bfe601a130bee2aa55c65f4ca3cf5d4920a91ba93ba7dd60f",
+    "chave": "672a8dee2a476042fc84ca9286185002c6cdb4d7df3dd38da16d08701a2ea51f",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -46,17 +99,17 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Inadimplência do consignado privado sobe e chega a 7,9% em maio, diz BC - Folha de S.Paulo",
-    "resumo": "Inadimplência do consignado privado sobe e chega a 7,9% em maio, diz BC Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0REWFVuY1BVQmdmWHNFOXRiWDdocXEwVlk2QTU5REw0eVhkUlhYZ3lCYjd3eHN1a2FBeFdRNmcxOFZCbkg1LW5oWjQ2SjNGZ1k3dUxGUG85UTh2UzRMTHU4c0pra0p3SVdYLUVuN2hxVkRkWGVpNXlWRFRjNnFiOFZ4dVpoSzlmSG82M3FYSTRTNDlrMy1XZ2JUbHNYeE9rM1RXQUppbV9WamVscWZSdTNuQnNTWnVLOS1SWtIBwgFBVV95cUxOV1lnM01ya0ExUnVnNEhLN0Z0WjNPZVNGeklhUFR6RkVsc2ZlYS1peVZsbmxKekRlRDkybVhrU1lnSUZrS2hOXzJWNFNwNGlHRWdPQWxIRUdzQkZNRVJ0bmNBakQ4MzlSODgxQXZFZVdVZE42dzFMbV9TaWhmVzgyZmwyT0hUdllRSFVkOGtENHpsN2R2RTVyYU5ZQk15X1NVb0tzV2FySjgyTVFnTkFXUXo2RGJaZTgwejN6TEp1N0V4QQ?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "805812fa965ad9186340c4aa4650365a80081dc75a40cb17bd05436b4c30de9d",
+    "titulo": "S&P 500 e Nasdaq devem registrar o melhor trimestre desde 2020, apesar da guerra com o Irã. - TradingView",
+    "resumo": "S&P 500 e Nasdaq devem registrar o melhor trimestre desde 2020, apesar da guerra com o Irã. TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xbVV3SFVvTDVLYjFiYm9keWNBSEFkS2p3T0lYVlkwOE5iUzQ1Ry1oa3RBVTJyUGt5cF9JU2JBQmppWEJYekNocllxR3ZMYkN2WnN2UFY2NFp0aXdSOU9IWm1kOWcxc3VkV1F2cHp4ckFXOGNjV0Qw?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "056c306d9df8faaa286107b3ae30d8f233a1642f5793b0e00a5d5bd071d59dda",
     "ativos": [
-      "KNCR11"
+      "WRLD11"
     ],
     "classes": [
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
     "score": 9,
     "motivos": [
@@ -64,29 +117,6 @@
       "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Apenas 2 investimentos de renda fixa batem o CDI no 1º semestre; veja ranking - InfoMoney",
-    "resumo": "Apenas 2 investimentos de renda fixa batem o CDI no 1º semestre; veja ranking InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanJwRkFGN1dKdEcwNGZzYU8xS0FEWU4yQW94MTVSTkVfQW9PMERIejdxUUFibUtwanVVME5UdlJwOERSTWpKa3EwajRZcjBHNXNEbzJoM2MxNmVwZ01FcEQtTjE1azV6YlZPR0lkdEdrRHVmellBOE85NFVWNW4zQmpnbDlKNTZUNy1PUExR0gGTAUFVX3lxTE5kVkVvTFRqSEE5Q0x0ekJLcWQ0RzNPMGUwYUxqbVpuMWczZUlZT1dtbEQzbkg2ZURhMnBHWTV2bVk2blNVUnpyVkFHU2xWdDhUaUJFazh4c0JXVldSLTYwa1JqWmlNQWZoV0ROOEV3RWNZSXhIZHQyR19NQkQtR2VpX3BYMmJDQW5IbF9CV3R2aF95OA?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4824820f2f8b8c723b93b269bb80907fe3b819cdb434b1920832a5ad903cb085",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
