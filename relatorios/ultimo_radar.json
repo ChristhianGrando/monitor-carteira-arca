@@ -1,118 +1,65 @@
 [
   {
-    "titulo": "Ibovespa fecha em queda de 0,68% e dólar comercial recua a R$ 5,1630 - Canal Rural",
-    "resumo": "Ibovespa fecha em queda de 0,68% e dólar comercial recua a R$ 5,1630 Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGRDbkJ4RmZxOS1XTmN0UnJjdnhBXzdCVkFzN050QkNvSEFUdXN6Sk54My1EWkVLeWNBUFJEWVZxdWtScThwamhwQUhMY3ZBZTNWWU5fODRoZDRoeUZjdkZZMDdHSFlqZmM5QlN1WDA2aXY1YlpneU5KUnpmd2N4a2VMMkFWN2FQSWFDLUF5Ql9UVGhIMXBGM2x4b0JRcThTQlZIZEJlMA?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1a291827d4aa2813e5d8ac2e4f67c885dd73bbb16f528839113d5bb0a22e87ea",
+    "titulo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã - InfoMoney",
+    "resumo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlR3YzRpdFZMZjkyZW85XzF3OFdxeGpzOHBPM1lkbzVKRXJ5OURwTWtPb0JCSzdmeU10OHotMUV3a282S3FhR2VWTFNyaWg4YUFrUE1kdXdpSmJ3b19UdXItUWpWLTJJX1QtWk0yVF9DM3lpZjYtTU01X051VUN5dElrXzJyVDhNaXJkdnl3OUNzZmFjUXpXZnF2bXNpTEtmeG1NRXFTMnRMbXZOS2V6SWJFMndGSm_SAbwBQVVfeXFMT05NZWg0Qlk5WUpYVHhKU2ZDSTBMdVBHLTJEM2hxcmZUUThxTjZTX1FTNjZNU1VNYUM2NmFiZzZnOG81bmJNc3J0RnJUenVaekR5Tlg3SU5hR0FJbjhsVkl2bUV0cF90RE0tVWZEcHpyZ1pkUnBnR3N4QXN3WVRreE51dXpPazZIMlBhM3RJMjlpR1pjdlFfbnBmeElqQk0xeFA1NmlidlZvNW9kdnMwS0d0azMyLXM5NVV0SDA?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "03176867fc6c3e239b7fbd5788fb4d7adcdcaff7efa7812379c33e0373ec6a31",
     "ativos": [
-      "IBOB11",
       "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ativos Internacionais"
     ],
-    "score": 11,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Atenção, Copom; saldo de empregos com carteira é o pior desde 2020 - Monitor Mercantil",
-    "resumo": "Atenção, Copom; saldo de empregos com carteira é o pior desde 2020 Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0NoSk8waVJIMTdpWGJhcVVtcndINl9sYUpzb0FLT1FoM2JKdmJqbjJicm53QU41eG9YTzBHeXluR1RSSFd6ajB0Z2tpY0JIWkFjYTFXcFdIWVVjWkt0X3UxNnNhMzgyYnJZNDJXMmRlbkhwMXNwN3k3NmVhbzJVQmVvR0kyYUU3NHRtWmRqamZsak5NcWdFOHBnclA5QQ?oc=5",
-    "fonte": "Monitor Mercantil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "dba220c326d0f945f5a0f7e3ec17aa5354169b177e6a04ebbdaf096a7be51f31",
+    "titulo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã - Terra",
+    "resumo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã Terra",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOFhsZTZ6dGZWMmU5NmRNRzJzV2VXN1lVbTFXaUlfS2xJQXdzNHpFS0xhLUFySkdlV0N1SnFLb3VnaWg4WEZVLU9jczdTTjU1ZWoyNm1TUVNVMFpPLVdabXlMeXlyMGJCWjRyb0FYczRqQ2QybGVJaE1UQl9TMks2QW4xeGVQaHRPUjdSbjgwX3RwN3hIZUpRZzdNWVBIOVBPcEN6Q01JVURXNEZacDNvcnNVX1pCeUdYalItQkFwZER1VHJJaGxaRFJaUmNsUHZycHdNVlBZNG1FNll0MDlmZ3NnSVY4a2phbTFpdThn?oc=5",
+    "fonte": "Terra",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "8e8d764fae886c63b5080eca661249c6a61e56f79e40bab053618e8b06642338",
     "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
-    "score": 11,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central lança sistema de duplicata escritural, que promete destravar crédito no país - Agência de Notícias da Indústria",
-    "resumo": "Banco Central lança sistema de duplicata escritural, que promete destravar crédito no país Agência de Notícias da Indústria",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTktSX3BxRVBUbFFBTmIyT0pGMVNvWHhFYzBQOFdpTHJWanRqX3Q3NU15MFdmenl3MDlXX1ktSk9VeUxqNklibENlMjFRX3VwMXhyX19MaV9PaktaaEthQnpDRzJhSlhJSkNKMHZfSG5YRGgtREJIZG5JWW5wT1Y3MTFIa2R2NVJ2eUhBQnMtSUpoSTVVT0ZBdmE3VG1RTkc3cXZNd2FyTkY0eEYwcHRKeTYzZlVFTldseHlOc0VJTElrZDY4Y0kyVHFhaEo5THV0UUlpc3VYcHlXMUxRUVBlRHBLT3Q?oc=5",
-    "fonte": "Agência de Notícias da Indústria",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "490ca4c6b1412e86c17a9e59de8ee941ff5e1bc60674a84d24ad96c075bfc638",
+    "titulo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã - TradingView",
+    "resumo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SQnlPZ3NRNk5JLUZjeUNqREtVV0J3aGZEdV9nOGI0NTd3aS1kVlRVdk5NaENoRUsxTUpBc1o5cmp4TEI2QnRyYk5ZbmpxWDVvY19sUE0yZ3M0d2J1UFA0d0M5UUE3LUgwQnRtTTdjN20wYm54a1ZF?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "7df75f3edf737f16f711e01ea1e5f9c02836ec36e642f8640c025fdba5c1ad66",
     "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
-    "score": 11,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Câmbio vai depreciar no segundo semestre. Como o Banco Central agirá? - FecomercioSP",
-    "resumo": "Câmbio vai depreciar no segundo semestre. Como o Banco Central agirá? FecomercioSP",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcG5oV3NRTFBQb2R3bW83TnVRTTZjaU1OMUlEZ1JZQUIyaW9ISGg3ZUpsTWpRTTBqNW9qNVMyeTYtQzk4M25va2FSSEV0VlJ5aTB3NS1qUlhFeU9NUENFUXNEQkdyMDB1REwzUG5wTVk0VG9NNDdjS0otQjJtUVFmTzV2V25fcEJFeXdMUWRjQTVnQ3B5N3Z1azJ0dktBVVRlM1kzS3pWWlY?oc=5",
-    "fonte": "FecomercioSP",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "343ae864de5172d5f1ee4162c56a17d953f8b15d0444d878de904b8a22ca78d6",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "PEC do Banco Central divide especialistas - Portal Contabeis",
-    "resumo": "PEC do Banco Central divide especialistas Portal Contabeis",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXkxSmhHZkdrVkdVVzFteWlFeDV4UVhhckJxZU93YmNnZks1UlVLcjRZZXRnN1A5SEp6VExqOVh2M0NjTEJseEY2RXZJWjk5c2h5YkxVQ3U0V0p6a1BmSF91V2k3Rm1Yb0FkX1VzNFlXdW9KeVpqUkc5NlNJY1FBWmhTYkp4dkZoMDlHcHpLZw?oc=5",
-    "fonte": "Portal Contabeis",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "db2afc06aa28f57f9d57c840a728b7d1a1f606dfde709595adcd1bce05a93822",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
