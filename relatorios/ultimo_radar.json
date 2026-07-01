@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Mercado aumenta aposta de corte na Selic em agosto após surpresa negativa do Caged - Valor Econômico",
-    "resumo": "Mercado aumenta aposta de corte na Selic em agosto após surpresa negativa do Caged Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdEg0S0tjX2FXNVVNVjVVcDdTMno1V1ZpckJwS1ZTTWxZR3gwMmtKWmZBYUcyNGtaYjNqcVMzV09LS2w0bjlXaWNnTENBR01CNW1LQXZXaC01U2k3QlpoYTY1X2tZVVJwdnhBUHZLWUZfc0N4bHFublM1RGhjSllyWDJwem1id0FwTW00R002YnNUQmtiQU1HUFpPTDhFU0N2NmJDUk9jRGhKQ2xrenFNTlVmRExveVFTZ0NUamE2cVdfWGgzVG9HUGMyVEgxdFdFSHVZTVhxWWtCa2_SAeoBQVVfeXFMT195S21Kal82cUFQTk9SU1lzMkNwM21pd3padGJZSmRpYWR0RmZuSnAwZzNUUy1RUTZ3VHVpWUpjWktHaTNTQVpfWHBBMzNCc1hnR1NLZVEyVlViNnNjbTVvU3FuNTdMRGVTRzJLOHc3OEdtZUt6bW5ISmtMY1l2MkwwQl9Mem13Y214YXZFczdrdFZtSkVIU09ndTZzRFBnTm5xRXZiX2I4NXpqTWpTRVVaMUdETGNEM3Z0OXl4ZkViOUZ3MEJBWHNkOENDa3g0VU9uckhsUzNyVzlHM2Z6QXNhM3dQNDVlMi1n?oc=5",
+    "titulo": "A Selic que alimenta a inflação que combate - Valor Econômico",
+    "resumo": "A Selic que alimenta a inflação que combate Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUZ3MFg3N2ZodVRoNFZyd3NIOW40NmlZNUp6NGk2ZmFXblBCM3dVSUhRSTdPS0VuSWZpZE80alg2eURyWFEzYjhNajVUNV9CQlFHbU81My1CVzFlZDdBM1JuXy1NNzZXVGFtVTNQdXExSzB2Z25XUE1SaDVmUDQ3LU16TS1OdDJTcE5EQVVZbENFRS1PdFpXMXRON2ZDdS1n?oc=5",
     "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2321365bb4f45e0852330ae0d200b2d3b16bd4b46e3477b88d69bacc15338beb",
+    "chave": "b418ddf7d6e14d99e8db4f4a7dad8e81e989151dc59a0866d693d013dc699c3b",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,21 +26,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central lança sistema de duplicata escritural, que promete destravar crédito no país - Portal da Indústria",
-    "resumo": "Banco Central lança sistema de duplicata escritural, que promete destravar crédito no país Portal da Indústria",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekpwdXpmS3BsM09NRW9aSXJhUVZ5eHo5OE9nTlZIWllzRDBfOGhrcW5QSVY5ODJyczc5NXpkNzFPREFicmstOXpKam53TkRMSUtEek9iZW1xbDFrUHQ3NDh4X1VHTHNLU254TEhtNFEtRG9QSFV0NXJob2JkNUlFdDVXalpaOWg0bUlCa2oyWlNiQjU3bVZ6eTdTbllhbVdjY21NTnh4aGE0NnZFbzNTTVlkMVBfbXBqdTkzRWNLdGhLNG1YdTRWRnQ3emxVLXZwNGx6RDhjS28?oc=5",
-    "fonte": "Portal da Indústria",
+    "titulo": "A Selic que alimenta a inflação que combate - Valor Econômico",
+    "resumo": "A Selic que alimenta a inflação que combate Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWElqQi04dkxmeGQ4NUEwV0JibmFoOVRWMUNiNzN4UXVCVV85Rm5TTmJpOUYtem5jN0drSS1ZRThaZlp2M1J6M2VyYjlRU1M3d1VoSHRtdmk2NWd3UjlRNFltZUhIb0lUUmt0SXhtV1h5amlrOUwwZXNNWXBGai10WFB4YVo4ZTZhVW4zWjN2a3Fpdw?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2e176251e2d90b8122101279a9ff1b934cdc065c18c035550119a66ba334848a",
+    "chave": "ec7dc49737c5d53a36469940dac6e2f557248b46c9a992441a9dd6405324aa70",
     "ativos": [
+      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -50,57 +52,60 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Integrante do Fed diz que inflação elevada pode fazer banco central considerar aumento de juros - UOL Economia",
-    "resumo": "Integrante do Fed diz que inflação elevada pode fazer banco central considerar aumento de juros UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV0xJbnYwNzRZRTV3QzdMZnh0dVFwakUtSlF1YUFTS3FqQXNOYzYxY2pjbk1qaUlDY0tkYm8xamQwNk1LSmhHaEpTOVRBQUR6bDVrS2J5czV4VURlSG12VW12eDdxNmUzRG1kT0ZyVzl4bmlpbFdURkVvaWF1N0M4MnVDeFRDV0VjQWh4MVpHTW5tYVFYbUNRUVJoOXdKTU1UeUFJcld5VWpvOXRZb19fd0lBYklCQWphQVVYeUxTYnkzbDRYTnF6eVZsSzNNNGtINURFVnBodFlwUjkwWVBheWxmYXZxQ0dCQ1gwdHNLb0FGOUUwbENn?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "17c8f490a1733a9c00479524802f6a6e69bbd962bbd14380d6a83f2f87c87893",
+    "titulo": "Ibovespa B3 recua 0,68% e fecha junho com -1%; dólar cai a R$ 5,16 - Bora Investir",
+    "resumo": "Ibovespa B3 recua 0,68% e fecha junho com -1%; dólar cai a R$ 5,16 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHdOWTA2b0dSa3ozRkl5TG1YWHAyOFQwRk1VUTRTSzFsNDh0WXdlQmREQldsemhZa1FBaVowcHlOcjZsdGF3Umxfa2UtT1kyVTVuRTJmckVpQzdRRXB0YUFqdEtNMDBJSll0SGt4ZFBjVUFJbExBN3dxU3hoakZiZ19ZNTF2WTlVUXh3cjl6YkpLSkpnRXRmYk0zd2Y2eHNheDg4VksyTDcwaUE3?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "8d79dafc2eda1e130e5dbef5d81bdfb8728f916129caecfbdec8e5ce19c3d9a0",
     "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa hoje: Natura (NATU3) lidera altas; Braskem (BRKM5) tomba com rebaixamento pelo JPMorgan - Estadão",
-    "resumo": "Ibovespa hoje: Natura (NATU3) lidera altas; Braskem (BRKM5) tomba com rebaixamento pelo JPMorgan Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdXpTMlZaczJHRy0wb0hHWGN2OUVmV2FZMFRzeVJ5dDZfdjVCeWcwQnFkTTNFdk9fQk1FQ1BIVUpFbXZvNTdsOV9OQTFlazFBSTRXbWpPR1AxT1h3YXRja1BmNGlsRU9qU3JCVjB4dGpVN3FMRjEzV1BaS0xnOHpSZmRwN0pjRHFSN28wdGN3N1JDbmF2WVJQdHNVa09LNTJZaExaa2J3VjgwTWRDVEpKMXhPSEYzcWdqdnZ4UDBwU1g4MXRpT0VhZTk0VWJWS2UzZk9YQW9MVUMxczVaUWdEQUU1QdIB6AFBVV95cUxNQVVxSU05VWoyT0xJZEh0VExiZEZMaktlMDh0WXpDbVZSNTA0ZndxVWZNYUdydU1fMV9jRWVidTJJZExjOS03RzdWSHNZSGZFaDBKdmtiUzZNb2JvenVDdlN1Q3ByWUtwR09XR3hrMGJtbUVFdWotYU9HY01yNlIydjBWNjVsZGN0MW40REhTd2w1VmhJNFJ5MkhWLWNBYWpMRGEyQU9ocGI3SmJUX1htOWFnNWFBS1VOaVJsN1dYclN4UXVhTk5JUmZ1bi1aM0llVjRzejFpT3NwX0dFZzZSX252czVQVFJD?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Dólar cai e fecha a R$ 5,16; Ibovespa recua 0,23% - brasilagro.com.br",
+    "resumo": "Dólar cai e fecha a R$ 5,16; Ibovespa recua 0,23% brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1B6aEhUbGxfUGJHVXprajdLVmtwNUtjekU2WThrRjJJLWhrS0EtUnpPLTdyWWl6NUFaT0txR3JMeV80N2VYeUgwVFVSTVc3QUhJeUlfRFV3Y3gwZmM4d1c5NkZFdG5taXhiVi0wZGYxS0JES05NcDlhb1ZoWDFOMm5qS0duNEFCQjFHOXZLNzlVUQ?oc=5",
+    "fonte": "brasilagro.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "85adc04de82f1833bceed72b247ca7b279a09354e5c084fd88dafb4799f27a5f",
+    "chave": "2efba920e8608c8f373bd73abc3495761abbb31fdeb48da0dea7e2771e78bbdb",
     "ativos": [
-      "IBOB11"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil"
     ],
-    "score": 9,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã - UOL Economia",
-    "resumo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFNIM01EU1NDc3FIeHhldS1TQzBIeG9kNGtVWkgxTGtkTWwzYTMzZFQ1WkNZZlUzMDNnaktSMmd2ZTdXdWJfaWMweTVZQXZBWHl5SkE2dHZvaVhvSm13S0lHUXRrYnl6a0liWGRrZFFiY3plTnJ6NEJtV2t0bndTdktUV3BWTExpcVFveDBfQTdiSUhaUjd3U0FVanFQODFQZ1NENFllYmVGeHVqQV9UdHhJWm9yX2ZCRzUwUkVWLXdWWnNxSk4yVXVtX2NqX0dYd1dr?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã - Notícias Agrícolas",
+    "resumo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmlrTmtPZ3ZrS1htc0pMR1ZFQnVsVllhVjRqME96SkVwejhNb1ZHRUhTclhWS3JncTBaMG1oWkpZODlGdXVxQ1JVTGZ1YUJEWmNUUnJtLWhmT213NFVPdEJ1NnBjMzQ0dDJmMDdia1J4NmMyUW5ZbXFOcE11eEw2MnQwYmFxSmlLYjZCVndZQmNNSDNjS0ZnT1FTV2hrdno2V0FKSUgyVDU0aTdrNVl5Z3k2X1RLdW0wM1YwTU1LTlE4M01adlE5ZFoza21iWUhsd251M2xGa2dtYXd1Z01Ham9CcnFVdGRu0gHuAUFVX3lxTFBCTXo4SW01ZXhFd0cxZXVjeVJPUElGVjVZOWRjbXdnTmlUNVlLN25HMzBfYzdRY1N3blRTY3R1NTY0R3U2ZGl1Mlh6cVVEWWNuUkhZbkJEeGgzWVRFcjNDOHBFNzhKR2lHSHVwOW5sNC05TVdVT2JnNi1qVTJ6Ylg2bC13QVVTbjQ4SGxySVdySFJGNE1NLW1CSjE2NHlZSTFiRXpadEVycXNYSnhBSkpicXVPSlFTTVhmbWc4SlpvdVJveFdCeS1wXy1yd0NpSGd5V3g2T2JhQXBXWmFKbVVIYk9KMXY5aWRUVzhUSEE?oc=5",
+    "fonte": "Notícias Agrícolas",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "4263bee88e394ef3a18c093d6e38e46b7c736f3913c27c0312692cfb6e185666",
+    "chave": "bdd4a57469d3fd9f8b4e8fc2bb771ba0a3b6ea2dfcbd82202af3a2d89d417d64",
     "ativos": [
       "WRLD11"
     ],
