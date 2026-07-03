@@ -1,65 +1,108 @@
 [
   {
-    "titulo": "Ibovespa vai a 174 mil, maior nível em um mês, com aposta de corte da Selic em agosto - InfoMoney",
-    "resumo": "Ibovespa vai a 174 mil, maior nível em um mês, com aposta de corte da Selic em agosto InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXlHQmRlRHNpTWVSR2NKdFFFXzBjS01pcngtczFWbFhOYVp4dWVnTkprQlQtOHNpS0xTek5JckpRY0ZfeC1PekFfTmhsMFdLbmdnTWt3c1daV0NmM2txV3lHakR6SGdSaGd2OGkzZ0Z2WWN6aGFTSWZtUnJMZ0JvUExxaHlDOWttTHNyeXFRT3o1amdHUmRNNFVLY3E4MDRmSkJVQVdUY2pVUGlnUFg2WlkzcWd5bkE2Y0pLSzNqNNIBxAFBVV95cUxQTXZocVQtQjBxZW9HNkE2Zkc1dVdUVmVnLWhuRTF5SlV3emc3WVU2OWR1SzVSUXgwcFk4MWNMa3p3WUsyN19mNG9lSGVYS0ctb09TN2dNZmc3U05GOWRRMWFVVGJBY3hoZTB0ckIyT1BXRWVhNXktUVZVa3RUd1Vyd25lZFNnVzhWTlNOaV9qbGpPdDRnTnhZNmN3Y0ktb0luT2gtdS0yeFEyUWtlZHZuRWt6RWE1M0tHV0NDZDRSV3hDdDly?oc=5",
+    "titulo": "Ibovespa fecha semana no azul e mira agosto com aposta em corte da Selic - suno.com.br",
+    "resumo": "Ibovespa fecha semana no azul e mira agosto com aposta em corte da Selic suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmJnNnM2eFRla2pTUEdyNUk5a2RYai0tV21LclRlMjRuT0tJZWR5QzR4TzhOeVMzRjdFQU5OSWthX0RNUVU5Ul9jV04xZVYwMVdRYnc1SzJUU19QZnJ2R2hKTmZxZXVHbFNkaF83Rk1LS29MYXNNZzlnZl8wNGR2WNIBhgFBVV95cUxOOHkxdGR2dXhVT0h6bTdfNWxqNWo3blFhdnNMN28wTkVKajdjaV82ZTdHWlQwWU5oNGxvYkY3MzNwRzlpTzk4OFpyUjA3WW5OZ090UW1veFhrZlFSa1dRUkR6QnNlX0VLZF9Na3hGVmNmaDQ5R1ViVHpzX1Y3czVxakNTcGloQQ?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a8f923fe5206d04dac0a2cca392b49fa4687a4be9ad3c136dab0f2b60545e20b",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa retoma os 174 mil pontos; dólar cai e fecha a R$ 5,168 - ISTOÉ DINHEIRO",
+    "resumo": "Ibovespa retoma os 174 mil pontos; dólar cai e fecha a R$ 5,168 ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVozM1ZHRm9TNnV5WWxSV0UxcHgySnpFX1Q1NU5KWUI5UFNqOG51YjZweS1ZVjZqc1NVQ1UzVnJ6UnFfMTZXOXdxX1I3TndLOU5Eczk4eFpyVVI5RmlBZUZ0YkVZeXNEWG9mcnVQMGdvaGJBM0JGWGFfdjJZaUdQTDBJeXpiaGVyVWt1M2NmdmJKYm5o?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b7cf347e532f221177b4bcc61fc4bd5d609cd05f070721135583e750ffc69b57",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje sobe e fecha no maior nível em um mês; dólar cai a R$ 5,16 - Estadão",
+    "resumo": "Ibovespa hoje sobe e fecha no maior nível em um mês; dólar cai a R$ 5,16 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOHh1VnRVc19wWjBNa2Ywbl9LbFRfUVkyeDZldzhDbnlpYkRRLTVUcVdKc3FRRjNRcGlLVHNESzl6VkcxR0VlMDhUYk9nVWZZV2g1MUtnMXBoR3NlcW5JMDVoRUMxTVpQSkRrQWRyT2s4S3cxWjZ5M25WYmZSa3NaajFWb0ZEV055dXpGMkdUMUV3ZHVtd0o0R1ZlOEVEbmMycHo1eE9YcWNFVE5Qd2RuT0dPODRDVzk0Q1FIRzl3OUd4YzdjT0RqR3hGVXJHMVNmV0R2OFhyckbSAd4BQVVfeXFMTzVZdjhRZlZLMkN6Q2ZUa0ZpSTlfTFFMd0Zka0R0R0FmQ0c2SlBEYXFqNDZKd3p4NGxuWGJYRXJTTkI3VE9vcDJTQlowTVBhclRHVDN3SGVuNzlCZEhWSzcxdFdoUHhPN01Na2M1VVhJX0d2dXRZSzB3MTJwdU9lYlBrVUxON1pNM1V4MzhBcXlIZ0ZRaGJlZ0ZDUG9jc2QtSU5DVEpjZ0F0aEZ4SXBBZm0zYkhjQV82R1R3bEh0TE13WEdFZGFIeHJta0NOOUJxcEFFQ3VtRkpXVVNDLVln?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "6e1876c938621de0cd786add96e0f0f4a052a7e48a101b1ebfbd15a8b50fcfb3",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central trabalha em regras para gestor de pagamentos no Pix - JOTA Info",
+    "resumo": "Banco Central trabalha em regras para gestor de pagamentos no Pix JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHMyMWNXa2o4UE1ZQ3RiZ1N2U2xKWEZDNVA0aWkwQUlEdFRZSmpIMEhXUXAtQm1TeF82c1N0TVB4U1c4ZEd5LXJrakhLQXVwR3B3WHREdXc5UERrWm1vOTF2T0xxTWtxZEp5MzRKM1RPdHJXblAtdDRLdnRBU2xZdDhSOEpxYlZ4S1NUUmJpV3hBQ0hnUXlKc1VLc1FPdw?oc=5",
+    "fonte": "JOTA Info",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d4f7e5359dc23bf44622b5370dd5f6b85fe7bc21b7223299f2bcd1ce14463cb0",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "“Comprar na alta” funciona? O que dizem 15 anos de Ibovespa, IDIV e S&P 500 - InfoMoney",
+    "resumo": "“Comprar na alta” funciona? O que dizem 15 anos de Ibovespa, IDIV e S&P 500 InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSl9UUWVDdUt1YzF2WEhuSVJtc1NROEJzMTAwQTdDZE5adXM4cWVFRXNJWW55elg4VlM5ZWNaVlRQSmJpVExWREpHcHAyWjNSSmNEVTYzZ3pUT1h2a0JUX2Y0MG5mSmhPX095VG95cGpGb1JrUU45cUZRTGk0VURxSkdmTVVJQWhfZkZSMi1HZTBrQmNldmVucG9VbHM0bTdFV21xdkFEbXrSAa4BQVVfeXFMUGV5ZlNNcjQxUzhHM05LVjl1dkNsNW0xeWIyVW9jcHkzbUFsNk5QaDZDeXI3TWV6YWRQeF9FdUkyWFV5UlNHbGZTdVJlR0txMnRMenpGVGplcXdVWm1HUWNLUzBwbWJta2dyM0M1UDNnbEZlWV9MYThKZ196eUxONFNrSEFaWWRVd2RrTHVoclhmV2pvNlVieTlyNUc2VU5xcUZBWklSYk15eGtJRkFR?oc=5",
     "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8de6eb8140045f0d72c693eaf8d89870c4b9e40b6a47fb1ae311b473d6beda0a",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa alcança maior valor em um mês com aposta de corte da Selic em agosto - UOL Economia",
-    "resumo": "Ibovespa alcança maior valor em um mês com aposta de corte da Selic em agosto UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdV9LYXhPek9vVjZaTkphZldlWE1RS1N0WmduRUpTODlKT0I1b0U3WHdiUGdmdGFxMmVWa1EtTGo5NUZHalBwd0ZmNmV6cmFhQ0w1TTktaHVUX2l2TlF2SzBBWXVaZnpxNUFHRHBzSFNlTE9EdDJhT09tLWRpenNDQlZkamQ1bFVveG1kSUhaTHlLN1NMRXZnTU52cEdLVlpfNzRYRU5rcGhtWUcyYVZvSG5Zb015Skh1R0pSRmFERTV4MS1fbndRSHpja0lUOEtQSWxwMVd6M0M4RjE2UXQ4?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4ecdbeb1f08b937d0a63609450ac1978fc2c8ad6cfdb68bb0d498dc46c0d39d2",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa Encerra Acima de 174 Mil Pontos com Embraer em Alta e Dólar em Queda - Forbes Brasil",
-    "resumo": "Ibovespa Encerra Acima de 174 Mil Pontos com Embraer em Alta e Dólar em Queda Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNi1XUDRuQXZPazRwTlVpZDRhS3phMUk0OUZjLVVvUWhYaGNqclpXdW1Hcm1KcEhIanU4X3g1SmRDdE0ybVQwSUhYOTVPV281Yl95ckhDanBUaFF4djdyOF9EMDQ1czByNFF6eGhzV1BSM1lUMzhOb21kXzJXUW9vdTVXUFJ0YnBzVkhUUjZXTXg0Ri03ZFNJQkR3?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "12aba8308e1446caa2c5f018262075c10e754188090e1fd4077b04b20af469c6",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "16144cce50f78721a1c2585659351cff5e26e5f9b33ad8d68f2f411c87ee0466",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -68,59 +111,10 @@
       "Ativos Internacionais",
       "Ações Brasil"
     ],
-    "score": 11,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa B3 sobe 0,74% e fecha semana no azul; dólar cai a R$ 5,16 - Bora Investir",
-    "resumo": "Ibovespa B3 sobe 0,74% e fecha semana no azul; dólar cai a R$ 5,16 Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFVhQldmeVFxRTR1dy1mR2NaR2pVczJEWkNobGtBbW05REx0WU1TS1RlMXdpemVMVW9SSzlQUHg5OWxnMzdlUDlUOGhBdkp4b01pdTRYSnB0dmplMUxxelptNXl5a05WQ0xQQjRSakRQWnFUTGZyQkVJd2VlWDliVjhaSEhFckFQOVRvX1lKYy1HemoyNVdfT2hGbFBXY0ktcTYyVFB4QmpXMG1NVGU4?oc=5",
-    "fonte": "Bora Investir",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7490575855168b3d9fd5f4383ad4d2ff1b17afc660f94cef1949c7a5d6db2dcf",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar cai a R$ 5,17 e Ibovespa avança 0,74% em dia de feriado nos EUA - Bloomberg Línea Brasil",
-    "resumo": "Dólar cai a R$ 5,17 e Ibovespa avança 0,74% em dia de feriado nos EUA Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMlBWV1ZTSXE3ZEVEY3pHVDRhR2U2MHhEOXhOVWMtbGwwdlM3SV9rX3dkZVplUEttbUFCVHVOTkkyeG5TWmpaX3dlY0Vua3lSMndZNU1jYWdvWjdsZ3hUQ0k4c01MUWpYY05NamRPXzV2cXhDTVRQNVhocEx4U3pvWkdKRjY2VnhyMkVxX1VtZHdRUXJ2SzdfNWhoVUNHbm1Dc3kxMXVWdTM3bmxkOEHSAcIBQVVfeXFMTzlURHRxcjdyaGwwczNtYnZVWU5kc0xUM1M3Vl83N2FXRmlBQjk1ejJVSDQ1NkJ5Q1hBNWJucWEyRzJVaFdjQ2Vlei1jS2RuVmdlYmpYNUh0M05zWWlPNzdLeXU3aHRKLWJaX3NJZERyOUJRTzVrc1Z0WTk5MTlESGcxYVkzalpsWDlNVnBkWGNkQTRfVXU2LXpySnJSWXI4SzFjZ19yejFiTzd2QW8tSWRNdFl5ZzVEbTB4TGFhVzJvV2c?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "0eea0c05b36899b2dabdf3e6570ae85c996c9ae3e79a5774e5bb5a385a16f240",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
