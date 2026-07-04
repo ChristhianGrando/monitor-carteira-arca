@@ -1,22 +1,18 @@
 [
   {
-    "titulo": "Análise: Bancos veem alívio do IPCA com PIB mais fraco em 2027 - CNN Brasil",
-    "resumo": "Análise: Bancos veem alívio do IPCA com PIB mais fraco em 2027 CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTZ1MmpPbG1tSk8zR0xIajQ3STVqYW9KbGNOS1FaWjhubE54NHRGdmQ2ejJsVEhGbFdBc0UwUllUYVN0Mk1TSWRkR0tha0hXSW5DQ2JKYnJ5Y1pzejZEa3ZxelZaNFJqd1h1VE84MzJQb3hTNFJEZ3NBXzlmdVpfVU9nRURvYUZvWWJEcUhRcDJkajc2Ul80Wmkta0xzZjdUSnFZcEpJMXhjdEk5c29ESmluT3g?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "74db16f00c58b88cbfef9de4818142fdf9428e6b8cf3f9b364de9b840c6bd79a",
+    "titulo": "A triste vida do Banco Central - O GLOBO",
+    "resumo": "A triste vida do Banco Central O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFBuZWtCbmtidHV2OGlMaGoyZkFUWWxLQzNqbUxqR1FlTzRPeVJ6VC1OUHBCNjlsejZKazJDNzdYeHJjVkthYnk2LVhpQXFybjlXS0c5NTROYU1qd1gtNEJ0SWt1RF9BaUxocFU2RWlzSEo3SEl3VVVRMEpKdVdzN3FYSnFrZC0zcGpPenNUV3FXMkxHbWY5MXVVM2Fxd9IBrAFBVV95cUxPV04zczFzc0V1QXgxWkJkOXZtNlNQNU41a2Q1VFRhLThwYThrUEdHY1lxUGhQTnF4VE9La2lFQ3o0SkNqY214TUw0YU9CbXYwMXM0NnFjSzJhUjQwV3RJWTRhZmFjYTduLUtIS3NQbmZ2ZWpGbUpyTEFvRmpjaDFsNUExMVNSczkzUm1id3RvdDloWVoyWVZCWmJuR3J4S01aTEl4ajh0VXotdlBR?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "80bf95a9c26e0d9496d8897e187d1ee35bf900f0230ed3cb56a30a5c4b578e66",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -26,34 +22,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa sobe com apoio de blue chips e queda dos juros - Valor Econômico",
-    "resumo": "Ibovespa sobe com apoio de blue chips e queda dos juros Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVFYSURHYU9vUEFUajdmYllYQmNpWEg4bDZBNEpRcU9Cb0VfQk9ySDJGYkhmY2FfaUtBWnNidTBWamlRMVhJNWZWVVNTQllnN3lUSTRkRXU1UGpENlJBYlJ3OVJhdWlVX2k1Y1Mza1ZIUUswU1hQd3FVWkdsN2JUbDdyXzQ1LUVLcDFmVkFmRHFXUEp4WlJhLWNoTjdndmlZRHdDMHJFMVQ0QzM4dzRfY1g2cFgySlpNdmdZaFJacWVQZ9IBwgFBVV95cUxOaVFYSURHYU9vUEFUajdmYllYQmNpWEg4bDZBNEpRcU9Cb0VfQk9ySDJGYkhmY2FfaUtBWnNidTBWamlRMVhJNWZWVVNTQllnN3lUSTRkRXU1UGpENlJBYlJ3OVJhdWlVX2k1Y1Mza1ZIUUswU1hQd3FVWkdsN2JUbDdyXzQ1LUVLcDFmVkFmRHFXUEp4WlJhLWNoTjdndmlZRHdDMHJFMVQ0QzM4dzRfY1g2cFgySlpNdmdZaFJacWVQZw?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4e652f388b5f43b7d8e4f3839b3889b163d92c7408b799393688c66336c1f7d8",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Governo fará concurso com 140 vagas para reforçar BC em meio à crise do Master - Folha de S.Paulo",
-    "resumo": "Governo fará concurso com 140 vagas para reforçar BC em meio à crise do Master Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTRkVHJXczU5VlVFc1NlTTg3bDE2NFRsT3ZaelR5ZXZKRGU5REdzSXhYdTlsZWdhWFZST2FJR3ItUzFzUFJBVEt6TmlQYlJPSnFzc1I2d2xDR1Q2VUQzUmRSbnluNHJKSWZybUk0M2g1YjdENXNhM1NkYVd6bkJWTUJzWGNIUHpRS212UjhySzhzT0g0ZklOQUNmY2xNRUtGRnhoRnFnazVfMVVUUld1Mnp6VkJ3WDdzbWdhVE1GSFpSZkdGVVUwM0pn?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Inadimplência recorde, de novo - Estadão",
+    "resumo": "Inadimplência recorde, de novo Estadão",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1SjhIQmt6ay0yRlZmQVBIeGNkcjVVejVuYVctQlRXbnRYUzhKZUhsSU5ZZkJHeWZqaEtEbVJNaUVWRHhLUW5TSkJLSW94UXZ3SWlKdXFQTDJ3NkVpczlpTGtwRHJYZUNuSkg3ZHpUWGNFd3c?oc=5",
+    "fonte": "Estadão",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5023a092ff1c2ca56644e9d9e845a655a4cdeb033ca9db42d033789e5b1027bc",
+    "chave": "cefe3244c5537f9d05714aacff29d62c822ed92b6067a9cfd387bf8393d2c836",
     "ativos": [
       "KNCR11"
     ],
