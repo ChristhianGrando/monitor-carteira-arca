@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "O Banco Central ainda quer cortar o juro; a realidade, não - Estadão",
+    "resumo": "O Banco Central ainda quer cortar o juro; a realidade, não Estadão",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHBUOVFWdmpySDJwOVFBMmlqY2dWVTVjWWNwWHphYXNYbFRGYzVRd29hWVRGcDlKbEdzNTBtOXN4RFpWZEZiaXJFc2RqNmFmaTd4Y0VySkV6NmR1c0VSVklqd1Y1N2I3OTE4RUtVMHg4d3g0YXlGTW9qekJaRlVOTEN4QmRuMDhLS3F4VHhKVXZ5QlFWc0ZqREd5QVRrTmc2M2RNTEZKNzVTNU9NQmpNcFc5NWNiQdIBuwFBVV95cUxQSUxmM2hQS25lX1hyeE9raUNpeHVhR1N0amJLbmdnbHJ3X1FvM0xSUzk5Mzl4ZlNibGxtYmxzeGR1U3VRRC13MURHSkJtZks0SGc1SnJSZ0h0V0pWa0hBR3dLVGV1M0ZkSEFSbDJiUDBwZm5kSVlrOGdaVXJJSGl4TmpvNVpPRkhjV24tdFFLVEMzR1RhS2tlNWV4azkxREtkdldIa0RrUTAtOGJlY1lFR2ZGcmZHQWVERDlZ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3d2d8942233095c66b2b239d49d329adb258587e723ac0e80679b6cda9803ea5",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
