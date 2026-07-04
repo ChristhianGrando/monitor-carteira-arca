@@ -1,24 +1,31 @@
 [
   {
-    "titulo": "Zema reforça equipe econômica com ex-diretor do Banco Central - PlatôBR",
-    "resumo": "Zema reforça equipe econômica com ex-diretor do Banco Central PlatôBR",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRU1tNVJEMnZldmxzdTI1RzQ3aXBndDJzX3JjTWR3YzUzOWg0Z3RPTjA0TkR5LXVWY2NmVVk2b0ktR0U0QzE1ekRGdzNQeVJESnFtOVFlYmNLdWZfY29pZ1FLd3BKYWhRY29zSjFYV3FnZHpkYmdyajBFNUtoQkFjZnFZSzg4WmlMblNBRA?oc=5",
-    "fonte": "PlatôBR",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6c9ee914660ae3b6f46581e2c59247ff61a71326864bed0cdea32db2226524c3",
+    "titulo": "A Selic cai mais? A pergunta de US$ 1 milhão dos investidores começará a ser respondida pelo IPCA e pela ata do Fed - Seu Dinheiro",
+    "resumo": "A Selic cai mais? A pergunta de US$ 1 milhão dos investidores começará a ser respondida pelo IPCA e pela ata do Fed Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeFkzN25OOERxVVhaTDdhZFVOYWlfQnRjN1UwdGRPMkkyZVFkMlpRUGlVdHNpcWRwUUl6d1kyX0kyaFY1MzBkZzJfOXFsRC1nNlphVkFtZkNfdl9Ybnc4OVppY0Q0eEZaMC0yR3pzR2FIQ19fb21SLWtvNnlsS25oX3hhMF93eEk5Njd1dnp4TjBSVVhudlc4WGNLT2gtUnF4bXN3TzFNa1pzNng0SVJCYjU1b2VUZUxQYzl0el83Y0xwQlFoRjA5dlhRQUVhcnpRaWpweGhBOWFRNmNpMC1KY3JzZTRaVWoxbmZJMlN1WWoxWnM?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c312e3f252a9f0ab9792aa251d7b50062acfcf734674e6cdccbae89f4eca8cb6",
     "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 16,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
