@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "Governo autoriza concurso do Banco Central em 2026 com 140 vagas - Associação Comercial e Industrial de Araçatuba",
+    "resumo": "Governo autoriza concurso do Banco Central em 2026 com 140 vagas Associação Comercial e Industrial de Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16RDVNOGwyOGJWaVVaT29LT1RteFhPTEtPRHE5M1VaMTdrTi14UmtwaTlFM1VEbExuNnN5OEpaYXlSQzNPcjJrMklaTzI1bHU1SXZHd0FuQmFZYS1fWlRCWmV5VDl3OW02OHc?oc=5",
+    "fonte": "Associação Comercial e Industrial de Araçatuba",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "bfeac1bc52e9b7a3670f482deadccf2aa7fe8e40b10b3bc9e2e1717c9e88f4be",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
