@@ -1,9 +1,23 @@
 [
   {
-    "titulo": "A Selic cai mais? A pergunta de US$ 1 milhão dos investidores começará a ser respondida pelo IPCA e pela ata do Fed - Seu Dinheiro",
-    "resumo": "A Selic cai mais? A pergunta de US$ 1 milhão dos investidores começará a ser respondida pelo IPCA e pela ata do Fed Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeFkzN25OOERxVVhaTDdhZFVOYWlfQnRjN1UwdGRPMkkyZVFkMlpRUGlVdHNpcWRwUUl6d1kyX0kyaFY1MzBkZzJfOXFsRC1nNlphVkFtZkNfdl9Ybnc4OVppY0Q0eEZaMC0yR3pzR2FIQ19fb21SLWtvNnlsS25oX3hhMF93eEk5Njd1dnp4TjBSVVhudlc4WGNLT2gtUnF4bXN3TzFNa1pzNng0SVJCYjU1b2VUZUxQYzl0el83Y0xwQlFoRjA5dlhRQUVhcnpRaWpweGhBOWFRNmNpMC1KY3JzZTRaVWoxbmZJMlN1WWoxWnM?oc=5",
-    "fonte": "Seu Dinheiro",
+    "titulo": "Se o BC mira a inflação na meta, não há mais espaço para cortes na Selic, diz Srour | Intraday - Valor Econômico",
+    "resumo": "Se o BC mira a inflação na meta, não há mais espaço para cortes na Selic, diz Srour | Intraday Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTTM4NWFzMFFJS3RsSklXRVNvZndiYTVXSVVkc2owaHVZdWF1Y3N0aHBJdkFldTYydl9BTXBKcGxtVTloR1BOMjVnLTJMNzRteU5QN1dDNW1wQ3RCcWpqMVNrMFYtRUF0cmxtaDh6U0xtRE1LdjNsdl9GZVg1ZXVfZ0g0bkprVDVRMlJDd3J2bHVzZWZkRHFPMjZkbEl3UVgxbU4tMGZYa09tMFdHcWxPV05DSHMxUHpNTTFuMnNTaVE3QnkzOGlYQXRqN0NWaC1qNVNka1A0R0JQUQ?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Agenda de mercados: ata do Fed e IPCA de junho são destaque na semana - Valor Econômico",
+    "resumo": "Agenda de mercados: ata do Fed e IPCA de junho são destaque na semana Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMlFRaFZiRDlGVUFXOHJEQUUtVHV2QjlDZ1NWQVdvXzU3a3R0ZXNkX3QtSF95eFNNWTJZc01BdERmVGY0ZGhKcEtKWk5PSDRJWENqRWx3SGVrQndnZktscU5iTkI0cUtzNlFqN3QzUGl0ZjBaN2ltZjRVX3p5UVlhbkIzNjVkbkpmTkxLNVBqU1Z5QnZnYnc4alU2NXBtMjU2SmN4RXVMa0llaEh6eFF5aXdRSXkzaHNyZE5rT2lYU0Q4Qm000gHTAUFVX3lxTFBXcHlBeEpJMkRSdjNUMWVXMW1XSTh3VFZ3LWw1Z2NVTEI5d1JfUFZHZnBfQ1N5S1A1RWRHNk9Wa1E3cnRMVHBPZzlwOW56RTAyOC0tMkJOdkxpMTdkNUV4NHFYX1RvMjN4RWVyN2hTc1Bpa3BOQ3RpMU1HX3ZRZV9aOVl1SVVpNmc5dDlwLUIxVXVKdXRNN0QxYmdYcjhtbEhyX3ZFY2VONTJrcl9STTZCdVgzZ2hrTXg2Q2ZkZUJMd1hCbXFvdl9tX3RSck00VkJodk0?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -15,63 +29,77 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa: O que esperar do índice em julho e nos próximos trimestres, segundo análise técnica do BTG - Money Times",
-    "resumo": "Ibovespa: O que esperar do índice em julho e nos próximos trimestres, segundo análise técnica do BTG Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONlFJbFN3ajVzTVNFNkNMNEJ2U2d0M29kNC1fa3RPYTZkWEVJUmp6d3AwNExZYS1BMFZTclZsSGhkdm42RDdfalVDSGNxQkpPVDNJOS1scnpIWFFNcW90M2Vwa1M4RXk2TU8zRThIYjVmeUhYSEhLTllSWnJIQV80eDBKc0dyTC05LUUwTjcyaTh2WDVta2VVdXh5ZHY3aVctQloxSkhaM0tJYW9GWGNJU2dFck5iYlNQallqNU9oZ2R1dGdudi1fcw?oc=5",
-    "fonte": "Money Times",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "titulo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã - UOL Economia",
+    "resumo": "S&P 500 e Nasdaq registram melhor trimestre desde 2020 apesar da guerra no Irã UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFNIM01EU1NDc3FIeHhldS1TQzBIeG9kNGtVWkgxTGtkTWwzYTMzZFQ1WkNZZlUzMDNnaktSMmd2ZTdXdWJfaWMweTVZQXZBWHl5SkE2dHZvaVhvSm13S0lHUXRrYnl6a0liWGRrZFFiY3plTnJ6NEJtV2t0bndTdktUV3BWTExpcVFveDBfQTdiSUhaUjd3U0FVanFQODFQZ1NENFllYmVGeHVqQV9UdHhJWm9yX2ZCRzUwUkVWLXdWWnNxSk4yVXVtX2NqX0dYd1dr?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
-      "IBOB11"
+      "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa fecha último pregão aos 172.787 pontos - Brasil 61",
-    "resumo": "Ibovespa fecha último pregão aos 172.787 pontos Brasil 61",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDZxLWo2R3BNQkpWX05ZVGM0LVhHMDhYQm1zRDJ1YXJvdnAtaHVmYXpkNU90SzFQejJkVVk3bUMtUGppckRwcG1JWDk1akd1WkUwNlVVLTlneEh3QVhxbnRGUFBYdzJRWXF5U0paMjkyRkt3ZnFpbE1xNEpHYWk2QjhnZmZZUDVyX3fSAY8BQVVfeXFMTVZFUm1aLUs3MENQMkRRelE3aC1td09tZmJaNHhNQ0htWFBVbWIwVFF3dDNRTlZtMjlUdnhzM1ZwQWo0ZHFWTlo5dHJydThVbC1rV1JUdDhybndTc3hyUlFoSGdhOXdnTFF1MTllX2JxZ1hEdWRJdkpoMU5EaE5leVRoWUZNVElPSmRsZVcwaHc?oc=5",
-    "fonte": "Brasil 61",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "titulo": "Selic alta deixa juros do rotativo mais caro, diz conselheira do Corecon-SP - CNN Brasil",
+    "resumo": "Selic alta deixa juros do rotativo mais caro, diz conselheira do Corecon-SP CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUZYWDhMamRDbG0xcWZTR25nLTk4cERqWDBWMkF5UHlqRG5LQjFncXNUd1ZkNXBGd1BtYURPeU5UUHg1cm9reXY4Z3B4MlNuX2VjZ2tsRVp5cW1hLWZ6X1R1c05Hd3RseC1VNlJtM2d1OWV1Y05GNkRSaVBZc3Y3UEJNaWlPVDhPRERlb3p6bnVDOUVfVmJ6aG1zekZuaGR2LXlRS3NkYmx1YUx0T0VVR2FGZkQ1QlFWUkZTVXRLTzZWb1pEbFE?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "O Banco Central ainda quer cortar o juro; a realidade, não - Estadão",
-    "resumo": "O Banco Central ainda quer cortar o juro; a realidade, não Estadão",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHBUOVFWdmpySDJwOVFBMmlqY2dWVTVjWWNwWHphYXNYbFRGYzVRd29hWVRGcDlKbEdzNTBtOXN4RFpWZEZiaXJFc2RqNmFmaTd4Y0VySkV6NmR1c0VSVklqd1Y1N2I3OTE4RUtVMHg4d3g0YXlGTW9qekJaRlVOTEN4QmRuMDhLS3F4VHhKVXZ5QlFWc0ZqREd5QVRrTmc2M2RNTEZKNzVTNU9NQmpNcFc5NWNiQdIBuwFBVV95cUxQSUxmM2hQS25lX1hyeE9raUNpeHVhR1N0amJLbmdnbHJ3X1FvM0xSUzk5Mzl4ZlNibGxtYmxzeGR1U3VRRC13MURHSkJtZks0SGc1SnJSZ0h0V0pWa0hBR3dLVGV1M0ZkSEFSbDJiUDBwZm5kSVlrOGdaVXJJSGl4TmpvNVpPRkhjV24tdFFLVEMzR1RhS2tlNWV4azkxREtkdldIa0RrUTAtOGJlY1lFR2ZGcmZHQWVERDlZ?oc=5",
-    "fonte": "Estadão",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "titulo": "Governo fará concurso com 140 vagas para reforçar BC em meio à crise do Master - Folha de S.Paulo",
+    "resumo": "Governo fará concurso com 140 vagas para reforçar BC em meio à crise do Master Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTRkVHJXczU5VlVFc1NlTTg3bDE2NFRsT3ZaelR5ZXZKRGU5REdzSXhYdTlsZWdhWFZST2FJR3ItUzFzUFJBVEt6TmlQYlJPSnFzc1I2d2xDR1Q2VUQzUmRSbnluNHJKSWZybUk0M2g1YjdENXNhM1NkYVd6bkJWTUJzWGNIUHpRS212UjhySzhzT0g0ZklOQUNmY2xNRUtGRnhoRnFnazVfMVVUUld1Mnp6VkJ3WDdzbWdhVE1GSFpSZkdGVVUwM0pn?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "KNCR11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
+  },
+  {
+    "titulo": "Após Musk, quem chega ao trilhão? Mercado já faz apostas em nomes do setor de tecnologia - Times Brasil | CNBC",
+    "resumo": "Após Musk, quem chega ao trilhão? Mercado já faz apostas em nomes do setor de tecnologia Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM09xbGdOMFRrXzFDZmk2WTlqdmhKQzB4b2VJUFY5Rkh2aTVFUU1XWDZKTXJESHk4T3ZyczdZbXVVeXpFWEF1T19vVDMtcEhjOWFPbXp5UVk0WDlkcFJyUUcxUF9tZEhwbXZQTEFib0M5REtOcDU1SDBFd0tqaWhYSEtYc2plN25YbEJJV0N0Nzhsem1KTm9yLU9vNkpjR2ltT1FfU0otUFp5QUVKaGkzRFNMRS1UXzYwZ1ZRVjlJNUI1Qnl3NjVSMG15T1hRTkZVZGc?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Nova aposta de Elon Musk visa mercado de R$ 8,2 trilhões para aumentar ainda mais sua fortuna - A Crítica",
+    "resumo": "Nova aposta de Elon Musk visa mercado de R$ 8,2 trilhões para aumentar ainda mais sua fortuna A Crítica",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlQ4UjNvWV9IYnlEVnFaWERNTzFTYV9ubnFpX0F2ZUJkcU1UUnZqM3dScE5Qc29nYmx2dGNfUFFCNFhDbmdUdjhXRHI3enlYeVpORW1GWWZMcDY3Vzk2alR2NDlvS3dWbUlUWWhuaWtLZ011dExNZWJ6OFFhZ3BoYVE5TmRzWXJzdS1CUEtKQlloUzJ0Y1FRRGVPVHBMVmxQaHd6ZkI4N0Q2RDJ4RUxmREZwanNBa3otZi03aQ?oc=5",
+    "fonte": "A Crítica",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Câmbio vai depreciar no segundo semestre. Como o Banco Central agirá? - FecomercioSP",
+    "resumo": "Câmbio vai depreciar no segundo semestre. Como o Banco Central agirá? FecomercioSP",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcG5oV3NRTFBQb2R3bW83TnVRTTZjaU1OMUlEZ1JZQUIyaW9ISGg3ZUpsTWpRTTBqNW9qNVMyeTYtQzk4M25va2FSSEV0VlJ5aTB3NS1qUlhFeU9NUENFUXNEQkdyMDB1REwzUG5wTVk0VG9NNDdjS0otQjJtUVFmTzV2V25fcEJFeXdMUWRjQTVnQ3B5N3Z1azJ0dktBVVRlM1kzS3pWWlY?oc=5",
+    "fonte": "FecomercioSP",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
     ],
     "impacto": "Baixo",
     "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "A cidade de 500 habitantes que a SpaceX, de Elon Musk, construiu no deserto texano - InvestNews",
-    "resumo": "A cidade de 500 habitantes que a SpaceX, de Elon Musk, construiu no deserto texano InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKczViYzNjS09mTlM0bkpWU01ZajVlaktPakNGalVSUE9TNXpHWjlDaHp6ZF81UUpkc2N2X29RczZFaVRWODZYVnFoelhPZHZSMHlUUFdXdGhwczlORnhaSy04NFRDb2RlOW14eDM4d3hxWWI3TFduaU85R0xZa0nSAYQBQVVfeXFMUFhxUkpLTGJDbHJYZ01ULVJVWjNRV0V4em91VWtxdnduU3NYZzlfVzRoNEhxVjZCbmtHRlowRVh5cVJHZHQ5ZUFnanc5SFN2dVRadTNsWXpQaVh4LVlKUzIzVVRraE1vbmRSR0Rjdk5mdjhGY2htLUdYWkZwSDl5V3RuRmsy?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Data Centers Orbitais: Elon Musk promete IA no espaço em 3 anos, mas física diz não - TudoCelular.com",
-    "resumo": "Data Centers Orbitais: Elon Musk promete IA no espaço em 3 anos, mas física diz não TudoCelular.com",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGdQc1hmeHY2eE4zYUhlVkFjOEd3elA0QS1BY0lYYjM3Y2RnSmtpSXBjdUZfUGtYc3FmcTlzNldTTXpRMnVvNDZRblZGaTRNYnV0dHdBcWpoYng1NUlTV0lnNWtrandnVGRqaF9Ja0owRzZMRmx6NkZlSEZLazVVWDFrMHhNLTdLT3h5Qk5ZRENzSTY1cHRDSmJ4OFhCeEh6cXlndVN6aC1kdw?oc=5",
-    "fonte": "TudoCelular.com",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   }
 ]
