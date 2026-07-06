@@ -1,101 +1,44 @@
 [
   {
-    "titulo": "Queda do petróleo já não garante espaço para novos cortes na Selic - Valor Econômico",
-    "resumo": "Queda do petróleo já não garante espaço para novos cortes na Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcjlOY3VVNFJiblh0RWFEbEtvR0NVVUJHX0dtSlNnUFJWV3lNOWNFcDVxeW9WZXF6cE1fU3RKMWdKbUgxdV96WTFFUEpvUHY2eVdzNzZkY2djNzJLV0Q5cjdwMldVNzFFQV85eFVZMEtYbkw4OGI1ZEp3RUtyVVVFMnBTbk9KRm01WnVKX1h0X1lpSDlXb2tGeGY1eERSZW1DX2FKWWFxN3lKcFE0SUFxaFdrTUVXRlRWRVM0X3I2bzZoaEdjNmfSAdQBQVVfeXFMTTVmWHc5eDlkSXhyWUVncVduMzZ0ZzFEbUxYWEE4M0s2VUFrRlh5b2x1MFV5TDRqZzdwaE5pNl83ZVJuTGRmbkNET0FGWGlLdVpJX1E2czdBY1JIMkIya2o0VDdBZm9ndExhckV0OWxGaWtfY05lbDBTbFV4Mnd0aElOSDJsbmJVMlVWeXNGVzVBSjBxM0FJTS0yd21wbXdWZjlZM0p2NHFITjVqb3B4MlBTcDJNYWkwbmNUOFN1TURCSHBKX2lNTk5mVUxpaGdUNjNMQ3g?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Ibovespa abre em queda com recuo de bancos e Petrobras (PETR4); dólar fica estável - Valor Investe",
+    "resumo": "Ibovespa abre em queda com recuo de bancos e Petrobras (PETR4); dólar fica estável Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU3RvQnVUYmRzQUNjZUxQWWNhdDl1aW1WcE9TNE1QcXVHenQzVEYxbGZNYTJvQWoyRnE3Ry05eVZBOExza0J0WmJXZnBsc2htek5tYjZBZkhkLXZGTmdSbUFIczEycGVRNEtRdW1QTGNZcjdXYXJ0cGk3a08xUjJRRW1WVDRzMGlWcXJ1WWNOeGFOVmlrY3JDZTgxNzdaWmdndG9pQ2kyalA1dF9oTVhyNnc0dEhmSVBIZHpIUjdETWVacG5tdUp0STZEYTItdlJ2STBDRXJpZXQ0M2xlSENRZ2hQUVR6Y29a0gH3AUFVX3lxTE95a3VSeGZFNHVUMTlVcE9scU5ydVZMaHZKb2hxM0dyclpETXFkMGNtZmp2NDhobi0xRGE5enVBclJjYXphWERaWHpDbnJtcTRrN1hlS2FmYzM1NkY5N3JGVDhXRHF4anRveFllZFhBeHpmVUFQZVV0ZENCNV82ZjFnNWlsNG4yMG5VQWJQWVl5cExwWGJ0NWFKdmpoS2hQVHViU3VHMVNhRE9aTG9iWUdOMDd1bFhXZXdvMHMtSkhkMFhiTFJudGRxYTlsWDBxMXpOR2d4ZHZIeXRtbTNYSHAxaDAtOUN0NHpUOVJNdzdDeFRDc1IyWlE?oc=5",
+    "fonte": "Valor Investe",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "342c69b0dc328d211fcf9cea23c2e284377fd4c18cb1904554697180d0a17365",
+    "chave": "71d1fe741285b76ffcf346b2bb038627d45f5f1c01f5c3cbb12a60f8f212f083",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 15,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Mercado reduz projeção do IPCA para 5,30% no boletim Focus - Jornal do Brasil",
-    "resumo": "Mercado reduz projeção do IPCA para 5,30% no boletim Focus Jornal do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGgwQTVQWXIxaU5HZ1ZUVWNGQ01ZWU5XRDZJSUs2ZF9TbjlHZ0VYZFo0ZlZENkdCTFpzU1B0WFRuUGItU1cyVnR5Q1hXSU1BcmFfR1A2QjdUYm1DTzBwRVdDWmxEekZ1WDFmYUhsaHEyVkJVbEJNNDl5ZFo3d01NN1FEOENnWHU4QVlNT0t1U0tyc0NBeDZ6Q2hubFVVLVltcVFfZVg2NmdsQThX?oc=5",
-    "fonte": "Jornal do Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "0efbd8bd53f885b55ca5d865ee7c9ad40bd2f370d005454af98806b91c0373e6",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Focus: mercado reduz projeção de IPCA para 2026 - Exame",
-    "resumo": "Focus: mercado reduz projeção de IPCA para 2026 Exame",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hOUU0eDctUWJIWUpTb1F1dlVobDdCQkZmUy1WR3ZsTk91MlRXVzdFZTltQnl6MDl3bDRpSUQ4aXE4WkR5a3NZMjdGbUFORXhCOGhORmltaEE0MDdnMXIwaGZOY0tqd0FfUHRzT0lLWHlLTFpOdW9GRWNWOGZGRUk?oc=5",
-    "fonte": "Exame",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8efe06a99e2ad7489d9646e9acd3e60f2aa2afd866c2eac2dcc8a25ecb062404",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado começa ver abertura para uma Selic abaixo de 14% - VEJA",
-    "resumo": "Mercado começa ver abertura para uma Selic abaixo de 14% VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb25xYVo2MWVKNDlWRjlYTl9sM1BHMG9RR1JtVUcwaHRYTjY1ckpXWWVJdTljSlZ4Z3ZONDN0VThWZmQtTHZjbGF0c2dTTDhwNGlKZ2oxZUoxQlM5NzZ3MFNibE9kY25Qa3JVYkthWlp1cGRiQko3YWpmUExwcXd2bThWWkl1NF9POGVXTjU5a2F3RTVHNjJEX3I1YmVCMkVFNmxyd0FOSnU?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Governo autoriza concursos da Receita Federal e Banco Central com 316 vagas; veja distribuição - G1",
+    "resumo": "Governo autoriza concursos da Receita Federal e Banco Central com 316 vagas; veja distribuição G1",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYVZrQ3NGM183cTd0QUlhczFjekctWWV0UHAtWnBpMklyN09fYVJNWTEzRDVEaEZiWk9OdDZrODFYcTZKXzV3LXJOSWViU2p6WWxUU0RjVndkMGp1MzVhcnBOTjZyckJ2N25hbmt3Q1dxUXVTOEk0T2hUVWU2OG1wQlZkSWFLZlAtSlJKeE5aUGZMakl6RjRqT085dXo2QmZDdURFUllsRHFhX1dRRHVBXzBmVlZhVTBjdVRfSkhDcFBLOE56RWVrT0NtWXlwWEJINGpv0gHiAUFVX3lxTE9Ja3V3MHYxUzFLckRoNF9KVGZjVUpNdVZTY1o3Q2JDdWo3QzIxcUhlc1hZVlBIOU1ZMmpVbE1CcnMyQ1oyWG1OME1WV2h2dk1sTHZiRWR1Y25FbVNOVW13UVJqZ1hpSVpCVWtYNlExUVJ5M3VFdGlUbDdLMGtEckc1cnYtRmJGMGt4U0VVemlFMDhnUzdpZmo2MFd0S1Y1TndwYW9iYVc4LWJ1U3B3S0FRRVdqaTNkY0ZEamMxdDZUdGt3dmlMaDRNTGppRG1XOEZkbG43eGU5eUZuQlJPdG1kaFE?oc=5",
+    "fonte": "G1",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "24580758782732dede2b14bafb798c648dcfb357ea3ea5094d7bcc676b3e8191",
+    "chave": "31a8bd39fc0e7b27cd7d2341e959310149fa22120f777e0308ec7f2f112dced3",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -105,23 +48,67 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Focus reduz mediana do IPCA de 2026 para 5,30% - Canal Rural",
-    "resumo": "Focus reduz mediana do IPCA de 2026 para 5,30% Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMl81U0V3cWFkWTM4dTYzdDU3Q2tfZUJ5bUFSVm01WUt4MEdJbHJGUGlqbEpTQ1Z5dkpSN25Jc1dBbmJyRG5XWTA2eGxXaGtrOGhYeHcxY3NPM1BNYjNjWEV4OFNqc3EtM3l3bWdXY2RmUzZDZ3hicmM3WFAybHNNalBuYjJRX2JabThBRw?oc=5",
-    "fonte": "Canal Rural",
+    "titulo": "Governo autoriza novos concursos com 316 vagas para Banco Central e Receita Federal - 06/07/2026 - Economia - Folha de S.Paulo",
+    "resumo": "Governo autoriza novos concursos com 316 vagas para Banco Central e Receita Federal - 06/07/2026 - Economia Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVQzMjJvemtBaDlmTFFaQnM4aEhEYnAwZTJ6S0otUG1HTzlxMVc1RmVjTlJVM3pUZi1aLW0zOUZWREJPTVAwcExaSVo5LWk1cS1Tc1ZJM09NNTRSWVZuV3AtVkZobUp2TmFVQXVjRWpmV3hYUkRFcF9DTnV4XzBnSFNnMFoyc1M1NXhDS0s5TlR1ZVEyd0JxVXFPQ1E3Smw2WEItRGJVRE4zY0RrRUFXOEZwdlc2MkRqY2hzY2xLdjN2dnJoaVY1QkFPQ3BmTDR2?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ca98683aee22e2f5395dbd9d14e4143df94cea42327074e7ebf52a901890b54c",
+    "chave": "32aba60d92c6662e3aed36062715ec06a5f7c9a3327937bff71eab8d71e9f8dc",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Concursos da Receita Federal e do Banco Central com 316 vagas são autorizados pelo governo - GZH",
+    "resumo": "Concursos da Receita Federal e do Banco Central com 316 vagas são autorizados pelo governo GZH",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbGpMSVpjaTNKVjBNQ2xKRndaNDBITzNBWFVSTUNYUXFJUWdKcDZpQi1hbzlYUkpEdE9xb0QzdVB6SU8xdVBsV2xDRE81WXJOdm5BZTlSNVQ2ektfNXNIZ1RoTWh5V3NndHhWREZsSlViU3ZlcWMyaHZkR09BT1g0X1dSelo0RjZmeHFwTF8yQmpFLXRxVjFDeDJtOVZDdngzbTZfNjFNM0RxQXJzdFFVdEJ0UjVvUkltdUwtdDY2MGdEcHZhTGxJQ0JTMk5sbVZta0FRWFZSMGUxMlF1a0o5OEJEbVZfOGhoYVNpTXNUUTQwYnY5UDduclh2RlVwTWFkTk5feXh3VE9rb0lkVXZaUUY1aWdfdnc?oc=5",
+    "fonte": "GZH",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "5f45d8b945e26893349e4f55184cd0506c0390616de8718c73785da5a681d85e",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado reduz projeção para inflação de 2026 pela 1ª vez desde fevereiro - CNN Brasil",
+    "resumo": "Mercado reduz projeção para inflação de 2026 pela 1ª vez desde fevereiro CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFUtdFpNR180ZEdfVzRHcUhDRE5ZR3FWbFVjQjQtakFBZ2wzVGJfRV9XdlFYckVqMjhiWDRTY0pKMHN5S0NCTVpqVjZ1alE5RENheGlUZzA2VEtrQ2FQdGRlNFJ3OU5EYlRmTm5HQ1c5OXBOeUd4c19lVDgxUDlYaWlDWlN5MWpTN3VMZ0cwNkFmN3NzejdZc0FfZTFVdUJzSWxMcTRhY2xjZUdCc0d5Ym1GaHhickhMYjM1MGYzUFdYWVk?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "50d7bf950c54801e6ea5fce91bb12b136dfb3112d30a8a78c41b48ff94701b36",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
