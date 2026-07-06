@@ -1,97 +1,127 @@
 [
   {
-    "titulo": "Queda do petróleo já não garante espaço para novos cortes na Selic - Valor Econômico",
-    "resumo": "Queda do petróleo já não garante espaço para novos cortes na Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWx3LUF2MlVzNTBuS2xVTWUtSWRNeVRMVTlqdC13T1JMSnl3NDFraEhzV1lka19KMkFNdG5zVkpyOFgwaTN6WXM5VHlSWWVpUEo5X2tCSHFsbHE0Z3BqckRBN2xrWnlnVFVHcmQtVTdONS1uRXhWOGxOSkhlcm1CMkpZd1NWTkdTaE9ibjU3czNYenkwUWktd0xORXZWV1I1NF9COWU5cDlsMFAtaUJGUXBJVDlXUFhSTnB0djlyWE1uQdIB0AFBVV95cUxQMkhTRWRuS0xFWnB2M0lESDBMR044aDBDZV9aaTItcWp5Q2d3clVXa1VSMmpITzNrU1NnTTBQcTRyNDlRMjZvMm1LV292XzRIVFlnb0lQN0pXY0V0QTRtRWxDUkJITHllVFhlNTgtbDA3UVNQRk5PWFp5YUlDSTEwUU1heGJlNjlGTWEwaGRoSTVtS2hkeWJmM2Q4aVRNclh0cXJ2dFZVMVlpb3B6Zm1UdVowSzg4SDE0TmFUTjlkek1QUHVKdUZxbnlZSEJzajZr?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ebc7f746537877ce22948fdb594e7660372aba52f44f56093d92a6ec2f2730f4",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Retorno de 8% chega a Tesouro IPCA mais longo: quem ganha e quem perde com isso? - Exame",
-    "resumo": "Retorno de 8% chega a Tesouro IPCA mais longo: quem ganha e quem perde com isso? Exame",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlNPUnc1bDNpVGF5R2d3bk5KU3JpRFFEOWJ1Vm10NkF2XzZRVnVYQllpWU5vdjFtQ3hBUmNvSVVZSDB0S2JUZUl5bGdFU1ZQSFVQZ2tuRFAyOVpqMTZXTVR1M0haaXhmQ2JxTUZJSWp4NFVqd2pXa29sdUpfNjFDVW9HYU83b3luN1BYY2dSZmZBbUl5RFFtT2RlckI2RW9JU1lDS2R3Q0hDLWt6OHo0bmlB?oc=5",
-    "fonte": "Exame",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2195c921fdb458e61797ee44ff0d8774f329b3b9a0e6d3d84343318cebd5d440",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Renda fixa no segundo semestre: especialistas apostam em Tesouro IPCA+ e mais três opções de ativos para bater o CDI - Seu Dinheiro",
-    "resumo": "Renda fixa no segundo semestre: especialistas apostam em Tesouro IPCA+ e mais três opções de ativos para bater o CDI Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV3kwRDQzWTN3elNwLU80SGdkY0hQMjN6UVhFWEJoLXVxeVNPTVNHSWxpVnU4ZktxN1FwSk9CSXVNSUJ1WmZYZnM5LUp4NUdmOTBRcURSRS0teGtMWVJpTWNZVEx1enNLdk10MjVvOW5JVUFfLUVmNHhJNHVlRklCN2s3c2JFYTRVMmJlSy04Rk5ObjVkazVBTGp3cU5JbXprc1pRakw5Um9neC1wdDR3OXhfV0R0bWJCRFRJN0djUG1QbmlvSnBQRkp4bjhpVEVpQ24zTWNXYTJSSVFGRHdBelo5eWJRZ3hMZVJ5WUhyRlBTaXQ4d2pN?oc=5",
-    "fonte": "Seu Dinheiro",
+    "titulo": "Economistas reduzem previsão para inflação pela primeira vez desde o início da guerra no Irã - Folha de S.Paulo",
+    "resumo": "Economistas reduzem previsão para inflação pela primeira vez desde o início da guerra no Irã Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObTdJSzRmN0w4a19CSldWSHRGNTRya1BPOFg5cjhoMVgzcURoYUZwckt2clExNW5zY2tKOVlVWk5fZFFaT3pZWGNlSVVzSkx0RndCNzBMcWxrTW4yOTZNQUF6Y2laSjVsb0lHWnZNN3VnZmFUUFE1c3QwdktDT0NFejRncTFzNk1WQXZUTVQxcFpDVUI0b3VRaGkwQWlLYzJhVXVpaDZpY24wVHlaZm1pZmU2VHU0czhiMXFLbFdteE9JRXJoVEJWQUd4YnZfaHlza3Y0RHFWRklpM0Vn?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2e5a73b23176a5505a49ab93decd85fa6b075569e58841d58ea05f4e77e37151",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "PEC 65 fortalece o Banco Central - Valor Econômico",
-    "resumo": "PEC 65 fortalece o Banco Central Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdURKNjZxcFl5dC1RU0ZpQkJkTmxsVE5kSHV5anl2cU1faUdPeHBGWnA1MkpqLUtQWFB1SzJXWDI5b3FiZEVZcUYwWjU2RjVrMGxocVlBVUxYbU9ISzV4UHV3YTJ2bVJFRGtrbTkyVkd0WkhkeDFUd3VqZXpuRnk3bXVBb9IBkgFBVV95cUxNR0hPMS15eFpyTzJBdTR5VmMwTnlDX18xQ21KQUlfaDdOd2dVdTN5TGNTYW1IaFRPbktOZ1pLb0h6bGNUY0xpbzRZTHdrVy1QeVFESG42ZERLR1JQdXQwUjkyeFBDT1NQVFd4QUF1MHFyQjNLNVNuMEd1Wll4WmNHYjYwY0FKVmZnY1Brd1B4MkxlQQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fdf14f4df6112144357fbcc308c5831a7c1c61a8537c50b062a6b8091dbf286d",
+    "chave": "0f1800127b3d49d35f84d3fe74d393030969a922f7d2e3855841dc5f491468c1",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Semana tem balança comercial dos EUA, ata do Fed e IPCA de junho - UOL Economia",
+    "resumo": "Semana tem balança comercial dos EUA, ata do Fed e IPCA de junho UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT3FVZS0xRnZQeXNRZTYyd21kQzRVbFc4X2l5TmZOSk1xaDBkeTkyR1BZaG1Kd0FnMWVGRnNhRktPVldhU3dvdG9jZGQ2b3FERTVhdU54bWZYcFl1R0NzYy05aHg2SnVLOVpFaXVPaWg0Z0JUNnFMQVJwZWxvX3M4cWZxT2NwNUFrOVNHcjhkeXR4YWhsZThWYVpWU04xYjNDVkhhUnNhM0FmR3dxM0FySTMtNi1jSjZTYktNcHRqTmcyZjRNSTZ2NktvMmNJcVo4S2toRFJheGI2VzRyYzQ0OEtZeUVMV3M?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a9fa3242d87aaa439bde02e9d2d2d8020fb70f25307e967a49484e635ad1c95d",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA e ata do Fed no radar dos investidores - Clube FII News",
+    "resumo": "IPCA e ata do Fed no radar dos investidores Clube FII News",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVW9wWkstTWNPV2dQd1d6WDlxYldZNExjaGdJbTZkQzJ3SmUwOTdYZ1dBNUQ3elpEa2J0Znp3SnN4dEswdnAzZ1g2Z3c2emZXR1ZuVE53dU13NEFrTWUtOWJtNFk4SW1SUlFjQ2VDZk9RZGVxQ3RmNUhUa0R6OUpSYlJoVVljcTJiVTVV?oc=5",
+    "fonte": "Clube FII News",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "86f490ce6b7344452daa5ed30ad729651d85c69817770d050b35a4f5f43b2fcb",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado reduz projeção de alta do IPCA de 2026 de 5,33% para 5,30%, aponta Focus - Valor Econômico",
+    "resumo": "Mercado reduz projeção de alta do IPCA de 2026 de 5,33% para 5,30%, aponta Focus Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNejVSb1FoS0F1UkRZa05lTjJScUo3bElYdlk4b0t3aTZkM1hLU05XVWN1NmtyWC14S1VfamJGZTlHWWlydWpPWXJHbm1sSHFCSmhHZUs0eWVMZnNjRzVUT3hreUtaLTBNOWU4bFJTMGoxRVNKVm5fbXBoMUphS2F1SXF6VVlOdV9ma1VWVnhlMkxLZjVVdFJ6aDdLeUZDVnd0eFFndTJKOGNWQ1lCaGROODdwVWl1cGc5OFVtTUFTcTNFNzIyNEw3UlBSSHJ5VjVaY0hZUUpSalljcjZKN0HSAewBQVVfeXFMTTYxMnV5MUJIazJSZVYxelVMZDl0blg5UU1qVjlDRWJKQ0tlWHZmSVJfd0hLR0pKQVZ2dVp4RmdFOF9KTVJZOTRRQlBfbmszdkc1ZHJJXzl5RDRQX1Bzc1V5TnVMMnBiMFVUNi1hbU5nRWtZU1B6ZzEzdmxCZVU0UzExTVdYQ1ZxY3VvUnRpNWVCU3NIVlVFbl84WmxlOUVxQVAyX0xUQzVRXzRKTXVhZy1mY2xvYTAzamVhTUk1cGpTWnp2Nk9nd1VJM29jd2RrTHA1MVloRjRiR1Juenp2VFhpNDdwOWJick5uOGg?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e471de5b4c26121801ca7a505f6670a446652833e5840da462dc02e3fe55c9d6",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus mantém Selic em 14,00% no fim de 2026 e em 12,00% no fim de 2027 - Canal Rural",
+    "resumo": "Focus mantém Selic em 14,00% no fim de 2026 e em 12,00% no fim de 2027 Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUERMTTJyN3FjcjhBejFVcFdPLWNBR1Z4eGlqcUw0cEdlLWQxdzJJYXJ4QklCdEJOejV6Ni1mX01vYzNuVHExZEdmbFV4RTQxbklHU2lMa05wZ2xKN19uV0FYckp3WFM0WkRVenpNRVFlenMwRjZuUVo5QWlyYm9QaHJ6YWI1Q1JEVlJDeEJEbGM4aEdkZDJZNnR5VEdINjFpdnZfV3hTRzVEQQ?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7b3161a38396092f80296e3bd745d8d59e972495e081cca08f9a9b0ccfbf7764",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
