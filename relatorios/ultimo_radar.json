@@ -1,44 +1,47 @@
 [
   {
-    "titulo": "Ibovespa abre em queda com recuo de bancos e Petrobras (PETR4); dólar fica estável - Valor Investe",
-    "resumo": "Ibovespa abre em queda com recuo de bancos e Petrobras (PETR4); dólar fica estável Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU3RvQnVUYmRzQUNjZUxQWWNhdDl1aW1WcE9TNE1QcXVHenQzVEYxbGZNYTJvQWoyRnE3Ry05eVZBOExza0J0WmJXZnBsc2htek5tYjZBZkhkLXZGTmdSbUFIczEycGVRNEtRdW1QTGNZcjdXYXJ0cGk3a08xUjJRRW1WVDRzMGlWcXJ1WWNOeGFOVmlrY3JDZTgxNzdaWmdndG9pQ2kyalA1dF9oTVhyNnc0dEhmSVBIZHpIUjdETWVacG5tdUp0STZEYTItdlJ2STBDRXJpZXQ0M2xlSENRZ2hQUVR6Y29a0gH3AUFVX3lxTE95a3VSeGZFNHVUMTlVcE9scU5ydVZMaHZKb2hxM0dyclpETXFkMGNtZmp2NDhobi0xRGE5enVBclJjYXphWERaWHpDbnJtcTRrN1hlS2FmYzM1NkY5N3JGVDhXRHF4anRveFllZFhBeHpmVUFQZVV0ZENCNV82ZjFnNWlsNG4yMG5VQWJQWVl5cExwWGJ0NWFKdmpoS2hQVHViU3VHMVNhRE9aTG9iWUdOMDd1bFhXZXdvMHMtSkhkMFhiTFJudGRxYTlsWDBxMXpOR2d4ZHZIeXRtbTNYSHAxaDAtOUN0NHpUOVJNdzdDeFRDc1IyWlE?oc=5",
-    "fonte": "Valor Investe",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "71d1fe741285b76ffcf346b2bb038627d45f5f1c01f5c3cbb12a60f8f212f083",
+    "titulo": "Os vencedores em tempos de inflação: as ações, FIIs e fundos de infraestrutura que protegem o poder de compra - Seu Dinheiro",
+    "resumo": "Os vencedores em tempos de inflação: as ações, FIIs e fundos de infraestrutura que protegem o poder de compra Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObHZ5MG5uQlREYUlYSjlMUEJEZUl1WkhBczVULUl2YUt1SXViSUFrNm9ZTnVQcHRJYV9iTmxYTjNjV1FheG9vNlpOVkRVeTNoT1Y5V3Rnai1oSjdLaUZhVTRHRnNJUWFtX3FWdUhYRDcyQzFCdzBmblg0bEE0TmRwNTZrbjNGME1Edm5QeVdtMzB2NGpFUHFaN2pwZUxDajY4eWJlekVWMURvbjhyalVHUy1kbjV1RG1HcS1PTXJRTkV1Um9oRHhVUjY2RG8zRHhTak4tOEtSRDRjYTNMU2g4VWN4TFZMWlNCampYZGhWYw?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "d0609fe9f84e04339dfa79fecaa45bc53eab02fc6755e98657c5da372d72e914",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Governo autoriza concursos da Receita Federal e Banco Central com 316 vagas; veja distribuição - G1",
-    "resumo": "Governo autoriza concursos da Receita Federal e Banco Central com 316 vagas; veja distribuição G1",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYVZrQ3NGM183cTd0QUlhczFjekctWWV0UHAtWnBpMklyN09fYVJNWTEzRDVEaEZiWk9OdDZrODFYcTZKXzV3LXJOSWViU2p6WWxUU0RjVndkMGp1MzVhcnBOTjZyckJ2N25hbmt3Q1dxUXVTOEk0T2hUVWU2OG1wQlZkSWFLZlAtSlJKeE5aUGZMakl6RjRqT085dXo2QmZDdURFUllsRHFhX1dRRHVBXzBmVlZhVTBjdVRfSkhDcFBLOE56RWVrT0NtWXlwWEJINGpv0gHiAUFVX3lxTE9Ja3V3MHYxUzFLckRoNF9KVGZjVUpNdVZTY1o3Q2JDdWo3QzIxcUhlc1hZVlBIOU1ZMmpVbE1CcnMyQ1oyWG1OME1WV2h2dk1sTHZiRWR1Y25FbVNOVW13UVJqZ1hpSVpCVWtYNlExUVJ5M3VFdGlUbDdLMGtEckc1cnYtRmJGMGt4U0VVemlFMDhnUzdpZmo2MFd0S1Y1TndwYW9iYVc4LWJ1U3B3S0FRRVdqaTNkY0ZEamMxdDZUdGt3dmlMaDRNTGppRG1XOEZkbG43eGU5eUZuQlJPdG1kaFE?oc=5",
-    "fonte": "G1",
+    "titulo": "Focus: com Selic e dólar estáveis, projeção para o IPCA segue acima do teto da meta de inflação - Estadão",
+    "resumo": "Focus: com Selic e dólar estáveis, projeção para o IPCA segue acima do teto da meta de inflação Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ053UnhXVFpSd21NY01ROGVhT2dhbS1mMWVTYkJoclkzOThJV1JrNzQtNmV0WjV6UHo4TF9wYXQzNFFwaDdoMEthX3A2SkcxczNHTFByOXpzekFPSDhVWHA1UTRXZlBiSG1MNmpTb3I4N3lnYlV2NEtBRmlNa2hrbTk2b29hNlo4LVNaWjQ5dEh5WGhUSkxDenhKaUZtdE5ma1JZVUVXX0RUT0pHX2hXOE1tYnlmTFYxLXB6SjJhUFJULS1jYm1pM2JrTGJrVklYaV9lWGl2NmF2eXRaMUZEQnhUN3RfYWvSAewBQVVfeXFMT1MzQW9ySGd5YVZWbklCNklLUFNzQWFXT0M0RTlrLWx6dkk0MEo2U1FPMUxmZzk4Tmx6MDBxZnBreUlrUXZRaVhFaXUtN2JoeFRCV0lQWm9kRklsUU5uREtlNF9nNVc5WTd5MTlQWkc0SVd1OFMwUFVrM1RVbm1DRkl2MDRwSV9EVHhmNVRKVjJHN1RYU3R6d2FLT3hXS0RlT0I5d1E4V0IzY1BkSjlvZWdVMjlzU2hIYVcwQkYtSlBnYVowdDNHZUdJQ3pibFhmelhfclcwQlQ1ZkEwWmtBUTZyaUxxSF85cU92X0Y?oc=5",
+    "fonte": "Estadão",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "31a8bd39fc0e7b27cd7d2341e959310149fa22120f777e0308ec7f2f112dced3",
+    "chave": "2a7da949c7b6131c210fdd99612a89f0ae2bd5455545331149e7478f36fc299f",
     "ativos": [
+      "IBOB11",
       "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -48,67 +51,69 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Governo autoriza novos concursos com 316 vagas para Banco Central e Receita Federal - 06/07/2026 - Economia - Folha de S.Paulo",
-    "resumo": "Governo autoriza novos concursos com 316 vagas para Banco Central e Receita Federal - 06/07/2026 - Economia Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVQzMjJvemtBaDlmTFFaQnM4aEhEYnAwZTJ6S0otUG1HTzlxMVc1RmVjTlJVM3pUZi1aLW0zOUZWREJPTVAwcExaSVo5LWk1cS1Tc1ZJM09NNTRSWVZuV3AtVkZobUp2TmFVQXVjRWpmV3hYUkRFcF9DTnV4XzBnSFNnMFoyc1M1NXhDS0s5TlR1ZVEyd0JxVXFPQ1E3Smw2WEItRGJVRE4zY0RrRUFXOEZwdlc2MkRqY2hzY2xLdjN2dnJoaVY1QkFPQ3BmTDR2?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "32aba60d92c6662e3aed36062715ec06a5f7c9a3327937bff71eab8d71e9f8dc",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Concursos da Receita Federal e do Banco Central com 316 vagas são autorizados pelo governo - GZH",
-    "resumo": "Concursos da Receita Federal e do Banco Central com 316 vagas são autorizados pelo governo GZH",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbGpMSVpjaTNKVjBNQ2xKRndaNDBITzNBWFVSTUNYUXFJUWdKcDZpQi1hbzlYUkpEdE9xb0QzdVB6SU8xdVBsV2xDRE81WXJOdm5BZTlSNVQ2ektfNXNIZ1RoTWh5V3NndHhWREZsSlViU3ZlcWMyaHZkR09BT1g0X1dSelo0RjZmeHFwTF8yQmpFLXRxVjFDeDJtOVZDdngzbTZfNjFNM0RxQXJzdFFVdEJ0UjVvUkltdUwtdDY2MGdEcHZhTGxJQ0JTMk5sbVZta0FRWFZSMGUxMlF1a0o5OEJEbVZfOGhoYVNpTXNUUTQwYnY5UDduclh2RlVwTWFkTk5feXh3VE9rb0lkVXZaUUY1aWdfdnc?oc=5",
-    "fonte": "GZH",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5f45d8b945e26893349e4f55184cd0506c0390616de8718c73785da5a681d85e",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado reduz projeção para inflação de 2026 pela 1ª vez desde fevereiro - CNN Brasil",
-    "resumo": "Mercado reduz projeção para inflação de 2026 pela 1ª vez desde fevereiro CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFUtdFpNR180ZEdfVzRHcUhDRE5ZR3FWbFVjQjQtakFBZ2wzVGJfRV9XdlFYckVqMjhiWDRTY0pKMHN5S0NCTVpqVjZ1alE5RENheGlUZzA2VEtrQ2FQdGRlNFJ3OU5EYlRmTm5HQ1c5OXBOeUd4c19lVDgxUDlYaWlDWlN5MWpTN3VMZ0cwNkFmN3NzejdZc0FfZTFVdUJzSWxMcTRhY2xjZUdCc0d5Ym1GaHhickhMYjM1MGYzUFdYWVk?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Ibovespa abre em queda com petróleo em baixa e risco tarifário no radar - trademap.com.br",
+    "resumo": "Ibovespa abre em queda com petróleo em baixa e risco tarifário no radar trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlc4aTNGdFBjSlhXeXNrLXFrYVR2UlBvQk45MTBtekFHN2lQblFYSXl5RnktblNoM2R3M3VwVFoxSXl6Y1hVRjdzVUxRNDVuODJaemFpMUpNYkpGMmEtMlJ0OVJiTGJuSHRqTjRNLWF3TjBoNUtad29KQy00Mlh1bzlyemkwNU9HQnBDcE84TmlEelhOZVlnaHNhZ2JaV2JuUnVidF93?oc=5",
+    "fonte": "trademap.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "50d7bf950c54801e6ea5fce91bb12b136dfb3112d30a8a78c41b48ff94701b36",
+    "chave": "ba63942380282f3809ff15854c8ce4cfc3e48e54d587094b28b968e7fa83a3be",
     "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA de junho na sexta: evento que impacta a bolsa - Associação Comercial e Industrial de Araçatuba",
+    "resumo": "IPCA de junho na sexta: evento que impacta a bolsa Associação Comercial e Industrial de Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pS3JfbTFMVElsdmFvT0hpa0I4ZkFFekJndXRISF9XdnFNY1FwUVQzR2JkZEUzeGxRa0xYRUx5WWlDMjdaTXR2WlI0SjBZSnIza1kyUmVZeVc5aWg1VnpNRzBGZktDQ00?oc=5",
+    "fonte": "Associação Comercial e Industrial de Araçatuba",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4de3e31f01ea28abbdbaafcc7d37bb158c7e4fbd1d834973cf544c922eccd5f5",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Receita Federal e Banco Central são autorizados a realizar concursos - BOM DIA SOROCABA",
+    "resumo": "Receita Federal e Banco Central são autorizados a realizar concursos BOM DIA SOROCABA",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGE5b3dtWEpaUE5uRVdqYWd6VGhNNHpKNm5HVHRCX0s2eDkwNkoyWjduZy1kMTIwX2FEcmV0RHVrVXFqYmZzWHUyR1dNNkhPVVgtbHktNWFuZTFLaDd6cmtzOEJPMGFvYUVkbHRkQTNrVFY3VXpMcUlGRFRTVnhBd21udkxoaXFvTGxMOEFTd3ZpLVVPX1gybmRsOUlpa0FNWkg3OU9KUGpPMXNOdlAyOVpn?oc=5",
+    "fonte": "BOM DIA SOROCABA",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "be1cb12e1985d720b8d488ccca3d7cd0e0e1baf491978f6add21d33c9e92f98b",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
