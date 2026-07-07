@@ -1,66 +1,11 @@
 [
   {
-    "titulo": "Ibovespa cai com saída de estrangeiros e foco em Fed e IPCA - suno.com.br",
-    "resumo": "Ibovespa cai com saída de estrangeiros e foco em Fed e IPCA suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGx0OVJESXladVlmVnpwYm5GaDJySUViQ0dzVm5GeGRQNlBNbDExSnB2R045QU9BUzhVOENSaUI1M283N19pV2RXNEpnT21ZRFZ3cEVlWm10a0tkWnZaNGltOEFZYzh6allFSHFLazNBMUh0c2FUMUdjYUxxMVAwVQ?oc=5",
-    "fonte": "suno.com.br",
+    "titulo": "Dólar fecha em queda e Ibovespa recua após decisão da Opep+ - Vero Notícias",
+    "resumo": "Dólar fecha em queda e Ibovespa recua após decisão da Opep+ Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3VUQkxWM3RnZGtCbjBpNk5jbTZZekFaUFhuMnljeFF3VEdfcnowWFRNTnNxaW9XTmM0bkxiN0NOMHFzcUZ2Y1pzRGk3R3JCcnVzQ084OWVRU0ZCQWFIY3JLMUsyX1loWlpJUmVOcVVDQS1mUVhGNkRmazJrWVJmNGdlNzlBSXA1NzVHWTlYblNIQ2xBaldNaw?oc=5",
+    "fonte": "Vero Notícias",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "51f80fd399cf4d93a50779981e55ee3c4d15e1159a5dc83fdef41c0b39b61f1d",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Focus tem alívio no IPCA de 2026 e estabilidade no câmbio e Selic - Revista Investidor Institucional",
-    "resumo": "Focus tem alívio no IPCA de 2026 e estabilidade no câmbio e Selic Revista Investidor Institucional",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORDlmeUw3RVVMVThobnBzQ0dFWVN2Ny10QVhfNWFnS2pLU0hpcTNVY3dvYkh0cG9xcmh5bFNobnJZVGFCR3hqQWE0NFhrbjdqY2lKYmVDRFRUM2VKR3cydktNUDBGN3FHSU8wNnRTaUNBTmY0QnViQnlZQWRjOFNtUHJVZ1k5VmVjczFQTHlXZjdhY2dYYXlTQVB4U0RpOEMzRjNiOGpTdExCcEdZcnNQaGd5OXZTemo2SUZxZ00wQ3FSdGFZaXd1TnYxYXE3b29o?oc=5",
-    "fonte": "Revista Investidor Institucional",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "667e2f09b4dead4ae43fe8ec49732dcb1104ae030e7505404355045ed5c66057",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar cai a R$ 5,13 - InfoMoney",
-    "resumo": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar cai a R$ 5,13 InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWlqMGROUm5SeUl5MHc0LS1kQXo5b1A2czAxUXVGaDR6TzEzeUUxTXc5Y2hqQ05lZHdlSXJxdFpRZzFPbWxZTlFLSGxsTnFTazkteW1LTm9UclcyLXhxRDZLYlFoYm9NX0F4cUpYdlFWNmJxTXJsTXdXbXRyM0s0eU5rMEFHWEhhYnlpdjByOA?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ea253751087d1e15e0d05169b670dc5184a21cc6fb2c49a65c63ded1474d44c9",
+    "chave": "89f73f0e7acd4707e83d8d838772cde6ddffa07a02d4a7351d51edd43f5df868",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -79,34 +24,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Tentativa de Elon Musk de anular veredito sobre fraude no Twitter é rejeitada pela Justiça dos EUA - Valor Econômico",
-    "resumo": "Tentativa de Elon Musk de anular veredito sobre fraude no Twitter é rejeitada pela Justiça dos EUA Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcFNCYk9lWmpSMURFWlA1RGZKSTBSaG9jYVl1RUo3QTNIYmlVYk5Ea1J5dVBOTXdWcER0eVpEeEFqOFhwX25lWVQycHBHYWtld0owZDFYbXhaN3h5M3VUQ2NQa1NVRXRSVUhrRUFVVDlValR3YnIxVld4U19fa2VNUFNMRk9Rem82T3hOZHZ5bmFfVFg3bWh2OEdhelB2YWpRSWtNOTZpOU5aM3RWNkZZd0NOazMzVk5rY1hTczV0SFN6clUzSmJ2V001R0oza3MyX0ZHRnVEbl9SMVZoWGNRaTFUYktYSWc3LTh6SdIB-wFBVV95cUxOOTliSkRlVDZzT2wtNFhrWDhVYnBsQVlheC1HS3FWdWp0VXpGMDVDRWdsanF0UnhSWDFyRU9yVFFIZ2pmT1FLLTRDSS0yNHBkYU03bGxlNGh0cnd0SVhQeXY2dzlGcGN4MHJ2NWhTeVpSZlctem1sZnA4Wmw1WHZXa2tBTDdOdkpYRlllNW5kMU4xUk9DczJPOEE4VE50Qnd0OU5KMF85YXAyT2twd2d3T1paSmZaanc2a0NzNVJtWXdZMnp6WjRuYXRVSXhSUkVKWl9WdFNlRXZtalBiTWppWDJvZlFpazlzZ3p4emhEWXZiamNJTXBpUEhFOA?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "859511661d2ed414665ec5ce21ede4c65eda0f509b8596a9104cdfd30f4e47f2",
-    "ativos": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Boletim Focus: analistas cortam projeção de inflação de 2026 para 5,30% - InfoMoney",
-    "resumo": "Boletim Focus: analistas cortam projeção de inflação de 2026 para 5,30% InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YcjR6UFJpR3FaekFRMy10X2pGZlhCQWpwM09xSkNjbVdiMHUybllFQWNIc0dGcC11ZWw2SVkxZTNpX3RfbEpJNTRJUmhndERvdDVMbUx4R0VNQlItSXdPQ1hONnhfbGdoVy1Cak5vTWlrSDJycjR1TElETdIBgAFBVV95cUxONU43eXJOdG1jeFNlYmNGOHprckVzMzVWTnlpZGg3bWlhT2V5OWFmdWczMDBZMDh1S3ZsbEF1am04YVllLWtRQVY5OGtGU3dadFAzQzMxZXFiY2JDS1BwY2RGeDl4em1xVklSUUludkpSNGNGNFZJRVZPZ0RjNzJYTQ?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Banco Central autoriza Nubank a operar no mercado de câmbio - Revista Oeste",
+    "resumo": "Banco Central autoriza Nubank a operar no mercado de câmbio Revista Oeste",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWhmMTI5QUdwaG1HdFNtV2lQMTgybWVoRmFlNGtRT0hzc21ocXFxX1BQM0Y5eTBiaDRVM3hrUWt3YW5YTG5scndMLXlzdWpNN0VxZEpSUjEwSlZRU1d3d0MxVm56VU9IaHpITlBKUFl2X3NCMkRlSS1nVjVaN1hZUEZocjZFQm51aFNLemFURnN4ZktHQjd0bTF3?oc=5",
+    "fonte": "Revista Oeste",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "65a18ff8c9ec37c9a8367eeabe5c6500a6117e20c9dc68014203b37af2548893",
+    "chave": "24e5d88b064b9ea54d92d4cdc350dd9e6fe1b421744619d4abe7c8f9aedd3f7b",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -118,6 +41,74 @@
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado financeiro reduz projeção da inflação para 5,30% - Monitor Mercantil",
+    "resumo": "Mercado financeiro reduz projeção da inflação para 5,30% Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmVrbGNTWW5ia3Q3Snk0MW00MDhGaWJPcWFFck5RUDNRZlotVnl4LUZMYnQtYXk3T2JOdVhnMEhhMTRERlFidzBOX0NVd2ttUjV1VDVYN2VaSE5waEhCdU5zcHoyX2tMd3JUMmI5MjRTSWdQYWtGYzZGNWtiZ2pNQTJ3UVQyLUFmcjZ0bHppUE0?oc=5",
+    "fonte": "Monitor Mercantil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "a2ff53f8c438bef82d7d51f778fb4b2059ad48e234581ea3667ca983488502ec",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus reduz projeção de inflação, mas juros continuam altos - vermelho.org.br",
+    "resumo": "Focus reduz projeção de inflação, mas juros continuam altos vermelho.org.br",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0V4M0QzWXE2VXBVcENkNVZtdmt3VXlVa2ZaWWRnOEFkSWhGMVdQcU9KQ0ZWN3BTN3l6OHloT0prQnpfSjQ4Wl9tTjloZkdfMXI0NE9kdHhIcUxuR0tnQTc5SHdIekRZVHdjVmpPakdCeHBYSGFGY1FYN2dXS3QyZFJHakdwR0JzTkdMeEl6c1BPOHo0aHhfckdR?oc=5",
+    "fonte": "vermelho.org.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0628ae7e8559e09788b529906cda84a833bfb48a98a0366d5751646838061f63",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Parece que a mãe de Elon Musk sabe criar bilionários e a prova disso é o império do irmão discreto que é dono de 1,6 bilhão de dólares em ações da Tesla e restaurantes sustentáveis - Terra",
+    "resumo": "Parece que a mãe de Elon Musk sabe criar bilionários e a prova disso é o império do irmão discreto que é dono de 1,6 bilhão de dólares em ações da Tesla e restaurantes sustentáveis Terra",
+    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPcWFiUXZwMU03YU5pcUNkMjd4amFWNl9zM0JJMVVTa2k5VThydkJkZkQ4Q2hqcXlzMWJQLXV2VFNVVkd0NFhGZkZGWDQ3a2RoVXJhTXA5bDNZYUJzRXhaRmZUd0FlWFowNThoYzdLQUtmNnR3aWZYYkVFWVlTeFJfZGMycTY0TVZfcFFEcl85MWROY3VsOWxmbEtYMm52U3Y2NVFXLWFaanM1a3JoSWFFcmhEWXNWQnR6NGJfdnBaZ3RoWEhUWnYyeDExTHo3bUZ0V2ZOTE5UNnR4N2VFMmNCMVRRYWwzdjJoRld4Sl9hRUlkV2ptTEMtTm05U3JZVlZMSFdJRU1UdGhNNHdBdVYycnlJaTFnc1pTOTI3WHJvV2tzUi1QeHAxdV9heGhjN0MyZEVRaTMwQk11RnVrLUJEbzQyZkxMYXNFcVhUOFY3dzlnUDlOQXp2V2NWSC1lQkZKV1E1WkpiNHBJUVlFOUJKeA?oc=5",
+    "fonte": "Terra",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "fe9d582e4282487c1013c1ed6e959365cd868e27ae1e31e6ca7176939257053a",
+    "ativos": [
+      "WRLD11",
+      "SPCX34",
+      "KNCR11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Real Estate / FIIs"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
