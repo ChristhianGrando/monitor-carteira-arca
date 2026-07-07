@@ -1,11 +1,40 @@
 [
   {
-    "titulo": "Desaceleração pode abrir fresta a novo corte da Selic - Valor Econômico",
-    "resumo": "Desaceleração pode abrir fresta a novo corte da Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDh3ZHFaWTA4bnRRUTF2Y2J5LUp2Y0VKeTJWY2d6aG1DY2lPZlRoUzlnbzYxdkdoOFYybUdWSDlFN0dLMUtOcGFOTlU2eDY5V1o4QThDM1VrRm90TG5JdmNNRXdtT2pQc0JPUmhHYW5pVUd6a1h2VDVOT0VWNlhGS2dOVzZpZmlrRmtzTkxra1diS2tSdlg3dnk5X3dQSHPSAa4BQVVfeXFMTWMyWjNMTFBjUHVsTkZES3o3d1c2NGppZEwtbzZVQWV6dUd1anR2Unp5S0pVZ0M1LWVtSGZkeVBEOFk4R18zY3Rwa29xbGI5SDNWZEd6cklJSGxaUDdXb3ZZbXNpMnJnaVBtNUM0eVBBQUJlWUVNTExxMUhkWTZtSkpPanFwbFRmaTV5em9xa3ozZzBHcVdZTXlfQ2ljYmI1QWhkRUxtT1NSYzRmQ3p3?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic - JOTA Info",
+    "resumo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmx5S1dUaU1LV1pnQ0VoalktcFJScEUyRnoyd2Z1ZWE5akpaZzMyN2E0enc0aDJjUUlaaFhvTlh2REpoZWRmaDZ3UXpKMlRJTVljOXhtVTVWdEJITlpBaWRwaC1EYjM3MG1mTVUyb2Y3SlVhRndPTVNUalZpU044ZENWM3VVbmt3Z09TY1gxQmtGQ2xtbk5tUWozVzFwYUZqdkIyVGpzTld3c2htY3lCOQ?oc=5",
+    "fonte": "JOTA Info",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "fe439108cb963abaf2be0603079819a42709885f7ede599606ee74029839f5d2",
+    "chave": "2e2c11207bbbb7846a473d0360ebaad5f56b277207a8a440f1093295863794ca",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Entre a inflação e o fiscal: o IPCA de sexta pode dar espaço para uma nova tentação de corte da Selic - Seu Dinheiro",
+    "resumo": "Entre a inflação e o fiscal: o IPCA de sexta pode dar espaço para uma nova tentação de corte da Selic Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRi1tTk1FSTQ0bldvel9HUDhEcHNTSVJNWUlHSFdYd2FjOTBuWENQVkxTQ0djT29GMEVyY1hONC1FbUI1a0hmcldQYXdMeTBJLUJNZGRWOVU3d2N2X1JmV2dHVU90LVBLOF92N05hS19xUVB4SWRPaXNQaGJGSi1LSjRSRWo4WW8tNU1jblFWTk5UanRqVFRrN1BPSWN1bFk1cUk1aDZURXlGRzFjY3hhMmJCV3BQdFF3aTNod01lWFFmcWI0bzB0Vw?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "56dec894208580c8b198c79041c7e9dd29e48d03e3d77a103ff474a3b104fc90",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -27,35 +56,62 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco central da China compra ouro pelo 20º mês consecutivo - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central da China compra ouro pelo 20º mês consecutivo Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTU92S2RQbkJmVjhTQWE3OVMxQ0tQX1pWQm1ZSFZVNDgzMlBqUXRfRUFBdXVBaF91Z0dVSVFqWUU4ajZCZW1iNkUzR0tPb2ZpbVhUWGw5RzUyU0F4Y0pDaXc1LU5aaG1WSTdfVGkweUozSHRSUjByNnY4NUp2TlRtRTlDV2RmUEd3OEFtMmZrV0E4aXRHWmVYWEptUGFvMm16Y0RfXzBSSkE2MXdhLUlZeVF4d3lnMUt2d0hF?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "13256a87a2c8d3d905dc24e722e01a9e6806dbff7e678a87203aadb69b122d09",
+    "titulo": "IPCA desta semana é um teste para a reunião do Copom - Rádio Guaíba",
+    "resumo": "IPCA desta semana é um teste para a reunião do Copom Rádio Guaíba",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnJnSVNmUzRBeWFsR3pMSmRuU21IRGZmMHY0TGhnYVd3VDUzdnh2QTBZTEdmb3lqOG0yUE1IZVBKWFpoczQ3OXAtcWNqWjZZLURBeHZHSTE5Sl9vb1NOQkZla2oyTEtzSmt1V0tzcUZGVmZLbVhqR3d4U1ZRN2xJRUFHcVZTcmhRMzFNeGZ3ZDJDMkpyWTlka1lEeG5oR3Bseko4?oc=5",
+    "fonte": "Rádio Guaíba",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c034fcac9ea7a800380e0c1bcd580eb8d2b3d28c6b02d34b4e9e2a56236ad8dd",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 13,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central e Receita Federal são autorizados a realizar concursos para contratação de mais de 300 servidores - Kinvo",
-    "resumo": "Banco Central e Receita Federal são autorizados a realizar concursos para contratação de mais de 300 servidores Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNVFoUlREODhEdTdFMWVGS0tUOUJXY08tUGIwYlFjU3M5WjBSbEdBbXNxc0YwdDdqVy1XblpyQmc5SHV1Sm9IT3NDYWRBNUhQa2ZEeFpBVjBiLWRtR2FTWE5QYTV4dnlacEJ5dFI4eU1kNUxCMFh4M1pFY1ZfcnlwRVA5UFpPZkZ2bmR1RmZWT0FwbzR0TmFmSElNTllINVd4ZkZ4ZC1tSG5SV0UzbmlWdmRYV01rSmVJMGVHandHRXNHdHNQT0N2SFVOVzJmXzRNSkEtM0RXbw?oc=5",
-    "fonte": "Kinvo",
+    "titulo": "Governo autoriza concursos para Receita Federal e Banco Central com 316 vagas - JOTA Info",
+    "resumo": "Governo autoriza concursos para Receita Federal e Banco Central com 316 vagas JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlDS2luTHFUZlFPMWFSQ09iTWVidDIwTDBKNl96Z1NCV2VDc1R2VTZ5OVp0dlJ2RkFFOExnYVdTaHlMeFlDdFpSbjdrbmc0bXZoTmQxSDQ1dHVhclZ1aGZHMHBYWXZNU1E1ZW9xZ1ZjUFp5Z0tMTkVON1M0WnRyQ0VTUjZXczM1VFV6S1ZZeEI0d1lwbGFNMDBvZWJiZi1xZTh5ZGI0UEgwM3owRnc?oc=5",
+    "fonte": "JOTA Info",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "20a4da946fabbfc3d91dbab4455559725c2603da847dfbee3efa8ba40ea4e65f",
+    "chave": "fe62e66823a0a0593197c9fc65848a9d5c58c6d4bc42f4857fc8f8cd59eaedd6",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Receita Federal e Banco Central são autorizados a abrir concursos - RealTime1",
+    "resumo": "Receita Federal e Banco Central são autorizados a abrir concursos RealTime1",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yLVhKU3pDS1BmaEpBb2Z5ZE55TGViUVJHVUxHYnRaTlZiYlFwVmdJZTRvZWZyX194anBZMk9sWmZ1WTF2V1dNalhuNHhDMU00M2M3RTFHZV9ULU41SUQzc3dDMVVOOEtnS0ZnakdkYUhrYlRBMkNiSjVn?oc=5",
+    "fonte": "RealTime1",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "abdd2aed372f25605badbf1dd9479be805fabdeb1fe7994ceec1d914c0b8b80c",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
