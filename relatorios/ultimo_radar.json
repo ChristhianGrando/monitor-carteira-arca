@@ -1,37 +1,11 @@
 [
   {
-    "titulo": "Ibovespa hoje sobe com foco em inflação no Brasil e balança comercial dos EUA; dólar vai a R$ 5,14 - Estadão",
-    "resumo": "Ibovespa hoje sobe com foco em inflação no Brasil e balança comercial dos EUA; dólar vai a R$ 5,14 Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdjJWXzJualpoMVJLRk1GQ1NNRDQyNERsdC1hT0t3M2RwRmw3QktUTmtra2M3OXd1QXMwbHc2VUJFZDdBOVJGYUtGM3pIbkJudnR3RXpYc3pmT1NwdVpOQjlNTm9XTEg0Ukk2akNiYlNkckd0NFA0NDdvR3lXV1hoeExUdzFQOTNIdHdmZTFzWkstbWRNR1R5ci1CMlVtOEZYbEN5VFRIeDUtSHZMYTF6RHFkb2xPX2lTRE5EWXNZUXlVaFhGRUlLMC1XcUxtak4tWXJUU21XN2o4SkppT2QwQVJZRWlQQ2PSAewBQVVfeXFMTjE1QXNjbHBERnRrSkV3TG90YTRyb2RSRWFOQTk0enYwY1FvM29jZ1B3NzF3b08xZWhvWUNEb194V041UVRVbUc1b3AyalRxZW1XTHVqMEs1blVhMGNIcDRkWXNQWGhGRzdsNmZHYmNMbG8teThCWmtwMmtvcFpxU1ZNQ3ViWjFYSHZ3QTA1QWhlUkFoMzlDZXFseEEydzk0SlZDOFNGRm5zZ2ZvXzZDa2U3SjdlYVB2OFNuZmtyNkN6d3dfelU5elp4alZZLVVIeUtOUGZNNG5UM3FrdFUxVzlqLVFXTzFWYjk2Z0U?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e29baa151f49e59a49e0b309b559f8c0652b47d7b0628cbe5b5c3f947ad20d4e",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "XP reduz projeção do Brent e vê IPCA mais baixo, mas mantém Selic em 14% em 2026 - InfoMoney",
-    "resumo": "XP reduz projeção do Brent e vê IPCA mais baixo, mas mantém Selic em 14% em 2026 InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbC1sOXQ4S2w1RHNtMjZvYktKOUg1bUNSVVk0Q2VwTUhOZl80ckZDd2dQN0c2OThadlk4clV6b3Z6YThhX3lPd210TG5BSVNrV0ZtMjBKMksyN3lKYUxSaFFVWGI0VEJrUGptT1YyY0o5eGFVZmViU2ZSVUxzNUJoSUYyWFh2NUItTVpXYk8wNF9JWFFtWlJ6VXVnSE1jdDc3eXVTNUtVbDNUdVNJeEtWek5zNVhwSGRV0gG-AUFVX3lxTE5nQkhvalVZVFMxYnhCTG5vUmF2OE9zNmdxRWNOcHZXMU9YVm8telJRaWNLeVFUaTdPVlFacVVDbkpGY19mYnJqN2RuYWFfNE9jbHVnN1VkSFJ1N0J4VXZYcWFNM3NkemNNNXZZdHFIaDNKNjEtVTBJMnlLclZJTzd1VjJoNlN3WVJPQ3lKS0NuczBjRklkYk1SSk1CUHhjLVFNSkc5Y2x1Z01KS1Y5RThqdGpJOEhpWjBKT2EyY0E?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Banco Central aumenta fiscalização sobre criptomoedas e stablecoins; entenda como isso afeta o mercado brasileiro - Money Times",
+    "resumo": "Banco Central aumenta fiscalização sobre criptomoedas e stablecoins; entenda como isso afeta o mercado brasileiro Money Times",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNTIzQmxOd3JOcTV1MEQyV1NkS1AwTHdZdmxkYkcxWFRNakVTREhVNUd6ZnBYcmhDUVVucllRM0xXMnZjN09qTXNBSk1raWozQW9oWWxrNGxoMmFVM1NpSHpSNXlnZThFNGFvLXBiZ1M3bE5hYU5VOXFKZmZBS3QtUHhyRGMwWm9VWGtHbGFXZ1pNTFBNa3lraE1EZTd2bkFrQXU5ejlCU0luN0xlUlJNSzZlbHFaNThia2dqVXNDRlhvVndwT3hLSk5XRElFbmhzbm5NZ1oxNUtWdkdScWUtbndn?oc=5",
+    "fonte": "Money Times",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b1cb8b62eb6478bc55d848aac1fc4a010884d02126d1edb9a42be8b41a942a08",
+    "chave": "a1175441dd1cbb0ac104ce16425346185b1b645049fdfb6cfe2c40938b9a30f5",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -52,71 +26,93 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dólar cai e fecha a R$ 5,13; Ibovespa recua 0,93% - brasilagro.com.br",
-    "resumo": "Dólar cai e fecha a R$ 5,13; Ibovespa recua 0,93% brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZpcmR2RHFreHpzX1U5bW1udmIxeEJTOXI5UjRRTGhXVl9CV1VmdnFwTUEyWEYtVFJycHhMblI5dks5Q25KUXhibEMteE1ITWtDTUpIVFZtc3ZRdUtkcjZtelN6eG53SllQbzFvdnhJMHhYU094QkZ0emZFcWhqM1llcEh3U3ExTjVGbFhyMzlpdw?oc=5",
-    "fonte": "brasilagro.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ef6bc081e98fb36efb08d53e66c9ca7fcf5f819d6491c3be54ec3a09b50fda91",
+    "titulo": "Governo Federal autoriza concursos do Banco Central e da Receita Federal - TVT News",
+    "resumo": "Governo Federal autoriza concursos do Banco Central e da Receita Federal TVT News",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WOHV1SEVGd2JBaFNueTN4VEJ2ZFp4LWY3YUhqdUdIczNGbWRQaGdYekhDbGZjYmJLZVZFMVI3UzltWmJVSk5pd0pocTNvQTByWDZyM2JyX0ZpdVpTZ1pFMk51S3F5TllaRFZEQ1htbzR6MXpUYng0clFKaHRtaGc?oc=5",
+    "fonte": "TVT News",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "8c1fdda9aa70bc02c87114643908bcee6cf0417a91bf8523c170c434dac5eb66",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "WRLD11",
+      "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central e Receita abrirão concurso para 316 vagas; veja cargos - meutudo",
+    "resumo": "Banco Central e Receita abrirão concurso para 316 vagas; veja cargos meutudo",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb1hlR2xacEhnZXAwM3Atd0Yta1g4OEp6WUs4amUtSW5QUnZic1RNT1lCNGNyZGtwY0QwdUR0b3lZWHhqN01FVy1LZkJtWWlqcF9CZWx6WjduREh5aDhlSUpVNWIwa0xVT2pxcC1zUUdyaE5TY0VVeS0yN0tWc29RbWZfcjFqQUZFb1B4Wk5zTU5hYXQ5SzQ2N3pUYVRJQ1NZUkFxZDBiNl92eXdWZjZJeUZtR1ZSTlNQRGVUbE9HRkwtUlB4UmIyMGNB?oc=5",
+    "fonte": "meutudo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "8727c96af69fcd2e21a55297411a2c2bae294fd0530ab53e2a07f0e82ed9f1a3",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "SpaceX estreia no Nasdaq 100 com seis corretoras recomendando compra - Bloomberg Línea Brasil",
+    "resumo": "SpaceX estreia no Nasdaq 100 com seis corretoras recomendando compra Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3B1cEs0WnFwOWFVYS1STzJKZGFXVUFGbHlfN2VFYXloNmRIcXkwcERoZThyQU5aTlpzdjdoX3dkMVNMNkhXUzMtZURtZ1J6Y0gwTHpES3RaUXVsWEt0UXFQbDlRNDk5alM1WUo2aENUZEF1Y0R0SWEwMjdkaW9XbXpjT0w0WExJR0NmcmpwazhETFRJVDdRSXFvQWVpQWVCaWhOVFVKbkdEbHVDWVZTeC130gHGAUFVX3lxTE4zWng4MVhfeXhUMTkwY24wM3dkNDBDT2JLZE0wNmlZdGZwMWwzQ0ltcE9yZ3U2MXQzaDU1eXFmT05tQVRDcFNXZ1dzTzhUM2p3VlpubEFvTUJNbU5sdDFkclRkRzBBRGdtaHpPc0xRdmVrTjItTExwS3RJZ1Y4dmxoeHZuX0g2Q1RoMWFQX1dXNHV4bUV6TU0yYTZPVWFOOHUzZzVKVHFNMVg3ODhreWJ0U2l3WmR4V0ZZcDZoN1JrZF9lSGZ3QQ?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "0bc1c3a8a6c0e65930d6d36b436c14671e073d363fc177f2b10c998ef82a1abf",
+    "ativos": [
+      "WRLD11",
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Nubank recebe autorização do Banco Central para atuar no mercado de câmbio - Portal IN - Pompeu Vasconcelos - Balada IN",
-    "resumo": "Nubank recebe autorização do Banco Central para atuar no mercado de câmbio - Portal IN - Pompeu Vasconcelos Balada IN",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTU1Dc0xuZHc4dG9UNDdwbFM1dUs4bkUyZUlIdXdUMjl0QTYwZTNiWVNaSDJuVnlXN3ViR1Rsd1k0WTdLVHVXMHBhbjExeWpiRENlaFJ0eFVvaTVPSlhOU2JNVkVOQmt6WXU2eWR1Q19HMmlMMU5zcUdiUHgyMVk1U1duZnpPWkEwbEZUMnRpZ0dDSVRJTmlXSkk2aWYyNGtrUXVDNWVZMHVfVFJXTXdRTkJB?oc=5",
-    "fonte": "Balada IN",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b8c5ffd807de57a1efb67873da788f262a041fb1e9410f1b88e9f40fcad1d673",
+    "titulo": "SpaceX estreia no Nasdaq 100 com recomendações de compra e projeção de subir até 150% - InfoMoney",
+    "resumo": "SpaceX estreia no Nasdaq 100 com recomendações de compra e projeção de subir até 150% InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZEV1dnlKdWNwdk00SWM1ZWUzSll3VlVIUmlHRmhlLXNrLWdFNVZFcUVNcTN4cF9xalBTN1lUUmxLWVI4enV4dGtZaDRrb1JKLXM3a1k5d3NaQjRETTVtZHdSN3Q4RlpmUFVtVmlUU3JZTDhiVEt5anJRTmtLSlRTblR5NDZlTDhGSGJZbTNPUlB0d28wV05NeVNNWnYtWHZyUHpCUzg1RENYdXF4NmhtYi16MzA2MjBsaVIzQWJpSTDSAcYBQVVfeXFMTUZtcWlfWTYwN3Z5ZjhHLXFiRUpUOE1JTDFTdEo0bUhUc1pGU0p3c1dEdTFjOWZyV3VmZ196STlVSlF1TnBIM0dyR1JRY2hRUEJyVEpZaUVMWEFGTnFfY0dkVUtWMVdxNVE0T1hVMnZRTWhVMVJoWFY0UGFvaW45ZVhRY1plY1pJMjhkZjIzdGtLZEJEMkFaRk0wQlh4WDJkZE1HUE00aEY5V3NyZHBpcnJCQ3NiNnIyeHlrcWFGRk5PaG56UXZ3?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "9597d641572235ca1c827e65391dcb35e286d42f39986269b9d79c23db848ad9",
     "ativos": [
-      "CDB 100% CDI"
+      "WRLD11",
+      "SPCX34"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central Europeu (BCE) exige planos contra ataques cibernéticos com IA. - ADVFN",
-    "resumo": "Banco Central Europeu (BCE) exige planos contra ataques cibernéticos com IA. ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnRjOTRreUJiU0Jtc29lVWhZb2I0RGQyNXRVcVRnQjA3QzVjLUVYdWNvNm9QeXZfWjBuSnBNM1RNS2ZkUmluUnNxYnpLVnlLdjVMM1pVamdSd1B6Y3VFX1VxZWZqTXBRR09HclY3RHc0aW5LQlA0NUR1RGkxcFBfMWRPa0dDVWs1alpCS2YwZjBTaWlvakhtOEdaYUljUm42cXZ1cXJPSGNMMlFfMnc?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "bfff78f432400894e32ebe210fe1fb7f49a610922840b193de8e527f9710c9f6",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
