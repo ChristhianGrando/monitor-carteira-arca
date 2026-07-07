@@ -1,67 +1,37 @@
 [
   {
-    "titulo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic - JOTA Info",
-    "resumo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmx5S1dUaU1LV1pnQ0VoalktcFJScEUyRnoyd2Z1ZWE5akpaZzMyN2E0enc0aDJjUUlaaFhvTlh2REpoZWRmaDZ3UXpKMlRJTVljOXhtVTVWdEJITlpBaWRwaC1EYjM3MG1mTVUyb2Y3SlVhRndPTVNUalZpU044ZENWM3VVbmt3Z09TY1gxQmtGQ2xtbk5tUWozVzFwYUZqdkIyVGpzTld3c2htY3lCOQ?oc=5",
-    "fonte": "JOTA Info",
+    "titulo": "Ibovespa hoje sobe com foco em inflação no Brasil e balança comercial dos EUA; dólar vai a R$ 5,14 - Estadão",
+    "resumo": "Ibovespa hoje sobe com foco em inflação no Brasil e balança comercial dos EUA; dólar vai a R$ 5,14 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdjJWXzJualpoMVJLRk1GQ1NNRDQyNERsdC1hT0t3M2RwRmw3QktUTmtra2M3OXd1QXMwbHc2VUJFZDdBOVJGYUtGM3pIbkJudnR3RXpYc3pmT1NwdVpOQjlNTm9XTEg0Ukk2akNiYlNkckd0NFA0NDdvR3lXV1hoeExUdzFQOTNIdHdmZTFzWkstbWRNR1R5ci1CMlVtOEZYbEN5VFRIeDUtSHZMYTF6RHFkb2xPX2lTRE5EWXNZUXlVaFhGRUlLMC1XcUxtak4tWXJUU21XN2o4SkppT2QwQVJZRWlQQ2PSAewBQVVfeXFMTjE1QXNjbHBERnRrSkV3TG90YTRyb2RSRWFOQTk0enYwY1FvM29jZ1B3NzF3b08xZWhvWUNEb194V041UVRVbUc1b3AyalRxZW1XTHVqMEs1blVhMGNIcDRkWXNQWGhGRzdsNmZHYmNMbG8teThCWmtwMmtvcFpxU1ZNQ3ViWjFYSHZ3QTA1QWhlUkFoMzlDZXFseEEydzk0SlZDOFNGRm5zZ2ZvXzZDa2U3SjdlYVB2OFNuZmtyNkN6d3dfelU5elp4alZZLVVIeUtOUGZNNG5UM3FrdFUxVzlqLVFXTzFWYjk2Z0U?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2e2c11207bbbb7846a473d0360ebaad5f56b277207a8a440f1093295863794ca",
+    "chave": "e29baa151f49e59a49e0b309b559f8c0652b47d7b0628cbe5b5c3f947ad20d4e",
     "ativos": [
       "IBOB11",
       "WRLD11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 16,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Entre a inflação e o fiscal: o IPCA de sexta pode dar espaço para uma nova tentação de corte da Selic - Seu Dinheiro",
-    "resumo": "Entre a inflação e o fiscal: o IPCA de sexta pode dar espaço para uma nova tentação de corte da Selic Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRi1tTk1FSTQ0bldvel9HUDhEcHNTSVJNWUlHSFdYd2FjOTBuWENQVkxTQ0djT29GMEVyY1hONC1FbUI1a0hmcldQYXdMeTBJLUJNZGRWOVU3d2N2X1JmV2dHVU90LVBLOF92N05hS19xUVB4SWRPaXNQaGJGSi1LSjRSRWo4WW8tNU1jblFWTk5UanRqVFRrN1BPSWN1bFk1cUk1aDZURXlGRzFjY3hhMmJCV3BQdFF3aTNod01lWFFmcWI0bzB0Vw?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "56dec894208580c8b198c79041c7e9dd29e48d03e3d77a103ff474a3b104fc90",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "IPCA desta semana é um teste para a reunião do Copom - Rádio Guaíba",
-    "resumo": "IPCA desta semana é um teste para a reunião do Copom Rádio Guaíba",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnJnSVNmUzRBeWFsR3pMSmRuU21IRGZmMHY0TGhnYVd3VDUzdnh2QTBZTEdmb3lqOG0yUE1IZVBKWFpoczQ3OXAtcWNqWjZZLURBeHZHSTE5Sl9vb1NOQkZla2oyTEtzSmt1V0tzcUZGVmZLbVhqR3d4U1ZRN2xJRUFHcVZTcmhRMzFNeGZ3ZDJDMkpyWTlka1lEeG5oR3Bseko4?oc=5",
-    "fonte": "Rádio Guaíba",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c034fcac9ea7a800380e0c1bcd580eb8d2b3d28c6b02d34b4e9e2a56236ad8dd",
+    "titulo": "XP reduz projeção do Brent e vê IPCA mais baixo, mas mantém Selic em 14% em 2026 - InfoMoney",
+    "resumo": "XP reduz projeção do Brent e vê IPCA mais baixo, mas mantém Selic em 14% em 2026 InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbC1sOXQ4S2w1RHNtMjZvYktKOUg1bUNSVVk0Q2VwTUhOZl80ckZDd2dQN0c2OThadlk4clV6b3Z6YThhX3lPd210TG5BSVNrV0ZtMjBKMksyN3lKYUxSaFFVWGI0VEJrUGptT1YyY0o5eGFVZmViU2ZSVUxzNUJoSUYyWFh2NUItTVpXYk8wNF9JWFFtWlJ6VXVnSE1jdDc3eXVTNUtVbDNUdVNJeEtWek5zNVhwSGRV0gG-AUFVX3lxTE5nQkhvalVZVFMxYnhCTG5vUmF2OE9zNmdxRWNOcHZXMU9YVm8telJRaWNLeVFUaTdPVlFacVVDbkpGY19mYnJqN2RuYWFfNE9jbHVnN1VkSFJ1N0J4VXZYcWFNM3NkemNNNXZZdHFIaDNKNjEtVTBJMnlLclZJTzd1VjJoNlN3WVJPQ3lKS0NuczBjRklkYk1SSk1CUHhjLVFNSkc5Y2x1Z01KS1Y5RThqdGpJOEhpWjBKT2EyY0E?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b1cb8b62eb6478bc55d848aac1fc4a010884d02126d1edb9a42be8b41a942a08",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -82,21 +52,43 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Governo autoriza concursos para Receita Federal e Banco Central com 316 vagas - JOTA Info",
-    "resumo": "Governo autoriza concursos para Receita Federal e Banco Central com 316 vagas JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlDS2luTHFUZlFPMWFSQ09iTWVidDIwTDBKNl96Z1NCV2VDc1R2VTZ5OVp0dlJ2RkFFOExnYVdTaHlMeFlDdFpSbjdrbmc0bXZoTmQxSDQ1dHVhclZ1aGZHMHBYWXZNU1E1ZW9xZ1ZjUFp5Z0tMTkVON1M0WnRyQ0VTUjZXczM1VFV6S1ZZeEI0d1lwbGFNMDBvZWJiZi1xZTh5ZGI0UEgwM3owRnc?oc=5",
-    "fonte": "JOTA Info",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fe62e66823a0a0593197c9fc65848a9d5c58c6d4bc42f4857fc8f8cd59eaedd6",
+    "titulo": "Dólar cai e fecha a R$ 5,13; Ibovespa recua 0,93% - brasilagro.com.br",
+    "resumo": "Dólar cai e fecha a R$ 5,13; Ibovespa recua 0,93% brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZpcmR2RHFreHpzX1U5bW1udmIxeEJTOXI5UjRRTGhXVl9CV1VmdnFwTUEyWEYtVFJycHhMblI5dks5Q25KUXhibEMteE1ITWtDTUpIVFZtc3ZRdUtkcjZtelN6eG53SllQbzFvdnhJMHhYU094QkZ0emZFcWhqM1llcEh3U3ExTjVGbFhyMzlpdw?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ef6bc081e98fb36efb08d53e66c9ca7fcf5f819d6491c3be54ec3a09b50fda91",
     "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
     "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Nubank recebe autorização do Banco Central para atuar no mercado de câmbio - Portal IN - Pompeu Vasconcelos - Balada IN",
+    "resumo": "Nubank recebe autorização do Banco Central para atuar no mercado de câmbio - Portal IN - Pompeu Vasconcelos Balada IN",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTU1Dc0xuZHc4dG9UNDdwbFM1dUs4bkUyZUlIdXdUMjl0QTYwZTNiWVNaSDJuVnlXN3ViR1Rsd1k0WTdLVHVXMHBhbjExeWpiRENlaFJ0eFVvaTVPSlhOU2JNVkVOQmt6WXU2eWR1Q19HMmlMMU5zcUdiUHgyMVk1U1duZnpPWkEwbEZUMnRpZ0dDSVRJTmlXSkk2aWYyNGtrUXVDNWVZMHVfVFJXTXdRTkJB?oc=5",
+    "fonte": "Balada IN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b8c5ffd807de57a1efb67873da788f262a041fb1e9410f1b88e9f40fcad1d673",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -106,21 +98,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Receita Federal e Banco Central são autorizados a abrir concursos - RealTime1",
-    "resumo": "Receita Federal e Banco Central são autorizados a abrir concursos RealTime1",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yLVhKU3pDS1BmaEpBb2Z5ZE55TGViUVJHVUxHYnRaTlZiYlFwVmdJZTRvZWZyX194anBZMk9sWmZ1WTF2V1dNalhuNHhDMU00M2M3RTFHZV9ULU41SUQzc3dDMVVOOEtnS0ZnakdkYUhrYlRBMkNiSjVn?oc=5",
-    "fonte": "RealTime1",
+    "titulo": "Banco Central Europeu (BCE) exige planos contra ataques cibernéticos com IA. - ADVFN",
+    "resumo": "Banco Central Europeu (BCE) exige planos contra ataques cibernéticos com IA. ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnRjOTRreUJiU0Jtc29lVWhZb2I0RGQyNXRVcVRnQjA3QzVjLUVYdWNvNm9QeXZfWjBuSnBNM1RNS2ZkUmluUnNxYnpLVnlLdjVMM1pVamdSd1B6Y3VFX1VxZWZqTXBRR09HclY3RHc0aW5LQlA0NUR1RGkxcFBfMWRPa0dDVWs1alpCS2YwZjBTaWlvakhtOEdaYUljUm42cXZ1cXJPSGNMMlFfMnc?oc=5",
+    "fonte": "ADVFN",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "abdd2aed372f25605badbf1dd9479be805fabdeb1fe7994ceec1d914c0b8b80c",
+    "chave": "bfff78f432400894e32ebe210fe1fb7f49a610922840b193de8e527f9710c9f6",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
