@@ -1,11 +1,28 @@
 [
   {
-    "titulo": "Entenda o que é um IPO no mercado financeiro - CNN Brasil",
-    "resumo": "Entenda o que é um IPO no mercado financeiro CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOXJmWkhCZGk2eUd1ckQ2MkVTaHBxbmxCcWxIYjV5cExQNXNjb011Vng5eUJ2NnBJNWdad3VfWUt1b3NMbHdCYm9WaXZEYlVBLWhaUDBlYl9LdTV5RWppQ0VXR1QxQVR1ak1RZ3pVNzNuRHJreTV5WmxVd2g4UTA3LVZvNTBlZlRjUWFz?oc=5",
+    "titulo": "Syntiant protocola IPO na Nasdaq com ticker SYTN - Webitcoin",
+    "resumo": "Syntiant protocola IPO na Nasdaq com ticker SYTN Webitcoin",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VQ2NPajFoNU9vT1BaTTdsRE1iRGxEbXhqblZraEMxYlA2N3pUZnNCSm4wMUFIblFoYURFcjh4MGl4alhsblBmX3NFaWFIbkdYU1dadXhOT3ZvMnVZdkRYQ2UyRUpCU0lQZC1ORFQtQzYxZWUtdUxEZjlnR3EtR3M?oc=5",
+    "fonte": "Webitcoin",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "768c3ea9b9e101ffddead2553eead649f48dfa3554facdc12334d4b90a37b97e",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Expectativa por IPO da SpaceX movimenta o mercado - CNN Brasil",
+    "resumo": "Expectativa por IPO da SpaceX movimenta o mercado CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2hzVWp6cHVNalZuN1dZel83WU1NTHhNYjJTRmJPMnRJZUVSa1gxNk9GS3lKWHRyVDduWEFtdFZZNVFJYVBpRjJWMUQ2aGZ2SzJIeDNHNVAxREZaV1lvTjcxSkxQRGdUT0l3S3BfaTEzS0xwb0ZDc2FFcmg4WGM4Vm5YOTRaak5YY0RLRXhia1ZlSHNZVDJ0LVFSdWo?oc=5",
     "fonte": "CNN Brasil",
-    "consulta": "ações estreia bolsa IPO empresa brasileira",
-    "chave": "bc59729f3749c8d1f927ccc04e5c0ad00b98311f738f0cd7b888b0f115aaf6ab",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "d9aedf6b3c6e3544776baa80e819014baf3f276f856c54fee861e80fe79ec4ce",
     "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
@@ -14,5 +31,22 @@
     "tipo": "Radar de IPO",
     "estagio": "IPO / abertura de capital",
     "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Aura Minerals anuncia oferta de ações na Nasdaq para captar US$ 210 milhões - Estadão",
+    "resumo": "Aura Minerals anuncia oferta de ações na Nasdaq para captar US$ 210 milhões Estadão",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVB1TFZDamloQm94S0xESldMMk5zSWpoQWpTTVdNQmJlS1BxWXItQ1ozdlptc3RMbFdPSFg0RHppeUVhQUlRb1B2ZG5SaURrZ2ZLNjZDQmhqZnNNZWNCMGJkMGJvY0w1VVB2TEwtVnFaczBINW8wTm5IeTNienNNcjhoX1NyZXRoakdkaGdCVzhzbEVhNDAzVzJQZ2xkal9DckFuYllBbEtwOG1l0gGyAUFVX3lxTE80MGZNMzU3RlEzVWpjR09VN3BVczZuT2pPR3lybm16V3RkZDM0eG9hMWhoZ2JuRXd3bW1hMmtEbl9XMjZNUHBKYnhlbFlnV0Uya29Ec2tVTHUwLUh0LUlZLWtpSGEyaFRwRV9rM1FwOTUzME5JUm54QlZkVDM4ck90STBhZWQtV0lDejFLSkhEWHVJbFhKZGJtTFFGQ3hLamZiblFUUUh2MFRNeEFoTnNJX2c?oc=5",
+    "fonte": "Estadão",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "9aa4f582cc05716d38ccaaed943fbef3d914a564282722ceaa65b5747ff8ac98",
+    "score": 8,
+    "motivos": [
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   }
 ]
