@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Ibovespa segue Wall Street, mas Petrobras (PETR4) alivia queda; dólar sobe a R$ 5,15 - Money Times",
-    "resumo": "Ibovespa segue Wall Street, mas Petrobras (PETR4) alivia queda; dólar sobe a R$ 5,15 Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pb0Yxbm1KcFRsX0poYk54Um1MM0lkNHU0aEg2czViTTVOTy1qakFnS0J1TFV4OWhPR1hQMUpmaXA3MjFEeG5TT1NCcWF2bTJXcmdLd2llM2VfWFdqdHhFag?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Destaques da Análise | IPCA+: Uma janela rara se abriu? - XP Investimentos",
+    "resumo": "Destaques da Análise | IPCA+: Uma janela rara se abriu? XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDVpMG9PSVZ3VnYwY0FDbllQSVF6dC11VlBaaXRFZlEwa0JMSzl3dGF4LXk4ZFU2Rlg5cHB3cXFyV3RQS3lMRzZpRUMyejlYVXNQWEhoX0Eyb2p3d3FVbHhzMElPOURwYk1CUFpSQnNteFlyX3Rla3pYZjB0OEhoOFcxb2t6ME5uak1wTW5aYWNIOG81bDdVYUVTM1JMelp2NTN5eA?oc=5",
+    "fonte": "XP Investimentos",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "466297a0262aa89bd945bd73f5181a0b768db68eb8e7b101dbc281add079848e",
+    "chave": "8ac0dc2f1e2040f6fb4e1aa2647e07c2a17d0bd9b881f4ecb320e185413c4efe",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa Cai com Queda da Vale; Petrobras Sobe e Dólar Avança Após Tensão no Oriente Médio - Forbes Brasil",
+    "resumo": "Ibovespa Cai com Queda da Vale; Petrobras Sobe e Dólar Avança Após Tensão no Oriente Médio Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXg0VC1QQU9qSnpsZWV1cHFWV3ptRjVJRWJOc1JyZ0otVS1Fc0UtbXRZY0N0a0hlVGhERjhydGRmYU1iZjQ4WkpGVDg4NGVDY3NXZzhtZ3BRX29yQXAtckRIOUYzSkswWGFIWHVGNnJ4NjVGYTRyLWFacVYwVTRUQS1IN2lYNHlNdnRGdjdEU1ZOdlU?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "6853df86d99466323fa8f50dc5b7cfe2a3c2a11265661c93b2609567fba4ab8e",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,25 +50,25 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "A SpaceX chegou ao Nasdaq 100. Mas nem todos os ETFs vão comprar agora - Brazil Journal",
-    "resumo": "A SpaceX chegou ao Nasdaq 100. Mas nem todos os ETFs vão comprar agora Brazil Journal",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVNmUzlQeG44MVMxRGZRRTNQb1ZLSUYyZE5ma2ZrT3phVmdCZGRVblJ2cEx6Tlk2alJyaVAyZHdha0RvUkZPbkl1MlhuSnBVcmNYREN5SS1fWjZfM3l2TnZfVVJZVU5lbmpLMkVpckRpcXpZd1pLZEF2dl9hVVVhSWJWdThxS0x5ajRoNFRERlVYaUZRbmNMWTBsakg?oc=5",
-    "fonte": "Brazil Journal",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "7ade19c95a74da213ca28e48f4df435120d0668fbf58ce3f0e7cd53b87909db9",
+    "titulo": "Banco Central pede para participar da recuperação judicial da Ambipar - Revista Oeste",
+    "resumo": "Banco Central pede para participar da recuperação judicial da Ambipar Revista Oeste",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkRvZFpJVnFRWklWMWgydVVJMi1iQXZOeWF1MHA0Q2NvZTAxU0Zlc2pOSjFMNkYtdk1BVkt6T3lNMmo5NlZKbzVzWjc3VEoyRHlEZFIwanZrSEVFUjlXNFpPM3I2aW00cElDa29ub0poMGgwLVNPMnEyNVhkS3dGd09vbWZDUWNuTlhBbVhZdTVNdTBfZXo0dFVtX013T2Vrdm91eUR0WQ?oc=5",
+    "fonte": "Revista Oeste",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "8732397414352c3d20d6bd98af78c663c36f84296451612a7a583ebe44ab0904",
     "ativos": [
-      "WRLD11",
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
