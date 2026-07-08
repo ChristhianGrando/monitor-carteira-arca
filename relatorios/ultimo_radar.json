@@ -1,22 +1,42 @@
 [
   {
-    "titulo": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic - InfoMoney",
-    "resumo": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjBINE1iQmZ4ODZwa2x3VkNmV0VrTlphUUJ6M2JEdVdZT1VrakVzSmRFUGNibldWSHlxOC1meUVQX1JaWHVlSlRaQ0laeFZYOGNFZjBKVnVKdzUwWDYzaWpocHJpb0JuNU0xRGtlTlFxWWlQYUhMRnpITWFjRHpyaklVb01XOWRnN0JRNGpqbWhJaHZST1EtS1ZMbTVPVnhBNENiWktCZ2FtTnQxX0lXLTFGeDctSElmWmlNNDNqa0pKNXE4TVHSAcsBQVVfeXFMTlItbUM1bWhNbUF0d3hlUUVVdEFmZUNkRjZhVGNSZFZmdjFtRVI2RVZ4d2szUHNzX3J2eFJkVzhEb1l1V2RHU2dBTUVBMFEtX1JPaUVnMUJIWi1QZmx2cU9WYjk5NjU1aEczTzdYSTZWd3VqUUw0dklhQ2NGV0Y2ZVdOY3BiT0ZudFFGZV95RG5lTWY3VGhQNm5FVjNCYTR6cktvXzg0eGRxLXdQVXBxUmFYc0x0RGk5c0hKb0tZMksya001RGtLbFhzdWs?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "99ab3326dd8cfa666d2828fc4f46e7eb6af4e9b1e4d6b531ef963e380f8dd316",
+    "titulo": "Tempo Real: Ibovespa tem leve alta com Petrobras (PETR4) e medidas do governo; dólar cai a R$ 5,14 - Money Times",
+    "resumo": "Tempo Real: Ibovespa tem leve alta com Petrobras (PETR4) e medidas do governo; dólar cai a R$ 5,14 Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWZMV1QwRGdKOWtEZzRZQU5KTks2T2F0NWttdWtjcFdyZ1cxdXdOMUdZdTBYdG1SYVpRb2RabWdtUFlfMWppUUFkN3Q1dlgzUzBjeUJzYUdpUHBqaTdaU2VzZUdHeGtNbEZUWWZMaWJYRTVla1VMYTJwRTRsb3NhYXU5RTIyUVk3SmpkMHV1VEVVUEhRQU1oR3hvYnJyUQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
+    "chave": "cd6696e1fb5523a05003a05af41d6dc2b4051e912f85ac77edc7f67f6cc34f09",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central tem pouco espaço para ignorar El Niño, diz Morgan Stanley - Valor Investe",
+    "resumo": "Banco Central tem pouco espaço para ignorar El Niño, diz Morgan Stanley Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSTJVOWZXTXhhaVI2MFp0Vk1lT3R3Rk1tR3RPR1lseHU1NVBUUG5rZW9Nai1hbzF0a25vTmhBMVEzZG5XNWxiWnBQa01nRjRuMzNZZGV3UV9lZ0lSWHZ4c2VFWmJiSldkMUtYTk4wdHdWY3N1NGZRUWV5YVF4aTZkVHdWRzZiMFBMa0VIVHZuTWotNUt3ZE9QRTJ5bmlWUURuLXltLXpfbExLTHN3LWpkUkFEODRMdkdKUFI1ZTA4Y3hLWHBaQlBzdnJKSkNDVWVlTWVlRTlCc0U1QkZ6TTQtMC13Z3BERUxy0gH3AUFVX3lxTE01ck82Vkh4ejF5V0ZBcE5VZHNRVV9KekZZdmZNY0pfLXZPUzcxQW50NVM4MU9uOUVTUlFyZjBTMGJzTEJHOXZOUENlbFpQdFNId2dfZlphaHBHZlRKT2FCQ1ZieVBoNkszS29tUnhIWm5CYnZzSnRzNWtWSnRzSDhLdzhUR0pBQnRZMTVUYV9ydm0zZ2RnQnJ5aENiXzFZU1NDbkFMSndCcGRLWmcwNnRQQVp2TDNkZlRhRUxMMzZVamFRVWZfTmZuYlVyWllqNkhNQTg1dGZjdWlDMVlaREFkVW5LNnF6bDZlY1VCdF9IZ1doOV9XUUU?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "6832b353016bc1d1cc718dfea25d516569b3f7aaf0a46108cf45c2f8f855ebf8",
+    "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -26,12 +46,56 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco central da China aponta desequilíbrio entre oferta e demanda - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central da China aponta desequilíbrio entre oferta e demanda Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQck1GdmFkTWNnenZ4UXJFR3pKLW9kOVBPbDZVNEY4OS1LVmFEaGdHRUVHXzdjNDRUdVB6RDhNT2M1VUhsb3pOeHhlVG1zRFp5Zi15cDh1bWpVRlJxTllvbzkwalItTXFBR19VUURCczBMYUtrM1NSN3NsTnhfYzQxLTQtNWJmUDBZMW5JUXk5LTl1N1hCdVVVeUQ3QTdVY2d0UkN0WG1rWENPYVlheUROY1ZqdjNtb0ZfS0pabG9OTQ?oc=5",
+    "titulo": "O banco central da Nova Zelândia aumentou a taxa básica de juros em 25 pontos-base, para 2,50% - ADVFN",
+    "resumo": "O banco central da Nova Zelândia aumentou a taxa básica de juros em 25 pontos-base, para 2,50% ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGtueE85eTJkNjVKRHpwUjRxRzBYTEVwUTllWl9CcnREWkE3VUpuU1REbk9EY3d1YXVRSWxKZjBKU2FmRV92b09VYjdUSTlrYWN1MnBZWWJjYU9EV1ljYTNULW1iVnpWZVRCblNtam1EdWVJUHBqaTZzN3RLanNxT25Wc2YweGJVbm9OTjVfcHdXbVUxQ3p0MFJGeUdsQTdNZ0kwcS1BdTlOV0FvakNMZExJWmNTQl9DSkR3RG45VlptdXhKZGs4?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "629d52cf222cef9bd891d40234e1d14b8c5b8ceca8e2c49bdd05a0cbdedd2d32",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central da Romênia mantém taxa em 6,50% com inflação em alta - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Banco central da Romênia mantém taxa em 6,50% com inflação em alta Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0FteUhEYzZHWnJiRk9JbTUzZkx3Z3BKNF94ZjM2cUVRejFqUkpNMll2TTlvN3ZzQUFmTWFJREJvYkhwQzRSSWxoT1VZWkVyTjhxZzFpZFJNTmlsaUFzRDRJcDNrT0t4c0x2czdKZTJrN3dkNE9hZTdYOXYySHZoaTRSLTNJcFh0ZnU3b0F4SkczWmpQT2ZGMzNlYW1POXJXRHZQWW1vWlhfell0NGdvcWUzUjdQWlBMTnc?oc=5",
     "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f71e60a302d70edd3dd84e3995c7d8b703651aefce61a53c391cfeb345874150",
+    "chave": "351417a816846804077e03fc1c46b4c0b170b2744695c32d04ae9bd4cb832213",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central da Noruega diminui fatia na Raízen - MegaWhat",
+    "resumo": "Banco central da Noruega diminui fatia na Raízen MegaWhat",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXpwQ3pELUtUWk5DRWp2cm0wcWE1R2ZoTjVRbXZVLWdlcnJaQ3Zka3gxQW1TeXdMbkxRUVlzRGpRZFh0cmpVRzF4Z2RQOVZ5dk01ZUVaUUtTdDItN0FVTnI2TDFzSEtfellZckJVdlF0S0h3aVhTZWF6d0JaSzA2T2drRXVZQ3VWRGx1QTl0eXBpbDhpRmFzTXJMU1oxR29md0hDbW5QclBiQQ?oc=5",
+    "fonte": "MegaWhat",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "f0dd86d09ff2b5350243e2a9e70d11bf13263cb726514ca90dc4dc7ba529f498",
     "ativos": [
       "CDB 100% CDI"
     ],
