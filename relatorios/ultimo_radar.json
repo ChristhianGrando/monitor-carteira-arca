@@ -1,61 +1,11 @@
 [
   {
-    "titulo": "Destaques da Análise | IPCA+: Uma janela rara se abriu? - XP Investimentos",
-    "resumo": "Destaques da Análise | IPCA+: Uma janela rara se abriu? XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDVpMG9PSVZ3VnYwY0FDbllQSVF6dC11VlBaaXRFZlEwa0JMSzl3dGF4LXk4ZFU2Rlg5cHB3cXFyV3RQS3lMRzZpRUMyejlYVXNQWEhoX0Eyb2p3d3FVbHhzMElPOURwYk1CUFpSQnNteFlyX3Rla3pYZjB0OEhoOFcxb2t6ME5uak1wTW5aYWNIOG81bDdVYUVTM1JMelp2NTN5eA?oc=5",
-    "fonte": "XP Investimentos",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8ac0dc2f1e2040f6fb4e1aa2647e07c2a17d0bd9b881f4ecb320e185413c4efe",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa Cai com Queda da Vale; Petrobras Sobe e Dólar Avança Após Tensão no Oriente Médio - Forbes Brasil",
-    "resumo": "Ibovespa Cai com Queda da Vale; Petrobras Sobe e Dólar Avança Após Tensão no Oriente Médio Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXg0VC1QQU9qSnpsZWV1cHFWV3ptRjVJRWJOc1JyZ0otVS1Fc0UtbXRZY0N0a0hlVGhERjhydGRmYU1iZjQ4WkpGVDg4NGVDY3NXZzhtZ3BRX29yQXAtckRIOUYzSkswWGFIWHVGNnJ4NjVGYTRyLWFacVYwVTRUQS1IN2lYNHlNdnRGdjdEU1ZOdlU?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6853df86d99466323fa8f50dc5b7cfe2a3c2a11265661c93b2609567fba4ab8e",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central pede para participar da recuperação judicial da Ambipar - Revista Oeste",
-    "resumo": "Banco Central pede para participar da recuperação judicial da Ambipar Revista Oeste",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkRvZFpJVnFRWklWMWgydVVJMi1iQXZOeWF1MHA0Q2NvZTAxU0Zlc2pOSjFMNkYtdk1BVkt6T3lNMmo5NlZKbzVzWjc3VEoyRHlEZFIwanZrSEVFUjlXNFpPM3I2aW00cElDa29ub0poMGgwLVNPMnEyNVhkS3dGd09vbWZDUWNuTlhBbVhZdTVNdTBfZXo0dFVtX013T2Vrdm91eUR0WQ?oc=5",
-    "fonte": "Revista Oeste",
+    "titulo": "Banco Central da Noruega reduz participação na Raízen e fica abaixo dos 5% - CNN Brasil",
+    "resumo": "Banco Central da Noruega reduz participação na Raízen e fica abaixo dos 5% CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObkRQcnRWd0ZXdF9zd3NVcWpCSHktZHB5VUxsQUdZRDMxVjctQW5vY05hb3NEWnFmLVdGVnVmdEppYXV0RS16OFJIWHhRN0hqaW5pTkFGYjhXdW9meF9Kal96TGlLVmc2NC12Sk9TSnktYnp6dlBGMURKRG1uOFpQeFduVDBsTFBFTWdmeHEySUVtQUU5TjBRX1hPSWJxTTVDOF9vdXJXTXEzQkNR?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8732397414352c3d20d6bd98af78c663c36f84296451612a7a583ebe44ab0904",
+    "chave": "6dc4310c48c0b926d6a2e4602d0752d7aec618898e93f4829013260128ae16bc",
     "ativos": [
       "CDB 100% CDI"
     ],
