@@ -1,26 +1,25 @@
 [
   {
-    "titulo": "Governo autoriza concursos da Receita Federal e Banco Central; veja distribuição das vagas - ICL Notícias",
-    "resumo": "Governo autoriza concursos da Receita Federal e Banco Central; veja distribuição das vagas ICL Notícias",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RenN2UmVhUUdMM2xqQUU4Q1QxbExZRF91UVYyVnE4SV9pT200YnNITG42N21oTFNPcFpQcnd3Vlh6cEJGNER3UnpRMlRTZU80V0JGTDJDdnoyZnpVNVZqUHVrUVl3am14VXdpOA?oc=5",
-    "fonte": "ICL Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6c302fce6c118b9526a55286941234b6e8c3a5b168439a919f5e17ab3402ce3b",
+    "titulo": "Dow Jones cai com tech e dados de inflação; petróleo sobe após ataque em Ormuz - Estadão",
+    "resumo": "Dow Jones cai com tech e dados de inflação; petróleo sobe após ataque em Ormuz Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd29fVUYxQmhzMEI1OFl3VHF3TU5QVWlaSHN3Nm5lT01Bem5wRXlGb0RCRzFnemFkaVBDNFhXMzRobHAtNmI0UVdCaXRKeGZqQWtIblRxZFNySmlLMTdqWFZEV2ZsRmpUTFBPSUd6SEYteTJ4eFFydUVjdXpqTzFFVERQczFhWUR4MDVwMjVZS1ZqN3pZNXg0VC1OOVJZREY1YmNjb3BlV0wzVG1OSlhCS3AyVUtyc3h5TWdqa3RWZ0pLQ2dFWlNFUTN0SGRyVmNDUERLdnBuclQxZmFsTEEwYUk5SUdSMkNkdU9Lc9IB8gFBVV95cUxOczJwZ0NCRjBHejRWalBqOVROYVVhOHdSYUM0aUVITTNibXFveXc2NXhHSUR6VDhyUHdUWlhod2tXa3dfZV9mYzJuX2ZSMm1NbDlMeTIwcngyZjdfZFBUMHk1RW5MdGpSeHVZbVVtZktRWV9ZQzhsdkxMTlFTYmllcDJJekNrdlZmNWpQMUhUcTRaMEpraVhlZ2RJVkRMT2tIcUotcTRRT2dWOHRJZ2FScXZfZDVXRmxSMHVlY2JDbFRTTHZqR3gyNmtEQjFhVkJUMG1Fb3NDbG4walZLdU5id0ZxSUJvTU8yYzRCNnhOeFRKQQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "384f9a6870697e65fc4bb1f48ce2bcbf4ae7079c8c174c62d31165d22a2ead91",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
