@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Tempo Real: Ibovespa tem leve alta com Petrobras (PETR4) e medidas do governo; dólar cai a R$ 5,14 - Money Times",
-    "resumo": "Tempo Real: Ibovespa tem leve alta com Petrobras (PETR4) e medidas do governo; dólar cai a R$ 5,14 Money Times",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWZMV1QwRGdKOWtEZzRZQU5KTks2T2F0NWttdWtjcFdyZ1cxdXdOMUdZdTBYdG1SYVpRb2RabWdtUFlfMWppUUFkN3Q1dlgzUzBjeUJzYUdpUHBqaTdaU2VzZUdHeGtNbEZUWWZMaWJYRTVla1VMYTJwRTRsb3NhYXU5RTIyUVk3SmpkMHV1VEVVUEhRQU1oR3hvYnJyUQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
-    "chave": "cd6696e1fb5523a05003a05af41d6dc2b4051e912f85ac77edc7f67f6cc34f09",
+    "titulo": "SÃO LUÍS – MPMA destina computadores oriundos de acordos judiciais para o IPCA - Ministério Público do Estado do Maranhão",
+    "resumo": "SÃO LUÍS – MPMA destina computadores oriundos de acordos judiciais para o IPCA Ministério Público do Estado do Maranhão",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3RZcFdENWN2SVl1LXZVRnhPWE5zS19Qa1hGZlhUNUNhLVdTb01wNmR3cllOeGROaFQ0RWZObUlJcHo0eXZUOHhxalJsdnpzTGt0bVpLLTA3NlJVQVlPZVg5cEZ4MWxCZkYtR1FLUUdkMGZhR3hmNUMtM2JVWENCMzZEMVB2N3hDU0l0TnU1ZEJJYy11ck01MGRhVUZMZ1FjdXc?oc=5",
+    "fonte": "Ministério Público do Estado do Maranhão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "bf9ded275413f36c8d2e3ced44d55cb88842a2b659e7ba489c299d7c628a29dd",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai após Trump declarar fim de cessar-fogo com Irã; dólar opera estável - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa cai após Trump declarar fim de cessar-fogo com Irã; dólar opera estável Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRU8xS2ZRbUxLdVFCcThwUkZXU05iaXFSVlhTNjRRRHFMbk0xUWlibWp5UktSZlhDS1VuX3lCcmc2SG5YcUplQkpuVVNNZVFKX3VfU1R1T2hoVkxMUGlwWFFxZExWNjRQVDVFQTZ5XzBQOVdrQnZ2Vk9VMFZlZWt2Yll6RWlUOVoySlo1aDVZNnZqWUhyQ2ZXak13cTNVVU1penJadmpRVG5RejBXMWRpVEJoY2w4dWdkZVByTmFMWjfSAdQBQVVfeXFMTU5pYlhuN1RydnRjd1k0eUlYbklKTzl0ZEl1eTZPTXluTVg2Tms5TkhMdUNiOXVwc1Jic2RiMjdhdndfVTVSeDlMRVh2d3hXbTZzVi16cmlvZHJ2aXY4S0NYWXV2UUpTanFpc0dqYVhrM2dJU3dIV3hRLUJ0ejFsOVZ4dTNUUS1ud3lEc2g1NGh5NUNmcDNHXzJEbW9vRElOQkdIUXNKUlRaVHpiRDF0Vl9QQ21pUzFaZm9MTU5JUDFoUldISmZKWmdPQjdDdS1SN2RpYm0?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "36151ce68684b42a882b0d04afe336a17c1047d2095a553d93243f44d70bac13",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,12 +50,36 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central tem pouco espaço para ignorar El Niño, diz Morgan Stanley - Valor Investe",
-    "resumo": "Banco Central tem pouco espaço para ignorar El Niño, diz Morgan Stanley Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSTJVOWZXTXhhaVI2MFp0Vk1lT3R3Rk1tR3RPR1lseHU1NVBUUG5rZW9Nai1hbzF0a25vTmhBMVEzZG5XNWxiWnBQa01nRjRuMzNZZGV3UV9lZ0lSWHZ4c2VFWmJiSldkMUtYTk4wdHdWY3N1NGZRUWV5YVF4aTZkVHdWRzZiMFBMa0VIVHZuTWotNUt3ZE9QRTJ5bmlWUURuLXltLXpfbExLTHN3LWpkUkFEODRMdkdKUFI1ZTA4Y3hLWHBaQlBzdnJKSkNDVWVlTWVlRTlCc0U1QkZ6TTQtMC13Z3BERUxy0gH3AUFVX3lxTE01ck82Vkh4ejF5V0ZBcE5VZHNRVV9KekZZdmZNY0pfLXZPUzcxQW50NVM4MU9uOUVTUlFyZjBTMGJzTEJHOXZOUENlbFpQdFNId2dfZlphaHBHZlRKT2FCQ1ZieVBoNkszS29tUnhIWm5CYnZzSnRzNWtWSnRzSDhLdzhUR0pBQnRZMTVUYV9ydm0zZ2RnQnJ5aENiXzFZU1NDbkFMSndCcGRLWmcwNnRQQVp2TDNkZlRhRUxMMzZVamFRVWZfTmZuYlVyWllqNkhNQTg1dGZjdWlDMVlaREFkVW5LNnF6bDZlY1VCdF9IZ1doOV9XUUU?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Dólar oscila e Ibovespa cai, de olho em petróleo e tensões no Oriente Médio - G1",
+    "resumo": "Dólar oscila e Ibovespa cai, de olho em petróleo e tensões no Oriente Médio G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tYVJDSk9Nd1V4X3dPS3BtaVJOMEVmbGUwc2htYTlXc3I0M0dEOHRJR205VUNOWGQ4aU81MTFzSklSNUY3UTlObEpYOUp1c2h2TDNocVRqMXVhOUtVcjZnWjg2MWxDY01mcHhxcUlIaDRaUHM5eWRoMdIBhwFBVV95cUxNZFAzZ29HNVVnZHBXX3lMcVhlOW1aV2VUTTFZdmVmeWdiQ0xxTXBfVTB1Um55MjFQUTd2RU9yVWpnOW9WaS1DakNVTTUxeVhKRXZXSlJ4XzRoUUZxd1JIemQ4ZEI3cklXMU9DYU9Ga0dzTFFwWk5RZWowTjJ2dU5LemxMWm9QUlE?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d526d1ad1112de537cc047582cf673b13f6522bc8539d9e30cf3767ad80ccadd",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central do Brasil tem novo edital para servidores autorizado com 170 vagas - Ceisc",
+    "resumo": "Banco Central do Brasil tem novo edital para servidores autorizado com 170 vagas Ceisc",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUdqS3dKZi1hYTBCYnROTkVxTFhyblA3cmw4Rm9FZm1YSEJ2N2VzQ3RwSGQzNGNlSzBIelJ4MTVFYnlsMGFfaTc2c3R1TVN4aTEtOHZ3VVRzdG1ISTVxVkJSeThieXllUURKQXFacWQ0MjRnMHFPX09NclhVcFZFd1c2d0ZpeDFGM2V1aGRkUFo3X3pXc25yM3JPdmQ3bTA4VWFidEtlTFFFRldDcXNwaw?oc=5",
+    "fonte": "Ceisc",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6832b353016bc1d1cc718dfea25d516569b3f7aaf0a46108cf45c2f8f855ebf8",
+    "chave": "5775ffa18fe58f71eb8cfb989e66a14f49c64f1dfb0a4fb0acbd0575cb4ab7f5",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -46,56 +96,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "O banco central da Nova Zelândia aumentou a taxa básica de juros em 25 pontos-base, para 2,50% - ADVFN",
-    "resumo": "O banco central da Nova Zelândia aumentou a taxa básica de juros em 25 pontos-base, para 2,50% ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGtueE85eTJkNjVKRHpwUjRxRzBYTEVwUTllWl9CcnREWkE3VUpuU1REbk9EY3d1YXVRSWxKZjBKU2FmRV92b09VYjdUSTlrYWN1MnBZWWJjYU9EV1ljYTNULW1iVnpWZVRCblNtam1EdWVJUHBqaTZzN3RLanNxT25Wc2YweGJVbm9OTjVfcHdXbVUxQ3p0MFJGeUdsQTdNZ0kwcS1BdTlOV0FvakNMZExJWmNTQl9DSkR3RG45VlptdXhKZGs4?oc=5",
-    "fonte": "ADVFN",
+    "titulo": "Banco Central autorizado a fazer concurso para três cargos; veja vagas disponíveis - Seu Dinheiro",
+    "resumo": "Banco Central autorizado a fazer concurso para três cargos; veja vagas disponíveis Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVlJTWdabk1xeVdRc0lfc3kzcTBpYjZpSW4tMkdxMm9ZMnFtbUR6YlZuSWpaOTAzTWxjU0pWLVRobktTSTNfWHJKdGRqaDhpU0J2NzBqZmpXTTdXRHVOaHc2QnEyblpGNFc5dmtPc0Nod3dIcEJmbDlvd3dVVEpaWWl0MFlvZm1xV2xhRUNhRktZUQ?oc=5",
+    "fonte": "Seu Dinheiro",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "629d52cf222cef9bd891d40234e1d14b8c5b8ceca8e2c49bdd05a0cbdedd2d32",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco central da Romênia mantém taxa em 6,50% com inflação em alta - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central da Romênia mantém taxa em 6,50% com inflação em alta Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0FteUhEYzZHWnJiRk9JbTUzZkx3Z3BKNF94ZjM2cUVRejFqUkpNMll2TTlvN3ZzQUFmTWFJREJvYkhwQzRSSWxoT1VZWkVyTjhxZzFpZFJNTmlsaUFzRDRJcDNrT0t4c0x2czdKZTJrN3dkNE9hZTdYOXYySHZoaTRSLTNJcFh0ZnU3b0F4SkczWmpQT2ZGMzNlYW1POXJXRHZQWW1vWlhfell0NGdvcWUzUjdQWlBMTnc?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "351417a816846804077e03fc1c46b4c0b170b2744695c32d04ae9bd4cb832213",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco central da Noruega diminui fatia na Raízen - MegaWhat",
-    "resumo": "Banco central da Noruega diminui fatia na Raízen MegaWhat",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXpwQ3pELUtUWk5DRWp2cm0wcWE1R2ZoTjVRbXZVLWdlcnJaQ3Zka3gxQW1TeXdMbkxRUVlzRGpRZFh0cmpVRzF4Z2RQOVZ5dk01ZUVaUUtTdDItN0FVTnI2TDFzSEtfellZckJVdlF0S0h3aVhTZWF6d0JaSzA2T2drRXVZQ3VWRGx1QTl0eXBpbDhpRmFzTXJMU1oxR29md0hDbW5QclBiQQ?oc=5",
-    "fonte": "MegaWhat",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f0dd86d09ff2b5350243e2a9e70d11bf13263cb726514ca90dc4dc7ba529f498",
+    "chave": "897158fe80e3748049d1731d221e5810aca11d1926bb18d1d1d203b8acd7404b",
     "ativos": [
       "CDB 100% CDI"
     ],
