@@ -1,11 +1,64 @@
 [
   {
-    "titulo": "Banco Central da Noruega reduz participação na Raízen e fica abaixo dos 5% - CNN Brasil",
-    "resumo": "Banco Central da Noruega reduz participação na Raízen e fica abaixo dos 5% CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObkRQcnRWd0ZXdF9zd3NVcWpCSHktZHB5VUxsQUdZRDMxVjctQW5vY05hb3NEWnFmLVdGVnVmdEppYXV0RS16OFJIWHhRN0hqaW5pTkFGYjhXdW9meF9Kal96TGlLVmc2NC12Sk9TSnktYnp6dlBGMURKRG1uOFpQeFduVDBsTFBFTWdmeHEySUVtQUU5TjBRX1hPSWJxTTVDOF9vdXJXTXEzQkNR?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic - Demarest",
+    "resumo": "Juíza federal determina retomada da correção de depósitos tributários pela Selic Demarest",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUdDa3hzUDNvalRSOUV3dWZSLUR2QmRHS2ZkS3QyMkl4alZPMGE5cWkwVEQ1Wnd4eHR1dmtJaVoyYlBVVllmZkxlQm83eDllYnlVSjk4bXl0Q3RqY2xmM213YmdwYVA1bHVTV2g4anNuTFJvM0h1LTRha3ZPMGd3WWFEamdvZXlMbVBPQ2dpUnp6eEZoeTFlTGQzUDJiajlia2I5S1piZUdfb0ZybVE?oc=5",
+    "fonte": "Demarest",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "728182ccd88de38c76a348fe2cfd502a372fb8a4aecbeb500eb77c2496ef3e80",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar sobe e fecha aos R$ 5,152; Ibovespa cai 0,25% - Poder360",
+    "resumo": "Dólar sobe e fecha aos R$ 5,152; Ibovespa cai 0,25% Poder360",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUpfUUh5YTlXOTJGNVJxcEJKVmN2aEhpNGhjYWVRb3huV1Q5T0tSTkRBSG4zMHZ6Y0hRTHU4ZlN5MnJfUDhVMndwYk11UXNSNHVQODROazVlcTF5TTVRRjZaa2Y3Z1g5NFJVbllxcDFVLWYwUzhudTRkbHItV3p2cHFxSzVkckxfalMzUFV4U1hUeVdS?oc=5",
+    "fonte": "Poder360",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "101c596b4b5e06225fe3dfca4242ad8a4b03bdbef45dbcb3738b0367a3350b77",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Raízen (RAIZ4): Banco Central da Noruega reduz participação - Money Times",
+    "resumo": "Raízen (RAIZ4): Banco Central da Noruega reduz participação Money Times",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlNqVkRsM2hlaDRudFlOWEVkUldVZEpBeVBhQzdnc2dBMk1mVlQ1NEM3ZlVBLVJ6Y2NvdDZBLUZubmJ4TGRtQmxpTERtb3g3WUVSbnRFakVUb21xSXVCb0cwVVd2RGFaVW5XUkNaU2lQS0VGcHJEbG5RRzMtWlVTcElmaEN2LVFFVm5IRW81M1RqVTRKR3BV?oc=5",
+    "fonte": "Money Times",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6dc4310c48c0b926d6a2e4602d0752d7aec618898e93f4829013260128ae16bc",
+    "chave": "be9d7d7767078763c9b3ea9a93b643263b5c3b035fcf99362d05ca391d8ca749",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -19,6 +72,27 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa termina em baixa com aumento da aversão a risco global, mas alta da Petrobras limita perdas - Valor Econômico",
+    "resumo": "Ibovespa termina em baixa com aumento da aversão a risco global, mas alta da Petrobras limita perdas Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYXJtRGJqbWpsdDJCVldCODE0QUtoMFBnazU3bC01UGNxLWotZENfNnFrU2wxM3pUWDFnZnB5XzF6Vlg0ZnJlQnZKTHdtZjkwZXRCeWthNEV6YWJLOUQ5UnluRlpEX0RTX2RZTEh3TGg0cEw3cXFITTgyYkFQR1ptMVNJVFNfeHljZmhnSktidk53emxxaDZZMkkyZTNoWUpCeWVKeXVIYjFGQUsxMnFvUHBUdWhFUTJWWkJsNFhjY2FCNzJYc1JqVG5Wd19tcEl6X1pHUktmbXBXUFd3cmdUTUlsOVE1RjJ4NHpuLVM1dFNjZU1LTFlOSmU3dErSAfwBQVVfeXFMTWFybURiam1qbHQyQlZXQjgxNEFLaDBQZ2s1N2wtNVBjcS1qLWRDXzZxa1NsMTN6VFgxZ2ZweV8xelZYNGZyZUJ2Skx3bWY5MGV0QnlrYTRFemFiSzlEOVJ5bkZaRF9EU19kWUxId0xoNHBMN3FxSE04MmJBUEdabTFTSVRTX3h5Y2ZoZ0pLYnZOd3pscWg2WTJJMmUzaFlKQnllSnl1SGIxRkFLMTJxb1BwVHVoRVEyVlpCbDRYY2NhQjcyWHNSalRuVndfbXBJel9aR1JLZm1wV1BXd3JnVE1JbDlRNUYyeDR6bi1TNXRTY2VNS0xZTkplN3RK?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "6882917f62e5ef3cf5815c17b1d2aba497b6479bb09f9dfcca11bf14d1c6f403",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
