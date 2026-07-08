@@ -1,22 +1,20 @@
 [
   {
-    "titulo": "SÃO LUÍS – MPMA destina computadores oriundos de acordos judiciais para o IPCA - Ministério Público do Estado do Maranhão",
-    "resumo": "SÃO LUÍS – MPMA destina computadores oriundos de acordos judiciais para o IPCA Ministério Público do Estado do Maranhão",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3RZcFdENWN2SVl1LXZVRnhPWE5zS19Qa1hGZlhUNUNhLVdTb01wNmR3cllOeGROaFQ0RWZObUlJcHo0eXZUOHhxalJsdnpzTGt0bVpLLTA3NlJVQVlPZVg5cEZ4MWxCZkYtR1FLUUdkMGZhR3hmNUMtM2JVWENCMzZEMVB2N3hDU0l0TnU1ZEJJYy11ck01MGRhVUZMZ1FjdXc?oc=5",
-    "fonte": "Ministério Público do Estado do Maranhão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "bf9ded275413f36c8d2e3ced44d55cb88842a2b659e7ba489c299d7c628a29dd",
+    "titulo": "Banco Central lança ecossistema de duplicatas escriturais para modernizar mercado de crédito com registro eletrônico - MundoCoop",
+    "resumo": "Banco Central lança ecossistema de duplicatas escriturais para modernizar mercado de crédito com registro eletrônico MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXhtR3FWaFo2eW50MFE5NzRlalF2enpMZFBLdHhsck5LN2lVTDhEeWIzeS1RaVNKV0hWTGNuMFNaNGhHOU9CYWpQY29Sbzh1ekg5MkstUzJ2ZTdBUlVuVUpubEFmSHB3N1hnczFFT1lQbUhHY3VCQThHenA5cENmM1QwMkxDV3FoVWVndXFLTC11LTBZYWpQeFR3ZjVFUU1ZbF81S3ZIM1E2bkRmazhVZU83WENtR01xbXBWd3pQTHNkck5zdjlCZ1RNbUxrVDJXYTRVZzRaQnRhS1RzZ3B4VTN6MERYS00wMlZMM0hpQ3FrQQ?oc=5",
+    "fonte": "MundoCoop",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b61cdb1df928e74103eca2cf735c9e01e03b780d02a6e89d4eb8b722d2c4f998",
     "ativos": [
-      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -26,60 +24,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa cai após Trump declarar fim de cessar-fogo com Irã; dólar opera estável - Bloomberg Línea Brasil",
-    "resumo": "Ibovespa cai após Trump declarar fim de cessar-fogo com Irã; dólar opera estável Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRU8xS2ZRbUxLdVFCcThwUkZXU05iaXFSVlhTNjRRRHFMbk0xUWlibWp5UktSZlhDS1VuX3lCcmc2SG5YcUplQkpuVVNNZVFKX3VfU1R1T2hoVkxMUGlwWFFxZExWNjRQVDVFQTZ5XzBQOVdrQnZ2Vk9VMFZlZWt2Yll6RWlUOVoySlo1aDVZNnZqWUhyQ2ZXak13cTNVVU1penJadmpRVG5RejBXMWRpVEJoY2w4dWdkZVByTmFMWjfSAdQBQVVfeXFMTU5pYlhuN1RydnRjd1k0eUlYbklKTzl0ZEl1eTZPTXluTVg2Tms5TkhMdUNiOXVwc1Jic2RiMjdhdndfVTVSeDlMRVh2d3hXbTZzVi16cmlvZHJ2aXY4S0NYWXV2UUpTanFpc0dqYVhrM2dJU3dIV3hRLUJ0ejFsOVZ4dTNUUS1ud3lEc2g1NGh5NUNmcDNHXzJEbW9vRElOQkdIUXNKUlRaVHpiRDF0Vl9QQ21pUzFaZm9MTU5JUDFoUldISmZKWmdPQjdDdS1SN2RpYm0?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "36151ce68684b42a882b0d04afe336a17c1047d2095a553d93243f44d70bac13",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar oscila e Ibovespa cai, de olho em petróleo e tensões no Oriente Médio - G1",
-    "resumo": "Dólar oscila e Ibovespa cai, de olho em petróleo e tensões no Oriente Médio G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tYVJDSk9Nd1V4X3dPS3BtaVJOMEVmbGUwc2htYTlXc3I0M0dEOHRJR205VUNOWGQ4aU81MTFzSklSNUY3UTlObEpYOUp1c2h2TDNocVRqMXVhOUtVcjZnWjg2MWxDY01mcHhxcUlIaDRaUHM5eWRoMdIBhwFBVV95cUxNZFAzZ29HNVVnZHBXX3lMcVhlOW1aV2VUTTFZdmVmeWdiQ0xxTXBfVTB1Um55MjFQUTd2RU9yVWpnOW9WaS1DakNVTTUxeVhKRXZXSlJ4XzRoUUZxd1JIemQ4ZEI3cklXMU9DYU9Ga0dzTFFwWk5RZWowTjJ2dU5LemxMWm9QUlE?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "d526d1ad1112de537cc047582cf673b13f6522bc8539d9e30cf3767ad80ccadd",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central do Brasil tem novo edital para servidores autorizado com 170 vagas - Ceisc",
-    "resumo": "Banco Central do Brasil tem novo edital para servidores autorizado com 170 vagas Ceisc",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUdqS3dKZi1hYTBCYnROTkVxTFhyblA3cmw4Rm9FZm1YSEJ2N2VzQ3RwSGQzNGNlSzBIelJ4MTVFYnlsMGFfaTc2c3R1TVN4aTEtOHZ3VVRzdG1ISTVxVkJSeThieXllUURKQXFacWQ0MjRnMHFPX09NclhVcFZFd1c2d0ZpeDFGM2V1aGRkUFo3X3pXc25yM3JPdmQ3bTA4VWFidEtlTFFFRldDcXNwaw?oc=5",
-    "fonte": "Ceisc",
+    "titulo": "Educação de Meriti tem a única professora do Estado do Rio premiada pelo Banco Central - Prefeitura Municipal de São João de Meriti",
+    "resumo": "Educação de Meriti tem a única professora do Estado do Rio premiada pelo Banco Central Prefeitura Municipal de São João de Meriti",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmVKQVNSZUFXUmtOMTlYa21ScV9ReFpfSkFKZmtwU3hPc2tOU0Rka0N6N3l0SXJ4OVRqc3NFN3ZWbEJwR3MyeXBLcXk0RG8zWGVjS01Kbmw2OUVuSDJfSXpkNGVYZmM4MWJKWFVEMGIxcmdjcnFxTGRFNFo4eExKaXpNYWZYMjBQT3l3NlhTWm1EWFFqd3dvN2lfbVZEREs3WHR3NHBiLVdOb1RDNGJBby1EcGZVcUNGd1Uw?oc=5",
+    "fonte": "Prefeitura Municipal de São João de Meriti",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5775ffa18fe58f71eb8cfb989e66a14f49c64f1dfb0a4fb0acbd0575cb4ab7f5",
+    "chave": "855435c744f21e767521d82cf0ae7c7c83c837c2f30e9ae741a19321e5681e27",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -96,25 +46,72 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central autorizado a fazer concurso para três cargos; veja vagas disponíveis - Seu Dinheiro",
-    "resumo": "Banco Central autorizado a fazer concurso para três cargos; veja vagas disponíveis Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVlJTWdabk1xeVdRc0lfc3kzcTBpYjZpSW4tMkdxMm9ZMnFtbUR6YlZuSWpaOTAzTWxjU0pWLVRobktTSTNfWHJKdGRqaDhpU0J2NzBqZmpXTTdXRHVOaHc2QnEyblpGNFc5dmtPc0Nod3dIcEJmbDlvd3dVVEpaWWl0MFlvZm1xV2xhRUNhRktZUQ?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "897158fe80e3748049d1731d221e5810aca11d1926bb18d1d1d203b8acd7404b",
+    "titulo": "Mercado agora | Bolsas da Europa fecham em queda, com conflito EUA-Irã; Ibovespa reduz perdas - InvesTalk",
+    "resumo": "Mercado agora | Bolsas da Europa fecham em queda, com conflito EUA-Irã; Ibovespa reduz perdas InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rNkh5YWxkbWplb0o3WFJUWFV3eC1NeTZMb1lWbUtUVHpuSTVrM3p6VUpJaXh0T2piQUpxaUpvTzJXNUk4ajNYLVNzR1dLSW1kOVpWaGJveVNSUWtuenBXYTZsMWlpT0JoM05GZmtMTjI0QU1GQnc?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "da2c584bb918079b1ef9e9cc793cdb4b323a581abc1c377f90895a5bea17783e",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje cai 1% com o fim do acordo entre EUA e Irã; petróleo dispara - Estadão",
+    "resumo": "Ibovespa hoje cai 1% com o fim do acordo entre EUA e Irã; petróleo dispara Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnU1Vnl6U3pRNWlGWFFDdkpPRzlNT2xyVDNucjYtYmMwaE03RmtIM1RHM042R3o1ajNfbGp6a1cwTzFHdVZtSWg3S0Izc01ZZzJoVFBiYjA5czRLaWdybE9pLXdXVU1FX2JIbDdSWF9uNVlHWFQtdEE4cUZMVmNBNzN1Xy1zMDBuRHAzNzg0WU1fY21rLV9TNnJQTGhYUlJuVzFYVTFVRHFmbEFIR2prRTdHTEFaNmdHQVdFM1VzeXI2V3hmWldjQi1oTVgwTnEtaWpJak95Q0pwdknSAeABQVVfeXFMT0JyVmJ4RVl5UjI5U2VTU0xWakx4RWRMYXBXQl9OX0J3VzAtOXpmMElRc3RVQVFtblNnZXhkTGlZWEUtWXBSbDFKM08zRGJwOHZzXzZZbWxmcmxrd21ZVXdjUGxHb05aQ0ZNUjZPeTNraEc3ODZwUGdNSHYxX0ZaZ2d2R3MxeUxSYXVlLUZRMzAyc183bzZERjNHSDFPQWdaTXQ4bU1VdVNrX2tnSmZvaktidkJhVnRZbVN3N21mSzN0b2lwQUVnaUp5UWJzdHhWRk00T0doWk5jcUR3cnlub2I?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "880e0b2e924625b7e0b78dabd8236e7b15eb2f56fdf63be72828b4373b4085fe",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa recua, em meio à tensão entre EUA e Irã, mas alta do petróleo amortece queda - suno.com.br",
+    "resumo": "Ibovespa recua, em meio à tensão entre EUA e Irã, mas alta do petróleo amortece queda suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2RYVDRTNEF6N0wtR2xOMlNSbVVKdU1yVXgxeUZlOF8wRGVOcV9WWGE2XzNuaTRSWWhwYmZackNkeFJoSzZxVXFDbktzdnp2eFhXd3Flc1RFMVhHczhCalN1TlItcUhMUjNnNG9VY2NCb0c1RFowalc2Rm1FR3pkck9KWmtmN3phenRTSEF3S1_SAZYBQVVfeXFMTnhLTmM3VVFZT1dRRkRHTGtlNVhHU3lBejdISUFKdWYzVlZzU29iSW9iTkptWGRYSnJPM3BXdzBvRFlJWTNTanNIY0NvSXdCNXRfWUJCa2d5SE9tc3JxTjNmM2l0ZVJSV3IxbjR2YUVnR29iaHp6VTZtSFctV2ZPMHZ1dFNEOWJZN1JYYVphWm5SU0hyQ2xB?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "2cfd300927f49ba25d6753c6c25f464cf8d0a18d59cc973bb902d456510cde63",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
