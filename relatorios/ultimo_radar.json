@@ -1,106 +1,59 @@
 [
   {
-    "titulo": "Banco Central lança ecossistema de duplicatas escriturais para modernizar mercado de crédito com registro eletrônico - MundoCoop",
-    "resumo": "Banco Central lança ecossistema de duplicatas escriturais para modernizar mercado de crédito com registro eletrônico MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXhtR3FWaFo2eW50MFE5NzRlalF2enpMZFBLdHhsck5LN2lVTDhEeWIzeS1RaVNKV0hWTGNuMFNaNGhHOU9CYWpQY29Sbzh1ekg5MkstUzJ2ZTdBUlVuVUpubEFmSHB3N1hnczFFT1lQbUhHY3VCQThHenA5cENmM1QwMkxDV3FoVWVndXFLTC11LTBZYWpQeFR3ZjVFUU1ZbF81S3ZIM1E2bkRmazhVZU83WENtR01xbXBWd3pQTHNkck5zdjlCZ1RNbUxrVDJXYTRVZzRaQnRhS1RzZ3B4VTN6MERYS00wMlZMM0hpQ3FrQQ?oc=5",
-    "fonte": "MundoCoop",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b61cdb1df928e74103eca2cf735c9e01e03b780d02a6e89d4eb8b722d2c4f998",
+    "titulo": "Ibovespa registra queda com tensões entre EUA e Irã; dólar cai - CNN Brasil",
+    "resumo": "Ibovespa registra queda com tensões entre EUA e Irã; dólar cai CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGdjSV9sQ005TmtwOHppNFNXdk1hZ2sxNmdEMlpZOUJ1Q3o2dVVZSmRMS2RDSVBLVUQ2eG1KNWhleU5HM1RsV2JjM1FuNFZJQ2U4ZndOb0p5ZUw4VUhXOU1MN2FhU0lnUWVrbjBjcDNpZllnS2JySDdSTGNfQklQSG91OGpZM2g0VDk1bTRhWVdoTjhLTjlJaw?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5695e979a5961f69fc81318cf635559cb710a555bdceb1be680b4a3b6bd1f0b8",
     "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Educação de Meriti tem a única professora do Estado do Rio premiada pelo Banco Central - Prefeitura Municipal de São João de Meriti",
-    "resumo": "Educação de Meriti tem a única professora do Estado do Rio premiada pelo Banco Central Prefeitura Municipal de São João de Meriti",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmVKQVNSZUFXUmtOMTlYa21ScV9ReFpfSkFKZmtwU3hPc2tOU0Rka0N6N3l0SXJ4OVRqc3NFN3ZWbEJwR3MyeXBLcXk0RG8zWGVjS01Kbmw2OUVuSDJfSXpkNGVYZmM4MWJKWFVEMGIxcmdjcnFxTGRFNFo4eExKaXpNYWZYMjBQT3l3NlhTWm1EWFFqd3dvN2lfbVZEREs3WHR3NHBiLVdOb1RDNGJBby1EcGZVcUNGd1Uw?oc=5",
-    "fonte": "Prefeitura Municipal de São João de Meriti",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "855435c744f21e767521d82cf0ae7c7c83c837c2f30e9ae741a19321e5681e27",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado agora | Bolsas da Europa fecham em queda, com conflito EUA-Irã; Ibovespa reduz perdas - InvesTalk",
-    "resumo": "Mercado agora | Bolsas da Europa fecham em queda, com conflito EUA-Irã; Ibovespa reduz perdas InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rNkh5YWxkbWplb0o3WFJUWFV3eC1NeTZMb1lWbUtUVHpuSTVrM3p6VUpJaXh0T2piQUpxaUpvTzJXNUk4ajNYLVNzR1dLSW1kOVpWaGJveVNSUWtuenBXYTZsMWlpT0JoM05GZmtMTjI0QU1GQnc?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "da2c584bb918079b1ef9e9cc793cdb4b323a581abc1c377f90895a5bea17783e",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa hoje cai 1% com o fim do acordo entre EUA e Irã; petróleo dispara - Estadão",
-    "resumo": "Ibovespa hoje cai 1% com o fim do acordo entre EUA e Irã; petróleo dispara Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnU1Vnl6U3pRNWlGWFFDdkpPRzlNT2xyVDNucjYtYmMwaE03RmtIM1RHM042R3o1ajNfbGp6a1cwTzFHdVZtSWg3S0Izc01ZZzJoVFBiYjA5czRLaWdybE9pLXdXVU1FX2JIbDdSWF9uNVlHWFQtdEE4cUZMVmNBNzN1Xy1zMDBuRHAzNzg0WU1fY21rLV9TNnJQTGhYUlJuVzFYVTFVRHFmbEFIR2prRTdHTEFaNmdHQVdFM1VzeXI2V3hmWldjQi1oTVgwTnEtaWpJak95Q0pwdknSAeABQVVfeXFMT0JyVmJ4RVl5UjI5U2VTU0xWakx4RWRMYXBXQl9OX0J3VzAtOXpmMElRc3RVQVFtblNnZXhkTGlZWEUtWXBSbDFKM08zRGJwOHZzXzZZbWxmcmxrd21ZVXdjUGxHb05aQ0ZNUjZPeTNraEc3ODZwUGdNSHYxX0ZaZ2d2R3MxeUxSYXVlLUZRMzAyc183bzZERjNHSDFPQWdaTXQ4bU1VdVNrX2tnSmZvaktidkJhVnRZbVN3N21mSzN0b2lwQUVnaUp5UWJzdHhWRk00T0doWk5jcUR3cnlub2I?oc=5",
+    "titulo": "Ibovespa hoje: Natura (NATU3) lidera ganhos e Prio (PRIO3) despenca mais de 8% - Estadão",
+    "resumo": "Ibovespa hoje: Natura (NATU3) lidera ganhos e Prio (PRIO3) despenca mais de 8% Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTMtQlgxbzV4SUR4UDRVZ09iMDFvdHlwTHNXdzRVOEwxQUl0em5iSk5ZMlZWSGVrT0RsbnRCM1g1S08xS1p3TWZySlhyOGR2SG5id3hKTFJzaEtLV1kyRENIWmgwcFFuVF9vVXltSGQ5ZS1FdHdUXzZxR0lTTDd1c0Rrc3A0R1JBaHRQUzNsNTUxcWM3cXlhRUN3OUtiLXdHbUIzVjlLbjdRajZVeTdfYXEwbGZjMUZ5WmZZ0gHAAUFVX3lxTFBHaHBmakpUcTlTYkFHTlltZXFSZnVBSDUwN3pIbDJjYmpJa0dnbHI2SThpT1B5alppQW9nN1FMNXBTSDVsUEswVHRaRm5kSU5hRmVXWEJHTmpSa2VfZ2JnUWJCalZ2UjZGdWJsbmtyZTVpLUlVZzdEY19sX1UweDF2dkFoLVVzbUg1THJTMHJoeHdYX0NGYy01ODBFZklpcnhNWl9wcEg5c1otZ1QtT01XVGZQNHpRMXFyQnZ3QUZCRg?oc=5",
     "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "880e0b2e924625b7e0b78dabd8236e7b15eb2f56fdf63be72828b4373b4085fe",
+    "chave": "2cced3f2352d8ef9b307040e436fb68ebacc10184bef0951b7119630b221c0c5",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "IBOB11"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil"
     ],
     "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa recua, em meio à tensão entre EUA e Irã, mas alta do petróleo amortece queda - suno.com.br",
-    "resumo": "Ibovespa recua, em meio à tensão entre EUA e Irã, mas alta do petróleo amortece queda suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2RYVDRTNEF6N0wtR2xOMlNSbVVKdU1yVXgxeUZlOF8wRGVOcV9WWGE2XzNuaTRSWWhwYmZackNkeFJoSzZxVXFDbktzdnp2eFhXd3Flc1RFMVhHczhCalN1TlItcUhMUjNnNG9VY2NCb0c1RFowalc2Rm1FR3pkck9KWmtmN3phenRTSEF3S1_SAZYBQVVfeXFMTnhLTmM3VVFZT1dRRkRHTGtlNVhHU3lBejdISUFKdWYzVlZzU29iSW9iTkptWGRYSnJPM3BXdzBvRFlJWTNTanNIY0NvSXdCNXRfWUJCa2d5SE9tc3JxTjNmM2l0ZVJSV3IxbjR2YUVnR29iaHp6VTZtSFctV2ZPMHZ1dFNEOWJZN1JYYVphWm5SU0hyQ2xB?oc=5",
-    "fonte": "suno.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2cfd300927f49ba25d6753c6c25f464cf8d0a18d59cc973bb902d456510cde63",
+    "titulo": "SpaceX (SPCX) cai abaixo do preço do IPO; bancos enxergam vantagem competitiva que pode catapultar a ação a quase US$ 1.000 - Seu Dinheiro",
+    "resumo": "SpaceX (SPCX) cai abaixo do preço do IPO; bancos enxergam vantagem competitiva que pode catapultar a ação a quase US$ 1.000 Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVElQLWtlaUxjOXR2dUJPVnpfZHBMQ1dieW5PdWlDcm5xZ0duWm1RbjlTcUtJcUdTVVpKRzJ4Wi1SZERzbFpnV2hXN2RtWHRDYzhMc1d5dE9OdHZOTnQtYk9QR1JrTDN3b2U5ZW5NWTJSY2E0aHIxX1dWR1hGdERiUmtyMU1XQzNPc1VhVXNxYldaenB0LWlfeFNkcHhicUJYQnQyNE54ckdNOUs2YWZTVFpMRnlGTHV3dnkxU3hzeTc5emZYMmlQRHFaYVlQNFRQTTE5aW1pNWdSQ2hGRnlOcXFJcUFZVTVYT3BhektBZ3lsM1ZBd1dkSWE3RQ?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "47e7983852ddb2e64bf26dc2d10a5f6e9ba7cc2f109e95ef30e54e7d0f59be31",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "SPCX34"
     ],
     "classes": [
       "Ativos Internacionais",
