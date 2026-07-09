@@ -1,18 +1,19 @@
 [
   {
-    "titulo": "Cinco anos após boom dos IPOs, quem brilhou e quem ficou para trás na Bolsa brasileira - Estadão",
-    "resumo": "Cinco anos após boom dos IPOs, quem brilhou e quem ficou para trás na Bolsa brasileira Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUpGMlFwdzdKeDh0cmZnS3BXM0IzQ213OHBsbkpzU2hmQzhWcFpEeUd6OHkxXzRrekI1bUZxdlhVbTY2WTRmYnoyZ2RNaVpjVXRhSDY4SEFEMGZoeVNmWlh3YXJIU3pYSUtlTEJwR3dWdDJnaUItMzdlakxMVmt2NDlMaUhIdjF0di14emxpUGNZcTUyMm9GVzZlV2I3aG95aGJadzhUdEZLTnlfb3FhbVk4cnNXRHVZQmNrNGdtQzFPYkhkWlJENUNFQnpVWG1GX0JMSm5BX1drNjE00gHiAUFVX3lxTE1mTmplU3JFampTQ28xNjdNbWRYTFI4XzgzUjBJT29qeDlHMDJNUVZJTlI1Z294Q3RZRHI1bXo0TFR1M1MtWHdTalF6ZWtpeC1GN1ZTbURzc2dGUFducDJKdWxSdWhsemptVjUtRGZSUEVqU2taTzVUaWNHbXNhRW5QZjA3Nkk4V1AwZHRuNTV5SHJhRkhjanlwcTNKQmt6WFBWNDFyOExjajh2bzdKV1pnMWRnajFiRG15Yy1qVFRxTWJnVzYxX0VWay1CVi1zOHhzeVNpQkJ4dUppSVlMWVN1WFE?oc=5",
-    "fonte": "Estadão",
-    "consulta": "ações estreia bolsa IPO empresa brasileira",
-    "chave": "0989295131380d9778abef27fdd61bca744d046f2df3f55c6987fdee7098a02f",
+    "titulo": "CVM cancela registro de oferta da Valorant Capital; Atom convoca assembleia sobre direitos da controladora - Times Brasil | CNBC",
+    "resumo": "CVM cancela registro de oferta da Valorant Capital; Atom convoca assembleia sobre direitos da controladora Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcmpaUHZuOHVkMjNpcHA4MlpwamFLc2RnRmplZUU5Si1odVM3a0ZzelpsV2ZZaGRoNFJtX0tZVzg4SFNCR0JiNXAwc29HclNmM1l3VGVUY1hianRiM1lhNGk1Z0tyZWkzeEM3X2NLR1c1cGlmejRQeGlSU1dZS3p3OW5yLU1UX0gwRW16cDN6ckdxMTlweElrQ3djeWZvclM1dTU2ZHJMNHYzbnkyX0lSNlBDZVhYNkUtMVZMZUkwcUVTZi12STI5X0VLaTM4ZWJGWlYzSExZanJKcEUwYWs3UTV0NlZxUzlB?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "fad058077a1d3dce81fe4716065b96cb7dfbe617a837f720b1440c86771f7aed",
     "score": 8,
     "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
+      "tem sinal de risco, adiamento, cancelamento ou baixa demanda",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
     ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "Atenção / risco na oferta",
+    "estagio": "Pedido de registro / prospecto preliminar",
+    "acao": "Acompanhar próximos passos: prospecto, faixa de preço, coordenadores e período de reserva."
   }
 ]
