@@ -1,11 +1,67 @@
 [
   {
-    "titulo": "Dólar cai e fecha a R$ 5,14 com tensões no Oriente Médio e alta do petróleo; Ibovespa recua - G1",
-    "resumo": "Dólar cai e fecha a R$ 5,14 com tensões no Oriente Médio e alta do petróleo; Ibovespa recua G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tYVJDSk9Nd1V4X3dPS3BtaVJOMEVmbGUwc2htYTlXc3I0M0dEOHRJR205VUNOWGQ4aU81MTFzSklSNUY3UTlObEpYOUp1c2h2TDNocVRqMXVhOUtVcjZnWjg2MWxDY01mcHhxcUlIaDRaUHM5eWRoMdIBhwFBVV95cUxNZFAzZ29HNVVnZHBXX3lMcVhlOW1aV2VUTTFZdmVmeWdiQ0xxTXBfVTB1Um55MjFQUTd2RU9yVWpnOW9WaS1DakNVTTUxeVhKRXZXSlJ4XzRoUUZxd1JIemQ4ZEI3cklXMU9DYU9Ga0dzTFFwWk5RZWowTjJ2dU5LemxMWm9QUlE?oc=5",
-    "fonte": "G1",
+    "titulo": "Selic pode cair mais em 2026? BTG Pactual revisa projeção, mas mantém cautela com inflação e dólar - Seu Dinheiro",
+    "resumo": "Selic pode cair mais em 2026? BTG Pactual revisa projeção, mas mantém cautela com inflação e dólar Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRV9xV3c5cWUxOUJXYkpSRndOQWI5SmNnbGgzNUJmaG1FRmVBbkgxLWpTUWt0TUhQYURVZ2RaNzFzWVJiUi1ZWEJVNkFhSEw5ZEMwLWY0XzVld2lKQ3NURjFENTFLZENiamtmTHdaQjV2N2FYcFJ4TGU0TlBRSHg5cnpzX1pSdkprY0taY2lhT1dOTVp2SUpBcUNHWHdteWUtUlNubGtDazBuRk5QRFpCaXVhODc2V2VnX1dyQ1NmcDZveUhmQkI1cGZPSGdOOC1PZGV0UmhETzJ5ODg?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "072bd6904616171d99df2e4ac7b993a304ad52dbefa27a8b5303861e31ab26de",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Justiça retoma correção de depósitos pela Selic - Portal Contabeis",
+    "resumo": "Justiça retoma correção de depósitos pela Selic Portal Contabeis",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVJNeURDY3RGUkczTnU0cU9XWFNEYzJoTnUtRTU1NFJXZEpYRFBRdmFtYl8xZlA2Mjcwa2Z5bTliQkFPeFBzQ2JhLXNsN1JmcGt0RjUtcmxVMnl6Y2IyWGsybkhETEZvN3VoUnlkQW9KaVVSWElfZ1ZOblYwNTBNRHB3S0JrVy16UXJjUTBtcmJSSmdvTjVr?oc=5",
+    "fonte": "Portal Contabeis",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "d349a6df14acd56485b7be8d3bffc981fbf7b591fee9f4e6c138defa7d5f4757",
+    "chave": "6c5d807e6be55cf27dbfc65285b785b9daefb930d449c7bcac7a483e64395246",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai para 170.775,09 pontos e dólar fecha em R$ 5,148 - Poder360",
+    "resumo": "Ibovespa cai para 170.775,09 pontos e dólar fecha em R$ 5,148 Poder360",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVJSZWd2SXhoLWhYd1M0ZDh3bkVIc09XbGdBWjROc0xRQkJva2pzZ3lldEU2SGFmc040VC15T2dDb0hzTlJIdW1wdlQzRDZiYk13WUMxd1dPVTh5SEZvYk5wdExhb2NhZWs5SmRwSW9lMG9yTkZfOWRTdC1GUXB3cjJWQmFnWWZGaS1YRXVnVURXaERHeWlpQmdjZVZwR25CTFZ1LQ?oc=5",
+    "fonte": "Poder360",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "64b7742031863d6ea62878c7d3b81be9e0007e04c787c043bf035d6b04ef5b3e",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,49 +80,25 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ata do Fed revela divisão sobre juros nos EUA e mudança no comunicado do banco central - Valor Investe",
-    "resumo": "Ata do Fed revela divisão sobre juros nos EUA e mudança no comunicado do banco central Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSDBXMm1NaFF4QWxQcWltUzctQlJUbTZaUFEtZzJWc3g3MFp4bE9UdFh6YWlBRl83U3BGSVRqSU9qLWdVaHE1d25oV0VIdlh6M3pKTkgyR0FCWnMyeFZHTWgtOGVUUU9uY2xqVHp5dE1GWWJvUnBLTlFoMGJ0b2xxLUVSTzlJQWlvWUxGTXFXeEM0eXlSUURBLW1RV3pQcmR3MUM3WGJjbk84enBZLVlPeEQyRVdDa3pSQzA4ZjZ1NzFsQjBFVGs1cUxxNkNfY0pNM2hHYVJzU0JYeGJrOWI4YkpTMXk3SUFIbHU0UEVnOVpLeWd3X1FRZnlnd1MxRHhiUzJrUS0zY0FvdzTSAZoCQVVfeXFMTXltY0VQcGo0N2RKb3JRVHRBZXZHWFBPOHd6Z0ZyQzd5ZlB1NXRROTdFX1hVbDlVeklQVlBIVi1TXzc1NlhnLTVyWjNldzF6RDJLb1gwU1lFcXlqR18wUmt1Z3FwNDZjRUZHV2U1aHlkQ1REanpXVFVOUnRIdEhrZjI0bXotU0t4UjJLbTNlci1mQlg1RExZamlsc2xfM3htYm1KaTBsN1JjUXhYc01pNHZiTmp5QUFpeUZZMWJUaWFKZVZsSFFVSmFHNnpGU1NxLWpzYXBNclRTNkRCSl9ZbGZsWVp0VkkxTlBxZm9SeTU4eXpPT1pVXy1Bd2NrMzNRdl9JZ0hqUU5yY2hlVVpaWVlzbTR1R2JUZWh3?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "A decisão do Banco Central e o peso da narrativa do mercado - Brasil de Fato",
+    "resumo": "A decisão do Banco Central e o peso da narrativa do mercado Brasil de Fato",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONFM4SUN0MUwyOWY5UjFUMG40V09UZjV2cHFaTmd5YWJNUXkwMTVHM09QZV85RC1JbzgtMzlDSFZNOEpCaEF3aUNWWFBZZ1VwVEpQQWxpLWN2eTB6cXlkaXVqMjF0SUdzVk1SdFo2QmliOTh4ZDBZM0NRRWxNbG1kbHpXb1RIYzRyNkNqd2RORjBPR250WVBwQnZsOTF6SklGNU1td2RB?oc=5",
+    "fonte": "Brasil de Fato",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7f9956528dc99c2f1d0b206c900194e70f7848a6fbff4ef9fdbdb2354a72d5f4",
+    "chave": "4a8ec342d110c6479e30cb85dce4da076a1948278d991176ae70a37a14b96e04",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Justiça dos EUA aprova acordo de Elon Musk sobre compra das ações do Twitter - Valor Econômico",
-    "resumo": "Justiça dos EUA aprova acordo de Elon Musk sobre compra das ações do Twitter Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT29HRkNrZWVOaUFmVHRWXzJkV0dyOU9ESGVEZDJWNVhuaEljZnJJUFBKSUJGSmpCSHdUNFcyNm1jQkJGNkQ5WHFpWkFmdU92RGgwTzJzTVhBWHZNRlZNa0t3blg0U3RsSWFjb3h5aG1MMUVTSFZxb0xiRElrT3J0LUxRQ210eFFQcjlSNTJFRjNwcGprVmJmRkdoUF9sdE45V28wamRXb0VlTVVIMldWMWdrS0dKOURXU2dJYWY2a25ma2dxZE1PZy14bG9IbUXSAd4BQVVfeXFMUGNSSGJZMWFJbmRPY25hejVPRlZFamxkUEFwNUVGYnUtU092dUtpdUJXcVhTZUxaVUMyajlRd3V1alZTNDB0SWV2UGZEeUQwbm01RU9IcDY5Rkt5SWl4RkswV2N5dXdDeV9HbTFJS1lDWkduUlhPSDdRbFBsNllzWktlVHExeFA0SW9waWVIUEVVeXlnempsWUZBWXdBSFVWRkdZZUFid0MwSkMxRWFSU181a1JmbjBRVnlFajgyU1B3dWg0RE9iV0wtdWc0Q3c0YmdDMU5ibXNiWVhrQUdB?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "4977e49ab79616d3be93113f9ea57c54a34906304007571968c84760189f7ce8",
-    "ativos": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
-    ],
-    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
