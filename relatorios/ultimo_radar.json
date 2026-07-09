@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Taxa Selic rendendo 14% ao ano já tem data prevista em 2026 - Investidor10",
-    "resumo": "Taxa Selic rendendo 14% ao ano já tem data prevista em 2026 Investidor10",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUJBRjhBTklNc3B3X1BLcWlSVjczR2FRTmUxOWVhTTF4bFFUb1JXLXMzV0lNR0FjczlkcngxTXpMLTg3VVdHYUc4QjlSUlN6R0dlcG90aUxfZFl1clc4d1BOVy1FM1ItZHZGWjZjRDNxem5CN01XMWVXb0p1RjlZT3I5NDk4aVV5SGx0RU1vNXR4eUxKZXVBNWR2bXNHOEtrM3V6UXln0gGrAUFVX3lxTFA0bTdBWEE2SVVnVDVKdy1uWHB4bldHY3hsTHNNQ01zNUVxZS1mTTJPbjB4S0dKblRwLWIzOHJaVksyODE3c3FsRFhETUVOX29qbHZweUkzaE40aV9UbGlDUWNpNENHNVlCdGRKUzZheGRweVVpZnVaZmtfbDlDdDBsckFIYWM0RkVUamw2QzM0NFlWWlVIcm53U3NfaVExOHpyYUk4djFuZGxEUQ?oc=5",
-    "fonte": "Investidor10",
+    "titulo": "Inflação cai, mas Selic segue alta: como empresas devem ajustar preços, crédito e caixa em 2026 - Portal Contabeis",
+    "resumo": "Inflação cai, mas Selic segue alta: como empresas devem ajustar preços, crédito e caixa em 2026 Portal Contabeis",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaXdVWjhPN3lvRWhkSU41N1VxMEE5VjVCZW1RWXgwc3JUMlFqN2UybExONlhQTVBRLXNrQndYeXVQR0QwMU01VEtTQmt5R1dJUGlVdVEtQzlUbFRzYXNvcG5SdjhWb2FmRzVjS3JFcG9GckRiekV2TmJaenZibkJOWEZUUnFnU2R0Q1Z4MS02ZzdIU2dJLXdwU05rdnYwT0IyNWRJZDYtdmJ4NGZxY3o3LXVYVkxyTy1FX3d6ZUx6MkhxZjZWcVBId2ZPQjNBdlNua0tz?oc=5",
+    "fonte": "Portal Contabeis",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "45910a7c1fcbbe6334f1f23db07164d7eeab736f29b158208b62001fbd112118",
+    "chave": "976408809c30484f7ab43c76d71fb30f975d03890358127a6857572b6e445cb5",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,105 +16,56 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Fundo imobiliário com carteira de CRIs a IPCA + 10,82%? Entenda estratégia do MAGM11 - Fiis",
-    "resumo": "Fundo imobiliário com carteira de CRIs a IPCA + 10,82%? Entenda estratégia do MAGM11 Fiis",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2VPRHRIYnlLWlJmZFhyN2N1emFQSkdkUGY3SUhxLVZScGVHTnJXbDZ1Z0NtQ2dtQWpCYm83OVBVQmNiVllReE9lTDB3dkNoR2dUSGUxQXV3WVp5T2Z0Q2RPaEFoNHZQbm1aQ1QteHFPWmNnOVJUWmNpNDZ5WUt1TFBLN3NadEtzRWs3T195NUU?oc=5",
-    "fonte": "Fiis",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "4c3aed7fc59d73f3cd0834209274ada1ebbd55e16edb502c95af4c1901030875",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Opções de Copom da B3 apontam para corte de 0,25% na Selic em agosto - InfoMoney",
-    "resumo": "Opções de Copom da B3 apontam para corte de 0,25% na Selic em agosto InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjhqUnNJV0V2U051Z0ItZ195TGZsdE5YOGdfM3ZXZEdKd0V5NFQwdndCOWptNUtKUjVwQ0l0bzJTRnBUcDRpMWI4ZkJGU3Z6S3hVYlp3SFRyR3E3ZkM3UXF5UW9lTUU0aTIySUJIOXZCQU81VUlpdmRGeGxTZklCRjVzbE1OUzR1QldPOTY2Q2hKbFNKUk1iM2ZCbmVmaGpIZEZXeFhMZ3jSAa4BQVVfeXFMTWNTU2JCRDI0VDVJM3I4X0xoX3NVMXd3QlJIQWFIMEgzZmRPZTl3YloxMnZwd256RzhSUmtpMGg1VzRmWVJRUUN5QkR5Ri0zUWtKVzV0MmtiNTJtajZySW9sdkJSTGFxYW5SSzhZWnlHSXBFM0hGRTA3dzUtbktzbXhJTHJjRmRlY3hMdDhreXFsMWplT2RfSW9va0VSXzF3Z3VpLXFEeXlyVU9weHZB?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e35ec7985a82a40128147deceb8d343af671cfd068e32f693271e9305f5b35fb",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar opera em queda de olho nas tensões entre EUA-Irã; Ibovespa avança - G1",
-    "resumo": "Dólar opera em queda de olho nas tensões entre EUA-Irã; Ibovespa avança G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RWkJJWkRHVzVxcHFWLUg5N2tCN1pfcTB4VVByWXdQb1lDdUdIS01KMWZZSWY4LU1aWGVhTlBfdlFBTmZOSUhUZXJJdVhpV1VteFNYVXdTLUhRb3F0ZkJ5Z2oyU1Fzd0ZuWWRhdXRkWDI3RkVsd2ZLVdIBhwFBVV95cUxNbnBOeDE1VzlVS1MtWklsSHdxYVJlaTk4Q3Q2WlJZbGV3RVkzTXAwYTlPN3JHZHo0bEJUV1gwS3dwdXVlekprbkxESEp3MjQtcXlnbXh2OVY3QnpHR3gzclNpb1RnQ0trS1BWNzh0b0lTMUs1SjkwTTNuZWxDTDJsekdpSUZ6Snc?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "055fc8e5ff8611c3770c3e3a067e0126a6d60e90d5921790c4cf32fb703bdeaf",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Operação Compliance Zero mira ataques à credibilidade do Banco Central - Congresso em Foco",
-    "resumo": "Operação Compliance Zero mira ataques à credibilidade do Banco Central Congresso em Foco",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2N3bVAtcERpcjgxUWN0dFB4SDZoV0d2OTN4T2NaaWlUMW4xVDl5Nmo2NnZjRksxWWxYckZreU5CQzdSejBjVEU4Q3J2WnJOcUpYV1Z0ajZJZHdUSXVnSFZqX2drQVdrTms4dmNwcFhVVXhQaGMxbzBXQWhTMFZ2ZDF3blFrY3hhX0NOdnlZMHpuTDh5b0lkWkgtOUhJd2loUUNjUHZTbTU0Ql9keHhNU3NKMEN4WkxFQXFRRA?oc=5",
-    "fonte": "Congresso em Foco",
+    "titulo": "Presidente do Fed abre revisão do banco central americano e convoca grupo com Armínio Fraga - G1",
+    "resumo": "Presidente do Fed abre revisão do banco central americano e convoca grupo com Armínio Fraga G1",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRU9ITVhuRkpxMGZKMHI4b1RveGVxOGFtX1R2RVlkTjU1andxUHgzeDNXMlcyVXRzRDVLRE9IamM3QmItTHdSMjhXVzl4M0NmOTJaZmYtckE0VVVMRzhpeVZJQUlJS2RLQkthZ2lvZmZMOWFKT1U5am12Y3Q0Tm1xdHJuQmNacnJ2d3J2U1pEX1NUNVYySV9vNmNpOF94c2phR0FrdXk0T2NucFJCM2Q0OWZaTVFtdEdqU05SNDJ2emZIX0l6cncyWmpVTVZBNmpDZmfSAeABQVVfeXFMUHpjQmVqYi1FN2t2cEZ4dUlFTlk1Z21kSnVweGNkMkk0cHRmR2FMZllSY2U3UjNSSjZQX2hZbVowdHpJTnNfYXF3UUhzVV9XQ1VEOElsZUxadWdSaEo1WDNWTFdpZWFHeGtUdmg5NDdiVFM1aEZmWnY2Ql9WSUtfSGk1YlRrTGpGaXdMaVU5UnlJWjc2UnJkS3hMaWIxT3RfbnBya20yOTZiYktIU08wLWFlTHV0ZVBSeHdtTXdqUVdoSm9nSkplcEV6RDhVSkZPNDdRT1ZKVGdrUVdsNHJaV1Q?oc=5",
+    "fonte": "G1",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "45d9fe5c71ba35ef06c49aab255a9a8f894e26057c168364a9dde2fbbabe19c5",
+    "chave": "6aa2f8b6493d66c6adf4f9839f9c7e73934be064c2ba7e0ecbb25c5c3f3a48e1",
     "ativos": [
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "EUA escalam Armínio Fraga — e até um Nobel de Economia — para construir um novo banco central - Seu Dinheiro",
+    "resumo": "EUA escalam Armínio Fraga — e até um Nobel de Economia — para construir um novo banco central Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHY5TVpUQmRMUFZKUmhSc1N2YWhwLVpFWmNYQVI2R1hDaTFxRUdzMTZheUFVVUxkWTlRckUxUmZHMUlVN1JzYVdXWnlVaUtQRmtDNGd6V1F1b3F2eGdEd1laZEZVYy1OMmk3bHMxOE90SW00SDhrblE0NG44cFI4NkhpQjNNVUk0RmlDMkNRYjN4SkZ3VkFCTUdmUXB0bXVOWUgxNUMtTHdlQ2pIaVVVaTNkWE1QZXFrVmF5ZzlGeHRCM1lQRFRULWQtLTNESkhZemVlNFd5WldqQQ?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e4ea5ef5c83c2bc35f3d81e98df55a4817c03bf17679025a6328a769d540a1ba",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
