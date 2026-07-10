@@ -2,10 +2,10 @@
   {
     "titulo": "Ibovespa hoje fica de olho no IPCA e monitora petróleo após alívio nas tensões no Oriente Médio - Estadão",
     "resumo": "Ibovespa hoje fica de olho no IPCA e monitora petróleo após alívio nas tensões no Oriente Médio Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV2VMeTRSUmFxbktEX3JJM2lwVEQ3bjZiaWtxLThmcTdVRWdBR3djYy1xaVRUeFZVdnRqRnQyMWFhR09HOUtSa1E4dWxGamtPRVBoMkdjcVJncHRaa0w5ZTR2S1NVUlNyalFKNWVnV1duY0UybUl4cHpZb1hHdVJ5RFJIclRkUHpzUEhTOFN3aEpOaS1mbXRMeVROb2l2WDhnN0dfREFCeWJ6LUgyYWRuZnVrbTZwU3ZiVUVnUmZWYnN1blF1VFpFSDUzLWRsZEF0Q05ObTVyb2RUVDV0cUhZNVlDNHJCbHhaYnfSAe8BQVVfeXFMT2ZYMEF2MF9DOEpxaEJjSFg1c0NLcWJFTGJpTFVHdC1CbzNheV9HV3dyS1FKeUItQzVEbmh5NlV2MXBtWXlsNTdDOUlKLUJzOWZHYXRXTUFhRlM5RHVQVmpSX1dXa3Bpb21yaklFQWltY1d3SHVRSmNIQmFLRXFHQ0dLSkVuR2Zwa1JzcnpJbS1pc3lGODh5UnBwSTZVcUc5M1hxQV9kb29aQzBreHJoaWdLR2dncUxjdHhqcWdPUXpVWmlRMVlNaXBPOVBkYU9xNW5Ra2ZSY3FvME5aeFBQNkNHdm1xX0VPbkVDZWhPZ0k?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV2VMeTRSUmFxbktEX3JJM2lwVEQ3bjZiaWtxLThmcTdVRWdBR3djYy1xaVRUeFZVdnRqRnQyMWFhR09HOUtSa1E4dWxGamtPRVBoMkdjcVJncHRaa0w5ZTR2S1NVUlNyalFKNWVnV1duY0UybUl4cHpZb1hHdVJ5RFJIclRkUHpzUEhTOFN3aEpOaS1mbXRMeVROb2l2WDhnN0dfREFCeWJ6LUgyYWRuZnVrbTZwU3ZiVUVnUmZWYnN1blF1VFpFSDUzLWRsZEF0Q05ObTVyb2RUVDV0cUhZNVlDNHJCbHhaYnc?oc=5",
     "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "52897a57cadbf5178e906fae8a97474fc8fd1046bb2a841a547f93f2e1f9d806",
+    "chave": "33a39d1a3055a62112ef8a5a047d3410ca866bd73601de2cffa1195a23d8e0a7",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -23,6 +23,73 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar cai em meio às tensões entre EUA e Irã; Ibovespa avança 1,22% - brasilagro.com.br",
+    "resumo": "Dólar cai em meio às tensões entre EUA e Irã; Ibovespa avança 1,22% brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkstbmZRb0Y1SGlHcy1YcU9QVFg0RVM3NnVZYW41SHFpdnlfN0VqWHNOSWV6N1Rtako1LTdDODhYTUhtRWQxZ1pVRjVBX0djM3ZwRWJLRVMxUU5Qc3Q1cEhqNWx2aHFXeUFLdGJ1WFIxU2tGU21KSjJXX0x5OV8zeDc4VWViR3BsOUFYS1BEQmtxSGpiQV9Wb0NJbmtVSjBfU0RoMldPOVZUeXJE?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d4b7ef744bf1490f378efa92c1ef87271aa26e5f28f8b19a96209e1a28eb6907",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Grupo de Vorcaro oferecia até R$ 2 milhões a influenciadores por postagens contra o Banco Central, diz PF - G1",
+    "resumo": "Grupo de Vorcaro oferecia até R$ 2 milhões a influenciadores por postagens contra o Banco Central, diz PF G1",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTDYzbi14aC1ac3FScWQxd01nSlg1bXpVQ1VlMHdIN0ZJTWVkNTVyNlEwYVh3S24xeC1HbFhTWV9uaDQtY3J0VUowZWdzemJMN2JyWGdmQjhfclY1ZUZxRVNycnFLOWhhdXNfUXpDaERhMDRrMjJ4VGt5S1FwM0ZUb040eGlndGR6NG9HdVhjdDh2MFZKeDgycU1xSHQ1WDZJU0VBc3NUYlplelZtRzBBOFlRcTdqUlFZQXhsSFE3aTQ4S3hHaXlFeWY4U2xiWGNzUlFoNzhPa2FtRGV0dXdoWERBN0E2T1hhcERqWDlsNNIB_gFBVV95cUxNSzUyUnpaNFJZM1VkNU1YcExqLVA0N2hQSUlIZWZZVFhmdW9UMlRlMVU0NjR5YTlmektRVTNyMUw5bzBMeXVOWGc2akM5VG9pQVlXNXNINTFhQVFZNjh1amIwS2gtOWhjU3Nramg1eXROTU84UGZsVmFORTlSa1k1ejYtWDRJbWU0WnJrUF9jamtVc2JoNjRHcnE5bThmNTFPVWUxYWNiZ2JkckFlRzNSdnlMUEFUQ3JCRTRlZzl0LTl6LU05ZGx0RVdLdE8wTVlNMWdERVNudlJZUERKT01sRU5pNEtxZ19iSjNHWjRDSU5ITVhxR1pTWlNWd2JXZw?oc=5",
+    "fonte": "G1",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d78a7a59c6dc6e2b9d6dfb16ba7881a5b16fe8dda98a7d6c723fc02f3b3b0daa",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Futuros do S&P 500 e do Nasdaq com investidores de olho na SK Hynix e riscos no Oriente Médio - TradingView",
+    "resumo": "Futuros do S&P 500 e do Nasdaq com investidores de olho na SK Hynix e riscos no Oriente Médio TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUdk5pdWdBRXhPN3Flb1pGUXlhT2trazRub05EaDFhbnZaNTJqU29xN1d0RnZkT0VtNFl2UTJ1Y1doYmVOcm50UlpHS0hpd3NLX2pXMUtsU0ZpbjQ1Z2tkSzY5LWhpaE9yYldHUm5XaHlJbExjd1RJ?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "513e833413001799a5b35616f41e4f06d57bdc02c8e01f3e7cd7181726cb183c",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
