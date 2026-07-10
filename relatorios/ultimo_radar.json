@@ -1,47 +1,28 @@
 [
   {
-    "titulo": "Fechamento (09/07) | Ibovespa recupera perdas recentes e sobe 1,22%; dólar cai para R$ 5,12 - InvesTalk",
-    "resumo": "Fechamento (09/07) | Ibovespa recupera perdas recentes e sobe 1,22%; dólar cai para R$ 5,12 InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DWWlhaXFyblB4VFNpTTUtUncxck1NbTdST2N2Q1RRZHZ0MTZ2TkVfd2pNdXV0YndtNDdSQnZkRjR5R29XZVhJMFhWYnlFdGZzeWFzd1BCYkRFMEt2VEF6azYxODF0YU1kQjRZM1g4LTRFVUR4SEE?oc=5",
-    "fonte": "InvesTalk",
+    "titulo": "Ibovespa hoje fica de olho no IPCA e monitora petróleo após alívio nas tensões no Oriente Médio - Estadão",
+    "resumo": "Ibovespa hoje fica de olho no IPCA e monitora petróleo após alívio nas tensões no Oriente Médio Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV2VMeTRSUmFxbktEX3JJM2lwVEQ3bjZiaWtxLThmcTdVRWdBR3djYy1xaVRUeFZVdnRqRnQyMWFhR09HOUtSa1E4dWxGamtPRVBoMkdjcVJncHRaa0w5ZTR2S1NVUlNyalFKNWVnV1duY0UybUl4cHpZb1hHdVJ5RFJIclRkUHpzUEhTOFN3aEpOaS1mbXRMeVROb2l2WDhnN0dfREFCeWJ6LUgyYWRuZnVrbTZwU3ZiVUVnUmZWYnN1blF1VFpFSDUzLWRsZEF0Q05ObTVyb2RUVDV0cUhZNVlDNHJCbHhaYnfSAe8BQVVfeXFMT2ZYMEF2MF9DOEpxaEJjSFg1c0NLcWJFTGJpTFVHdC1CbzNheV9HV3dyS1FKeUItQzVEbmh5NlV2MXBtWXlsNTdDOUlKLUJzOWZHYXRXTUFhRlM5RHVQVmpSX1dXa3Bpb21yaklFQWltY1d3SHVRSmNIQmFLRXFHQ0dLSkVuR2Zwa1JzcnpJbS1pc3lGODh5UnBwSTZVcUc5M1hxQV9kb29aQzBreHJoaWdLR2dncUxjdHhqcWdPUXpVWmlRMVlNaXBPOVBkYU9xNW5Ra2ZSY3FvME5aeFBQNkNHdm1xX0VPbkVDZWhPZ0k?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8e03730f7a1552e1e9bea022ca60d15466e4553d4ae9e1fbb5e50c5c39aee549",
+    "chave": "52897a57cadbf5178e906fae8a97474fc8fd1046bb2a841a547f93f2e1f9d806",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa sobe mais de 1% com recuperação de ativos de risco - Valor Econômico",
-    "resumo": "Ibovespa sobe mais de 1% com recuperação de ativos de risco Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2xfazIzUlVoUk1yMEtpSzlUWFR6NXF4dWlUNVN4cmxQSGQ4UDlROHY0Um5JUktzN1dKOFpOcUVLOWtmblllcGp6QUpNdy1paXhYa1o0WkJGOEZjeHFfWENQV1dlclVjWG9Cc3VUYjhCSERwZWw1TENUSXA5bW1xNURFRERMMkU4eUkyUm9DbWRyWGdsN0IyRHo0S2lLNjVma195dzBKSVhzc2wyUl8zUzc4Uy1rM3RfaVg5Z1d2ME91M1hBUWpuWWJCU19GRUHSAc8BQVVfeXFMUDdsX2syM1JVaFJNcjBLaUs5VFhUejVxeHVpVDVTeHJsUEhkOFA5UTh2NFJuSVJLczdXSjhaTnFFSzlrZm5ZZXBqekFKTXctaWl4WGtaNFpCRjhGY3hxX1hDUFdXZXJVY1hvQnN1VGI4QkhEcGVsNUxDVElwOW1tcTVERURETDJFOHlJMlJvQ21kclhnbDdCMkR6NEtpSzY1ZmtfeXcwSklYc3NsMlJfM1M3OFMtazN0X2lYOWdXdjBPdTNYQVFqblliQlNfRkVB?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8067c92ee5eaf96e74728b9cdc8bd706a21e976062f5701780d470fc521a1e7b",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
