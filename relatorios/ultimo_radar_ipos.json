@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "titulo": "A SK Hynix está preparando uma grande oferta pública inicial (IPO) nos EUA que pode arrecadar cerca de US$ 28 bilhões - Mitrade",
+    "resumo": "A SK Hynix está preparando uma grande oferta pública inicial (IPO) nos EUA que pode arrecadar cerca de US$ 28 bilhões Mitrade",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWV1bGpuTTBZSkxTY1BMUGRlZkFTS1MtTTRkV3FqMVNpaEZrUFQ3WkptdHlvUTBpVEhvMVdxdVR0emxlNDZOV2d6NnFGY1hhMFdtYXdrVWJxUENOd3lCbDk3SUpmM3FpRnZQZlZjZzVyMW1aZ0V5QXJXMjc1bFIzZjloeG1wNUp6UWxjQzd3Qi1pbW1ZQ25oYg?oc=5",
+    "fonte": "Mitrade",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "7790f469e89197b0c04494aca495814e3318a0aecf0852652bba91dc68f9b27c",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações"
+    ],
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+  },
+  {
+    "titulo": "Compass confirma R$ 2,8 bi em IPO na bolsa brasileira - cnnbrasil.com.br",
+    "resumo": "Compass confirma R$ 2,8 bi em IPO na bolsa brasileira cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWG92WUNnRHpPc0QwaFhWeGRObjlpY01SaVZncXRaNkhlRkw5c1hDZl9mbGRhTVRrWmI1MVY5QzdxR2pxZWJIWm1YeXVSZUY1WGxkWmNLSDMxUzFPM2IxTFVwR29QQ25BU0diS0V4WHVTQ2p5NFB4V01JektHbEhQdk9rNTRrTldNWm51clJtN28?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "e1c6d9e4dc5d0fe18e0663830c286a779124be3d561baaa32ba6b1d3fc2f0729",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "SpaceX dispara em estreia na bolsa dos EUA e passa a valer US$ 2 trilhões - cnnbrasil.com.br",
+    "resumo": "SpaceX dispara em estreia na bolsa dos EUA e passa a valer US$ 2 trilhões cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGk4aG84aW5JcDFYTDdEQU5GMTRpVmFuYUd2Tkp0ZHFwTmk4VnpHS1pReXZucGhpdDBCenpackpGZnVsdXh4dXZXaDBCdVdIa2dBUTl6Qm9VUTkzWmVpaXRhRkxWSGRRQnZxRjM0SlU1eUlnblF1TjQxRmlEQVdVaThPMmhhLVROZndBZ2lJaTJPS3ZCRU1jLWZLd2NJV0FrVE1DaXI3V0JHSUNyQXBzZFY5TjlxUE5OemtJ?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "f0db852c403a8aeb479be281c16109115bb3da203e61f99c81a05249947df21e",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "IPO em fase avançada",
+    "estagio": "Fase avançada / estreia ou precificação",
+    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
+  },
+  {
+    "titulo": "Entenda o que é um IPO no mercado financeiro - cnnbrasil.com.br",
+    "resumo": "Entenda o que é um IPO no mercado financeiro cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOXJmWkhCZGk2eUd1ckQ2MkVTaHBxbmxCcWxIYjV5cExQNXNjb011Vng5eUJ2NnBJNWdad3VfWUt1b3NMbHdCYm9WaXZEYlVBLWhaUDBlYl9LdTV5RWppQ0VXR1QxQVR1ak1RZ3pVNzNuRHJreTV5WmxVd2g4UTA3LVZvNTBlZlRjUWFz?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "consulta": "ações estreia bolsa IPO empresa brasileira",
+    "chave": "3d97e4af4c08b61103878a9c8b2827322ec9eb2da950638823103800421f9529",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  }
+]
