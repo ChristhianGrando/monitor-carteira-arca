@@ -1,11 +1,40 @@
 [
   {
-    "titulo": "Mercado vê IPCA de 0,16% em junho como surpresa e reforça aposta em corte da Selic em agosto - Estadão",
-    "resumo": "Mercado vê IPCA de 0,16% em junho como surpresa e reforça aposta em corte da Selic em agosto Estadão",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZE1nX2luYWNSRkJTeFR1cHZBaVZuUy0zQ0ttU0RQdm1peHVEQTNPUDJSYjhEb3lmWG1yRUp1NUU5ZmNodkw1TjJhNThfS3N2cjNwZEQyUE9IdkJUdGVRdTEzSjI1LWJid3FyZWRKSE9pRkpfcnRYX2xZMlR3b0ZNLWhUTEthUTZteHRib0lVUE14QnVYX2cxRkdFaV9XYWdrTl9JR2p1ZFdFTTVkTXRLWEVSQ0NQYzJoUUlOVWgtVUdPcEhBMVHSAcsBQVVfeXFMT2xORTk1bUJvcGZVckJTMTJKTFNxN3lfU0JnSDMySUdSczVHT21wWmVTdGxWRGFzZThlSXQ1UlNpakpKcjZMLTFIdnB4M21leC1JNjJIWUc5ek1pc2dDU3NyZGVNQTdNR0tZU29qTUxDdE5VNHRwWHRoWEhRcnJHdE1fZ0taRmlaU21lbGlqUG5TZzdOUGtzaFJQM1pKbjJfekFiclV1NS1wZnJVbVl1M0k0N1FrU1JRT3AzNTVJdHl1REhEakxtVWZKV2s?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Ibovespa B3 sobe quase 3% e vira semana para o azul, com IPCA no foco; dólar cai a R$ 5,10 - Bora Investir",
+    "resumo": "Ibovespa B3 sobe quase 3% e vira semana para o azul, com IPCA no foco; dólar cai a R$ 5,10 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOUtIdDhMNzdyejJHR0U4dXNfcm5ta3FUNHB5a1M2UjZ5M0pCblhlTE52TjRYeUlZNDNURFFvYVotTG9GWWRCODR2cE5iamdVWWt3enNobTRJSnVFZnN2eXR5VHNWWkZvYkN5SE1ENHZPdXRiVnMtRzZRS2R4YlVRUnBOU0RuT04wdDRsY2VGdjlpSTh0M01INzNtSC1Oa3BFTXNHSnBlZHFzbnA5VTJ2a0xfallraENRc0FHdDltclAyVGpSR0hvcDVrWjI0NHM?oc=5",
+    "fonte": "Bora Investir",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "65e274bc8df00066cffb80bd5fe39dfe36a3e0ed6dedf48f92273b190f47f3df",
+    "chave": "64e690541fd7a5ebea51ad3e9a26a0ff5d39a47e471b6706b354544131d9f564",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mais cortes na Selic? IPCA de junho reforça expectativa por nova queda de juros em agosto - InvesTalk",
+    "resumo": "Mais cortes na Selic? IPCA de junho reforça expectativa por nova queda de juros em agosto InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYmN3b01NaElZckFISUQyQVp2SlM2WDFCS2FhZlczYnlOaDk5WEZlOExkenZUSHVzekpjSmVmR1VCRERGdEdST3BOdVR2VWRSWTF0RDVwTXVoQ0N6R1RJeWVmUzhnMmNEREdWZVdmdnVEa3JNZTF5VTZVakxmcDlTbUxrUWJtVTZrZXFLWTFuenRabGFoSk1NTnRHaklzaThpTVhScEh0RV9mRlozQXhmYVhaU0Y4NHh2UG9mNjJwVVdGdXo0d21SVlVqSXpPSTBRaHc?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e296d6a000e460805f488804c07f4dfb3e7152ea755ffbe3ffe3e564612a9e6d",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -27,12 +56,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Inflação abaixo do esperado derruba taxas de prefixados e IPCA+ no Tesouro Direto - InfoMoney",
-    "resumo": "Inflação abaixo do esperado derruba taxas de prefixados e IPCA+ no Tesouro Direto InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzNIbERtLUNHQklSUkh4VzJUXy1CbHhqT1pjMkJ3LXYtTk9zRGRTZzVJdGp0T3JEYVhObUhpU2djWUp3ZFR0OHhsTFZyS2ptQWVQNm1mWW95MEJ4V1Azak9ybXN4ay1oR2EwNnZJYkNjZDFEN01fRXFPcDF1dFhMRWRhN3FDMkZlS0R2SElabXNUWG5wcVhLTjRyeUhCczFtUDNsbDE5QjZ6dW04Z3djVXdxU2VNYlRmSXBWVGhPWkREUdIBxwFBVV95cUxPYmNwVVJtZlNCVkQ0eHd2N0tPT0RVWDhUeVpMMzRXMm5DQk5teHExWlBNM2tYQzRPS055T2U3QjQ5MDdLVXNScjNaOC1MRnI3N2VvLUxwNU5YbEh4Rk11ZTBCZzNSZEhNVUZZLVNDQXlVWmRlYTdxMUlMdTZnTjI4d0RnNWhZdTFHbUZQM0l5S2NDN1AzM202eXdZREpzT2w1MDBkek56a1M2RlhhT2lnVEJsNW5UaV85WHZYSktsTVZNUUx6dVlN?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Juros futuros têm forte queda após IPCA mais fraco - Valor Econômico",
+    "resumo": "Juros futuros têm forte queda após IPCA mais fraco Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFNaMTVnNjA2UWhPcmhjWDdtbXFrZzdVWFVVaFRxZjhMeUVRcTNRazVSVTBOX2JvMHYtWWc2RXJyTFlueGZTT1kwX1V4eFJwUTlMQmdudTVYa1JGMUFnaUZFcFdMaHptRk5RRjJqLWxnSmRDWEVFUU5IOFRidWNDejFoaHdFdmVmNW1IZkVVTk9HN2xOTy15RjZDQ2lJT01hUW5UN0ExaWVGNDg30gG7AUFVX3lxTE93R29ySzRlN1Q4QlRWdmk1X3Y3a3RlOE1hSHBTaVB5WWFydUYwM3ZEc1BtSWczT2VqTnFFOEVrc0wtdlp1UVFlQVdCLV9wTXUzVmZYS1A1OVRCQXVycGlCaU9Qakk5RjZ2WjdpX09GLTM4dEcxLTJsalYxZjJpQUlDZFRvdkM2ejF2UEhycjZCbUpLd0JtcUczNzNZTWNCbmZDdEwxeklzVk1DZG9FSkUtenFxU1ktOHMyRGc?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "91419af7c4ce4fac6b0fa613f694f62aa875621dedf58e573c8f867267e0de10",
+    "chave": "74ca57f4699ba901d38d8533a7687c1625075090094474d6139f9ceb6246aa96",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -43,55 +72,61 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA registra alta de 0,16% em junho de 2026 - Fecomércio RS",
-    "resumo": "IPCA registra alta de 0,16% em junho de 2026 Fecomércio RS",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV3dGR0tzeVBORmN0WU5aRDAzY1hQNGtxUUVDVE1tamM3cW5NRGNOVlFpQzZ0S0VQNHdWb0NYOUJqNTdTcy01SDVJSjFxUm90TTdVWEZ3Sy1kWGp4UnR1RnN1c0xNa0F6RVpiQlU3TmZCTmVyZXctOFVHejdzVnlJOFU0VGp0eE1KdGN0Qm1qUkVaTVBUZW9sd0x2UVVNX3hkS1ZTVmxTY0NvR0h3ZXlFS0hTLUYzdlFBMGdXQmZQY0lBallfTWt5bEZoR2FuU3hBZnUxR3JiUUY?oc=5",
-    "fonte": "Fecomércio RS",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8079992ee8ece4e698ef7ce25628aca6cb845747a4f1ff8920bc6d911f9dacba",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Vorcaro pagou até R$ 2 milhões para influenciadores atacarem Banco Central - CNN Brasil",
-    "resumo": "Vorcaro pagou até R$ 2 milhões para influenciadores atacarem Banco Central CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3duU3hQVnhzakRneHBRemdpZUxVb1R0RXFza3BFdWc4N1B6RnVRUHlWM0hLYnpSb0lOZkFhblBKcV9tM0s1ekh4R0FvcElnMU9IeHI4R3daRU4xS05WTlhITnhVTVp5VnRoS0t5SHQ3clpYZ3lEbTBneGtWWXE2X3hIV2FmZ1F3bzQzZWpGRV9VOUMzM0MxdElOM3B2QnRSeExVQlcxQjZyS2I5cEp4NFdR?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Ibovespa dispara quase 3% após IPCA surpreender e reforçar apostas em corte da Selic - VEJA",
+    "resumo": "Ibovespa dispara quase 3% após IPCA surpreender e reforçar apostas em corte da Selic VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmJ0RnFCWjluUzNmdEQwVTNaU3VUdnVlY19UYW13cVlrbU40OFFaZk1yZGt2WmkxUk5Scm5FWGl1ZWVLelVscFhoNGRyOVdBZm1xTW9MSXJjZ3RpRlFZR0hldU45V0pmcW1PUTlrbHNyU1hHT05PejJZTXlKNnJFMkF1S2lqN1FUelpkYUd4RGZDVkF5UmhES29qel9TTmUwN2RDZEtfaEpldGtTMjgtN1pMdGpSZTltTHlN?oc=5",
+    "fonte": "VEJA",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b21c514c60221a1d21bdfd06ca15d2b1c4fe9bed48ef1d61372850e66cb52c23",
+    "chave": "7cac64bea7d1d622adb57040239f98b1b3f5bbee62ca6410fc19ceaa73430a5b",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa salta 3% com surpresa positiva no IPCA; bancos impulsionam alta - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa salta 3% com surpresa positiva no IPCA; bancos impulsionam alta Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHB5WkdfLVNfZlJBdjhwSUN0eGtyUVZqZ2pudHM3OVBuRWZBSXFFMVJCMnpBM2FncExlSnpKQ2VSd0NnR2pYbjBkUTBSeHVEQ0w4YVdzalBKSU8xX2VqYWNONFV3UUlmQXVRbTlYcHVzTkVaeUFuOW83X1ZjWFpCcV9tbmkyNEppRl94V3F5MDVob1NqbmdXcGxjLWRZeFlfcXN2eDFjVXRoVzR0bGJaTEZZb1bSAcgBQVVfeXFMUEpjV0dROHNUalZ2VV83T0dnNEI2VXBfejhKdFpmbWhVN2ZUdG1DYkN6eWNQYl9zWUVTMUtxdkdkc28wY3BqTkhNRFdETDA0YjBjd3h1TkJRb01FUngtaE1xMThLbnQ1dTZBVmJoVlVVZWFEaTdlQldSVjkyanJieTBMUXMwZWRyQU1VaUI5TDhJRmxfSFdSbUx0RHp6dnhIVUk4RWRvUnpQNFJnV01qZmNPYUFTQmtPbVdVQUV1RVNNZGVtVnFYT3A?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "45931294c6904893c113ca77e3ec894a106c4e9362b17cec5bc2c8bbedbfccb5",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
