@@ -1,22 +1,24 @@
 [
   {
-    "titulo": "IPCA abaixo do esperado derruba juros futuros e reforça apostas em corte da Selic - Valor Econômico",
-    "resumo": "IPCA abaixo do esperado derruba juros futuros e reforça apostas em corte da Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEZfYnZXelhwN3ppNzhvTTlmSHJNR29xOE9CZ3ZGYy1CSTVveGc0YjZUeklSUTE0bjFnQzZHa0Y3WVlJU3h3ZGQxZkxlNjRTM1lpX21PMy1YS2diRG9FWlVGTXpxZ0NEVXJ0eHZEazI5eGVOcUR6Zll3WmF3UlBIMXgzMTZrVXpqMUdldjNvWnBxckZ1TVFQYmlxV2V6Y0M1SjEzZWJoTzdzaTJSTlFxeWR5akdCUEZtRkxYejQ3UFl5MlZZeE9uTGdfWWFpZ3ZlaGhV0gHiAUFVX3lxTE1qOGVuSnhTc0Eta3BLZFYyX0NraGhUYzA4UEJhMzNweHNrLXRndEFQWnprYkRzeFBJT3BvSDdpdnpmYkU3X2gyODJiSl90OTVvY1RpZ3ZRXzVVQ21kOXAzdndUUTliVVBNZGY5d3liN2ZqbzlIbzlGZ3p1aDNnM2VpV092c3RtNUxqbkVaWjdfR0hJMlhXUDhBSEs1d1Q0T20yb3lLNTNvWEltY19fam9CVVZNN2lqcUZJUFBRWlVYVEh3QU5wRDBCN0NOTzE5SWNTaW9CTG5tUVVzMEs0ZlhRbEE?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4d694c70911c49fa474a34f1d2e825bfe555446679e00b4e94b8d762f1cb8289",
+    "titulo": "Dólar cai a R$ 5,10 e Ibovespa firme com IPCA menor e petróleo comportado - UOL Economia",
+    "resumo": "Dólar cai a R$ 5,10 e Ibovespa firme com IPCA menor e petróleo comportado UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3dmUHp0WENpOUd4NUJYcWhLOEo1bl9Qak9yUTVMeUw1eXUtWGd3bGxOZnF2cWFBTlpmdlFvWEsyWXBtUXNZQ19NRnY4WVJWc2ZkSVpmRlpZdHZBWU1mLXNfVnlUa0JvRFdRT1hyazJySlE2YWdLUExfeERNRlFqWnBBOVd3WW85SXZCWG9BZExkWUM4Nkt2bVp2cDczRW1HQUh6b0FWUHVLclRP?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cd2ea4a12b339a73b8dcd063d01333e223b29c79017e0c11bc630ea8a4dd9a95",
     "ativos": [
       "IBOB11",
+      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
+    "score": 16,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -27,12 +29,40 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Caso Master: PF listou 40 perfis que atacaram Banco Central - CNN Brasil",
-    "resumo": "Caso Master: PF listou 40 perfis que atacaram Banco Central CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUJlSmREWkRuM3BQMFR2ZFhSU2JtRFB3Z0psSG8yS2ljLUpRVk01Nk9Lbkczc3hwY2psVkJabWNJal9LeGRIOVhaYWVHQlZ1WnozV1dhUVJ3X3hQMXJtNWQ1U1Q4elA2TlVKM3UwazdsNWRaR19nTUNjMTFoYjNhM00wQWtFZGk5QUlra2tvMTI1TjlvTDBsVXVORDRldw?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Ibovespa hoje fecha em alta de quase 3%, após IPCA; dólar recua para R$ 5,10 - InfoMoney",
+    "resumo": "Ibovespa hoje fecha em alta de quase 3%, após IPCA; dólar recua para R$ 5,10 InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1d5YXJpRHgxbU1heWtUcnZqODNCdGhlVTFpTG1MNVVkSEpwWGx0eVE5ZzZWMU9jTFhHTUgwckZxSHYxcGFMNUVtQWdiV0xSYWlwQUtDcFhpM2Vxekw5MFZGMnBWM01lckdGNGdJdUI4RFhiT2kzMEltNlJOYmlVS3BKemlTOHhWTDBhSEdwbw?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1422bb446e06d19922e574054bb9181e00555e74cf1444e47010892320141ed9",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inflação de junho é a menor para o mês em 3 anos, mas ainda está acima do teto da meta estabelecida pelo Banco Central - G1",
+    "resumo": "Inflação de junho é a menor para o mês em 3 anos, mas ainda está acima do teto da meta estabelecida pelo Banco Central G1",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZV9pN1Z6UnIyMHNmcmZQcXlnTEdKaVZEYmU0SjhLMENERTJTM0w1MXdTTmtwWXFtRTJzMERmc3lNNzB6Z0xVNm1kOHRLNUJ2QXRBR1c4RmxVRjdEYzlfel8xLWFBb3k3MXdpc01LR2lJZlpsN2d5RXUtQlVQTjhDUTdQcExlRHJtMkFYSjZoNEZMdkV1blBvU0VYZWIzZElYMURJZnkwVld6WXpCUEJadzZ3NUszWWVyVmUtYlh6c1FycUszLUJGLUN4OVlSNjItdzFwXzBldkQzOEwxZ3U2NkgtaVVQTXRkdi1TZkQxVG5CQVE4WmtjdnVxRGhLWkEtc2pWck91VC1EYVnSAZoCQVVfeXFMTUw3eGNEVG1QWndEN1B3NGVILVJrd3R4RjZDQVJTY2F1MFNfeFZoSWlvUXNrczk2OHFJd1l0VFcxNm5iMTN0aEg0ci1rZ3NHQnVvamdzRnFNeXVtRWhjN3BFYWNqOEdNX3VZaHNVWVk4ZGpGUW9SWXdtMV9CaDJoTW43Y1F4RkRvUVRlcEdTaHUzSzV4a3pRVHFtS3hGRjZ1cTl2ck13cGhfRHdVaERlRDJjN0dWSmJIUkNPX3BNVE4zUFVKMXVXYWhCd0p2MzVtQ1B1YllnVEFxaVp1bFFZNjBNQUpIWFoxMnZLcldHNkpUSzNxZEtPd1lZWVllVndkaDF4aHZMUHFBQlhzWVZpN1J5WFVOWlFLcW5R?oc=5",
+    "fonte": "G1",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cc9385abfd6dbf2b87e71e3b375c07f13a42a08b969523d145b36ef7e947e1e0",
+    "chave": "dfb7675916924182e9f9c7a2495d7585d944788cceaa91dac1941418aaff4508",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -46,6 +76,27 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "BRL Trust renuncia à administração do CACR11 em meio à crise do fundo imobiliário - Valor Investe",
+    "resumo": "BRL Trust renuncia à administração do CACR11 em meio à crise do fundo imobiliário Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOW1RRGNGNmdoeGNsdGNQSWtFMFVzcXBaUGdLXzNTMjg4VUptc2NZQXljVVgyUkR2Vk5FT3RWeUZQN0MxZEpiTlpNeFYyTWs4MjJDblBWNjNUOUZjTEN3WXVDNlBDR1BGZW5kYkxvdGkzTW9rZ0N2bklwSmVFb0FZbDlVZ2c5cDUxMVlidWVfZkpYTkVuY01ob0ZiMUhlbjNvUWw2b2M1M0VZZGRDaVZ1OXVlNGdSOGtpQlNrNGVFRzZCUHJGNk90VG5TempabnNfSGRWdmM5Sl9QdmF1TTBqTm5XVHpUQS1nUGR4T2hHa0hnMFlnbVhMT0tR0gGIAkFVX3lxTE9DdlZJNmZIRUtwc2pzNEFkVVlfN1V5S0R5MXZqeU9MRFJqcmN1eWlmdE9vbXN3SlY1RzFhTXk4TGNpWVJ2RFJWLWt0R0NiX0lKek9oUFN1S2JabmZEWDhJNXBpT0NGQl9Kd1A4alR4eXMyVUxLTEQwa2F5US1CRHRBWnE4U3ltbEJldjYzMUtqdDhwMTVpaWhlXzRyV0FKLWt2eUNELUpLcFhFMHNhUzl6OWY4ZVAxU3VxbXk0UDhlLXEtQWtsYnljazFkTFR1eW9YQ3dhZVlkbmlILTI0RlJGSnJvbnNXLVhDYlR4RmZHRmlmbmdkTlZxSUMtZFRJanNGZ041MkJCag?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "f193feb57b90c0295a40fb5723d1e25fdf7e5dcfb037009b7f3193a6bcaa7176",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
