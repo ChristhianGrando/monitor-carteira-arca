@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "IPCA muda humor do mercado e abre espaço para redução de prêmios de risco - Valor Econômico",
-    "resumo": "IPCA muda humor do mercado e abre espaço para redução de prêmios de risco Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVhUUnZuVncxUUEwZnFKclU2djdJeEtfZW93T3UtckE0c0pxcTJSZ1dzdVc4dHFNSGpYdXh4VElHakFXSVMyMWhNWWZVeEdfSGdobW1VVVp4b1h5dkhyQjdMU29YRGlfUEp2a2dCel92ck1YS2o0eGEzY0dPRW9DZG91dUt2VFZTMmxJNnc0MmQ0RHA4UklkZ3NIczBJOXJqRHhPM1U3bU1yTlpBdnp5SUhkT0hNNHpnUVFtejl3NGM5MThiNnhpX3JkREViTmPSAd4BQVVfeXFMT3RNa1hGd0hnQ21FMExIcmVnNlI4MmIxd3NyRjU4Z3NGSktTLWxkVDhMWXFORElOZC1IaUxxQUNiNFYtTGtxSkZlb1ViM0pjQXBvbVNMSWNsOTlIRmUxdXNKZGc5Qm1JNTd4d0R0Q0NfWGozS3dTNkEwVUo2TERqeHJmUklGSGVHZ2M2TjFtMFMyaElfek1ZZll2MWFrVm9UMjJ4b1pjano3Vjd0QXBFQm5DNGd4ZGMxRTFYampldlNhdHNxWXFhLTY3S0JtRUdsdUZIWHMzSzk1N1dZV1Nn?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Fechamento (10/07) | Bolsa tem forte alta de quase 3%, contagiada por IPCA e expectativa de corte da Selic - InvesTalk",
+    "resumo": "Fechamento (10/07) | Bolsa tem forte alta de quase 3%, contagiada por IPCA e expectativa de corte da Selic InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zc1NtTy1wNkJfNnBVekhtNEZKb3RqOU1SQ0hJdjVGbHAwYWRTcklzOElTTnpabVg2cWFrUklnV2drQk03RndhQ0lQN2lqOS1fY1RiSkFzYWhraXl3Mk9vemZZeXBxWlUyS2dhemt1bDlJWDBBOEE?oc=5",
+    "fonte": "InvesTalk",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "63152359642a241b9491a3c6b63dc14eecb7a0901e0ea5bad56468b14b6a4cdc",
+    "chave": "374f8b0b72f84559dcbce8434d8469b4f9b7acdfe2c09028c7db443176a8fda2",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,14 +16,62 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 16,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Notícia Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente - Kinvo",
+    "resumo": "Notícia Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkNxOUR6LXhvNVlUR0pQNE9zVkdZWHlmd1NhT19Fb1VGcnRnV05wOU5acEdldkhHd0E0UGhXeENGOTU0QURJd1pTTHlaU0ctWmJyeHNkaTdHY1MwaWItSVdqb2pyT3VlTUx6SUhsdG1CNjVhVVZqR1BSa2dzVnBoVm9ncldIZGs4Umg3VVRDWS1EZUlBTExhQUF0czhVQkh0d3BjLWJkc2puNDBkZGJz?oc=5",
+    "fonte": "Kinvo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "a85b75f588b9187c3dca0c9b1370c63837ff54ef90bea895848cebbb29802d93",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente - Money Times",
+    "resumo": "Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR2o1R0xaUVVmMVhleENuN2k1eG14TzF5QVlPNVZ2d1pkX2Y1STNQMGc2RkZtZHZpRXFHY0RoSkpaRHdzeUU4QWlHUy1PUFJkclRSZzE4dl9TenY5azFIaXIxeHJkeFRlaHFtRXdKSXBneXA4SmIyRTExR3E1ZUp6RjdlS3BzR1hIZEkyQjZqUVZmaVhfT3R4MzZsaDBuSVZnam9zRW96OC0wWTctQVV1M0loMHFUVUc3?oc=5",
+    "fonte": "Money Times",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "650363dd9284779aa26a0fe475d85501447aabe9288a7483e241d0308f30ffec",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
