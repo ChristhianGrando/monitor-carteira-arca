@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "IPCA de junho reforça aposta em corte da Selic - Estadão",
-    "resumo": "IPCA de junho reforça aposta em corte da Selic Estadão",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGs0aFZ6YzRBSWVoMzB5V01scGhzSzhBX1AtanB6bTViVkVKWENMMUhZcEUtMDN0Q0otRnBHa2xGeDZCcTlqOHdnbFMwVHYxdmx6S29hWVV4bnBMZWk2Q3FWWHlmSnlYUURaWnRvX1puRzVVRjBudnBrYWJpZDNOR3VIY0QtZTFrYTNQUnRVYnRRcnFONUhEX0VKM081OW8t0gGmAUFVX3lxTE44bmdhSDRQVWx4WmJGVVVBVUNheEJ4enpjSExhN2dmdXBXZ0dHd3lsOVFQMEVrb1N4SzNlVG9CcDN3NWFKTDh2aWlhN1lQNW9NbXBCVkNSbk9JYXc5SENSTl94RExPbFl5Zm1majRMN19vcW9yVEVUUHhIUUtwdE9OYW9Cd2NsOXFhclJVbFVVMjBnRkhSc1Y2OWZmZm1rb0sxZm5LekE?oc=5",
-    "fonte": "Estadão",
+    "titulo": "IPCA abaixo do esperado derruba juros futuros e reforça apostas em corte da Selic - Valor Econômico",
+    "resumo": "IPCA abaixo do esperado derruba juros futuros e reforça apostas em corte da Selic Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEZfYnZXelhwN3ppNzhvTTlmSHJNR29xOE9CZ3ZGYy1CSTVveGc0YjZUeklSUTE0bjFnQzZHa0Y3WVlJU3h3ZGQxZkxlNjRTM1lpX21PMy1YS2diRG9FWlVGTXpxZ0NEVXJ0eHZEazI5eGVOcUR6Zll3WmF3UlBIMXgzMTZrVXpqMUdldjNvWnBxckZ1TVFQYmlxV2V6Y0M1SjEzZWJoTzdzaTJSTlFxeWR5akdCUEZtRkxYejQ3UFl5MlZZeE9uTGdfWWFpZ3ZlaGhV0gHiAUFVX3lxTE1qOGVuSnhTc0Eta3BLZFYyX0NraGhUYzA4UEJhMzNweHNrLXRndEFQWnprYkRzeFBJT3BvSDdpdnpmYkU3X2gyODJiSl90OTVvY1RpZ3ZRXzVVQ21kOXAzdndUUTliVVBNZGY5d3liN2ZqbzlIbzlGZ3p1aDNnM2VpV092c3RtNUxqbkVaWjdfR0hJMlhXUDhBSEs1d1Q0T20yb3lLNTNvWEltY19fam9CVVZNN2lqcUZJUFBRWlVYVEh3QU5wRDBCN0NOTzE5SWNTaW9CTG5tUVVzMEs0ZlhRbEE?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "62f1f2f7f0d56aaf72f90f5269005dcbc31182c99687a718569445f4e0abcc79",
+    "chave": "4d694c70911c49fa474a34f1d2e825bfe555446679e00b4e94b8d762f1cb8289",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -24,6 +24,28 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Caso Master: PF listou 40 perfis que atacaram Banco Central - CNN Brasil",
+    "resumo": "Caso Master: PF listou 40 perfis que atacaram Banco Central CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUJlSmREWkRuM3BQMFR2ZFhSU2JtRFB3Z0psSG8yS2ljLUpRVk01Nk9Lbkczc3hwY2psVkJabWNJal9LeGRIOVhaYWVHQlZ1WnozV1dhUVJ3X3hQMXJtNWQ1U1Q4elA2TlVKM3UwazdsNWRaR19nTUNjMTFoYjNhM00wQWtFZGk5QUlra2tvMTI1TjlvTDBsVXVORDRldw?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "cc9385abfd6dbf2b87e71e3b375c07f13a42a08b969523d145b36ef7e947e1e0",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
