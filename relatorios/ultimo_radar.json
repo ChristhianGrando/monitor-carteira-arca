@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Calendário econômico: prévia do PIB no Brasil e inflação dos EUA ditam ritmo da semana - Estadão",
-    "resumo": "Calendário econômico: prévia do PIB no Brasil e inflação dos EUA ditam ritmo da semana Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUy1ycDFKVnFrVUhjYk9OQl85YVlzeFhYbUFXVlRrNmhvUkNscjNISDVha2l6RTEtZ2k5a0I5ZDhCcWdiejVTNVVNYzNtOHJwMEluaE4xTGFxQ2o4aEc3eUlMd3IxaC02YVY1c0tzWkp0MnlIN3BlUmNuVng0VkN4WXVHRWZkRDZzRkJTWHI1SXU2NVlfYi1majIxOTNJQUpXTmtES2JwcmhkTjlSdVVNVXR2YV9UTjFTanlhT1ZzR0lSQUlLYVZlQTFEX0ZGUnJDeVpKalcxNTBtWG1I0gHiAUFVX3lxTE8tZ1ZZbUE4Q3FXenlLTVdtVDltY2lyLWs2M28yUlM3bi1sbUx3ZC1OQmNRWFdSVDkyR1FvRHUtLVZqd19yTkk5bzFUX29lUmUtLW1HWXZUd0xqUm9uQnVhT205QWpqT2NxUjc3d3VYNUFaVDExMFI2US1DcDdTNGxWSHJsU3o3dHZnMDUtcXNITmQyNFBTbFpJZDdLUFlCbjFDMzUzUUZYQkphblA3Rkpac1owaS12MFFMdUI5SVl6Ym5PVE81OC14RGV2NjVXQWlEQnY5RUJlRUtmVm5tdGt0NkE?oc=5",
-    "fonte": "Estadão",
+    "titulo": "CDI é melhor que títulos atrelados ao IPCA? Relatório mostra qual investimento protege (mesmo) contra inflação - Money Times",
+    "resumo": "CDI é melhor que títulos atrelados ao IPCA? Relatório mostra qual investimento protege (mesmo) contra inflação Money Times",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFJOa0xXemgxNFI4VGFQYjhQbkM2VE9MYXJRQ3Q3VWxOV3VRd00xWkRmUFVOS1d6aDBVVTgtRl9aOXRKdDVOT2E4ZlowLWJ2Y3hkcXV6ZG1vX0tZaU1hVzF3eF9aNGNvMk5SaUNoTlY0OTRfdURkeEszZkdkTk9EWDA3Q2Z3cVBva0g5TUp0blVkempwQzVqbzdlZUtlbHFCTTZOTW1oTWo4aGlpRTBfa3FnRkJ6alA0SUxzSQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ea446ef1c8aab2431808062e608662a93a31947ee475340e684cb80f3f31e895",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Receita Federal e Banco Central são autorizados a realizar concursos - diariodigital.com.br",
+    "resumo": "Receita Federal e Banco Central são autorizados a realizar concursos diariodigital.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGFkT0VDcHlpY2NrOGZleGhxT01kdjVkNG05eW94T2FkRXhoOHBNVjBMWjJOb3Bac0tGTU55SDBhUkRfS3loSTRSc3BNam1kd0ZHR0F1VFRSQjFlYzFZSVVtSTBybHQwSTdQc3hfUnRCMXNnTXVNY2prSUU3WTAzaGEyNHhqZVZVdGRKTGxkcE5IaWx5cjhzQ3g2eEhwOTEwdmNLc1o4SkVjZ0XSAasBQVVfeXFMTTFKQmZYUFpzU2prZmw1S0dmQThuUEllZk9yX21QaEJqN3ZrQXU2YkZmeVdPajF2eVhBVzV4V0pXY2FBa3FWdlBfZ2l1ZXk2b1FBd19hNDNLMW8tWlBSTDVNQno3VDlaazJ0bkc2Qjh6NVMyOXh6YkswdHFkQ3ZXMmJvdDJDbmZRWGhFQ3U4WWYxcVByTHA4WXJJbTh4VlFFQXRiOW1manBnQ1I4?oc=5",
+    "fonte": "diariodigital.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fba7cce672103b64e942da0c219dd48c21f759a27730cb5513225abac694c298",
+    "chave": "1c98b3fbdd3f6ad7f383ce5467a0865f3d96ed15fa0101d9ec2b13a79314f7bb",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
