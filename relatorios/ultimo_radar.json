@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "Inflação de junho é a menor para o mês em 3 anos, mas ainda está acima do teto da meta estabelecida pelo Banco Central - Rádio Pampa",
+    "resumo": "Inflação de junho é a menor para o mês em 3 anos, mas ainda está acima do teto da meta estabelecida pelo Banco Central Rádio Pampa",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeUdfS3I4NjZQaDhwMkN6Q1VFQm56Y2hJVTNlOTdudnRwVzZlUXl0M1hZTUdBZ0I3REZQcDYzcjB2TEJYaGM2UTR6ZjZPTWRHZFh6ZDJUMC1STHRoZ0FzdlJzMEdpUGRjNUdMTlZSVDA4M0hsbXBrNHUtQ1pKbkszNjRfRXNMYmNhX0dwZS04MEF4SFl4d0JtcDJna3doOHQ2bFp0RlhOMTJLX3ozUnBobml2bjVBeXplelhkeGZKREU4Y1l3MXpBT0kxSEoyeWpKdEdVNDdZeS1Vc3JwSkRtckpn?oc=5",
+    "fonte": "Rádio Pampa",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e4c44c59914d3c0b9d7f702cec68f65d429df8cd9d66562d6e2a7079e6b43ed0",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
