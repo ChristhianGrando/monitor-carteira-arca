@@ -1,45 +1,28 @@
 [
   {
-    "titulo": "Dieese alerta para limites da política de juros e impactos da PEC 65 sobre o Banco Central - Condsef",
-    "resumo": "Dieese alerta para limites da política de juros e impactos da PEC 65 sobre o Banco Central Condsef",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjQ1YVJxTjFpNGxRRjhYU05sLWw3WW9xRHRIdmNFWEZHTHRZVEpmbjZ5MGw4ODlVVjdsQ2xwYWE1dWxmT1oxVzN6UU5ycXVhUUQzWUhqMGhiOFFhODBYNWtLbmdHOExTLWxLWVRRWlRKMjEwTTczX2FJU0UyVFpiOFNLQjFjUlhFMDZfRXVBWFFQUE5mU3ktVjdKb0RVcmF0VFZhU2pGU1N6WkFQ?oc=5",
-    "fonte": "Condsef",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8fd1ca4f635158a7290ee8eeb092dc336cf0aabc889cf806898a3f755e10dbcb",
+    "titulo": "O que esperar do IPCA nos próximos meses? - C6 Bank",
+    "resumo": "O que esperar do IPCA nos próximos meses? C6 Bank",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ra2cybnRjcGstRi1PU25EUXUwX0JpTEM1NVhrMG1XX2t6RENiMWtONUNCdlF5bU8ySHJaNUxKNjlDMDZOMTVtNHlaLXNqNFhzRUhDU2ZobEZpNkNy?oc=5",
+    "fonte": "C6 Bank",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5940a81922ebed6b932de3b2efad504504ee80926e0a933cde56f729db678695",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Nasdaq e S&P 500 perdem força perto de resistências; guerra e balanços pressionam - InfoMoney",
-    "resumo": "Nasdaq e S&P 500 perdem força perto de resistências; guerra e balanços pressionam InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2xBVjZGRE9UWUh1SktWTFRDOUgyQ3Z4Q3gyVlBHb1IxME1Id0FoeURzdGZfc2xvTlNnd0MtckRhNTZtSTJLWnpqcGdpZjJ2TnBQZTdOSzBrdG5DdXp6N1lyMDVtWmk2eE55cGRGZU5TQ0RkQzJRVUlpb0xzYkNjWHZYMUpuNlpFWUxRaDBDX0V2a3RVUDdZUGtpYkxoSUxidVp0eDZXTGNmVTBSZk5ockdJQm1XVDVrZXfSAb8BQVVfeXFMTlN1S0R2SHd4Y25QSWJDT3hienBySWhwcWhLamRaSExjOFNKcl9DcVVJNG94MFh3UzlaUXRNRXJ2RnpUS3JoRlNtY1poOVUtN0tKVnNrVlVBTENhNVUxX0hOUTFNZVd6WnpHdVh2bHc0ZVc2MEVnOFROcVk1WWY3Y1BMaENuWU1PeDNLZTlXLThaNjJBXzN6XzVUVjUxMDdwdjljY1pvOHgzNDlENkFrOEVmUjhaeTNjR0IxMURtelk?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "bd978638438366878da38d060b9c7c0db83d5d899523a57b044f925f3aa901d5",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
