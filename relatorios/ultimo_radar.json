@@ -1,48 +1,18 @@
 [
   {
-    "titulo": "Juíza afasta cumulação de Selic e juros em cédula de crédito bancário - Migalhas",
-    "resumo": "Juíza afasta cumulação de Selic e juros em cédula de crédito bancário Migalhas",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGw5UHBEWTFpdDk3N0piS3M3bUpZUGFnbllLMlBYSk1YMTRINVdUOUZLX2JCaHhTZnRPUWgyYWdOUkxvVVRIX0hpb1RqbUxOX2RTRHVDU0J1bFlfSTBZZnYtRjYyVm92czZfNFdSVEhfdDdaR1Q0bVNqTkNaclJ3T2ZRYndOQnVUWGlaRzU0b3lYLW9CSnBENV9xYVZMWUZhOE50NXI2M2lnYVZVQS0yYi1R?oc=5",
-    "fonte": "Migalhas",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "96379286dbf8477a0a5da99fa592c532a7edd0edc91571d9350b364ef8c0e962",
+    "titulo": "Banco Central avalia mudanças no Pix: o que pode mudar - Associação Comercial e Industrial de Araçatuba",
+    "resumo": "Banco Central avalia mudanças no Pix: o que pode mudar Associação Comercial e Industrial de Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0U01pOWtSMUpTel9pNEdRSkFOU2s0LUs5XzRXSFdQYmhGQ2h4VWNkTERJSXdGXzFzb0M1bDBRYUp6ems3LUZJMmVlcWpFOFlHbGVsODBRRlNHamtHT2lCY3hua1dLNjg?oc=5",
+    "fonte": "Associação Comercial e Industrial de Araçatuba",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7ae122aea20a52c3021d8c2f5433d1134db31a1bb4706ef3096259fe95bcc96e",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "TAG Investimentos defende títulos atrelados ao IPCA como proteção ao patrimônio - brazileconomy.com.br",
-    "resumo": "TAG Investimentos defende títulos atrelados ao IPCA como proteção ao patrimônio brazileconomy.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXpvVTVDM2c4SEdTTnNGeXVUaE9RR1Nmd3RmdXZtM01zRVFaZWxMZ2paUTZpTGhmMnIwR2NPY2J5eGg4YlcxSzM4OWVpZ18wTGFPaFpVbmRiclVyWkxoR19jeFV1Sk1xQVFTZFJKUElCT3dyUDk5ckgyem5sQ2l5N0MxTkhQQzM0WjA1cm45LThMbkNFXzNkdGlLREVqSDh6d1VIRHhTeWlqOEhYZTV1bFducnRIaVh3UVBtRjJMSkpDU25W?oc=5",
-    "fonte": "brazileconomy.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8520f70a5b62c764f5dd9b456d96e1d582637daae6263aa2b2aedd89e75db9a3",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
