@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa sobe e dólar cai para R$ 5,078 com inflação dos EUA - Poder360",
-    "resumo": "Ibovespa sobe e dólar cai para R$ 5,078 com inflação dos EUA Poder360",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjNMRjNDc0ktRWdDaWU4cWlFOFRiRFFBMFVlU2FjTVhiN3JVcFE5UnpRYkpRM1BNUGlQd3ViY01Fb1g1a3VHTVFYZWNEMWJhNFZfb2drREcwMWpLQURoTk9EZkdfdmtuOFJLbUpZSGNfRDlRd2NRQ0lfb05iZGpmeWRjSjRJWHh5bjA5LUhKMEthWUUzbnE2bmwzWFJ1d0dvZ1lVdg?oc=5",
-    "fonte": "Poder360",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3b062b68f126825407f67521160949febdf5ed588053d9470c1b75a069cb2568",
+    "titulo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos - TradingView",
+    "resumo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0cXZROF9YNGRnc3VjaVVwT2p3a0N1SDR3cVdMYlc0UmJwTFZ0UmVaUzJaejRkRmpjTy16aWg1VExtT3JmWU1zM3BFWlB3SnNYWnpfRXRYT0p3MlVnMVRPaU45VmUxRHlJSGE4RnZzaG1MektXUzI0?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "9bde05535938f710667f1162e82c8d26d6889ddc4906c4dcdf0e534a02feedda",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -16,23 +16,22 @@
       "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Economia em Destaque: IPCA abaixo do esperado reduz juros futuros - XP Investimentos",
-    "resumo": "Economia em Destaque: IPCA abaixo do esperado reduz juros futuros XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbE1vSjUxWGNGY2RBamJONFl1XzN4M0JJNWRaQkhXMWYzT3I0RlNzUUMzWmFiZzJKQWdyNzVsTExGRURJb29mNm42MGlHd3I4LU1OY3dqN083MmhFSlpmaTRnSUdHbW41T0NpX2Y5TTNXSzBoOWh2TzRFSTEwVVNZWVR4WVptcW5fUGdfM0t4dTdPTFVrUEFzR0syTFV3WkJKUllyZDJB?oc=5",
-    "fonte": "XP Investimentos",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4b599be87227183bf3d63be9c8f0b3d8a55ff3c61c19c96d9869696d02886bfd",
+    "titulo": "Cenário sem cortes da Selic ainda é extremo, avalia gerente do Daycoval - CNN Brasil",
+    "resumo": "Cenário sem cortes da Selic ainda é extremo, avalia gerente do Daycoval CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMFVIZ0FubnRDZHVLYk45eWRjQ1dRVHFGTUJ1RDNtNWxSallUWUMwWjZZY3hSMFlYYjFsQVNNcjdMNjMxT3JEYkhLbE0wRTd6d3hfZmdYZG4xbTlJU1ktN3hmMGItdEtzbnBwOW5rd01Xd1RjdElQTzZ5T0EtQXZPbi1QVy1mM3BJbllJRkV3SGZodzh2Z0o0OUx1aTlVTENaekQtY0x2T0RpN0wwaWJxMEFHbzRaenNDemJ0RjdhZlc?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "de15376bfd2d491733b954a8ca16befd4b1a9b4a3ed60adbfe8b0f14ad82e8e1",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -53,71 +52,66 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "O S&P 500 e o Nasdaq fecharam em alta após dados de inflação moderados e resultados sólidos dos bancos. - TradingView",
-    "resumo": "O S&P 500 e o Nasdaq fecharam em alta após dados de inflação moderados e resultados sólidos dos bancos. TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWDlYaWJoWTFTZG5JcDZldFVkVy1HemxkODRGZS1acWVvTWpUd1BhYTVfX1JQM2tGQ2RkdEVQWUJ0VWtGVWhtNWR1OFJkN0pNOUwtenBzS0hoX3dXVllvbXRoNEhYWm4yUFhGNkk4Z0Z5OHVhTmZR?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "2e3c302c5ddce2121c8502920e07e06ead2b7a274d86515d56c5342c6257e1d7",
+    "titulo": "Ibovespa sobe com alívio nos EUA e dólar cai abaixo de R$ 5,10 - suno.com.br",
+    "resumo": "Ibovespa sobe com alívio nos EUA e dólar cai abaixo de R$ 5,10 suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aY2F4MXFTYVRHdG0tbkc3WHhBc0hIemxtanBjeVM3akdnMHJ5WlB5V3FWZi1rRnNYV1lsMmhrYUFMbmtpNEdFWkwtTGhlVGFxV1ZYY19MUkYwTDlsNS1EUXNONTlJX3R5eTV6dnZWUE5iMC1ja1Y4NXJsclJyZ9IBgwFBVV95cUxPQ0JtYTNJVmViNkt0bE1TSUk3Ri1kTjhLby1HR0pFQlBIZGFIVGdYSXB2UnR1YXhfZzlrLTM4QUtOWU1Zd2xxLWVmcklRZkxxMlM2OGc4SWxOeXMtVHdrV3VoYTVlR1V4bUNnUkRZVzcxTEJfLU5LS2JkOFhMZXZOaGtuTQ?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7c9cad6ae33146da565f03bd89da1f895a91e961106e241c9cc1b20cc2bde5ab",
     "ativos": [
       "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Fechamento EUA: Dow, Nasdaq e S&P sobem com recuo da inflação e balanços bancários; IBM desabou e petróleo subiu - ADVFN",
-    "resumo": "Fechamento EUA: Dow, Nasdaq e S&P sobem com recuo da inflação e balanços bancários; IBM desabou e petróleo subiu ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzNnTUU0Q3Z5Tzh5RzV0eDdZc25xS3Rna3FqY19FY281aEozb2ltZHROWWxDTHo3dWRMeVVVNXUxcDJVYmE4UVlwSE1QWlNQNHZBRVQ2TDRHNGQxdklXb2RBN3BPdzAzR2lwY3oyVjJ1dXFiY2JiLWlvVWRBMFJ2VE1NVHFpNUNtak9HTHlTaWVYTzhRa0NBS1NEZnhkRldhMHFUaWp1Yko?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "fc3e370db428940ace39923aa82858c2baf4067873224b6705354aaae4e5336e",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Wall Street tem alta após inflação abaixo do esperado reduzir apostas de elevação nos juros pelo Fed - Money Times",
-    "resumo": "Wall Street tem alta após inflação abaixo do esperado reduzir apostas de elevação nos juros pelo Fed Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aNnhCU3dzQV8wMUctaVNqWGdvMkJMc0V2UlNmQ3R3U254UlZKNDFVQmRaOHk1RHFWZnhHTTBPc2F2Wk9sV000M1hpZ2V1bFBnTWcydWw3dE1ib0phYVdxZlJMWTJUQQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "90d755d5dc3ff6e7ea3fa2bcb8a4d8fa999bb00d109e89f24a105c724e34e85a",
+    "titulo": "Ibovespa fecha em alta de 0,5% após dado de preço nos EUA referendar apetite a risco - InfoMoney",
+    "resumo": "Ibovespa fecha em alta de 0,5% após dado de preço nos EUA referendar apetite a risco InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemdidHlNQ1dwSzNfcjcwQmt0OWVmSm5scjh1eE93c1dKQldJUlA0emRLcHYwQ2tXMU9GeE9WX01WVnlNMUF6SWEydU9hWkQ1SF9ReGJ5b2VqLTM0aVBLR3VfQm83cTVVTFZnZXZYcVFTb29veHFlck9uZ0ROVXFJQWpXZ2IxdUNlYjdtWVRVc1UxdXpJWnlEQlpUbDVQM3FXdjNFaGp0NTBpeXF3RmE1Q0pScWxYbzROWkRyVDJn0gHDAUFVX3lxTE1raTVDekw1Z1pQRndkUl9zMnBMVG9yTXcxMXM1TGI3VnU5ZEhZS0k2MjNBLU80WUJiUEVYTDAxbk1sYWxFWl95ZFZMR05pMHVxZ2FiTElEcHJwa01lRGN0eXc5VVdvWERsbnBYY2N1a0Nka2xUNmVWQjFVYVo3d183T0ExWEtnbEt0UWFQMGNadDB5NU12bm43bjZQb1Jub0IyT21VcWptV1RRQ1ZhVFZ3LWh2aTBBY0tTZ0VaQTFNYjhRUQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "96d18f3d00ad30657cb5623ef2a4dd9006197f98e7edea396db1767cad3a9c08",
     "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Brasília Hoje: Governo do DF discute com Banco Central evolução do acordo para socorrer BRB - Folha de S.Paulo",
+    "resumo": "Brasília Hoje: Governo do DF discute com Banco Central evolução do acordo para socorrer BRB Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0NpYUpLTkFtS0hxUHozZXBKVE1VTTJPMi10dmVJeng4a1JreHVlaWRCaEx2RU9tOHpuR0Z6amZYN0pzSWFPb2puZ0NKejJJbFZIZ2hpMDFqS3BKMVhQNnhiX1FVY1RTNTEyLXRYX2s5SVJIUVFQSW40X1d4N3FZUmVZMHNHeEEtVXhkU1lMRzE1azY1RFFZR3RnY1I1MlhMdVpYSGJub0ZOZ3pzRkNfaWRrd3VaQ0tIelZMSU85cUtCNHJWcHV3c3dfYjBJdm1vSE15T0J4bw?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3d734367188f3a11ec7fd445406fb547179c2ab68e15a49b233743b6a93b8122",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
