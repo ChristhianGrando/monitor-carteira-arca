@@ -1,20 +1,75 @@
 [
   {
-    "titulo": "O S&P 500 e o Nasdaq sobem com dados de inflação fracos e resultados bancários que impulsionam o otimismo. - TradingView",
-    "resumo": "O S&P 500 e o Nasdaq sobem com dados de inflação fracos e resultados bancários que impulsionam o otimismo. TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TdWxkMG9vQ0xPS0laYXVDVDdZNUlrVk9sTnA4U19lbDQ5YllCUTFDQnBlNWpaLUZ2cl9wUHZiNWxDUE9MTmoxMXdkRm1lSWVxR1JDQnp0N2p1cWZPZkI4WGxkS3Z1TXRJQ0tEbEZjMTl5QXlXMVJn?oc=5",
+    "titulo": "Dólar cai mais de 1% após inflação mais fraca nos EUA; Ibovespa sobe - CNN Brasil",
+    "resumo": "Dólar cai mais de 1% após inflação mais fraca nos EUA; Ibovespa sobe CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDBSdTdjQ091Rm12SzRQeVJVVkloWDRWSHlES2ZucjhPQVZaY0ljeDJwUkYwU25QbU5Lb3VfSzQ5VXdoS1FGbEkwR3RESW9lT1p6amJyUWtweE9Dd3ZseU5ISjZ4MjNVWlRPQld2SlV5dHBZT1k2SGJPZWlOXzNSZjJQY0d0V3U2MzVVMGxmT1Rpa25MMjZlVmdn?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "af9f4dac222f6ff8507039177cf18c3fbc885dfe66c93cbb000b6181355d017f",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje sobe aos 176 mil pontos com inflação nos EUA; geopolítica segue no radar - Estadão",
+    "resumo": "Ibovespa hoje sobe aos 176 mil pontos com inflação nos EUA; geopolítica segue no radar Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdjUwT2tYazRlZmZUNnhUREQ2anV2UTlQNXI4cWFHNEk0T1d6MnRoSXBQb05abWVRaDl3ZFJPN0d3eG45SHpIOHl6WHFMcktXWEtzcmdweGdxWEQ1UjRkbUZfd1JKalJxZWVZUWZPdHVlY1VLWmZMaTYtbDZvWXI5dGJsd1RDWXJ6OG1LZ1c5QXZVTWxubDZJcl9jTUR3NThZRHptSFdVS0E1bXlKY3dURG1GQm1yazZCZnRJX3E1X1pVaEt5WlROcDhsNk90ZDU5Y3hwVXc4QWlUTHQzLWswddIB5gFBVV95cUxPVzIyb3lmaVBEdzhYVVVib2V5NmJyVDdYZzVqTmQ3OWlXMGxjemZuRGx4czkyQkptdnpYcmdUTnZ5LUxWV1RIV0loOE9VUFZVM1pERHNidzhXM0ZBNWZzZnVQZzE3Y0k3dGt3NVdkb0FiUVI0Qk4weEJiUVprelZuNm1vTmdEQkk5UkRFc3p1Q2MtVlU1U1ZPNUtOZWhUdGVvOXV1UmJRQS10VE5WcExyak9yRG1ScmVQeVdRTHM5Z2dSU2ZvLWxMU0FWeFFvZWQza2w3bnRUTndQYUNiNGZpUk5BRjNudw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "40ca9f672fac5452bf7e35840b67ed5fb047d7c316cee385bd294c00e2d5a06e",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "S&P 500 e Nasdaq sobem com dados de inflação moderados e resultados sólidos dos bancos. - TradingView",
+    "resumo": "S&P 500 e Nasdaq sobem com dados de inflação moderados e resultados sólidos dos bancos. TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9seUxBUGczOS1QMmM2SmRfUml0amgwb1hFS1RxdzhPTTNMVnJ1dDRyeHVNemJPQ0RfSGU0SERIc1ZoWGtTSm1seERpUjd1SGNrYjRJRVZGUTBWRUViaEQ3ejVZTjlQNEV4aGxVdW1ldXMycFo4ZkxR?oc=5",
     "fonte": "TradingView",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "7db1c3793f469d0ace767b5fc2a0357f9177571337acef5c5a5ba050982a2908",
+    "chave": "17b304174f8289d7c0bda56fd763af0ecd9e062b1b11112f5a4a17b26250cc6e",
     "ativos": [
+      "IBOB11",
       "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -24,80 +79,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Presidente do Fed Defende Independência do Banco Central e Resiste À Pressão de Trump - Forbes Brasil",
-    "resumo": "Presidente do Fed Defende Independência do Banco Central e Resiste À Pressão de Trump Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkZEVlo5TnRCYnZ5UHJEWlNsbFpKRVZQMkc4TjZzbl92b3dLQ0FrVVNzQUFIMW9QenNyWFU4YVJ2WTdYdExKVFpDUEJFeHQ2OEZuX2dIMkZnNjZIWWdlTXpnOVZjNW41cEgwU2dXMjJMMVV3WUVTeWZKdGFWLWJ4R1hRYmNUZndUQmVidUYyQTZkY1piSnQ0RGVxcnpBdTgzUDJXZEd6ajQ5VkJfaXlWeGJXVTA5WHpPNE5GS09XNGJrQWxwMzN2RQ?oc=5",
-    "fonte": "Forbes Brasil",
+    "titulo": "Celina se reúne com presidente do Banco Central para tratar de BRB - Correio Braziliense",
+    "resumo": "Celina se reúne com presidente do Banco Central para tratar de BRB Correio Braziliense",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmZXMEZaMXc3cFRmN1A5c0hZQmFKSXUzNTM4VXpCdnprSTU4V1lvMVBPenlqUTlrUFZGY1NLTExrR3VQSzljenhIRXFGVXFmdXNIellmdEFqcHFkYmdic2NkWXpuSWgwaTNWeUljRjZ3VUt0VGQ5SG93V3FRcGlwOTlNVHAtazh4LU9DMmFjU3FXVUJxd280ZFFMLXVxR0tOT3QzZFpHWHZPa2JUdW1ycU85MUt3YlJXVWxkY0dtdnU3LWZDcEFkbkM2R3Y5UjdFZGfSAdcBQVVfeXFMT2Y3RUx0U1M3VnZmX1h3djROWl81aGg0dU9aZnFzZ01Td2d3NjBWVUJ1WXIwRzVyQXFGb05yRmZQMGhBZWk1VEUzMWJUU2cxWDZKczdTajgwdlJGcUlzSktpZDcxSHZnTVBMQW9ybC01OFBMd2k1SnVFWDU3eHRCd002ZkVnTlVaaE91RnZiai1taTd6amN3ZVRpalhzbXlXem9uLWJnZ1R3WmVGcnhkTUp0ME8tejNjRExpcXFndU5jOF9SbWQ5MHNzUmExMlNwTU9VdGZnX00?oc=5",
+    "fonte": "Correio Braziliense",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8482cbc91d24a767028e71e91b7482e0f9b3bd69fc21dd0114ce31f3a3ba1cb0",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Focus reduz projeção da inflação para 5,16% em 2026 e mantém juros em 14% - MundoCoop",
-    "resumo": "Focus reduz projeção da inflação para 5,16% em 2026 e mantém juros em 14% MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlGaGJrOXR2bEltNGt5TWZrbVE1VG1oY192Y1NTcW52R1h5cFY3WE9wYmIxQ3ZoQVNibkxKRzdrNTE5TWdQUC1CNXBvcVA4aTdMTG5vTEZVaE05TGVyblRaSlhtTGp1VGY2a2tpRDdCcTBnM2x0TlQ0OWJTejhRU01PZTVTQ3dxeTZVU1JTaG9ObjlLRFdXb1Z1ejVFamhoOWhxeDUxVnFUVjlXZ3RVODExUU4?oc=5",
-    "fonte": "MundoCoop",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "0afe2c17ce8f8af7ed3f05f09b1686f4306604ad7855372bd19c7dd40534c187",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "'Dinheiro esquecido': Banco Central atualiza balanço e diz que R$ 6,2 bilhões podem ser resgatados - G1",
-    "resumo": "'Dinheiro esquecido': Banco Central atualiza balanço e diz que R$ 6,2 bilhões podem ser resgatados G1",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS2RIcDRWX3h5UTJDU2oxSjAxNFlmek1VOU82LWxnSmg3NHI4UkJvcDREZUN0WFN6a0dXVEdWb3hZY0FnXzNfRDE5S21ocUJYOXByQUJLQ2w5dmtpd3RHejl0SGRBcTM2Y1k5czViNFc4UzRyZFRpNEo1czdJQnBjSHhtRm5NZ0pUWWpmVTNlY1FqeFBFNHV1NER1QS01X2U1ZEdoSmExZDI5WWhoZ2ZPdERmTFZnSkozaTZ4MFNnUVJ4M1ZBZ2FxZ2ZnbDh0R2dzc1BuVHBaMjNJd19HV2ZmdVpB0gHwAUFVX3lxTE02ZncwNjFPQU9vNm40Rk5xRGZhdVk4eGZhdzdpQUZjaHFtV2ZvS0Y1MjNYVkdxdWFwR2tXcDBOTWZFN3hwaUZyNWZuMVpXbklGV2thSTEzX2x0WVJHQjVtVVk2UEJGT24zMEJwdjJQQ3RnQlRzSERCbGN5ZVctOFIyNnlsV05jdW96RzFGNWxXMTV5UmlBTWdIc2lScDU3UGYwcnFVVlIxemV2S0RlSlVUS3pjeko2Q09uRHJKX3RZMENyemljZmVxemNBVzA5SURfdWxPMTRpU3BwYjVMTVl2NXlEOGpReGRnS2NJTnJMcw?oc=5",
-    "fonte": "G1",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4bac57a1438c912a13f1209e7392d666ce1b570d617a09a50fcd3ee2d08761ea",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "O Banco Central Europeu (BCE) nomeia 36 fornecedores para o projeto-piloto do euro digital - ADVFN",
-    "resumo": "O Banco Central Europeu (BCE) nomeia 36 fornecedores para o projeto-piloto do euro digital ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTVh6dGFteFhHbk5QQzJBak5XaU9NUWQ2RDI1blplQUZDbEUzdjZxQUpiYlExNjJCRVl0TEpUbWZUaVF5bHlaczN1VHBEeVNTZmEtYWlBaUJjcGpvV2F0RzBtSGxGMlhfUkRyUHRZSk1uWVQ4NUZfZTlETHBFaU41NkhCWmVMTEd4ck95bmZEVjRNYUtTdF9WNnctZUUyV3NRWTFjN3BlT1RCa3VJbWQxZnNEY3NBZVoxV2JTZmZyUmN1dw?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "58a5e5b14953d09e0877ebacb7021030e0fc53d165f88f098549915473d835b4",
+    "chave": "eb79a18b4d223b88293bc32966dea6961493c9399a6f05dacca5bde1cb42d9d9",
     "ativos": [
       "CDB 100% CDI"
     ],
