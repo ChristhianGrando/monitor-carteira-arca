@@ -1,20 +1,20 @@
 [
   {
-    "titulo": "Há espaço para cortar a Selic, não para baixar a guarda - Seu Dinheiro",
-    "resumo": "Há espaço para cortar a Selic, não para baixar a guarda Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjFEMjdJSFpKajc0SWxsMWJ6bnlsMGZFU2RXai11TzJZUmNvWW0wbzVkWjc2VW9nSnBNLXRobFZHZ3c1QTBtYjk2VnhVM1ZUUzNjQm5zODRuSlhKR28wS3E1OE8zUjIyRkdnc1NCbV90Q3Z4TGJhQnVXelRqSUt0MlI1bU9SaU9feHlIelNPd2xVcVJWVjZoNUdKY0RUNG1oZnUyVlZNUQ?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "93f2a139ae86bb8ffc4712d85201f1c61fe607c896065aaadfb5ca3b65805c8c",
+    "titulo": "S&P 500 e Nasdaq abrem em alta com foco em inflação e resultados de bancos - UOL Economia",
+    "resumo": "S&P 500 e Nasdaq abrem em alta com foco em inflação e resultados de bancos UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb19NdmtQM2ZBNjhxcExLcjIzeUcyNVR6RjlrRFVjMzd6bXlORmM0MjNVZnNjNEJGeEtzeTQxcm01b29OQWRXcHh3M1cycEpJWVNKSVVUOUl6eFFpQTc5MmNJOHJfckVnQm9GZlF6c0pBM0YzMnFKbG9pVnVHTEdfbWFwaXhXTGhjejhhd2RLNk5ld0xUYUV0dGcwc19qbDI0Wk5oQ01WQWpiUlpIRDduS19pVncxNF9VU1g4VGVVeFFIUThKVDJPbTFfenF1Zw?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "a5e2f0044537c82cfa7a8bdd5b226c5bccdca0866e483fca428ebeb36c5c0687",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
     "score": 12,
     "motivos": [
@@ -26,19 +26,95 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Putin diz que corte na taxa do banco central seria processo natural - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Putin diz que corte na taxa do banco central seria processo natural Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOXplM1hSbDB5aDBzYkVYbkg5VHFfaUx0Y1VMZG80cnVlWnlBNkZIcGJEamtJaVViSXNFWjVON3A3ckJaV04xeF9ZS1RsMlBkdUlDay1NXzl5dC0yM2R0dWVkbFRwejdMeEhqSGxNbjkwbm9pcVZGcGRRMTk4RWVxWTdFS2F6MTFUcW1WNEU5VDdJMXd0QnVXbGc4bFVfcEZwMzE2c0xwS2JmMlY0aG05UExrN2FhRzdsWXhFdFJHX0U?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5a106b36d4c9c5656145994c32f0869b64cd8568d2a33ec085898a79756b0cb8",
+    "titulo": "S&P 500 e Nasdaq abrem em alta com foco em inflação e resultados de bancos - TradingView",
+    "resumo": "S&P 500 e Nasdaq abrem em alta com foco em inflação e resultados de bancos TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NY25leEhOVnFGRFNUQ3Y3Ym9QaWIwYVlObzN1TFlheDJQWjlLdHY4TXRjWmhiY01ia0hPQ0k0TU1peEx4MHI5cEEzX0FoNmdiTzhpN1Z1OFZuMXNJeHRKV1V0LVZYVjBNeXVjVXp5aURkamVPd2Nv?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "7f4b853f8fe57d071fe9f01ff7e80845075247458d61f4df454be5019262717f",
     "ativos": [
+      "IBOB11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Abertura EUA: IBM desaba e limita alta do Dow Jones; Nasdaq e S&P sobem com inflação abaixo do esperado - ADVFN",
+    "resumo": "Abertura EUA: IBM desaba e limita alta do Dow Jones; Nasdaq e S&P sobem com inflação abaixo do esperado ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW5KVmlVZmthd2l2VWh4c0pHYi1jWXpDZ3hpMldxWlRtOXEwbklKejNWUHhQVXN3bXMtZzVJWmNZbHR4UDJVTjRsdlg2SXo4V21QVXNOb3ZKWkl1d211a2NWMjhFZ05TMEtWejFNbl90MlRHRklEdU50UDRtcTh0ajB3amtzX05OamsyOXdjQXNBcUlrclFCS3BYLVh5aEJYcnpKbkxvb3FPUQ?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "fa1a930194372f4d7aa8da17b9406dc42de96a0c6bdc0666852ee6ec8790f410",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Wall Street opera sem direção única após inflação abaixo do esperado; mercado eleva aposta em manutenção dos juros pelo Fed - Money Times",
+    "resumo": "Wall Street opera sem direção única após inflação abaixo do esperado; mercado eleva aposta em manutenção dos juros pelo Fed Money Times",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpYUJFNngzOHJzYVNuS2owNC03YWhhRG5zOEgzN1dGNElHWWZFUlczazNHYm01bzhGM3BPaV9IeWpPbkZRdHJKXzREeEFMM1hNTFc0UVlOVEJ1UTA5dzlScURWbzZHdkRQeVR3b09qbktPZw?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "2576161657a58031bd46c83c5704e90766133deb2abc6e7ffd02f6cb18f0b0f0",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central da Índia propõe flexibilizar regras de participação em bancos - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Banco central da Índia propõe flexibilizar regras de participação em bancos Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3NWQW1aU010SEkzNUxueEUtak53T0VBZFVrX1ZtTzFiZm9ONnlKdF9WSG42ZkVneE11SVlUaEJEandkMUJQVGlxblN3WGdRU05kdFlzZ3JuWF9iYjVkOVp6TzVYNUktRHNvXzBHRGVoa1ZSdFR5RXg0aDlHMlhQQ3p0dXhSdVh3SGRaOEtPOEZSdDUyNDZNT2djWF83ODQ5aENpbVNnX1hvU3I0TGE1NkFsemJmU3Z0Nm9yNGdxT2xPdmU0WGIxeElVNWs2MVdOc3c?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d4daeca0a20d03fd421bd474bfe229c21a3ed806ec45337f6921f9236806d21e",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
