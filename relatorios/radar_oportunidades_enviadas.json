@@ -10663,5 +10663,39 @@
     "classes": [
       "Caixa / Reserva"
     ]
+  },
+  {
+    "data_envio": "2026-07-14 06:24:55",
+    "chave": "40c7c8272ac5c5e0ce5c40c3d918b1152e6c6b8bf7cd17cb8a2922e5c1ae28b4",
+    "titulo": "Relatório Focus 2026: inflação recua e Selic permanece em 14% - Associação Comercial e Industrial de Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CN1RRX2k2eDY2bENCYjVreEg3M0tNZWY1eDVyWTVmbGVFb2x5T2hPWmdzUHNoYkRTbDN3UFNKRXdnWEE5cWlKTHNOLXlienh3NUxWRkZSdWZlT0U4SC1nR0l2MmxyNHdiSEE?oc=5",
+    "fonte": "Associação Comercial e Industrial de Araçatuba",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-07-14 06:24:55",
+    "chave": "64afdd9c1305011aac801c3cbb0c871c1b37543fc08c6e67de3d3fe4201f162b",
+    "titulo": "A ilusão da inflação baixa - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aa2VUQ01ycmVnczdmMWVuc3RIUGlRZnNjN0lCQkFndDRPZFVFTTYtVnFuNGxsaE02MUdLREFYODYwVTRIb3R1WTNyaG50V1RLN3h2aHB1YmFIQTExQUluSFNVMWhEdzR6bERCcnZBTQ?oc=5",
+    "fonte": "Estadão",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
   }
 ]
