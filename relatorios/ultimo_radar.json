@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos - TradingView",
-    "resumo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0cXZROF9YNGRnc3VjaVVwT2p3a0N1SDR3cVdMYlc0UmJwTFZ0UmVaUzJaejRkRmpjTy16aWg1VExtT3JmWU1zM3BFWlB3SnNYWnpfRXRYT0p3MlVnMVRPaU45VmUxRHlJSGE4RnZzaG1MektXUzI0?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "9bde05535938f710667f1162e82c8d26d6889ddc4906c4dcdf0e534a02feedda",
+    "titulo": "Dólar cai 1% e Ibovespa sobe com dados de inflação abaixo do esperado nos EUA - Bloomberg Línea Brasil",
+    "resumo": "Dólar cai 1% e Ibovespa sobe com dados de inflação abaixo do esperado nos EUA Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZW5ldHVsa25CRGI5NkJjRGk0RGNTQlFsdkJMXzNJd0ZhODd5cGRfcjhuODhDcmRZc0hVa25LaHRzZUNOSHJ6QVVhMUhISWJiSkFqZ0JUMGJIOWpiZDZPV2c4eDhWUl9IYTgySlFYR21ESm5YNVVjSmEtMGd1QVZQblJsRHRIMXFtOHVwOFFMdm5KbzhLd3ZUNWN0ZGdiRkExOGEweG02SVluS0RwVm1OZy0yQ0ZGS0JJMGd6MdIB0AFBVV95cUxOVGNnMGl1d1Mwd2dlZUd0dml1ZU1IZFhrTmZCN3duaXNYOFY3Z2VucjZJclR6UGsxYTN2YjVFU1lFZm54bUVzMTRiVURrWnFwVE5mQXBxUi0wWEphZGpfN08xNkFQb2ZmMW41Ti0xbGJua2Y0emZkT1lTU2c4YTZYckR3UGFIWjVDRnlFS0FfTlFEdVNZckRpWjF0QXduaW1WeEZJWXN2Q2tDT0tGU095VHpLNi12U3pSQ3ROYXJ0VThwOTdEU0FqZVhDWHo1aVNO?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "82251e9fff081b0ecafb0a97f190835dc7f6edb2ccf5e266566b5e3db4eaf781",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -16,48 +16,23 @@
       "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Cenário sem cortes da Selic ainda é extremo, avalia gerente do Daycoval - CNN Brasil",
-    "resumo": "Cenário sem cortes da Selic ainda é extremo, avalia gerente do Daycoval CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMFVIZ0FubnRDZHVLYk45eWRjQ1dRVHFGTUJ1RDNtNWxSallUWUMwWjZZY3hSMFlYYjFsQVNNcjdMNjMxT3JEYkhLbE0wRTd6d3hfZmdYZG4xbTlJU1ktN3hmMGItdEtzbnBwOW5rd01Xd1RjdElQTzZ5T0EtQXZPbi1QVy1mM3BJbllJRkV3SGZodzh2Z0o0OUx1aTlVTENaekQtY0x2T0RpN0wwaWJxMEFHbzRaenNDemJ0RjdhZlc?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "de15376bfd2d491733b954a8ca16befd4b1a9b4a3ed60adbfe8b0f14ad82e8e1",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa sobe com alívio nos EUA e dólar cai abaixo de R$ 5,10 - suno.com.br",
-    "resumo": "Ibovespa sobe com alívio nos EUA e dólar cai abaixo de R$ 5,10 suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aY2F4MXFTYVRHdG0tbkc3WHhBc0hIemxtanBjeVM3akdnMHJ5WlB5V3FWZi1rRnNYV1lsMmhrYUFMbmtpNEdFWkwtTGhlVGFxV1ZYY19MUkYwTDlsNS1EUXNONTlJX3R5eTV6dnZWUE5iMC1ja1Y4NXJsclJyZ9IBgwFBVV95cUxPQ0JtYTNJVmViNkt0bE1TSUk3Ri1kTjhLby1HR0pFQlBIZGFIVGdYSXB2UnR1YXhfZzlrLTM4QUtOWU1Zd2xxLWVmcklRZkxxMlM2OGc4SWxOeXMtVHdrV3VoYTVlR1V4bUNnUkRZVzcxTEJfLU5LS2JkOFhMZXZOaGtuTQ?oc=5",
-    "fonte": "suno.com.br",
+    "titulo": "Dólar cai abaixo de R$5,10 e Ibovespa recua mais de 1% - ISTOÉ DINHEIRO",
+    "resumo": "Dólar cai abaixo de R$5,10 e Ibovespa recua mais de 1% ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFRfdnJWZUpCalAyM2NxWC1kdC1vdksxWHJCcWk2VFVoRHJ1QU15N1FqT2RTQkhITmRGYjkzWEduZmFkY0Z4LUszc01OMVlIckZPaHFjRVZlRTVWUU9Kek0xRjRPZ3VLOEpLXzlUSWZDZlM1cHZob2RGTTlpUExLZnNDV25GV2s?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7c9cad6ae33146da565f03bd89da1f895a91e961106e241c9cc1b20cc2bde5ab",
+    "chave": "cf86474f30a18ff211f99488e17e1c4f8b30336d386b072445af6d0cfee9bce1",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -76,35 +51,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa fecha em alta de 0,5% após dado de preço nos EUA referendar apetite a risco - InfoMoney",
-    "resumo": "Ibovespa fecha em alta de 0,5% após dado de preço nos EUA referendar apetite a risco InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemdidHlNQ1dwSzNfcjcwQmt0OWVmSm5scjh1eE93c1dKQldJUlA0emRLcHYwQ2tXMU9GeE9WX01WVnlNMUF6SWEydU9hWkQ1SF9ReGJ5b2VqLTM0aVBLR3VfQm83cTVVTFZnZXZYcVFTb29veHFlck9uZ0ROVXFJQWpXZ2IxdUNlYjdtWVRVc1UxdXpJWnlEQlpUbDVQM3FXdjNFaGp0NTBpeXF3RmE1Q0pScWxYbzROWkRyVDJn0gHDAUFVX3lxTE1raTVDekw1Z1pQRndkUl9zMnBMVG9yTXcxMXM1TGI3VnU5ZEhZS0k2MjNBLU80WUJiUEVYTDAxbk1sYWxFWl95ZFZMR05pMHVxZ2FiTElEcHJwa01lRGN0eXc5VVdvWERsbnBYY2N1a0Nka2xUNmVWQjFVYVo3d183T0ExWEtnbEt0UWFQMGNadDB5NU12bm43bjZQb1Jub0IyT21VcWptV1RRQ1ZhVFZ3LWh2aTBBY0tTZ0VaQTFNYjhRUQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "96d18f3d00ad30657cb5623ef2a4dd9006197f98e7edea396db1767cad3a9c08",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Brasília Hoje: Governo do DF discute com Banco Central evolução do acordo para socorrer BRB - Folha de S.Paulo",
-    "resumo": "Brasília Hoje: Governo do DF discute com Banco Central evolução do acordo para socorrer BRB Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0NpYUpLTkFtS0hxUHozZXBKVE1VTTJPMi10dmVJeng4a1JreHVlaWRCaEx2RU9tOHpuR0Z6amZYN0pzSWFPb2puZ0NKejJJbFZIZ2hpMDFqS3BKMVhQNnhiX1FVY1RTNTEyLXRYX2s5SVJIUVFQSW40X1d4N3FZUmVZMHNHeEEtVXhkU1lMRzE1azY1RFFZR3RnY1I1MlhMdVpYSGJub0ZOZ3pzRkNfaWRrd3VaQ0tIelZMSU85cUtCNHJWcHV3c3dfYjBJdm1vSE15T0J4bw?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Dinheiro esquecido: Banco Central diz que ainda há R$ 6,2 bilhões para resgate - ICL Notícias",
+    "resumo": "Dinheiro esquecido: Banco Central diz que ainda há R$ 6,2 bilhões para resgate ICL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0dCZFQxOE1ncExsMV9mQk0wdmZBMnJxV3J5d3IxRVo2clRNTG9rNXlHOHhlWGxqRGlRcWwtWWxTUnNtWXBpWHlKSlJOUmRmOTFMY3BEWW5VU2I3eVBNd2d6TzJVdXN6N3hPQU5sZTREQXlVSkVaSW1oSEtGR3RzZA?oc=5",
+    "fonte": "ICL Notícias",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3d734367188f3a11ec7fd445406fb547179c2ab68e15a49b233743b6a93b8122",
+    "chave": "dd3286d44a194a62cd81e62050c05505f0a5d47bbb200c313c9e970dc269837f",
     "ativos": [
       "CDB 100% CDI"
     ],
