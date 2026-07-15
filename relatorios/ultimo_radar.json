@@ -1,20 +1,22 @@
 [
   {
-    "titulo": "Banco Central ainda tem R$ 6,2 bilhões em dinheiro esquecido em bancos - Paraíba Business",
-    "resumo": "Banco Central ainda tem R$ 6,2 bilhões em dinheiro esquecido em bancos Paraíba Business",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDBtVlJSQ2IyWjZEUWFGRU54dWN3azJ6NjFvaXczQlZiUVZBNExnbmdsb1k2XzA3amNuN0xyUUpscVVRUEZLMHlGUm9ua3YyUFlZZW9iSXg0R3BzVHlvSVQ1cF9oVWktak9PMlJrTnp0VGN1azFaakg5TTN3MF9FX0tBY2cxS19TY01kdFNVcm9UQnZHcHd3UllwVXJYMDBFSGc?oc=5",
-    "fonte": "Paraíba Business",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "c67a85a35b0f3b345ec889a2fa07ed7a8fbfabedec16806fb417badbc7c64a60",
+    "titulo": "'Bancões' pressionam Ibovespa em dia de pesquisa eleitoral e dado de inflação nos EUA - Exame",
+    "resumo": "'Bancões' pressionam Ibovespa em dia de pesquisa eleitoral e dado de inflação nos EUA Exame",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2VZdDczRko3TDluMWJSUjRBeWROOV9jQ0Q3S2tmTUJGMlJxSVhpUVlWb0hQWFJPWWdrT2dnU0FGYThzcmh3alpuV1FuVG5MbnVQNkJ2OFhoSU9neUIzT2FUSWhLWmRMZ1F0ZXFQMHpfcWNocjdMaFkzZ1FvZE16SG1ZenZMbzg2dlNsVng5LXpFY1cwLU9jclRfUmRweHR1cF94cFR2aVlTNDUta3pWQVFPZ0hOSll5U3c?oc=5",
+    "fonte": "Exame",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "07681be2487bdb46eadbddc31babe6c6907e616830e9acf43069f25d40225e2d",
     "ativos": [
       "IBOB11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
