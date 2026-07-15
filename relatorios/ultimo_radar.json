@@ -1,69 +1,20 @@
 [
   {
-    "titulo": "Dólar cai 1% e Ibovespa sobe com dados de inflação abaixo do esperado nos EUA - Bloomberg Línea Brasil",
-    "resumo": "Dólar cai 1% e Ibovespa sobe com dados de inflação abaixo do esperado nos EUA Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZW5ldHVsa25CRGI5NkJjRGk0RGNTQlFsdkJMXzNJd0ZhODd5cGRfcjhuODhDcmRZc0hVa25LaHRzZUNOSHJ6QVVhMUhISWJiSkFqZ0JUMGJIOWpiZDZPV2c4eDhWUl9IYTgySlFYR21ESm5YNVVjSmEtMGd1QVZQblJsRHRIMXFtOHVwOFFMdm5KbzhLd3ZUNWN0ZGdiRkExOGEweG02SVluS0RwVm1OZy0yQ0ZGS0JJMGd6MdIB0AFBVV95cUxOVGNnMGl1d1Mwd2dlZUd0dml1ZU1IZFhrTmZCN3duaXNYOFY3Z2VucjZJclR6UGsxYTN2YjVFU1lFZm54bUVzMTRiVURrWnFwVE5mQXBxUi0wWEphZGpfN08xNkFQb2ZmMW41Ti0xbGJua2Y0emZkT1lTU2c4YTZYckR3UGFIWjVDRnlFS0FfTlFEdVNZckRpWjF0QXduaW1WeEZJWXN2Q2tDT0tGU095VHpLNi12U3pSQ3ROYXJ0VThwOTdEU0FqZVhDWHo1aVNO?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Ibovespa sobe com alívio na inflação americana, de volta aos 176 mil pontos - A Redação",
+    "resumo": "Ibovespa sobe com alívio na inflação americana, de volta aos 176 mil pontos A Redação",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONUdqOGdVMm9GUDlyaVdHUWpTWEp5VFNyaER2WkgyVW1iUzBBVUlVMklIa2ZsUFBZNzdJTExHOEx2V29aNEpoSzdxSUhUR09jMUhhd01kSkxEcC1jLWNEOXc5aUlrUlZSRU9HdHk3LWpoM3UzMDZoU1hBc214T1hLa3AyeG11VmYzRXNDd2wxZjhwd09VWjBPNkxjVjVKdVlnZDI0?oc=5",
+    "fonte": "A Redação",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "82251e9fff081b0ecafb0a97f190835dc7f6edb2ccf5e266566b5e3db4eaf781",
+    "chave": "fa2426a9736d8a2e02f982a4d0386c392ae723cf4d432e4aafad967617c1cfac",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar cai abaixo de R$5,10 e Ibovespa recua mais de 1% - ISTOÉ DINHEIRO",
-    "resumo": "Dólar cai abaixo de R$5,10 e Ibovespa recua mais de 1% ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFRfdnJWZUpCalAyM2NxWC1kdC1vdksxWHJCcWk2VFVoRHJ1QU15N1FqT2RTQkhITmRGYjkzWEduZmFkY0Z4LUszc01OMVlIckZPaHFjRVZlRTVWUU9Kek0xRjRPZ3VLOEpLXzlUSWZDZlM1cHZob2RGTTlpUExLZnNDV25GV2s?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "cf86474f30a18ff211f99488e17e1c4f8b30336d386b072445af6d0cfee9bce1",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
     "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dinheiro esquecido: Banco Central diz que ainda há R$ 6,2 bilhões para resgate - ICL Notícias",
-    "resumo": "Dinheiro esquecido: Banco Central diz que ainda há R$ 6,2 bilhões para resgate ICL Notícias",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0dCZFQxOE1ncExsMV9mQk0wdmZBMnJxV3J5d3IxRVo2clRNTG9rNXlHOHhlWGxqRGlRcWwtWWxTUnNtWXBpWHlKSlJOUmRmOTFMY3BEWW5VU2I3eVBNd2d6TzJVdXN6N3hPQU5sZTREQXlVSkVaSW1oSEtGR3RzZA?oc=5",
-    "fonte": "ICL Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "dd3286d44a194a62cd81e62050c05505f0a5d47bbb200c313c9e970dc269837f",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
