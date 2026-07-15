@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "titulo": "IPCA+8% é para todo mundo? Entenda se taxa rara sozinha justifica aplicar no Tesouro - InfoMoney",
+    "resumo": "IPCA+8% é para todo mundo? Entenda se taxa rara sozinha justifica aplicar no Tesouro InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnktM2NMSFQxSkFtWGxRdFdSLUVXMmpwNWJLbG9ScGVXdkRaaVVjVFlPdy1pUXR3UFJzN2xOejlYT2FCZG1jRUROUmNRQlU2aFY0SVVlUWtJQ1Rsdy05S2tVSlJ2dGNCaS1YSzF2bE1UQUZZR0ZjOFlpUWpLTmlvdlBxN3RBQXdTRll6M2xPcW9Ld0hDTHc?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ffcb2c9ad90229a55c9a0345009d12aa4d8bd0093899e3d973053ed67db5398a",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa sobe com alívio da inflação nos EUA e tensões no Oriente Médio - trademap.com.br",
+    "resumo": "Ibovespa sobe com alívio da inflação nos EUA e tensões no Oriente Médio trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHAwUVp4WGhJOWRCOEowM0UxSFc0MEJub2hWVFZLX3ZnWWlESXh3dkZzS0w2ajFrTHMtN0JJSjhDUzNJcjhGY2NCTElzY3JGQUY2d0FDODhMakVDcXBLSkNXVm5YX08yZHE3ZVYxdHJ6akVrYW1VRmZ1bnZiakRaeDRXOGtpaGc2aU1MdFZkZ1c1SU5iQ3Njbng1QU1Pd3gwUm01dVdR?oc=5",
+    "fonte": "trademap.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b0f95556fbf27c93f35f33c7eb2b7472122d3033cd17eba6a8dc7904dbd9005f",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
