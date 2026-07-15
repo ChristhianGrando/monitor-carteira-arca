@@ -1,19 +1,51 @@
 [
   {
-    "titulo": "Aegea obtém novo registro da CVM e avança em plano de IPO - InvestNews",
-    "resumo": "Aegea obtém novo registro da CVM e avança em plano de IPO InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VS1UYWl3Z00xbWlyX2FPQTVXMVJlSjJjNVhBdk1uVkVfYW1EMUpqeU9PUE5mVS00Rk1sUXdESl9ra1lwNXVWMlRZQlc4VDdsckRCUWRoVzhwNUFiSGQxUUxuN0RNZmZldmJYZnFHY9IBdEFVX3lxTE5OcWdCRzBHTUpMV292ZW0ta1I5b2lNZVpYZ3N1cWlseTduY2RJX0d1SEZMUGU4cjJKd2d4SWdWSWFKY0JLRWplNVJPSmlkZnlhUVlaSzFwUGNSdXdrYUgtY2RPLXRXZ0oxaDktbXozXzhpTVZH?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "CVM IPO OR pedido de registro oferta pública inicial OR registro de oferta ações",
-    "chave": "64e5133911de5aac652139aeb81bfe6f1cb5d496285520cd183090ad86130b29",
+    "titulo": "SpaceX acelera cronograma de IPO e pretende listar suas ações na Nasdaq em 12 de junho, dizem fontes - TradingView",
+    "resumo": "SpaceX acelera cronograma de IPO e pretende listar suas ações na Nasdaq em 12 de junho, dizem fontes TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RVlZLX2JwMTZ4RmZ0SUtUanEwdEt4TUZ6NHlER01VNDFKQUZ1Slc2aUN5c25QaFlya19iWndmMDNtQUNQdE1OUlpVUVVDUkc3UXU5bHQxUW1IMzg2cEcyWk9tSW1yMTdUMWRPTlRUaGRHZDMyd0I4?oc=5",
+    "fonte": "TradingView",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "256df9e3ae415b5e85df9458e7a2bececc64c2b363eb6babd4da9f3eb7f5fc54",
     "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
       "tem relação direta com mercado financeiro/bolsa",
       "envolve bolsa, regulador ou mercado externo"
     ],
-    "tipo": "Novo IPO em análise",
-    "estagio": "Pedido de registro / prospecto preliminar",
-    "acao": "Acompanhar próximos passos: prospecto, faixa de preço, coordenadores e período de reserva."
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Ações da SpaceX caem abaixo do preço do IPO pela primeira vez - BPMoney",
+    "resumo": "Ações da SpaceX caem abaixo do preço do IPO pela primeira vez BPMoney",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEQ3THhoUzloU2lXUm03X1Jxd0t3THFNYUFxeHE4NmJLb0owNzVDZXRKZUNzTlNvaVJHS2FITDZ6ZXVXaFYzd0o5eF9iblVDMkpRZXljZEdxUlZ5ejBCVUxoek05OWQwYXFuM1BRMzhHM0F0blZPbWdDRmZJcmZCaHNWa1VrWFpxQVRFYzZZdWtVc1AycUFBdA?oc=5",
+    "fonte": "BPMoney",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "d3f1d872b84f3288eba8526da499484cab709a38a51e099426e1364a23a6dcae",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Anthropic agenda reuniões com investidores antes de mega IPO - InfoMoney",
+    "resumo": "Anthropic agenda reuniões com investidores antes de mega IPO InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGhuZjNYTThoSTc1RDVYR01OeGIwS1YxcjZwNE14S2s4ZTktZ2QtTC1sTWR5cGhKWFdWMzkta2RsZnJ5WFZTMjlsSG52LTI0YnZhUDcxMUVHZ2VMSXdGNmdqN0tONW9XeFlPakVSU0lzV01ZRTB0TlozaWxQT0ZIWFdLMTdsN1ZDaDgzMjBqbXhhQnJ3ZmFhNUtzay1VWTJm0gGmAUFVX3lxTFBYQjZ4SV9zWl8tUGZhLXN2NzNiMmxheWg2Sm1jdVRnMDhaWUdDaHo3M3M5Q2VwNVNnbTJiMmQ4YnJ3UjVqQml2N2hSd0ZHdDZTTnhPTzBtOGI5MVR3bGNLWHlqS1V6OEJJZkZfRG14WXlMTHI4WG5hSzM4Z0JMc1pvQ0xvVEZkSmV3WElDWks4OFVKQ1B2eks4S0N1Qi1hZjRqVlRMcnc?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "SpaceX IPO OR Starlink IPO OR empresa prepara IPO",
+    "chave": "50f0e30fdafdf357d9df071fbc5d02fcb03f6c61fa1145df11000521a2f9dc8f",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
   }
 ]
