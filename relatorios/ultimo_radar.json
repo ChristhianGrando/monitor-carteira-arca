@@ -1,35 +1,59 @@
 [
   {
-    "titulo": "Análise: Kanczuk faz o box que faltou ao Copom - Valor Econômico",
-    "resumo": "Análise: Kanczuk faz o box que faltou ao Copom Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1ZCaEloYkNqa0FwYkh5dVBQZWZ2UTJlZG81TmhtOFM0UmQzUkxpS3lGV1lwTXFiUTJXZS1pZlN2YUk1am1NQUxMQUtaV185SnBSNUtZdTRKcm1hYVZlQWdLQU8zdDNGcV9PNkdQZ081b1BKekFEemt5eDgyMzcwLTlpUDNoZGw4NGVtUzQxUHA0S2RuMTVkdDE4Wk1TaE5BUGlrblR30gG0AUFVX3lxTFA3aHpMN2NtbGZJYWUxemFnNjdHMDhiWjd5ODZBY21XSDBBQ3NiOWtTLXpDemV1b1pRX3J6YlEyZUl2TUJZWXlTNE1qNWplNDhlcXRSVU1YUG51SjlpVUZsWXVPcTlQenQwRkNwOGdycVp5Q2UzVlFDeEZuV0ZIeWpSb1pFSGhRQmRyVnhYMEN5RFdMTURHSHlyaHUxSzhMdjM3QjEyeFJDQ0NDY1E5U294TmNlNw?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7a22007e0d1a83f55b2299ba33a53671aff709d6e514de4827183912c11edb71",
+    "titulo": "Com tarifaço, dólar sobe e Ibovespa cai - Valor Investe",
+    "resumo": "Com tarifaço, dólar sobe e Ibovespa cai Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWdzX0g4bFlpcHVJdjF5a0RGWFMxUVdURGZoR0ZzQVlEWFc4QzFpaVBYM2JrZVhKUEthdzRabXJkS1NOU3J2dTlMTllnYWtiUEdjZ2w5VDAteGpfNGI0aUEzODNJd2FMenlPczlCZkdnVXZRdHFkcmh6cFBxSDQydWF4d0RjeWpKSlo4Q2VMY3lqSjBzdm55UmxuTmxES0llWVBJeTA0dXRsb195VGtFUkhKaFpDa094aExmbkN1eTI4TEkyMnVJc3pNSdIB2gFBVV95cUxOb2VoaU1KTFc1d3l5dWk5d05LMmN2WWJkSmNMcHlqWmY2UmU0VG1ha2JJOTdndllpNFN3XzVEN0ZrQUFPY0w2cm5aTkZQNERyUmczN1p5MUE4RktNX2hNY0x2ci04d1ZmQ3V4bUY1NVFrb3ZfVDVWTm1rcFZlRFBUSEM4elZSdTlEMElnTENybW1JVVdYYWVDcV9PeGJuUjBKek1LTUdMUm01d25ZdkFMS2RmajFyU1BTNkRLU3BEbGVISGFEUndibFRjUkpJUDhoRlJyRFFETEZkUQ?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "8d7278bf829e2225762cb1d304b63722137e81b0f5f1aa01d123d824464c4eaa",
     "ativos": [
       "IBOB11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central da Coreia do Sul eleva juros pela primeira vez desde 2023 em 25 pontos-base para 2,75% - ADVFN",
-    "resumo": "Banco Central da Coreia do Sul eleva juros pela primeira vez desde 2023 em 25 pontos-base para 2,75% ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOakdONTBZLWlOM1FBTzBBTjQxV3ZnaUQtTS04alVmdlg2Wi1ucjVzRXRJWUVINTktbnFTUlZQNjZsNGMzSGFhSUtJOUxkdDlrT1l6b1Bla1U1ekpobjdUNjdsUERjN1plSVMyaUU4REM0RWpUX1doLWFxTUtJOER5YTF3dzBHRnM2aDI2THdEMm1QVVczUzJvd3NaTWZFa29ZYTlDOXhTLTFqQkxBYjdZbXo1QW55Z29GQzlTa3pqaDVLZC1VNWRvaGQ0ZzRIRlE2?oc=5",
-    "fonte": "ADVFN",
+    "titulo": "Ibovespa abre em queda com mercado de olho em tarifas dos EUA; dólar sobe - CNN Brasil",
+    "resumo": "Ibovespa abre em queda com mercado de olho em tarifas dos EUA; dólar sobe CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3RLY3RrZjQ1T2gyOE5LNW5FX0YybUE5UFhPcWxUVW1reHBndU1sVVVDZGxsMkIyT3RybHNlSHJxRmtMT1NhYktlZlg2emItRkh1WEtDemJIQTQzU2tpYWdlNl9UVV9iRk85NzJlMFY4SmtmQ1RIcjQ4R2lSaDk2ajB2b2hWS2x1SC10bnVMUzJacXNnSEN2c1NyUkk?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e31475b01adfdbff984f6ad04bf85236b3dae8cb554aafe8b7fea6a4299e3334",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Análise | Alan Greenspan foi um dos mais influentes presidentes de banco central da história - Estadão",
+    "resumo": "Análise | Alan Greenspan foi um dos mais influentes presidentes de banco central da história Estadão",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnF1OTI2RXAxSGpPYlVMNDNheDNHU3dTZzVxYkdsOVdCcXRoX2gwM01vUUI4S0JwdTdYdkFnMDE2UmNGSVN0MTM3MWhKNnktYTJlNHUzcU45eE1sVlhETWFSenVlYVlkeVozTlV3N0xvMkRnMGU3eTJ1OWtNQmRNUjhWQTFRdUpLMl9maHFfeEdOT0F2UWV1QmJ4VkZxODJ6bmp5bFhnTTJEckdwbjVHenNBQjEtMFpIakJoNVY1aDR4Z21XbFE?oc=5",
+    "fonte": "Estadão",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1e5837ecc39871de39daecfaf89a0090cc339152a952689db45ffc37fabb3375",
+    "chave": "dd86c67dc3ea7ee70945b2c725eb178383f977e9ee6126ecefedfc9a3ad737f0",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -46,63 +70,17 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa cai após novo tarifaço dos EUA sobre produtos brasileiros - VEJA",
-    "resumo": "Ibovespa cai após novo tarifaço dos EUA sobre produtos brasileiros VEJA",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTNkT3ZQbklKUmpVbFVzLUppQWxoeDA2ZHoyRnNwZnROT0traS1RcUh6Q3JCWTFwUV9lbVNLdWVWN2trMmhDYW11bmZDbTgzUzU1anh4SWg2N3F4aG9fNU0zeGoxa0VncFNyMllreEpHaTFGc1VHWGxMMWhjRktqeEJRcmt4YllFVTVQUDlJMTdDSVl5ZDZLSFFDYmdPaFVQRmZSZg?oc=5",
-    "fonte": "VEJA",
+    "titulo": "O Ibovespa pode até subir, mas talvez não compense o risco - Estadão",
+    "resumo": "O Ibovespa pode até subir, mas talvez não compense o risco Estadão",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2pTbkswV1ZLMndQeDZNaFRzRWl5U0NSMkRJUTN4TmpRUkRBbFFPWHJRbUV0aE1yMVAwUTdVdHAxeXpsWVM0Tk4tOFF0NllNOWFGejF3cnVPSEh4czUwVzFHZWE5d0J6cHVwdWVRNmlrRWhlY3BuN3Z4WTRTUzhhZFNVa1R1QU4tRGxmbm5MX3dleF9MY2FKUnBlM3JmSm92TGF3dUQyZzhocHBtYURHVmh2d2w?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "856d9a99af89de0f93d27a2c04baf6db65da37fda425771830c7b27d5449e03e",
+    "chave": "0d2dd8f71c1a1712c4809ceba4e39961cd0c0d212784918fa81a959010be5a17",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "IBOB11"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Notícia Ibovespa tem queda moderada em meio ao novo tarifaço de Trump, e Amcham vê o Brasil entre os mercados com os acessos mais restritos aos EUA - Kinvo",
-    "resumo": "Notícia Ibovespa tem queda moderada em meio ao novo tarifaço de Trump, e Amcham vê o Brasil entre os mercados com os acessos mais restritos aos EUA Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU0NhcG9xYUFoVnVIb08teHNESUNPa3ZFX1Bhd0hVaGJiclFTV1E3WUg5WkN2dVpDZ1FqaUVnQjhjNmh0Rjk3LVVlenBnckdfNmNyai1aR21rczFqcHhTUUU4Q2hvVHFyTVBVN0czajNPSGhaZUpqdDVTMWtISEEzVjhVOFhSQ3FiR005RTd0cTJwM0dmS0JTRzNzc3h3emZoRk9lTlhTSThfVFlROWk0eHZQckhVb1JSQ2twUUM1cFZSQ1FTX2tCSnQwV05PQlVJRXBRNWtsTHFtZ0cxWnJjdF9MYU5SRlEybDBBZjlhMk5QdURzQWV6SzlnMA?oc=5",
-    "fonte": "Kinvo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "aa41dacdc856246e7dda89da306a7f533e7b399f68b8b43dc3fec1ec6f37bdea",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "SpaceX testa nova Starship após falha no último voo; veja o que muda agora - A Crítica de Campo Grande",
-    "resumo": "SpaceX testa nova Starship após falha no último voo; veja o que muda agora A Crítica de Campo Grande",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2YtbElyNHJOMUhBbEd4aDJYV0lEcXRxYzJwUFluX2UyTmc3aEJBUEI2M0NxUEFCRG0wWGdoZGdhaUp1M25pNzMyTjI3aVgwNDNvdU5wSUV0S2VFcXc5VDc3ME9icUtnSHNwQnBtU3BJeHg3TmZlTm9MOWgzTkZGR3AyR09RdERmRHRFdlJuSUYxM09DTDQyY0pzYVZLZHVXazhsaVV4VDhjZw?oc=5",
-    "fonte": "A Crítica de Campo Grande",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "f78dc65e373208c650ee39d8286af2a92b629a6b51c7d1343c59f085ff3fe820",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
     ],
     "score": 9,
     "motivos": [
