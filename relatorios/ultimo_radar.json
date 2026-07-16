@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai aos 175 mil com repercussão do tarifaço dos EUA - InfoMoney",
-    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa cai aos 175 mil com repercussão do tarifaço dos EUA InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHlNaWZGMzBtNVFvX3FMMXQxd2VpUzJwd3lIRXoyRTVkWkRFdWRWVTVOaFNrZVdPQWVKRy0zZjBZUUdDOW5HQkdGQzZ1SnBqSU1NSWFBZDhycjVFcTNFOVYyQ2dHYmdkZ0pocDEzUWNCdWY1Y1pyTlRnVEplbGtlUGR1Ry1HSFRVOXBmSHVKNA?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Ibovespa abre em queda com tarifaço dos EUA e escalada da guerra no Oriente Médio - trademap.com.br",
+    "resumo": "Ibovespa abre em queda com tarifaço dos EUA e escalada da guerra no Oriente Médio trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDR4d0tqSkx2T1Z3blQ5bDJxbVZGcnlKSkZIbVpUSi1rbXdoSXFiVjlzZkRVVlotMnA1ZkVYX2poSUJCQ3FmUXR6d3VpTU5hLTFFb2xsdkN2SGZLRVFqTE5ncXNJTVpDcExrQ1BsWEpQN01WVmlsMDAxQVpMTEsxNFJaTG1FcDdNdnFXd0ItdUxfVW00bVVWajRSM2p3ZXMzdHJrUDRrX0hWX3FHa0lQdEdJZS1QR1pUMDEydHI4Yw?oc=5",
+    "fonte": "trademap.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8319f323fc2bb51ee65ce7bddca2e618e4d8f63438e06da1aec433baf82d9097",
+    "chave": "4945ec28fa2b5c1e6c550d7e63d763b613493a5083f6a399046e34fd84b2f9e9",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -14,33 +14,80 @@
       "Ativos Internacionais",
       "Ações Brasil"
     ],
-    "score": 9,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inflação em Queda: o Que Muda nos Investimentos em Renda Fixa e Ações? - Forbes Brasil",
+    "resumo": "Inflação em Queda: o Que Muda nos Investimentos em Renda Fixa e Ações? Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGFzX2kwSGNla3BuVmZHS1F4ZkhiUkhUazQ4SFY2cUlYejZIQzRjOVlwMHVrTTRlMnlpX0F0bl9zS0dpenRMMUxySnZzMXRnNGNDYU9fZlFIQUc3bDZTNm1VY2E2RHQtMndMMTRjVjd6WFhZSzRDTnJEZUFpWnBrNl9MSVBmcm9NRXVUUnZvcVhQNmtFUUlNVzUweVhtamdmLTFlRWUwd1ZEN1RqeEYtMGZR?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "cf8032c38a2108b352a57f5668d33a181f79cb70d0d7e72dd779049bd9759099",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "SpaceX tenta lançar Starship após falha investigada pela FAA - Revista Fórum",
-    "resumo": "SpaceX tenta lançar Starship após falha investigada pela FAA Revista Fórum",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xak5DdGpGRDRzeFVLX0xxS3R4eVo5UTV6ZmRlTEFHS2xZUFA0eU5BbXFTZkllSWNJLTNqY1VIaUtOOWZ2NTdYaTFkbGJWMU1JRGZpaXVOR3V1dWN2SzVkck1qTVRZbDM2NF9SbWt4ZkRvbjdpTWh1bjRsYl8?oc=5",
-    "fonte": "Revista Fórum",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "9d967fcded62993ec8044ccb431e3430d3ea3c5f292394029a368db2375c93bd",
+    "titulo": "B3 lança três novos índices para títulos públicos atrelados à inflação - Folha de S.Paulo",
+    "resumo": "B3 lança três novos índices para títulos públicos atrelados à inflação Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEtSRU5hN0gtS0ZrWk5POWV1dEp6Y3hGQ0prMXAzWmFOZnlQSUh0YnNaZmlsWHBJaXMtUElOWWFKbjFfZjFGY2cxZnJkVWRNbkpnblhYbmQ5MGZmUUk5UGpXejB2Z0luQTA3V0JWWWxCZzVfdDQ4RlJwWTdvajVvc05ISVYtOWl1VV9CZHVkYlRjVWExUndtTmdJSU0zR2pLRG9WbDdOWnpVUG5BVHdWVV9BTDR2MUVnYTRVVFlRaw?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "823bc3de7bb9c3f86f0d149e30c18cc118184877b5ca146f6a115b9a784a531e",
     "ativos": [
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central lança novo portal para mercado de consórcios - UOL Economia",
+    "resumo": "Banco Central lança novo portal para mercado de consórcios UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnpqMTJrQVVkWWVKbjFNbnNxQ2lwVnhFZTY5MmM3bGJkT0dmZFNsYTRRQWwtamVkQ05rVlY2N3lUNGZLeWFsX0xPU1hzSk5vTk1FOThJcTlQQzZHeWlzaHJicVJ5SWt2X0I0UGxKWk9Udm01a3hOd1FZQnU1NlBxbmRqTy1zN3VVYUtWVF9JYWwyUVp5VUJfd3FHU2pVRzBaWENqYjc0aEpTbHV6Y09rM3I0RHJmMWp6aVRz?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b39cd810ee0eaaec52e23bc371369821897c6d28e0f5a5fc7f1854e957f950f2",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
