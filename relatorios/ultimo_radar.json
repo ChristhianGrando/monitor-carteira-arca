@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa abre em queda com tarifaço dos EUA e escalada da guerra no Oriente Médio - trademap.com.br",
-    "resumo": "Ibovespa abre em queda com tarifaço dos EUA e escalada da guerra no Oriente Médio trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDR4d0tqSkx2T1Z3blQ5bDJxbVZGcnlKSkZIbVpUSi1rbXdoSXFiVjlzZkRVVlotMnA1ZkVYX2poSUJCQ3FmUXR6d3VpTU5hLTFFb2xsdkN2SGZLRVFqTE5ncXNJTVpDcExrQ1BsWEpQN01WVmlsMDAxQVpMTEsxNFJaTG1FcDdNdnFXd0ItdUxfVW00bVVWajRSM2p3ZXMzdHJrUDRrX0hWX3FHa0lQdEdJZS1QR1pUMDEydHI4Yw?oc=5",
-    "fonte": "trademap.com.br",
+    "titulo": "Ibovespa cai 1,24% após tarifaço dos EUA ampliar aversão ao risco no mercado - VEJA",
+    "resumo": "Ibovespa cai 1,24% após tarifaço dos EUA ampliar aversão ao risco no mercado VEJA",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWENWS3gwS2NJNVRWWFNJcU0wM2t5dmlGNGE1NkI3QXFzWlNId1BrTkItMmZfTVZSMmRfRkxPbWtITG5ZQWh6dkpjOURFVFJjMk5LRjhzazh2UktTcldKSm9DVmxrS3pyQjZobGpkV0ZKNUkwaVB4dEhmVzRGeFJGZzd3eldqckh2VzZxMXFGaHloWWRUZnJRV0hWU2dNNG04Z1puUktHSEYtaEZ0MXFn?oc=5",
+    "fonte": "VEJA",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4945ec28fa2b5c1e6c550d7e63d763b613493a5083f6a399046e34fd84b2f9e9",
+    "chave": "a9856001db80c1366707fc1b679782aeeaeeade4a5fba2639accbf26fc6a9862",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,42 +24,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Inflação em Queda: o Que Muda nos Investimentos em Renda Fixa e Ações? - Forbes Brasil",
-    "resumo": "Inflação em Queda: o Que Muda nos Investimentos em Renda Fixa e Ações? Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGFzX2kwSGNla3BuVmZHS1F4ZkhiUkhUazQ4SFY2cUlYejZIQzRjOVlwMHVrTTRlMnlpX0F0bl9zS0dpenRMMUxySnZzMXRnNGNDYU9fZlFIQUc3bDZTNm1VY2E2RHQtMndMMTRjVjd6WFhZSzRDTnJEZUFpWnBrNl9MSVBmcm9NRXVUUnZvcVhQNmtFUUlNVzUweVhtamdmLTFlRWUwd1ZEN1RqeEYtMGZR?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cf8032c38a2108b352a57f5668d33a181f79cb70d0d7e72dd779049bd9759099",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 13,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "B3 lança três novos índices para títulos públicos atrelados à inflação - Folha de S.Paulo",
-    "resumo": "B3 lança três novos índices para títulos públicos atrelados à inflação Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEtSRU5hN0gtS0ZrWk5POWV1dEp6Y3hGQ0prMXAzWmFOZnlQSUh0YnNaZmlsWHBJaXMtUElOWWFKbjFfZjFGY2cxZnJkVWRNbkpnblhYbmQ5MGZmUUk5UGpXejB2Z0luQTA3V0JWWWxCZzVfdDQ4RlJwWTdvajVvc05ISVYtOWl1VV9CZHVkYlRjVWExUndtTmdJSU0zR2pLRG9WbDdOWnpVUG5BVHdWVV9BTDR2MUVnYTRVVFlRaw?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Gestora do Nubank estreia três ETFs de Tesouro IPCA com novos índices da B3 - Estadão",
+    "resumo": "Gestora do Nubank estreia três ETFs de Tesouro IPCA com novos índices da B3 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2ppUE43TGVYVVVzdlFxR3NDVlRra0tOWk1kdFZ1cUozNzM5U1lmTUZ4Tm5naXpicmVoVTFXNVdHVTkwNmdDLTJYaHlUMEdfOV9tbWRFTlNlemU1VUdwR0VvdDEzVkNnM1BmcnZGX2xmTDFWdWtSWW9FQXJKQnNtMWZPRnFRekVuSzRpVnFuTzhlcDMzZm1ERXB5TmNCQU1LWjFpNnVJTE0wV3h5VDRKNm4ybWNua3NWd0h1THozQUtDZnNBY3VJVVRqR3pjakRmZFHSAdcBQVVfeXFMUEtUOVB0c25hQy0ybW9Ra3hhNE5leWJPcHNvbnZycEpuTGhWV2NiU1hXejNmc1FGaHVZZnJOWkU4dTZDVjk2RGtDYVRuTVhVVzIwYV9iSWxCaW9CUUJINVYyY0JsV3dRVjJqelZFSFIyMkVFcUQ3bmtVSTAtZlpkWnlSTC1vQWlvSGhQUGtjalY5SjJQbkZSSjgwR3UtQUpZWjR5LUJJSEVNdHNxUTR3MHh0WmlOdTBhX0tiN1lZaVpfVk8yRVcxbWVOd2F4ZU5uNnphNkJINEk?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "823bc3de7bb9c3f86f0d149e30c18cc118184877b5ca146f6a115b9a784a531e",
+    "chave": "3630f0ba66cf52f8dd3c129830be0e236b5204851743616c815cafd8e029e3f7",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -69,19 +50,67 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central lança novo portal para mercado de consórcios - UOL Economia",
-    "resumo": "Banco Central lança novo portal para mercado de consórcios UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnpqMTJrQVVkWWVKbjFNbnNxQ2lwVnhFZTY5MmM3bGJkT0dmZFNsYTRRQWwtamVkQ05rVlY2N3lUNGZLeWFsX0xPU1hzSk5vTk1FOThJcTlQQzZHeWlzaHJicVJ5SWt2X0I0UGxKWk9Udm01a3hOd1FZQnU1NlBxbmRqTy1zN3VVYUtWVF9JYWwyUVp5VUJfd3FHU2pVRzBaWENqYjc0aEpTbHV6Y09rM3I0RHJmMWp6aVRz?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b39cd810ee0eaaec52e23bc371369821897c6d28e0f5a5fc7f1854e957f950f2",
+    "titulo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra - ADVFN",
+    "resumo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmFPVHJZX2d5dHdiTkp4YzFYR1pHYy02VGl6UkprRWxScEdDaVNyVFZ2ZHZhMU04d01xbjBxczRIQnZYN2Ftd05ndHpXS2ZzTXNIWVBwT0RFd3VDbno5akxNVEx5T2FTZjZ3Y29fRkxoTkRQbXcxbGpMWFVid0g5aVNsMUF0V1N4MFQwMDVxZXF1cUtueUJ2VDJubGJ3QjBMVmloVFpLa3VmM3RYLWt3?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "30c33b8fa932397ac5695080c5cedd63b37b3774a41f3343f6be88d0c159b65e",
     "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Análise: Kanczuk faz o box que faltou ao Copom - Valor Econômico",
+    "resumo": "Análise: Kanczuk faz o box que faltou ao Copom Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2h6TDdjbWxmSWFlMXphZzY3RzA4Ylo3eTg2QWNtV0gwQUNzYjlrUy16Q3pldW9aUV9yemJRMmVJdk1CWVl5UzRNajVqZTQ4ZXF0UlVNWFBudUo5aVVGbFl1T3E5UHp0MEZDcDhncnFaeUNlM1ZRQ3hGbldGSHlqUm9aRUhoUUJkclZ4WDBDeURXTE1ER0h5cmh1MUs4THYzN0IxMnhSQ0NDQ2NROVNveE5jZTfSAbQBQVVfeXFMUDdoekw3Y21sZklhZTF6YWc2N0cwOGJaN3k4NkFjbVdIMEFDc2I5a1MtekN6ZXVvWlFfcnpiUTJlSXZNQllZeVM0TWo1amU0OGVxdFJVTVhQbnVKOWlVRmxZdU9xOVB6dDBGQ3A4Z3JxWnlDZTNWUUN4Rm5XRkh5alJvWkVIaFFCZHJWeFgwQ3lEV0xNREdIeXJodTFLOEx2MzdCMTJ4UkNDQ0NjUTlTb3hOY2U3?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fa092183378949a67119a9c89b2a73c2510fdd6b848b5efd3cdcb736378d8fe7",
+    "ativos": [
+      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Presidente do Banco Central, Gabriel Galípolo comenta novas tarifas dos EUA - R7",
+    "resumo": "Presidente do Banco Central, Gabriel Galípolo comenta novas tarifas dos EUA R7",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZlh4WDNBTVB0MXJUT1ZOUXZJX3VQdEtDQnkwZm45bHBmcUh5VW8tZUl3d1dEZXBCMmFmcmNoaHlwUVZXcW5vZnR4aExOcUVrVEFnUHQwb2JhWTRMWDZRLTJwNTNLTVdrV2lkajFIdnB3MGpjc0xybjhsdEtzcUsxMVNVVEMxYWpfMTk3ZmRIa19MeEhfWU51ZFZQMGcxYl9KdTNCTmU5ZmdRY1IySEZ5X1RPR09tbDgyRmtxcE1sT3VzcnBWcWJBT0xxbTBwYmNCNjkzejdDM0R2MGRGdEJn?oc=5",
+    "fonte": "R7",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ba86a8635c7b88b04bb56f0cb5331b0407fdeec319649c7fc671f6e013c313cc",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
