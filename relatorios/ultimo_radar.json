@@ -1,20 +1,18 @@
 [
   {
-    "titulo": "Dólar fecha estável, a R$ 5,07; Ibovespa cai 0,36% - brasilagro.com.br",
-    "resumo": "Dólar fecha estável, a R$ 5,07; Ibovespa cai 0,36% brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkRnS2xrMzBEdTlndUlKY19qWEVRYjVUS3JXa25ZODB6RDV4SW5qaEU5cHV1WkdGLTFfZ0hjOFRhNEw0LW96dGpZOEYtMTVzTTVmYVdNMTR0MUhwbEhsZVhHdV9ManJZYmxWUmtxemxqV2JXR1kydHkxQzRwRHNheTRmWHQxQ3R4N3gyWEJTazlQQQ?oc=5",
-    "fonte": "brasilagro.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c43553f45ce3a1d1b8cdcad15d59853c374c74d0b3987ab642d35796ee794254",
+    "titulo": "Dow Jones hoje: varejo, declarações do Fed e petróleo em queda ditam ritmo das bolsas de Nova York - Estadão",
+    "resumo": "Dow Jones hoje: varejo, declarações do Fed e petróleo em queda ditam ritmo das bolsas de Nova York Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMEUwRjJHb1V6X0d5aGZJR0xSVU1KNkZEMnc0OXlQRDN0dTJSck5BVjhzS19aZ1laZ25IdXhUaDhZVVpxcWtHM0tMV1h3ek9TMEFCbnZlZm5ESlJyckpFcnkwYnVKdTczWEd2N0FDSHFxQXFlZ1VvbkRHaVJmdEhaZnNzVG1YLXdvRjU1cnQ0VDNUbjZnOTRhdURmazZYWHVNdDlCUVFnVWJPT1QtMVBpZ2RMc2FNek4yaDM1cVhQNnA0UkRmQUx0Z2JzdlBpNUY1UmF0XzBJX0ZUUjJoNDJBUjAzdGRjMS1ON01Z0gHwAUFVX3lxTE5UZlNPMGNRQzJLR1VKVTc5RmwtUFhyRndUanozWWZfMWI1cV9COXVDWjJzYXc5RXNJcTN5dzdmd05UMExiX2sxek5BMGhsRXg4c1BwVFc4VElqYnlMQU9wazBxTEYzcG1FS2F5UmtWbTJtZ2piOHEzYUJuNTBjZjFGeHZ4Xy16LUF1LU9ZdHFUWXpxeUtPcUZpbldLOUo5SHdCYkhCV0huVTdGaUJ3RjI0Wk5KUXNpelN2bTBKaE1vVHR3N0h2UUwzNXZ6VUx1azN5SFpGSFduNzFlRzh2S04xaXlnMTk4RnNlZVYxQThLVw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "8b1e8a5505bcc59ae3cdb4fb7fa56db12c3e64a5d0c096b1e912fa6fb72dd909",
     "ativos": [
-      "IBOB11",
       "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ativos Internacionais"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -24,12 +22,34 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa Fecha em Queda Descolado de NY com Investidor À Espera de Decisão dos EUA sobre Tarifas - Forbes Brasil",
-    "resumo": "Ibovespa Fecha em Queda Descolado de NY com Investidor À Espera de Decisão dos EUA sobre Tarifas Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZU5Lb25LNU5qbEFzb29sQVBQWVl6WFk1dE5SVzZ5OWszb1M1RDJQZS1nelhqeDlfdkRjS0pvU1VFdWZyUW1jSEljbm1ISF9JRFE0dEUtUWE4TmsxUTdWVkZKM1R1eEVkY05ESi1sLXB0YkU3YURaa01TZDFzRm5iTUllZExmZWUwWTAtRmhWQ1JYM3BaSHFSM2QxbTdhMk1aRS1NamF2VnFaY2tocUZSdEcwRGIydDR1RktHSXZuSENvQmpQUkQ0M1JXd01JcGhMT21zN1hFaw?oc=5",
-    "fonte": "Forbes Brasil",
+    "titulo": "Banco Central flexibiliza PIX por aproximação e usuários podem definir seus limites - Fato Paulista",
+    "resumo": "Banco Central flexibiliza PIX por aproximação e usuários podem definir seus limites Fato Paulista",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ESldxOEp4dkJick50Y2RFWExDOS0tNDlxLTJLZEk0QUxRVS03ZndJdTVxbTVaNkZrRFJtanhwTkJsdmRzWHFURjQ4Nm5RV3I0enViMHF0UXUxcW9qTHBCUDIzYWNGMDczdm1JWE1aREVWN0RN?oc=5",
+    "fonte": "Fato Paulista",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "2be83def09100f6398ec1f80f28c7dbe736742ee6d95197da781ec70a9b34ea4",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje: mercado reage ao tarifaço dos EUA contra o Brasil; EWZ indica pregão de queda - Estadão",
+    "resumo": "Ibovespa hoje: mercado reage ao tarifaço dos EUA contra o Brasil; EWZ indica pregão de queda Estadão",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcTJPYXZPY0t6MUVSS0NJbHFwMFFjOXY5S0g5NkMzX3JsVjVkYS1qY010bHBrMDJfSTlGT0JzdFZ6TjdmcXlhX2lLM3pUcG56dlF4WUxKdm13RmV4LTlmZnlvT1J1VjhRNW9wdm1IZXJNSGcxazJJU2hyQmlZOFJOSkM1VkUwNVE1am9jX2pXcE1NNUthLU1QUXQ1cm1zMTM0bzVaRkF6VXJIajM4MlA3Mjk2SUg0aExWX0duSDMwWdIBxAFBVV95cUxONG5jcHdpUlR5dzBHZ1BuWVVITGgwUXR5S2pyZkFJSGRYZkZQU2w4WmJFS3pWNU9fZFFKR3lsQ2RlS1lsYUtKSTBFcWJvTEY1VUVYQzVoRERRN1I1SGF0aThrYXgyTEEtVG1mYTd1YWNpSHM3Skw0UmNNR3BSS0l2aWZQLUN3RUdtYVl5eUU5WUJtamRJb2hOdkxneUNLclZEVnhoeHI3eE9CZVNvVUttejA4VE80NFd2U3B0RzB4a21lR3Vy?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "adc748accf42e669ae35f4766ea99eded245e6e4e49e9591ebca8b3fe8b22728",
+    "chave": "b539ccae89dd58389f5015713cc67a8f8e3f53fc2350e1df97eaf550d77ebb54",
     "ativos": [
       "IBOB11",
       "WRLD11"
