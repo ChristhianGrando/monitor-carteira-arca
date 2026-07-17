@@ -1,11 +1,63 @@
 [
   {
-    "titulo": "Banco Central lança sistema para baratear juros para empresas - Brasil 247",
-    "resumo": "Banco Central lança sistema para baratear juros para empresas Brasil 247",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWNXQVcxTUhwbVpWVGNqZlBmUW1lWElMcnVyQmxRWVplY3daSG1udlJpb3d3RzEzX1phTTdrZ19aTXNOMDc4SXZ1N0pYLXQwTGRWeTNlR284d0szeTloTTZpdUVIRDBRTnY3Z20xdzh5UTh6LXR4MGJaY0pJbXYxcTRDSTk3eVFvSGk5cGJLZEpvem9kQVZnLTZ0LVMwUlox?oc=5",
-    "fonte": "Brasil 247",
+    "titulo": "Economista do Safra vê ‘algo errado’ na política econômica e critica Selic - InfoMoney",
+    "resumo": "Economista do Safra vê ‘algo errado’ na política econômica e critica Selic InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2t4ME5tYS1aTVo3UTZ6ZW51TGtHU0lvcXI2dmVpRUpTS2loREdJczNRMVIzbkpUVEVKWEhsNlBfWDRkcHBYSlczWGdnblJhOGRKZDVHbkFxaWxEekdsa3RDbE11LWJJQmlLUXlpNFFJMTVNeEo4WVMyeGlvcG9Hem5NSzBSUUdlZ1puU21lVFFXbWN2R2YxYWtobzVlZ3RsZ1lFWXhMaU1Fbk5xTkxsbE5kbEpfblXSAbwBQVVfeXFMTlVxdkhsTzdIR3JZTDBxLWV3YkxQTFItUENERkhwWk1uNXhxcTd5Mm1uc1JBd0NNZVZ6TjNkTWt6QzYtbGVtSGpFZUY2OXhsZjdvbUZLOEM1YVdOdlJTcG85QW9yYWRqY0pPeW0tNnB2TlVRMmtSMGRIZ2dKSC1EVk5JWmx2Z0tqck1sc0hCOHVLLXNOSXlRMVI4NkZpVFNpU3RVLTNGWWloRklfVDVFNzFRTlc0dVpUU1dseUI?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "78a06b6fbfe53aa944dc5efed693e275cc4c72dad642bad10b624a3bd301b31a",
+    "chave": "7fb0dea1bcb9880d75b6de3d90cb45fc3b3ffcf0b5175e7b2e12d03ae29cf4ed",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IBC-Br: variação marginal de 0,1% em maio. Atividade econômica brasileira mostra perda de ritmo e reforça atenção sobre a Selic - ADVFN",
+    "resumo": "IBC-Br: variação marginal de 0,1% em maio. Atividade econômica brasileira mostra perda de ritmo e reforça atenção sobre a Selic ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaTdybGZtMVdlZlZqbjcxQVcyQUtFVXJweEhmRU55N1NSZklDN3hkdlZzbWloUTA5ZWhGMEJjREJGaHVwcW16S296QXNCbzhKUklZVE1RZWF5amFwS2R0U2xiNS1BUU9UUjhtVWpBd2htYk85Q2RpRUJzNmZhb1lCMWdWLUEydDJuZTB3aGRrY3Rid2EzTDY0MmQ1ZUdLS1NoR0FwY1hyMXBDWmdITWlHb0dCRVlTNnpPTVFvMU9mOU1nWDBEbzJMUkJJaWczU2FSWFBLN1B1aEltamROWGtEcUxGVUU4dUVaSl9xWHBvNHctQQ?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "c9e5332e8255bb927dec01368d3740c30c3fed285b8ca2913f2006c144bd7dea",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Nu Asset lança três ETFs de renda fixa indexados à inflação - Nubank",
+    "resumo": "Nu Asset lança três ETFs de renda fixa indexados à inflação Nubank",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE5iVGUtSTdSa2VsNmctS0E1dk1LX1BDN2xpZHZrVjBxcDdrcFBFWEdRSDd2NHJXMzVVeU1qZ0FXNXIxZ1RZd0tybEdoVHJRTXlWX016b1VsSmxoV1VpV1pWcG9EMFlHWFFWVUdybHE4SG1kTHVFYURLcl9CSUZyQWUta0VKQlplVlRMVjRmT25HdFEtOWNSWnBXbFlEY0lLZ3hWUHZjR09zV0FuNmZGWU5n?oc=5",
+    "fonte": "Nubank",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "12628b452a0b8853df00864f23ad4cf155b281b19c999c702673b9e23f3ca269",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -22,12 +74,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central vai ampliar uso do Pix Automático para contas-salário; veja o que muda - Alagoas Alerta",
-    "resumo": "Banco Central vai ampliar uso do Pix Automático para contas-salário; veja o que muda Alagoas Alerta",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3l4RmNaY1QyREhXOXpMbjJ2SGRPRXB5VzI4aE9kQWo1SWJiMGFMbVV3MGtUalJJa19iVVBhR2dJeWR4X09fdHlOVGJUX2RCVXhnSjM5ZExybDJrX18zNTZLYnhqRWVWYnVYYXhwZExIZEw2eGl3RXZHUEUyZTNqamVJRWV0VE9tMFUteEdId3RKZW9XOXhrelhQYy1HNHp2cXZESE84ODdQU3Q4ZU5HRWFfWjRHSHF5RDJRQw?oc=5",
-    "fonte": "Alagoas Alerta",
+    "titulo": "IBC-Br, prévia do PIB do Banco Central, sobe 0,1% em maio, acima do esperado - Estadão",
+    "resumo": "IBC-Br, prévia do PIB do Banco Central, sobe 0,1% em maio, acima do esperado Estadão",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0I1LVM2S1ZFdm9meHdLNVNDS1RNY3Z6RHZwZTNTYXQ0ZDFKYkFON19QNFBDUlFaRVRRZXJneWllcTN1R2NDRnR0eFRMWkdsLUtmaG9XT1N4X19leEdGUFlSWFdQUktFaVFsX3dtdXFwWDJjQ1FsczUzenVyS2dka0llNHrSAYoBQVVfeXFMUDdJTjhIZmdmWWhXSUR3LU5nU0k2cGQzdE0tR0FyUTlsTjZ2OC1KRGpPNlBTU0M5ZGNjM0xZdFNJYkFDM2FkaTRvX0JUT0VvSjhEQmg3bFlqZVBfNHZ2dTZoOWMxUWdJZTZEVHllWnhCdlFQYmxaOXhfdmZya0t4bkVjX19OaTRqUHBB?oc=5",
+    "fonte": "Estadão",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a140f80e36f61269d8f33906f2e000f485cea68cc344264c3dea167828c97274",
+    "chave": "d85dd5cca326e07ec58fd312e8eb7a7438423e04ecc1026e53ec289fd63b059e",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -44,12 +96,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pix em conta-salário será regulamentado pelo Banco Central; entenda - R7",
-    "resumo": "Pix em conta-salário será regulamentado pelo Banco Central; entenda R7",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWXlxcFhuWUJtcUVQd1FZNlFFYVJYM2NXa3o2bWNKSGcyZDBsdUZmTWNPbkg0eWIwWUVJa2NvVWNpRmMzdlVLenBkOF9lTHg4YW5tVkJNakJ3M1B0QWl3VW5YTHgzUHJKLUtUSGlvTEJTZ24tbXhYbTcyZ3B5U0pSdkxOUVoxUzE4TnRqU0E5LWx2eENKYkpTMHRCU1pENFFLZmdHVE5HX0lNRFhTdmJkcC0ta3VWVlZpSDAwQQ?oc=5",
-    "fonte": "R7",
+    "titulo": "Prévia do PIB sobe 0,1% em maio, diz Banco Central - Poder360",
+    "resumo": "Prévia do PIB sobe 0,1% em maio, diz Banco Central Poder360",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0ZCWHlkMWZFOVB0bkRjTW8wTUpvWFR4X3NQa1ZQcS1wa292X2ZabUFXN2hOQlZXdEZEXzRmYUc3Ynhaa3RFNXdIRTUxaTdteWwzTUt4VTg2LUNGUzBwNXk0VGNLY2FfWjVXQzRMZjVya2g3ZTVwT3MwaUVmcWtEU055VTcxdw?oc=5",
+    "fonte": "Poder360",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "204bca60e8f55c1c7d4842a67dfdf403a46f454b31c4ec62435e71da28bd104d",
+    "chave": "5c8c35fa3e76aeccd0a999ab1535ab202a7351bbf71f78aa663a4eeb932e12b0",
     "ativos": [
       "CDB 100% CDI"
     ],
