@@ -1,52 +1,23 @@
 [
   {
-    "titulo": "IPCA abaixo do esperado faz títulos prefixados dispararem - CNN Brasil",
-    "resumo": "IPCA abaixo do esperado faz títulos prefixados dispararem CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU016bEc1NjhkQkZjcS1UZFoxcDk1QmFhczlYVTFRTjhnNjY4aEc3RHhqQmE3OUVYX3N2dkpDZjdMTGg5cFpFTlF1eVdTbHZDZHVwSjZWUFNvRVVRUjRFTzF6UUN5WHcxa0lwYWdhMExkNm5IOHdaWG9HLWhENDREVFUtMllmMl9CVnh5QXBJbEMzS2hhWFJhbHdPUTZMTEJVMnR3UC1PaEZ0aTdzaldr?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c32156bccd6a5cb6f0ffdbda94c3e9f35f06a433412f2103181de51a15ae68c7",
+    "titulo": "Falha em motores da Starship derruba ações da SpaceX e reduz fortuna de Elon Musk em US$ 45 bilhões - Jornal Correio",
+    "resumo": "Falha em motores da Starship derruba ações da SpaceX e reduz fortuna de Elon Musk em US$ 45 bilhões Jornal Correio",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDc1YV91QXBvM1ZMMHhVQWtRVG8yMkpGNFNhUzRUY2hkOU5xb0hzSDQyeUNZRlVZd2QyWVk1dC00YjZtYTltRDdOV0k0RU5IYmk4OUtfU0t3WnZRWDBvRzJHdE9CY0FfVmVTOG5YbW9QLThkWDczdTlPWXpNVy13TXZHTVU1eUlLMXZYQ1RyRmo4TjZ3NUN0ck96N1FLNzFEQWFubUFSdkt1QTdTWFR4STg3OU5jWlIxZzBLNUM4eFI1eGxwWDlQV2EtSlFhSFI3QVVXVGdENExnVkFnc000?oc=5",
+    "fonte": "Jornal Correio",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "203a78af9722cb30502071cd7712026e112c6198595b5ac25601c5553db0a5b2",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
-    "score": 12,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar sobe a R$ 5,11 com tarifaço de Trump e dados econômicos no radar; Ibovespa cai - G1",
-    "resumo": "Dólar sobe a R$ 5,11 com tarifaço de Trump e dados econômicos no radar; Ibovespa cai G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05UjBsQTh0X1IxNjRMcUpPQUZUNXQ3eXdhR0RaQmNmcGZqaWJudnBhcFlGVjg4NWxnV3EzQW9BQlM2Q2lXWWhuUmtPMzBvdVM0ZDNwbVRRYXQtck9PZFl5T1owVWktbmlRdE9fNmVWYWt6U0RNQVVNMdIBhwFBVV95cUxNaTFtRUZSOVVXTXdIN2U1VkFsSHQ1VW5rVTZWZWFMRk95anlQbHFhVUhPWDlfRk9ncW84RENQX3F2d2R4ZjdjcFBRemp0R2cwZGsyTUpTbmtEUkFpa3NtbWdpejlTT2k1MUtLQTVESjlXdkE1aUNiWTlFYkVRaVlKLTdKMkROdlU?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7827af5e3378323b08348c29392879cf031e6fe0afda1e1d213acf4bc6421008",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
