@@ -1,13 +1,13 @@
 [
   {
-    "titulo": "SpaceX adia lançamento da Starship após falha técnica; ações ampliam sequência de quedas - Times Brasil | CNBC",
-    "resumo": "SpaceX adia lançamento da Starship após falha técnica; ações ampliam sequência de quedas Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmRYa05rejF3YVJhak55NzZBZjNyZUdtV3lKQXJOR0VyRjFOT3FlN2ZXTGF0VjZhcXpUalBmNWpKQjZ6bG1TNlVRX29aUk8xeWZvNXV1UG1mUTBJZzlZdk44amM4UldIMDM2ZjFvdzBQRUR3TEVEZzJ5aExHOTFva093WVJBWXQzcGhQb0R2c19mYnhaWHhvT3pOYnltU3NqYXVYLVVsRDlSamEtMnlJbFNkZTBWejdlM1BKUG5R?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "0041ca230d93d578c13f939eb79651779295d905eb521af05d34c440f804e24c",
+    "titulo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra - ADVFN",
+    "resumo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42NkNEbE5NSTRmRWQ2XzR6c3kzMTBsS2NKbF9qM0stMW8tR0NMNnFzRHBrbnlVY1lfejBCcGI1SHExeTNNVFBwVU1WQnJxV2pweVVtMFJwXzFrNVpjLXkyTE1XTU1kaW9VeWc?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "a556e7aa14f6ab8eb4085f7d3fabe26a0e440e55f339c870cd1681ead73daab2",
     "ativos": [
-      "SPCX34"
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais"
@@ -22,58 +22,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa hoje fecha em queda com tarifaço dos EUA; dólar sobe e fica em R$ 5,09 - InfoMoney",
-    "resumo": "Ibovespa hoje fecha em queda com tarifaço dos EUA; dólar sobe e fica em R$ 5,09 InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHlNaWZGMzBtNVFvX3FMMXQxd2VpUzJwd3lIRXoyRTVkWkRFdWRWVTVOaFNrZVdPQWVKRy0zZjBZUUdDOW5HQkdGQzZ1SnBqSU1NSWFBZDhycjVFcTNFOVYyQ2dHYmdkZ0pocDEzUWNCdWY1Y1pyTlRnVEplbGtlUGR1Ry1HSFRVOXBmSHVKNA?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f165002833924d465771b8fe266c7e0b7d976ef4823da0a3ca4ee14f462b4817",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Presidente do Banco Central diz que 47 países têm interesse em adotar sistema parecido com o PIX - Rádio Pampa",
-    "resumo": "Presidente do Banco Central diz que 47 países têm interesse em adotar sistema parecido com o PIX Rádio Pampa",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWZLekh2cjJOOW9md0t3R3Z1dk1PbTVnOFpJdEpYQ0U3WGNQUEJ2blh2bGRKWHIydVpuLTQ1LXNFbW52MU1ySHdRQmZBalZuUFhJVFNmUDZGLVUybk5Od0VzNmtyVkFUQVJ5UW5wZnlQbnFlc2ZGbXRHTnRJeEdwWGthN0xTMGwyem55NEFVYVhJQ2JEMlZ3R3ozZEo2TkNFZjgwZkhZeG1rbGt4cjUtUnQzelB0Qm1LVXlWN2lPUHJWU2FBaXc?oc=5",
-    "fonte": "Rádio Pampa",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6e068911ad8b82704769f29dfb5a546b50584f39fc07b10baeeabec2427e9509",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Lançamento da Starship 13 da SpaceX é cancelado; veja como foi falha - CNN Brasil",
-    "resumo": "Lançamento da Starship 13 da SpaceX é cancelado; veja como foi falha CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDdRZDFTc1lLWXV0eTdJZVlrTk9oaXcwc3I0cFVuMThGLVhoY3dJSjF2TWVsWFE2MDdaN01ac0k3RHgza0VnUkR2d0UxNzhFM0ZOdlctaVVOVzJPdW1XQWlXczJGYi1xQi0tb0RybzZHMzRCV2J1WjR1R3BnZ1pDeDNKV0Y1UE9uRlJETFdkUjgyS0U5bFkySzVDeXNtUQ?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "SpaceX aborta 13º voo da Starship após falha em decolagem - SBT News",
+    "resumo": "SpaceX aborta 13º voo da Starship após falha em decolagem SBT News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODBWR2lyTnBmb3VxcVVZVFpQam9iV1JsYVAzdkdqUWo3QlhaUElmR2JGdjJhUlA1Rl9RLWZFa3FYVUpFY3BFbjdZQm56WWt0ZURQWUVWbWdMU2JTVGV4Y0VaVnBZSmZuLVhqX2R6cWwyc3dDdklaLUItUWlRRE9pMXNtX2tHRnR3RE5nTjUwaWZ3TVVBckNMeDk1Z3Nkd0U?oc=5",
+    "fonte": "SBT News",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "8f454287f7c9b7f5e636ff8d562355d759a9871411f2faa6f696958ca95d6e46",
+    "chave": "7d92fe856c3b5191482d48f3bac937e2800087e9c98f04759279ba0902b6204b",
     "ativos": [
       "SPCX34"
     ],
