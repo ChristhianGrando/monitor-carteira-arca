@@ -1,45 +1,28 @@
 [
   {
-    "titulo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra - ADVFN",
-    "resumo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42NkNEbE5NSTRmRWQ2XzR6c3kzMTBsS2NKbF9qM0stMW8tR0NMNnFzRHBrbnlVY1lfejBCcGI1SHExeTNNVFBwVU1WQnJxV2pweVVtMFJwXzFrNVpjLXkyTE1XTU1kaW9VeWc?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "a556e7aa14f6ab8eb4085f7d3fabe26a0e440e55f339c870cd1681ead73daab2",
+    "titulo": "O Tesouro Reserva é igual ao Tesouro Selic? - Valor Investe",
+    "resumo": "O Tesouro Reserva é igual ao Tesouro Selic? Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGxndW5jSmJ6R3NwM2pTMHZ5TDVKbHk0RzBXaFVpTlctM2w3am1RMVB2aWt4SHhZLURKTE8tRU4weTBSX3V3TkJyVVFwQ1R5TVhZMk5XOXZjN0pjeTVBVU9LdlZvcGpGUEplMVdNandCa1VUSE1xdGxxYkl6TWtLeXZQMkM5ZktmWnpTb1ZoWGgwM08yNHRIdTJienl2Z05IMU1KbzNPWUVnNHlua3lEazFxU3nSAcMBQVVfeXFMTUt6OHJVbkNoT1oyMEhrTnhpQXJZNHc3dGM4dFVCcWNlTVB0YTFBbFd5S29yVjVWWTJJVTB3Y2V6QjFaNlJMQlU5TUR2TjRMUXBuWVktVTdyRjZUMk1hNUMzNVE0LUduUno0UlZ4MWVUZDNPTlBnQ0Y1cGp1RHFSREZyZnNhTmphTVczdFJaVjN0amY5NEdvU2lWNUZzcUZWdXJXOGdEMWw1cktWX2lwT05fLXF3OHR0N3BxMVFZTnJrYjhR?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "96ab4894ca2445abbcd8c9d025771f6ec4e73a2df971ee44adb9782eeb1a0c3c",
     "ativos": [
-      "WRLD11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "SpaceX aborta 13º voo da Starship após falha em decolagem - SBT News",
-    "resumo": "SpaceX aborta 13º voo da Starship após falha em decolagem SBT News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODBWR2lyTnBmb3VxcVVZVFpQam9iV1JsYVAzdkdqUWo3QlhaUElmR2JGdjJhUlA1Rl9RLWZFa3FYVUpFY3BFbjdZQm56WWt0ZURQWUVWbWdMU2JTVGV4Y0VaVnBZSmZuLVhqX2R6cWwyc3dDdklaLUItUWlRRE9pMXNtX2tHRnR3RE5nTjUwaWZ3TVVBckNMeDk1Z3Nkd0U?oc=5",
-    "fonte": "SBT News",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "7d92fe856c3b5191482d48f3bac937e2800087e9c98f04759279ba0902b6204b",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
