@@ -1,11 +1,38 @@
 [
   {
-    "titulo": "B3 ganha novos índices para títulos de renda fixa atrelados à inflação: saiba mais - InvesTalk",
-    "resumo": "B3 ganha novos índices para títulos de renda fixa atrelados à inflação: saiba mais InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ01DTlJ5M1FoN2VvbURmYXBpZ1B6ZVBNdER1RzZrWlVSenJkV3FUOGxqa3BuZDJoRHJWWkFRYnVFem1LS2pMUVZEZ3V1RTc3RGhVYU1ZWVpvakktcjFWS1cyb0dIekRSaXowZXo4RnJhczFsZ3hsX3pLNzRnVzkzT0FRcFpIRG5NQ2VleFJVa01WVGQ0eUpmOW9tLUlIbTEtcDZjdzBqSWVZNmkwWjR3V05uZzhIRi1YbXlKbmxWUDNfR2F3?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a9e096fcf4f33834518b6ca71e3d0cc1ee70c1a46dc12431ebb24ceeae82f077",
+    "titulo": "Selic em queda pode destravar o PVBI11: fundo negocia abaixo do valor patrimonial - A Revista",
+    "resumo": "Selic em queda pode destravar o PVBI11: fundo negocia abaixo do valor patrimonial A Revista",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjBMWnRZTjhFWEE4WVpXVTkxc0k0R2tqdWphNDNkYWl2WHh2VmNMbDdIVThJLWhpajNUcnRYM010SkluSm9XckxmTDJuMFA5bVB1MUpzWUFvZHRwWnNEb2QweXZiRG5uUzNlTENlZ2FmMjV1Z0NPTngxSEhnWVhnTnVlY2UwS2RodXRLWnhvWXB2cWh5VWdnVzhncGlMZ1N2bVZOSFRMTl9FZFF4QXln?oc=5",
+    "fonte": "A Revista",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "38eff4d544c10e4b8b8f777ba5ad09d2834fce43ca442bf295681873bee7900b",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IBC-Br, prévia do PIB do Banco Central, sobe 0,1% em maio, acima do esperado - Estadão",
+    "resumo": "IBC-Br, prévia do PIB do Banco Central, sobe 0,1% em maio, acima do esperado Estadão",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakdOS3RFX1lmaG5CQlFyZlloRFJlUWRTQVdFcUhFdHpPdmJySnp3bEZaYmlOOUp1R05NR3JrQ2xEM1l2dUNZdlA5TkgzLURwNnBNMU05ZXJESmx2bm1rdHo4N21KclFQWWtzYldPRXdlTDZndVg4SFJBd05ocC10dkx2M1FwSnl4OG5Mbk13VQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "8a5185931f81b89544abc745a3d68586dba2d69d3895d1f4ca68a2f863954b0b",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -22,47 +49,24 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "'Prévia do PIB' do Banco Central mostra crescimento marginal de 0,1% em maio - G1",
-    "resumo": "'Prévia do PIB' do Banco Central mostra crescimento marginal de 0,1% em maio G1",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnFfRUxwVlhpSHcydDg2bWJ6cDloR1Z1Y25fX0hxblltZ0dsUG50WlQ2dTFRc2NEckpCZDRHcm5PSmZaT1VOcG9VVF9QbERMYm5tS3JLU1RLZlBBM3ZfUGpCdWVUR1RlMDlIWnIxUFZEODZuX3BQejRVYzZ1UHlfNzhVUHUyMmJQclV0dG8wQXppR3lqeVRhS3dEWFliYU43VUpRdkdSd3k5YTNWWHZIeVNweDBsQUU5dXU2YXhpM0VmRG96OUZjVkk5X1lmcVXSAd4BQVVfeXFMTWZkeG9CeGF5OTRNMjM0Y3lSeld1Y1RoMnRtWWFacXctWVVrWHhicGtURkNRSlFKZGREc09xZk1XWlBVY0NNMUJyM2dsWE43TzdhNHZPN05qQ2xSekhQeHd4MngzVFJ2VVZqcE1Ga2s2TUZFTjdQWElLM1VSZEQ4dy1XR2lqUVdUVE9vaVlLdmp0RVRsZ05YbTZOek9mMUhqRVhhS290TWpqcUJRMzdibUJHMWZ1Y2x4bVBxMlI5X0p4cG1MdVVJNWx5MkFxZXEwaDBuSnRIUmYyN1NsU1F3?oc=5",
-    "fonte": "G1",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6c720a50d30fef797fa55e2b2753acb5be40353ba8b6805fc5c4ced152983ac9",
+    "titulo": "Elon Musk deixa de ser trilionário, após falha em foguete da SpaceX - VEJA",
+    "resumo": "Elon Musk deixa de ser trilionário, após falha em foguete da SpaceX VEJA",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGsxaGlBNmJDVGFNMWwxQk5jVnY2Tk5MWlNJbmdNMVBqWmtEQzZmdGNNWW5JWnJreDROemk0RU03MlZTcWVXQVBoLTN4ZXlLbG5XUEJiZnBHVUpzN182QlF5WjhoRTdDcHhyb1gwQ3FmY1V2TEppZ1JaNk0wSnZ0aXlqVVhZLVVjOFp2dnprWTh2NmFKYWUtSDk3ZlRHbHZac3Uycg?oc=5",
+    "fonte": "VEJA",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "d20daea408e785b368db9bca80b4f833ee0112a930f04937fb61f37251c2f618",
     "ativos": [
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Prévia do PIB avança 0,1% em maio, informa Banco Central - Vero Notícias",
-    "resumo": "Prévia do PIB avança 0,1% em maio, informa Banco Central Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFZYTY2UjNucUMtV3FLd0VhNlZiTmJBZEZwd2ZYdnlXRm5XQTdWRUVhWlpVektLX0ZVcWVHcllub2VoQjZUdXZkcm5QMm5OZXJSVUdFcDVQVVFhSno5eWFCby1wQURHQ2lfS2FUVFNMbTJiYWU1RHRYWFhOVm9KQ0dERDRxOUVBOVFxb0d6WVl4Zw?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cbea824ed9242a566462a4bfccdb13c594005599bf7551261261f46a5fc05362",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
