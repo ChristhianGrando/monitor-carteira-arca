@@ -1,72 +1,72 @@
 [
   {
-    "titulo": "Selic em queda pode destravar o PVBI11: fundo negocia abaixo do valor patrimonial - A Revista",
-    "resumo": "Selic em queda pode destravar o PVBI11: fundo negocia abaixo do valor patrimonial A Revista",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjBMWnRZTjhFWEE4WVpXVTkxc0k0R2tqdWphNDNkYWl2WHh2VmNMbDdIVThJLWhpajNUcnRYM010SkluSm9XckxmTDJuMFA5bVB1MUpzWUFvZHRwWnNEb2QweXZiRG5uUzNlTENlZ2FmMjV1Z0NPTngxSEhnWVhnTnVlY2UwS2RodXRLWnhvWXB2cWh5VWdnVzhncGlMZ1N2bVZOSFRMTl9FZFF4QXln?oc=5",
-    "fonte": "A Revista",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "38eff4d544c10e4b8b8f777ba5ad09d2834fce43ca442bf295681873bee7900b",
+    "titulo": "Dólar sobe a R$ 5,11 e Ibovespa fica estável em dia de queda global de techs - Bloomberg Línea Brasil",
+    "resumo": "Dólar sobe a R$ 5,11 e Ibovespa fica estável em dia de queda global de techs Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUC01ZXF6a2lxMDlZb001aG1IdlpITWE2cmhoVXV3azg4Q3VTa0tNQkN3cFNGNkRBX3V2VUpoUHhPNkZndDlXYm5nazFtNkZBVEFOWVRCdURJd2c3cmdFR1poakpac21MbDE5cGJ5LVVJVW5MUEd0LTZHUWRVV1V4aEdjeXZHQUdJcC1JdGR4dGlhWlp4bm1IWXR1UlhoWDdWdkZWc2ZZOS1ON2hFRlpYdHJqQVZEbkZuT1HSAc4BQVVfeXFMT3pRX25JUlJiaVFrVFdhSnRkNmNpRHhSb3hRSmxyMlUwWlVHcEttbThkem50bWVQR3pYRFA5UF9CSlNMcUV0dF8xRTFQNXpla29fVkx3WWxkTGcxeFVHX2FCX1lmMzBoY3NmYnp4Tmlad3R5R2U1OTh6ZHk0R0llRWJJZXBjaTdFd1RWdnlyN3VSejF0T1NWZ002T2UyYUtXMF9INlVYRjY3OHQxOFB3c0s0Q3pTZzAtc3dPMUFMbElXTV9wR2tob1FXQTJsNXc?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "02e7006e46ce909dbe02b6c2605733f7eb9e2d084d1b92eb3fbc56e2e5111b2e",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 15,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IBC-Br, prévia do PIB do Banco Central, sobe 0,1% em maio, acima do esperado - Estadão",
-    "resumo": "IBC-Br, prévia do PIB do Banco Central, sobe 0,1% em maio, acima do esperado Estadão",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakdOS3RFX1lmaG5CQlFyZlloRFJlUWRTQVdFcUhFdHpPdmJySnp3bEZaYmlOOUp1R05NR3JrQ2xEM1l2dUNZdlA5TkgzLURwNnBNMU05ZXJESmx2bm1rdHo4N21KclFQWWtzYldPRXdlTDZndVg4SFJBd05ocC10dkx2M1FwSnl4OG5Mbk13VQ?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8a5185931f81b89544abc745a3d68586dba2d69d3895d1f4ca68a2f863954b0b",
+    "titulo": "Dólar sobe 0,25% e Ibovespa cai 0,06% com tarifaço dos EUA - Poder360",
+    "resumo": "Dólar sobe 0,25% e Ibovespa cai 0,06% com tarifaço dos EUA Poder360",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG11U21pcUFubXVpbDczZHlwaFRHaktrY3UzYW5mRHQ2cDFIZUgyVFROc1g1bm5CR3pYY0xpNTQ2QzBtZVVjbGFpT3ZrSHlvUG5NYlJBeW5kMlNYWG12aVE5VWRmN0daUFllb0NCaXJfT0NRWC1oVUlXVkpJUUFSNUFQVDFaVUJqQUlYbElNWUhaZ3I4bjZORWZGOHgxOUk?oc=5",
+    "fonte": "Poder360",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b644d5889af6314b255d241e59fc60110951a18b8f5b5e3c16098c599ea6aac4",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Elon Musk deixa de ser trilionário, após falha em foguete da SpaceX - VEJA",
-    "resumo": "Elon Musk deixa de ser trilionário, após falha em foguete da SpaceX VEJA",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGsxaGlBNmJDVGFNMWwxQk5jVnY2Tk5MWlNJbmdNMVBqWmtEQzZmdGNNWW5JWnJreDROemk0RU03MlZTcWVXQVBoLTN4ZXlLbG5XUEJiZnBHVUpzN182QlF5WjhoRTdDcHhyb1gwQ3FmY1V2TEppZ1JaNk0wSnZ0aXlqVVhZLVVjOFp2dnprWTh2NmFKYWUtSDk3ZlRHbHZac3Uycg?oc=5",
-    "fonte": "VEJA",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "d20daea408e785b368db9bca80b4f833ee0112a930f04937fb61f37251c2f618",
+    "titulo": "Bolsa americana fecha em queda com pressão do setor de tecnologia e alta do dólar - BPMoney",
+    "resumo": "Bolsa americana fecha em queda com pressão do setor de tecnologia e alta do dólar BPMoney",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHEzMXA1NFFUSjlYRXV0QnlYOFdMN2hXeWNLS2c2ZTNOUjhQTjQtaGZob2VvVUlzNDFnX1czYm9qUjZucmkzcUpEcWdxU0wxQkVWUnRtWFU1NEF5MGZZX29hcXFjLUxNNkZvUmtUbWFGVlN2Wk16NjhYemtwYjR2WnJud1lZZw?oc=5",
+    "fonte": "BPMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "344f6ccd2b1536d57d0ab4d06c6e0542bdff83245f5376540b6b8edd02849cf3",
     "ativos": [
-      "SPCX34"
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
