@@ -1,23 +1,51 @@
 [
   {
-    "titulo": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana - Money Times",
-    "resumo": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana Money Times",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zd29oTTIxekthRmJPOXB0UF9TdllwQkZBSGlDbTJjYy1odEh0VnZnNjI5WjdoRmdqZEtySkJleGlEZ0tVb00xaVFqbm5LcEgyVE96X3JRQ3I0WktORHNUMk1pMDVwUFpIRldKTjVFWFpZZw?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Gestora do Nubank estreia três ETFs de Tesouro IPCA com novos índices da B3 - Estadão",
+    "resumo": "Gestora do Nubank estreia três ETFs de Tesouro IPCA com novos índices da B3 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa3VWVFAwRlRQVmN2SkxObnQ2aU8zMWlabjhwdTlOTFpURjM2Y21QTjd4T1I2T2RfY0xSYTVjNmJoWWdiaG9ucVVqNWRRZ0d2bG9RREE4bDR4cVBIdjVmNG13MVBnaGRna1FiSVNxc21pMk9LdnRxQ1NQN20zTkh1RENoaWFmM1JoRFh5Z3hKRmhoUmJzb1pDWWJrUWh5NkFvWTBCR0tQSS1yS0VmdkR5aEJjcVEwaERzQnVmWG9UNEJmVjN0QVVaY1ZpQzZvLS16SEVRWS1DSXNSNE96?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "610eb6044c5a5d8f7c589dc8b56b1570e85e79151cca3890bdee77c32d03ad49",
+    "chave": "1b93ed703f491f9fb0f9e0142d4330a7d906045c0cb49eda7521ce4d3584fe14",
     "ativos": [
-      "IBOB11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ações da SpaceX valem 8,15% menos do que na estreia e investidores apostam que cairá mais - Folha de S.Paulo",
+    "resumo": "Ações da SpaceX valem 8,15% menos do que na estreia e investidores apostam que cairá mais Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTmRWV3ZfRlJGWDZlWERudVJwbjhHZ0s3dlFFSE1uQjA4NnhyQkhENHVMZGgtSC02NnpRYmNuY0tDLV9tQkVOeTFCVl83QzFwUGxVZVpQMUpsWmo5WGlMbWJHT0RuNGtydFYyOW5kNk5rdW96eDZjOVZPSWRRNXlQMFhSYWZ6MHlocGFkcXNkUE9RREpCbjJ4SU51bEdkRk9kOUZCWEl2bWk4NElQdktla0g4S0dxNFhOM1NuSWdoV1hEYjR6cEdFanBrUE94WUFoNnJVWGxB?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "555218cee5fb9f84a747ecacd9f309ccc4cb7f30562bedad3faa141096ce9b31",
+    "ativos": [
+      "IBOB11",
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Ações Brasil"
     ],
     "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
