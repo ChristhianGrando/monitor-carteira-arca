@@ -1,9 +1,9 @@
 [
   {
-    "titulo": "IPCA abaixo do esperado faz títulos prefixados dispararem - CNN Brasil",
-    "resumo": "IPCA abaixo do esperado faz títulos prefixados dispararem CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU016bEc1NjhkQkZjcS1UZFoxcDk1QmFhczlYVTFRTjhnNjY4aEc3RHhqQmE3OUVYX3N2dkpDZjdMTGg5cFpFTlF1eVdTbHZDZHVwSjZWUFNvRVVRUjRFTzF6UUN5WHcxa0lwYWdhMExkNm5IOHdaWG9HLWhENDREVFUtMllmMl9CVnh5QXBJbEMzS2hhWFJhbHdPUTZMTEJVMnR3UC1PaEZ0aTdzaldr?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "A queda da Selic não significa crédito barato — e esse é um erro que ainda custa caro - Monitor Mercantil",
+    "resumo": "A queda da Selic não significa crédito barato — e esse é um erro que ainda custa caro Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQellhdmV3RWVST2tIb3BBb0xKUzNUS19QcG1BSzVWLVc2aDRkTkt4SkZ2RjQtbkhTbHEwUnFnVHlDTjFydzkzeDBPTFZEeW5GWXppd3hOQXdGZjBHR0hmaXYwMDBjQlY1VC1rWkhBbE9hZk4zc09sWUJIQnRhTExEU2lOZ0Z6UkNzUzRmQzhXRlVFRG9PSURIVlJXZElYWWlLb2NLWVVsZnhwTGlfYUF5LWh4akdqNEU?oc=5",
+    "fonte": "Monitor Mercantil",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -14,166 +14,166 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa na semana cai 2,33% com tarifaço e retomada da guerra - Estadão",
-    "resumo": "Ibovespa na semana cai 2,33% com tarifaço e retomada da guerra Estadão",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2k2QXpJVktlT3ExR25YamdTakRlaHNHOTN4Q2NZMjMwY1BwdDZ1XzBOTUh2eDJWdmJhdS01Um85SnJ5LTAxY0N1MGRzblN4b0JkV3FHS3NmQzNUUVBnSW05WkNaNEcyUllFMUdDdThuZW10dTc4TGNkbGU4WEt5bWswakVYOENLanc3VEtQV2NWWGxqMFhDd24zRkRTRmd0Z1dTLVpvVy0zcWY2NzVtZGZfWjR5eVY5X1RiRzNvN2Z6bGs3VEE?oc=5",
+    "titulo": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana - Money Times",
+    "resumo": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana Money Times",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zd29oTTIxekthRmJPOXB0UF9TdllwQkZBSGlDbTJjYy1odEh0VnZnNjI5WjdoRmdqZEtySkJleGlEZ0tVb00xaVFqbm5LcEgyVE96X3JRQ3I0WktORHNUMk1pMDVwUFpIRldKTjVFWFpZZw?oc=5",
+    "fonte": "Money Times",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Ações da SpaceX caem 5,4% após adiamento de lançamento do Starship - UOL Economia",
+    "resumo": "Ações da SpaceX caem 5,4% após adiamento de lançamento do Starship UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlJxVGV2X0RTX1V2bUlWZy13b1J3bUFiSjJ6NWs4cWIxc2VwbkI3MFIyZXFFR0RKWko5cVJpRXRiZXBPRF9PRkg1S2hycG0xSUllT3MxWUY4ZkhQMUc4NEN6UlBCcS0ySUxMd1dSM0VrNDlqZ3V4UVVLdTRnY2kyLXlKQ0hCN1hrbU1vT3VhY2pBTklVSXdTb2IwaUNpQUFQNnl0SHJMaWRsQUNSZFN5dFpsaDA5QWxGaXJSQ0lLcktwTXM?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "SpaceX apaga US$ 1 tri em valor de mercado após revés no Starship - Diário do Centro do Mundo",
+    "resumo": "SpaceX apaga US$ 1 tri em valor de mercado após revés no Starship Diário do Centro do Mundo",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdm9EdHFWVlV3Q3h2WjAyYUliMksxWHJlT1ZWNGNOQmt1azZDZi1PbTNPZnZjQk0zUV9kazVTSHZERkUwRDFvSGNpUlZ4NjFhUzdXRjNEVy1oVi1qdFpsYWdQMVROa0J0cUJWVXl2NVd5a0YxZHUxTGtSd0NrMzYwcmgxVW5rWEtfaFJqamJsbWlPZXFUc1BhdkxlRUdYamhOWHYyNGVlaXZxQ1lqOGMyWUo3aGJMeU1rSWpOalpZQl9YSUJ0?oc=5",
+    "fonte": "Diário do Centro do Mundo",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Ações da SpaceX caem abaixo do preço do IPO: o hype acabou? - BeInCrypto",
+    "resumo": "Ações da SpaceX caem abaixo do preço do IPO: o hype acabou? BeInCrypto",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfYkI0NFV2ejM4akM5eV8zbWFpQ09jNXR4ckZ2NzVDclQtN2JieGdydjRzYTBPdEFZRnd6M3RfNHVIX1VoVll2U0RfZWQ5aW03dGRiY19uLThLRDNZamVSSl9FSXpLNlhlam1v?oc=5",
+    "fonte": "BeInCrypto",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Maior que muito IPO, fundo imobiliário BTLG11 levanta R$ 1,8 bilhão (em cash) - NeoFeed",
+    "resumo": "Maior que muito IPO, fundo imobiliário BTLG11 levanta R$ 1,8 bilhão (em cash) NeoFeed",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc2dRVVFGeHhQN0FLdmJMakFzNHE0amZLT1liR3gxbDg5MlQ0UDVCUDlIWk4yTEVrT2xmOUhQdnJqa1MyV3huRTFEYkFYSFJ1WHlvOEZYNmszU2pjcF81OFpNX3lBYlVWbGVZSUlwaWlIT2VBYWlPaGRhcGtIckxHbng1dVYzalhoUFBvS0JQTzZhZkh0ckljb19YZlpPN2FZeHFpVGh3cmw?oc=5",
+    "fonte": "NeoFeed",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "O foguete deu ré: SpaceX já perdeu US$ 1 trilhão em valor de mercado desde o pico - InvestNews",
+    "resumo": "O foguete deu ré: SpaceX já perdeu US$ 1 trilhão em valor de mercado desde o pico InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11elQ3Y19GOTdaZlFuVGNiTXBPZ0lrSGlRV04yWFlxSUtPeVRKMjVxek9IMi05YU9aSHZ2dE5XbHJmeG1sMEVoeDhoZHpTWGpidmM2dkg0Zk9GbEhKandVQ0JuVUt0cmxDcFHSAW9BVV95cUxORDFKSnBQaXJTRVYzM2JWaWpyQ0dNeF8tbGxOaUJUa3lvWldLdy1WMnk0aWxkeUN0UkhscWpkZUN2ajZxeGk5azhHQUdzVmhIQ2tCVGprV2l4cURKM0NLMXd0TF96Uk90cjlvdTRLVGM?oc=5",
+    "fonte": "InvestNews",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "SpaceX perde US$ 1 trilhão em valor de mercado após queda das ações - Brasil 247",
+    "resumo": "SpaceX perde US$ 1 trilhão em valor de mercado após queda das ações Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlhLQ1pjQjJsSWhBNTk4R2pFX0txTTN5NC1xaC12UzV1bEVrVEk2TGoyQU5nOFhPM212SHZJNFBUVElvSVJUUkg4bmpIazBNS0R2cnVJTE5kT3NoWTZ3MUdtSnNOMGZLTjVVVzFaa3BqQjV1QW9uNkxEeXZvQUZMYVlhbDV2MzVvbGZycUktbmJZT19rUFJwMTE4ZnFfd3Nr?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "SpaceX perde US$ 1 trilhão de seu valor de mercado com queda de ações - O GLOBO",
+    "resumo": "SpaceX perde US$ 1 trilhão de seu valor de mercado com queda de ações O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3huXzhtLVBNYVpiUVd4MlBJS1JMWWJUSS1YQVRsdUVSbjFJZUROdEUzb3paUWhfNG1zT2NxYnBLaVhwc1hvRXdBOVNyT2NZSk9Od2ZFUWUxTDc5aVFLUHJlZWNPX2t0OV9wSHpiVGd2LTNtRHU2N3p0NUhaS19NX2lKR0hZX21QWGpGams3Wl9KbTRHMEF2c0REaUEzNnhhOFlONUlGcE1TT0xtZjg1TWtXd20wNG5ybDZQenQzRkpUdTZvSTBHd3QxWmxYWG1FWHfSAeABQVVfeXFMT2ZrLWZtYlBqNW5EUXB3ZEhCNGRjYVpKU3NtQXdQODBabmJlVnhaUUpwZkEtUEJqYkRNQ3BaZTFmM1Bsclg4aF80c0FDUGxEbGJudnQzcWxxVjQtUlplUlBkdW5DeWtvRXRMLWdydWFkeF95TlVsMVZ1aDFOM1hXTDM2VGlrdmZWcUh1S1MtTzhPWGRWb2FiUndOVU8ybldKdjBvbmNYZTlnTGttbnlZU1V3LUdENUpkeTFQM3NvYlgxbW1ZR0NLSldEVUJzVkxCRzAyQjRIVVZIbDZ3YUo5WWI?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Índice de Atividade Econômica do Banco Central | IBC-Br - www.gov.br",
+    "resumo": "Índice de Atividade Econômica do Banco Central | IBC-Br www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEVzcng3OHBxVE1ZQ01tejVxOFRLWFdGaTZlUU96Zks4bWo4WmkxVzRkenppVFl6QWlfZEJGZ1ZMSzFWR1dDenZhMXZJYWhJSXJWUUVFUlA4QV9zdTRJVEFVM2pKdzV1MkR5ZW45dmtPXzRnZjFCbzdRNGQxLVpxSDM4Y0JETW56NGFkUHVqaXdMU25JaHktZC03WWxudUJ2Y09Qb012eDhRelRoZ09oWUQ5RmxyVVg5RHlLdGs3cUhmYUZmZ3gtMkdrbFhGTnBDNVJhNFl4SkV1dUoxZlBEY0Z0SV9ZQ0gyMDJrWHh1UGI?oc=5",
+    "fonte": "www.gov.br",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Detecção de fraudes cresce 10% após reforço das regras do Banco Central - A Tribuna RJ",
+    "resumo": "Detecção de fraudes cresce 10% após reforço das regras do Banco Central A Tribuna RJ",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmlzTTVvQVh1RXItdE1JYVFMLUZYY0dsV28yWmN3TzlCd040T2Fpajh6aDZIb0tnYjYwZTA0YXlCSEV1VTViQlpCQVprNjdOamtYempCRnpGYTJ3NjFxY0I5V1FOMV9KUWl2bDZBaDFydVhGZzdWRnhXVWRQMmR3cHVfNTI0eFBrOUpQTDhrWlZVMmlLYmlraGpvbUpreTFMc2FwQ05vZjdMNXdK?oc=5",
+    "fonte": "A Tribuna RJ",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "IBC-Br, prévia do PIB do Banco Central, sobe 0,1% em maio, acima do esperado - Estadão",
+    "resumo": "IBC-Br, prévia do PIB do Banco Central, sobe 0,1% em maio, acima do esperado Estadão",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0I1LVM2S1ZFdm9meHdLNVNDS1RNY3Z6RHZwZTNTYXQ0ZDFKYkFON19QNFBDUlFaRVRRZXJneWllcTN1R2NDRnR0eFRMWkdsLUtmaG9XT1N4X19leEdGUFlSWFdQUktFaVFsX3dtdXFwWDJjQ1FsczUzenVyS2dka0llNHrSAYoBQVVfeXFMUDdJTjhIZmdmWWhXSUR3LU5nU0k2cGQzdE0tR0FyUTlsTjZ2OC1KRGpPNlBTU0M5ZGNjM0xZdFNJYkFDM2FkaTRvX0JUT0VvSjhEQmg3bFlqZVBfNHZ2dTZoOWMxUWdJZTZEVHllWnhCdlFQYmxaOXhfdmZya0t4bkVjX19OaTRqUHBB?oc=5",
     "fonte": "Estadão",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Falha em motores da Starship derruba ações da SpaceX e reduz fortuna de Elon Musk em US$ 45 bilhões - Jornal Correio",
-    "resumo": "Falha em motores da Starship derruba ações da SpaceX e reduz fortuna de Elon Musk em US$ 45 bilhões Jornal Correio",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDc1YV91QXBvM1ZMMHhVQWtRVG8yMkpGNFNhUzRUY2hkOU5xb0hzSDQyeUNZRlVZd2QyWVk1dC00YjZtYTltRDdOV0k0RU5IYmk4OUtfU0t3WnZRWDBvRzJHdE9CY0FfVmVTOG5YbW9QLThkWDczdTlPWXpNVy13TXZHTVU1eUlLMXZYQ1RyRmo4TjZ3NUN0ck96N1FLNzFEQWFubUFSdkt1QTdTWFR4STg3OU5jWlIxZzBLNUM4eFI1eGxwWDlQV2EtSlFhSFI3QVVXVGdENExnVkFnc000?oc=5",
-    "fonte": "Jornal Correio",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Maiores altas e baixas do Ibovespa na semana - trademap.com.br",
-    "resumo": "Maiores altas e baixas do Ibovespa na semana trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMVg0LTFUTTB2VGMxWkdzaWVtRGRtM2RZV1pxa2RkRDlHMXBBSk9nNExjSnVRUXk2Q2hsMlpNY1pVRnBITW9HaHR4NHpkc2NGUnRXS2U2SVNrQ1A4OHdtQlRmSHpONW5VWFd3STFFeWJSWTdVYTlYZGVPNUU4Q2U3TWV5NlVqUQ?oc=5",
-    "fonte": "trademap.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Ibovespa encerra estável e dribla aversão global a risco com apoio da Petrobras - Valor Econômico",
-    "resumo": "Ibovespa encerra estável e dribla aversão global a risco com apoio da Petrobras Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON0ZDVnVENGdSSVN0QTBwcFBTbC03cjFxN3I2aHdybTN3MlBidWM0cXY0Ri00ODMxRFA5N195T3FpZU8wemQzY1V6cnZScTZfWHlTLXVhR0lOQUhTNTN2d2J3dVlVbERQSTM2dkhYSlBLUkx4Z0N5MDRJUnYzOHU4akRzSTh3UVNBV0V0THUyV2QxSUJTei04dlVOY0Y0TzJPejZTWW5xSXFERmVBcGVrV0M5SEQyR0JjS0RkVEt5MmhwaEE4MWF5aHBzY1BTY0t5TzBJbjRvY04xd3FheWZtNmlR0gHiAUFVX3lxTE43RkNWdUQ0Z1JJU3RBMHBwUFNsLTdyMXE3cjZod3JtM3cyUGJ1YzRxdjRGLTQ4MzFEUDk3X3lPcWllTzB6ZDNjVXpydlJxNl9YeVMtdWFHSU5BSFM1M3Z3Ynd1WVVsRFBJMzZ2SFhKUEtSTHhnQ3kwNElSdjM4dThqRHNJOHdRU0FXRXRMdTJXZDFJQlN6LTh2VU5jRjRPMk96NlNZbnFJcURGZUFwZWtXQzlIRDJHQmNLRGRUS3kyaHBoQTgxYXlocHNjUFNjS3lPMEluNG9jTjF3cWF5Zm02aVE?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Previsão para o Índice S&P 500: Meta, Microsoft, Alphabet e outras empresas continuam aumentando investimento em IA, podem sustentar índice superando 8,000 no segundo semestre de 2026 - TradingKey",
-    "resumo": "Previsão para o Índice S&P 500: Meta, Microsoft, Alphabet e outras empresas continuam aumentando investimento em IA, podem sustentar índice superando 8,000 no segundo semestre de 2026 TradingKey",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUC1rZVpYdkQwTF91eXJWZHVGdTdiMzg1VzF3Tm1GVzNXQ2lWWHBzcklxNjZuWjhlTGpsSXRRR2gtNm43UUdtakpCWThZSVV2ZHJ3WFdOcjJRaUZSUG0xbDRpZDRud0pRWkFFeWJFc25RNUJWbVlsOWxyTjNDRlhkeXljMWl4dVRSTEJmYmNxNGdxamplRDJ6bjc2bVh1TnpvYTIxZVBONUFLdjNFbDZDdmhkb3BCQTU5b1d4Qm9zNms0ZjQ4VmcySWpVZnNMR0k4dTNhOTlHLWlKZ0Z3a2h1YXkyQTVvRU8wb1Nwdg?oc=5",
-    "fonte": "TradingKey",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Elon Musk deixa de ser trilionário, após falha em foguete da SpaceX - VEJA",
-    "resumo": "Elon Musk deixa de ser trilionário, após falha em foguete da SpaceX VEJA",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGsxaGlBNmJDVGFNMWwxQk5jVnY2Tk5MWlNJbmdNMVBqWmtEQzZmdGNNWW5JWnJreDROemk0RU03MlZTcWVXQVBoLTN4ZXlLbG5XUEJiZnBHVUpzN182QlF5WjhoRTdDcHhyb1gwQ3FmY1V2TEppZ1JaNk0wSnZ0aXlqVVhZLVVjOFp2dnprWTh2NmFKYWUtSDk3ZlRHbHZac3Uycg?oc=5",
-    "fonte": "VEJA",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "SpaceX planeja outra tentativa de lançamento da Starship na próxima semana - InfoMoney",
-    "resumo": "SpaceX planeja outra tentativa de lançamento da Starship na próxima semana InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDNELWRnWWNGb003NVpxaFY1VGNfY3pmdDRxcmtpalZ0RFFnNFFQMHJDd0o5MW5BSUd4b3g0T01HUno4SC1UbWUyamxmMm5DVldNVFF4OHJZVWZMWjNMX0hfZDVzUUdzS3Fmbk1pVWV1dmx4ZlNVZklpYlI2N29FOVFiX1JzVllyOHZobUtDTlNHTmlpaHBhdlJPMGhmUU1sYW9ZUGVHS3pvU1dxc2hiZ192SdIBuAFBVV95cUxQeUVBZDkzem5lQ1dyRHVadnhOTHJWd2dTOWZSZ2pWVnFHNzI1VlNVeU0xLTZrazNVTElPUXRtUW9jOVI1alB3M2FSb3F0ZmpxNWNWWDZhNzgzdWRZUGE0RHdRVko2a3lKMlRVWXZJVGFMQ1RmdzNXVFFxQkttZ1pwSzZSZFZUeTY2WFpZNVpTcDI1SHhQU09ZbXRKeFVhZDNVSkJsX3ViNmlDS05ROE50VWt6bHF1QzB5?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "SpaceX vê ações caírem mais de 5% após cancelar lançamento de um de seus foguetes Starship - Times Brasil | CNBC",
-    "resumo": "SpaceX vê ações caírem mais de 5% após cancelar lançamento de um de seus foguetes Starship Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWxWZ3FYUGlkNVNpc0F3ckpzd2h0OElHMWdVSUZGYWZIWEhDc0h2RUVMWmZWaU51R2JxNVdMeHJ6SVVkdTdybTctSEg2Y09qRG5kZ2paODFsWk9YTFNCUDFXTlpUdm44cFFsVXRYQ1JpYlVhRE9aemRRVHlpN2tBTElvYkFqeWxIUkhYNDBJeW9oR3RnUkJYdllRdm1nWlRIS2Z3NVhn?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Elon Musk: SpaceX perdeu força um mês após estreia histórica na bolsa? - BBC",
-    "resumo": "Elon Musk: SpaceX perdeu força um mês após estreia histórica na bolsa? BBC",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DQW4zMDdHcklsYU15UkdlcUF3RExxXzVIME1EOVdBR1RLdi05ZnpkRmI2Vl9IQmc4Tk53TTZyeEo5Qk5SbEZWc1FTak1zM3pBU01xdVNtR1hiWHdWaURLRUd30gFnQVVfeXFMT29SYWRFSkF6U01IdDhGNlBtZHRjenp2cllBUkl2V190eTd4NjdhbDRYY2pFbXJGZGc2LVBNVXJ1TVhpZmU1M3FLSTloZm81YkQtOWxFUmsweFN3TGQ4cW5IMEdZN2Iwbw?oc=5",
-    "fonte": "BBC",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Elon Musk Pode Dominar o Oscar 2027 -- Entre o Documentário \"Musk\" e Polêmicas de \"A Odisseia\" - Forbes Brasil",
-    "resumo": "Elon Musk Pode Dominar o Oscar 2027 -- Entre o Documentário \"Musk\" e Polêmicas de \"A Odisseia\" Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbGpBazZwcThxN3NFU193YUI0RXRZanlpOTU0ODN4NkpVcmVYMnVLY2haQngzTmd4OWFvQ3R1RG4zdWlpeWFyM3J1TGY5UEZEaTZNVWhReklZOXNXa0JmeEpRcU1OTkl1THJ6V0xRSllxaTFadlZjTnlEeDY1N0RHZ1o2MEN4MTZEdFhqYmY0anFLQXhtM1l0TVRsOHNVZk5LZmtWdVZzYjRnMlVXSjJMcjJxQWNjcm53X3NyTXFJNTVNRFlBU0I4dU1R?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "titulo": "Galeria de Banco Central Europeu / Coop Himmelb(l)au - 19 - ArchDaily",
+    "resumo": "Galeria de Banco Central Europeu / Coop Himmelb(l)au - 19 ArchDaily",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRV9BRVJUU3RTQ1ZIOXlYTG9xU2Jkd1hTUGJvQUktMWRZU19icFZVcXhad01RenhQcXB4b0VlXzRqS1NJLTYxX0ZPX0Uyb2ZGRlhNYzJEekxla0JRUXpvV2ZJRVFqUGFoSkszRzY5R0ptT1V3WEh4ZXRoajR1RnBaSGdhYndFRW1qbEIydUVRd1hLa1NXZFlxZVN1R3RWbTdONVZ6STUzODktSmJkVlc0NWc1S0RjbGtnOFZ4WTZfdzRHem5XVnluT21yeHNwWF9WMld2dHNtNkFtT29wTDd2dnI4bw?oc=5",
+    "fonte": "ArchDaily",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ações SpaceX: descubra como investir na empresa de Elon Musk - Investidor10",
-    "resumo": "Ações SpaceX: descubra como investir na empresa de Elon Musk Investidor10",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckJhSVUxM0dSTlh4bWh3cG5RTWZHd3FCeGZOUkpPN0Y0eWNwNXJiSUstU2RKQ1o0ek9ZQnBsY3lIQ3JiczFNMXVSOUxjU1c1TnNLZEJscFFhOHVGZE04bzl2cWRwcGhhaTBRaXA5b2xHT3hnb3dCLTdINTBET0NVY3JYbTYwZXNVMFJCU1JtQjVsa2hIV3RoeVgwWE1pcEQtQk5XTEZrONIBrAFBVV95cUxNakpmVUF4Wk43blFwOUh0aGgtSlB5aWYtdEtxTno5VkhDUjdncGhPRVRXamxhYy03VGZZVndSaTAySjFfUGtRZUZfM1JaZ1VBczhFWDU2c2d0ZEJaVTNld1RkQkVNRjdFdEw1Q1B4X3BXeHd4VXhIZXlyUG1LdDd6c01KVUdJckd3bWZybDNGUWR4OUItTEQ4SzFXd1VHemdTVFdjT2ZPbkpjV3Z6?oc=5",
-    "fonte": "Investidor10",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "titulo": "Prévia do PIB sobe 0,1% em maio, diz Banco Central - Poder360",
+    "resumo": "Prévia do PIB sobe 0,1% em maio, diz Banco Central Poder360",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0ZCWHlkMWZFOVB0bkRjTW8wTUpvWFR4X3NQa1ZQcS1wa292X2ZabUFXN2hOQlZXdEZEXzRmYUc3Ynhaa3RFNXdIRTUxaTdteWwzTUt4VTg2LUNGUzBwNXk0VGNLY2FfWjVXQzRMZjVya2g3ZTVwT3MwaUVmcWtEU055VTcxdw?oc=5",
+    "fonte": "Poder360",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Patria registra locações 31% acima da média e vê nova fase para FIIs de escritórios - InfoMoney",
-    "resumo": "Patria registra locações 31% acima da média e vê nova fase para FIIs de escritórios InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVFuV3hINThuRnRCX0Z3WEVTbVJ1S3JhbDhVcEtNYXRTdzFOUGg1cU5NQXFoVVU4ZmRyOFRFUGpXdy1WQmFfQ2pHVVpuM3M4R2dUWUtXZnQxUk1RTzhMWG9DSm5sOVBIS2pEM2tvdExTYTBoMUN4bVZKUWhZWlBOOW5nMXVRUmFvXzR5U2dqbXlVRWMya2R5ZW4tQldtbmJYX29uV3VpV3ZIWVEtOElOY0R0bTJDY0QxN0wwUTV3NFd4VmlI0gHKAUFVX3lxTE5JLVZ6NFdHNGFXaTMwTUp6YTE3LVI2Z3A3Y1Z1bi05VXA4cmwwWVJxRkdwNnFST1dlUkJVamVFTVlSOEwzNlNlSmc0aGFIenltWXJZMFJEYWxVSlEwYVpkSUZvbk1QVlhaMXVwMHFvdmJ5bW80WXRwdzdCdkJnbE9SX3VGTkRsNkFMemRQY0lLdnJhdm5Fd0xfVndkelVTVFZHeFo2aHc0R1hTVW1aSVYweXdEelNDd0xQV0pWeXo5ZFRBeFl2Zm52NGc?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Fundos imobiliários: MXRF11, KNCR11, BTLG11 e outros FIIs trazem novidades nesta semana; confira - Empiricus",
-    "resumo": "Fundos imobiliários: MXRF11, KNCR11, BTLG11 e outros FIIs trazem novidades nesta semana; confira Empiricus",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdElmTTJpZEc4NnJTUkhOejhwZXhLQ3RQRldKamZmZm5xR09jRWoxZ2QxcF9JY1VZRWFBVjJIVEE5cmp4Sl96Zmw2aFhNTUhDQUtkV21KYkJvM0lNd1p1a0VUREdaNzhyaVhVb3A1ckpZRHhpVFU2Z0FhenZKQWI4Y0JDMjF5S0tUa2lub0pMVURUbkNkSU1JMTYwZDBEdHNuQTZLaG9DbHpuSzFMa3JEV3hLTlVlRWdPX1dFOGZBYkhCckNfdEQtMTFDZ2EyTm9PSWJTZjdrYVZkTC0yQzRsNkxURQ?oc=5",
-    "fonte": "Empiricus",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "'Prévia do PIB' do Banco Central mostra crescimento marginal de 0,1% em maio - G1",
-    "resumo": "'Prévia do PIB' do Banco Central mostra crescimento marginal de 0,1% em maio G1",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnFfRUxwVlhpSHcydDg2bWJ6cDloR1Z1Y25fX0hxblltZ0dsUG50WlQ2dTFRc2NEckpCZDRHcm5PSmZaT1VOcG9VVF9QbERMYm5tS3JLU1RLZlBBM3ZfUGpCdWVUR1RlMDlIWnIxUFZEODZuX3BQejRVYzZ1UHlfNzhVUHUyMmJQclV0dG8wQXppR3lqeVRhS3dEWFliYU43VUpRdkdSd3k5YTNWWHZIeVNweDBsQUU5dXU2YXhpM0VmRG96OUZjVkk5X1lmcVXSAd4BQVVfeXFMTWZkeG9CeGF5OTRNMjM0Y3lSeld1Y1RoMnRtWWFacXctWVVrWHhicGtURkNRSlFKZGREc09xZk1XWlBVY0NNMUJyM2dsWE43TzdhNHZPN05qQ2xSekhQeHd4MngzVFJ2VVZqcE1Ga2s2TUZFTjdQWElLM1VSZEQ4dy1XR2lqUVdUVE9vaVlLdmp0RVRsZ05YbTZOek9mMUhqRVhhS290TWpqcUJRMzdibUJHMWZ1Y2x4bVBxMlI5X0p4cG1MdVVJNWx5MkFxZXEwaDBuSnRIUmYyN1NsU1F3?oc=5",
-    "fonte": "G1",
+    "titulo": "Banco Central: PIX será sempre um meio de pagamento gratuito, seguro e instantâneo - ConvergenciaDigital",
+    "resumo": "Banco Central: PIX será sempre um meio de pagamento gratuito, seguro e instantâneo ConvergenciaDigital",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGVuQUNGV3hLMDdnUGdEQXNTaF9objhQRmVwVzM1c1BjTF9RWC1Sd2NQWC03Xy16a19Ub2NCS1g0bUJYc3FfQXg3eVFuUDY0cHppVk5weWUzYjFVSVhWcG5PZXlIRDdtSkJTa0FPaFNsMG9FZTdsSS1LLWJfOUFjMDZqcFhVZUN5N3NFLVkyekxkbC1TQ080YVJRbHUzU3JtTmhrSHlFRXZfTVZrcTltNkNLUzV5eENycm9mZGlNRm5WZw?oc=5",
+    "fonte": "ConvergenciaDigital",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
