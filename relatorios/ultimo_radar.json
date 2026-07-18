@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "titulo": "A queda da Selic não significa crédito barato — e esse é um erro que ainda custa caro - Monitor Mercantil",
+    "resumo": "A queda da Selic não significa crédito barato — e esse é um erro que ainda custa caro Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQellhdmV3RWVST2tIb3BBb0xKUzNUS19QcG1BSzVWLVc2aDRkTkt4SkZ2RjQtbkhTbHEwUnFnVHlDTjFydzkzeDBPTFZEeW5GWXppd3hOQXdGZjBHR0hmaXYwMDBjQlY1VC1rWkhBbE9hZk4zc09sWUJIQnRhTExEU2lOZ0Z6UkNzUzRmQzhXRlVFRG9PSURIVlJXZElYWWlLb2NLWVVsZnhwTGlfYUF5LWh4akdqNEU?oc=5",
+    "fonte": "Monitor Mercantil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7b0b70fe3094378ba0065a366fa3d3eb2faa8485fff753852afa423b608d66a1",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Fortuna de Elon Musk cai para menos de US$ 800 bilhões após falha em tentativa de lançamento da Starship - Época Negócios",
+    "resumo": "Fortuna de Elon Musk cai para menos de US$ 800 bilhões após falha em tentativa de lançamento da Starship Época Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbFZpRDRFNWR5TXdITW00WlBvY2g2VHF3WWh4Y2VfUGhKTUJoeTltcTY3Z0lmNFloNEZ2eF9zanlCeXFUZFpHNXlPNlJjV1FnMjhQekNVY180d0h5bTFkVEpwaTZMQXlKcElZTDBrU0J3QkN5Sl9vZEVPUFdkU2lfWWdudDlUYVdLWWZGZF9hdzFMUGhtazRZcXJic0pfNVJqakR2SVdha0IzWEdWVjJWZkxWVzJTYkdZcW5XTF9RaDJxXzN0TTdXVGZkLW1jSnVTRXBNUkhvOGtiU0JRR3o2RU1Oa2YzTHpBZWc0T3lJS0g4TFlLakHSAYQCQVVfeXFMT3hzSVFHYWpobkZpekJwWHZITVhfWm04TlpFeWszaXNkYnoySHVCNG1waXB2UVd5UndCMFZPa19WY2NRU043MWxSSFh6OEtQNDZoLXV4TXNQS0hTcV9ocFhCTWVoakd6Z3VGLWNWQmdFOGNtSV85UUszNkk5eEFJUFVDNEhMR2xRZUV0cTk4ZUNhM19aUnFsb2lHNnVVMnF4bjBwXzhwVXF2OGVtY29zcTlyNExfbFcyMjNhMGJVOWtFUnhRRHlHa3cyNVhSTTBCRWFxR1Nkemw4Nmc0emJ0cWF0RzQ4YS03VU5jWUk3VVRVdElxamR4MDljRTJ6ejF5M2wwd1M?oc=5",
+    "fonte": "Época Negócios",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "c216e28fec10bcbd05c30407587ea55518b8d63c8dd3e6284829033401b69452",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
