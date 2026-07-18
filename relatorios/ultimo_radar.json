@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "titulo": "Com novas regras do Banco Central, registros de fraudes financeiras crescem 10% - Diario de Pernambuco",
+    "resumo": "Com novas regras do Banco Central, registros de fraudes financeiras crescem 10% Diario de Pernambuco",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMGNTeThKUENUMFpkclN4YWZlVWVRRC1HVVZ6ZjZuZy1FX21WSW9Belc0ZnJmTWFSMDRwQTU4NzRndlFhckxWc2RyVHNnMTJreW9YcVBjWGltbEVkMFFFR09wcFJPNG1CdUhLZXlXcm5nYjZwT0lCanhNY3hDZVliNkpJLWZKTGEtMXhhcndOSk5QUkpUalFUVHM2VFZRWC0zcWlhd0trc2MtZ28xQktxdGE1YTBuUlJ0X1h1X1pXSXlwX3NYSzlIdkRWa0RDaVVvLXVEMmNvVnozalJRZWRN?oc=5",
+    "fonte": "Diario de Pernambuco",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "47a40651926deed2d80ce3e4a937164aff4c69e8eaf1ba24eeb9170b65a3866c",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
