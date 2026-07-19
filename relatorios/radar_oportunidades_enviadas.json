@@ -13099,5 +13099,20 @@
     "tipo": "Risco / Atenção",
     "ativos": [],
     "classes": []
+  },
+  {
+    "data_envio": "2026-07-19 18:10:49",
+    "chave": "e4a21d5c3044423a6d595484b1ee3f782be97d343f199e7e5b8d6ce70b9c30d9",
+    "titulo": "Banco Central ganha espaço para cortar juros em agosto e setembro - tradenews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tUGdIMExRWDlGdjZXMlRwbjNFakdLWTJEZ29FMF8yMlFNd2VBaTRUMlI0YkRKS0lUaFE5SmJjbXZSQmJieGlKeGlRZlRtYmY1Tm5aQWRjdll5U1BwZ3BBRkRpaTdXUWJtRFE5aW92c3doNkRyN3ZOeA?oc=5",
+    "fonte": "tradenews.com.br",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
   }
 ]
