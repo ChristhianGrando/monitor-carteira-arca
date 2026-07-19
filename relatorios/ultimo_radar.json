@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "titulo": "Novas regras do Banco Central ampliam identificação de golpes; fraudes financeiras passam de 9 milhões no país - Alagoas Alerta",
+    "resumo": "Novas regras do Banco Central ampliam identificação de golpes; fraudes financeiras passam de 9 milhões no país Alagoas Alerta",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVVJBYlJFSnJIb2VfWHJKanA0SWJuM3Z1VTc0dnZmLXBKcDRLT050RkQwdzh0S05mcFJ0TDJ6TUk5czNUWUNaYnd3TnN0dFY3QVZaelh3cjU2N1Fuc1dGUVpqaWctcGdKMVE5cEIweXlBUnZ4RU1ZMThtQXlBREl4LWFwQVFjSS1fWWR4OFFGRWFTZUdMcFlwQ0FmY0VWMWZiNXJ2QWhLeTBlZEdVQlpFaUhjVWRCOGtacC1DV2c2aVEtNERxNUtMNTN0R1BNd0U?oc=5",
+    "fonte": "Alagoas Alerta",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3506bfb1639bc797980d279fd55876a6665da3b6f7b144dedf2485fda1a2960a",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
