@@ -1,8 +1,20 @@
 [
   {
-    "titulo": "S&P 500 e Nasdaq abrem em baixa com perdas de chips - TradingView",
-    "resumo": "S&P 500 e Nasdaq abrem em baixa com perdas de chips TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGZkRTUDRyZzlwbnViZDhwUExVVV9XNkxXcFNwR0VST2ktNEtLZXVSVGdrUXlTX0pERzFFZWU0cUw2OGEtcG9BUzVWSkp5UkJ0OEVrOEl6MjE1NW5mUXQxWThObjdqQUcyTjlESy1qR3pqUjdDQkhr?oc=5",
+    "titulo": "Ibovespa recua após três semanas de alta; correção pode ganhar força na semana? - InfoMoney",
+    "resumo": "Ibovespa recua após três semanas de alta; correção pode ganhar força na semana? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEo0cU1UVGNSczJBbHFwM1JONnlyT2xtNXZtSVVwbVhGaEtQNnJqeVhJaTZXTFBFMkhHMVJlN3RIMnhxMTh2VWlEOW1teGxwYkVtNHoyVnNfemExTkJ6cEdKWnpaUVZfNmw0VExhWUs3cGlOZHhFTWFGdTd1NzFKbU1xcGhnU3VMb3NSUW9Mb3JaUlVOaHZxaHgya2hiWnBTRFduYThFcS1JZ9IBrwFBVV95cUxOeFJrdzdhWHdCWDkxYnFySWtTZWJWVkY3WnJMSGNsMlh4SEdOSEtVb3c2T1RhdXEybWw5eGxkX0NsY3I5ZFNCeEhJTGlmbkZyZWpzQVF2TVZfWWNlUkNFSEIwMEVmRUo0NnlYNGU3NzRkdjA0VW9jODhpMFA4bzFEaV9walB5TVJQZ3VKMjlULVNrY3VZbmQ4R0NLVjNNQnBNLVBGQWFyV0FMMHdPT0w4?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Perspectiva do S&P 500: principais catalisadores para ações dos EUA nesta semana - TradingView",
+    "resumo": "Perspectiva do S&P 500: principais catalisadores para ações dos EUA nesta semana TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CUjFKcFlwMmNtYkMtNndMRXUtT1hxVEJBRHFXOElKblFlMjVOcmFCYjM3YktEYWpTTnhMTU14M252WmFQRzU4NHVZOWZVVnR4MVZUOEJXRW5YOHpWX1lZNkhYaGozQQ?oc=5",
     "fonte": "TradingView",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
@@ -12,10 +24,10 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Foguete da SpaceX dá chabu e lançamento de seu Starship é cancelado - Hora do Povo",
-    "resumo": "Foguete da SpaceX dá chabu e lançamento de seu Starship é cancelado Hora do Povo",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVBiNFZXYURBa1BkdW5SZV9SLVZ3Ni03djBvd0paUkt2TVE3dk54WFNJaDkwWDNBdmpEcE5CMTdISnVOUFFvdHV0Z21UMjd4YjZqVm43dmJ1LUpVZHl0Ylg0WTRZLWl6T0JLYWk2V1lEaTVUTERvVXZ1c0lKOFZtc1JyVjdIVzRjVDhxRGlXbWRpRmVxeDZnZUxR?oc=5",
-    "fonte": "Hora do Povo",
+    "titulo": "Por que o lançamento da Starship, da SpaceX, foi cancelado? - Superinteressante",
+    "resumo": "Por que o lançamento da Starship, da SpaceX, foi cancelado? Superinteressante",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb24tWWVzMUlOSlJiaGR2eGpuSEJGOVhJZTRVM0FWUFgyclA5QXNVNTB4LXRma1l5YUZmaVV5My1LTkIwQ3lTLXMyUHJzSEt1UGoyS2NSdDcxZ3k3N2I5Z1U3T1k3czNkLUFjY0VCYzZSRVRrSHdjZjZYaFBtZXBndHpDSVZqcm1yQTV4ZkNEMUJIOVUtRlQ0?oc=5",
+    "fonte": "Superinteressante",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -24,28 +36,51 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Maior foguete do mundo hoje: conheça a Starship da SpaceX - CNN Brasil",
-    "resumo": "Maior foguete do mundo hoje: conheça a Starship da SpaceX CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTBMbTRYcVFnRHcyZnVZd1NCX3FNZ3VIZVRpZU1zeVIyaGNLaDY5OFlMVGZSTmZtczVaZk1fV2xNRGptVW52MldJcjFkYzFVV1cySW4tWHhNY0NiM2J2QVZjQkVWOG9vY2xEUGRhVVZhckZteUpFY0w2Y3hfMWlRMElVN1pqX2NWWFlwdjNHVnFoRGlaR2dOTWVmU085WDZoRGc?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "ECONOMIA. Dinheiro esquecido em bancos cai para R$ 6,2 bilhões, apontam dados do Banco Central - Claudemir Pereira",
-    "resumo": "ECONOMIA. Dinheiro esquecido em bancos cai para R$ 6,2 bilhões, apontam dados do Banco Central Claudemir Pereira",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHpULXNkbzRpczg4Vmc0UXIzLTRaTEFVRXNUcTQ0M3VUeXdsWGY1dHdZMldLcS1kb2x3YVhTdGU4dml2TGxjUTZpSk9sUDdLRy13Y3pvVC03WmJ4YXo5c2xOOVlGYXE1bEhXUHVfODBMSF9ZUmlpVC1kckdZWmpXSlExdWtHbXVMem1GeFN1bFJHMFdoX1hsSUZZUFdiZU1Vc3FIdEJmWEhoSVdMMTV4MzFVMWVoU2NuZVpqbDF5OWVrdkEwakhhY2FMOA?oc=5",
-    "fonte": "Claudemir Pereira",
+    "titulo": "Banco Central ganha espaço para cortar juros em agosto e setembro - tradenews.com.br",
+    "resumo": "Banco Central ganha espaço para cortar juros em agosto e setembro tradenews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tUGdIMExRWDlGdjZXMlRwbjNFakdLWTJEZ29FMF8yMlFNd2VBaTRUMlI0YkRKS0lUaFE5SmJjbXZSQmJieGlKeGlRZlRtYmY1Tm5aQWRjdll5U1BwZ3BBRkRpaTdXUWJtRFE5aW92c3doNkRyN3ZOeA?oc=5",
+    "fonte": "tradenews.com.br",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "IBOB11",
       "CDB 100% CDI"
     ],
     "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Elon Musk vai enviar 1 milhão de satélites ao espaço e promete evoluir a humanidade para o nível II - Diário do Comércio",
+    "resumo": "Elon Musk vai enviar 1 milhão de satélites ao espaço e promete evoluir a humanidade para o nível II Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmhCTk9JVnZaR0wzNWpJQnlta1U0OUo1clVmYWtETTJoc0p3WGtkZk5fbHFmQV8xdWVqYmU4Uk9XWmI0TkV3WkZxZEhBMExZTWFYclVrT1h6SkQyelFaMWJtUDFkNUxkTzR3X1d6SnEwcE5PZ1N2UWZzcmRWU0wxa2dETVVwZHV2Z1N3aVZ0ZnVaaTFEUW5zRkpCNXZMbXJIZkxlS1U3aXBKT2JjSkNkb0xKQVA3ZjZDeFlmUGdBX254ZTI2ZGdCdFdwU0VOS3JJd1E?oc=5",
+    "fonte": "Diário do Comércio",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Banco Central anuncia pagamento bilionário para brasileiros com CPF cadastrado nesta lista - Diário do Comércio",
+    "resumo": "Banco Central anuncia pagamento bilionário para brasileiros com CPF cadastrado nesta lista Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2lmeFFBVEdCRkF4SWF4My03bXhRM0FpRFc2cGhrU3N0QnpGcUI2UGVRMTNLeHpmYWk3QlJTU3lqOENiWEUwNjRBalExZkZiZEZrTm9fMWttbEt0S0p3bXVKakZ4WWFpYkdNVldzODEwN0VFUTVWNjE4cGxHWkZvY2hXbUtZX0tZNVIyUDl0OExNekRfNVpfUTlqckZkM0VmejZSU25HRDRJV0czVWxQYS12bFBzeS1jQnNaTnozaUNXN1lfZFE?oc=5",
+    "fonte": "Diário do Comércio",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Registros de fraudes financeiras crescem 10% após novas regras do Banco Central - cidade997.com.br",
+    "resumo": "Registros de fraudes financeiras crescem 10% após novas regras do Banco Central cidade997.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVVPbGVhSkJsR1hlQlh0LTVBNUx0dVpsNnVvdXprRTZyVVJvUmlGalZ2T3hxSVczZVo4NU5CV3Bpa2FMSzZJcndrSWQ5OFRrMGNRZ1RJTnQ1clpoT1huX19Zd1l6WjVBZkRHdUcwcWZsOG1EekgwcWZYLXQxRUlWcUx2VERmUHJUZG5PcVdSM1diMHFiejJMeTlCdTFYRzVoa1loSmV4QQ?oc=5",
+    "fonte": "cidade997.com.br",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   }
 ]
