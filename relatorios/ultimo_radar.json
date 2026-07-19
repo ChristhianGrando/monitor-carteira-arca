@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "titulo": "Fraudes financeiras crescem 10% no Brasil após novas regras do Banco Central - Fala Você Notícias",
+    "resumo": "Fraudes financeiras crescem 10% no Brasil após novas regras do Banco Central Fala Você Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1lxczVacXR2dXA5NFdWeW1SOFJiZ3BaVEV1ME42WHZueHpZd09mQ0VmZ0Q5SEk0dTFubDBRelZMYVJqdzRGT3VkQVA2cXMtX042WXdVdW1UTklQNWFHQzBwc0lHZmRNTzkwaVRDaXpJOUJ5cWlGeDQ4dVZ0bjlRUFdJclh6dUdqV2N1OTUxYlhiR180ZkpKOFVkVnhhWGQ3eVBWSFA4RWg0d25YNVlDU3Q4THNwRnNkcWEtX3N6SURLR3lGdFZ3?oc=5",
+    "fonte": "Fala Você Notícias",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "78a5e138c9e3c924a595462070b4058797510e6889f5133a928359d7be9fc38d",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
