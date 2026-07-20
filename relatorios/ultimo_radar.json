@@ -1,59 +1,11 @@
 [
   {
-    "titulo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos - UOL Economia",
-    "resumo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaFg1UEtYZFhuaWNzNXVRQVl1RTI0b0g3NkZDLWlnczBOdm14X3BZSnI0SEtkZWJjcFR4TDl3M0lrTFBCZG02Wk5FMHZFUGNsY002dUF3VF9Hc1NyTkZQTmFHMkplOHJ4c0t6aVlvT1lja1E2RkJfdkhzanplMkRpR3NJQkIwRkRlZHFHR0FpdmxXT0ZaRzZNMGVkal81V1JpUnFQalNjSWdQOVFvMW1WcTBxdGF4ZXk1WC1yMXhQR0hlTDhTR21zaGpIcF9TYll3LTU1akNWbjBXQndrZ05aczJKWkVoT0daUTNv?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "c6e50ab05e7bc8340c8dc55f02a3d16b7cc75117fbc466d9622ccbe844f05410",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Expectativa para a inflação recua pela terceira semana seguida, mostra Focus - vermelho.org.br",
-    "resumo": "Expectativa para a inflação recua pela terceira semana seguida, mostra Focus vermelho.org.br",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbzl2MUw4MlFlcFAwLTVCcUxUaWdzR3pWZTc2RlE5alFVUkxOV3FiVGtXVkpyYVFKQWhjZ3hUNi1ZOEFtZVFyd0lBSjh2RUhVTG9NWmlmaTlpS0tyQWRLTlZkN1p5N05zRGRzMGtRWExSLTJZNlFhWjlodDhrZTgtemRXaE5DS2dRQVdRazJiRFd0V0d3aGoxRDNET0pvcXA4aGVZQ2NMWk1SYnc1LUI1Rg?oc=5",
-    "fonte": "vermelho.org.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e56cfe34035badb7d344963855babd041229de3d7c9e5c4edcecfec716605066",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado agora | Bolsas europeias têm leve ganho em meio à possível melhora da relação entre EUA-Irã; Ibovespa cai - InvesTalk",
-    "resumo": "Mercado agora | Bolsas europeias têm leve ganho em meio à possível melhora da relação entre EUA-Irã; Ibovespa cai InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJNUVQaEhtYjFzZEY3MDd3NWdrTF81YXQ1bmZ6aG5mSmlCS1J0NzBqcWZvdFF6enA2dVBlb0J1ZmNxemxDaFdpSkRMWENidmxKT3RMR1VORU1qdnhxRFhmMUhIdFo1RDNRb3VzOFdxUTlUUlF4OFE?oc=5",
-    "fonte": "InvesTalk",
+    "titulo": "Ibovespa Fecha Estável, Dólar Cai e Petróleo Sobe com Escalada da Guerra entre EUA e Irã - Forbes Brasil",
+    "resumo": "Ibovespa Fecha Estável, Dólar Cai e Petróleo Sobe com Escalada da Guerra entre EUA e Irã Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFJzYWx4dE5oQnpMN1haZ2ltdDl6VjZWWWc0X0t3WmRtOXVjSUwtXzlMUTZfeTRrTVFjQWRwMnRIaXJlSnpjTmZaWUNzYURXaU9taDNNZkZYdzlLR0xsbWFSbEZXZVByRFhyU0pVOTRtd25ybGlGeWszbG9GSi1raUhLNklnX1czcjR5d2J1eUF6T3o0WHJKeF9VOWRhVDh5ZUFheXlETjhwdE42VHVESGJycWtVZjFFTkwwTmlhLURPMTQ4Y0lDTkpnbw?oc=5",
+    "fonte": "Forbes Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a2d826570566ce848accd807379b285c9d775402a0cc6d0dc636d05605a1164f",
+    "chave": "b6b57f78a73eb55077a9ea7b4842e3ed0075121950be0f18cb2d3e96bc8e6467",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -62,33 +14,62 @@
       "Ativos Internacionais",
       "Ações Brasil"
     ],
-    "score": 9,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Falha em decolagem da SpaceX pode causar prejuízo trilionário para empresa de Elon Musk - Crusoé",
-    "resumo": "Falha em decolagem da SpaceX pode causar prejuízo trilionário para empresa de Elon Musk Crusoé",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2w0UkpSazlBQ0JiaXdyUE1WTlRJSnhTa0FpY1k4Z2Q2MG5zNUtCd2lITkFwVnV6cTU5R2ExdEVvX0JvQklYNzg2dFB5ejdKbGlORjFVN19MekwtdDV3V29rWl9uWXBIcnVWSGZ1VUg3TldWYkY3dG94SXhzRTN2TWxfNllRYVBkaU5lbjg1ZjJXdjg5S29lOWFIU1o4eWJBRTl1X1E4NVR4U0FWZGJNOU1YVl9ldUFEN2k4LTRfSlU5MXRXUDJN?oc=5",
-    "fonte": "Crusoé",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "5d6e66e2b0ac2077abc6804ae3971f1331d3fc9bb5d1697fc2661103a0465fd7",
+    "titulo": "Ibovespa e dólar recuam com incerteza em torno da guerra no Irã - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa e dólar recuam com incerteza em torno da guerra no Irã Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXJuRnNPOFcxNVByd2dXNlctRVo1ZjRNSmEzclBGbkNsM05FWlZQSGFDQnVIMzJ5a19qc1NMdUJFZldsVGdLSXAwbnBPSjQwMDJ4LXVfSi1fLXV6bU9zQ3B0VXVtTmlWTE5fWWg0b0RweEZHZG5KZHVFeFQtbjJ0MkhMUXpXbEJfUTExNDkwTmthSXllS193aVlCQmJpTUk0S0FFX2FNcVYyZTDSAb8BQVVfeXFMTktOYnJRZjI0NTNnSU1RVm95Q05XOTVwdEhpclhPNjF2YmxSZjdUaWc4ei03cTVLbEozN2xfbEtjaGJWdk9uRDg0Vko3cTBzQi0zZzE0ZEx6bGVxNHJpYU1JQW5UaWtBdmZVcEFTeWROVEotMnF6Y1JZLVFaWk1LUmN6a3ZtX0VlMzVOejBRdDJzLWstSk9lMUczdjUzc3Z4MWJCRzFLRHZScV8zandBN3pQRWlaMDU1X1h1MzQ4VDA?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "48dd3200e9fa1fd9aabf9921c0f97647574bcd403f0684d8a646b8e88c3ebbee",
     "ativos": [
-      "SPCX34"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 9,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar cai e fecha a R$ 5,08, de olho no conflito entre EUA e Irã; Ibovespa recua - G1",
+    "resumo": "Dólar cai e fecha a R$ 5,08, de olho no conflito entre EUA e Irã; Ibovespa recua G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DUFBCMUVZM3ozbHh0eWd3VnNSZXZaWWhkUmJJT2ZVWEVabm1veFJMbFFrRXF4dHZSaldoY2FnRGk3RkNpSGZpeUlOSGIteXdvVXNZOFpWSldqVzV6S0xIVUZpYXBORlR1UWVOMVJHT0VfWFZzQng1cNIBhwFBVV95cUxQVDB4WjRXclRhb0JfLV9CMkM3dzF1X2Ezbm04cThQT2djUVYzWGo5SDdKNE11M194ZnNzT1E4cXQ5OVNhemR4c20yQW5JcURKaHZtTE85ZFJaME5Db1hWbmRKa2hPdmFXcmtkM2xnenV5WkJldWhxRkR4NUx0LUV0RVhXMEVheVU?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ea0eff148219a92115c1cdc5b22589dcdc99285c62148293e0dcb67e8a297dde",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
