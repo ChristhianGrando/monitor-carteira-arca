@@ -1,33 +1,111 @@
 [
   {
-    "titulo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra - ADVFN",
-    "resumo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUVBcGZpd3NzRWxWUnFPbEFOZ0wyLUVDLXFTeTlHZk04UzZXMDlyY0lBdlRjNEQ2WUs3RWxSVzJhQWpTSW5xdThRbHlYWURydUZHeGdkOFpNUnYxeHdyWkdBenJsZ0dTUmpXR0pRU01jUktTUV8zaXdBUGsxbU9JVDlDWWJNY3JmQ0JPN0hwaGlMQjI2VkdDUmY1LWdkekZIOFI3WWMwckstZWMwS1E?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "83f635624c4330f95b0953cc8261d49b88ce171505725e548f3e2a8b8df7d78f",
+    "titulo": "Focus reduz projeção do IPCA de 2026 para 5,15%, na 3ª queda seguida - Exame",
+    "resumo": "Focus reduz projeção do IPCA de 2026 para 5,15%, na 3ª queda seguida Exame",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXRFMHFzZ0wzUmxhMlRDQmUtZnZETjU1NmM4N2UzSEl0aVZaM0pla092Q2NIQnZFbFZiMm8wa0dFOVJFUVdCYXRYZTJxUWZaSTJnRTdTS3IzX3BzTTF2X0VFbHlMMklVSEhCTDcxRWpQbTR0aXAzdG1BY1A1WE1qSEZjWURnME1sVUV4aWJRRmJrUW9RVDVVWQ?oc=5",
+    "fonte": "Exame",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4f4175d0a824bccd6a9b62e4598379b156dd895932c353c6e9fa6c2161297840",
     "ativos": [
-      "WRLD11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dólar sobe a R$ 5,11 com tarifaço de Trump; Ibovespa cai 0,06% - brasilagro.com.br",
-    "resumo": "Dólar sobe a R$ 5,11 com tarifaço de Trump; Ibovespa cai 0,06% brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFY3SXF2c2pfRGRnT0Z1NGZSRU40Y1oyeDFqc3RKSFJtNjdTQ0JuZGpHU29MS3JMNGptZXFjZHdZbTQtVXBIZ0tFOWNQYTBoYlRvZjJwTFpLQ0czNkR2QjVNNnNrSk8xblpCZjlTREd6Zmo0WHBLXzZkTHE5b1hkOWtzX0JvMGFvaExpNWFET3A5dHRyazQzd1NFdUswRUppdlE4?oc=5",
-    "fonte": "brasilagro.com.br",
+    "titulo": "Focus: IPCA 2026 cai pela 3ª semana consecutiva, mas ainda acima do teto da meta - Estadão",
+    "resumo": "Focus: IPCA 2026 cai pela 3ª semana consecutiva, mas ainda acima do teto da meta Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVnNucjI2WDdxU2oydmx4dTJOZTI1MGU3UFhyZGNXcHRsY3ItV0t3dE9xeXltT256UEZCNHdJODE5eGVWNWxjTVI3dHZiS1o5M1BINWthSDU1cTB1NU55ajVvX0dxeWx0NTgtcXA1VXBJODFwanloR1NkMXFmUHdLSVNSMUxWaUlQandQRUJXYlJOdF83UlJ3ZjdxMjRfbnpUUU5rVWk5M2l5SVZRZWp0ZFdMMVJjWXlmTzNpQnZOQWx2eGtoN2EzM2l3SFdHX21iRkxWVllKSENka0Y1?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f59add68513aa545bef394b7e8653aedfabde12d9878ac547e699dd9082ba30b",
+    "chave": "843ab0fbed637f68657961c57413e68b8c282ed799f21e042acf6f268af99199",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus: projeções do mercado para a inflação deste ano caem pela terceira semana seguida - Estadão",
+    "resumo": "Focus: projeções do mercado para a inflação deste ano caem pela terceira semana seguida Estadão",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGw5em5hb2NZZnBNbTlDQkhJS1lkeF9QS1RhMEVjNHhNU1RhYlNsY0lNSVl1OXBvVjNqZFUxb2RxR2JLOW51NnI3VlkwdWpKTG85RXZnVmhTLXdRTWpQbW9Pb3RXcW5tTnplUVBOWUpsU1BVRUN4VXdrenNOOFl3TFFDeVR0Z9IBiwFBVV95cUxPX2VubXZYeW9PVTlwdDktRXF0Sy1PTXBhMTZSMXV5X1l4R01jeGM2QW1paWRnY1M0QVJKQUJmWkRMcXRSUUtpTXo0clFvSlRmYjBvcXpoaHZ3RGFzTTVMa1dremNLVHViX280Y0wxUlR4U0g3b09URHJyWVNvUExmRzBpWnpIOGNDMENF?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "6c7f82650d8231198b2e6e7381c407d912db5269876a5cc22915de178d89b75f",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Projeção para inflação deste ano tem ligeira queda, mas chama atenção alta na estimativa para 2028 - O GLOBO",
+    "resumo": "Projeção para inflação deste ano tem ligeira queda, mas chama atenção alta na estimativa para 2028 O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMUJvTGhpRWdNNm9pSXhaV0k0SVM5M3NIR1p2T2RoRGdHZlJBSmRtSk5KaW0tdGRaeTAtOGpXY3ljaXhfZzlWdy11OWN2elM4VWNweXNwOFBFVmFKdGZFSHBUQnNBNGhudTY5WmhCNU5wXzE1SFBKWUZNS1k4UU5ZbGtIRG85cHllRHljSW80SGpUcGZhV0xWc2kweVFyLVhxWWtfbU16RXRsSDlXcmJRa1dIejZwOHdJblV0V0xWOENCdlhSR3ZvbktzdjdCclAwemVNczREdFNhckxHbEhEWHlZVFF1eTIwTDVxZzRyVzlyUmPSAYICQVVfeXFMUEhUaEdvT3BwajFqXzBzbURNMlczWmtmazNSZmJjdWFIV0MtV0R6OHBleTNmR1NneWRmM0hRT0xRbkxVNU1iMnpCQkhOaTdtdThGTktDa1RKVFMwaWlIRFhlVDF5Y1J3LXRseVU2RTdCMk1RZjE5T0tsMlpVOGgzZUpOZV9LWXlsaUR6V0c2bUpFYXpXX0VfenY3dGp1VFhXai1pYVNDT0tudkU3Ul81R1NINUI3eUVNSENOdzNxMEctVkItTGU2TGRiNjdQd05YZ1JvLWE1WTdjYm94bk12UWlYTFJEbnJJSmdkQXpSLUNJRHhmMnZYSXJobW1OZDZBbVd3?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "06aa93d1d9cf07f9ddb5e165ede3cfba2d1d0375bcae3fb0dd34a069a000cd89",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa futuro avança e dólar recua após proposta de trégua de 10 dias na guerra - Valor Investe",
+    "resumo": "Ibovespa futuro avança e dólar recua após proposta de trégua de 10 dias na guerra Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeUk5OVN1RE1yXzEwWFEyODNxZFQxS01jUGRmSDJEcXdVRGdiUl9TTTFaUlRIYmQzX3AtMTVvUXNNSEN2NF9RQUNmbWdUVm10elNrWVJqX0w4bDZrS1A5cnFXOHg0aGRkSTZETFE3Y1FLVU5pMjVMcUY3VFh5QmRlOUtXRnE5eU9CWFE4dkIzRVEwa1B5aXFwOW5IbTBvS3JsM0tQMFgyTVZBVWp3Ymthc3BOWFMteElERkJwajZKY3FWLXZDbExGR0FsSTZpSmxzYVZJYtIB4wFBVV95cUxOa3Z3U0NUaHMtVU4ybmpUNDlJNTF6VHpXSG9IVDBNbnhuTnJFd1dqbjZ6VE1IU0RZeXRzeUd6S1FwbjRpTWpZdnpOZFR2OE5zNzJpMFpYNTBoVnhGTGozekJDSXhYRlY1djFvUVhuRloyeVFTdXdlRllxVlhvVWxsRS01NmJtX085QlZsTkVEaHN3T1JPcnBpYUFHY05DdmhtY3ZQbHZnSXhKeFc2QW5zZEtlRVo5T18yY2Q2VGV2S1BwSFNjWC1JREFJMnBzQmJaWFVzb1AyaWdMRWRIb1I0X1BfTQ?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "735fab2942f5378d35476a471ec36f3c65818ae0eb71ccf82633f97298800cda",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -36,79 +114,13 @@
       "Ativos Internacionais",
       "Ações Brasil"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Autonomia do Banco Central e direitos trabalhistas marcam semestre da CCJ - Senado",
-    "resumo": "Autonomia do Banco Central e direitos trabalhistas marcam semestre da CCJ Senado",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTRvTlpLaVJKeEtWVllmZEVwZnk5YTJxcmdTM01CbEV1V296QWRXWmxIRlZxTHp5VFhjbFN3ZGhhSDhmOXpZQVBWOTJHTW91eHF6NzA2bFlxdkc1SFlRSVBGeTRuUF9IOWtzZEczZlE2dUpoQWlHQVZEd0VkSllFT0hEckhrUHRtbzZ1V0p6Ynh4M3lkVXc1bmprU0J6WGlwczZ2bFFMWTV1TFFidUxvQnRQMHNMM3c0OF83WkM4RzI1NFV4cnRB?oc=5",
-    "fonte": "Senado",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a8b09db870b075bdb4cbe030a7c1ef2f0bdadb8131a29dab1cc75c5c4ab0b0c4",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "O Banco Central da China mantém as taxas de juros estáveis - ADVFN",
-    "resumo": "O Banco Central da China mantém as taxas de juros estáveis ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd29JQXZIblZ4YTNxblZydjJPS3oyOGx0akJQSmYxWmI5bFd1dWQxZ19NVGJ0YjcxOVZIZWNSc2hyU0wyUG96akIzeU4yTFlpMHRndlRaQ25VSl9JN2thTjRLZFZHWmU1QTdsNjVoOVkxMXhLYVg4Mk9MaEo5dDdia1hGNnlLODFQMFFrd0pKQUNOOHJKbHlqeDdtV0Q?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "d4243138d855ec8ee834e83a3f86e457b8ab3f7f81f6fb5301cd060bfb77fae1",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco central da Polônia pode cortar juros mais uma vez em 2026 - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central da Polônia pode cortar juros mais uma vez em 2026 Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUpJMUhyVjBmdVp0NG5iTFRQbjhaOFB6c2VOVEF5WFBLcGRlXzZmd084VnJTYTE5NWlJSHN5ZlIxYVQ4VVNSX3p5THdyUGhjTGs1MVI0VkFzS3dWUHBpeXV4SlNHR290ZFdMUzdnSGdHSTBYLUNsY3lWanVPOERwYUpHRUFwZDViTHpLN29WQ21BdlhLZ2Nva19selFvdzZuamRIR21wc2Fnd2NmYk1aNUVfQXVDZnF6MnVZ?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "9e5581400d261dd21ad8b9457d0b9d49dd75e9259e6aadd1e8e384075eadcb33",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
