@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "titulo": "Focus traz IPCA em queda pela terceira semana e Selic estável - Revista Investidor Institucional",
+    "resumo": "Focus traz IPCA em queda pela terceira semana e Selic estável Revista Investidor Institucional",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHRiOTRGc1FZWXd6UGpWeVJnZl9wZjRsbnBsVXdOUU5aN1A0ZkwyY0ZKNlZhamJfZ0NRcHpjeFhuX3d0bkFHV0h0OTlBU204T3VNVkRuTzJaS0k2WjVMZFcwOWplOEdLYTdUeDFNak56Z0RvRFNPSTlwNnh1MEtMSkVRcDIxRF9oZlZMRXl5SmFDT0d3UkVMQXZQemhNUVR0d0EtSFF0WlhzRlVodE1OUm1YaEVwSVdvUnNPSk1iZXNRYlhBR0g3cDI2TQ?oc=5",
+    "fonte": "Revista Investidor Institucional",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d6983e972535aeb2eed068ae72e08ae8bd773068cca2bae0ff5b283eba945d22",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus: Mercado reduz expectativa de inflação para 5,15% em 2026 - Bora Investir",
+    "resumo": "Focus: Mercado reduz expectativa de inflação para 5,15% em 2026 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakgxM1oxRkpqVUk3akh5YlRPN2RRWDdmdXJPbm1ULU01eGVyTk5GMHVYZHNTcmV4S1p5ZTB3Wm12VEd6eHRKaG9xR0o0d1RhbUxuRnlMRTFFUzNRRnRjWXVtaWgtdGllb0JWd1lLSzNieEdWUmNxSGE0VXhjSTA1dnFwTFo5Tk1yQmJWaHA1REdCWVdPQUFaQVFERU45SVJsMW5N?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "db336a556f35badee5323853b843a1b7bed1a84abb5a34d454c3ec74079aeaf1",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
