@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "titulo": "Selic em 12,75%? UBS diz que este número esconde dois cenários e que taxa de juros não dependerá de PIB nem de inflação - Money Times",
+    "resumo": "Selic em 12,75%? UBS diz que este número esconde dois cenários e que taxa de juros não dependerá de PIB nem de inflação Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDZaTVF5WkNHVnIwZzNVcTFJNjlaclljcGl3VVVMV3hmOG5BVkRkNjhiN2FlYy01TE1UQWpPdUpGVUZrdEhsQ3hfSjNfRTZBT19MUDJZLVlpbUpaSWVDZk5DdE4tUF9DTTFhekdmOHU2SzUyV0NVUkxtMlhkSnFaRkRNZWNQRlhONHJqdXZJOGhycjZIWEpqR01uTjdzcDBCZTRMUGNVNjIxLWRGZE5Vb2xvSQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "371a989024e49b2bfcb0733652bf7a94dbec0a2b7ebc84ad50db72b60ad390b9",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar cai e fecha a R$ 5,08; Ibovespa recua 0,20% - brasilagro.com.br",
+    "resumo": "Dólar cai e fecha a R$ 5,08; Ibovespa recua 0,20% brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUUt4MU54R0J3UUdob01vNUxhSHhpTE94cUpGMkFYdzNQN0s5aTVMWTJIMHROUXV3ckRXTWRaaE94Z1Y0d0s2SGRuMkJ6MmczNElYaXVyYzBxdlIzMFZtdzA1UWlTOWZMT1lrVEJONHY4REdtbzQycjNKdXdwYkZBQmtKYmdKejVxeV95Q1dSb29BQQ?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a7469e938dfefee18d2c4ce486c42910e4966277b7129b711395949f3c21de95",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Felipe Salto: Que tal copiar a força-tarefa do Banco Central americano? - UOL Economia",
+    "resumo": "Felipe Salto: Que tal copiar a força-tarefa do Banco Central americano? UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDhZTmVlcktiZU8wOUpORGxrUmVnSjlRQ0hTWi1NTm96LVphalA3R1B6YWFmMmg1RUwzNGxSN3o4WE9UQkxlZjVKWkI5YUdzOUE1Nm4xbE02VWtJUThyb2hLaVBoUXhjT3NYRGp1bWdtXzBveGItQkJUdjA3ZVpTVlNGQlNTY090ZWx1WXBJeXh3MjFYLXY0YndydGZubTJkMF9GYVhhbE1NZ2ZfZXF1dEN1RnVCTjNxd0NORA?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4dedd26d0b096cf7d22df282bad66523f98f833c97a8251e9c3bf6aca80cbf80",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
