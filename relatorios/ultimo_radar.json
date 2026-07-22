@@ -1,26 +1,26 @@
 [
   {
-    "titulo": "Ibovespa anda de lado e tem leve queda; dólar recua de novo, agora a R$ 5,07 - InfoMoney",
-    "resumo": "Ibovespa anda de lado e tem leve queda; dólar recua de novo, agora a R$ 5,07 InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeUdaRHlhRVJ2VjJseVZKVzNMS2pTaFp1Zi0yVWRhdEJISHQ1cXAtYzVUdmxMX3dyajJoSEdqUV9iZ3pDelVrSGxHMkpmeGE3RnNFQi1acXdzenJrNkpkendRNVVLNTViaUdneHJiSXBVU0t5ZURid1FNNENaMF83Zl8tQ1A1UkhMR1ZzRnMzQQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "97e4c67e166898996f62504054206d8a7098d4930dcfaca9bf17dd38b548b3e2",
+    "titulo": "Banco Central aperta o relógio dos bancos - Justiça em Foco",
+    "resumo": "Banco Central aperta o relógio dos bancos Justiça em Foco",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNUtaNzVzSmFIX1Blam12VllfMm05STA3Zi02ZUJoMEFvalB0ZDFva3AybzZPZlROU0NwTlVwVmNvbjRlX0F1WTlCN2pZWWo2ZW1ieXZPT3VKd0c1dXZVRThFQ0FDOGVvNlNPdUlrTTFZYWZjN2hkZGVyTXRPTnlyMS1Hc2JpSUhuVmc?oc=5",
+    "fonte": "Justiça em Foco",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d903af0a2008ab2efe7ae190908695956a2b246817f569ed256e04d299b059c0",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
