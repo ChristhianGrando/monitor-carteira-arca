@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Por que Ibovespa sobe mais de 2% e dólar cai em dia em que tarifaço passou a valer? - InfoMoney",
-    "resumo": "Por que Ibovespa sobe mais de 2% e dólar cai em dia em que tarifaço passou a valer? InfoMoney",
+    "titulo": "Além de CDI e IPCA+: ações substitutas da renda fixa são a principal aposta do Itaú BBA na bolsa para o segundo semestre - Seu Dinheiro",
+    "resumo": "Além de CDI e IPCA+: ações substitutas da renda fixa são a principal aposta do Itaú BBA na bolsa para o segundo semestre Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR3J4UjNFM28yc3RGZW1ObGV1LWhEdlZoNGN4RTFnVGpLam96ZmJyT0FjSE9TQlFxNjFqeWlSd0h2Wmw3YkRTSlpQR3JpMkdGMXdiVW9aQXpzc040TUdXaGZsUkpONDhLZXJ1MER3Rk9UMUVuYmJ3VHpsNjB1U2FhUWlWcUtVXzEwb3FoVEpKMjZvbzB5ZmpMWkNPQ29QQ1JaVFZYc0VQdTkydWNuT3FYSnFJa19QVXNlQlBoOHZJTmZVbGpaVkJ2akpxQXk2cEUxdXJ5NTl6aUM0ZWpsY240Mk5BQkJ2dUFPV01hTjByenhKYVFYa2syWDBfaHpEQQ?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1299e52124d481f717fe07baa1917e3e6e50d4d8c533e0debd839129ace28534",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Por que Ibovespa saltou 2,44% e dólar caiu em dia em que tarifaço entrou em vigor? - InfoMoney",
+    "resumo": "Por que Ibovespa saltou 2,44% e dólar caiu em dia em que tarifaço entrou em vigor? InfoMoney",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTdFcHR2em8wTWkxbFZ2bm5jTE5EZmpHMG4xZThMSUJMZ0VWaUFzVzNhVE1hQzZadU9TNGM3WnJCSVlmTW43Z2M1YlE3eEFwYXJFVWdicXduMmI3NFJoaG1QNk5lNms3cFo2ZXJwc1ZRM1JvSUJDTVdoZWF3eHg2aHdnalUyamNHaUJNR3MwdE9QdjdEbHd0Yk1LQVVRc0Y0ZHNsYjlqWWc3SDVCU1FqTUFNQVRXNWV0VUlv0gHAAUFVX3lxTE9mYXNhWnVSam0zWGNLTVY2UEk5d0o5TVVMUjU5RkFlNnkxT25qTWNNdkd1ZWw2U1d1MlZLeG05UDZUVnNFS3lHd3NpTWZad0JfaEg5akx5bEw2bDBtNXpOcjVXemtITkljYVJNOFpOdGQwUlpSSG5NOXlTcjVtTjBQSGtOSmphei1ienY4T0UzYkoyczB1dENwYW5pRldFRlF6czZtc0t6UjJuSkxqS29vS2FXYmZTOXJldFRaZElETw?oc=5",
     "fonte": "InfoMoney",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3337d193bd80fc2cabb859088dd0542f0f07d315dc4dbca4cc3fb710175b679a",
+    "chave": "e6ba44cdb2b8ed83af203133b0ab3110c554767fc1083ab8824a1784efc8dede",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,61 +50,63 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central cobra explicações do BRB sobre uso de recursos do Tesouro do DF - Revista Oeste",
-    "resumo": "Banco Central cobra explicações do BRB sobre uso de recursos do Tesouro do DF Revista Oeste",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVBYVFR5YkMtSFE4M2lCa0NGb1JacHdINXV2elpGNk5jN2FNQXZjT3kySzg5R2sxX0Q4VmcxWW80aDVNWEg3bDlyT04tS0FIYUE4b19tTHNPQV9fQzZFZFJKVHRBWUhGTWduUkpDT1p1SGMtb3dGRHFMY0NLbFJyQUp2elh4c0V2VzRCdGVFeXVuQVJDODNWWXR2V0c5NVgya2ZhRWN2NjhMU19yRVhXeGJR?oc=5",
-    "fonte": "Revista Oeste",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "40231a141a72ecca042807d4f0841d4ce815553a582e77e012f8cfac7503fbc9",
+    "titulo": "Ibovespa B3 sobe 2,44%, mesmo em dia que tarifaço passou a valer; dólar cai a R$ 5,05 - Bora Investir",
+    "resumo": "Ibovespa B3 sobe 2,44%, mesmo em dia que tarifaço passou a valer; dólar cai a R$ 5,05 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDNzMWR0NGZFX1B6Qmc1YkZYbmN6U1dCTTRrbFBzTzhQcGFTUEJ1YWI0UEFkOXJxZEVmWEI1a0M4T29ZY200b0VHUTh3cW5nb2pxVmg1NzVhTFRqRWkyU0paaE0wLUZ5UlhXX214cm1xaGJ5aHU5d2NBR2w5dld6UF83RGQ1SjUtaWFldnJXdzROekVXN2VVVjJUSDNWR2xGSEhJTlZZWV9vYU9mcjZlYTBDV2VUQ0tVZ041d0NqS0lRRDRackxz?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "2a9616cdc4c0f1c562b159d561b361228a1cc725321b475d779ca2078ea911c9",
     "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central notifica BRB e pede esclarecimentos sobre movimentações e gestão de recursos - Maringá Post",
-    "resumo": "Banco Central notifica BRB e pede esclarecimentos sobre movimentações e gestão de recursos Maringá Post",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjEtSkczdy05cXYwNmIxWjJkbnpHbUQtTFZaVHFzS1VWUmFjdVRMSF9ycndubXBpSDFDNGlKdHBhbXQ1Y1RqTVVJaXpiclZ4clhyVzBDUjFqVTJ3aWVGRUI3emFnZ1dDWFc1LXE0cEJjYnVBZHdmZEhpYXlHZ0hQNHpLTjM1alM5b1YtNjBrY242Yy1FdFB1Q3RtaDRRSzBtbEFoQXpsVU1PT1Nxejl6ZmtfZzhjVnRmRWpUN0g4dEl3X0JYd09OMA?oc=5",
-    "fonte": "Maringá Post",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "89544b5f926d16b64410fc326b95fe7fa1735ed1c821a70a7f07649bbf5885ee",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Bitcoin ignora guerra entre EUA e Irã enquanto S&P 500 mira um 'short squeeze' - cointelegraph.com.br",
-    "resumo": "Bitcoin ignora guerra entre EUA e Irã enquanto S&P 500 mira um 'short squeeze' cointelegraph.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSzdtWmJIbTV3ckNtX3JoUkhvWDVQc0Vxa1hGcEF1VkVKS3NTT01FZTZiUXdsTGQ2WHBwbXhwS3BfODdOcHJBdF9qUTlLbklUaUp4Y2lrOS1yUkdOOTdTNDQxMHBYLW5rTzZzVFlUb2dReXFUZE8xbjcwNTJPRkZmLUZKb1pjUWRlb0R6ZWRkWXNsb0Y1TzNYMkJRQ0xHZ0Z0bFRJWVdMN1haX3FGYmRjeDJMZmVnNm9zVFV1S05KYU1yX090NTlBTmN3Y2NxYW13emhWYnQwYVBSVndONFVQX29JN3NiaDI1X0pKamtDTnVpV3lBM1FldWJNNGJwVzNpNmdTVlJIWU82WXFoOUZqVXZR?oc=5",
-    "fonte": "cointelegraph.com.br",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "87e37f4e96124ad79331f78a79f17a8651d4c9b8f4d9aee4e1a493e99d615312",
-    "ativos": [
+      "IBOB11",
       "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Estudo do BC relaciona inflação de serviços acima da meta a desemprego baixo e inércia - Canal Rural",
+    "resumo": "Estudo do BC relaciona inflação de serviços acima da meta a desemprego baixo e inércia Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDJieV9FVzQzUVVNUHhwOU1heHk4S3ZUai1LLUVYbWFhSDE1OFNLY0Rxb2F0UUVBcGRoQm9uZDZ6eGtuaFFQMWFCV0hfbUZhNDY2SDNyajF5Q3VSWkJtUE94bzZBQnRES3ZqU09KeDlGUlhrSXMySEkwYXFGbFBkTFp5TUc1OE5EWFVjS1V4aklrdWtqbVFfWC1tOFpzSGdmUTU0ZnpLa19fczEtLUxQOUotQnhGNGNfTjVDeHlBUUdlcXNu?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d8aae6c6e8be5c7e5f168e08e63bf70c9ee7d3724b7d0c1a6ba3c5441a47badc",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa dispara com Vale e WEG em dia de maior apetite por risco local - Valor Econômico",
+    "resumo": "Ibovespa dispara com Vale e WEG em dia de maior apetite por risco local Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWG9XN1BydGhSMjBmbk40SFpZV0VzcndlaFlfeTNjQldwYTR5NEFyVjdZSEJTcjlKSVIwako0MEZnRUpfb3JBUVFFWkhkX2I1NWI4RzFsQm5uakljZGtWQ0YtNUpXSjlqeUVDMDdlMlRxRVVUYWpfcEZmZkJ2aGsxaEl0X3FsTnVXQWIyTDRjMXcxc1V5SGFkT0h1SUJva2l3MUtxU25IRUNTNGFTZnZDejAtQzFSU3NycWpwckxZWTJ2WUpzdlk0OVI4Ym80TlJOeEFfc3MxY9IB1wFBVV95cUxPWG9XN1BydGhSMjBmbk40SFpZV0VzcndlaFlfeTNjQldwYTR5NEFyVjdZSEJTcjlKSVIwako0MEZnRUpfb3JBUVFFWkhkX2I1NWI4RzFsQm5uakljZGtWQ0YtNUpXSjlqeUVDMDdlMlRxRVVUYWpfcEZmZkJ2aGsxaEl0X3FsTnVXQWIyTDRjMXcxc1V5SGFkT0h1SUJva2l3MUtxU25IRUNTNGFTZnZDejAtQzFSU3NycWpwckxZWTJ2WUpzdlk0OVI4Ym80TlJOeEFfc3MxYw?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "34c460046ac9b6a29b73768e961d1c6fe79af91213bcf442ff6e2fe317d6e678",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
     ],
     "score": 9,
     "motivos": [
