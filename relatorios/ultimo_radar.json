@@ -1,37 +1,11 @@
 [
   {
-    "titulo": "IPCA+: Uma janela rara se abriu? - Riconnect",
-    "resumo": "IPCA+: Uma janela rara se abriu? Riconnect",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VVZKVmFfQzItQ05qU2s5cUctdEhpeGZHeEM2S3l2OWtGUk5wT3hJaHdFSjhqSjdoM3hjX3pkR0NMNmltMkw3ckUwT20tMk00aEpIN3FWckp5VVp6OTM0WU5OOGluTXVFTFdfQjJNYlZ1RzJJVHNLUw?oc=5",
-    "fonte": "Riconnect",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "900b35e157da1862bf8a34b9640f723c8a5d6971a99f6f93c3deec02872763c5",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Por que Ibovespa sobe mais de 1% e dólar cai em dia em que tarifaço passou a valer? - InfoMoney",
-    "resumo": "Por que Ibovespa sobe mais de 1% e dólar cai em dia em que tarifaço passou a valer? InfoMoney",
+    "titulo": "Por que Ibovespa sobe mais de 2% e dólar cai em dia em que tarifaço passou a valer? - InfoMoney",
+    "resumo": "Por que Ibovespa sobe mais de 2% e dólar cai em dia em que tarifaço passou a valer? InfoMoney",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTdFcHR2em8wTWkxbFZ2bm5jTE5EZmpHMG4xZThMSUJMZ0VWaUFzVzNhVE1hQzZadU9TNGM3WnJCSVlmTW43Z2M1YlE3eEFwYXJFVWdicXduMmI3NFJoaG1QNk5lNms3cFo2ZXJwc1ZRM1JvSUJDTVdoZWF3eHg2aHdnalUyamNHaUJNR3MwdE9QdjdEbHd0Yk1LQVVRc0Y0ZHNsYjlqWWc3SDVCU1FqTUFNQVRXNWV0VUlv0gHAAUFVX3lxTE9mYXNhWnVSam0zWGNLTVY2UEk5d0o5TVVMUjU5RkFlNnkxT25qTWNNdkd1ZWw2U1d1MlZLeG05UDZUVnNFS3lHd3NpTWZad0JfaEg5akx5bEw2bDBtNXpOcjVXemtITkljYVJNOFpOdGQwUlpSSG5NOXlTcjVtTjBQSGtOSmphei1ienY4T0UzYkoyczB1dENwYW5pRldFRlF6czZtc0t6UjJuSkxqS29vS2FXYmZTOXJldFRaZElETw?oc=5",
     "fonte": "InfoMoney",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "97c40b3aa839474a77d54aaf7b267896793542b83573d13441a739fcd33e9038",
+    "chave": "3337d193bd80fc2cabb859088dd0542f0f07d315dc4dbca4cc3fb710175b679a",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -50,36 +24,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa sobe mais de 1% com Weg e Vale em destaque; dólar cai - CNN Brasil",
-    "resumo": "Ibovespa sobe mais de 1% com Weg e Vale em destaque; dólar cai CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGlHX1JvM2VjTE1VT2x4YnBZbjRtVzNpZGNZSFphdmZvRGJsUXprYkd4bURia3UtVXlKQnhjcnBRcHhQQVdaeHY1LWpSM1pVLXF5aEFIbDVpblRQc0NHR3lSdU9kY3IxNlA2cEZVX25kTXVLSVFmcTNHZ0xRd0F4QkFucWc2ZVJfTHZnaU1KRmxmb1k4bUNYSVpn?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "57980ab8f61da29c0e6dc170bd19d6d8876547c903a9d68934fb7305bbe01f9b",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Caso Master: Banco Central fecha cerco ao BRB e cobra respostas - CNN Brasil",
-    "resumo": "Caso Master: Banco Central fecha cerco ao BRB e cobra respostas CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWU9UallsSTRzQmNCMGV1WVhJdEVtT3I1ZnN5LVMwd0x3MTZTNEFCUjkxellTR01OSi1BcV9qM2djOG8zTS1QUHRvTWVGamFsUjJWWS1MZEFGdXBTbkhSVTBVbHczT1FHMjV1ZFZnMnREUlEyNzRudkxqbWtwRGx0QkhFVDdMQzRIZHhzODJwY1E2bWpJeDZWWk1IdFUycTlBNk1ONm5IcHRyYURQNTl5SjVjQXRYMHJSTldwT09DSHc1S182LUtiTnpJVUFNZTQ?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Banco Central cobra explicações do BRB sobre uso de recursos do Tesouro do DF - Revista Oeste",
+    "resumo": "Banco Central cobra explicações do BRB sobre uso de recursos do Tesouro do DF Revista Oeste",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVBYVFR5YkMtSFE4M2lCa0NGb1JacHdINXV2elpGNk5jN2FNQXZjT3kySzg5R2sxX0Q4VmcxWW80aDVNWEg3bDlyT04tS0FIYUE4b19tTHNPQV9fQzZFZFJKVHRBWUhGTWduUkpDT1p1SGMtb3dGRHFMY0NLbFJyQUp2elh4c0V2VzRCdGVFeXVuQVJDODNWWXR2V0c5NVgya2ZhRWN2NjhMU19yRVhXeGJR?oc=5",
+    "fonte": "Revista Oeste",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2d96d877ec988f0725a1c4a537d9ccfb9df50217fe5f4518df0fc72d251a9775",
+    "chave": "40231a141a72ecca042807d4f0841d4ce815553a582e77e012f8cfac7503fbc9",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -93,6 +43,49 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central notifica BRB e pede esclarecimentos sobre movimentações e gestão de recursos - Maringá Post",
+    "resumo": "Banco Central notifica BRB e pede esclarecimentos sobre movimentações e gestão de recursos Maringá Post",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjEtSkczdy05cXYwNmIxWjJkbnpHbUQtTFZaVHFzS1VWUmFjdVRMSF9ycndubXBpSDFDNGlKdHBhbXQ1Y1RqTVVJaXpiclZ4clhyVzBDUjFqVTJ3aWVGRUI3emFnZ1dDWFc1LXE0cEJjYnVBZHdmZEhpYXlHZ0hQNHpLTjM1alM5b1YtNjBrY242Yy1FdFB1Q3RtaDRRSzBtbEFoQXpsVU1PT1Nxejl6ZmtfZzhjVnRmRWpUN0g4dEl3X0JYd09OMA?oc=5",
+    "fonte": "Maringá Post",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "89544b5f926d16b64410fc326b95fe7fa1735ed1c821a70a7f07649bbf5885ee",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Bitcoin ignora guerra entre EUA e Irã enquanto S&P 500 mira um 'short squeeze' - cointelegraph.com.br",
+    "resumo": "Bitcoin ignora guerra entre EUA e Irã enquanto S&P 500 mira um 'short squeeze' cointelegraph.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSzdtWmJIbTV3ckNtX3JoUkhvWDVQc0Vxa1hGcEF1VkVKS3NTT01FZTZiUXdsTGQ2WHBwbXhwS3BfODdOcHJBdF9qUTlLbklUaUp4Y2lrOS1yUkdOOTdTNDQxMHBYLW5rTzZzVFlUb2dReXFUZE8xbjcwNTJPRkZmLUZKb1pjUWRlb0R6ZWRkWXNsb0Y1TzNYMkJRQ0xHZ0Z0bFRJWVdMN1haX3FGYmRjeDJMZmVnNm9zVFV1S05KYU1yX090NTlBTmN3Y2NxYW13emhWYnQwYVBSVndONFVQX29JN3NiaDI1X0pKamtDTnVpV3lBM1FldWJNNGJwVzNpNmdTVlJIWU82WXFoOUZqVXZR?oc=5",
+    "fonte": "cointelegraph.com.br",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "87e37f4e96124ad79331f78a79f17a8651d4c9b8f4d9aee4e1a493e99d615312",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
