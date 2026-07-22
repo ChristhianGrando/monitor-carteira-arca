@@ -1,65 +1,11 @@
 [
   {
-    "titulo": "Notícia Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai - Kinvo",
-    "resumo": "Notícia Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzVveG4xcUNxM2ROZHcxZzBKQlpKU1ZTSjUyVndjRHphOTM0WV9GSzNjNl9PUjFfdEVNWDJaQ3k5WUZscDZpaUt3am1qNndXLXhPQVNsd2NoN0NRSmdGY0lMM0kyNllmWEszMGJaZGtwakVhdXNRVXBmSTJtVXRIYmdYYnNEZkFmV2ZwUkZGdGg4OUh5NzRNRWJzVlluc3R5cGpGcWFFUzVnSmN2TUE?oc=5",
-    "fonte": "Kinvo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1303cbc0fa81fae5a442e4cbfa9d4b888786f9a7072691ca5a8426667d325a32",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai - Money Times",
-    "resumo": "Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai Money Times",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1I3M1BhN01QaW9xUE50bnBUTFRqZ2NqOXdXN3VyUXZ5WjhkLXpKaTI2UExSTURONGV1c3NJbVZhR29lMXRZUmNsbU1NdEdyUGFKR056TWhZOFhIM212YTEycWpzLUVpWmptM3BIem13S0YzMkJscWM5dXZ1TTYwaVlSOUxCaktMcmdVUGJJdVRNcjVtVVgxNkpTN1FGeUtBU2dybzZZckZzaXpLVjctSHVHNGdvQQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "fece3d935516b09eaf01cd49772135bdbd19ddbf57235a29a833fa408896be98",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "IPCA + 8% vira problema e aumenta pressão por intervenção do Tesouro; entenda o que está em jogo - Estadão",
-    "resumo": "IPCA + 8% vira problema e aumenta pressão por intervenção do Tesouro; entenda o que está em jogo Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVVdJY3d5WkRKc0dnYnJ6UE1OYmUyS1RaelFGOENSZTVESjVBUVJQREpHVFdXRS1EQ1JEYWhGUnpjejFKdGx0M2hvVFBpczVJMzNvNkVJeTE3MjFadFg0bERObjYwWUFFcTJ4YVAwMHREeGpob0ZNYmRXdmJ1N3Jkd0FtVmkxZHZZRENnazh5OXA2eFM2b3VVbGFobmtCSnA5cERGY0ZvQ2d2UjhwX1ptVWxYRnlsM2lqbHc3dW5fUDVhN3RKZy1ueldUNmMtUkc3WTBiemRkbWRrR2lCdTRtSmE2NTQyZEVhZEVEaW43QVA?oc=5",
+    "titulo": "Tesouro IPCA+, Selic ou Prefixado: o cálculo que mostra qual pode render mais até 2032 - Estadão",
+    "resumo": "Tesouro IPCA+, Selic ou Prefixado: o cálculo que mostra qual pode render mais até 2032 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOejZfd0w1THhRcWY5eVd4T2stajRmUEUyUHpWLVl6ZlpJTURDWHFIOGFPLWYzVHFCanRHcWxDbkl2elBQa19DMVU5ekZKQlNRbDhCVFMtOE1oM1A5bnZrSW5Rd2NaaWdLdjFYR0c1U1Q2MU95LWJnRlhETTY1NkpJeEdmZ2RxTXdhR1Bzd0FsMnhDYWRRVWhsU1BCVHhacWFKV0dIRzNJeEV5Qlowdzh4MU5KY0FwVVhzLU40UktsdmF0NmlpOHZ1ZW5yekJ0emtlQ0Jud183M1ZkMlZ3?oc=5",
     "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4a9adbb6e1e8ac5b84cf6ce61802f49550834c43d58c6bb7fc219e2dea884325",
+    "chave": "0fe156cee0cf343d75d374a11a4c3c4e36f91c0efa0b8247490afc0059bc95f3",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -80,12 +26,60 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Forint enfraquece após corte de juros pelo banco central da Hungria - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Forint enfraquece após corte de juros pelo banco central da Hungria Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1hhbllSRHNGREY0ZXk5QXBWOV9vOWRqeHA2MHZROF9QWDBtSE9ZbzJPd19tMzgtM29hY21WelZDN2ZZV2VlRmlqTjU5b05ValpiRWgwdmxSY0FQN1Npa195MzFZNGVzUnR5OVh6REIyTmF1MHgxZFZWMGUzTG1XTXZOUDZtUzdXU3hkOUkyd0h2OXdWZm5JUktRLVNaeS15MlBFTUYyVjR1WC1PMHlaOWhzQmotdkVyMHliVUZn?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "titulo": "Após IPCA+, Tesouro Selic pode ser próximo a pagar taxa mais alta; entenda - InfoMoney",
+    "resumo": "Após IPCA+, Tesouro Selic pode ser próximo a pagar taxa mais alta; entenda InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFRNSFRHRU9jbHZISng4V1dkUlpfdlh1RU01QXlQYkt3LVczdFhFdGZHSE93QkRkalhVMS1uOTZvek8tWTR3ak1wamhuc0l3WGJaemtJMlRKUVhWUmNrNmxTdVdzaFVzX1hpSDRhYTI0aDRNcHpJS0EweEt6WG9OVGdQaUhTRGJIREtsQ05XTVBDaGNGWDdaNEJFSnphR3J4NWMzUncxZTFvdVJ6bmZYVTZXcHlmd9IBuwFBVV95cUxOdklrV0pSMTBnZzd0VWp5XzFCSzM3SnVCa2tScEx3T19jU1hNbFhEbWF5dlNsZ3Z6YzFsR1VEVGRsbHZFSmdMOFkyaV9WaXpkX1VPa1Zmak1sc0lsQ3NvYjVqZURYYnU4MFhSRXpGdmRKUEVMRWRwaHNpN3NkS0FaRnJqaXFOY0g1YkhTdF82NFNpRzIwcHR0TlVRNVJXTW9zdUxEVExadEU3X19sOUREUk1SVzVrZlZqNmZn?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7bf9ec530908c8dd4e61627d295886b268230d2eda7c9dd0b16def2da491f78c",
+    "chave": "63c38fac0ae7caaf4f74a42151e27c78e3cd7bf3b20cc5719aff69d3757d31b2",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Santa Sé e banco central alemão assinam acordo para fortalecer supervisão financeira - ACI Digital",
+    "resumo": "Santa Sé e banco central alemão assinam acordo para fortalecer supervisão financeira ACI Digital",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeDhYNlpfUGN1NUlxSEFlMFFQand4SGJiWUZtUXBQSmhnQTNSWlFUei1QRUY5QWs4ZGtIcDVBOTJnOGk1c3JMVXdORnhnb2J2dmJyS2VSMzJ0VGFXelRXNVNEak5YcU0yc3NUVjRTSXBiaElOVmtCRlhpVWxrb2t6ODBVVlB4d1FkQThvWmlBZ2JvZXY0allHVzlUdHFyLTlRakctamNSNXZySkx5b3N4b09SM2Z1YTVEbkR5ZHY5b2hYMFnSAcgBQVVfeXFMTmRQZG83WEpWWGZqRUZPV1VzNXBGUVM4NS1RV3VWUnRpLVNsRFBUejhsSEdIZXZKOFRRaDZfQjBnbHdUREZPQVRtejZWQ0d3c1d5REpqNW11Q25NRXpLc05SRlluS1BTa1lzNXVRU1lDa0kzNkVwaGpVMU1WTnVIbmtTeUMtZjlodllYX0wxX0NDcWV1SW1yZ1VfTkpkSW1vTXlfZmE4aXg5blhQUXZ4SjBpSE5mYUYwY2Jzdmk2UlZJcW9qMXVWRlE?oc=5",
+    "fonte": "ACI Digital",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "38da166bc68add551b7d60a8d6b821aab1f091a929e7038ae264640096deb1ad",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Enquanto Banco Central do Brasil fecha o cerco às stablecoins, BIS publica estudo mostrando que restrições não funcionam - cointelegraph.com.br",
+    "resumo": "Enquanto Banco Central do Brasil fecha o cerco às stablecoins, BIS publica estudo mostrando que restrições não funcionam cointelegraph.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbU51d2lsVWRlbzlORnVYZ3ZFLXdDRjAtYmtYRTRDRGhrMlBMUmhPNWtvNVgwWkVITDlaMlJOZi1oVTh6N282WVhuRWlrLWxxc040MlRIVU5sVC1YY1FfYzY3aFcwNTVvLThmU3dBN09rZzgzT2JqUjduazU3TjYyN0lBalFYLUJOTEs5dVpLa0hSdw?oc=5",
+    "fonte": "cointelegraph.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "8cd001c1b7ed1d79149c32bb8b4581e16d5b7afa36be2508c8e2d376cb11e492",
     "ativos": [
       "CDB 100% CDI"
     ],
