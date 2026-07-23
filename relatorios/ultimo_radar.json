@@ -1,50 +1,118 @@
 [
   {
-    "titulo": "“Prefiro ganhar IPCA + 15% em ações ao Tesouro IPCA+”, diz Magalhães, da Guepardo - InfoMoney",
-    "resumo": "“Prefiro ganhar IPCA + 15% em ações ao Tesouro IPCA+”, diz Magalhães, da Guepardo InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0l0N2pPSzQ3dldMallTbWlENlpveHA0cUZGQWNWZWFoaHVmdE93SHZzY2hMcTFjd1RDYjUtZHh2RU1nTV9WMlhjdE4zNEZrNUVjZGJ4SFk1Z3c1NkRHQllRQnJrakFSemEySHRJNHROTm9UaWFzc0RHc2l4b2hLcmNiNDdnRzJkenBVc1FiMndWZ1lzSnRybV8yUWw4d0RLLTdrMmZUcFRheHo5ZWFHeXV2TmJ5SHJ10gG-AUFVX3lxTFA3Z2RPRGZVRklaWGN0V21XTUtJZ1dHZWFGOU5VMXlJU0dtMXRsdGcwZkhIZlhHY1RBTWxVZVF3Qnk5VjdTWndIWktENGFycTZXQnBWMVFWT1BDaTZFekVRU2pUT1owaTF6ZUl2eC1QT1A3aVNoSi1FQk9nT2lTWDBHcXRTTnFQS0Y5RUE2ZVExVUlneFdGSDBza3BzUC03SWg4MllRbGtUWGJpbkJlaFVESXpTdWM0VW5KMnRWOHc?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Ibovespa fecha em queda com aversão a risco no exterior - Notícias Agrícolas",
+    "resumo": "Ibovespa fecha em queda com aversão a risco no exterior Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0ZpLTY4NGpfOWtsZ1R4Y21uQVh4dzBXWlZsNzhzeWR0QlNVaDhmV3o0S0FlNWFENVc3d2RnMDhBTTJYa0ZTd3RnQU9ncmFRWU1WZ0pVVW5ZNnRRWHl2YjJtX0lIUW1GZGc2aHZMTkdSOFd2LU0zemZVUmZmNHhxMWFTRVFQTXd4UGNydm9mNTZaRHhPUHUzbGVHRFIySS00R1B1NnBuNnVvRUhpT25OWVY4R0FkeWlKN2hsN3F6RFQyYTdpZXFtdENZMNIB0AFBVV95cUxPZkI5MF91OXpheUFHUHRSTENCcXdDQ3ZsZ0d3MmR0bWh6S0ktdGZpa2U4N1NkUk5jVWtHVGxIM2pHSHlkaHhFOGc2RFJVTFNkQ0JRWkpjWUdzbHVRSmNSOGFKNmxUT0RGQzJHY2VjNEJoTTYtaXY2ZEU2OXotckNLRERQd1MxQ0pqVDBfZGw1OFdnNnBERDNtdVpjMHZEVXQ1bjd5cGZycWZCSEpwOC1fcGN3VkhBWi1PcXVvYU5rcWxmTjBqQTNZZkhQZmh5MV9E?oc=5",
+    "fonte": "Notícias Agrícolas",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "87a97dba20a6a37991ee9101ffd41241fdb8257dfbc5384709428fc273bbac4f",
+    "chave": "a01626f70aa6acbd88786d0c79ac61c2917eb122fa29890dda0d866505480d21",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ações Brasil"
     ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central registra publicação de relatórios do FMI sobre a economia e o sistema financeiro brasileiros - Banco Central do Brasil",
-    "resumo": "Banco Central registra publicação de relatórios do FMI sobre a economia e o sistema financeiro brasileiros Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vdjdVZFFhMV9aRmhRNFVFRWxiYUZEUExJQ3AyUEotdnA0ZmlyVU4xZmRrd3AtaUFfTmpCdGhTeHdfR3o1UF9oQ3VlX2VsbndJcTh4WDdrdEljclhr?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "205d5d11f7c24e20a239045b1462191aa7a594e116b696f03cdc4bc379eb2109",
+    "titulo": "Ibovespa cai com aversão a risco após escalada no Oriente Médio - ISTOÉ DINHEIRO",
+    "resumo": "Ibovespa cai com aversão a risco após escalada no Oriente Médio ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDBIcHF0V3VFV0JCZkxzTEFaS25YWE9Ka1I4QjVzV1pScEl0OUh6c0FDS1RrNkVSV2lEaXZXcFcyb0JQMC1MMkJ2aldkaW9XeHE5T0pxbHh3eGNKSWh2Tl9CajNIekNLRjYxVTZlbEI1bFp1bnFUaGkyZnN5UEswbm9ycVJTZFJUM1BMdWhQSHZzNGRGTHNr?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fc9d4f10313eb080e044794b484e2e97f3df513377a52a2e7ed6eecdeb8ea426",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar opera em alta, após novos ataques entre EUA e Irã e com alta do petróleo no radar; Ibovespa cai - G1",
+    "resumo": "Dólar opera em alta, após novos ataques entre EUA e Irã e com alta do petróleo no radar; Ibovespa cai G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWS1qRkgxekFmS29WM25KbU5PaTF6OGFiQk1tRjJMQmlNdWJGdVZ3UkZrNUI5MGpaSzNsOENveWhQMWlqRlpTWUp1d2NvMWJ6ZmxWWTIxX1NGU21FLUt1X0pMQ19kWVV3UWNmb1oxc19BcXBVMURJc9IBhwFBVV95cUxORnQtZUZYMGRTWlR3OWczdV9YZE9WcE1ZMHBYX0c3VGtEWElYVXFQbXc2V1BpdzB0cHg0Yl9tcGIySE8zN2traDBoRXZ2N24taXdZanl0R19LaVhBN3RNNFU1MjRTSkpwcno5a0NlVXRpaGRoTFlWcGlISnJBTXRDNm1UcDlUZEk?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "25ca227935b8b1e5b1e9d813cb81618b6acf1d83ae652162c6ce503272267c3f",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje fecha em queda mesmo com alta da Petrobras e Vale; petróleo bate US$ 100 e dólar sobe - Estadão",
+    "resumo": "Ibovespa hoje fecha em queda mesmo com alta da Petrobras e Vale; petróleo bate US$ 100 e dólar sobe Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk14OFVxZE1KYUpHQTBSSVYxSjd2SXFlc3AzSlZNY0JVYkEyR3N6WGlacWJfTUY4dEh4aUlqN3RrSXdaZW9MTlhySDJ4NUhpdjJWajJWZ1d2TUdYNGxMclN5eFdjeTFWdFdCbW5abDdmOG1GQldfaG01RXJLbDdJQmVJVnVuUDI1SnNCb28tRVg3eE9JTzVsSGlEdVR1eC0teEFYVjg0dk5Oejl2bmVzQ2wxR0MyXzJGcUxzUHVqWUVQMnl5RUlUZmM3Wkk1ZU9H0gHWAUFVX3lxTE1JWFhWa0t4Q1pPX3cwMlNhWDZMSURhTkEwekUtaXBZUnpzeVVNbU9wZGgxbVNqSmRSRUE0RE1TVDVMN3FHM3FrZWZOTDJJazNSS05aWHB3eEE4RXRJSXlhbjluUGVDS1VuMVpzUFV3TUxKM3VjVkM2MjVXcEFsSEtRNXRCQzJzcEMxUzFTeXJpRzNYQkJKNWlwV1N1U2hlLU03WDVQYmVOdW5FM2ZNRWxtX3ZVMG10cWtoT1B4VlJpZEc1b2gwYlJCMkxscUt2UGluVm1XZEE?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "482e723e06605bf4f02ea62b1c680c07d8a1c634bb29f6f4b41d98e669ef0f42",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado em tempo real: Ibovespa avança 2% com Vale (VALE3); dólar cai - Money Times",
+    "resumo": "Mercado em tempo real: Ibovespa avança 2% com Vale (VALE3); dólar cai Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXRaLUhod0RINGN6Nldra242MjFvRS1lT05uaWZ3c0xsZ3A2bDFrRkh4cDhueV83VlptdnBYdVJ4dnZabk5qSFFPNDhTcFpDbnEzeS12dDJhQU5BVmwxQjNwX1Nsb2xNekpXcmtKWW1CVjRWX0I2VFUwV2R0M29NY0c3aU1jT2drcEtIYXA1b3k4Ml90aEJZckFISGlNdw?oc=5",
+    "fonte": "Money Times",
+    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
+    "chave": "d6ca297746bef0264561bcf4a032f9665e2f798fd965cc987fb88b1fade36c21",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
