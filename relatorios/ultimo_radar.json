@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Como herança de intervenções no banco central levou a Turquia a juros de quase 40% - VEJA",
-    "resumo": "Como herança de intervenções no banco central levou a Turquia a juros de quase 40% VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0RpN3BuaDQ4ODN0M3pQWlpQUVVyano1S2RGSk91aU9WS281UkYzcTA5M2hacG0zM3VidVZEb1ZsWVhXN0xsTHhqWERfa1ZvSy1GYmtEaVdOYjh1ZU1LUTVlWmpCVnAycHlvNVZmZEZjSmRWbEgxM21kMF9RQU9kd2ZzbGVpLUNfVWstbGl2M2xkVlNPSk1pVTBOVjQ1aXdMb3A3RXZjdlY0UQ?oc=5",
-    "fonte": "VEJA",
+    "titulo": "“Prefiro ganhar IPCA + 15% em ações ao Tesouro IPCA+”, diz Magalhães, da Guepardo - InfoMoney",
+    "resumo": "“Prefiro ganhar IPCA + 15% em ações ao Tesouro IPCA+”, diz Magalhães, da Guepardo InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0l0N2pPSzQ3dldMallTbWlENlpveHA0cUZGQWNWZWFoaHVmdE93SHZzY2hMcTFjd1RDYjUtZHh2RU1nTV9WMlhjdE4zNEZrNUVjZGJ4SFk1Z3c1NkRHQllRQnJrakFSemEySHRJNHROTm9UaWFzc0RHc2l4b2hLcmNiNDdnRzJkenBVc1FiMndWZ1lzSnRybV8yUWw4d0RLLTdrMmZUcFRheHo5ZWFHeXV2TmJ5SHJ10gG-AUFVX3lxTFA3Z2RPRGZVRklaWGN0V21XTUtJZ1dHZWFGOU5VMXlJU0dtMXRsdGcwZkhIZlhHY1RBTWxVZVF3Qnk5VjdTWndIWktENGFycTZXQnBWMVFWT1BDaTZFekVRU2pUT1owaTF6ZUl2eC1QT1A3aVNoSi1FQk9nT2lTWDBHcXRTTnFQS0Y5RUE2ZVExVUlneFdGSDBza3BzUC03SWg4MllRbGtUWGJpbkJlaFVESXpTdWM0VW5KMnRWOHc?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "87a97dba20a6a37991ee9101ffd41241fdb8257dfbc5384709428fc273bbac4f",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central registra publicação de relatórios do FMI sobre a economia e o sistema financeiro brasileiros - Banco Central do Brasil",
+    "resumo": "Banco Central registra publicação de relatórios do FMI sobre a economia e o sistema financeiro brasileiros Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vdjdVZFFhMV9aRmhRNFVFRWxiYUZEUExJQ3AyUEotdnA0ZmlyVU4xZmRrd3AtaUFfTmpCdGhTeHdfR3o1UF9oQ3VlX2VsbndJcTh4WDdrdEljclhr?oc=5",
+    "fonte": "Banco Central do Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "502b94a63c1a56d94beb52cf2cd7be315277d1c9ff6c1f975a8239906a020ace",
+    "chave": "205d5d11f7c24e20a239045b1462191aa7a594e116b696f03cdc4bc379eb2109",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -19,71 +45,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "FMI elogia Pix e defende fortalecimento do Banco Central após tarifaço - Exame",
-    "resumo": "FMI elogia Pix e defende fortalecimento do Banco Central após tarifaço Exame",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGFyN2V2aEFqQXBCNmw4cmVXbTAzX3VqQU9HMm9sQ3JWX0JfTjQ3RGxOdkZlN0R0bENfQkE4R1NKUjFRM1JGZUxuRzlUYzg3bzFEdG1Ldm1QNXBhVWEyWDV0aXltWWpQcHowMGpmSzVRRmREXzFrWDlXUXJLcndWWEp1WnNZT0hHZjVMVVJhQjJlVzJwOFdRc1NBOVZGbmM?oc=5",
-    "fonte": "Exame",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "36a984a744310c858e1ee1521d4c305e62d3f0b1568ebc6e4d2d38466a2eaaed",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central Europeu mantém a taxa de juros inalterada em 2,25% ao ano | Finanças - Valor Econômico",
-    "resumo": "Banco Central Europeu mantém a taxa de juros inalterada em 2,25% ao ano | Finanças Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNnRpcW5vS0FqcTZ3VkhuZ2lhRXZoaGdVT3JQNUdJdHktWGVXS3RWRDZrYUVNZ3VDQjQ2TGp0SHd0SENpSF9IbTlJdUFDa2MxMUZ4al9KWXBzclpYOTRvXzNkQTdITDhfSHpqMWU3VGFQY3Q3MDlyVjZxa2NWaDlpMGhPNWt2cHktWWU2clNBMEM4MHNPeF9SMW5YTF9uYmNyZVRfVE5DSi1ybXFrUHdqVFctT1NMemlrQlNpMGlvTzV5MVp5THpzQndwSDA1VVgtY016OF9CT0o3YklRVXc?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "57a2280ac03681ab90f0d92d2a4dd14a71388545b0e0fbe450598cbd1b37ea39",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "SpaceX tenta novo voo da Starship nesta quinta após falha técnica no último teste - A Crítica de Campo Grande",
-    "resumo": "SpaceX tenta novo voo da Starship nesta quinta após falha técnica no último teste A Crítica de Campo Grande",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkM3RkNLNk1pT3JDSmVrT1NQZTJDOTVKTUlYTGQzU1kxalNJRXk4ZlNLN3RZSENjdURLal9zaEhwQVRScnYwU0xTQXJnQ29yZ2JpblNRVFlXdDF6ZmFxWHRBZE9nbGh5Mlh2bC1VcXJ2MTJMSlMtVzlKMVdLOEVQRUYyR2M2S21wUWJCdFNnS2FnVmFoMW1RZXg0cmNhZU9jWHVYYmVfdlNRV2dNclBrWVhjUXQ?oc=5",
-    "fonte": "A Crítica de Campo Grande",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "cd92b7e3e20cc4698e739a52fa612f5d1e1165f7e42ce21f131ef5b2f36b89ad",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
