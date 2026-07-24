@@ -1,90 +1,46 @@
 [
   {
-    "titulo": "PicPay recebe aval do Banco Central para comprar seguradora Kovr - UOL Economia",
-    "resumo": "PicPay recebe aval do Banco Central para comprar seguradora Kovr UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWmdvU1dhZEo2V3V1WWk5LUNfcmFtVWlLN3FTRnhPTnUtbzFVN0lhc2FZX1plNk5BazJqOGJsRnZRVWJSaFZYUTdkRGs5cGkyRlpIeWFaWTFGV0cwaDFOQmdZUnB4NkpubThEbTBSakVqN3UxeFNGdk55MEJoSm9TOXBXcU9ldEk2QnhLRnp1M3I3NFlKdTN6TUxBTVg5Q0ZHaTJna3Fna1hCZVB1ZTZJUnluV1JBazFKQ3N1Y0RMRS01ZXM?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "FMI elogia Pix e cobra autonomia financeira do Banco Central - BOM DIA SOROCABA",
+    "resumo": "FMI elogia Pix e cobra autonomia financeira do Banco Central BOM DIA SOROCABA",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXNjR0hvMmNhelU3UE5XRWxmX0hxZDczS3UwSlhwclFLckZXREk5SjJQRE5aNWs4MzRyYjdiTndwQk44MGtmM3dmbmdMMnE1bk9FVlBOa0l6YWJGTnl4TzQ5cmNWREVVdFExV1h3Nkl6aTN4UFJJa2xZeHlxUEo2cklqY29TVFBDeGZiUDJrbkt1Z0Z0RHowQjVhSDdabE45TGVXMFBsVQ?oc=5",
+    "fonte": "BOM DIA SOROCABA",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "78afd0595e9cd70bbafe07350533669c2d32313fe0a61cc55f7e7531c52ba7ec",
+    "chave": "0cac584e1ec04265bfd812685242b6d68cca3d32e09ab7f7f320a76e3eec228e",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 13,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa recua com deterioração do cenário externo em meio à guerra entre EUA e Irã - trademap.com.br",
-    "resumo": "Ibovespa recua com deterioração do cenário externo em meio à guerra entre EUA e Irã trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTc4a1pkTnB6c25iekxGczd1U0dhOHVZOVVXUjJ1REJWd1pfZngtNEt5U1FtYlAtcWJXMGJONnR6aFl3RjdVZW0yQmwyT0VMb2FMODNMRFdLVVVRTlhYZ2hQN1dOMEw1bVV2bzhrSnpyS1dPWnUzSmZLR01xcm9hWTl2TzNNaUU5ZjdFU0dFOXUzT1pNLS1vRXUwUzZhVS1sa1ktSlFnamFOXzZ1U0pyRmFpNS1zQQ?oc=5",
-    "fonte": "trademap.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e66b815726e6191ce118bb3f410107bddfdb7bc2d91d5e67840bc6f06ae8293b",
+    "titulo": "Banco Central Europeu mantém a taxa de juros inalterada em 2,25% ao ano - Valor Econômico",
+    "resumo": "Banco Central Europeu mantém a taxa de juros inalterada em 2,25% ao ano Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNnRpcW5vS0FqcTZ3VkhuZ2lhRXZoaGdVT3JQNUdJdHktWGVXS3RWRDZrYUVNZ3VDQjQ2TGp0SHd0SENpSF9IbTlJdUFDa2MxMUZ4al9KWXBzclpYOTRvXzNkQTdITDhfSHpqMWU3VGFQY3Q3MDlyVjZxa2NWaDlpMGhPNWt2cHktWWU2clNBMEM4MHNPeF9SMW5YTF9uYmNyZVRfVE5DSi1ybXFrUHdqVFctT1NMemlrQlNpMGlvTzV5MVp5THpzQndwSDA1VVgtY016OF9CT0o3YklRVXc?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "1a8810e3ef07c23ee66a65eba7e11d6e3520930e4d45b680f92c20ea651afd24",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Fechamento | Ibovespa recua 0,46%, com pressão de NY e risco geopolítico; petróleo volta a US$ 100 - InvesTalk",
-    "resumo": "Fechamento | Ibovespa recua 0,46%, com pressão de NY e risco geopolítico; petróleo volta a US$ 100 InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdlhaRzZCMlprQnNuQXktQWpibFdTcFBQWldwMlRLUktESkRjRXh4YTNqeVMyYXl6UTZSb2g4aTA2TmJaaUxURThzM2Y1WEVyZ08zY0tPSXNlbXR5YXJ2WDYxZEE3cDFlV1EtS0YwQ1F1NVpLdWc?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "df93eb7e260f482108dbba1adb6b93d49c6b1b2eb4b2c16bb588935c7f1d1549",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa cede com menor apetite por risco, mas avanço da Petrobras e da Vale limita perdas - Valor Econômico",
-    "resumo": "Ibovespa cede com menor apetite por risco, mas avanço da Petrobras e da Vale limita perdas Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVXA5dEZuTGlwSUt6Z1VfNHUwSHpqOWc4bUQxRU5xSHE5ZU1rcmN0em9iQzFZNFpXUWlJbmhnUFFuc2RrQ0l5elFNalFxYV9nYzZYVlZuRUtfUlVEMTdubFZfa04ySlc1SXJXdUZMdkRPeEpBWlFVQVFIZ29WSzlodWE2NXowWXNOQlRzNEJaSzBOUE5BWEV6ckl5TzA1dlFqMi1nOTRlNWlyd29UYlpmeGNiUVRpakozMWdFUUNDWHhMTGd5SmMxZjZrcVJ6N1NoRzhMRG5FYUxVcFozNzdVWmRuSk5uR2ZwZDJYTGZmSdIB7wFBVV95cUxOVXA5dEZuTGlwSUt6Z1VfNHUwSHpqOWc4bUQxRU5xSHE5ZU1rcmN0em9iQzFZNFpXUWlJbmhnUFFuc2RrQ0l5elFNalFxYV9nYzZYVlZuRUtfUlVEMTdubFZfa04ySlc1SXJXdUZMdkRPeEpBWlFVQVFIZ29WSzlodWE2NXowWXNOQlRzNEJaSzBOUE5BWEV6ckl5TzA1dlFqMi1nOTRlNWlyd29UYlpmeGNiUVRpakozMWdFUUNDWHhMTGd5SmMxZjZrcVJ6N1NoRzhMRG5FYUxVcFozNzdVWmRuSk5uR2ZwZDJYTGZmSQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e10a7ca96254d7cc9a5a34a768bd82d27a4d43c876b74b091db8d854af987e8c",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
