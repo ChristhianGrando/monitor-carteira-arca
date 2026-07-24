@@ -1,63 +1,35 @@
 [
   {
-    "titulo": "Fiscal é decisivo para queda da Selic e inadimplência, diz JiveMauá - Poder360",
-    "resumo": "Fiscal é decisivo para queda da Selic e inadimplência, diz JiveMauá Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTeUFXU3JRVm4wSkZUWGcwOEQ2cVplVzM2LWk5UEZRQnFMeGNmZXV5b0ZSbkRUWXUxZFlhMzRfaklKNnY4eUYxOEZXOGhiU0E?oc=5",
-    "fonte": "Poder360",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "eac4199258503ee7e65f5dde98ac2a50132c758a95b11b70207352183f1ccbad",
+    "titulo": "Janet Yellen vê ameaça de Trump ao Fed e diz que banco central pode voltar a subir juros - Jornal do Comércio",
+    "resumo": "Janet Yellen vê ameaça de Trump ao Fed e diz que banco central pode voltar a subir juros Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSDBRRVlYOGc3QUh5dUlJUmNiaDNvNUw4MXoxd3dWWnR3UDE2S2FXMGpBWVUwdk1qMGxfNWVZbjFzbDVYbVczNkRSakZIaG1UQ3ctT2U3RDFHb1lSUHNKeXJrdVNCczBrbEpSeHJWekl5Q2h6c0NDRFRISDg1T0FJM1hGNzN4Q2Z4d1BRRGRodjBmaTVBZ1dPd1I5RHVFdHowbjZUNVI2c2huallST0pRcG0zYnUwQ3JpaUhFZW9icDBMU2FabmkzLTBDMzdoRGlJdjA4QlBEckVwemRCTWVwUmNkOUJqZw?oc=5",
+    "fonte": "Jornal do Comércio",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ef0d78c3e0ca970e591589493fddadbcffd401e6bdc73f3a51c6e0d1e668e384",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 19,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar sobe e fecha a R$ 5,08 com tensões entre EUA e Irã e alta do petróleo; Ibovespa cai - G1",
-    "resumo": "Dólar sobe e fecha a R$ 5,08 com tensões entre EUA e Irã e alta do petróleo; Ibovespa cai G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWS1qRkgxekFmS29WM25KbU5PaTF6OGFiQk1tRjJMQmlNdWJGdVZ3UkZrNUI5MGpaSzNsOENveWhQMWlqRlpTWUp1d2NvMWJ6ZmxWWTIxX1NGU21FLUt1X0pMQ19kWVV3UWNmb1oxc19BcXBVMURJc9IBhwFBVV95cUxORnQtZUZYMGRTWlR3OWczdV9YZE9WcE1ZMHBYX0c3VGtEWElYVXFQbXc2V1BpdzB0cHg0Yl9tcGIySE8zN2traDBoRXZ2N24taXdZanl0R19LaVhBN3RNNFU1MjRTSkpwcno5a0NlVXRpaGRoTFlWcGlISnJBTXRDNm1UcDlUZEk?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8b03c086efd801ff713382c72b123739ac879be0dc4c4ad05e2800faaddbdf7e",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "FMI elogia Pix e cobra autonomia financeira do Banco Central - CartaCapital",
-    "resumo": "FMI elogia Pix e cobra autonomia financeira do Banco Central CartaCapital",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZDk4OWtfXzJkeDhaUzU3UVA5TzYxUk1EYkVmWFhIbzhiaHJTd3JaaEZKMmdLYS1MUlBfWEwzaC1IaHVDZHVrNUFmX3VKaEw0UGplX2RHVzhsNHRodkNfZ0s2cjZzX09PLTdRTk1Ed0MxVmU2bEpOOVR6SFo3dDR2ZzhJaS1uY0ltMEc1TWdiMDZoamxxSGw3ZA?oc=5",
-    "fonte": "CartaCapital",
+    "titulo": "BRB nega reuniões com o Banco Central para tratar sobre possível liquidação - VEJA",
+    "resumo": "BRB nega reuniões com o Banco Central para tratar sobre possível liquidação VEJA",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0hFdFhpRlVvNkJYNFpXM3lOUFppdUxYbngzc19nTHp5aHY2SHNmRnBYSzc5cXd1VVJINjJLbWRxMERxVmtkNVdiTEJiZHdzZ0EzWnk3VUtVa3NPSExfdGxIXzljNmJEcktqTGZXNHVGUnpaanFmclZZeHY1b2tfZjVkYnR0YTZRSDlVRElSdGVwdXd6eW5ld1NWNUMxRzNMN0dCNzZFRVJXUFdxZ1I4Qg?oc=5",
+    "fonte": "VEJA",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "13560334a014346e152ca718980796f5a692a3cba64720f92f83f05a32a23e7e",
+    "chave": "ab6beb133aac698f49837106d8074dfc08a54ea622827fb1fdd00b2610cb6e6f",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -71,27 +43,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Tesla Despenca 14,1% e Musk Perde US$ 18,6 Bi em um Dia - Forbes Brasil",
-    "resumo": "Tesla Despenca 14,1% e Musk Perde US$ 18,6 Bi em um Dia Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFZXbXpoYkZQcXdlanZlYWpQV09BYnQ4WjU5Rlc5Mm5jZUZjRU9LT3NKaG50SENGalFCWlM5MjhJT3JncEY1WTBRWDJpbHE3YmdhN2pueERJMUd2U0x0MXJXby1raFNQMXU3OGdUaXBSNXV3NXBwN1otd2ZCbXU1UjZwVnBiZw?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "6b235a696621fac20088462772701ed43ea4bc7ac8b7d3684f87bac2eea15808",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
