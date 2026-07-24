@@ -1,80 +1,105 @@
 [
   {
-    "titulo": "Ibovespa Cai 1,52% com Recuo do Petróleo; Dólar Fecha a R$ 5,08 - Forbes Brasil",
-    "resumo": "Ibovespa Cai 1,52% com Recuo do Petróleo; Dólar Fecha a R$ 5,08 Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGg0QjNPM3BLOGQ0aW9VRjJXcHo4Q1JYNTZWSjBGendKVDd2Rko0cjJ1NDlyUk9UTURtdmFRckNiRUxWRThNVG51S3VEVEc3NnExZy1VLUhJSXlNQjNDcGxtX1ZMaVVsREdRZ2U0bXhGLUxHNklXZU0ySjNSOG45Zk9aczM0OXBKaU8wYUNtRnBBWVVTZVVIYVI2dTZFOXR1THJILQ?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ab4117a9909abefff06aa855a4ce1423aca59b67071dfd9b90f7e6f522a91c5d",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa recua mais de 1% com alívio no petróleo; dólar tem leve queda a R$ 5,08 - Money Times",
-    "resumo": "Ibovespa recua mais de 1% com alívio no petróleo; dólar tem leve queda a R$ 5,08 Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LdThpRjRpZUxZd2pCWTlnTjd0TG0wbmc1Wm9Ra3NpLXRjb0NzWHB4WEpzSWdMLWJUdGJ1dTNoZEs5YktEQlVYWVNMZy1RSXdvTlRXckxDcnc1c0FZM0ZaNDBB?oc=5",
-    "fonte": "Money Times",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4a74c232d447df3c590a8d322ca653f9f41842fc294b8be71af664da0c29341d",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana - Money Times",
-    "resumo": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RZHpvdFpfWDhVcmRPQVlzTHgxQ255c1ZYQzk2OGNyeVh5ems3aE5oVTBmSk9GOEhwNk1Qdm9WR1otOEdwRDZKTGN5bHdQdFEza29IUnNjaTRvNXFqV3U4aW9VdDd4dw?oc=5",
-    "fonte": "Money Times",
+    "titulo": "S&P 500 e Nasdaq caem enquanto os investidores lidam com balanços, riscos no Oriente Médio e tarifas - Notícias Agrícolas",
+    "resumo": "S&P 500 e Nasdaq caem enquanto os investidores lidam com balanços, riscos no Oriente Médio e tarifas Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNR3JxOTJQZzFGZ0dhV2JyZlpfbWh2aVRHaFhYSmh1QVFOSVpjVTh0U0JjYkRPWFlCSUl5dlB0RkF5SXRBN21oSm5teFFSZ2ZwWUk5RzlQckxKNUVmbnBOVnktSXQxTnJDRkJUdS1xYlJ6SG5ibFBRSG5iZmJROUNmblJFbGVadkxmaGF3QzZsMHBQM2pzMFhkNldTUFpSLTZMNml3R2ZkM0FPenNta3o0d0ItUUw3MzBKX2Q5cUxqUjR6b1FxMnBIMDlmZHJKbTdTWE1mQTM1OHA5WWVraTIxaXdDVlI4NlBVUC1PdktKTW1rUzNvVU1MLU5kaE1tNUdvM05TUdIBigJBVV95cUxOQjJZdzlkaFROUzAzeVRCd3Y1VWNmOXhabVJmWjZ4c2sweHZkd051emNQd19HcmRKcHpfdjlNS2V6WUdpbkVxanVOYWxXMXh4ZWZNclRzbTFzcXJDT2hwR1J2UVpuaXJzMHNZZUMxTGduYzFCWGR6OHBRSkdqb3lLSHFZNkpqeUhKMGVJdVRPaGRpajhsYjZBckt3aVJRZWdoNUlHcGs5MTFKQzd1aEt2cEJCTjByTkxuUUVfcno0WHZwMUl1T0VHdHJJS1p5MTRiOEc5NXRfclBSbkFFUmJkdWpfc3RlNWFtX0lwR0xzZGl3dkRoZzdhMjFVaGt4Q2dWTjV6VGdfWU5vdw?oc=5",
+    "fonte": "Notícias Agrícolas",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "886a7690fda246345942525ef182e8de1c083afe196206e66174e46dbd3f3057",
+    "chave": "5aaea269fdf4e1bc53d2c94cd9e66adc3f06f968a775f815cc5800b3066f9b78",
     "ativos": [
       "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais"
     ],
-    "score": 9,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Fundos de papel indexados ao CDI estão imbatíveis, diz gestor de FIIs - Valor Investe",
-    "resumo": "Fundos de papel indexados ao CDI estão imbatíveis, diz gestor de FIIs Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVnpFcC13dzB1UmJfUFdvTURyTnkwOU44elFYNmZSR0xWZDBNT1JNUjk0ZmYyYXNCZkNRdkJJVERiRVQxVHJ0RkFZSmFRQXNNazk3RE0yRHVDbHlTRTZNUmpIZnVhaUd5akExSy1QQTg4X2xpMnVVT2RlejVCVHM3WjFKZERHR2J6WXNfX1Q5enBnMjBrWmE5Z3BQa09BbmxLMWhTWEFTU005ZWt0Z3dUUGVXZi0xenFHeFZDNTB0bXRjTllsRGREeHNwaGdvR1RLTjNrZzA0ZGVDYndBNHYxcnRjbEUwMkR00gH3AUFVX3lxTE5DNkdYUkh1VExxeVlUSGVKVHpqaTdZNnRObU83QW1KYkVZX0xzU1JlYVREanRoR3RuRlhpSW9OZktWZkRoUk9RN09OYWxSTWh0UDRVRmEzMVMxRlVjT3VuSlQ5bWlLZ0JhQTJra2poUmUwMkRkVHVoNUMxbHdjWmRLaUlWQU5JbzFLOGV5MkpNeGkwbnJ2WWNEOHZGbTN2bm80cEJHejdUTmo5dk5SVWtmQnlsSkdvTGs1RnN4aGY3VGQyeXhtRDhHSUowa3J1NGdxd2ZEVUNaRjhoV1pNMkhIQW0yMDJVUXVTaXFqQTZ3VzA1bXlIZDQ?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Dólar e Ibovespa fecham em queda em meio a tarifaço dos EUA e baixa do petróleo - G1",
+    "resumo": "Dólar e Ibovespa fecham em queda em meio a tarifaço dos EUA e baixa do petróleo G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SWHlQam5IMDJGWkgxMkJFMGpMT1ZxNGozTDluMVdfa2Y2NjFEM1BIbE1ibnNBNTRjT2hnMXJWX1B1ZGlYd3J6aG5WYnFKLV9aeHdNSnJXYXJzdnJuVlc3YVJpRWVXdlRwUHJMUUl0Tjl5UUVlbWl3YdIBhwFBVV95cUxOZkV5UHQ1VFFhSkNpSlZGcnFGRGZObWF2VlNLNlZTaHlVN2duREY3ODFrOERaaEVaRmhfd0ktRmR2TmRsWlhLbHU0VUViV2hYVmNPSnRwdng4V0hRUC1UcDZMTGtLQWlKODdORlpDcmlNOV9NNncwYWkzd3BqWEZicWxnRlBHQmM?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fcd3180923e95f5b380bea1eafab6054a47608a5e50d5e072dcf914bf4fa00dd",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai 1,5% com recuo da Petrobras (PETR4); dólar fica estável - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa cai 1,5% com recuo da Petrobras (PETR4); dólar fica estável Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmFaRDg4aHkzSDRiaHNYei1zczlBNk00VmlDQTlmSEhVeWJJaDMwYmJNNVBfNjZVa2xPZUExQWpQWWZTQW9hUDFoQnppVUVOekZ2NHctMGVIb2lUeEF3RWExcW1ab2hKandrTDBKSFpQUEFJSFpNeG90Y3pxNXNkTC1lT2xuN3J2TUFobDl1LXlmYkZzdEUySWl0U1dvcVNjM21ZMjJBaTNPQlHSAb8BQVVfeXFMTUg0bnFaQ1pVWU5TR3hKNUZpZ1pNa2pOZzJ1bTRaeXVOS0EyaTVQZ3RYUF9jQ3NnZVduMWtJVzRxbThMellLTTNlZE8wU0lrdXlob0VxN2pnLTh0T1E4T1doS1k2eEVXbEVkbHo4cWUwUzF0Y1JMZTBLOGRlRUJGbUgtbURwdC1oR3ROSEFNbUhWTXB6ejdtVzZIcnkyS3VBSjhKd0wzZU5JMXRUVkg1QU9JSnNsZW1tQnNlZEp3ZFk?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a83515c5ef86d939c0272a650124eda10431364c2b5fa2d635252cbdcee1206a",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa fecha em queda de 1,52% e dólar comercial recua a R$ 5,0809 - Canal Rural",
+    "resumo": "Ibovespa fecha em queda de 1,52% e dólar comercial recua a R$ 5,0809 Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUZOaU5rNjFjMnRyUWFJWG9YdXdoSlBlZWRCa3BlTm95c3otcEJaZmJxempWX3RraWU3Y0FGLWV3RzFPQklRYTAwMUgyVUptXzY5WXVHRW1HZUNxYXJaaHZlcEd6OWlPcmdpT0RGY294clpDVWNtWmdhYWVXUUZBV2QwOERldkVsZnJBeXg3NEt6NXNSWEdxdE9ucktkZXZzNGdRZkRqQQ?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a67b6cc022d595020122aa2c029929a52e8920e66341fcf1e5760c61d695ff05",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Melhor que renda fixa? Por que o gestor da Valora aposta em FIIs de papel indexados ao CDI - Seu Dinheiro",
+    "resumo": "Melhor que renda fixa? Por que o gestor da Valora aposta em FIIs de papel indexados ao CDI Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREhGRmNfZk1majRUMGxyRVpKc3o2UnZXY3djdWtpTFJQN1cyZHVWbzFwM0VCd1I0T1FtSVpub0tTenExNlhUVlgzMEpoTFU5d09Zd2I4dVZ5QTVJQWtPNHhTaXJkQVlpUXVOUGlPZkRRSUt0WUZJZ2pkU2J0bVZEckF1U2ZFVDV1YklZeFZ4cE9zY3c2TGtEM2pwelhHMG50WlRUYk1qdERMbGZONHB5OS1lYUdCeko0X0tKQkFxNWY3U1pQYWhHMERza0JqMFNOeTdxUGFSQQ?oc=5",
+    "fonte": "Seu Dinheiro",
     "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "a3fbf6e11e0877d6915f08f517712718ceba25879c28579aab7e492d84721e43",
+    "chave": "b015613b88fccc741f8644facd036e4885fd11c41571c25247604cfa874011b2",
     "ativos": [
       "KNCR11",
       "CDB 100% CDI"
