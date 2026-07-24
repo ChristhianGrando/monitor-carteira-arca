@@ -1,11 +1,35 @@
 [
   {
-    "titulo": "Galípolo: Copom avalia “plano de voo” que pode levar inflação para mais perto da meta - InfoMoney",
-    "resumo": "Galípolo: Copom avalia “plano de voo” que pode levar inflação para mais perto da meta InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWlBITXhHTkZZczUzOWFWc1FWSHRMdWE5WVhKMUc0cTNMa1l3bmFVc2NDU3Vpc213Ti11WTduWEc2akVtelpka2Q3SEJudXFELVhzdmpndUxBSHF6a3BEOXAxTlZXMVZUQkpWOVJyYnNMOGxQdTByVzk5X3FsR0hsSEROTjUwU0YwVU4wbVFlVjBLT0pyNGhGSDNBTFk4ZTBnb3lBbTQ1aHc1RjV1T0JMejhZUE9fN1drai1RajN30gHDAUFVX3lxTE9reHhsTm9HM0U2MVVFM28wSDlVbHJCTUNMakxyVHpGa1lNYnJtejF0WGZQbVpGY2ZnYmxOV3JNYkxrY2V4Y0t4RldTZkFVMUpJUWRvNjNZV1RBZlRRckswMy0xdm83V2dVVjcyaTVKSUwzQTN3VEdtTVFYbzVld0FVR3FHaC1ZZnNRTzN2cVFmUExMSFR2U2JpUWcyWXBHR3VqNmpRNXJ4Ni1ua2lTNVdSblVJTUFlSk5nN25kalczbnhKOA?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "412fe26592c51c05c9b518e700968a276e3d095a399b097bd895f9e394a71099",
+    "titulo": "Dólar e Ibovespa operam em queda, com petróleo e tarifaço no radar - G1",
+    "resumo": "Dólar e Ibovespa operam em queda, com petróleo e tarifaço no radar G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SWHlQam5IMDJGWkgxMkJFMGpMT1ZxNGozTDluMVdfa2Y2NjFEM1BIbE1ibnNBNTRjT2hnMXJWX1B1ZGlYd3J6aG5WYnFKLV9aeHdNSnJXYXJzdnJuVlc3YVJpRWVXdlRwUHJMUUl0Tjl5UUVlbWl3YdIBhwFBVV95cUxOZkV5UHQ1VFFhSkNpSlZGcnFGRGZObWF2VlNLNlZTaHlVN2duREY3ODFrOERaaEVaRmhfd0ktRmR2TmRsWlhLbHU0VUViV2hYVmNPSnRwdng4V0hRUC1UcDZMTGtLQWlKODdORlpDcmlNOV9NNncwYWkzd3BqWEZicWxnRlBHQmM?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "dafdccee789ac235ee6c288b75e2a4daaa8402b7aba9bc0578ba212775ad2386",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom avalia diferentes planos de voo para deixar inflação mais perto da meta, diz Galípolo - Estadão",
+    "resumo": "Copom avalia diferentes planos de voo para deixar inflação mais perto da meta, diz Galípolo Estadão",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXota1JWWkZsQXpDMzFwWjh6RW5fd3k3ajVfR29ZazNHbjJYZlBKd2g3ZWpob0IzZUF1aVE1QWg3b1pJX0lqb1pSdno0ZEVyd0l6U2MzLW9ldVV5RVdmeTczeGc4d3NrVmZ0V2dyRnlxcHR4RWsxZVFtelBydGxXTmJEMU5zdHo1aFpZaA?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "f1d7df007053ed9803aad3d2bbf8be2d61485d64036abb14c28d68a256a15814",
     "ativos": [
       "IBOB11",
       "CDB 100% CDI"
@@ -24,91 +48,69 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Galípolo defende juros altos por mais tempo e chancela queda do Ibovespa - Valor Investe",
-    "resumo": "Galípolo defende juros altos por mais tempo e chancela queda do Ibovespa Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONzFZLXF4MTZ4N0lSWW9WUTJYQlZLb19JVmxYSEZLS01EQ0pwbmJ5dnhEWTR1aTM4Q3JyU0VLRWw5SFZCNGNaclU0TmNGeUtGbkhMdWlHeXNoY09XUFFKaUdseWRBNG4wNmhNbE1RczItSmk4TGRhcHV3aGlYYjhPSy0xRlBCYldOaGZuaThJdHdhMnB6Wm44RE8wY0xtYVdjVjA0THFld25aSV9CWlBVWnNMMWVkMjF5c1p1aFZOVXgxYjRmZGJOWHJtQ1RibXJUZE56WtIB4wFBVV95cUxQRHJic2htV1hwWXl5Q1RWOFBNZWpjanFHc2pWck5zNGhzR01zdU16ZlJxbU15Y1VIdFBMVHBsODZoenJpSFBwajhNV1JLTkYxLWNIaEMwaVlrYzM2R1lfNXAwcjlNYVZsbWRDQTNHSTJ2QXprY2NoSERuOWNRdkh5WThjb2VyTFg5VVVaYy1nUENEakFqdDFKN01hTFRVZmJMTW84WS1DWDMwYUltRTFvVlByQk9KNTBoU0dseGJsNWVoWTRiT09rY2k5ZDFNalpoXzZ0cFo4Mlc0UnhQVTB5MGNfaw?oc=5",
-    "fonte": "Valor Investe",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3d70f462520014bc19b632aafec9df70e2031f139365c0a5aec22099448afc9a",
+    "titulo": "Banco Central adotará cautela na definição dos juros, afirma Galípolo - A Crítica de Campo Grande",
+    "resumo": "Banco Central adotará cautela na definição dos juros, afirma Galípolo A Crítica de Campo Grande",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaC1JLUpHZHd3eUgxNnJvdWlhaHFGN2tVeVNaeEE3UWY5czl0X1NWMVE0MjlaTVAtd3ZmSVlfR2tGWVlSdzd1bFlxVU10Tnp6WFFJd0FldHd0NF9uRU0wZWJ6TVpfX1BWNHduZl9HYXFOaDNuT0VTRjhDdTNUYU81Q09vR0FIVWhGb25oTFNuajNRa2JQWE9OUHRZQ21BU3pf?oc=5",
+    "fonte": "A Crítica de Campo Grande",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "bc6d8dd3d71f25d01ec136b480b9453098371b6b20ae4ac7f7af002e3cb14a4d",
     "ativos": [
-      "IBOB11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa abre em queda com nova tarifa dos EUA no radar - trademap.com.br",
+    "resumo": "Ibovespa abre em queda com nova tarifa dos EUA no radar trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3pDMmlkU2tid2JRcEdDU1hoOXZZQWgyLXMwOUYxNFRVWS05UFAzMjUxTEZqekRDVVJHYU1leHBfY3lHNXJpSUNBcnVYZjFTYjdfaVRCQndMa1E0ZGktLUxVdkVLTTFBLU5LNU0wUVNYMm9DQ1ZxN1Qta1UxenhyaTRJOEpqSy1JSV9NMjlVZ3M?oc=5",
+    "fonte": "trademap.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fe9051fb47f89b98effce2ee2fe81692169ebe33e5479398bf4f7db00851595c",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Devemos manter juros restritivos por mais tempo, diz presidente do Banco Central - VEJA",
-    "resumo": "Devemos manter juros restritivos por mais tempo, diz presidente do Banco Central VEJA",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWUtuVmFUbHlYSDhRajVTTlVsbHNKVlNURnltUEpWeFlWTkRYd0JKS05DTHUzLTNXZkhET2FBUVE0X0p0XzI2NkJGQjdJWkpMSGZzOHlIV2U2RWFCZUxUNU5IdmpDR28xRXNhNUI4VEpva095UE5UU2tIWUNQNjhZQzVOWWhXcVVETVM1VXQtbkJ6NHp5dm9aUzFwZEQtRXF2VmZFd0d2UXowRk1JSzFUYWRZWlpRUQ?oc=5",
-    "fonte": "VEJA",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "180e0c0d125816138cf7fbc424b358fc6f7da1ff0569e72254ab1770efee5ae9",
+    "titulo": "Tesla despenca 14,1% e Musk perde US$ 18,6 bi em 1 dia - Poder360",
+    "resumo": "Tesla despenca 14,1% e Musk perde US$ 18,6 bi em 1 dia Poder360",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzRmMUMtZ3YyYndsMHNweGZQUWVFd05FMXFmNHBrTDBVSENHSnp5Y2ozTUM0aWhQR2tLRW5BWXRKSlF4NUJrMG9xcnM0TEZic2V5UEs5LUpoLVZJOFVlVl9LM0tybm9aaWRmOXNscWpDRGphT1JCekhmS3dwMzZTZDBucUJsUmJGTE1lZGhXZzRpQ01jb0tFT1J3?oc=5",
+    "fonte": "Poder360",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "e336a0c086501bda15bd436d245051e5cda58775f95dca328a63e607eaeda0a9",
     "ativos": [
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "O Banco Central só ouve a \"Faria Lima\"? Galípolo responde às críticas - Seu Dinheiro",
-    "resumo": "O Banco Central só ouve a \"Faria Lima\"? Galípolo responde às críticas Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUzVyWkFESUFLRi1yLWRYUFJxR010bC1TNUkzSi1PZ0hNSTNuUUN6Nm56RGpJSVdUaHFOUy1HeUNDRFFqSzZBRVZzZERONnJRa2V4TnZwcElHcFVoYk1rMTkwbHdvT2tSUi1MRk9fa0VENE5fQnhaUXp4eWp6ZXZ5ZDFtQ1VkeF9jUXlib056X1hYMmhtNTFycmdUYjlpaFpZOGlZdlJHcE96a0lPY093ZThDVTg?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a67961db2bd5047b32a1885f8b29e50fc9c215f6855fd6f9917cde4880d04ef5",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Galípolo: Banco Central manterá juros elevados enquanto inflação exigir - Jornal do Comércio",
-    "resumo": "Galípolo: Banco Central manterá juros elevados enquanto inflação exigir Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0lOOU9UYm4zdUZCdEtvblh5bG5FQ2ZGZnl3c2VNUVE1Mk5vZjdrRVExSmpjSFU4ek96X1gxdEVjYm95OHBSNVI0SmVFNmlyRlNIU3dPMlh3aHdkc1ZZd0ltOHNvQnZHYUhieF9xOUo4RUFkLUpvbWJ2X2s2N1VRN1FHZm93Q2ZoT0ViU181Q0JxRGJFVUZrZXBJWF91NnlUQjVOQ1FuTE1mQ1pScmxQSm1iZzVkTHB2NWlHWlNoQm1la1AzX2gyRDlaSmhmZw?oc=5",
-    "fonte": "Jornal do Comércio",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7d3daf7245d21116c812e035ff5492c5e5bd6d2fbd0773fde668238fac51b452",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
