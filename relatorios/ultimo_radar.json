@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "titulo": "Verde: IPCA+8% em título público ainda é pouco prêmio para risco eleitoral - InfoMoney",
+    "resumo": "Verde: IPCA+8% em título público ainda é pouco prêmio para risco eleitoral InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFl6eXhNa3B1UHJ5aDJ0aGVUMTFUblFqamxxcWd1NEF2eC1zR3FCNFB2dFFhTXlKQUlGVFdhc1A1XzcyRWRiVVh0VElQS3lMa3c0TmZuLTkzTzFIVVFsRWNwRHE5Q2s5WlBVZDdHckVlTElnR2RiMlFMQXlQQlJYcmw2Z1F6T2hfZlVmZ1pNcHlVUkc1Z3pMcUVWdmRHT21ackRXUTRKNWtzbkZLYTQ0bVREMURCQdIBuwFBVV95cUxQYWQySGNaMzBYY1VidS1CQlFZZWUwTm0wRVVmOTlQeldjcG9OYTJQZW92MHBnRmNuQlBsVFhwT1VzazNrQXZZREZDS0h6T0hfalV0S1V5YVZqN2VXTEU2ZTExeXRMQzNRNzZXTldfcTlsQ3FRaVhzbzZ5ajRlZW5MU3RVYVA2OGhCOGFCOGxXaUdGQVJaMV9TUHFGRGFQUDB3MzlnUW5CV1BnX1cwYjFQbzdHTmJFM3RqTWVV?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5e93796078a86b0101ba53dd55c6d164c5bb8dd9c36ccec7785b31ae6417efb5",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Galípolo sinaliza que Banco Central irá manter juros restritivos por mais tempo - Brasil 247",
+    "resumo": "Galípolo sinaliza que Banco Central irá manter juros restritivos por mais tempo Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGJsM2g4RFNQV2JMNFlDRGFEUUt3NXItVUFuZU9wQUNCcVo1TV9TcTFibXhfV2hWVi1Ld3pEcUpaMXcxUGwwR1hPU3lDQmFYUmFYdkJUWmpDMXZiTkhlNDdWWU9idXpmdlpTaVR6MU9HQWFWaFBoaUkxYmlRMzJFUUtma0ptR0QySEZjRGVYelFoUkpOVEV3bGlIMmFScE5QTGJKcVpaWHQ3RWpwVGVRRWdoVThSQQ?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3cd260b546894c4d820a24ee8922c0f8548e973e47c29c70a1ec1566ef5a4cf4",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
