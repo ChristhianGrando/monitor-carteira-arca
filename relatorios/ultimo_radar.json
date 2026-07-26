@@ -1,11 +1,63 @@
 [
   {
-    "titulo": "Milei propõe reforma do Banco Central e proíbe financiamento ao governo - Exame",
-    "resumo": "Milei propõe reforma do Banco Central e proíbe financiamento ao governo Exame",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWllMaE5Zdzc4VkJkV09ic2UyanVYbHczbElxUmVkY2hweUZfamhoaDEzMkxLVFpCQjZ3dTlqTVNpcGZ3VzluUVpYTzJUdk1wNWJ5Yzc3cmtaS0ZvSWU4aTZ5MmQ5bXdfV1RWWXBxZUhIVHQ2UVJnRS1kd0xzRjRBR2M3UWlfRWJ0RXpOaldPZ0ZQbkZWeXdqTUl0UFo?oc=5",
-    "fonte": "Exame",
+    "titulo": "Eventos do Mercado: Fed, BoJ, IPCA-15 e PIB dos EUA em Foco - Jornal Brasília Capital",
+    "resumo": "Eventos do Mercado: Fed, BoJ, IPCA-15 e PIB dos EUA em Foco Jornal Brasília Capital",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVpDSk1sY1F2aGlHZ1ZaUEswQTBtbUROMnpKdzl1SkFSVVFnQlVWbXNqZW14Z0ZYajcyX1pTc3V1TGZqRjJkYTdrNmZYcE4wdnp0YzY4b1ZIR3hycTBKdmo1U1I1NVh2SXQ4N29IOE1abkg2OERiem1tbkZnR0lfWWNkZkxWcjVacUk4?oc=5",
+    "fonte": "Jornal Brasília Capital",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b1feb6019c4ec09ca30cc71abbc869a87a53ec83a1b6f783d8d6870c3b74ac85",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Reflexões sobre três décadas de política monetária: o papel do Copom em um cenário de transformação - Estadão",
+    "resumo": "Reflexões sobre três décadas de política monetária: o papel do Copom em um cenário de transformação Estadão",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcno5VjBjR3lwS3pqaU5Zb0tXcjMzYU1kVVloU3pqQ0dHTUhITUR0MGphZ01FNDV1OW4yckRKZzlmMDFfWkpXbVQyelN1T25mY09GdE44azJWc1FIeHBLZDdyNF9jUWotNjJrZl9rS1ByTkFxVlFnUW1mNkEyYWVVLVZqMEZxZnAzZmNsN1ZvYkZRT19qSkVKcXhKb3lKTnhKZnhwUkxMVdIBrAFBVV95cUxNMXRaR09ObG9TREpuTk5zNkJGUDQzQXFRMTd2RmIySFh0aVZRN21HSktsS0FxV084MDJuOXY1OTVIMkV6QlltNmtydE44ZzlOeUFOZEJqTGRNTXBzYjlEUEdoSFF5LW0yOVFlVjFSMTk5U2NhZW90V25pUE5BcVhyTTFJXzV3QXZJY296NXFleU9EN2pMejZMNEprZE5EZ0pHTUlUTUEzbG1hUmE2?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1194e431d2ca42fc2d9cd75319e58ca9a5c44933f1b93b4b98181f615520d822",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Presidente do Banco Central afirma que pressões inflacionárias já estão sob controle - Portal da Câmara dos Deputados",
+    "resumo": "Presidente do Banco Central afirma que pressões inflacionárias já estão sob controle Portal da Câmara dos Deputados",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY1c1aVZsNEU2Uk10U1RrWWtlZ2s5RS1rZk41X2FQM1VnUm5WT2piX2JVT2RqRW5tZ092X1V3ZnZXckhkX2hMMndmd0FZMHdhWDlDelFwQktfeHFqWUFjSGVPNGZuYmRMTmR3MXdQS1hkWEs0dE5JdVlmWHNld2VBMldnZUgzazg4X3Y3UE5tdEFFdS1Dc2w0MU4tU0l0Nk5OOHhpNkVyc05lQjJ3QWRDOWRoYmZpMmdCSUNNQ0JkckVqTzZLVzluZUVCbnQ?oc=5",
+    "fonte": "Portal da Câmara dos Deputados",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "26ed384f483860ed6739ef9a2085bb63141def7fddd3ba6af0c745d32bda8c04",
+    "chave": "cd139bbbd586fb81c25f953152f14da845e68e07edd40174b951e86f51edb176",
     "ativos": [
       "CDB 100% CDI"
     ],
