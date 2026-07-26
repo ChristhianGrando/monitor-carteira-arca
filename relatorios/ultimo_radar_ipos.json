@@ -1,18 +1,19 @@
 [
   {
-    "titulo": "Os detalhes do IPO do PicPay: a primeira startup capixaba na bolsa de valores - Folha Vitória",
-    "resumo": "Os detalhes do IPO do PicPay: a primeira startup capixaba na bolsa de valores Folha Vitória",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc016aU1lUUZhYk80UHJYWFZRYXNhMkEzRWM2V1FmYWNuUTd2cGNObnVCUUNWZTJHam5TV3B6Mm9NXzZweG9KWFNOckhMUlo4Y0dObWVXemhzT1BhU1dGZEJ2bWQwRkVrZGlDWVFmTGppbUw0UE9lQWowdjUyU1UweHluMXBuWWNmX1FYRW9zblpmZ25uQ3ZuUWJIZURpVVkxSUhqajVnUWpSNjk3SkZFRHNCMExOOFFteVh6eV9uR3hzQQ?oc=5",
-    "fonte": "Folha Vitória",
-    "consulta": "banco coordenador IPO OR prospecto preliminar OR prospecto definitivo",
-    "chave": "f4edb5545c2654327d1603aff50c71cfa3eaba86c484e9ff02a3dd192f434db5",
-    "score": 8,
+    "titulo": "Compass estreia na bolsa nesta segunda, em primeiro IPO na B3 desde 2021 - G1",
+    "resumo": "Compass estreia na bolsa nesta segunda, em primeiro IPO na B3 desde 2021 G1",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mWmFtRXo5YVotOThSSTFpamRtb1paemVhalVLVFYxMnhrZFpYS29vSUV1eGhvS1AyYy1tbWhfQkE4c1hJOGluekh1YmRuTmhpNGdndVh2WkxOdUk2LWw1bjVvWGFlQU9nRXE1WjJxS0ZXZ00y?oc=5",
+    "fonte": "G1",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "28b4db838ce89a0d2603e644636237ab6f6715a79b81e4354d80e81419a98175",
+    "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
     ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "IPO em fase avançada",
+    "estagio": "Fase avançada / estreia ou precificação",
+    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
   }
 ]
