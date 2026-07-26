@@ -1,26 +1,30 @@
 [
   {
-    "titulo": "Dólar e Ibovespa fecham em queda em meio a tarifaço dos EUA e baixa do petróleo - G1",
-    "resumo": "Dólar e Ibovespa fecham em queda em meio a tarifaço dos EUA e baixa do petróleo G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SWHlQam5IMDJGWkgxMkJFMGpMT1ZxNGozTDluMVdfa2Y2NjFEM1BIbE1ibnNBNTRjT2hnMXJWX1B1ZGlYd3J6aG5WYnFKLV9aeHdNSnJXYXJzdnJuVlc3YVJpRWVXdlRwUHJMUUl0Tjl5UUVlbWl3YQ?oc=5",
-    "fonte": "G1",
+    "titulo": "Agenda de mercados: Fed, BoJ, IPCA-15 e PIB dos EUA são destaque - Valor Econômico",
+    "resumo": "Agenda de mercados: Fed, BoJ, IPCA-15 e PIB dos EUA são destaque Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXh5YVFDUGJTLXU2SHNDQmFHa2tLbnlRV1cxakF4OUJUUjZVUmxQMTQ4dXJ4UXYwWV95RkJuSDBPYnplTlVRcFk4Y1MxekZxelVtNXVmN2x4eVY5SW1hbGpaVU8ycTRLbUpqVHpSWkxkWVZTeVoxYzJhQW40dlotZER1MjFmb2RScWJiTTgzZHNHQ2tTaU5PN09IdHpqLXg3UHFOMk9KOVNhMXdPOWNSclVNdndkTjRKcE9n0gHKAUFVX3lxTE9STkNLSW9NMUM5NzNlcWZHQUlsbFduc0FONFFJTVdaaXB3dnctekF2M21jY0ZqZ0M4cUVURVFaMzdpUTdaTVJReU8wMzluRlh3d0EwM2V5ZGQzM0hqQ3NhNnB1QnRqSWdSV3Zib3BoaWF0cTRzeTR5VnA5UTdPcTlFV2FJT3NSUzJGVnhsaGZSNW1ORW1UTWJwWDN6TFg5R0U4a2l6LTdSMlJuTDhuZmZYcmlrMDlJNW5NMF9vbXZNb1k3TzJ2Zno2dkE?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "0a71331b7e1bbd52c04daf5a9c512ac25c798f674c3eb2b90a5f9ed89cca0d0a",
+    "chave": "3edf07d30213224efd315043d342fa22cee445c44643ea5f64924a111b8d036c",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
