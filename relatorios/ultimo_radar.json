@@ -1,30 +1,69 @@
 [
   {
-    "titulo": "Agenda de mercados: Fed, BoJ, IPCA-15 e PIB dos EUA são destaque - Valor Econômico",
-    "resumo": "Agenda de mercados: Fed, BoJ, IPCA-15 e PIB dos EUA são destaque Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXh5YVFDUGJTLXU2SHNDQmFHa2tLbnlRV1cxakF4OUJUUjZVUmxQMTQ4dXJ4UXYwWV95RkJuSDBPYnplTlVRcFk4Y1MxekZxelVtNXVmN2x4eVY5SW1hbGpaVU8ycTRLbUpqVHpSWkxkWVZTeVoxYzJhQW40dlotZER1MjFmb2RScWJiTTgzZHNHQ2tTaU5PN09IdHpqLXg3UHFOMk9KOVNhMXdPOWNSclVNdndkTjRKcE9n0gHKAUFVX3lxTE9STkNLSW9NMUM5NzNlcWZHQUlsbFduc0FONFFJTVdaaXB3dnctekF2M21jY0ZqZ0M4cUVURVFaMzdpUTdaTVJReU8wMzluRlh3d0EwM2V5ZGQzM0hqQ3NhNnB1QnRqSWdSV3Zib3BoaWF0cTRzeTR5VnA5UTdPcTlFV2FJT3NSUzJGVnhsaGZSNW1ORW1UTWJwWDN6TFg5R0U4a2l6LTdSMlJuTDhuZmZYcmlrMDlJNW5NMF9vbXZNb1k3TzJ2Zno2dkE?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3edf07d30213224efd315043d342fa22cee445c44643ea5f64924a111b8d036c",
+    "titulo": "13 trilhões por cento de inflação: Milei critica BC argentino e pede reforma - InfoMoney",
+    "resumo": "13 trilhões por cento de inflação: Milei critica BC argentino e pede reforma InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUZfc0lPdXl3Nnp2NVc2UHU2amR4UUV5eGhJU21kVzFpc3A3TEJZaG91bndHX2RtSmo4TENOWFR6WXlHYnpYcnIzTndBSHdzZXVaV1lWU1pJV2RSRnJPUElOSE4xNFRhbG56TVVYUDd3S1lNOFM2WGNhR3pLa2hFR2VfZ3VYYnBiVWVEeXFlOFBJNXkxY3NJSXI5c1JJVlJVeE8yeHREbUNaX3ZpanZ0emNsRUQ5Z1FZTmlXSkk3dVo?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7a268f92d882905fb6befc0f60dab87778ab040f1cf989a8c54f3bbac0f3ef6f",
     "ativos": [
-      "IBOB11",
-      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 13,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "FMI destaca avanço do Pix, mas cobra mais autonomia para o Banco Central - Boqnews",
+    "resumo": "FMI destaca avanço do Pix, mas cobra mais autonomia para o Banco Central Boqnews",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2Joa2l1akJGT2pzdWt3dW42UkFFbE50RTZSWGRPR0EyQmZvb1Z5aGN2azZaQVhjMVQ0UFc0Ujh2amowTnV0R3IwdkRreFloNm91d29EMGYxc0RHN2hCWjNrTDFZTVktSUxVZzEwOXBHcTh4UnFiZFlBZ2ktSHlDU0JucnZvWGVLX3AydjQyMGhpRDF4cENpZjNwaklfUk9qN1BDNDFsQ1A?oc=5",
+    "fonte": "Boqnews",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b84eeba1286ce2f94df39200eff0676bf4aa6700f98ec47ca3f7218d17029922",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Opinião - Marcelo Leite: Claude e Musk alistam ar-condicionado na guerra do clima - Folha de S.Paulo",
+    "resumo": "Opinião - Marcelo Leite: Claude e Musk alistam ar-condicionado na guerra do clima Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM1ZEM2VlcGtCNW1aUVVWV3lhVUI1dlQzaU90SjI1elA3eDlRSWt6OVp4VWx2ZWRGZC1tdlRWT0pDRU93QUI1SWk1UUFlTnBkUDJUelpWVEFUeGdubHJ5OXE2a1g1ci1XZW1jSzZ1SnNfV3FkYkhIVlFJSi16eVVQVWQ4ZV9ldUlYVThTZnByNmZLaThqd3dyamRBRDdLaENtZno3UUt6d2ZtclE5N2oxak5wUDdyNUNjbWMzMkd3?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "ae49900cab4bcb892420e77ebef912128b62cfb696e7c4cef721d67a96f85c3a",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
