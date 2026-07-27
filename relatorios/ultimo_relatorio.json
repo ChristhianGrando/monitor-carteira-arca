@@ -1,181 +1,163 @@
 [
   {
-    "titulo": "Mercado reduz projeção do IPCA de 2026 para 5,12% e eleva de 2027 para 4,22%, aponta Focus - Valor Econômico",
-    "resumo": "Mercado reduz projeção do IPCA de 2026 para 5,12% e eleva de 2027 para 4,22%, aponta Focus Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdzZXZUw5YXdUVlBCU1o5TThNbEEzUGFJbkFFbnFNTkZYc29PdXktR0FPVFVJTHdIUmZMQ3lndzNFbHA2aFpIbmhzRmNYLW1HWG5LYXVVU1pxVVhsNm9jWnQyZkhkMHVhYzhkeGFPMWFPNkNRUGVhYWtERVd2OVYzWm9QNXNUazB3X1RHRWdGQTdXYTB3YzdJSWxIMmJhd1pfUWl5WDh5dGVwUzVaN3BTa19JY2daOVRWZjByN2lHbDByQVdBT20tZF9ic3dlMUo1RW8wWWR1bm11Vi1ta1p4c1hTOVh0MFpLRi040gH6AUFVX3lxTE85SVViX0VLQU0zZF9RNC1DbTR4QmFzbzlTVmxZekdhYkJUWC0wUUJSd2s5RmpEeHNlbzRyWnBYeEpla3JLY21Bc090QkVCRURHSFFpc2ZiLXNDem1QelJRLUp6S0JQeFJUUGo1cTZReTFKNXF4amd5OTVhcFIxQXZVczJnQzVfNnNZazVQWDEzSEVUa0sxd1hvZ1BGVGpGZUtGa0t6M3Z4WkdVdjR2a0pyNnNIQlFFN3UxeVQza2pFTVlmSjJkMndhOXRfeXduUXRCUFhPNjlpZFIxLVJJVmNkYXMwY0RoUTlIX2J5eUNUMTRHS0pPVWFUQ3c?oc=5",
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa recupera os 175 mil e dólar sobe; PETR4 cai com petróleo - InfoMoney",
+    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa recupera os 175 mil e dólar sobe; PETR4 cai com petróleo InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVWY2WXVCQVJDem5fMU1wcHVBMUQ0cHdpb1ZpSzFTRVY4U0IxMWJiak0tMDR4d3NvOTFRQ2trZnV0djNiaEpyaFY3ckFOWWZiYWtBSTNVUnJoQmRxU1BHVGowVEE3V0d5cUFGQkxZM0I1RHYzMTlNRjJOUlcyOVlsSHp2N2xjV3hmZ1FqQ05xUQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Ibovespa Fecha Acima dos 175 Mil Pontos com Vale e Bancos; Dólar Sobe e Petróleo cede 8,7% - Forbes Brasil",
+    "resumo": "Ibovespa Fecha Acima dos 175 Mil Pontos com Vale e Bancos; Dólar Sobe e Petróleo cede 8,7% Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkduMUtRM2RSR0JrdTFsUkd5NEluZVpmaUcxX08zRDNwUlE3V2M5dnh1ZWtBaDZnaFBUVWM2N0lOa3pmdlJOSHhWNHI0WG9aQWtyVGp3X1daeGtvdGxiVlVqQ0FETG5KMWRHZ2V0UUNkcTI2UDlnQTdhdDA3WERsODhHSUdOTGZvbEdZcUstSHY1b1Z1cXRkUkNRakVjcXBKQkJZc0VMSDBrX3NfX3JyREdIOWIzQ3c2eTR6R1RtcVJBZw?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Ibovespa B3 sobe 0,74%, com breve trégua no Oriente Médio; dólar vai a R$ 5,11 - Bora Investir",
+    "resumo": "Ibovespa B3 sobe 0,74%, com breve trégua no Oriente Médio; dólar vai a R$ 5,11 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXJIRmgtdXZ6WjVmTV9tX0VOUTZUV1ZvcGZaMlV1ZTNUSTUyVUxHdmRiazlfQVhxQ1lLaWptTk5sREhHbmZXZF9IWjRDck83cTRjNF9fc1FvSnZ3ZFhQSkpxZEhsZkxBaUs0ZzNvd043ZzlIZUVWZktScHVVelB3VlhTTkxpaUZRUklwVjR1TU4wVTg3WkQyQ09vdUtyY0Q1NXFMYTd2aEFubmVRbE53Vl8wVlAzcmpkNThYbEN3?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido - suno.com.br",
+    "resumo": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDNzODlMLWF0OEJlSDh1ZHlqd0NHa1hrMWd0c0RuQWlTREpFc2hXUzVjUXNZNnFwTV83MExrNGVGMHozdnpnSk1HR1prdTUzQ1hSSGRta3hVc0JuanJseFFDUHk4S3dqZFZ2Wm1jSEVIWk9YeDZLcHlieUtUSlhLaWdITUZ6X0lKenlxNNIBkgFBVV95cUxQVkUtSGd1NHdoWkE4cFB5TU9ZaDMyYlNhMDJDcVZmN3d6TkxTSFM1Q1NQUEJuQnByZktGRmttRGpJNjBsN1Q3aFJHakUtZDRXLXdrVGtPV1lxeVhIcGlXUkxnNGFTX19hNTNDckU1dDRON2FTY2JyeHhVYWpjaTVwUC1yYkllQXY4Z2NxMHBtZWVkZw?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Ibovespa e dólar avançam com alívio no petróleo após pausa nos ataques no Oriente Médio - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa e dólar avançam com alívio no petróleo após pausa nos ataques no Oriente Médio Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZTVlWlE5TlRCczlvRXNPVTdicnJqTk8tSHFrWDNuOEFzajdPandVWXZQVi1OX21rcDg0cXpmVjhkdXcxaml2bUlJeDdMak54NEdEQ0F6NmlqaVVyaTBNb21lNDRVNFFFUGxRNmFWNEtyb3RZTDNfVm1GTFpoQ2s3NGtrcXJwc2FsT1dJZHVnTDdvR1E3bkZEZkFZZk5BNzdrV2dhSjFHY0FieV9QbjFONVdQVUtlMjl6VERXZkVCY0pIRGU5bFgwREM0UdIB3wFBVV95cUxQNHJSYVIxeV9zSEl4RFJCT01HNkswSEMtc0VIaXlUcGJCY2VOSlhJeW5aWDBXVnRYMXBmT0o1ZS1CR1RidzlpTUltTmdjRmlpNUtOTXg1LWxoNUdyUjJlZ05fT1FmZHBzX0t5Y0d1dGdreHlUZXl6SzF1cko4b0Z0TzluUEFuLTZ1LXdtYUlqWk9KSnhPa0M5elBzVTJWSTdNdGJHaGJOT3ZrLVJaaHhmaE1JUnpxQTNlX2dTRXctZ0cyZXZpNGJ3OFNHSktKb2lCZHp4aGdwREFBeEV3a09Z?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Trégua entre EUA e Irã anima mercados; Ibovespa em dólar sobe hoje (27) - Money Times",
+    "resumo": "Trégua entre EUA e Irã anima mercados; Ibovespa em dólar sobe hoje (27) Money Times",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2w2bDZUbWpKNjh0MHYzZlFRck9qNG5lM2ROUWFNTndUYWpDTGlhMEtnMmJUWmhVNWhvUnA1RF83UEFSUWRETjZhaE0wR2RZY3l4RFk0NzJMRERCSGtWR3pMUlhiVFFQN01hdEZraUpnV0ZQU3RmQUJPdkd5ZXZaaFlrTDZMT3Exa1FOaWZLRUxCdnVWWjZkcGN2c2xtLUV1?oc=5",
+    "fonte": "Money Times",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Ibovespa sobe 0,8% e dólar avança com foco no Oriente Médio - Poder360",
+    "resumo": "Ibovespa sobe 0,8% e dólar avança com foco no Oriente Médio Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0lJSGt6eUxKWHFId3lSZTNZVUJ1dWZJVk51aHd2V3JENG9xQ1lyZC1hUElSQTdPRHlCTjFVRWlOR1d5dUxXR3hVNTZycHBRVlZnODlfdTNKOEg5aC1VTXBGcURvQTJYZEx3R2NGdDN1aDNrdmMyX25kTWpDY3FYZnRQQ3BzT2hYSV9Cc3VMRDJJYk1HcDVZNzh6WWlTTW5NSkpR?oc=5",
+    "fonte": "Poder360",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Empresa de túneis de Elon Musk vale mais do que cem companhias do S&P 500 - Valor Econômico",
+    "resumo": "Empresa de túneis de Elon Musk vale mais do que cem companhias do S&P 500 Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR09RSEp5RnRaTjVGYzFWNW1MRFh6MWVmSDFMQkNVT1dFc2kwbFplVDRkSkpncVJYb0hXcWdBU1FDNXRDS1FPOFdSaklKTDZYeUcyQ29aZ2gzNG1tRjZzNlE5bkR5bmdSTHFLNkwyWXJ3Q1Y2RHNQYk5mLURsT1N1SVZHQjlCeUtqcGxkT25jUW53RFZpUWRWbDBKcGFYOHliZGR1OEQ3TG1JYm1wN3BzWG95VXpmYk9XdE5zLTBTTFgwc29WVGZRWdIB1wFBVV95cUxOTlNuTUR2ZmVTcHVpVmVpaWlYQVV1R0RWTlpwRkZhRl9naFViT3pxQkI1ZHdCNXBXeUZocFNXcnhRcUthMXB0a25yZG1CQzZYMmxMZUV1ZnI1cXV5RGlkemlyMkl2VFN1eW1jazNZRjRhY2JiamxURk5UOTJzV0ZuTVNXS2dzaEFOOUtHUXBQWG9aMHdQSVJLaWlENDY2eHY5dmJGb05lWlBEOHUwNHl2Rll5VmlCNk9VTjF4SmFwa19uRjdWZzFXeW9PRlFuUVpTNWI1aHpvZw?oc=5",
     "fonte": "Valor Econômico",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Focus mantém Selic em 14,00% no fim de 2026 e em 12,00% no fim de 2027 - Canal Rural",
-    "resumo": "Focus mantém Selic em 14,00% no fim de 2026 e em 12,00% no fim de 2027 Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmNmRzdLSk1neEZ3ZTBmNWhPYVN4MmVudjVNNmhTUmJ2X1ZiNDMtZHlrRkhScjluNDZuYzRfQ2t2S3VTY2JraEdXeFlleU5nSHd5T1djRTNMdC1uNlZpUm0yY1htU1gwOXVnTEhKaG93YmNfZmRCSlR0cmRGdmgxTVpxeEFha3R4RkVtTVpxcFJtVXgwc1RybVdIWmNOU00tUXBmM2tBcDkzSm5F?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Focus: projeção para o IPCA em 2026 cai pela 4ª semana, mas ainda acima da meta do BC; Selic em 14% - Estadão",
-    "resumo": "Focus: projeção para o IPCA em 2026 cai pela 4ª semana, mas ainda acima da meta do BC; Selic em 14% Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNTlRcExVaE9RNmZ1bHlZWnhib1BCYnJJamREVkVOTUVHVV9TalJLQ0hfMWMwSFNUR3BPQm9ZajNaNk56WXJmTUhpQ0ZLVlJMYS1ONzI1N3B4cjhHSnVuSEdMM2EyMXBJZ25pLXl5d2J2QlVNZ0Zpa2VySXdhcGZKVnp3MTROcmNyQVZtUDRZcnRkWXhVdkhyS1dWM1l3YTl5SHNIZURXZll6TzRIXzFDN2c3djJlb25mWFRqMERRUDlINGlaWjB6NGFhQ0ViQkstN2VpTjlzV3hWRElPdU14MjlsRXpzUdIB6wFBVV95cUxPeXJnVG1Kdk9VdWMtR1lHNnBiTmh1UExleFZPMkFrM2YzUEw4anA1STB2UWROQjRPX1FPdXpCVlBPTXVXNC1vVE5UQ0RwVXNSRXdRRDZONmpGWjVhWlM4a3l1WlAtOEhTS0N5VE9YNUQwbE16eXViS3NRaThVSlBDLW1yRXhfbjRDVHkySFZpOUV1YTgyRzhzMmwwUjltd05qaTVGWkhqMkxVUGJOUWFEeEluSXlnVUh6VUwydzIwdVBrOFltb2daOHJCY2Q3MUxiU2drTC14VEo5RGNrYS1XWHhWMUxndUhlTUo4?oc=5",
-    "fonte": "Estadão",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Mercado reduz previsão da inflação pela quarta semana seguida e IPCA deve fechar 2026 em 5,12% - ISTOÉ DINHEIRO",
-    "resumo": "Mercado reduz previsão da inflação pela quarta semana seguida e IPCA deve fechar 2026 em 5,12% ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWV9hR3M2X0txUnc3QXJOT2lxTnpZcU93RzRINTRrSEhCUTBMT1o3UnZYazF2d0FkWENGYU5fcDBFXzJKTS1sYnZzb2Z0blVTbWJnWkY2cjVfQXR6VVdNUU1xWTdUOVFFTTdhV2Z5OF9WUy1zOTNhejlTODFZOU1IaTBCTkh0ZDBuQ3RRZnBJQUNpTDFtUF82NWs2ZWVfeG9zYjBzbGo4ZzFjNGtGOWFpT1Z6SnhRM1RnZmhLaFBn?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Ibovespa sobe com alívio na inflação, mas tarifas dos EUA e fluxo estrangeiro ainda limitam recuperação - VEJA",
-    "resumo": "Ibovespa sobe com alívio na inflação, mas tarifas dos EUA e fluxo estrangeiro ainda limitam recuperação VEJA",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRU1VZFpKTVNISnppQlZsVi1PSVhCTEdvbTR3eG5JZTJVak9YS0hVa1hILUxKS3lpd3l4N2h6R3FrMDZocXRwZE50WU5NcnRkNVFQREtMaFBLSlp2cEp0N3pJam5NcnRRcmlrcG9XRC1BRjctWWtpdl81akJiN19rU0ZfOG9ud0pjeWlYYm0yMGFRTjB5RVg3WXEwd3FNTXpSQlVRUjc0ZlFQWnRwZElkSzJfX1NabXFMZEI5WjRLQ3cxZ0FMRWVrZ21kZW5LYUIzTlJaTA?oc=5",
-    "fonte": "VEJA",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "IBOB11",
       "WRLD11",
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Focus reduz projeção do IPCA de 2026 pela quarta semana seguida - Exame",
-    "resumo": "Focus reduz projeção do IPCA de 2026 pela quarta semana seguida Exame",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWFtYW5Zb3RCc2N6S0g4Y1lxT2RDREVTcmVmMjJZVzBBeXYtbnBTR0YyanpweTFtYkk4QXZEMWZ3bzZmY1AwSEVqcG83OUZlb3gweXhFdGQwYWRQNkJLZ0N6MjhHSENYQkVRQnZCMjZRYXNhTHVKMENBc0VFaDVaWHBtNUFKS0ppNWJMTFRjekhEWG0xY2c?oc=5",
-    "fonte": "Exame",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Dólar fecha em queda a R$ 5,0809 e Ibovespa baixa de 0,46% - brasilagro.com.br",
-    "resumo": "Dólar fecha em queda a R$ 5,0809 e Ibovespa baixa de 0,46% brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGh1WWlwaTVuQlNaNU9pNHJTOWRWYTRsSlhOWC1xTWc0ZFRVUUFERFJXRFB5WXdRMEhkNHFKY2tPWURzN1hOeUdwMWdMcmZuOEFIb25RUl9Lbm56U05pRHgxV3JoS2ZheE93TVlXM3ZZT3dwSUVOZHVSaGtwb1k5UEpuWXBpUzRxSVFhT1hQVTBWUlZMeGl3NHlZdU9ULVU?oc=5",
-    "fonte": "brasilagro.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Notícia Focus reduz projeção do IPCA de 2026 pela quarta semana seguida - Kinvo",
-    "resumo": "Notícia Focus reduz projeção do IPCA de 2026 pela quarta semana seguida Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmpIYkt6U3E3OUtKeUVFUXRyc3hKcHl2UG1KWFJPSVhRZDNha2Z2NDY0dG1ZVzI5dVZ5RUszQ0RsMTVqNHJpLUdlZl9sNjE1eDlFbkF4LW13VlBPNlNJbjlENWlLNkNDV25LSVNfM2xLUXdQZUlZNHNCZjV1VHZHNjJ0dVo1d1ZQbFJyZjhaTmx3RHpzdGRz?oc=5",
-    "fonte": "Kinvo",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Dow Jones, Nasdaq, S&P 500: gigantes da IA lideram a semana mais intensa da temporada de balanços - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Dow Jones, Nasdaq, S&P 500: gigantes da IA lideram a semana mais intensa da temporada de balanços Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVWRSWWwwOEljdDBvRnUtc08tTFZwTWRCTk15TVN0V3JJNnVXb1BpWklFTF9Lb0V6VGVjZDFiTUdwYzFFcnRMUDZyR2VsY19LYjJYOVhXOG5uNEhYUmVnOF9CQVF1bG16TGFfT09GdV82S3ZtdzZ6amx3OFBJa3N6OVVoSzZyVDMzOGZ2MWZ4Z3d5YVdMRG01cXk5NDU3bFRPcVFZNmNIWlkwQ0cyUFNHV2pXRlV0UU9YeExPUTJ2cHV4bnhVR2dlVWRBS01CYk90d1ZxOGVXS3MwY0kxQ2t4bG9aWQ?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Ibovespa, dólar, Nasdaq e Bitcoin: o mapa técnico para a semana - InfoMoney",
-    "resumo": "Ibovespa, dólar, Nasdaq e Bitcoin: o mapa técnico para a semana InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3BITDdjWWZ2VmFLVXU1QUpCdHpUTHplczVnQV9ZQmdZRll1OXNCN3ViUzdvUzZXQVJwakgzRE00VFdrS1F0LWZCRW0wb3l4QjBtMDJUZUlwVTUzWWY2VHJ3Z2FJY1RFb3A3OWNiLXBCVnFESTVMS2R3azhPbXpaSVVsTVhkRHZ1YklySlVnZW51YV9iMGNiUnBLV3hIY3ZLR294UDA0UHRWN1nSAbABQVVfeXFMTnNIOTZmZFpxQmdnTVZrOE9CdDA2TDNNQ2NxVFMzM1ZIV1pyRUprTlllRVBBeHdmcjNkZld2OXJRR3VwVGFvbFhwLWhFejhQUXMtRFZfTk9NQnFHc3BiX3p6emRpVzdUYlU3dW9EVEZES21lYkk2V1FHRWptSm44MHVFa1ZoaUMwUUpua2lHNHlPM1RwX21pZmNVM0NwbEdzNHZ4UUZwN0pmejdmMDVnb3k?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Investidores devem se preparar para maior volatilidade do S&P 500 antes das eleições de meio de mandato nos EUA? - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Investidores devem se preparar para maior volatilidade do S&P 500 antes das eleições de meio de mandato nos EUA? Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRTBlaXgyalRFMWp0dlljVnZhZU9pdkxycWM4ZzFCaEJxdkZtdHlXQlRsTkEyOHQyUW5SaFFJZ2oyWEpWQU9PTFA4UU5XMU1jdG9SMnJLYWplSmxERGtSUHBYY2NmRV9hOUFCTDllWk15aGVUSmlyUl9IdFltbW5PSEtVaFFfeWl1Y1J2V2FENTlQR3JFR052eml1TFR4bmk5bE5UcHdqRHV0dUFoZDh3NlJ3a01wUXNQSFdyVS1Sc3ZueVB5U1lSU1NxbnRLX1RNYkVOek5hZlRyWTVURzdXNTg0d2dGQS04U01fM3JvY1hjbENBNnduWkNB?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "IA puxa lucros recordes: Goldman vê Nvidia e Micron como motores do S&P 500 - NeoFeed",
-    "resumo": "IA puxa lucros recordes: Goldman vê Nvidia e Micron como motores do S&P 500 NeoFeed",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWhpYmhUX1NvLTZ2VUtteHdfZ2ZYT1c5MlVaVnFxcGtXZUotcVgxTTloVWpHSzk4ZnlLY1o1ampOYjM3bjIxZ3pyX24xYW5TTzBOWWh4RUxRcl9fOWxVV1h4bGx4NVZDT0dNZFZkWVU5VGE0YUMyXzVCN2kyZm82aVVJT2otRlpUVjhmc0kzdERycnE4ZmVWLWlWWWF1S2tNMFFka2R1aUh3Zw?oc=5",
-    "fonte": "NeoFeed",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Economistas reduzem previsão para a inflação neste ano, mas sobem para 2027 e 2028 - Folha de S.Paulo",
-    "resumo": "Economistas reduzem previsão para a inflação neste ano, mas sobem para 2027 e 2028 Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2MwZl9jY25La0J2TkdXZ3NOZzRvUGphcEwxamdTNWVELURaZkM2a055eTZFZ1R1TGNiT09lMTJxR05Rc3NLbDRNeEhqY1FhQ19WaDhRdUw3Y3YyZG9VVW82ZVlBZTNEVm9UZ3dLNkZLUm9RTnpudjVrNHM3Y3hQRk9ua21vU25MYUhQLTRYSnl4UXFzdnc4Q0U0RHpFSG9VWGdsS1FPNWZrS2MxdHpkdG01YWY1VzRqWXk5cXRaN2Nwd3lGa2FOU3pXLVFIQQ?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Focus: Projeção do mercado para a inflação de 2026 recua pela quarta semana consecutiva - Estadão",
-    "resumo": "Focus: Projeção do mercado para a inflação de 2026 recua pela quarta semana consecutiva Estadão",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUNmM1lVUE8ya21vX0VjdTlEdE1MckY5bTl4dmczbVZaSXFKNmxvV3FrSmNmRHcyaEJsQS1MMEtLR3c4blRzcHQydDhwT0UzQlNsdTM2UUsyc2ZEOXJYRmtrb09WR3RzQUV1Y3hDY1ZGV0h6U01GOXEwUzF0VGZGVNIBhgFBVV95cUxORlhad21yN2dKSVdydi1DUWlHVTVQYXFzMG5rQjBPMUFldkc4bEJvSWg2WXVkUGdXbS1qaUxzblEwUnVVTEhzazQtS1BGdEJDZEN1YUlhWngxdGRZcXRnV2pxVENCWjYxZ0hubWpuYW4xMUxNeXdQbk52YklYc0lrVXI5aGtRUQ?oc=5",
+    "titulo": "BofA vê aceleração do lucro do Ibovespa no 2T26, mas consumo segue como principal peso - Estadão",
+    "resumo": "BofA vê aceleração do lucro do Ibovespa no 2T26, mas consumo segue como principal peso Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU0ZuWjdQTzhYSF9tWHZEN01NUVhyMG1OOHYxY1AyVTFBWF9JNEFfMjB3cXcweVhhQThUWnpXd2pqR1QyTXotUGltYmJEMkhzZWRmUjU5OVZSRmw3R1ZSTXJOcDhOM3hXdzZvUWVTaU9SamVtdk5IbE9YRTN5YmI3VE5CeFU3cDVxVExqRkdLZ01nbUE1OC05MncxV285bmVvc0JVOG40ZFF6STRNM1Z6anZFZEVHUjJhTWFpRGgwMXVoTks1Q1NpRF9WT3pJa2VoMFBjRVVScFFGeEhj0gHiAUFVX3lxTE1SZkl4SU5QbHUzQ1ZfcTN4NGNwbE8wdm5VS1VxLXpUSlZ6ZGdkUHNYdDJBZy1qeU94ZU5NRWJoVDY0SU1qMzVtNUZabGdBa3QzYWlPc1JTSEVQbjNpMERsTFFhbjlxRURNQTFCLUV0RGJRR195NWZ5aktTbzd1a2VDbHZ4dGh3Yk8wWi0zTVlnSnhPMjFBVktfM3piRG1XR2FUWlhaMFZVY3BacGZ1MGRpTTZuRW9lUFpZRW5NR3FWSkRTcjVzR1lvNnFhNWFkZDFBLTlQWEZsVEVPY3VJckRHQVE?oc=5",
     "fonte": "Estadão",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Nasdaq e S&P 500 registram ligeira queda com o recuo das ações do setor de tecnologia; atenção voltada para o conflito no Oriente Médio - TradingView",
+    "resumo": "Nasdaq e S&P 500 registram ligeira queda com o recuo das ações do setor de tecnologia; atenção voltada para o conflito no Oriente Médio TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUZzE2dUVDQ0hwVmVQWkdtb1ZVcy1qSXplZ25OLUZuaU9saE45Y2pmMi1ObjNaeW1SeUFkMGNHQWQxc3A0cVZFcVFIeGhLWFpIdVlGMGxFWDRmRUtrVjRoUGRCYzBqN284eXpZWFNLUm1pU1c0anQ0?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Bolsas dos EUA encerram sessão com Dow em alta e Nasdaq pressionado por chips - Times Brasil | CNBC",
+    "resumo": "Bolsas dos EUA encerram sessão com Dow em alta e Nasdaq pressionado por chips Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUlQVVU4Z0MxZDJrU2M4YXU4VkVUN1gwN1ZpYWZjdi1lamxrcm1sd2R5Ymd3WlNKZGtpQjNMbkZ4YlRweU45YXgxSmhfTEdydUdScmJIUWozbDJJbFc3MjlEVjBqSWZMcVNhMFR4Tk9peWdvbXFYN1VENGNqMHVsT2dvQ09mUmlWT25XbVhZd09Yc2tCN0Z0V0xDMUIwUnBZR1dxWjFBeFZza3V6c2t6WQ?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Nasdaq e S&P 500 caem no início do pregão; setores de tecnologia e energia puxam para baixo - TradingView",
+    "resumo": "Nasdaq e S&P 500 caem no início do pregão; setores de tecnologia e energia puxam para baixo TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNk1vMVJoZ2xLcHJfWU05bERGX1Z1R1FXQUx5ejhjckdBYUg2TldfckdyMzVtdGFCX0JhMmRVNmZ5d0k0cU9UYWtXLURlRUhrTmFWTUlkY3k3Vm1laVRYVlExUGk4UllEN09jTW1Sa3E3cncyOTY0?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Mercado reduz previsão para a inflação em 2026 pela 4ª semana, mostra Focus - CNN Brasil",
+    "resumo": "Mercado reduz previsão para a inflação em 2026 pela 4ª semana, mostra Focus CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1hVc0xJOHZpQkthdzdhemJiNkltNURQbEFKb0NXZjB0THE4QjdHN0VNdE9JaWU3ZzdjUnNYUEppSzFhTE9kXzVITGJVbFF0aEVMVzNJZnlmVmxGM2xCUVpUM2YwWk0wYXFoejV0SjRZTTZ3cm1uQXl4U3ZFZ1lFSjJfR2J5NUdNQU9taXpZeGhtQW5kRF9SRVVVR0hEUFlkbUlRd0Y1N1k4VFl5QkppeUhmTkRDZk1fWkVjelZfdFluSHQ0QUE?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
@@ -184,15 +166,27 @@
     "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Boletim Focus: mercado reduz projeção para inflação de 2026 pela 4ª semana seguida - InfoMoney",
-    "resumo": "Boletim Focus: mercado reduz projeção para inflação de 2026 pela 4ª semana seguida InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBINUN5Z3lVRHpQZk5RM2otSkpVelNYTFVsU1Y3UkRVcWhjZHdsQnNFMGlWYjJrQ1RlNUtMYllETVlWdjI3bTU5V2JGTWFINEh2elpNUUtrWGw3elNTajFtc1JsNWR5TjdabkxmZ3RUc3FoVWhiRy1TWS03SdIBgAFBVV95cUxNV1lzZzdtNGVFSmZHV1BUbWJ3OTdDeEdfaGstUnpqaWRqSXlPRmpFd1ZhV1JiZkw1ZlBDQnhlOWZaVmVWTlVxQ19hUS0wYzdDTUt4NGxmN2NXbFRxNmtLTWI5WXl1TlRhekhtWVl4eTJJVzA3bWlldEtsZmgtOG8tbg?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Wall Street tem tom misto com trégua entre EUA-Irã e liquidação das ações de chips - Money Times",
+    "resumo": "Wall Street tem tom misto com trégua entre EUA-Irã e liquidação das ações de chips Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nRWRjYnphTS1lc3FMcUliOFFvMHk3Zy1UYjd1V1Ntc0JoQVJOZjVad0lneTBldlk5aHJNamZsVEFZRFREY3Jxb18zNURZUWZSMTFuN3gyeExwcjZwTWhVR19Rczc5dw?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
-      "CDB 100% CDI"
+      "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Baixo",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "A lua de mel da SpaceX acabou? Elon Musk nem é mais trilionário… - Olhar Digital",
+    "resumo": "A lua de mel da SpaceX acabou? Elon Musk nem é mais trilionário… Olhar Digital",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2NmZEd4bmI1TW1Ka2FMdTAwSi00ckpiWURiTHAwcXh1NzU4LTVlYVVzSHNQUkR4ZUNRa3QxZ3dzUGJ3bDhZekRwbFBGTFFBOUFfdlg2N1h6ZzZkcXk3NkRyTmdCV2tzb05vSUlvbEZBcXhrRVYya1VFMUdvYnhvZzFsdWRIMXB2X2ItRzM1c2xjWWtEZmNZYWN6MFhtUQ?oc=5",
+    "fonte": "Olhar Digital",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   }
 ]

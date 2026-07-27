@@ -1,175 +1,5 @@
 [
   {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Ibovespa ensaia recuperação, mas Vale e Petrobras limitam ganhos; dólar tem leve queda - Exame",
-    "titulo_norm": "ibovespa ensaia recuperação mas vale e petrobras limitam ganhos dólar tem leve queda exame",
-    "fonte": "Exame",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1hiM2YtMGxZdGstNlZfZFBZN0Jncmo1NFFYSGtZMTVMWG1zY0tTcWdhUFd5UnVPc1hoNXZvYkRpaTFHaV9MR19RNlprLTJwSXR3bVJUaWFOVFd0Yng3dEhEM2RDU3B3WHFxYkpNR2FvLXBYa0ZYY3UxZWxsWVhNMFR5NEZ6Z1BuUjJvM0NuT3ppZVJvX2lhSGNlUTFCaEpNaXZBZ0wwRXJKazdqYXhqWTFaUDczOXpwc0dJ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Bitcoin sobe e mantém performance superior ao do S&P 500 desde o início da guerra - Estadão",
-    "titulo_norm": "bitcoin sobe e mantém performance superior ao do s p 500 desde o início da guerra estadão",
-    "fonte": "Estadão",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUUVZNENNS3ROUDZfaFM4MzdtT0lsc001SDZ4d29QV1ZoS1JVMl9hcENjcENmeG5TVTRFcVQ2OTlFN205LXhtdGxnUUNvMFdLVDZyaHZCY1R6c3RORDRtVnNTazUyREdqVnk3bHU4VE90WWpNSHFldEFha1l0T09kYy1kV3piUDJrZ3czQnRQWURWWWp1c1d5TTZsT0dIRTF1VUdYRTl2OTR2VHBISlRNRlZET1hyc0R1dHhHU9IBwgFBVV95cUxPcFRYTFM2dk81VzE0eV9iTUJlb2R3bEdRRUpvRnBqZVhCTm1DSW1LcWItc09sbDZyS3FHeWMxQ1JYalJpYWJad0swVkp6Z2R5c2RhNW5Pb1ZtVlh1cE4xZ2VXaHJfLVFLV1ZwUGVrTDRJYUViNDQ0SEVuR094b0EyQ25XUTI2X2NhNGZTa3BTcEhITlNpckJsd0RtWXVpZ1JsS2JiSDlrVUk2cUhYdTVfRGR5RW5MNGxLUnE3TVI1VFhWQQ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Ibovespa fecha último pregão aos 170.653 pontos - Brasil 61",
-    "titulo_norm": "ibovespa fecha último pregão aos 170 653 pontos brasil 61",
-    "fonte": "Brasil 61",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVzVvU3N2S3ZXU21yNFYxVHRlN0tkUzFTUTdwZ3VQYlN0ZWhEN2lTYVc0ck9BUHZQNU9SSjRiQnp4ZlJBVmdDeE5rRmkzNldjWHdsMlRLdkdpTEFjM0hwdEZ5SnAzcldkT0d3RGd6bmdPMWhTaGdMU3ZpeDZzejRXVWFqUkR3TFFPX3c?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Ibovespa hoje: EUA intensificam ataques ao Irã e elevam tensão global; emprego nos EUA fica no radar - Estadão",
-    "titulo_norm": "ibovespa hoje eua intensificam ataques ao irã e elevam tensão global emprego nos eua fica no radar estadão",
-    "fonte": "Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekotbzNoZGwxcC1zc2lTVTVLRFdIMXVpclpjdndxNUxpMG9FM0w0RzRUV1BHc1Y3M1JlTTRCYVVlbW1yTjFJaTZTQXM1elRvMzZndTI2aG0tcWhIRXc3VGFkTjcxSDkwTndHS0JFRm5WODR0TTlrRzBvVHFZNjROdXc4cXEtUi0tVzdMQkc5cFZoT1ZKZFJGSk05WU1QaE9oTk9IRFhja2tiUlJuVFU1UE5SR3dLd2ZvQjZEZ3pYYk4yTjE4cWJvNGUtU3NQTk5nM3doOXgtbFNTVGxVeFRUVTNxcmlJT3dadEVRczRn0gHzAUFVX3lxTE5Tek1obHQyakVPdFZaT0JzQlRCMG9uTF9BdE9wWGVDT29CT1JNaEFRSWItTGkwZzBBYXN4LTZfck0zc3JMNTJLdk81Mm44emNkV0pfX2w3LW1ENkNvdU5MVWVtQTAxdjRQM0lTeVpxUFZDOW5nY3RtU3lpUmtHVEFTWExjZjFPMl84Vl9YdTJYcmdnanlkYTA1eE1rWVFINnkzQ3JVS3ZLUmlrZTVzWlhERHZTUThNOUxpRlRiUy11QVR1VmpvWVlCU1lQMFFXYlhtNENwZFBRaEhYMURnYWtENmNja0FMTE1vYUVRdUVXV3NBcw?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "S&P 500 e Nasdaq abrem em alta com avanço de ações de semicondutores - TradingView",
-    "titulo_norm": "s p 500 e nasdaq abrem em alta com avanço de ações de semicondutores tradingview",
-    "fonte": "TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZaDN2emVjWi10NmNqbnRBYlJpUVlsal9jQ1Q1dlRQSHliYy02YmtZZ1lTckNyV2RRZnA4VTBreldKeW1BczJqbDVaRThOZThOU3VXekV5SklRUkZMa3JlbW84VmpqZTUyZl9pOV9MSEZtMVZrNTVJ?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Retornos do S&P 500 em julho de 2026: a sequência de 11 anos de ganhos conseguirá se manter? - EBC Financial Group",
-    "titulo_norm": "retornos do s p 500 em julho de 2026 a sequência de 11 anos de ganhos conseguirá se manter ebc financial group",
-    "fonte": "EBC Financial Group",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHBVZFNaazFuLTA0cWFzenFTdEtsR29qUlNhbWNmVEU0SUd1aUVIb0poNjQxNmk5MzhxS1NrWEtLRGkwMFp4dnI3Z0tIc1psbDZHSjlIdTMtRHZlY1k3MzNNVExpNWdaQXFTQi1KVVhCbmh3YlBuTHNyQVhQNTRvLVRwMWRsekF2THJMLUhUUVhlWjBrQmlLZC1QZDBiaVVDTkh6R3BvVXdXN3B2QVJ0UnU1emtidkE0dmlZb05qZXI?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Bolsas da Ásia fecham sem direção única com desdobramentos da guerra - CNN Brasil",
-    "titulo_norm": "bolsas da ásia fecham sem direção única com desdobramentos da guerra cnn brasil",
-    "fonte": "CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjZ1QmU3cHg0YjVSUHpFLVIwQ1hJbmFCLVNxUHhMMTQwakdfRGZhOTMwSTBpdzRMVnUtbXVtZ2JNV0N1SjVBX3loWTdGaDJ1czF5ckRvenBsZEprd3VCWThhMVhZUWg5TXNpd3FuUDdkRTF0eVljbWFTblhyendTMm1keFAyNnBBalBfVEYwZFVheXdsamZjLUh6NjJVbU9PVDdETHRXeUswQk5ScUJoc2p1TGEzQQ?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": []
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Jeremy Grantham diz que futuro vai rir da SpaceX: “IPO mais maluco da história” - InfoMoney",
-    "titulo_norm": "jeremy grantham diz que futuro vai rir da spacex ipo mais maluco da história infomoney",
-    "fonte": "InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2U2V1kteUQwQU5Ub0ZoaHFMc1hKXzRMS3U2d3h6WEticHdzT1VlT0FTOWtsa3NpWmNZd1p4R2FmdUVkN3k1cnhoejNFNXUzRjZhS0xHUm00UFJXMUktVEZ3RUpCZHhXT0RfZzFPb2ZRdVQ3X1hzaEwwZHEzOXVIb3Rnc0xfQ3E0NmVJVU82OW8tOXl6YVdqb0k1aHhtelNmZDMtLWc0Ukd4XzE3OW4zYnBRRWxlQXlFdlFtQzlYZ9IBxAFBVV95cUxNdUlrTU1qbExYREg4eVhsei1Ba1RZcXRjYTN6RDdGMXczNm5Mek9NamtxUWI4Q0pKRENKSlgwSnduaTBsRjl5RU9Cb25oMUR3UGVtWm5MZFRSR2FfazQzQkxLa1ZucFhGdUl3YlVSRXd2TjdnTTAyV1B0RlUzejkwelU2cnd2ZVhJNTFPc25NcXhrR0ZUZUllRTBTMU43dlNOZ2tXQjI2TFdBSU9xVmZVWnFyaWRnZ0RqMXF0bloyWUNzVV80?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "SPCX34"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Kinea Rendimentos Imobiliários (KNCR11) é bicampeão: FII é o favorito para proteger a carteira dos juros elevados - Seu Dinheiro",
-    "titulo_norm": "kinea rendimentos imobiliários kncr11 é bicampeão fii é o favorito para proteger a carteira dos juros elevados seu dinheiro",
-    "fonte": "Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU2l0emtpT2lIRTFDZlBaVlJZdng5RHMtbkF4Ni0yTm5zVlg1THFZN3czRkJKdlJUZ2toR1FBN2EtX2NHc1BYa2x5Y3ZhcWh1LV9RWkpFSElnejBFTXN2aHdXMXh3RXJWYnBhVVhCLW16NUVKV1R6RzVCcThiQUhidmhyUVVlb0owTnRzM2VFQ3hBdm1xeFNVQ21aRTVqUWdESlRHUmRkQjc4TDVLMFBNNWoxanR5VFN0aHVuaG1DX3dvclB6MlhhUllyUXB0c2ZrcWpscmMtX2FHQ0hfNjBYY1F6dE9rVDhYanV4ODMyUWYzX3M?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "KNCR11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Novas regras do Banco Central afetam bancos e fintechs: fim do Pix? - Associação Comercial e Industrial de Araçatuba",
-    "titulo_norm": "novas regras do banco central afetam bancos e fintechs fim do pix associação comercial e industrial de araçatuba",
-    "fonte": "Associação Comercial e Industrial de Araçatuba",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBraEl2OHM5UFkzSzU2QUdYdjZFdGlBQUdkcXJQa3VtX2hVRXVRekVrS0pJQW91UEo3XzFsYUtDMmNTWE9KM25iUU0wQkhEazMweGNNWER6bkZSSm5oTVE?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Banco Central lança ecossistema de duplicatas escriturais para modernizar mercado de crédito com registro eletrônico - MundoCoop",
-    "titulo_norm": "banco central lança ecossistema de duplicatas escriturais para modernizar mercado de crédito com registro eletrônico mundocoop",
-    "fonte": "MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXhtR3FWaFo2eW50MFE5NzRlalF2enpMZFBLdHhsck5LN2lVTDhEeWIzeS1RaVNKV0hWTGNuMFNaNGhHOU9CYWpQY29Sbzh1ekg5MkstUzJ2ZTdBUlVuVUpubEFmSHB3N1hnczFFT1lQbUhHY3VCQThHenA5cENmM1QwMkxDV3FoVWVndXFLTC11LTBZYWpQeFR3ZjVFUU1ZbF81S3ZIM1E2bkRmazhVZU83WENtR01xbXBWd3pQTHNkck5zdjlCZ1RNbUxrVDJXYTRVZzRaQnRhS1RzZ3B4VTN6MERYS00wMlZMM0hpQ3FrQQ?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Justiça aprova acordo entre Elon Musk e SEC por atraso na divulgação de compra do Twitter - G1",
-    "titulo_norm": "justiça aprova acordo entre elon musk e sec por atraso na divulgação de compra do twitter g1",
-    "fonte": "G1",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY3NiaW1NeEtBejhwOUtXYVp0TG5nNVFFdXpWRldTVzJoUHBRTzBtQTNxWHNZT0Npd3VjZTZHOVZGNVpUUFZldUpSTFhhR3N2RFJ5OUNVOU82S21SSXdFTC04eDZjSWNHU1B0VEpIX1JfUng2VTAwdHN4OXkyaGRhTVJ5dzJTRVhPX3ROZHprZkd2UTJHU2g3aHZDS3VzSjBCbjBQZVNkRTJKb0xMOWNEaW94OVJsaERTeEpXTmN3MXpIMFhrOURPNVJUbF9XMjBoLXVNZUJzbExNQjIt0gHrAUFVX3lxTE1ac21RZzZDNXZ0dFhkVE4tWTQ1dnhWRGVMWlN0dEUxMy1hU3pqR1NuUFhtTnZKMlBUV2todDA2RW05S0s3RmpVWU5qZTVtWTZKbTlwN2NIcjRoTElOREFoQnJBbDhjd0NYcFpZUmIteEJLdEJ3VGVXRHdpWllSbDdma0I2UEJPd0Z1UFRkby16aWNmRGhLeHN6SFpqbm96MXVjUE4xZldiTlFLYmMwMlNiWXdKRFBfTzhIcXJMRF9pSnRTM1RMVDg2VnMwc3pjNVEtSjREUUFSRkRRcktCYXZLcWF5SzZuXzFINms?oc=5",
-    "impacto": "Baixo",
-    "ativos_afetados": [
-      "SPCX34"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 14:19:38",
-    "titulo": "Onda anti-Musk: investidores tentam excluir SpaceX de carteiras após entrada em índices - Bloomberg Línea Brasil",
-    "titulo_norm": "onda anti musk investidores tentam excluir spacex de carteiras após entrada em índices bloomberg línea brasil",
-    "fonte": "Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclBhMlFIa1gxZXp5X2oyb2dObUd0WmlGQWhVZGpoN3ljRjljRktlU3B3ZDBLd1d2cmFZZzRxTHU5LUZwYW5kamJGUmw5OG1qQ3c0NW1PZGotd1V0Z0o3VjQyTF9LcHNrdlZEY0NGTTNkbDlmd2Z3RlMwaWQtZEdfVnRoTktTZWVTT1p0R0JLSkZVdDlqX1NSd2lwakpFQjlxa0kwYkxpUDRlQ21Yc3IxTmNBVjl4cnlvc2R4dlVOc0lKWnd1XzhuT2dB0gHeAUFVX3lxTE5lU2YzbUlsVWtOZGk1VGFJTUh3Y0NPZlJyb1l2MU9MX2RYc3kySW80eXAtU2dwRk5IUjlDcExjUEo2Ync2bEtvNVhDcEJZODZtMWlsM0FpYmhfQ01uRnVIdkltVU4wdDJwekJnZnExXzA3VjNBZVNUODl4UmJRVEtHLWEyay1OenE2cDhmZVAyMVZrdDNpbkJYMVJ2bWN5ZHBzSEJaaTNKMU9YaUVORWJSVFcxOTFNSHhUSjB3a3RaVWNYUFhrM2NFN0hDSnI2SzBfU3NDSDRuN3NmQzJWZw?oc=5",
-    "impacto": "Baixo",
-    "ativos_afetados": [
-      "SPCX34"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 22:10:07",
-    "titulo": "Opções de Copom na B3 mostram expectativa de corte de 0,25% na Selic em agosto - Monitor Mercantil",
-    "titulo_norm": "opções de copom na b3 mostram expectativa de corte de 0 25 na selic em agosto monitor mercantil",
-    "fonte": "Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQektnMGVrdHRTMGRHbHJseDJMNWhlUjhSVUQ5aEFoTFQxSGc0bWt0MVNoTkFDcmNGbkRSNFJ0UnJWbm9jRS10YUR2LXp1SmQwT2duaF9nOWFZVDNrbHNoUk5BSGVxSGEzYl9GUU1wVVNObF8wVU5sZkR2M3J2akwyNWJwTUVkekVlUGJoUEJDN1E3VGk2eGgyaXBrVkE2UFFqd0JZZU5nZlFqS1JkNFE?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-09 22:10:07",
-    "titulo": "Ibovespa recupera fôlego e dólar cai a R$ 5,12 apesar de tensão entre EUA e Irã - Bloomberg Línea Brasil",
-    "titulo_norm": "ibovespa recupera fôlego e dólar cai a r 5 12 apesar de tensão entre eua e irã bloomberg línea brasil",
-    "fonte": "Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVEybEFnQWNPbTBxTjJRZVF4cmVLS0Z0N3ZLamZrS0poREgwY3NOcmFadS1xVF9NVE1HZE4wbEtwREJ4WmRabFJ4M1NPcWdiYXdjTnBILUNDZGVSaVpLNU4ySWxLSlo1dmJJX2RCSmFlNEZiVUJGYlZiTnlza295R3JlVzlzQndLMENrYXp4T1F2ajc5UzBvckdrVTQ4RWlVNlV3S3FqeUg5dW5CVm5ZLXdDN1FkYzBQMWxnUkFB0gHSAUFVX3lxTE1YcUZIMnFVLU9wRnJyakUxMHdIMHQxTEh0TmN3eXhFVjJWOEE1Ym9JNWJjVlF2MzJ1RGJLbmN6Q3BpTUJISTRJdk5oUXEzME5hU05LalhkVXJxRHY0dXBGTmx6WFNCYnZsVElIRi10bTBjZkFfY0RYaTZWdllVLTYtbzg3TkNETzlqU2UweUdBaGdyWHMzZmk2LUNzZlJEUWlDaDExMUU2V2lhTm1va1p3YlpiT0NkYkxVM2F2eFFOMmE4Ulhqb2ZXQWVPOWhod0hmQQ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
     "data_envio": "2026-07-09 22:10:07",
     "titulo": "Inflação cai, mas Selic segue alta: como empresas devem ajustar preços, crédito e caixa em 2026 - Portal Contabeis",
     "titulo_norm": "inflação cai mas selic segue alta como empresas devem ajustar preços crédito e caixa em 2026 portal contabeis",
@@ -5793,6 +5623,181 @@
     "impacto": "Médio",
     "ativos_afetados": [
       "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa recupera os 175 mil e dólar sobe; PETR4 cai com petróleo - InfoMoney",
+    "titulo_norm": "ibovespa hoje ao vivo bolsa recupera os 175 mil e dólar sobe petr4 cai com petróleo infomoney",
+    "fonte": "InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVWY2WXVCQVJDem5fMU1wcHVBMUQ0cHdpb1ZpSzFTRVY4U0IxMWJiak0tMDR4d3NvOTFRQ2trZnV0djNiaEpyaFY3ckFOWWZiYWtBSTNVUnJoQmRxU1BHVGowVEE3V0d5cUFGQkxZM0I1RHYzMTlNRjJOUlcyOVlsSHp2N2xjV3hmZ1FqQ05xUQ?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Ibovespa Fecha Acima dos 175 Mil Pontos com Vale e Bancos; Dólar Sobe e Petróleo cede 8,7% - Forbes Brasil",
+    "titulo_norm": "ibovespa fecha acima dos 175 mil pontos com vale e bancos dólar sobe e petróleo cede 8 7 forbes brasil",
+    "fonte": "Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkduMUtRM2RSR0JrdTFsUkd5NEluZVpmaUcxX08zRDNwUlE3V2M5dnh1ZWtBaDZnaFBUVWM2N0lOa3pmdlJOSHhWNHI0WG9aQWtyVGp3X1daeGtvdGxiVlVqQ0FETG5KMWRHZ2V0UUNkcTI2UDlnQTdhdDA3WERsODhHSUdOTGZvbEdZcUstSHY1b1Z1cXRkUkNRakVjcXBKQkJZc0VMSDBrX3NfX3JyREdIOWIzQ3c2eTR6R1RtcVJBZw?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Ibovespa B3 sobe 0,74%, com breve trégua no Oriente Médio; dólar vai a R$ 5,11 - Bora Investir",
+    "titulo_norm": "ibovespa b3 sobe 0 74 com breve trégua no oriente médio dólar vai a r 5 11 bora investir",
+    "fonte": "Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXJIRmgtdXZ6WjVmTV9tX0VOUTZUV1ZvcGZaMlV1ZTNUSTUyVUxHdmRiazlfQVhxQ1lLaWptTk5sREhHbmZXZF9IWjRDck83cTRjNF9fc1FvSnZ3ZFhQSkpxZEhsZkxBaUs0ZzNvd043ZzlIZUVWZktScHVVelB3VlhTTkxpaUZRUklwVjR1TU4wVTg3WkQyQ09vdUtyY0Q1NXFMYTd2aEFubmVRbE53Vl8wVlAzcmpkNThYbEN3?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido - suno.com.br",
+    "titulo_norm": "etfs de tesouro selic e tesouro ipca entenda como funcionam e para quem fazem sentido suno com br",
+    "fonte": "suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDNzODlMLWF0OEJlSDh1ZHlqd0NHa1hrMWd0c0RuQWlTREpFc2hXUzVjUXNZNnFwTV83MExrNGVGMHozdnpnSk1HR1prdTUzQ1hSSGRta3hVc0JuanJseFFDUHk4S3dqZFZ2Wm1jSEVIWk9YeDZLcHlieUtUSlhLaWdITUZ6X0lKenlxNNIBkgFBVV95cUxQVkUtSGd1NHdoWkE4cFB5TU9ZaDMyYlNhMDJDcVZmN3d6TkxTSFM1Q1NQUEJuQnByZktGRmttRGpJNjBsN1Q3aFJHakUtZDRXLXdrVGtPV1lxeVhIcGlXUkxnNGFTX19hNTNDckU1dDRON2FTY2JyeHhVYWpjaTVwUC1yYkllQXY4Z2NxMHBtZWVkZw?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Ibovespa e dólar avançam com alívio no petróleo após pausa nos ataques no Oriente Médio - Bloomberg Línea Brasil",
+    "titulo_norm": "ibovespa e dólar avançam com alívio no petróleo após pausa nos ataques no oriente médio bloomberg línea brasil",
+    "fonte": "Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZTVlWlE5TlRCczlvRXNPVTdicnJqTk8tSHFrWDNuOEFzajdPandVWXZQVi1OX21rcDg0cXpmVjhkdXcxaml2bUlJeDdMak54NEdEQ0F6NmlqaVVyaTBNb21lNDRVNFFFUGxRNmFWNEtyb3RZTDNfVm1GTFpoQ2s3NGtrcXJwc2FsT1dJZHVnTDdvR1E3bkZEZkFZZk5BNzdrV2dhSjFHY0FieV9QbjFONVdQVUtlMjl6VERXZkVCY0pIRGU5bFgwREM0UdIB3wFBVV95cUxQNHJSYVIxeV9zSEl4RFJCT01HNkswSEMtc0VIaXlUcGJCY2VOSlhJeW5aWDBXVnRYMXBmT0o1ZS1CR1RidzlpTUltTmdjRmlpNUtOTXg1LWxoNUdyUjJlZ05fT1FmZHBzX0t5Y0d1dGdreHlUZXl6SzF1cko4b0Z0TzluUEFuLTZ1LXdtYUlqWk9KSnhPa0M5elBzVTJWSTdNdGJHaGJOT3ZrLVJaaHhmaE1JUnpxQTNlX2dTRXctZ0cyZXZpNGJ3OFNHSktKb2lCZHp4aGdwREFBeEV3a09Z?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Trégua entre EUA e Irã anima mercados; Ibovespa em dólar sobe hoje (27) - Money Times",
+    "titulo_norm": "trégua entre eua e irã anima mercados ibovespa em dólar sobe hoje 27 money times",
+    "fonte": "Money Times",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2w2bDZUbWpKNjh0MHYzZlFRck9qNG5lM2ROUWFNTndUYWpDTGlhMEtnMmJUWmhVNWhvUnA1RF83UEFSUWRETjZhaE0wR2RZY3l4RFk0NzJMRERCSGtWR3pMUlhiVFFQN01hdEZraUpnV0ZQU3RmQUJPdkd5ZXZaaFlrTDZMT3Exa1FOaWZLRUxCdnVWWjZkcGN2c2xtLUV1?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Ibovespa sobe 0,8% e dólar avança com foco no Oriente Médio - Poder360",
+    "titulo_norm": "ibovespa sobe 0 8 e dólar avança com foco no oriente médio poder360",
+    "fonte": "Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0lJSGt6eUxKWHFId3lSZTNZVUJ1dWZJVk51aHd2V3JENG9xQ1lyZC1hUElSQTdPRHlCTjFVRWlOR1d5dUxXR3hVNTZycHBRVlZnODlfdTNKOEg5aC1VTXBGcURvQTJYZEx3R2NGdDN1aDNrdmMyX25kTWpDY3FYZnRQQ3BzT2hYSV9Cc3VMRDJJYk1HcDVZNzh6WWlTTW5NSkpR?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Empresa de túneis de Elon Musk vale mais do que cem companhias do S&P 500 - Valor Econômico",
+    "titulo_norm": "empresa de túneis de elon musk vale mais do que cem companhias do s p 500 valor econômico",
+    "fonte": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR09RSEp5RnRaTjVGYzFWNW1MRFh6MWVmSDFMQkNVT1dFc2kwbFplVDRkSkpncVJYb0hXcWdBU1FDNXRDS1FPOFdSaklKTDZYeUcyQ29aZ2gzNG1tRjZzNlE5bkR5bmdSTHFLNkwyWXJ3Q1Y2RHNQYk5mLURsT1N1SVZHQjlCeUtqcGxkT25jUW53RFZpUWRWbDBKcGFYOHliZGR1OEQ3TG1JYm1wN3BzWG95VXpmYk9XdE5zLTBTTFgwc29WVGZRWdIB1wFBVV95cUxOTlNuTUR2ZmVTcHVpVmVpaWlYQVV1R0RWTlpwRkZhRl9naFViT3pxQkI1ZHdCNXBXeUZocFNXcnhRcUthMXB0a25yZG1CQzZYMmxMZUV1ZnI1cXV5RGlkemlyMkl2VFN1eW1jazNZRjRhY2JiamxURk5UOTJzV0ZuTVNXS2dzaEFOOUtHUXBQWG9aMHdQSVJLaWlENDY2eHY5dmJGb05lWlBEOHUwNHl2Rll5VmlCNk9VTjF4SmFwa19uRjdWZzFXeW9PRlFuUVpTNWI1aHpvZw?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11",
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "BofA vê aceleração do lucro do Ibovespa no 2T26, mas consumo segue como principal peso - Estadão",
+    "titulo_norm": "bofa vê aceleração do lucro do ibovespa no 2t26 mas consumo segue como principal peso estadão",
+    "fonte": "Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU0ZuWjdQTzhYSF9tWHZEN01NUVhyMG1OOHYxY1AyVTFBWF9JNEFfMjB3cXcweVhhQThUWnpXd2pqR1QyTXotUGltYmJEMkhzZWRmUjU5OVZSRmw3R1ZSTXJOcDhOM3hXdzZvUWVTaU9SamVtdk5IbE9YRTN5YmI3VE5CeFU3cDVxVExqRkdLZ01nbUE1OC05MncxV285bmVvc0JVOG40ZFF6STRNM1Z6anZFZEVHUjJhTWFpRGgwMXVoTks1Q1NpRF9WT3pJa2VoMFBjRVVScFFGeEhj0gHiAUFVX3lxTE1SZkl4SU5QbHUzQ1ZfcTN4NGNwbE8wdm5VS1VxLXpUSlZ6ZGdkUHNYdDJBZy1qeU94ZU5NRWJoVDY0SU1qMzVtNUZabGdBa3QzYWlPc1JTSEVQbjNpMERsTFFhbjlxRURNQTFCLUV0RGJRR195NWZ5aktTbzd1a2VDbHZ4dGh3Yk8wWi0zTVlnSnhPMjFBVktfM3piRG1XR2FUWlhaMFZVY3BacGZ1MGRpTTZuRW9lUFpZRW5NR3FWSkRTcjVzR1lvNnFhNWFkZDFBLTlQWEZsVEVPY3VJckRHQVE?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Nasdaq e S&P 500 registram ligeira queda com o recuo das ações do setor de tecnologia; atenção voltada para o conflito no Oriente Médio - TradingView",
+    "titulo_norm": "nasdaq e s p 500 registram ligeira queda com o recuo das ações do setor de tecnologia atenção voltada para o conflito no oriente médio tradingview",
+    "fonte": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUZzE2dUVDQ0hwVmVQWkdtb1ZVcy1qSXplZ25OLUZuaU9saE45Y2pmMi1ObjNaeW1SeUFkMGNHQWQxc3A0cVZFcVFIeGhLWFpIdVlGMGxFWDRmRUtrVjRoUGRCYzBqN284eXpZWFNLUm1pU1c0anQ0?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Bolsas dos EUA encerram sessão com Dow em alta e Nasdaq pressionado por chips - Times Brasil | CNBC",
+    "titulo_norm": "bolsas dos eua encerram sessão com dow em alta e nasdaq pressionado por chips times brasil cnbc",
+    "fonte": "Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUlQVVU4Z0MxZDJrU2M4YXU4VkVUN1gwN1ZpYWZjdi1lamxrcm1sd2R5Ymd3WlNKZGtpQjNMbkZ4YlRweU45YXgxSmhfTEdydUdScmJIUWozbDJJbFc3MjlEVjBqSWZMcVNhMFR4Tk9peWdvbXFYN1VENGNqMHVsT2dvQ09mUmlWT25XbVhZd09Yc2tCN0Z0V0xDMUIwUnBZR1dxWjFBeFZza3V6c2t6WQ?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Nasdaq e S&P 500 caem no início do pregão; setores de tecnologia e energia puxam para baixo - TradingView",
+    "titulo_norm": "nasdaq e s p 500 caem no início do pregão setores de tecnologia e energia puxam para baixo tradingview",
+    "fonte": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNk1vMVJoZ2xLcHJfWU05bERGX1Z1R1FXQUx5ejhjckdBYUg2TldfckdyMzVtdGFCX0JhMmRVNmZ5d0k0cU9UYWtXLURlRUhrTmFWTUlkY3k3Vm1laVRYVlExUGk4UllEN09jTW1Sa3E3cncyOTY0?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Mercado reduz previsão para a inflação em 2026 pela 4ª semana, mostra Focus - CNN Brasil",
+    "titulo_norm": "mercado reduz previsão para a inflação em 2026 pela 4 semana mostra focus cnn brasil",
+    "fonte": "CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1hVc0xJOHZpQkthdzdhemJiNkltNURQbEFKb0NXZjB0THE4QjdHN0VNdE9JaWU3ZzdjUnNYUEppSzFhTE9kXzVITGJVbFF0aEVMVzNJZnlmVmxGM2xCUVpUM2YwWk0wYXFoejV0SjRZTTZ3cm1uQXl4U3ZFZ1lFSjJfR2J5NUdNQU9taXpZeGhtQW5kRF9SRVVVR0hEUFlkbUlRd0Y1N1k4VFl5QkppeUhmTkRDZk1fWkVjelZfdFluSHQ0QUE?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "Wall Street tem tom misto com trégua entre EUA-Irã e liquidação das ações de chips - Money Times",
+    "titulo_norm": "wall street tem tom misto com trégua entre eua irã e liquidação das ações de chips money times",
+    "fonte": "Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nRWRjYnphTS1lc3FMcUliOFFvMHk3Zy1UYjd1V1Ntc0JoQVJOZjVad0lneTBldlk5aHJNamZsVEFZRFREY3Jxb18zNURZUWZSMTFuN3gyeExwcjZwTWhVR19Rczc5dw?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-07-27 21:54:15",
+    "titulo": "A lua de mel da SpaceX acabou? Elon Musk nem é mais trilionário… - Olhar Digital",
+    "titulo_norm": "a lua de mel da spacex acabou elon musk nem é mais trilionário olhar digital",
+    "fonte": "Olhar Digital",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2NmZEd4bmI1TW1Ka2FMdTAwSi00ckpiWURiTHAwcXh1NzU4LTVlYVVzSHNQUkR4ZUNRa3QxZ3dzUGJ3bDhZekRwbFBGTFFBOUFfdlg2N1h6ZzZkcXk3NkRyTmdCV2tzb05vSUlvbEZBcXhrRVYya1VFMUdvYnhvZzFsdWRIMXB2X2ItRzM1c2xjWWtEZmNZYWN6MFhtUQ?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
     ]
   }
 ]
