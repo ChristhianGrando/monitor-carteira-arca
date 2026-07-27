@@ -1,11 +1,107 @@
 [
   {
-    "titulo": "Presidente do banco central da Indonésia renuncia - Valor Econômico",
-    "resumo": "Presidente do banco central da Indonésia renuncia Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0RETFVHTnk3a2EyaTFKc2dXTGpZdTRKdFdEeXRkbl8tcV9JSUx5TTVoa09BMFBndkJzNmJRcmFMNlYwcGdOd01yNGkwb0RaR2RqclJmc0lGVUFDb1pPT1lUZEc3RG94ZGhLcUxKYkJnTGtSanVVTTlQWWE0X2Y3QnRCSDRoR19RemotXzZkdzhEaWhPTERpa0JxU0NGNm5IZDdGWURzbUFMd9IBuAFBVV95cUxOT0tHWjJJNGpoQlVRVm53cDAwNExZQlZ1UU9rMlNYMFBualo4M3hQbk13aGxPS2dRNFpNNFlEbTZaaVdjQ1JhU0pZY1RUYTdmT1VoUFBQU1drTmRSSnRpa2NxZzNUTlhWX09ZT3Z5NFdfZHVhTnBTZlpuQ3A3RmZDamxxd1dQc2pnanJSYWRRdGlTSEx0UmtiM3ZnaWNLOXJ0UFlqVGREWFc5WGl6MUJVT05KandZUTlI?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Economia em foco: juros futuros recuam e mercado revisa cenário para a Selic - Canal Rural",
+    "resumo": "Economia em foco: juros futuros recuam e mercado revisa cenário para a Selic Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWZfYWQ1LXJab1VDbElnOU9KVk9VSmhOUG5ndFVhREE3dnJoQkl1dkMxLXQ5Tnd5UmFCWVEzSjVjX1NJaVA4aFN0NWtOREtGQTlfR0FUQm9BRnhoY0M3OXl1dHZUMlRqZXd2TDk3UHZUaTdfcW1YSzJ4cTN1ZUZHTnA3eVptVlRGcFQ1ejN1QUZJLWZVQmpDd3FjSDZHalAxYmR5YXFjVjYtRFdxRDF5aVBEVkdQQQ?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7eb8efb4a5f4461c5a6d3fdd92252c7b04df4779d1580457373080856d70e0bf",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido - Terra",
+    "resumo": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido Terra",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcW5ZREtSOVdPSkYxeHlnNDI4QzdsTzQ1UUlVRXUzMjBlVDl4LUlDU0NQUjFDbW8yUXh4UUh6ektiSFkwUndweXV5Y0lFdnpZUnUwQ0RzdXN5MHBSQTFxMGduR1RESTFvMXB2MWhRLTEwcmZHRG5NNEpQa1FMaTBBUHdiT1R5SHZBQXpMVV9NZDh0TFZPTGtHeTQxMF9oXzdHRk9zZVhyVDV0blpQRmlIbTY5S0RSSGY3cEVpeFhaQjBsdHZMQzlrVDVON2VzdVJ6WV82b1hzaE1fVTB2WkVaVlJJOHVyT09iZndhTEdnbUNTamxKTEdYeQ?oc=5",
+    "fonte": "Terra",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "06c1c3e6cb32067b496de797a055a94657fa4af844bd473637e4554e51d7675c",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado reduz previsão para a inflação em 2026 pela 4ª semana, mostra Focus - CNN Brasil",
+    "resumo": "Mercado reduz previsão para a inflação em 2026 pela 4ª semana, mostra Focus CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1hVc0xJOHZpQkthdzdhemJiNkltNURQbEFKb0NXZjB0THE4QjdHN0VNdE9JaWU3ZzdjUnNYUEppSzFhTE9kXzVITGJVbFF0aEVMVzNJZnlmVmxGM2xCUVpUM2YwWk0wYXFoejV0SjRZTTZ3cm1uQXl4U3ZFZ1lFSjJfR2J5NUdNQU9taXpZeGhtQW5kRF9SRVVVR0hEUFlkbUlRd0Y1N1k4VFl5QkppeUhmTkRDZk1fWkVjelZfdFluSHQ0QUE?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5f7226876611ce52563df969aaecccb8bb643f394f71f41d110124be1ac10dc5",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central do Paquistão mantém taxa de juros em 11,50% - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Banco central do Paquistão mantém taxa de juros em 11,50% Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXpzNUpxVUtDQUlSNDlvRWV1ZGhtNUlYMkR3LXJ3R2hEV1RLV2tSTkdlQTdHV2tzUk5HZmp6ZzBNc1VUOWpWaDlEZ2tQRW0yZnhhSUcyczBqanIxdTBBUU5xSVZRZ202c21mY05BcUt5dWdFR2o5NEEtZk1mTGphcVRUNVMzTkl5TGNTS19RdUVWSTlqLXd1cFlaY3kyY20ySXEzMHRTMy0teHFJWXltSU0zcE95am8?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cfea6e94041d935302a9b1dd5a2d988174f531c73c57131edb46c017349be4ce",
+    "chave": "557278d1e8e4c7cce3eb5cfcf16de269f48223ec09595739a92d5583a9baab24",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Boletim Focus: mercado reduz projeção para inflação de 2026 pela 4ª semana seguida - InfoMoney",
+    "resumo": "Boletim Focus: mercado reduz projeção para inflação de 2026 pela 4ª semana seguida InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBINUN5Z3lVRHpQZk5RM2otSkpVelNYTFVsU1Y3UkRVcWhjZHdsQnNFMGlWYjJrQ1RlNUtMYllETVlWdjI3bTU5V2JGTWFINEh2elpNUUtrWGw3elNTajFtc1JsNWR5TjdabkxmZ3RUc3FoVWhiRy1TWS03SdIBgAFBVV95cUxNV1lzZzdtNGVFSmZHV1BUbWJ3OTdDeEdfaGstUnpqaWRqSXlPRmpFd1ZhV1JiZkw1ZlBDQnhlOWZaVmVWTlVxQ19hUS0wYzdDTUt4NGxmN2NXbFRxNmtLTWI5WXl1TlRhekhtWVl4eTJJVzA3bWlldEtsZmgtOG8tbg?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "5666eefbce96cbc3c5cf7a81fe5b50a41b1a78ef0a28f81a638661fb2b770f3c",
     "ativos": [
       "CDB 100% CDI"
     ],
