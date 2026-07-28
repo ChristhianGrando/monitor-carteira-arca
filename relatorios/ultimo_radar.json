@@ -1,65 +1,11 @@
 [
   {
-    "titulo": "Ibovespa hoje: IPCA-15 e expectativa pelo Fed guiam o mercado - Estadão",
-    "resumo": "Ibovespa hoje: IPCA-15 e expectativa pelo Fed guiam o mercado Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmVUZXM5VVQ0MjJYblhTcXA0VVk1UXNMX1E2ZDZZa1dKalRJaWYyLUFIVWl1ckNPTjZUYVN3d1RPVkRFLUFJYTBVUGRqRFN4YWs4V3RPN1lRQ0VFUk42RUwwMXN4STVUMDdJYkNRYnpHczJ5STZzS09kZS1iQ2lvMGdFc1hlX1JDb2VycnRmYXV2SGF2cTJRSU5UUlo2MDNsNHpISlZlN2RxM3RTeHBkdm1LUHBpM3FNSnlr0gHAAUFVX3lxTE1fY0Rtb3Ztdm1nd2U5UEJmZ3ZKdFpNdGJHV05hb2tPbzZIcGZadVdrdU5BUDVhZjEyWTVkRlZqXzFFeXhJTzdOeGlXWVhRZ3JmWWpjN1lfNGNtdnBVT2xnMXlENFdvS3VyMGZZeFBQM1YxNUlyU2dQM21zejVESUY5aEo3OEJVVGRHbnEtVHk3SVZ1bTVHZkR2emxUMVZUU0l3eW1Iekdjam80amUzOXI3UklDLVpWSWpCOWl0ejlGUw?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "813e833582cc839112c7ed68b1fe28885cafe767e5769605a034ea3e5edc008c",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 13,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Agenda do dia: IPCA-15 e setor externo são destaque - Valor Econômico",
-    "resumo": "Agenda do dia: IPCA-15 e setor externo são destaque Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkhUVzE5d29Xd0FkQ083ME5QXzVqWkNYRVJOZDRybGlHZWE1RDNiMDVtc1FmUGczYnc1cWZpQmVQV1NGSXp0U1RLNHFKVnU4QzV6Y0hZUm1sNU8wbURzN2FLSUZKanhjbTFHbk1rdGsxenFSbVpsTGdMUHRGamlfRnN0S09YRkxFVjBrdEhGbjZsOEo4RnFWMUhqNGdHR0FpRTU0V1BSamJQZGNL0gG7AUFVX3lxTE56Y0pvWjItbzREeDBmOWFnT1poRWI0ZUlGckphYXdUSGJETFVKU0ZxcjBJVzBad0ZzR2IzS2V1ZTZ1Z2FtS01wTzdIalJOeEh0UFJ0Zm00YmpWNzlRT3hndmdOeG5wTGt4SU9vZUhvckxpX2hGcHdlRFVhSjYwaC16WWt0MHhNTXNPV0ZPNGhuNWRqTXAyLTQ2TmtzUzZlSnBxaGc0TVBkSExnMGMxOEw1TVpkaUctRnZEQ3M?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2427243278d2b469c65ede02ced67e67210fe251fde0851dedbcf78106024e90",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "IPCA-15 desacelera a 0,06% em julho e fica abaixo das projeções - Folha de S.Paulo",
-    "resumo": "IPCA-15 desacelera a 0,06% em julho e fica abaixo das projeções Folha de S.Paulo",
+    "titulo": "IPCA-15 surpreende analistas ao ficar abaixo das projeções com queda de alimentos em julho - Folha de S.Paulo",
+    "resumo": "IPCA-15 surpreende analistas ao ficar abaixo das projeções com queda de alimentos em julho Folha de S.Paulo",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWG5tbzYxQkJvRkhEVzk0N194azZQZ3pxSmxYZzJWcVVYLTljVVI0d1JMeDJTT0pwZGlPenZrQm9jWUsxcXFHNXNPTDZmWXdwYlBOYTJwN282MnJUS2poNkNLa3BEbFUxWF9OMm9pSzNsbGM3Ny16ZXhzRURRaGNXOE42SDZRT0hsNUdncFVTX09lYWVaWUljallSVVAyYlp3T2NSc1c0LWpfYjNMOXJKcUNpNA?oc=5",
     "fonte": "Folha de S.Paulo",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "bcff423a943e46b6658c4a801561cacd6fb8ee1f63b4098deddffc69a82895fa",
+    "chave": "5b3192b24e1506ed154a78e85950254923024b161ce08cc266e5f8689c4cbcbc",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -70,22 +16,23 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA-15: Prévia da inflação sobe 0,06% em julho - CNN Brasil",
-    "resumo": "IPCA-15: Prévia da inflação sobe 0,06% em julho CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bnRMTTdsSjlVNFJFNlZ0RXpVRkcwS29La3pxWG50dVFQLUItT2RuaW93TlRKTjR1b3ZaaWVncGpqdkNnblM4OEZyZnJBUlNnYVBKLUI0dW8yUzBjemJ1WFEzZEpVVmwzVkJjRHNidlJRenp3U2Z3Z3ZBYw?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Abertura | Ibovespa futuro avança mais de 1%, com nova surpresa positiva no IPCA-15; petróleo cai - InvesTalk",
+    "resumo": "Abertura | Ibovespa futuro avança mais de 1%, com nova surpresa positiva no IPCA-15; petróleo cai InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YRkJPRi1zcU5aaU1KaVRBYmhDUjFfS2Z5b1JCVUd2UTdwQVVWQ0JHRTZLM1V0Y1MwRk1hTldXTnF2dzN5cW9iS0c5WHZCRTVQUzFMV1dqRWozRlhvN2wxZDg4azhhc2FIcEkyV0lYQ0ZmUnlPY3c?oc=5",
+    "fonte": "InvesTalk",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ce7a44c4a92bc49c39096cda5565a2ce3d691c963cee5a1196aa896e1089c7f3",
+    "chave": "225b7440d419c127d7e5ab0e40060042ec5725534ddee39ddba45944fdbb7141",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -96,35 +43,95 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Espírito Santo lidera crescimento da atividade econômica no Brasil, aponta Banco Central - Blog do Elimar Cortes",
-    "resumo": "Espírito Santo lidera crescimento da atividade econômica no Brasil, aponta Banco Central Blog do Elimar Cortes",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHE3bmhNQlRDOVRIVk9nLTlEOUxwaDlTMmE4N2FSWU9pLTF6N0FrdzByS0NTYm1pSk83WnEzV21reG5DTFVzSXRjd0Y4ZW16UHp2TDctSmgwZ1VKRjkySXBkREhxRU9RdEt5TmpWZVRibUh2TmVVcG4xektmdXJDNks1aW15TkxfZlVzdkh6MjJNbXRNUndlUUo0Wll1Z1JWckcyLWItZHY1bGNhYWxQbVdqUmlsbUlYazRWcHU3Q0N3NjVMQmc?oc=5",
-    "fonte": "Blog do Elimar Cortes",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a4dfc001571139139034beefbbaa5594393b550e0fe4e6218f2b397d7a6eb8c7",
+    "titulo": "IPCA-15 Sobe 0,06% em Julho com Energia Elétrica em Alta e Alimentos Mais Baratos - Forbes Brasil",
+    "resumo": "IPCA-15 Sobe 0,06% em Julho com Energia Elétrica em Alta e Alimentos Mais Baratos Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVi10aVVUaXRwdHpzNVZiX083azNmWEFKVmx1cTh6QmdzSGR5X05RSHNENFlXTU84S3RmdmhTUV9YUGtQSVhZaldEZE9MMWNSNVhSa3dzS0lwSmZkMGUyT1NqSjdZZEF3VmdvMGl5S0EwS2Y5NnQweWhoQ2RCVDhlM1AwVXFaVjUybVFPSWdnYlNrcFl4TmRWbnk5OEdKdWpBTktF?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cdbd07757e1411accb5abbcaecb907717fcb7a5203a1b7f9e71b6afefc7ee812",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Melhora do IPCA-15 aumenta apostas em corte da Selic na próxima reunião do Copom - VEJA",
+    "resumo": "Melhora do IPCA-15 aumenta apostas em corte da Selic na próxima reunião do Copom VEJA",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT05xOUpaNm5tZkc2TzVwa3Z6bTAtQmZNMzlOOTFuMHNXaFFiUWZBcGRxYUktTy1mMWVhU3djZHFxY3RBejNSVndscHBjb2FBaEJ2OXo5dV92enJlVnNCTEhXUHNHdVFlUW1vSVpRZkQ4TEFpZWd3Tk4yVTVFNFNhZGJzb2h4a2M5WGJ1WUU5YzF1RDl5R0V4dGJOVTdmUEpOLWNvNEpYdVMwUEhkNnJTRzdhdFlpb3c?oc=5",
+    "fonte": "VEJA",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "6e614e0b55ee3100328e03078c14293ad7e5e7057003bee020c2974dc757dd14",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA-15 de julho fica em 0,06% e reforça cenário de corte da Selic; entenda - suno.com.br",
+    "resumo": "IPCA-15 de julho fica em 0,06% e reforça cenário de corte da Selic; entenda suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0lNOTN5ZnBYbGJDUGs3NnJCVGlLMy1Ubzh4ZnJqTjNQWk1YTkt0WkRMUy1QN2l5TU1rNXVQM3BsTl80cVdjSFNndWkya0lwQzhKMnBPRFVpOFE2SUtaQjkzZk9YTXBoZHhnTldCNzJIMGVmN3UzRGFiVFpyM20zLTBocjNudG1xOXctMnhvb2nSAZYBQVVfeXFMTjJGQmM3cEhiUkx6bjBZa0VBTG0zQTBWZ19NMEdNRDBWbHNrLVVtLTFhamo5VnZTbXdibEVMOFBDT0VlSGt3SDhMX1ZmYm45RUVYV25QUTJjNkxoS3F6WTNOeE8teVdLVWc4d0QxaU5Ob05IeVBLY01jbExWcTdfT1piamFNTEFQYVhlTDJVcC1LREZqNUJ3?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "f6c1bdf309f7eff47068ad8f9fe8fd6798caf94e16bba4bafd7ae7a5ae2cac28",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
