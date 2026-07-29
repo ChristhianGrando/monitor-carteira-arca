@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "titulo": "IPO da Compass pode levantar cerca de R$ 3 bilhões com IPO; entenda oferta de ações - istoedinheiro.com.br",
+    "resumo": "IPO da Compass pode levantar cerca de R$ 3 bilhões com IPO; entenda oferta de ações istoedinheiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBV0hTWGI5UWVsWnpOUXI5MVIyVXlOUUhWRVdYRU9VVzBHb0hac1Q5QWVOc0UybWpMUnIteFpCWlNGTE01YnYwZWNqR253SkU2OGVrRUVGdDcwVU0zVTU0Z0taQQ?oc=5",
+    "fonte": "istoedinheiro.com.br",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "31a53d63e541c40bea4d0b7347857f1bd63bbb06f615179a54dcc1505ca43848",
+    "score": 12,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+  },
+  {
+    "titulo": "A Compass reabriu os IPOs na B3. Mas a fila vai andar? - neofeed.com.br",
+    "resumo": "A Compass reabriu os IPOs na B3. Mas a fila vai andar? neofeed.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3plS2xTLWRVZXhjYlhzQlo4NDBjUnhKMGluMkc3MlFVOUlJdFBhaXJvQ2tfWFFxVmlscGo1TDFEYlEyZlJGenVfWUIzYVdRSUtvWWY3R1REejhQZlpLYWUyNTlKMC00LTdKdGhfWlFQNGNxeDRLaVRPRkhWbVR5eHctVVFqUUxuRjhKN1l3?oc=5",
+    "fonte": "neofeed.com.br",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "f2c458a1dc364b9d9b822a6c7c3953af0dba5c40ac6065e4987da83c433a4f49",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  }
+]
