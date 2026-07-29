@@ -1,88 +1,5 @@
 [
   {
-    "data_envio": "2026-06-19 22:14:15",
-    "chave": "1df72950e811ec4bf711d4ef85096424ce9a67bd51558e5f31cb1aae34444ced",
-    "titulo": "O índice S&P 500 cai e os rendimentos sobem após anúncio do Fed. - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iUDZOc0VVa19zQjdwSVhZNXZ3X1N5N195UF8xcmxUcFNhWFpVZ3QtZUNJUFFPak9uUTRLZ0l1amJKZFpUeDhUTmxMQVhVYXpjanp4QzRxeGNOR093dnJpWUNuS2lBRzZ4bnNTMDNlSW9jSkNIWFd3?oc=5",
-    "fonte": "TradingView",
-    "score": 10,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-06-19 23:16:46",
-    "chave": "667593312ee4ab1be1451a4cbf006d75ea47c3b1ec23e73d0835a4c25d71e7ba",
-    "titulo": "FIIs na Semana | Copom reduz Selic e PMLL11 é destaque na semana - XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHVXeWFBLTZqWjc5b2IzZHE3Q1oxcEpydm1VXzVKZzhoZC1CWFNvV0xqTGQycE9FLWJ2ckxDbmpvdWtCcXA4VXBTWjliUjNDLVcwVE9FMWIxYkhhV0lGREVYVFlxNXRYVmdqZ1dsNFdWUmtCb1R0SjJQM1p0ckFCV3cwMTRKUzJYYnVqekx3T3lCTXRqNEdnMWhrX2tsa0xsdFpOZVQwLTRpVmNHa2pnODlHLTF6dmFhb0lJaE1RU1I?oc=5",
-    "fonte": "XP Investimentos",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-19 23:16:46",
-    "chave": "5b70a694b0f039a8e65973c7119755aacaea54780e31eda02459a0f3ef6a5e61",
-    "titulo": "Copom reduz a taxa básica de juros da economia, a Selic, de 14,50% para 14,25% ao ano - G1",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUFRaHp4elprVU5oNjRoWlZYOFp0SnB5bnZmWWtfY2xHSWVqUnI5NkhMbnVkMkZEcHgzSDN3cC1Ea3lELTRueE5wYnk4QWIzYWl3d1o1MWhGMGNNek9LeDF3WjI1bEtXNG1xblVheVdMdXNhOTQ4U29lTC01enBvZG00ODMwY2JsNzExU3ZmZ2hkWUgxd1Jxd3NiZk5PNDh6VGlGYkJrUHgwQk1hSUF1TWRzTmk3RFExazZ5ekJzRmZoU2R4amI2cDJqcGNEUjMwYy1VNldQV1BTWDRVTG94QWp30gHwAUFVX3lxTE1zTFk3TXFZZkNTb0h2UkVRRHZnUEJvOS1HWUV1Z2Z5UFZlTjRlNnp2eUQ2aUtqczlKSkYtdkNQMHVQSjN2ZGJYQUxhX3k5clhrRk5CVDgtY3FZdWkzdmxzRUxMbkpyb0Q0cThQM1huUV9xcGhvdE12ei1USXVkSkcxR0JXcVdKN0NvRmxGZV9Fc3o2eGZCRFBrOFVfVWlCVVBUOVFXOHRrM01UMFlhTGZscFk0dVJOT1MwMHFsandNdm52eXp6Zkw4S1I3cE1GVjRaNTI1eFpXT0E2MHdRNURXSFhyOGZmNTZyLUtnQmZGdg?oc=5",
-    "fonte": "G1",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-19 23:16:46",
-    "chave": "1f40df955399ad534d73a7b5c3c0917014e23c64af374734ae38cd831c516ce4",
-    "titulo": "Durigan diz que não conversou com Lula sobre nomes para o Banco Central - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnNNUDNfQldTNlRkNjhUUXpHYTVYSGxCbXU2dTE5anlzNEZGMUh2bFM3RFVNcUlST1dFZnZOaEhIaG9OTGtuM0o1M2FjRmVoNk1SWGJIT0dsU0piOHQ0WTVJbEVLdTZBUHNSUGw1bjR6cGFtTjZpekUxQnFqVy1qNElHNDJnM2xUYVpxZUZBLW5YT0NfRXJSSmFsai10NmhJUWtFTUxhdDZvZG5yN0xrRll2ZmVsUFNEakNQQWFPdGNBN3lCSTdoNNIB1wFBVV95cUxQR1d5RG5sLWNTNkttU2dNb2JUS1QzWHVXNFdnRGx4V2FJa3RRMjA0d2EyZ2dNdzlTU2FtZktKRkpZc0JjNTJDdHVmV0tYcFg2T2lrTkwydDBraGotUHpmdG1DNWxGaC1KQjNkZHFMdmd4dnI3ZjYwMzFDcjFRUHA4OXdaUm1JT0M2dFgtNFo0VmRDSTQwMGxmRTJTbHNMSFY2ZFVaRHI5eGZkcEpUbFhOd3BuZi1MMV9CczQ1TEM4RXVjMHRoZTVZa1NLNWliUkd1NG9rTUpaYw?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-06-19 23:16:46",
-    "chave": "56664ab7dedb4a883b305367a0e40d5d6277f23aff66fa8b1bb7369d9e31723b",
-    "titulo": "A PEC que amplia a autonomia financeira, orçamentária e administrativa do Banco Central causou um racha entre os servidores da autarquia. Parte dos funcionários e aposentados é contrária ao texto, e os favoráveis estão organizados em associação para - instagram.com",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84X3FzLWxlc29lRm5icjZ5Y3ptMzdWaFRaLUJ0dHlubkNHSUdycnNUNzVFZUY5QkRFNXctOU5vYkt1NnVORFFVRl9YQWo1YXlnZnc?oc=5",
-    "fonte": "instagram.com",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-06-19 23:16:46",
     "chave": "4747e738b1faa93c209ad5ccb0bb72956d9ebeb9b307b862422830675370f665",
     "titulo": "Servidores do Banco Central racham por PEC e envolvem até Luana Piovani em disputa - Folha de S.Paulo",
@@ -17146,6 +17063,89 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-07-29 17:38:32",
+    "chave": "95f9e0c6d063a7237054d07d83ca5cc40263de0a02347be494dc280ff6f315fb",
+    "titulo": "Risco sem recompensa: 64% dos investidores na bolsa ganham menos que a Selic - Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORXR6OFhSZHdfdGVzdDFISkNLaEVJM1hhZmtjNGdnTTlycmk4MF96TW5lUTIzTkI1d1FNUlg3VzVXTnhKM2lidEdZbDl1dGpYSWdLdmlNT0pwOXZqRmJnN0l0cTZEZEdxckMyOXU5SjhXbElybXlNc2t1a1JfUkcyNGNsTVVYRlc3N2JiTVBzRm9TZTdBM3BxQlk3NmhWMGktZkxIMldDQmwyeHYwSkw0QTFaRFRDNEx0eDJWd1lFdHZsby1CcC15QnJwVFpvQjdqOFQ2d1FKLXlzUk0wUUlTVEswWTF5aEthb19NanpKcF9FZVXSAYICQVVfeXFMT2hxNFl6Ul9fZlptTkoxQk5iUXV5S2R0Q3JBcy1lVThOTmhHdF9YbHc2OU5YMTE5ajhocG1aMjNvME9iWlFEWnhUaDhhcEFxbmtJU3IyaXNlVm9KbXVfY19tUlBqc2czUWVfQlpRU3pZQnV0cTJkUG1XTlh2VjUycXNteWt2bVM1S2hsN252cVE2MkxKSzNyVmdJUjdZU1RhR2J2MHA5cWZJZzlTcGcxU204ckZoN1lGMHNmNFlDUjd0a1RjM1k1OU15elJqa0czY3d3SU1sNjg3Q0pQOTRhVjNGaTgzdktnMGxYSXBLYnZMV1RvQ0dFOGlISFJpTklIaFZR?oc=5",
+    "fonte": "Valor Investe",
+    "score": 16,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-07-29 17:38:32",
+    "chave": "3bd824f6e7cb48493253cf07b3e889c6c5775c24b5971c79d78e516ec1ba9d0f",
+    "titulo": "Atuação temerária do Banco Central, a Resolução 575 e o risco de dolarização da economia - AEPET",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXh1YXNJSXExWkkwV3lwV19xRmtFdXMzLVUwSDJqV3lsck1oWlFCMkxIQXViZFpNbjZqZ0FRdG90Y19nUkJrOGgwOG1uOW90ZHNHdWc1b2ExbU5lOUtCU3Z4ck1pMHVJdXRPNXJwWXZ4RDcyQ2ZXWm5NOXplZmhrTHpwekhfbFRKaXcwNUVRbWJ6aGJFMDhnLW03cmlmX0VLcW9VZzRULUliQzVxcWlWNllYQ3hoNms?oc=5",
+    "fonte": "AEPET",
+    "score": 15,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-07-29 17:38:32",
+    "chave": "a3427fb70777ebce765ef0e2bac7ef1f51e5dc2ae5ff114d73bad6793dbf798d",
+    "titulo": "Banco Central atualiza manual do Pix e amplia prazo para contestar fraude - MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0twa0FQWkRGVE1wSVhTN19PRnFRY0VRejU1eHptOGcyUm5tQUQyTXUxLVlObXZmQk9sR3hnOG1SRTZrbTdpV2NhdjZGV20xZGU4dXpNa1kyWUhCVVZuMEVUbnN2cHh5S0ZNS3dIYkw2LS01Q1R6WmxDQV9aZnRzWkpGLTRWMTJiODlRaDY2dE93QmJ5ekNUVUk1UkdYajN0Y202ODFOU3VIWGUwZm1IbXZTV1o3bEFh?oc=5",
+    "fonte": "MundoCoop",
+    "score": 14,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-07-29 17:38:32",
+    "chave": "a111577872b0b19b77234815ad73b881c60a7c4a0358010525d98825558504fd",
+    "titulo": "Dólar opera em alta, com foco em decisão de juros dos EUA e novos ataques no Oriente Médio; Ibovespa cai - G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NS292QnJzXzRzSTlxRjdJVzM4TzNoU0czQlFZOUZPeC1laHNMOEtuSnpiak5wVTRNYmlYYUR2QU5DaEkwcXl0SVhoY3ZpX09uUHMzMEhJTWpPY0NmNGtKWlEwUW92VG1xbVpTZXF1THQtM0d6UmRBT9IBhwFBVV95cUxNTkNJWlNrOW9LVGZDeVhocVE1N01XY24yWFpfLVExQ2RUa3JLTEZQQjVQc2RWLVM5SFkwTU9FTElJMFJERWZoYktzLTVQT05VOE84QW9scmJtVVA2VE1iX0NyeTRYR1BJeTg5RUdOY1g0NzN6MXJMWG5sZTNCMW5rbUpoMms1d2s?oc=5",
+    "fonte": "G1",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-07-29 17:38:32",
+    "chave": "0cf618bb69c21fbb96aed84a28de2d8ea223a265fabe63a48540d0135aa273b9",
+    "titulo": "Milei muda lei do Banco Central e enterra herança kirchnerista - VEJA",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3MzNmd1NkQyRlBDSTNhcmdLRGV2SldUNXJzZUVKS2MwcjRIaHNCR19aWjZNWXNYTmlDS2xCOEp4MUpYdWlWcUlMWVYtdjdMWVBYWHI4NEQ3T3pxMFhPNGxWTWYxeS1OZ0Vid3Q1NmkzdmRZSjBOellpNTNFdHdybGJXTXJEU0VjZ05SaEVZaXRmQ3psZVdwNE1PbVB2YUk?oc=5",
+    "fonte": "VEJA",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]

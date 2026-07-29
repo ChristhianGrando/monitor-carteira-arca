@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Análise de Miguel Daoud sobre alta do IPCA-15 e Selic em julho - Canal Rural",
-    "resumo": "Análise de Miguel Daoud sobre alta do IPCA-15 e Selic em julho Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUtySzZTeGl1UFRKRTZjWEhtb0psZWt3STRRQVZSNUd3SlRGOG52MmhwbWwzTGc1T0J0U1dlWkhNRHZic1h6bVhHYVhJZmcyYkFQb2JpcVVjTkk2Nlo1VURFQnZNUVdZQ2xib0FocjQxVEZNLXRlMTRPUG9hSWtnTEphVm02SDlwVFhrdWxpaVF2ZXFBa1VTaks1VnI0YmNkenc?oc=5",
-    "fonte": "Canal Rural",
+    "titulo": "Risco sem recompensa: 64% dos investidores na bolsa ganham menos que a Selic - Valor Investe",
+    "resumo": "Risco sem recompensa: 64% dos investidores na bolsa ganham menos que a Selic Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORXR6OFhSZHdfdGVzdDFISkNLaEVJM1hhZmtjNGdnTTlycmk4MF96TW5lUTIzTkI1d1FNUlg3VzVXTnhKM2lidEdZbDl1dGpYSWdLdmlNT0pwOXZqRmJnN0l0cTZEZEdxckMyOXU5SjhXbElybXlNc2t1a1JfUkcyNGNsTVVYRlc3N2JiTVBzRm9TZTdBM3BxQlk3NmhWMGktZkxIMldDQmwyeHYwSkw0QTFaRFRDNEx0eDJWd1lFdHZsby1CcC15QnJwVFpvQjdqOFQ2d1FKLXlzUk0wUUlTVEswWTF5aEthb19NanpKcF9FZVXSAYICQVVfeXFMT2hxNFl6Ul9fZlptTkoxQk5iUXV5S2R0Q3JBcy1lVThOTmhHdF9YbHc2OU5YMTE5ajhocG1aMjNvME9iWlFEWnhUaDhhcEFxbmtJU3IyaXNlVm9KbXVfY19tUlBqc2czUWVfQlpRU3pZQnV0cTJkUG1XTlh2VjUycXNteWt2bVM1S2hsN252cVE2MkxKSzNyVmdJUjdZU1RhR2J2MHA5cWZJZzlTcGcxU204ckZoN1lGMHNmNFlDUjd0a1RjM1k1OU15elJqa0czY3d3SU1sNjg3Q0pQOTRhVjNGaTgzdktnMGxYSXBLYnZMV1RvQ0dFOGlISFJpTklIaFZR?oc=5",
+    "fonte": "Valor Investe",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "978f447a7510e79020ad126ca1b37937490d213722012ea46901bb9e5805111f",
+    "chave": "95f9e0c6d063a7237054d07d83ca5cc40263de0a02347be494dc280ff6f315fb",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,22 +16,71 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 16,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Tempo Real: Ibovespa tem leve queda com Oriente Médio no radar; dólar cai e fecha abaixo de R$ 5 - Money Times",
-    "resumo": "Tempo Real: Ibovespa tem leve queda com Oriente Médio no radar; dólar cai e fecha abaixo de R$ 5 Money Times",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0p4Ri1VUjNhcjR2Q0NhTTk4V3g3ODdMVVhJZ3FERi03aGtJWmIxWGFXd3lMZGVUbE56WHlZUlVIcUVKMEF0NlBWZDRvMk1qUjZ1M203V1h2cGJ4LWVEYnhwRnRLQkkyYm9sd3hKVnpobG9nQW1sQVpyTElnWmZHU0Z1bTdkN2M0MUdfM2trMlFSTW4zMUppcUllZkNVQQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
-    "chave": "d317c77e40109e5b0193276d335eb30389d6e21b2c45d201091837a9a71e9ffa",
+    "titulo": "Atuação temerária do Banco Central, a Resolução 575 e o risco de dolarização da economia - AEPET",
+    "resumo": "Atuação temerária do Banco Central, a Resolução 575 e o risco de dolarização da economia AEPET",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXh1YXNJSXExWkkwV3lwV19xRmtFdXMzLVUwSDJqV3lsck1oWlFCMkxIQXViZFpNbjZqZ0FRdG90Y19nUkJrOGgwOG1uOW90ZHNHdWc1b2ExbU5lOUtCU3Z4ck1pMHVJdXRPNXJwWXZ4RDcyQ2ZXWm5NOXplZmhrTHpwekhfbFRKaXcwNUVRbWJ6aGJFMDhnLW03cmlmX0VLcW9VZzRULUliQzVxcWlWNllYQ3hoNms?oc=5",
+    "fonte": "AEPET",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3bd824f6e7cb48493253cf07b3e889c6c5775c24b5971c79d78e516ec1ba9d0f",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central atualiza manual do Pix e amplia prazo para contestar fraude - MundoCoop",
+    "resumo": "Banco Central atualiza manual do Pix e amplia prazo para contestar fraude MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0twa0FQWkRGVE1wSVhTN19PRnFRY0VRejU1eHptOGcyUm5tQUQyTXUxLVlObXZmQk9sR3hnOG1SRTZrbTdpV2NhdjZGV20xZGU4dXpNa1kyWUhCVVZuMEVUbnN2cHh5S0ZNS3dIYkw2LS01Q1R6WmxDQV9aZnRzWkpGLTRWMTJiODlRaDY2dE93QmJ5ekNUVUk1UkdYajN0Y202ODFOU3VIWGUwZm1IbXZTV1o3bEFh?oc=5",
+    "fonte": "MundoCoop",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "a3427fb70777ebce765ef0e2bac7ef1f51e5dc2ae5ff114d73bad6793dbf798d",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar opera em alta, com foco em decisão de juros dos EUA e novos ataques no Oriente Médio; Ibovespa cai - G1",
+    "resumo": "Dólar opera em alta, com foco em decisão de juros dos EUA e novos ataques no Oriente Médio; Ibovespa cai G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NS292QnJzXzRzSTlxRjdJVzM4TzNoU0czQlFZOUZPeC1laHNMOEtuSnpiak5wVTRNYmlYYUR2QU5DaEkwcXl0SVhoY3ZpX09uUHMzMEhJTWpPY0NmNGtKWlEwUW92VG1xbVpTZXF1THQtM0d6UmRBT9IBhwFBVV95cUxNTkNJWlNrOW9LVGZDeVhocVE1N01XY24yWFpfLVExQ2RUa3JLTEZQQjVQc2RWLVM5SFkwTU9FTElJMFJERWZoYktzLTVQT05VOE84QW9scmJtVVA2VE1iX0NyeTRYR1BJeTg5RUdOY1g0NzN6MXJMWG5sZTNCMW5rbUpoMms1d2s?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a111577872b0b19b77234815ad73b881c60a7c4a0358010525d98825558504fd",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -50,49 +99,25 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ao contrário do mercado, Citi não vê corte de juros pelo Copom na próxima reunião; entenda os motivos - Money Times",
-    "resumo": "Ao contrário do mercado, Citi não vê corte de juros pelo Copom na próxima reunião; entenda os motivos Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVBHckhpcm4tcGM2Y1RXcTJ4S0J2YUNMTklQZmpsSWR2RllQR1B2RFBxM1M0amxNOHlMVlk3RWF3QmlZQV82b1RBUUZfVzJ3anI3SmJZeGc5Rlh6ZEJhaFRTZFdxc0tkSzdlU3k3RHA3bHB2MU44MGtrVGU1UTMyTTNFMThBVTFBSl94V3hNdFRlSDhhX3hzR0NhSDVGNmlYU2tkRnBKRW82Z0ZDeFBhb2ZlZ1RpaHRrN2VWTkdxUDFoN1RHamF0dUJ2cw?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Milei muda lei do Banco Central e enterra herança kirchnerista - VEJA",
+    "resumo": "Milei muda lei do Banco Central e enterra herança kirchnerista VEJA",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3MzNmd1NkQyRlBDSTNhcmdLRGV2SldUNXJzZUVKS2MwcjRIaHNCR19aWjZNWXNYTmlDS2xCOEp4MUpYdWlWcUlMWVYtdjdMWVBYWHI4NEQ3T3pxMFhPNGxWTWYxeS1OZ0Vid3Q1NmkzdmRZSjBOellpNTNFdHdybGJXTXJEU0VjZ05SaEVZaXRmQ3psZVdwNE1PbVB2YUk?oc=5",
+    "fonte": "VEJA",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "aa5e149323007a1517eb1c790719e59d0be25c100a6fc06a879faa7cabcda27d",
+    "chave": "0cf618bb69c21fbb96aed84a28de2d8ea223a265fabe63a48540d0135aa273b9",
     "ativos": [
-      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Wall Street cai em compasso de espera por Fed - Money Times",
-    "resumo": "Wall Street cai em compasso de espera por Fed Money Times",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wTGRDVmF3cXNnTEhnRXpwbVlBclB5WEF0c1ZUMU9LMXdUYmhoV0tURE5aVnp6bjRNWF9oMzNrOUE3V1BILUNCTWhKbTBhQTVwb1NUWTE4SDZuUDNFMlBTMkkxY29Rc1VGb19xeEtDT1NfUQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "9e2c726506b3c7053eb13b186d39f2c59c91c0a051a75876b615fc737502a5a3",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
