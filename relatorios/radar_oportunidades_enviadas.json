@@ -1,39 +1,5 @@
 [
   {
-    "data_envio": "2026-06-19 20:46:59",
-    "chave": "79b49468f9f078f862ac8761cd0af4e61dd4c256d2e90e02300a0ff88ea81d46",
-    "titulo": "Ibovespa fecha estável em sessão de baixa liquidez, sob pressão do Copom e das tensões geopolíticas - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdlNrN29xLXFYM0NxcUhnUWdHYno1dHVROVZuWDdpRnZOeFYwLTU3ZHF0RWxTanp5amhZZ0hZd0VXTUtHNTZiWmZrRjlnX1BOOWlFeV9UQ0l6dWdnOTFUSWo1Tks1b3RYUTdEWVUzd1hXTE5GU2s1N0VIRkJtTWVESHIyOHhsX3hVbUtMYzFLMGdSR1hKRGx4NWlkeXJSRUtvNFdEMWw5TGpVVk40dC1lYWF4NlZIVV9xM1VkZnZ0VEZGOW9mblMwdGNWWk41TXc?oc=5",
-    "fonte": "ADVFN",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-06-19 20:46:59",
-    "chave": "d317c77e40109e5b0193276d335eb30389d6e21b2c45d201091837a9a71e9ffa",
-    "titulo": "Tempo Real: Ibovespa tem leve queda com Oriente Médio no radar; dólar cai e fecha abaixo de R$ 5 - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0p4Ri1VUjNhcjR2Q0NhTTk4V3g3ODdMVVhJZ3FERi03aGtJWmIxWGFXd3lMZGVUbE56WHlZUlVIcUVKMEF0NlBWZDRvMk1qUjZ1M203V1h2cGJ4LWVEYnhwRnRLQkkyYm9sd3hKVnpobG9nQW1sQVpyTElnWmZHU0Z1bTdkN2M0MUdfM2trMlFSTW4zMUppcUllZkNVQQ?oc=5",
-    "fonte": "Money Times",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-06-19 22:14:15",
     "chave": "a66fbc7be45bf7f2beca760513967ba81ba9ec0bd43494081e2dc0518742842d",
     "titulo": "Crise de confiança no Copom arrasta Ibovespa para queda de quase 2% na semana - Valor Investe",
@@ -17150,6 +17116,40 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-07-29 12:20:41",
+    "chave": "82f798a021f6a9e9229b65e6f4e76d26caced6c0ca8e9595f289e0c3af5e32fc",
+    "titulo": "IPCA-15 surpreende e eleva chance de redução de juros - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkgycEg0MHBRSHdoU0lqWWJvYk9vWFAxOS1JNDl1NXhxRFJSX1lHTTlCdk50b01pMEczNThjQVJnOTV0cUxCaFBIVjl6NWFXZVlISllXMTNJWlNJV0Y5UFBuNHo1Tjdva3hpc184NTNIM0hMRHJQODVNNkJ6M2tsb29sUjJrSUU0YXRUdGJ1OVVfSXBDNFNiUFVfdGFMVzRpczMyUVRfRUVSVG5mYkHSAbwBQVVfeXFMTkJMa19uM2l2NjYzTFAxRTdIdG1xNGJjTWoyaUI3UGxWZFh6eVZzSS1CaG9hNmlwaUkzMXJkZEs5dG14dnFxeU9QVllqOFVjU0VGRXQ2dDBudkFzdldFckdFSHM4RGJhWkllRkhlZ295TjhnR1NJSzdzalpXekMtQk1qdjM2WDlmTGd0QTVBVTBiOVRJZk9RSHV0N3ByZDFBQ0NGajN2UjNqTzNJOUtueFZWTHk0R0lVd3R3ODA?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-07-29 12:20:41",
+    "chave": "41c53d5e46d0db9ba3b3ae5e16d89c916d5159bca5a3262385817dedc506e97b",
+    "titulo": "Inflação baixa vai derreter ganhos das NTN-Bs, diz o ex-BC Bruno Serra - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVhyQWh1RFM0UXpweFVncFBGYUFWeTZFR1FnVkdYVk50Ty12cG82Sm1XTHJ0YkJfSUtYRHhTcnAzN2txQ3VYRkxaVkRLRjJpeTZ4SFRpVTA1M2t4NmwybVRvNzRJXzNSMjJmdDBNMG9vcWxYV0p1dEpCdzEwOUt2MUtiZ2lBWm9LaEg2alNzZlBEMk0xanpaa3pGZW9OS01weU93N3ZkUThfZkc0RVNOTUZRY9IBuAFBVV95cUxPMTV5VW1LdDZhaVRrQVJSam1WTmoxeXRfYkJsYXlYLWZmYUkxdklwMHBJWHhNNkJZdGw1djI3ZEFWeFVnZVBKNlZvUFlFN0JpMTBNWGIwNGExT040MnctU3hRbUpiaW9TY0lGcno3blI4VFA1SUM4bjdPNGRmZ1h1VFh3emhDazN6OGZyMnJYOUdsZGhFY1UyamIzNWo2LTJRLXhGR000a2RmcHljdlZmTjJmeTdud05n?oc=5",
+    "fonte": "InfoMoney",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
