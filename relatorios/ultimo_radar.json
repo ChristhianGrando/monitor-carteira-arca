@@ -1,120 +1,97 @@
 [
   {
-    "titulo": "Ibovespa cai mais de 1% após manutenção de juros nos EUA e tensões no Oriente Médio - VEJA",
-    "resumo": "Ibovespa cai mais de 1% após manutenção de juros nos EUA e tensões no Oriente Médio VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEVVXzNMd2kwdjdOR3JoeG9tYlctemNXa0hZdlI4cEZWblNmVHRXblNiR243cVhvVWlNdk1zbmVOMmthQmZ1TG16Q2F3YjRSOW9ua1FUMkxMMVdZbXdjMG84Qm5wRHQzQ0hBUG9fRzRucW9JcEk3WnhDdWc3b19lS3JiQTlOSmxMTVZ4SXJYY3VwaWZRQ3c0OUg4SWh0Qkh4QzBOdjUwTUhRUHRzdHBZOVU1Ty1RRVNUbWc?oc=5",
-    "fonte": "VEJA",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1049dc4c84037c23dcfe3adb956de17fbf7415c33c2f887499b6d5d07ace3304",
+    "titulo": "Decisão do Fed não altera rumo da Selic, mas aponta para convergência mais lenta da inflação, avalia economista - O GLOBO",
+    "resumo": "Decisão do Fed não altera rumo da Selic, mas aponta para convergência mais lenta da inflação, avalia economista O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZDNYRUQtVmxWUTNpa25xeV9BeExUb1JSVEhQRXQxRnZ5THQ2MU00SHdzTUU1S2Y3NzZBc3l2TVF6TEp2T2dwRFVETDFXdlhWZ0NldzhvNVc5V19pN3Z2NE9Va3FEbFhhRTZ1TGVnemlyMUdtRXFXSnc2ZUdGQzdPeW8zeC1nNHJBSHo1QVg5RVBqbjhWX1hHTDFVY2x3MVNwUTlzYkxKT0hKMTZWbVphWTBjRTZnZEVCRF9YaTZfV3VLNzh3eDVxZ0tBd3dQTkh4aFJVSndPekZGZ1RYcHdFbW5saW1UZEJBOC15TzZxTlZJR240STlQRkQwRVpUMnRubVY00gGSAkFVX3lxTE5VTm9WUnM4XzlTV1lSaFFWRU1OaDlFaU5SVUtBUUUwN2VxLTVjQ2xBRnJvXzdOWU5OOHA4T19URnR4TzhIb0xfV0VTWnN0S2poUmVaLTl3RHpFalNidXNzazl3ZUctQ3ZDaWpEZkVWbVBYX3V4U1BHQURIaTg4VW1BMUpldXpLVGdnbUZXeVpqU1hHbEl4Ml9MY3MzbUprOXl1b1pZbEZrZkdQYzdlcHlDcFFFQm5sNGg3OU9pbURFdG8wQ2V0Ylg3LUdqMy1EY3RZdDZnRmEyaGhZS3FvLU9Jak4wazFXWmIweWxtanlhS0pVMGVDc2lObTVhNENXTDYxZFhZQml2SFhCeGFYZUFMREE?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "93cae0033ac287baf7aa559f411e9bca7e7dc2bf91b754cd9147da873c96e5ae",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa fecha em queda com bancos e Fed no radar - Notícias Agrícolas",
-    "resumo": "Ibovespa fecha em queda com bancos e Fed no radar Notícias Agrícolas",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc195aEdSenQwRkJSVmp4RFdrTTFROWZQSEhBU1BFZjNxc0VxWmxiMnBZZm85MXlPaWlYMkd5NzhJVFA2M1phTGk3ZXpBbFZaNVRFUjZtQUZOSVB3aThfN0xwOTAwNXlhcGtwd3FMUlY4bEJaVDJualZPcUxaeENOM2N0aVMxaDFaS0VlWF94TDBhVUlpb3lQeTN6bEV3a2QtY1pKZWxSeEtWY3NyNGNHck1oT2xPZFVoN1JfS3didFpGQmvSAcgBQVVfeXFMUG1MejlGMkpvR2RqaFVXWGpmaXhtY0tIaFVQSkFCelhfc1kxSlZvYUZxaXFEenNYZmN3c1Vfejl2cUxuSzFzbFZEbmZzR3pnZDV2d1hQbHIyZGZjRURnYVNzdnBWa1pVbmVNSzNCTnJkeXh5bW44R05zSW85S2JZQkZFQldNd3lIWUk4MlMyS0lQZTVOOWFrNW5kV2NRalJYcjRfdnVzQ0ZYNmczUTVZcWtUeFRQRFJ0aWxjS1BWSkduLTVxMHZnYWo?oc=5",
+    "titulo": "Wall Street encerra com forte queda após Fed manter as taxas inalteradas - Notícias Agrícolas",
+    "resumo": "Wall Street encerra com forte queda após Fed manter as taxas inalteradas Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQnVEbjF3OTRRaXNyR21ZUHdUZk02TXQxb0tXd3l5Rzc4eFJQYzlER00zZnBhUlM1SmVna3Z3WUlIRDVieFExZmhIMWNQSklNYndMVzBqMWFmVFloVDNOUGdmQ2J0Z3l4X3NLMHlQYlltSHdmLXJld3hycE5UU0Itb28ySEg0YllmczlPaVBLQkNZaHRJbGYzRGFUTTJIZklkeHRiTnNaZ1NieHBtTzdwLXFEYUtFRW0xbGFnX29aSEV4S3NCbEw1eG4xaTBpTFc4WUc3YlYzelNydkU2MGwwanJsQ2tiUEnSAecBQVVfeXFMUEJ1RG4xdzk0UWlzckdtWVB3VGZNNk10MW9LV3d5eUc3OHhSUGM5REdNM2ZwYVJTNUplZ2t2d1lJSEQ1YnhRMWZoSDFjUEpJTWJ3TFcwajFhZlRZaFQzTlBnZkNidGd5eF9zSzB5UGJZbUh3Zi1yZXd4cnBOVFNCLW9vMkhINGJZZnM5T2lQS0JDWWh0SWxmM0RhVE0ySGZJZHh0Yk5zWmdTYnhwbU83cC1xRGFLRUVtMWxhZ19vWkhFeEtzQmxMNXhuMWkwaUxXOFlHN2JWM3pTcnZFNjBsMGpybENrYlBJ?oc=5",
     "fonte": "Notícias Agrícolas",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a6189199d3a2e556c601f03533faba2c63482c3486d7fa66794de700fd4aac11",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "6b18f22756b3f4ee9e37e461a76f95c857d379b63c5e9093ed0c0cbed46b3f5b",
     "ativos": [
-      "IBOB11",
       "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Em decisão dividida, banco central dos EUA mantém taxas de juros - CartaCapital",
-    "resumo": "Em decisão dividida, banco central dos EUA mantém taxas de juros CartaCapital",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMng0OFpGNUNXZHdVNTA2UVJrcldhUGRibG01ZERYVlRaQUdxbGs1bkNRZkg5YURic3hoQ1RTSVFwYVpmQjRTeHo1X0c5WUE0d2tfRW5hUFd3TXBZZlNJSFVTVnZTOVJHU29MaFloMUFxdkxsSlNGWC1lQU1KdmM0S0tneTVCU016M0RtRFJKWlA5cjZmaW0zZHU2TG5KMVlZdXJ4U0NyUWY?oc=5",
-    "fonte": "CartaCapital",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "771798ab3d5d07c5e945dd08094897cc91406d2cbe23b539b2a0cc739653e695",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar fecha estável após banco central dos EUA manter taxa de juros - ICL Notícias",
-    "resumo": "Dólar fecha estável após banco central dos EUA manter taxa de juros ICL Notícias",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRE1SUVZ3U0hBMTBVdGtuVGpiQjhSVDNlSXkzX3ZweURkbjNtTzBRcE5rTGhnRFptMkYyTUxDRmFsdEVXYnIydGgyMG9nQ3FrNDJDaFBpRWRHRlFtWGltbWRlUDVESlJMZlYxRTdhZk1aRVcyTERaVHlnMWhCdWI4dQ?oc=5",
-    "fonte": "ICL Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "c73048e6adcd04291c5aa94f3d0e4a91ea0a11ef3af4c6ff7b5e65fc2779059a",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Desaceleração da inflação abre espaço para mais corte de juros, diz mercado - UOL Economia",
-    "resumo": "Desaceleração da inflação abre espaço para mais corte de juros, diz mercado UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0huRUxtY19vam9nSXpET3JKQmVQUkMzbGNDQ1AyVGxvb09oakpwWHVSNVZnTmdBWWhadGxOd0pYSHduZnpucDZPOVlaaTBQSGpCcDNsWEtya3RkN2d5UkNYdS0wTlpmd3RldmRUclJ4dTd0VUJ4MVg0UWRWeW1OOVJxZnJSNExpN3dyOUNaUQ?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e8281ef4ddd5558a1e5fd0254ab71a78a9c10880a9a93fd145d38d51222dcff3",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Bolsas de NY têm forte baixa; Dow Jones cai 2% com Fed, petróleo e atenção a balanços - InfoMoney",
+    "resumo": "Bolsas de NY têm forte baixa; Dow Jones cai 2% com Fed, petróleo e atenção a balanços InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVNHTGJpYzZlalVfQ2FLU0Zzem1xMGlWNHVwU2s3M1dFdEtLazdxRWdjd1pZeVFyTlBRaUIweXl2V1dGandYdzZ3ZFFBTnJfYTgtX1R3QkN3OURzbGlrdTdYUkxONF9ZNk1RN29ZMGlrbWtJNmJRXzFKOEIwckpjeWJFSHl1Vm9zS2wxOXRPX3V1cWVtNVFoM2h0aS1zLTN3S2dra2VBNk1uVDJpUUYwOHpPRWRHTkFKTmRzcENn0gHDAUFVX3lxTE9sNnlLcUVwbFVWazRfRzlVaUVMQkFoSnJ5UWZldHVXdS16OHZUcXJjZTBPZlk4STlENGk4LXZtSGdBUUUtMlN6emdfTnFJRWxEcjd3cDZCeFpoUzBCalFUN0N3bjFZQUM4OTlkZl95c0dwWWVmZ1RPVklsWHRrdi13SmpNQUZFRVZuTWIzTGZWTzhuQm1feUMyUnpKTmc4WWtsN212ZjhXMEMyUFE5UktMRFFoMmZ5eURYT2lLMVdTamhodw?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "f8ebc6ff3f346807deb7813fd67468686519e1a66729d95a4ac33d464ceb5fac",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai com decisão de política monetária nos EUA e tensões no Oriente Médio - trademap.com.br",
+    "resumo": "Ibovespa cai com decisão de política monetária nos EUA e tensões no Oriente Médio trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1ZVX2I1b0hCcFJvcGdkVjVrN1RiYzFwVTlKYmItLTFWcXd4U3NXeVM5SGNwUVNQMzFrWnFwX2hmUW5pclgyMk5WZlNoMlUzVlBFX2E1QjRtcVRxUEJZelAxbktvTzNyU3NxWGlzUy15MmVraGhocUdsbng3cGV2V1FjV3lQV2xtbFlaTkI2RGZTYnA4RDBRcFpOTkl5T2pnV0xSLWlfWFNMangyaWdCMndDdw?oc=5",
+    "fonte": "trademap.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cef7016d40b97608acb62b9f71c6e40072366ce6f0250615a37b200f0e3a79e6",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
