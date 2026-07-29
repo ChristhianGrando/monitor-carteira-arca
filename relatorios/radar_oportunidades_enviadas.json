@@ -1,23 +1,6 @@
 [
   {
     "data_envio": "2026-06-19 20:46:59",
-    "chave": "69d9c9dfc4bcd9226ab3a0d972f673acedc3746909194bfaf4d7a2d9135fd621",
-    "titulo": "Copom reduz taxa básica de juros para 14,25% ao ano - Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0N0VF84enhKblJ2NVE5Yk5OQnNsNDFtOUw2Ri1sY0FibHZ1MENnX05ULTctMWFVNXBReTE5QnotZlo5ODNMeG9FNFloRnpOSzc5b0JYTks3N2R3a2R0UHNZVTdrbGl6bHl2emFEZmxOc3hiQ0tuaDlTWENON3FGMC0tV0p3T29pNmdqbG51MVZHX3hvUlE?oc=5",
-    "fonte": "Gazeta do Povo",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-06-19 20:46:59",
     "chave": "79b49468f9f078f862ac8761cd0af4e61dd4c256d2e90e02300a0ff88ea81d46",
     "titulo": "Ibovespa fecha estável em sessão de baixa liquidez, sob pressão do Copom e das tensões geopolíticas - ADVFN",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdlNrN29xLXFYM0NxcUhnUWdHYno1dHVROVZuWDdpRnZOeFYwLTU3ZHF0RWxTanp5amhZZ0hZd0VXTUtHNTZiWmZrRjlnX1BOOWlFeV9UQ0l6dWdnOTFUSWo1Tks1b3RYUTdEWVUzd1hXTE5GU2s1N0VIRkJtTWVESHIyOHhsX3hVbUtMYzFLMGdSR1hKRGx4NWlkeXJSRUtvNFdEMWw5TGpVVk40dC1lYWF4NlZIVV9xM1VkZnZ0VEZGOW9mblMwdGNWWk41TXc?oc=5",
@@ -17147,6 +17130,25 @@
       "KNRI11"
     ],
     "classes": [
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-07-29 09:49:38",
+    "chave": "06e29a271aaa6509994c272f7829bcc709ffb639a26a2bc117c092e0821dcf60",
+    "titulo": "IPCA-15 abaixo do esperado derruba juros e impulsiona Ibovespa - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnN6NHhnczEwLVJwcmVzMVE3QnhtMkFyNkd0LTBhLXZ1ZVhiQ3pkU1FhcFlnSVQxaDBTM3ViMFNLdWdMTzI2blJMcndNRWQwYS1mWDk0bC1zNmdyQ25NcjhWMExpakVRR1cxREpyU1NvYVMwOW9EWXBSZkxiLTFSZkVsYmJ0WjUtTnVfN2xySjk5eEdVNS1tLXNWejZnZDVTQlN4T1dCZUMzcGh2U204N1ZQbFBSem9VMnp1VdIBywFBVV95cUxNSktLNUxQZno0eGtzNXU4WHFhanhCZUlhUDFkckJ5Y09IdU92X3JBYWFOUHoyeGRka01YRUtGT0YyTTVIRE95MkhXUG1OZVdzZ2RlVjR5QVZNTGoyYmxGVGs2ZXFRR1FtZEZwbTE1NlJBZk1CaW9BVXNabDUwOVBwZm1OYVFVb3A0SV9lT1BTRzhUREFTazMweVRFMVlsampKOWQtYlAtSnd2Rnl1dHctWnZFR1MyWVUzWWE3V0hTRVVSQkNmQ2dwa1k2MA?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
       "Real Estate / FIIs"
     ]
   }

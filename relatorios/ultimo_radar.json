@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "titulo": "IPCA-15 abaixo do esperado derruba juros e impulsiona Ibovespa - Valor Econômico",
+    "resumo": "IPCA-15 abaixo do esperado derruba juros e impulsiona Ibovespa Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnN6NHhnczEwLVJwcmVzMVE3QnhtMkFyNkd0LTBhLXZ1ZVhiQ3pkU1FhcFlnSVQxaDBTM3ViMFNLdWdMTzI2blJMcndNRWQwYS1mWDk0bC1zNmdyQ25NcjhWMExpakVRR1cxREpyU1NvYVMwOW9EWXBSZkxiLTFSZkVsYmJ0WjUtTnVfN2xySjk5eEdVNS1tLXNWejZnZDVTQlN4T1dCZUMzcGh2U204N1ZQbFBSem9VMnp1VdIBywFBVV95cUxNSktLNUxQZno0eGtzNXU4WHFhanhCZUlhUDFkckJ5Y09IdU92X3JBYWFOUHoyeGRka01YRUtGT0YyTTVIRE95MkhXUG1OZVdzZ2RlVjR5QVZNTGoyYmxGVGs2ZXFRR1FtZEZwbTE1NlJBZk1CaW9BVXNabDUwOVBwZm1OYVFVb3A0SV9lT1BTRzhUREFTazMweVRFMVlsampKOWQtYlAtSnd2Rnl1dHctWnZFR1MyWVUzWWE3V0hTRVVSQkNmQ2dwa1k2MA?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "06e29a271aaa6509994c272f7829bcc709ffb639a26a2bc117c092e0821dcf60",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
