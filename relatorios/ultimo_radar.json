@@ -1,36 +1,116 @@
 [
   {
-    "titulo": "Fechamento | Ibovespa tem forte queda de 1,52%, seguindo NY, com Fed 'hawkish' e risco geopolítico - InvesTalk",
-    "resumo": "Fechamento | Ibovespa tem forte queda de 1,52%, seguindo NY, com Fed 'hawkish' e risco geopolítico InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0ZXZrdDJjVWhYVC03UXEtOG9yWjR0MXFaZFFZTlc5Uy1xbXdXU1RhaEZEanl0QjZpLW9zQUdlci1CYWZCc3c3dUtaeDFjVU9TNnhwU2pqdkt3V3VXelNwYU9nRjVEZWJqcUhRZ3hEQ1p2TGNoRWc?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "97f9664df359e0cb56b8c3faddbdeb059be9da8346cbb7d16a7db34d7438879f",
+    "titulo": "IFIX no topo, mas descontos de até 30%: FIIs ganham apesar da queda tímida da Selic - infomoney.com.br",
+    "resumo": "IFIX no topo, mas descontos de até 30%: FIIs ganham apesar da queda tímida da Selic infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVZxRE1ZcUhTMFVCaWdCWU4wa0ZSOTMtNHRCNnQ1bC16SjRMSU1SNGV1blN6ZWk2emhldndjNzA0a2xRRHl4MTFLYk5xUkszNThtMGxudGhBTHVERWMyM2ktMlNXRE5yVjZKaTVYVGhndFhocnduWjRTSzgtRW9XMlFQNjRWbGpiRTBpVk5RMGZacFA3QVJKa3NmSGpVbXNxNkNuSFM1enF0S0FZMWNiaDliTjR1RFFnUjBTM2VVUUdESkXSAcgBQVVfeXFMUDViWTRDRUJhQWVPWmVkOWd5RG1jc1dDRE5seWJzU1UwS3phc2p5WFc3ek9aaUdoQ0xLbDZaWndkM0FoYmQzTlFNUUJXNnZ6ZVhqQldNVUtPYkE4TGFkdFdXVmhiR2ZRZ1Y3Y3hQTjFnWG41b3lqbGtLaXhwWlFuOTVXUmNlZE5ENnhTdUhOM0UtS0xuck1IVFpfYnYzWjJxV3NyS2ZJMDBGR3FGSW15NzEyUkw3Vjd0V1pzaHR0Yl9tamlrWEdpOGs?oc=5",
+    "fonte": "infomoney.com.br",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "fa1d83e1ad09e91f6a0a2e48693c7619851407584270eab1c52a0d3ad96cfb4b",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
     "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Wall Street fecha com forte queda após decisão do Fed sobre taxas de juros - CNN Brasil",
-    "resumo": "Wall Street fecha com forte queda após decisão do Fed sobre taxas de juros CNN Brasil",
+    "titulo": "Ibovespa fecha novamente em alta, com impulso do IPCA-15, bancos e Petrobras - infomoney.com.br",
+    "resumo": "Ibovespa fecha novamente em alta, com impulso do IPCA-15, bancos e Petrobras infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXhFQmYxcXpsS0FZdU9lVEtjc2FzNnVydm12YjNydmtTdzZlenVlZEJDaHJ1azJrdE0xcUV3NjRwdkp0ZUhhblFoUHQ4QmU1MmxwN3Foc2xQazVKbzhrckpNWk5MNmo4ck0yMkF0TE52NU8xVVBuYWo5UVYyN1RFX19vdVRqSW9LZTdUeUNsZw?oc=5",
+    "fonte": "infomoney.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "6ce39e9375324ae4c848981de514150f5ae00dc2b6084c8a73c1f9991849ea8a",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Com a Selic (ainda) em 15%, vale a pena investir em fundos imobiliários? - infomoney.com.br",
+    "resumo": "Com a Selic (ainda) em 15%, vale a pena investir em fundos imobiliários? infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemlyMDZEaXZicnpadElfaWVEZFJockRCOWJPdXdoZXpuMzkzcURWOVVKeWh5WnFkNnpfTGd6dE9iQjQzN0VPSGdCQ041YkluSGFvZmNEek1qM2dYU0pKZWI4X2N1VlRpN0F5czNVZjllN0JFc1kyb1lubW1jNXNWek1lT0dvSzUxbU95NE1mVlU4R2pndG05LVdjenAtcDc1YVVsZ3Ntc3AwZ3FSZmZVQ9IBtgFBVV95cUxNS0RBOHJjY2ExUDdoQ1diN1VjaWVnMk8zX290TW9FZ3lZU1dxT25XMmFidDZIaGtBczBMR1J5ZzlBV0pISU1jY1BZcHdfc0t0dkVXVV9pNGFiSUhBZG5qOXEzMVVJb1VvMkFzWlc5enI2MGVrZkMzb1RMcGNIUDZDX2t2Ul9wa0tyZ0RBY2lQVEZRcjU2ZDJ3REVaTEx4LTZBVlFOWkdiWTluNDVpOUxMRXZNdG9ZUQ?oc=5",
+    "fonte": "infomoney.com.br",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "b5ac2dadba750c59ad3853c0c0c28c478254600f732bc1a5cde21ac3340ead00",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Melhores fundos imobiliários para investir hoje com a Selic a 15% - Nord Investimentos",
+    "resumo": "Melhores fundos imobiliários para investir hoje com a Selic a 15% Nord Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRllDYVZtNzJBaVRiVENvcWQzNTY2emQ4aFZCVjg5bVRjdXJyV0d2LUtMLUVGVUMxcm16anZjTWY2YlNqaEsxRDkyQXFITzA5UGlMVXhwOGV3eXRhdTJodXpueE0zVDIxUDFTZmZNMmctTkhFZmQ2bzh6dVdQVURCOGJB0gGHAUFVX3lxTE9ZUWNlQjhnOUFRcDRBN0R1MUYyQzJ3NGIySlpQUTh6TUp5VV9FRzQ4V1pmRVhwbXdwb0NJajhmREM3TWtzZHY1SU1fcEdDNEZaWllrNzJwa3JPQ1Y2Q0d4eFB0aEYxQWNoSHhEZ0hVb1hEYjVfRWtiMy03YmFRNHJtYldPWF94QQ?oc=5",
+    "fonte": "Nord Investimentos",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "6107533d700cb5a9c95b9de083b225a73cd937924bb84ecd9d97d8bb0f80e054",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Wall Street fecha com forte queda após decisão do Fed sobre taxas de juros - cnnbrasil.com.br",
+    "resumo": "Wall Street fecha com forte queda após decisão do Fed sobre taxas de juros cnnbrasil.com.br",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmowaEJlMTZCUGg0R3JCQ0tlNG1jMllsVy1iRGJRX0pOYTk3STRIT3M1X2czRVpxN1BpWUNSZXhJMkFxWVMtQWIwTkdSaXdpU0p1Rml3c1B5Ty1jRTZCMF82NTExeGJfZ0xTazdGVFBQR3FrbW4zRVY3WTZWRkZ2N3ZLVlYzOURsWDhIU2VsOVNrTnlYYmpBMlJMbnEzNjlZRjU3VEdfUldQbG50dVBfUWtGYl9Fa1dESi1Ub0x3?oc=5",
-    "fonte": "CNN Brasil",
+    "fonte": "cnnbrasil.com.br",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "b48e84605900bcf6606e24524626abf92d88546ffe96b0e3f3982ef06527b7b7",
+    "chave": "a55652b3a121f632db53da57095e80228de84c85a82f367c582ba6b01a927647",
     "ativos": [
       "WRLD11"
     ],
@@ -42,28 +122,6 @@
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "FIIs de lajes corporativas: aluguel bate recorde em SP e vacância pode cair a 8% em 2027 - investnews.com.br",
-    "resumo": "FIIs de lajes corporativas: aluguel bate recorde em SP e vacância pode cair a 8% em 2027 investnews.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbWZoR1dPZF9JeUpuZnBUQm5LaUVlbWtGVE1hSF9sa0JoRzg0MjVKWGVsVGFPUWtzdVIwQUdpQXZybFlTbzVzYU1sU2dwbWFvd2JvRjhoUWlpc3IzN3ZrcktLZW1OOTZNdGl3dmd1YW1nVmc0LXFoNkxKY3JHd2JBRTZ2TVZYWUlfVjNrNEY2ekhFOWkwcUdVMmlzMlN5bTYxQk1LRUd4ZTIwellNeEZtenJ2UWE3OTJHVEJR0gHAAUFVX3lxTE5ibjBpR0h1U28wUk1KZ0lqQ1h0OTJiZFE2MWRYMktzUFFTby12LUFrVDRsZkVTQ3VjVElQbzlpeWVPR0ZlV3dVcXJuX0w0dWs0djNXSFNFWmhmeHJPYjFUNV80b1IzdkxYcm9lREs5WGx5eWZhTHRZcVdqZktyTUVxVmt0Z01KS1VtS25pT2NnNWhlSW4xcWItSmVxcHMydDEtelNaZDZmM2hLeVZGZ0djZmFpbEVxVmRJaGRaQzdubA?oc=5",
-    "fonte": "investnews.com.br",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "3e7ab6d3d2a38f81a37cda1b3d23186312d92871aa52a1efe772d4d2b57c24e3",
-    "ativos": [
-      "HGLG11",
-      "KNRI11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
