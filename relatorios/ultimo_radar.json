@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "titulo": "Fechamento | Ibovespa tem forte queda de 1,52%, seguindo NY, com Fed 'hawkish' e risco geopolítico - InvesTalk",
+    "resumo": "Fechamento | Ibovespa tem forte queda de 1,52%, seguindo NY, com Fed 'hawkish' e risco geopolítico InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0ZXZrdDJjVWhYVC03UXEtOG9yWjR0MXFaZFFZTlc5Uy1xbXdXU1RhaEZEanl0QjZpLW9zQUdlci1CYWZCc3c3dUtaeDFjVU9TNnhwU2pqdkt3V3VXelNwYU9nRjVEZWJqcUhRZ3hEQ1p2TGNoRWc?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "97f9664df359e0cb56b8c3faddbdeb059be9da8346cbb7d16a7db34d7438879f",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Wall Street fecha com forte queda após decisão do Fed sobre taxas de juros - CNN Brasil",
+    "resumo": "Wall Street fecha com forte queda após decisão do Fed sobre taxas de juros CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmowaEJlMTZCUGg0R3JCQ0tlNG1jMllsVy1iRGJRX0pOYTk3STRIT3M1X2czRVpxN1BpWUNSZXhJMkFxWVMtQWIwTkdSaXdpU0p1Rml3c1B5Ty1jRTZCMF82NTExeGJfZ0xTazdGVFBQR3FrbW4zRVY3WTZWRkZ2N3ZLVlYzOURsWDhIU2VsOVNrTnlYYmpBMlJMbnEzNjlZRjU3VEdfUldQbG50dVBfUWtGYl9Fa1dESi1Ub0x3?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "b48e84605900bcf6606e24524626abf92d88546ffe96b0e3f3982ef06527b7b7",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "FIIs de lajes corporativas: aluguel bate recorde em SP e vacância pode cair a 8% em 2027 - investnews.com.br",
+    "resumo": "FIIs de lajes corporativas: aluguel bate recorde em SP e vacância pode cair a 8% em 2027 investnews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbWZoR1dPZF9JeUpuZnBUQm5LaUVlbWtGVE1hSF9sa0JoRzg0MjVKWGVsVGFPUWtzdVIwQUdpQXZybFlTbzVzYU1sU2dwbWFvd2JvRjhoUWlpc3IzN3ZrcktLZW1OOTZNdGl3dmd1YW1nVmc0LXFoNkxKY3JHd2JBRTZ2TVZYWUlfVjNrNEY2ekhFOWkwcUdVMmlzMlN5bTYxQk1LRUd4ZTIwellNeEZtenJ2UWE3OTJHVEJR0gHAAUFVX3lxTE5ibjBpR0h1U28wUk1KZ0lqQ1h0OTJiZFE2MWRYMktzUFFTby12LUFrVDRsZkVTQ3VjVElQbzlpeWVPR0ZlV3dVcXJuX0w0dWs0djNXSFNFWmhmeHJPYjFUNV80b1IzdkxYcm9lREs5WGx5eWZhTHRZcVdqZktyTUVxVmt0Z01KS1VtS25pT2NnNWhlSW4xcWItSmVxcHMydDEtelNaZDZmM2hLeVZGZ0djZmFpbEVxVmRJaGRaQzdubA?oc=5",
+    "fonte": "investnews.com.br",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "3e7ab6d3d2a38f81a37cda1b3d23186312d92871aa52a1efe772d4d2b57c24e3",
+    "ativos": [
+      "HGLG11",
+      "KNRI11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
