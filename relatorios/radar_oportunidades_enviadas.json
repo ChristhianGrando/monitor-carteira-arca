@@ -1,96 +1,5 @@
 [
   {
-    "data_envio": "2026-06-22 12:26:31",
-    "chave": "6f5e4fcb31a647e2edc8c7fc8419537bf30bd324a4aa827ab8cdc60f77f494b8",
-    "titulo": "Mercado eleva projeção de alta do IPCA em 2026 de 5,30% para 5,33%, aponta Focus - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEEybWQ2dTZUV0xoT1JuUWtGNDBxWkhnYzRULXlNZ01fMnZVRjBBVVZCRjQyRVVXZGkzNlZMbEhlOWowWXMwYzF6TFRMbHd5V2U4R013d05uM25qaFlVUXdUdlN5OWJWWEdreXNwYmpnejU0enhHZjFCNTlwVjRla2k2aDBCeEtpVmd0LVFOOHNleGpPUGFLWUR5UjFoRGF6dGVqcnlWNmZ1SkluU2F2VjltQXA1SlRMMjlMYVVrdUViNEMxN2pVSmg0TkdkU1JzZGtESXFzR05WaE41b3fSAewBQVVfeXFMTnJSUmNWWTFPXzNhMUhycEZpZmdRWkxWdGpPaEpFWGhVMlM2SnRhMDJpTC1qOHFwVVpwVFhXanB1RnljOTR5UEVtdE1xaFdZaDFYNXEyT0hZdE5ZVjVYaDNiSkxZSDVENndHREFGSUstakZsTGV6eUxJQktEUGt3YTZMSy03a1JNWExkZ0ppaWRQU25yRkRRX05IalhqODlXMl9JVml1U3lIOVowOWpZOF9JRkRhMnpaRzlUTUR4TW9XMTRsMXV5UHBzc3NnVVp6THNNTHJIZWVia25OSnN1OFhNTzcyeU5Qdm04aE0?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-22 12:26:31",
-    "chave": "8f68496807b7a1b1def6d7576a673f3de482e37a5e256798010bc3ab59db0bf6",
-    "titulo": "Mercado sobe previsão para juros e vê Selic em 14% no fim de 2026 - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnJBaHVHYjZVcFVVdTYxQ0RDZTU4dUE4WkZueC16SUJ4RHJBUXE4SUYyT21Jb3lvYjBmSTUtZ3pJcFRRclp4dGxkbk91MlhCSXpaUmRtVHV2LVByaU5rSGNzOHJfaWZQZkp6cmpMRUZfVUtFN1JoMlZDZ0REamYzcDVUcU9RNHpSdnlBUmNSVmtOWVZwbU5GZkZOVXpkRVh6di1INWdYUEh6eDk0VjhKQmJoVlRQcVRf?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-22 12:26:31",
-    "chave": "7feea7a0655d5614f2ed17f29178f1a76d6bba18823d073785f1b2d0e3d81963",
-    "titulo": "SpaceX cai após KeyBanc alertar para valuation elevado e riscos de execução - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmgtUWhRWjdvN00yM3REZ2cwd3V0bFp1MWthYWNqdlJhNzRjMnZQSWVqWkVSNGp4RHY5NUtrYi1DT0dlMWZOY2lGRkE3bFFKa2wzUm1CZjZnLTF6bmNnbDhiYXplbzc0eGJRT2NBNld1dU9CcTdLbndTNlBHclpwSUFJSnFlUQ?oc=5",
-    "fonte": "ADVFN",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-06-22 12:26:31",
-    "chave": "badbcf6a11304b44afcbdaf7721dc5859b0073cb5444d6f88c608d2496576d6d",
-    "titulo": "Boletim Focus eleva projeções de inflação e Selic para 14% em 2026 - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmNleXFSQV8yR2Q3ZWE4SXVZSm1mYVJJbThGU1I3bUt5c3NWeld1b0ZGOVhRNjhEbHgzSEY4MHMydUpUVHRtUDBocmw1V3pvS3A3RmROcWczbGRnSHYwMHd3TlMwVk95a2lKallxa3V1ZDNqVm1FcU1mMVYwMzk1N3ZaNGp1UFlBeXBNWFMweXNNc0hKWmw5Vmg0WHdnclQ3dVp6ZlJHWdIBrAFBVV95cUxNdU9RZE9zLVg4ME0tb0R4LUhNMDB0NEZmMy1SSnpfaS1qcHNGV3ZlcnVTT0FRcGo1bEdyeEI0NkFsWGEzZmRPUUhzWDZqNEVlUl9CRTZIbTczZEFqY3BzVXFNT08xNUd2OVRYZ2RpNjhybk54dVRIbTRheC1ZMDV1SEg4WVV0d0p3Q1p1clZZMjVSakFRaG1mTFBlMkNIUG1nbjMxcnFWeDF1Wjd3?oc=5",
-    "fonte": "InfoMoney",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-22 17:54:10",
-    "chave": "0b15f214d55fb9aebcdfbd9018115e207307c30ff480d6edee5bfe688384c43b",
-    "titulo": "Tempo Real: Ibovespa cai à espera de Copom; dólar sobe a R$ 5,10 com sinalização de alta nos juros dos EUA ainda neste ano - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0ljbXFNWFRFME5zVTJxdFhJZlNCZHlwVGJCdW1jT2RXUl9pRWJ5WFNHZXNReGZvUEx1aWJjdGlZVDloYkMxSGtoR2tFc2pxVS1WT0NpVmVmbFpZazZwWV8yQVptYTFIejRyVm4xUWF1ZUFjczd5TWZoVWV2dDdCVzhsekhsZVdJemk4MkxhZ0dyNFpRRVdSN1ZlQUNmQQ?oc=5",
-    "fonte": "Money Times",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-06-22 17:54:10",
     "chave": "f4ca183f0fa3a4549c0bc14600c10965b4df257569ecf7da5f242db325462787",
     "titulo": "Queda da Selic traz alívio limitado e atenção ao cenário da inflação | - Sindilojas-SP",
@@ -17111,6 +17020,97 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-07-30 20:34:39",
+    "chave": "62ff3e8ec4596580370cda0f7b27c57746665dea195787a2048647f1fcdf0e33",
+    "titulo": "Ibovespa avança com maior apetite global por risco; dólar cai - Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWRVemtJVzZJQkFvMFNCR2lKa0pTaTJnckttcWc5MmpVcGZiQUxEd3h6M08yOTdKWDZ1RFkwclZJVWkxTWdZZHA4ZUsyVlNHWVpHeENQSGU1bmlkd1pCQ3RhV0tlOXJIMUVueU8wNWNxVVJ0U2U4bWE1R1pQc2ZfcXZYb2xfSGpuS29Pa1NWRXVtMlNyTkRXcVRyVmY5MURUX3dSclFXNnA2ZFhIUTZ1VU1DYlJOdzlId2dpM2FPZFBlOFpzWUdKYU9EYVF4VXhNVjJkLdIB4wFBVV95cUxQN0hGR1I3dEZ1VHg4LXlsSHZTLVpRWVd1NEhCOHNiUTlXVWNKYndIVnFOd1o1clNJZHF5UnBGUkQzeGxXYllZOW9XU2plWTNwZTJpTnptN3M1REkzajNKdmJ3NlFVNWw1OGFOcGUwNlpjdjN3RklwaHZWSjRERzZSd3gxZTF2WDlqdkp1VkN2NjludXNLdEhLTUwwVHhnM0pUNnlaSzNUVDlyVXozaENvb09SSEFlY1hJbHlocXN5alJKcHEzTklkVkR6T3RDTXRfREtjSTdHN0wzNDJHRjliSXRjRQ?oc=5",
+    "fonte": "Valor Investe",
+    "score": 15,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-07-30 20:34:39",
+    "chave": "2b0c130ab075c09bebf17407d3ba0ec343771cd6b408ff8553cf9df107b15da9",
+    "titulo": "Selic em queda pode destravar o PVBI11: fundo negocia abaixo do valor patrimonial - arevista.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjBMWnRZTjhFWEE4WVpXVTkxc0k0R2tqdWphNDNkYWl2WHh2VmNMbDdIVThJLWhpajNUcnRYM010SkluSm9XckxmTDJuMFA5bVB1MUpzWUFvZHRwWnNEb2QweXZiRG5uUzNlTENlZ2FmMjV1Z0NPTngxSEhnWVhnTnVlY2UwS2RodXRLWnhvWXB2cWh5VWdnVzhncGlMZ1N2bVZOSFRMTl9FZFF4QXln?oc=5",
+    "fonte": "arevista.com.br",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-07-30 20:34:39",
+    "chave": "c5ca80b108c2f01db22e9224824d7517a1dad2790158ea9c9ce71b7ee8893e2b",
+    "titulo": "IPCA-15: a desinflação está de volta? - TrendsCE",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTE3NUpNRmRKMGRDbXJ5YjdDVWUyb09WcDNiMHBQVU52U2ZMcklLZzJ1TVdGSkFqT1dfaU9Ld3lHQnZWekVqM0p4NXVZVE1NcTFtMW00RUI1Z25sZ0xNeElvdnJ4ZnhocUlORkxQVWhlX2VRU3Z3RjF0LWg4cDdwag?oc=5",
+    "fonte": "TrendsCE",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-07-30 20:34:39",
+    "chave": "9bf310d52503e323e5ae4f2112dc1aa5528046837283020f38f9b28693f2837c",
+    "titulo": "Com a Selic (ainda) em 15%, vale a pena investir em fundos imobiliários? - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemlyMDZEaXZicnpadElfaWVEZFJockRCOWJPdXdoZXpuMzkzcURWOVVKeWh5WnFkNnpfTGd6dE9iQjQzN0VPSGdCQ041YkluSGFvZmNEek1qM2dYU0pKZWI4X2N1VlRpN0F5czNVZjllN0JFc1kyb1lubW1jNXNWek1lT0dvSzUxbU95NE1mVlU4R2pndG05LVdjenAtcDc1YVVsZ3Ntc3AwZ3FSZmZVQ9IBtgFBVV95cUxNS0RBOHJjY2ExUDdoQ1diN1VjaWVnMk8zX290TW9FZ3lZU1dxT25XMmFidDZIaGtBczBMR1J5ZzlBV0pISU1jY1BZcHdfc0t0dkVXVV9pNGFiSUhBZG5qOXEzMVVJb1VvMkFzWlc5enI2MGVrZkMzb1RMcGNIUDZDX2t2Ul9wa0tyZ0RBY2lQVEZRcjU2ZDJ3REVaTEx4LTZBVlFOWkdiWTluNDVpOUxMRXZNdG9ZUQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-07-30 20:34:39",
+    "chave": "bdee6824e454d5382d7caada62497254db79d77d18ced46cc5dd6c60f03d4f70",
+    "titulo": "Ex-diretor do Banco Central critica acomodação com crescimento de 2% do PIB - veja.abril.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGw1QXBvY0M2YTlpLWdSZkE4NktmM19ERDdLWHh3VUhOR1NWaTU4S0YxNUtjQTF2a3pJbXdiSGlXdjFUT1RCYmE4MS1wLS1TYlVuMkw4bkdTV1BSSjBRY0ZzRUJJbUxWeVBqdFpJczVfVGZMU3o2dS1LTUF4X2ZvazhVNXJ3Nmc5QjBNNFM0dXNpN2wzSnhlajhocHh0dmxxeDQyelJWd3NJU0tNZUZr?oc=5",
+    "fonte": "veja.abril.com.br",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
