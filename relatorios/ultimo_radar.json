@@ -1,20 +1,20 @@
 [
   {
-    "titulo": "Ibovespa acompanha alta no exterior após dado de inflação nos EUA - Exame",
-    "resumo": "Ibovespa acompanha alta no exterior após dado de inflação nos EUA Exame",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1RkdTFWTXNUamZfeVhYaEZId2g2Y2dUTjh6QWVJclhzajVETVlaQnUzN2IyWERkcnRFOTE1VmJBNGtCOUg5a1R2Wnh3aU81dUxtTF9fTkR2a0RiZ09NT2g2TEliUkRXdWZSQVdEdExEMndsa0VOYlJHeG1xUnp3VnR3TFVOLWNQVlR5YjJDM3dKQVNtU0ZDY3hCeHREYjlNS3c?oc=5",
-    "fonte": "Exame",
+    "titulo": "FIIs de “papel” têm retorno de até 17% em um ano; Selic pode mudar o jogo? - InfoMoney",
+    "resumo": "FIIs de “papel” têm retorno de até 17% em um ano; Selic pode mudar o jogo? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVpqQ0ZETGJhWG9GOVprVHhGaG96UllMN3pzM2ZEcG5vQzltaE5VYkNDMGl4WWxDYVRVVjljRWowNWJVTnBobFB3Q0RUbHM4enp5UDdWeWVYaUp2Y1QyRS1PYmx1a0xtbzJYdlJibXZmRGI0R1V5cW5pS2pTcXNzb3A3U2x5X2NqbDhyMXJRY1BtSG9MZ2VGWWRSMkl5LW5GdGE2c0hmQ0dZWEMyYnh2OTVpVGhnZWdLS01mc25QVm1rYmfSAcgBQVVfeXFMTnhoNHRKNGphUEY4SW9keGRSYkpZTFpXZDF0cHJ5eDIwdVdsWHRIM3dFUG1ERngwblFvTm9BbVJnMzVlTVh1RzFENkJLMVhuNjJGY0hRWjlUSnVlNmRJeDJ5ZHRMeUFjYmJ6RTJjR0ctTUtvQXdPQ0hxUW1QZ09ZLU9TaXNMMkxkLVV0ZC1uS0gxVF80dk40LWhfQVdnVGxXZ3FYSlF2RHJpRm1LZTZkMEZuREl0R2p0OUZvMm5mZ2V4Rk5QVXN1dlM?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a0da02a79d52338237cd829bc0d9f0782e413b9eaba8520ec649acd54771e057",
+    "chave": "a7c012ff9f7eea0bf0086d1533425018c948bb421f6d88ca81f27576c2740b9a",
     "ativos": [
       "IBOB11",
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
     "score": 12,
     "motivos": [
@@ -26,97 +26,48 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Tempo Real: Ibovespa recua e destoa de Wall Street digerindo comunicado do Copom; dólar avança a R$ 5,17 - Money Times",
-    "resumo": "Tempo Real: Ibovespa recua e destoa de Wall Street digerindo comunicado do Copom; dólar avança a R$ 5,17 Money Times",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1U2Q1V4cXlTR2R5X2hFMkp3d2tfNFlFblBNTVpSNlY4Tk5vNDZ0YkdoWFhmbHhKNnFVUW1OTVljbm1xQ2JZUGxaTVRHUk1HZ0d5d1c5a3AyLVBtMFhxOFU4Ul82TnYtaGlwdGV0OGpCZ09Qc05ibjRHSjNUWjZyY0haU3hhTy1iR2VrcjdYZkdSX1FnWDhCZXByZ2M1UQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
-    "chave": "98780c0c2fe3fe2b289744dfd2a303c4f53c34e6bb462cf6fdd53a91b5ac1c64",
+    "titulo": "Ibovespa sobe em linha com exterior após queda da véspera; dólar recua a R$ 5,07 - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa sobe em linha com exterior após queda da véspera; dólar recua a R$ 5,07 Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGVPN1c2bGcwMlcwV2U0aDY3SU9DNWNfLXVIRXg3VF9RSE9Zcm8zanpjYnpHWGpDdHpDZXVNZlh2c1l3MjBNb0J3ZUoxeThIOGFUSEtkUThnQXNnTjJvbUJGek5OUkRqYUZ5RTU2NFRsejZZekxDeVFTc2ZtbWtfaW9CTzR1UndZNGw3YjBXYmNkLUZDRlR0M0RMTlRZdWVDcGRsbFJWQlR6R0xUcml1cERhWGxoN09DTjVNSExR0gHSAUFVX3lxTFA1Vi1QN3hmVWw1UEo0UFduR0Z1S0xhZ3FmWk96OTYzVmx5U3NtUVdwSmR2SHEwWDZZMG1lcXRTU0Vvc0tzTXY3WHU5RHZ5Q2YxXzVKSjFFSzV0MkpraGE2NnJ6NGxxTFZzOGgyVTBwSGlVaGxwU0JuZWVCb09KYXlRQ3hzOC1rZ3pxamcwSzRaTEI0bzMtNnlMZmVmNnZjTV9WWXNEVVJ0QS12VmdUOXd1ZGVJZExpSXNBTHh6RnN1bjdjYURqU3VLN0lSSzVDX191dw?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "bcb803fae482c2ddf9eb12653046d1eeb6ef0ef2bde2f74c15f9818a7de2b9d7",
     "ativos": [
       "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dow Jones hoje: bolsas de NY reagem a inflação, PIB e balanços após decisão de juros do Fed - Estadão",
-    "resumo": "Dow Jones hoje: bolsas de NY reagem a inflação, PIB e balanços após decisão de juros do Fed Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObUtSSmJud2tvMFprZjhydEdzMjVPUkEtc0NKMGpOX0dTaGlkSDVEdkROZnpkM01fcERnOHdnUzV2MHhuWkpXRFVYT0dYUFF6dGRxWWx0UkpWTG5manJUcWl3OWY4OU9mbTJjT0cwUE5WR2ZiT19EeGtUakFsU3I0U0FNNHNrbzVRWS1nM2FIQjNJbG93YlJlNVQ0bnctRmw0cXB2OHJYbldrbWtrdnppSUxZbmFHc0JHTU5qX3huc0pSeklwWWdsMXRnaWt5dlloUWZXMmljSFo5M1BIM1AxaXpR0gHnAUFVX3lxTFAtT2JHV0k1MDgxNi1zZHNzVmV6SFdCbVVmd2lmb3otRGEzUHgyVm40YmxPdk9nMmhpcEUwT1dhUS1NWFpFOXhrMXJ1bFRaQ3lFMVV6VTNjZHc3aDlySFp4bUdob0lGQ1VmZXR6ekVoZkszWHpPNVM3Nk1RWlBXZFNrOWNySTVZUzVXWlhrVDdGOG94OFRrc0RYRUZLTU1HT0FNQnNKWnk2YVlvMmpDNW9QRVdWdWEyaWNBYmZBYTVaemZQWmJxcGxrTGRBekltTnRxdUNTTm5jenM5dkk4WkRXeXF2NGZVUQ?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "6fcdba20db02ac2011dc1612a0678f35f3bedf275e14e3b47795951db9d6736f",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central - Estadão",
-    "resumo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central Estadão",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGt5WWF2NmlvdTVxQVJmVzFCX0lhYzVQcWxaRmZhdHk0VTNSMWhKVnRVdWZvbTBfbUp5dkRDYnNOQzF3RkRzbmVoUDlTOFpOeDhJNGFDMW16MWxXNlJqeXVEZXBhNWJMYjFUTmNYM0lqSm0tUTBmV1BZcWJHa1kyb1VNOVEydmZVRGgxZEJ2NDTSAZYBQVVfeXFMT1UyQTZqVkY2MTc4ak1NMURxVEl5QWVHckU4UjNPTi0zcUNydUhWcUhGenBGZ0ozMkxGX2N6d0ZmcXVhc215SzZtZHk4M2ppejVHemt5RFd3WjlKVE5VSDVSXzM3NlRVZW5adkQtakUwdDRodDVjTC1FOWNMLTRLam9RUmdkNEVhTXJTSGJvM3Rvb1FuMDdR?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5fd78b4235b3001d9494832ac34492db45effd17663639d4e3659c71708dcb61",
+    "titulo": "Ibovespa avança com maior apetite global por risco; Vale sobe 0,7% antes de balanço - Valor Econômico",
+    "resumo": "Ibovespa avança com maior apetite global por risco; Vale sobe 0,7% antes de balanço Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGxScE5aeG5VLWRHbERMQTFoT2xybXBOZk9vWTdjd3hoRGVWNmFjR04zM214QUI3SjdrQk5GaHItYXluZHhSX0NPdElkRl9rWVY1aHdndFdJU3lXbUYybmM1SzNUbjFFMFVReG1NbmdneTZ6VjRIZkpGV0RmUy1TRWVVYjV2bFNubjYwVWVFS1h4eDdCYTZfelpub09LbjA5TEg4Q1BaN3lSMDUxQWRJMDVMUk1yTjN1c1VxRDJ5VHZmRXBRWmdRaFdLMldfWTRhZExKeUxWWjB0R2tzc2h2OHBoVmlRUmR5Qm9iStIB7AFBVV95cUxPaGxScE5aeG5VLWRHbERMQTFoT2xybXBOZk9vWTdjd3hoRGVWNmFjR04zM214QUI3SjdrQk5GaHItYXluZHhSX0NPdElkRl9rWVY1aHdndFdJU3lXbUYybmM1SzNUbjFFMFVReG1NbmdneTZ6VjRIZkpGV0RmUy1TRWVVYjV2bFNubjYwVWVFS1h4eDdCYTZfelpub09LbjA5TEg4Q1BaN3lSMDUxQWRJMDVMUk1yTjN1c1VxRDJ5VHZmRXBRWmdRaFdLMldfWTRhZExKeUxWWjB0R2tzc2h2OHBoVmlRUmR5Qm9iSg?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "46014ac0edfb2abb7c7418c752077877b9b04b28c1685e61e195f1dc436f2759",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central avalia cenário de liquidação do BRB após novo pedido de adiamento do balanço - Vero Notícias",
-    "resumo": "Banco Central avalia cenário de liquidação do BRB após novo pedido de adiamento do balanço Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUJ3Ti1zNVo1Rl9sbHpteG5oenhJbzZMMUtVZXMwVTlha0hXclp6WE9nVEdUNHpSazBuajlKejJWa0l2YzZQTEU2NXhPLWFBTlFDZVBHTXZTOHdLYUgwTUF1RzRXd2tZOUVqNnoxXzhFUzBLYmRmTUdKdXFyd21lamRuWFZOOTV0ZjVnVkZQSzFleVFZR3g1cFlqN2dRNl9KWUdtUG1zVkJWOU1BVGYySTNnc25nNFpkczc5aGxyUU4yekk?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "c4c57ed0f903a31ad7dd05e8b924a7a5e1c14677ae5fd0aa257862e120b8656e",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
