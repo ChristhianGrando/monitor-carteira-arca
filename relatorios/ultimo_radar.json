@@ -1,64 +1,69 @@
 [
   {
-    "titulo": "Banco Central Europeu amplia fator climático para empréstimos e reforça proteção contra riscos da transição verde - Valor Econômico",
-    "resumo": "Banco Central Europeu amplia fator climático para empréstimos e reforça proteção contra riscos da transição verde Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTDNrZGc1X3JzZGxJdkhkdHppazJ3ODVSZGU0X2djQktJOW4tUmNySUNtWUVITlhRTEJwRzYtSDZrc1BPRDZYbUVzRVNsRHRzUW1VQVprWVdxZFlsM3lvZnpLUXhRNmprVFpLZXJwYzRYWkJvNVA5b1NHMjdkNlFuZ3hicG5SNXdwRE50OGk0UjN2Z1VJWUZ1RE5GWktlYXE4ZnFjR1B2dV9WOHdpcnl5QnJLNFprU2Z0UHJTVU5tR0M0cTVOTjdPSmlYRFBvRFA1VVFMSGlUNFRYaUQ4NkVpU2RHUDkxa0F3RWpULUE2b053emMtZW5PLUg4alRGWXBLck1fSzBR0gGUAkFVX3lxTFBnMDhnRGZjX1M2ZEw4b0JZZ0JHdkd0cmJ2dXQ0SkdaWlNUUFd0RUpJUF9HNlV1TnFiT205bWFuX1dxTF84ZFVER3VtbU1OemQ1WHAyRkxURkFGOWJYcXZxRXhKVV9HWERjUE82N1NIbDlUeENUbEF3UFdCamFVVnRUN2QxNEx0SjM1d0FsWk9scnJVMnVNN0g2SHNlNFo5ZjFIVUVXZTJ1Nm1yRlNucDdOcmFfc1hJOGVEc2FSTEFkT1NoZF9TVGpuUjRLZWlvc1NDd1d3ZWhoM3pacHlnR3NwekNvZ2FjWEJKX2hHaEFibURpQ3BvY3pUWnJnR2M5UWpkS3gwb3J4NFg4RG1DelBqUV9qZw?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0bd3ab37f4bcec34d8da005a9989a61b11f8f8f92c5df4d83a321a395a087f6f",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Tempo Real: Ibovespa tem leve queda com Oriente Médio no radar; dólar cai e fecha abaixo de R$ 5 - moneytimes.com.br",
-    "resumo": "Tempo Real: Ibovespa tem leve queda com Oriente Médio no radar; dólar cai e fecha abaixo de R$ 5 moneytimes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0p4Ri1VUjNhcjR2Q0NhTTk4V3g3ODdMVVhJZ3FERi03aGtJWmIxWGFXd3lMZGVUbE56WHlZUlVIcUVKMEF0NlBWZDRvMk1qUjZ1M203V1h2cGJ4LWVEYnhwRnRLQkkyYm9sd3hKVnpobG9nQW1sQVpyTElnWmZHU0Z1bTdkN2M0MUdfM2trMlFSTW4zMUppcUllZkNVQQ?oc=5",
-    "fonte": "moneytimes.com.br",
-    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
-    "chave": "d833a792e60417bea2e0dfb9b3c2c45f41c7466b5e33f221c34127ab7f6e72c6",
+    "titulo": "Ibovespa acompanha alta no exterior após dado de inflação nos EUA - Exame",
+    "resumo": "Ibovespa acompanha alta no exterior após dado de inflação nos EUA Exame",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1RkdTFWTXNUamZfeVhYaEZId2g2Y2dUTjh6QWVJclhzajVETVlaQnUzN2IyWERkcnRFOTE1VmJBNGtCOUg5a1R2Wnh3aU81dUxtTF9fTkR2a0RiZ09NT2g2TEliUkRXdWZSQVdEdExEMndsa0VOYlJHeG1xUnp3VnR3TFVOLWNQVlR5YjJDM3dKQVNtU0ZDY3hCeHREYjlNS3c?oc=5",
+    "fonte": "Exame",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a0da02a79d52338237cd829bc0d9f0782e413b9eaba8520ec649acd54771e057",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "WRLD11",
+      "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "O que os resultados do desemprego e da inflação sinalizam para o Copom - PlatôBR",
-    "resumo": "O que os resultados do desemprego e da inflação sinalizam para o Copom PlatôBR",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXV3bTBvZWQ1aHVmVkloTXA1LTBwQkVuLW50UU9oX2QxUHNQTkc3b3FDRW03OFlJXzFCMXRRbXgtRDdhQS1RSnlRNlc1VFUzWWMyYzBaQXVhektSTGNKZlRVcVJoRXJyaGdwS3cwQTJBT3FyelVMN1ZsZ1hJcHhMSUZhNWJlYTJoVi1oUVg1SjllNHpYb3ZmUw?oc=5",
-    "fonte": "PlatôBR",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1d3bd5cfb1b3ec5fdfad2b18aa6512fc93c5f68c4c9fe4adf32047e84ff7a61c",
+    "titulo": "Tempo Real: Ibovespa recua e destoa de Wall Street digerindo comunicado do Copom; dólar avança a R$ 5,17 - Money Times",
+    "resumo": "Tempo Real: Ibovespa recua e destoa de Wall Street digerindo comunicado do Copom; dólar avança a R$ 5,17 Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1U2Q1V4cXlTR2R5X2hFMkp3d2tfNFlFblBNTVpSNlY4Tk5vNDZ0YkdoWFhmbHhKNnFVUW1OTVljbm1xQ2JZUGxaTVRHUk1HZ0d5d1c5a3AyLVBtMFhxOFU4Ul82TnYtaGlwdGV0OGpCZ09Qc05ibjRHSjNUWjZyY0haU3hhTy1iR2VrcjdYZkdSX1FnWDhCZXByZ2M1UQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
+    "chave": "98780c0c2fe3fe2b289744dfd2a303c4f53c34e6bb462cf6fdd53a91b5ac1c64",
     "ativos": [
       "IBOB11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dow Jones hoje: bolsas de NY reagem a inflação, PIB e balanços após decisão de juros do Fed - Estadão",
+    "resumo": "Dow Jones hoje: bolsas de NY reagem a inflação, PIB e balanços após decisão de juros do Fed Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObUtSSmJud2tvMFprZjhydEdzMjVPUkEtc0NKMGpOX0dTaGlkSDVEdkROZnpkM01fcERnOHdnUzV2MHhuWkpXRFVYT0dYUFF6dGRxWWx0UkpWTG5manJUcWl3OWY4OU9mbTJjT0cwUE5WR2ZiT19EeGtUakFsU3I0U0FNNHNrbzVRWS1nM2FIQjNJbG93YlJlNVQ0bnctRmw0cXB2OHJYbldrbWtrdnppSUxZbmFHc0JHTU5qX3huc0pSeklwWWdsMXRnaWt5dlloUWZXMmljSFo5M1BIM1AxaXpR0gHnAUFVX3lxTFAtT2JHV0k1MDgxNi1zZHNzVmV6SFdCbVVmd2lmb3otRGEzUHgyVm40YmxPdk9nMmhpcEUwT1dhUS1NWFpFOXhrMXJ1bFRaQ3lFMVV6VTNjZHc3aDlySFp4bUdob0lGQ1VmZXR6ekVoZkszWHpPNVM3Nk1RWlBXZFNrOWNySTVZUzVXWlhrVDdGOG94OFRrc0RYRUZLTU1HT0FNQnNKWnk2YVlvMmpDNW9QRVdWdWEyaWNBYmZBYTVaemZQWmJxcGxrTGRBekltTnRxdUNTTm5jenM5dkk4WkRXeXF2NGZVUQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "6fcdba20db02ac2011dc1612a0678f35f3bedf275e14e3b47795951db9d6736f",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
     "score": 11,
@@ -71,12 +76,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central avalia cenário de liquidação do BRB após novo pedido de adiamento do balanço - Vero Notícias",
-    "resumo": "Banco Central avalia cenário de liquidação do BRB após novo pedido de adiamento do balanço Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWFFS3BmU1duNE42SS1VYl9YMVVqaERCdUJ1VVdGemZsS2g5akxrNV9TVDV3OW9QdW5EN0N1V21mTW15aXVYeUpIcXlWRzF1ZVV6cjNJbnluTjVqQU5zTVFkT0hwWXdzdjFvZFZYSFNHXzJOeTZ1T2hPUF9MaGl5WjhHbFpRVTZSYTN6TVM5TGlrR3pYbm1LYUJqdkoyNnNaUWI5bHowa3pUN0dGdk1RZ3A2OHFjUEZLRzUySW40R1FHaXM?oc=5",
-    "fonte": "Vero Notícias",
+    "titulo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central - Estadão",
+    "resumo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central Estadão",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGt5WWF2NmlvdTVxQVJmVzFCX0lhYzVQcWxaRmZhdHk0VTNSMWhKVnRVdWZvbTBfbUp5dkRDYnNOQzF3RkRzbmVoUDlTOFpOeDhJNGFDMW16MWxXNlJqeXVEZXBhNWJMYjFUTmNYM0lqSm0tUTBmV1BZcWJHa1kyb1VNOVEydmZVRGgxZEJ2NDTSAZYBQVVfeXFMT1UyQTZqVkY2MTc4ak1NMURxVEl5QWVHckU4UjNPTi0zcUNydUhWcUhGenBGZ0ozMkxGX2N6d0ZmcXVhc215SzZtZHk4M2ppejVHemt5RFd3WjlKVE5VSDVSXzM3NlRVZW5adkQtakUwdDRodDVjTC1FOWNMLTRLam9RUmdkNEVhTXJTSGJvM3Rvb1FuMDdR?oc=5",
+    "fonte": "Estadão",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "beb46037ce4426b91048ec8a53a20d272958082a43e468c1dd4de6b30d75562e",
+    "chave": "5fd78b4235b3001d9494832ac34492db45effd17663639d4e3659c71708dcb61",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -93,24 +98,25 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Inadimplência segue em patamar recorde em junho apesar do Desenrola, diz BC - CNN Brasil",
-    "resumo": "Inadimplência segue em patamar recorde em junho apesar do Desenrola, diz BC CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2c1VllMRkczOThGMGExNHVsUEFIWXo3XzNxNy1DY3R6TnZFM2dRX3FNbzNLeFZDUFFabFY2QXhwQ0VNaktkd2N5QnJKWUhUbm9TWS14M0ItM21tRUtDaXdYdmVxX2hPTkNxVTFXTWMwbzdnQm1laFE2OEJ0VTFPdW5FZnZqQ2JXNXBTS3VfU2FMeUxSUTZuOHFKRlhiR2w5b1FNUUd1RnBRWWk0LVFZYzdkZFUyMHVMeWNFZXNkRkVPSXUxUUE?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Banco Central avalia cenário de liquidação do BRB após novo pedido de adiamento do balanço - Vero Notícias",
+    "resumo": "Banco Central avalia cenário de liquidação do BRB após novo pedido de adiamento do balanço Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUJ3Ti1zNVo1Rl9sbHpteG5oenhJbzZMMUtVZXMwVTlha0hXclp6WE9nVEdUNHpSazBuajlKejJWa0l2YzZQTEU2NXhPLWFBTlFDZVBHTXZTOHdLYUgwTUF1RzRXd2tZOUVqNnoxXzhFUzBLYmRmTUdKdXFyd21lamRuWFZOOTV0ZjVnVkZQSzFleVFZR3g1cFlqN2dRNl9KWUdtUG1zVkJWOU1BVGYySTNnc25nNFpkczc5aGxyUU4yekk?oc=5",
+    "fonte": "Vero Notícias",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4a26cbd0e0145d76e2bdbba14e96a519efba3c710b59543fe4f3268f2d63e4c4",
+    "chave": "c4c57ed0f903a31ad7dd05e8b924a7a5e1c14677ae5fd0aa257862e120b8656e",
     "ativos": [
-      "KNCR11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
