@@ -1,63 +1,61 @@
 [
   {
-    "titulo": "Sob comando de Guillen, Itaú espera mais dois cortes na Selic neste ano - Valor Econômico",
-    "resumo": "Sob comando de Guillen, Itaú espera mais dois cortes na Selic neste ano Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYnZQeHdKUmt5cnFZNXE2d1VXTGpxRER2LThtcHhuWFJ4R1dBdnVWUml1dkFWZDJqX0NnLTdFVU5fbE1pTGhfQnBrUzB0bUQ1aFpVaWJfRzgxOXZUYUNZYUpNMVdoTkUyOGh3b2NjNmRfbGVORHpTSjdwaXZJXzNXdWN1VjlKVGpMM3ZFZ2NULVJZamw4SXNid214Tndnb2t6enROczFiLWNYd3Z6TFlpWXZRMUpjS21pS3fSAcgBQVVfeXFMTmpYaGlYZHdudFYzLVd3emNfbjJwNHRBTkh5ZXZCRXVYUVdfNVlPTUszcG9qN2RwTGxEMHZNMDJxVFU0Y0x4cVVGNnpGSnBlM1M2Z1FkQXQ1S3BBZTBuOGFxZm1Mb0NIWGlUUFNXZFRRNFBISVZQbUhGaTQwbkd4ZkdiNE5lenVMS1o0Y2N1SnhxVWc0RHRidUIwVFBwQjVsa0xWVEJ3LUs0eS1vQldUY1U0M20ySDdSSVdSWnpLVEJvSzduV2lTNHM?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a6d11ca3a41e1cc8eb23156eacd465cc2fa77432e6c2e0a5e6ea69c51ca6164e",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "STF barra execução de R$ 492 mi contra Petrobras após TJ afastar Selic - Migalhas",
-    "resumo": "STF barra execução de R$ 492 mi contra Petrobras após TJ afastar Selic Migalhas",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWNGTkxHS0VZRWxaNkZJUjRpbmdlMW1tdDVwMk1kMmN6N0M4UGNLXzY0MjVMN2VxTXlaU3RHQjAzWGxOekxtWWN3WUFJWG5kSXZGZnljeExibWdxRVBzNzl1UWIwTXVWQzZhQ21ka0RpZjlUY2tiM1ZXMmMyNEs0a05waEFIR3RRQUdzQzg0UDJRM2FWaVNaNldPYVkzX3BRUU53aVJJZEd5RThqRFdXdWs0aWg2RmVqdzVmeTAzSGs?oc=5",
-    "fonte": "Migalhas",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8430c35ad96c4c5da0b44a39a5b8dd32dec70cc19b5f197d7c3f352224c2b4b6",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina - G1",
-    "resumo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina G1",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUNPd085cDV6ZnBPb2w2SG03LWE1Rk45TGxFWDNNMUxONWF3WlNjYmxZMTM3dzFpemMtbk9MQ2tFVmFpWEE3Y3ZmRnBJZm9UZUhEZG1FZmdXM0hrWkRPREJHU1hSS0hzRGpqVVRjdEpWMTE2di1KX192dG9xWEFnOWp3MmtsU29penVlcnhBWDExM3RJcE9uV3NsQlhvNDRzalNjRVhsWjJGU0lPQ0NSV2VRMmVVWE5iZFpRTDg3SnZBQmpPQ1JkaHRyZGxtOW9oSnfSAeABQVVfeXFMT1Jwa2hXMFRzbEVnT3FkdWxqODMweVU2Q1pERlhKVk9VVTFEd2hBQ0tNb0QzV25odC1jZUk5UXpqQmlocXJKc2VfWmlfN3lZd0VlRzZLUUwtbW5qT0g0YkpFYTFmNGdIdWJWbHVFVjk5R3VfYnAwOUNHb3RSXzlRN2dHdEJoNUNxenVPZzJjLWdjMnBZNWljR19NMXBYOVNiZ1hfOWJ2WmFyekYtSWszTVlpME00S3dUQ3dtMHNJTV9rRXk5bWg3emxJNGdFNTJ1WTM2cldfVTJHX3FjcFJVb0c?oc=5",
-    "fonte": "G1",
+    "titulo": "Copom: Natalie Victal, da SulAmérica, é “voz dissonante” e defende Selic em pausa - InfoMoney",
+    "resumo": "Copom: Natalie Victal, da SulAmérica, é “voz dissonante” e defende Selic em pausa InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWlwem9qUDlVWFY2Y01nQmk2b3NMLUxyZmgwUGFYN0dzRW9PS0hJZkRraDZwc2VRNVJGaXJZSTVpNkZiQTdXRnVtN2pGeDJab0UtXy1LcE8zX0FoUTVQR25uUUJDS05fMlhKVFpFZllMbE8yXzJ4ZWp5VTZfa0ptMFF5aGt2VG8xcnhzNW1uOUd3bVVveEHSAZsBQVVfeXFMTzV0X0UwOHRxXzNPa3UtWnRDb0JzeDNqNnhQeklJODR1RUtIbUlieWZrV1FlcC1pWkFab2Y5cUZQY2dwRVAxT0Q1UloxbWxIRWZJNEpQT0diZDJHOFgwU0hsM3BlbkhUaDFtdXRocUhDNDA3eXoyQkgxYVB6YVE0LVdDeFBZSFBEZG54aEVJNTczSjR6T3JLQ1B4ZVU?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3fc762f0393a172bfffb33ec402945505f397f9077343c6e3a3da34e34d8ddc0",
+    "chave": "b61f87e787fbb82aa96ab2f06d9631ede83ecd99013ceafbd8987ab859cfbf9b",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa fecha em alta de 1,88% e dólar comercial cai 0,93% - canalrural.com.br",
+    "resumo": "Ibovespa fecha em alta de 1,88% e dólar comercial cai 0,93% canalrural.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2xPMkRCRFhDY1JJUHVISmc1UXl2ZzJNZE5fTDNNajVTSkY4RUtuRVJ6S0I4S203ZFltZnl2MmdleGtJSkJVS2k0SWo2YzVaLXJ4R3hnZ0xrMlpTcnJlTV9STjlrVDhVSEZBbUhONDZ5dVFoYzNKSDFPMlZoc1NLb3pHd05BclBmQVB0WkxTb1VaaVBkWlFrbWZWNA?oc=5",
+    "fonte": "canalrural.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "483a15b1f3aad4b89519d2c7720bc529684778584814145996847379b9a031e0",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda - cointelegraph.com.br",
+    "resumo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda cointelegraph.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbm8tY2x2Ml92aWRJRmxUZzRKUHNrdlhDREs0cnZZYkl0Wkw5YkJvdlJkZ0lxNXpmUURnNXl0XzhQS2FkQWdDR3VKeG5lRDZzbkJGQl96RnphcnNsdnFiZExrMmVOUEdrXzliYi1UTWVNcDEzZWdJWU1OLWI0RUlLWnR3anhlX3o4Q2lBRHl3bFpBN1lVYm5MQXIxUnI?oc=5",
+    "fonte": "cointelegraph.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "998adb1b22a3eecd5129ce44bfbdbe5a69588b5acf524144ee23c4d3b298f44c",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -74,12 +72,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central - Poder360",
-    "resumo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central Poder360",
+    "titulo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central - poder360.com.br",
+    "resumo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central poder360.com.br",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGVERTZ5OWZKbWl4MnptX0FwY3J0aWFpOVNYdDFZamx6WVN2clh5QWRFNV9NYW96RzFmejByWmUyRWJWbjdJS1cwSVRvX29WMFN6Q0I4Y1BhamtQODk5dmxoWXFJVmluNzNCU2pQeXJ6bUVpZm1DTVd1NU9NcGFndTRkYkNqVW1CQXNaU0hZemo1MTJYNGYwbFFHaDFZczN2SFBB?oc=5",
-    "fonte": "Poder360",
+    "fonte": "poder360.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8543ae1fb0745850a8e0a64ae027c905589b931f457b8ac4c4eb90b63d205761",
+    "chave": "890b5f1cae0243e46ce97ee9b6f454a4e36af3894e807b388eb84936af59f30a",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -96,25 +94,24 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central - estadao.com.br",
-    "resumo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central estadao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGt5WWF2NmlvdTVxQVJmVzFCX0lhYzVQcWxaRmZhdHk0VTNSMWhKVnRVdWZvbTBfbUp5dkRDYnNOQzF3RkRzbmVoUDlTOFpOeDhJNGFDMW16MWxXNlJqeXVEZXBhNWJMYjFUTmNYM0lqSm0tUTBmV1BZcWJHa1kyb1VNOVEydmZVRGgxZEJ2NDTSAZYBQVVfeXFMT1UyQTZqVkY2MTc4ak1NMURxVEl5QWVHckU4UjNPTi0zcUNydUhWcUhGenBGZ0ozMkxGX2N6d0ZmcXVhc215SzZtZHk4M2ppejVHemt5RFd3WjlKVE5VSDVSXzM3NlRVZW5adkQtakUwdDRodDVjTC1FOWNMLTRLam9RUmdkNEVhTXJTSGJvM3Rvb1FuMDdR?oc=5",
-    "fonte": "estadao.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "418c21acd50a1e0322f18f2083ec99ac9c0694ab3c46e2c581d3496b511b88b4",
+    "titulo": "Ibovespa hoje tem abertura adiada por falha técnica na B3; Vale e Santander ficam no radar - Estadão",
+    "resumo": "Ibovespa hoje tem abertura adiada por falha técnica na B3; Vale e Santander ficam no radar Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzR6R0QxMVZCQkFqMnZNdWJ6bGx4QU00WmNJYVBnU1JZVVhsNG11VG50Zjd5R3NqbV9GYldtZ3ljWmRuakplS19icG16dWVCMTc1SnVSd1k3RTZ3OHhvcjFxY01BT2gzRVVxYkZMSDdrY0REOU92WGh0Z0t0V2RLNnVGU3lVZlFhekhiTEExV0xMQmY1eTRmMlhYRHF5aFZJWkxhbWRnUXZZT1ltSUFJMk96akJkZ0l1dHFuMlFCMkpSd3hDR2Y5c0t0ZEh2TW8zby1GUXNSenZoQVBNLWlxLdIB5gFBVV95cUxQcnpOdjd6b0tOb1dVZjdPOTZmeHBnMVZBaDQwQ3IyVjkwSzJRVklwLXlCMVN6ZTVzX0tuSVctRXRhWUQwTXJuak1RZ0NCODU3RWUwbTZmcXNicUozUVh1dGpDdHVEalRLMUgxSGZid2lDaTZuLWdkdnBXMDUtS0w4Nmw0bkM1VTR1VW5mRWxEOXA1Ui1uck1kMmxZU24wTW9TZGpsdWVQNlZMSXBSRzJDZm5jazZMbl9kRWRmNnZCLV92dkgxSUY1RDB5a3h2TDdia3B3cFJyTXFzZTYya0JieEk1NU9JQQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1d762cf37565a0f0460644f15c6f748bcd727ebf05d5946d0d65ce5d4bb5d1a8",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
