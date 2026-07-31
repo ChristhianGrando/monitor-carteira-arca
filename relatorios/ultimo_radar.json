@@ -1,37 +1,35 @@
 [
   {
-    "titulo": "Fechamento | Ibovespa tem forte alta de 1,88%, seguindo NY, após dados de inflação nos EUA - InvesTalk",
-    "resumo": "Fechamento | Ibovespa tem forte alta de 1,88%, seguindo NY, após dados de inflação nos EUA InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbHZialdMd1FNbEtESWxGOFZUaXdzemZ5NUlKX2lnRnZNNnhYQUhMQjI5UjhBeC1FQmJvckNSZ0RXdmkyd0lSUW5BdVhiTmh4N0Exc3hQNl9yWXFXZWE2aXdKYVQ2Y2pOR2hSZHhmcFJVMm1iT3NSM2t1Z2NwR2MwSFc2NVc1NEszMUVWd29XM1ZNLUNPX0JUX1lNZ21tWkFhRkNZeVFCaDBfR2dMcHVIUUYwcmU4WWY3Q2dpdHcwR3U1aXlQXzAwbg?oc=5",
-    "fonte": "InvesTalk",
+    "titulo": "Dólar fecha queda, de olho em dados econômicos e conflito entre EUA e Irã; Ibovespa sobe - G1",
+    "resumo": "Dólar fecha queda, de olho em dados econômicos e conflito entre EUA e Irã; Ibovespa sobe G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HNDBqZjBDNU5jczVNUzBaTUpxdTBTajFmcFBQendDYWNMUWkzRm1GclQ3R0ZvQW1NQkVOTzgzQWpNN1N0R3hDU1JfR2tqZTZ2MUozNHA2d2RJZHBUeGVLODVvMUk0cFZHWWl3V1VpT1Vhc0Z5eXhENNIBhwFBVV95cUxOakhqSTdDOTNob3NRQ09TX1BBRm1NdWlEX285NU04NDBKQzE4T3pTcExvLS1OUmUtbkk5a1pKbEY3TDdtU1oyZnA0OWpnVHZ2c1c4NjhLYmFGZ2IyaUJkRUg5NkUxTERqVWxsekg1Q2xtRExFeTdLdUNkck53YTJrQklmckRvUjg?oc=5",
+    "fonte": "G1",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f7a34415516e95df122e02c4d4fb713e9a1328de9159a1bb7a5fee06565b3218",
+    "chave": "56781ffb79066a03102959f40306ba4419e626870c7d909fbd98c33d4d37ffe1",
     "ativos": [
       "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda - cointelegraph.com.br",
-    "resumo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda cointelegraph.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdm9VMGlscVNhTFFPRFBDMUdkbTBTUmQ2MF9tVDBwNlN4My1NZ2VfZnUxN1o4Wl95OTZLMjhyV3lLeWJMOHVWekYyTnp3VWQ4OHBSc19hTmphNWk2U195UDBrcE4wT0lmOTN6QTFzaG4wdXVpVEN0M2xGenBZM1dTVktUbVlROFo4VVVCVWN4TEdfTHFjajZFUlU0YnlBNURTbFJGNEdzcDhXSDIxSTU3dHdReU5IeXI2RV9jYWNWSEs1VHZXNTg0alBDZWxOSVlhU2hqX3c0b2JVQU1GTlFoWUJuSzlYOFZ4dEhfa1REbU4xX2ltRWZmTjhlSjVaQQ?oc=5",
-    "fonte": "cointelegraph.com.br",
+    "titulo": "Banco do Japão mantém juros inalterados e continua prevendo inflação em torno de 2% - Valor Econômico",
+    "resumo": "Banco do Japão mantém juros inalterados e continua prevendo inflação em torno de 2% Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZ1g3ckVSNUw4emt5VEJ0bjBucVFObVBOWDB3OFkycTJPZHZNeHVyd09EdV93bHJjcGdia0pmMlhlZWNHeHRwTzhyWk9tWi1UQlg3UEd5bGVyYUF1bHN1c1JHOUN4ajZmaUZCTFZJdnJlY180WW40WEQxTzhHNENuNFRLZS1WNUpHU2RlWDhyMTR1VXFQVTU4bGJGSDZXWWdua0h4SGpMd01YdkRoc3dEa0R4aEpWRS1KT09LNHpGaG80X0tPcDJvZS1QTndqNzYyZmp2Snhya1hUSWpQWTBBS1gtNFliRUlTdXVn0gH6AUFVX3lxTE15YUpQR0FQRmhoMWxTZWNpek1BVXBRQlgyUFIwQXpIVjlxbzZUQXVHLXFKOElFU2NhVUFKSkF1U2VwbG9vNFVtNXdkM0dYVE85eURmSzRBa19KcElSczREWVNkWWlRN2taUDVzZjRmWWtuZ0FOM3E4Rk9nRl94UWRLOVcxVWR0b1NCdlRPOUY0NFI5ODV0QXZzNWw2eUpjZHI4VHMwNm82a0V2b2pVTXpxazRLRUNPUDZkd1lFdmYxZFNDQzlURmJmdlFEcndwQVhTUzhmTWhTLTJWcnRCQ1dlMmkwMXFIZHV5YmxsLVNNVWhmY0NxRzZudVE?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "975d7626d7bacafb8795e684d866a5b09b90e8f4d4afe702687fd2244a2301fa",
+    "chave": "3999b842ecc2b6ca2620611b2fe1138e63bdd88efe59673b2199c0b8f67d22cd",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -48,12 +46,34 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Em discurso à nação, Milei anuncia reforma do Banco Central - Gazeta do Povo",
-    "resumo": "Em discurso à nação, Milei anuncia reforma do Banco Central Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFNjZDUxMGZFeEFvRTBFUkFxOGcySzlDVWNCcTQ1Uy1iT096ZzAwc2N4ZWRnXzIzaG43UXUyOFJUX0U2R3JJbmtQSThnbGV0d05xY0tkLUJlalpvdnBIamtMRkdrNjRZUV9GN3RDQlR0bzBtbDBwaVVJRVdfOVhFWTdSLTRzQ2ZfcGRNdEpMR3hyUHhIaW9SbTdtWUUwUQ?oc=5",
-    "fonte": "Gazeta do Povo",
+    "titulo": "Concessões de empréstimos sobem 6,5% em junho, afirma Banco Central - CNN Brasil",
+    "resumo": "Concessões de empréstimos sobem 6,5% em junho, afirma Banco Central CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXBzcFhKMnFYUWNvZUFUZi1hS0ZGbUtDNXJzQTBNLWExY01IcDI2VEhlOHRxSkZOeHdwakhQVy1wMEJzMXdJZDlkUUsxcTRzMEFhUXFWY21CQzlESEtwMHdmU3VvRmpLN0s4T0FYb1NqbENmMkdoa0VUY2R4RU5iVDRjQjEzeXM0ekZ1VXNFNHkyeXZKTG5nQndlSmpQU1d1T2JnMlVnMG1memVjaVdNMnF3V1NMSTVi?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "889743cdb899778b63439218f3371994046094f24c85ee9e9ad180caade3616a",
+    "chave": "8a7885ff89f63179513402e5f5df48b9ae290b20352e54a05dd6c8df8a031954",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina - UOL Notícias",
+    "resumo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina UOL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUTZPR0VFU2ZPekN3NXp1VEZXV3dtVjNnQWhyU2U1by15RkEzRFJOeGhYN2t3ampPUExVRE00a21pcnQ0cjNPSDZQQVpibEdRWmhWRko1Skl3OEhrUGNHdW1nVm5kVUV6OEVRLWxDWVFHbzJRUWItRkVvWUNxVVdpYlAyM1hRRDhTYzNLVmhBdUFKVGhjOFBZNUw1N1diRlFZdUgySkp5blVyLV9zLXd4bXYtcm01SHNlOEZoR3Y2NGVGcnlTa1VPdGI1YV83eVlOMU8yVDFkeVdTQ1BaSWJJTFZ5VERuXzZ2LXlIdmxISEx0Tzh3NEtIUW9jemh3MUpkZy1LVA?oc=5",
+    "fonte": "UOL Notícias",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ff48d2f7659a32ee1f153ae52abe9dd9e92b86f51492fcb6bea88a73d61e54af",
     "ativos": [
       "CDB 100% CDI"
     ],
