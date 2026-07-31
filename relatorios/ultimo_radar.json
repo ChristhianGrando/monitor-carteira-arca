@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa hoje sobe com retomada do pregão após falha técnica na B3; dólar avança a R$ 5,07 - Estadão",
-    "resumo": "Ibovespa hoje sobe com retomada do pregão após falha técnica na B3; dólar avança a R$ 5,07 Estadão",
+    "titulo": "Ibovespa hoje opera em alta após falha na B3 e retomada do pregão; dólar sobe a R$ 5,07 - Estadão",
+    "resumo": "Ibovespa hoje opera em alta após falha na B3 e retomada do pregão; dólar sobe a R$ 5,07 Estadão",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzR6R0QxMVZCQkFqMnZNdWJ6bGx4QU00WmNJYVBnU1JZVVhsNG11VG50Zjd5R3NqbV9GYldtZ3ljWmRuakplS19icG16dWVCMTc1SnVSd1k3RTZ3OHhvcjFxY01BT2gzRVVxYkZMSDdrY0REOU92WGh0Z0t0V2RLNnVGU3lVZlFhekhiTEExV0xMQmY1eTRmMlhYRHF5aFZJWkxhbWRnUXZZT1ltSUFJMk96akJkZ0l1dHFuMlFCMkpSd3hDR2Y5c0t0ZEh2TW8zby1GUXNSenZoQVBNLWlxLdIB5gFBVV95cUxQcnpOdjd6b0tOb1dVZjdPOTZmeHBnMVZBaDQwQ3IyVjkwSzJRVklwLXlCMVN6ZTVzX0tuSVctRXRhWUQwTXJuak1RZ0NCODU3RWUwbTZmcXNicUozUVh1dGpDdHVEalRLMUgxSGZid2lDaTZuLWdkdnBXMDUtS0w4Nmw0bkM1VTR1VW5mRWxEOXA1Ui1uck1kMmxZU24wTW9TZGpsdWVQNlZMSXBSRzJDZm5jazZMbl9kRWRmNnZCLV92dkgxSUY1RDB5a3h2TDdia3B3cFJyTXFzZTYya0JieEk1NU9JQQ?oc=5",
     "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "001aaa06db9baa9a6f4752204e24274172683c2ea559117be712c095b97d0c5e",
+    "chave": "af4aebee692ec72164eceda3eb14aee3f9713504c6aa2253a582d1249624c6a3",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,23 +24,21 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA ou CDI? Veja qual faz mais sentido para cada objetivo - suno.com.br",
-    "resumo": "IPCA ou CDI? Veja qual faz mais sentido para cada objetivo suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qNm1KaGZqYWJsZEpSTW5JT3lmYWxWVTB4aEZQM2x4NzFacEoyeFJqWHNUbW1kSC12WkxIOWFtYkwzTS1OUWprZTBFS2l3Y2NkTzNpNHBQbl9EX2JwZkVqX2tWbHBkanppbGN1YTVYaW9MclRQOHfSAXtBVV95cUxQREtiODlubnVBVC1XbEItbm9zOUdudk4wdUdHdHhoSU0yVHBkZGs0cmxhUkVOV2U5Z3I2Z1duNTVyTUIyT1BWMUY5VGNiRmRTRTBfOFl2QmJETTRvZjRZdGNxV25CUWNrbmkxYngxQVRJUnVwa1U3QTJGV2s?oc=5",
-    "fonte": "suno.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "d3d9d4ac1b9a8ddc0f2f08ab3f3b43ca2ac8546fe7999f8fa8f4d512172cc644",
+    "titulo": "Expectativa para a próxima reunião do Copom - Monitor Mercantil",
+    "resumo": "Expectativa para a próxima reunião do Copom Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnYzd3JzaDBqNFhVMEZXa24zN1hiRlpsSGJJWnJ3RERSNnJsUHBMSUZrOWRRdTFOMHYzWDdwQUppb0FyaWswNWRtRVNab0wyS1oxVzFFeE9EaURpVDNQTzYzQ0t3bHo0WWZ6aEJGV1lxbEdSX2hvUFJ1bGdRVGdYOUxQNVNZZw?oc=5",
+    "fonte": "Monitor Mercantil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b79f7e5d8cb0f76b521d8d050c8d498b81eb54e3c6b5e408d977bacc04c5131f",
     "ativos": [
       "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -50,70 +48,68 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa hoje: em dia de falha na B3, Microsoft (MSFT34) e Amazon (AMZO34) impulsionam índices nos EUA; veja destaques desta sexta (31) - Empiricus",
-    "resumo": "Ibovespa hoje: em dia de falha na B3, Microsoft (MSFT34) e Amazon (AMZO34) impulsionam índices nos EUA; veja destaques desta sexta (31) Empiricus",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUEJRVXluNm5tTS1makw4bnltUTFYbVE1OVhXNEtveDU3M1VHQThoOUxZV0JjbmZHYlRVbWNjX21aQktnRW00ZTExa1JWRWlrTU1nNG1aZ25EaHIxZ0xPS2dkbVJxdWpiZzhzWHFQb2hSeWdLVjRCcjlQSU5tZjdKaGJUVG5oNmc2SUtwVXluQTF1eTZCU3haT21VNHRMckdMX0lzQ09mX3JMcTU2V0ZMMjFQMmdDaUthYThpLVdMQk9WTlhMLVB2QXlhN0pnRHhzQTlXSkhHdDFaZEFBYXdDMkFGU3dibDFNRjFKQjgtZmlnZUd0SUNrdXFTelF2b1dublJvSXdMTHJETC1xelo1bg?oc=5",
-    "fonte": "Empiricus",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "359e764c48eaffbab3eb88ce789546c738795fdac0528d06b39247fd64430f49",
+    "titulo": "Ambipar: Banco Central fica fora do processo e perde pedido sobre derivativos - ADVFN",
+    "resumo": "Ambipar: Banco Central fica fora do processo e perde pedido sobre derivativos ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0UyZlNEUThOUWtCeXQ1QlJtQkNzdVNyeVIyckJiV2pGRVZEN0RYdXdZZnlVZmVwWlJKSG5lVUNoWng0Q19tb1lsU2VYa3o3Q3ROTWhPb2NDRXdQb0NVS0FGS0ZRNDgtclE2bkpWUlNvQjV4R2JsUV9UWE5MVHVkY3U4c2VnZUV3cnJqdV9TYzc3VVoydTR6alphQ2FyWGowYXFwbE1TZl8tSF9yTUliSmdB?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0c74e021ffe1e72f6a2d41c922f4daa6d80562a0963f419adb18549bcd5ac52b",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
     "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Reforma no Banco Central da Argentina: entenda o projeto de Milei - Exame",
+    "resumo": "Reforma no Banco Central da Argentina: entenda o projeto de Milei Exame",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWtzQmdNbHlKVmpKak43bE4ySEpldlRNLVVQSGZuVEZWMTdZV0Z1Z3lVM1hla21nd1lsQ0lpNlNEWTg4ckRXMFBqUWpJbTVsV0tzRUVaTW9tU3I0OUV2SGV1ODFBVWUxZW9INl9yeUZaSXJvSjVzakpZYm83THFPYzJyZmJwenlta3JaYWtfZkdJdkU?oc=5",
+    "fonte": "Exame",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "673d4811ed40ee77c85cb1ffaf25f4c1be3df2cf24a122ee835136038776c900",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa abre em alta após atraso de duas horas por falha na B3 - VEJA",
+    "resumo": "Ibovespa abre em alta após atraso de duas horas por falha na B3 VEJA",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjVRRGVFUDB0Umcwb0RSb3RiUTlIODM3TUQ1eDdickt2WC16dENoN1RySm42LTdTMTN5cUFtNEQ1dEtPSVFUMDFzMjZUdDZpNVpTbE42RWZMaDVCeHlVRGVSTGlBaW1ldVZ4aDZ5dGpSdnl5LVRKNEdVM0NOTkN0Y3BkMmtfNzZlSmx2Z2xCaGx3UjZUQWRobHhFalF0OVZa?oc=5",
+    "fonte": "VEJA",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "8ec570158b37a9abd3f0581443dc011918e73ac3b785430209a038debd7ea057",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Milei propõe reforma do Banco Central para barrar financiamento do governo - InvestNews",
-    "resumo": "Milei propõe reforma do Banco Central para barrar financiamento do governo InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEt6ZmJFT2N2ZEZVeTgwcDNvNTJMOEFjWFdiVC1lNHVKZmVjUHllOG9hWjBKUGFaeDJRTE5Wd2R5UzEtdE9ISkNGTHZBSUt1cXZGaDliRHp0dWhjYWhRTjRTTFZUVHV4TmsyUVlyXzVMdm9VYWJXMDktSlBOMHZqdzNsNlhlSzU4UFdsdHdIOGY4cHFnM2RMTEV0TWhnRnNGdEtCdXRHRHh4ZEVqelU00gG0AUFVX3lxTE1NOFpYVkVpcnJIMGdCV3U2OHlBMVhNNGdHRGNiaXZ0NHVKUXhURVkwU19vcXdad29YV3FMaTgzbklaVWJFajFaTTBqNi1EVE9yZlE0YkdlMk5JbTRQbUtCZllCMVhHLTJVNFQ1YXdQWVZ2bFlkb1RMOU4yQlZ6bjlJUXVoZXVVX0NpVG11ZlZDcUVKRzhKVEpYM1ZxNUxlZVRHLUtqanNJU0hrWUNHNzNGS2pNZw?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "58eb71019f4c3aa2f95c52cc9187f63948c8dc0a0b48c7a6326b3a70679bc0cf",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Milei anuncia proposta para reformar Banco Central da Argentina - Vero Notícias",
-    "resumo": "Milei anuncia proposta para reformar Banco Central da Argentina Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRrQzhDdndac2Q5VGhyaEhZN2NCM29zZmxCYTF4RzdKV0ZCWHp0amlqUzlwM2Zxb1JjRHA1X0kyTjQxaEtjLS1IRXVaV1V6ZUxnbTJGc1hBS2xpN2NQUVJsOVVpLWtjd3l6em5hU0tsVG0ydl9iLXd4Mk9ZbVZndXlnbTBYTDF2aVpudW9lNU5aUmtQQTFCZGtsLTZITEk?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4ff7049ded51203eae985ebd5f9a222d08b9ab94c5b8e8b1374ea3bfa035aab2",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
