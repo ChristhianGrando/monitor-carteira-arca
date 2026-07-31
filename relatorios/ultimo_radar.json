@@ -1,131 +1,72 @@
 [
   {
-    "titulo": "IPCA-15 surpreende analistas ao ficar abaixo das projeções com queda de alimentos em julho - folha.uol.com.br",
-    "resumo": "IPCA-15 surpreende analistas ao ficar abaixo das projeções com queda de alimentos em julho folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWG5tbzYxQkJvRkhEVzk0N194azZQZ3pxSmxYZzJWcVVYLTljVVI0d1JMeDJTT0pwZGlPenZrQm9jWUsxcXFHNXNPTDZmWXdwYlBOYTJwN282MnJUS2poNkNLa3BEbFUxWF9OMm9pSzNsbGM3Ny16ZXhzRURRaGNXOE42SDZRT0hsNUdncFVTX09lYWVaWUljallSVVAyYlp3T2NSc1c0LWpfYjNMOXJKcUNpNA?oc=5",
-    "fonte": "folha.uol.com.br",
+    "titulo": "Fechamento | Ibovespa tem forte alta de 1,88%, seguindo NY, após dados de inflação nos EUA - InvesTalk",
+    "resumo": "Fechamento | Ibovespa tem forte alta de 1,88%, seguindo NY, após dados de inflação nos EUA InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbHZialdMd1FNbEtESWxGOFZUaXdzemZ5NUlKX2lnRnZNNnhYQUhMQjI5UjhBeC1FQmJvckNSZ0RXdmkyd0lSUW5BdVhiTmh4N0Exc3hQNl9yWXFXZWE2aXdKYVQ2Y2pOR2hSZHhmcFJVMm1iT3NSM2t1Z2NwR2MwSFc2NVc1NEszMUVWd29XM1ZNLUNPX0JUX1lNZ21tWkFhRkNZeVFCaDBfR2dMcHVIUUYwcmU4WWY3Q2dpdHcwR3U1aXlQXzAwbg?oc=5",
+    "fonte": "InvesTalk",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "cb3f5e7c9d48976491e40bb13af494481be5cbf2ad607637e3d9edf07617cf9a",
+    "chave": "f7a34415516e95df122e02c4d4fb713e9a1328de9159a1bb7a5fee06565b3218",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "FII que rende IPCA+10%, fundo com quase 30% de desconto e setores em destaque: onde investir em fundos imobiliários no 2º semestre de 2026 - seudinheiro.com",
-    "resumo": "FII que rende IPCA+10%, fundo com quase 30% de desconto e setores em destaque: onde investir em fundos imobiliários no 2º semestre de 2026 seudinheiro.com",
-    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMThaRkJYOUpJSm5WWTk5UjFndVFzNTcxMzFXb3BJWVNxdVZMRVZyeGNFak9XWS1jeWZqXzREM3hLTWpfczlEUlpMVjZkTGZXS2U4Q0FXbEphVndKbXZNZDVrTHU3Xy1KcmtfQjB6TjNOUEJCVkQ1Qi1fVmVyZFE2WkREN3ptMzV1NFU0NmtmWkJDMUExdHdYS01rZXBaV21IU0RDd0NHNEVYOVU1RU92ai0tWEJ0X2ZJWm1LNnltelg3d3d4cVhiQVg3b2kzeHpZS2dRaHRJRzRFS2NPV1A1V3NVT3hObThFanQ5eC1DSktNLWtvRUNmX3RoTkRaUFF5QlpVbGlqUFBQUEs1NnpjRWhseGtYYVRHakE?oc=5",
-    "fonte": "seudinheiro.com",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "7a8b01382372663a6b961a929b35a19dfc84ab06e59d7bf3683a3a8633705ab2",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Juros futuros caem com expectativa de corte da Selic e alívio externo - Canal Rural",
-    "resumo": "Juros futuros caem com expectativa de corte da Selic e alívio externo Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGh4UmZuR2VKMlZwVTY3clRmVTlFaFA0MVF5eHhTWndSQzVTTHRKbHMxMmhjTFlKOHZLaEo4R2VENFd2OFNyUWRwNzBhY1pkWnNOcWV6cGdOMG5CMG93ZUxXUkRwNTNLWHkxeWpYa3FZbVVmeDQxb0R4UXdhWU1OR0NEZTN4LUEyLUU5dkc4aUR4RDdEZGZ4Nm5UMlhBdzFoeWZyeXRyS3lRdkhTT0E?oc=5",
-    "fonte": "Canal Rural",
+    "titulo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda - cointelegraph.com.br",
+    "resumo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda cointelegraph.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdm9VMGlscVNhTFFPRFBDMUdkbTBTUmQ2MF9tVDBwNlN4My1NZ2VfZnUxN1o4Wl95OTZLMjhyV3lLeWJMOHVWekYyTnp3VWQ4OHBSc19hTmphNWk2U195UDBrcE4wT0lmOTN6QTFzaG4wdXVpVEN0M2xGenBZM1dTVktUbVlROFo4VVVCVWN4TEdfTHFjajZFUlU0YnlBNURTbFJGNEdzcDhXSDIxSTU3dHdReU5IeXI2RV9jYWNWSEs1VHZXNTg0alBDZWxOSVlhU2hqX3c0b2JVQU1GTlFoWUJuSzlYOFZ4dEhfa1REbU4xX2ltRWZmTjhlSjVaQQ?oc=5",
+    "fonte": "cointelegraph.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ccdd4740caa6f6953e2d9507426a805f8ba6b6b96149092ba81cf8182988c27a",
+    "chave": "975d7626d7bacafb8795e684d866a5b09b90e8f4d4afe702687fd2244a2301fa",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dólar Cai a R$ 5,06, Ibovespa Salta Aos 177 Mil Pontos e Petróleo Recua após Fed - forbes.com.br",
-    "resumo": "Dólar Cai a R$ 5,06, Ibovespa Salta Aos 177 Mil Pontos e Petróleo Recua após Fed forbes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUxMYzBXX250UTZHMmpkazNaUzdTRWxMVV9PRG4wbTR6akhZQks5M3FYQXJNTkR3ZGxNUXhIRkpoZnA3ejVrNk1UcnBWcFdyOUdWaEtuTG1zc1VFemtyeEp5bEdGamkycTRCYWVoX3F2R3RRenoyWUlwMkFQVklTY3JpaEtsVEktWU95bHE1R0R0dFljNlkzUWd4S2pmb1BxcVJhTS1jeEt5RTRZMmx6UWkwdU5tWGhHOW9nNmxB?oc=5",
-    "fonte": "forbes.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "931ab49822174b0468cfbf3b8050a2078366e6c2971849bcdbf6e52d36d4c739",
+    "titulo": "Em discurso à nação, Milei anuncia reforma do Banco Central - Gazeta do Povo",
+    "resumo": "Em discurso à nação, Milei anuncia reforma do Banco Central Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFNjZDUxMGZFeEFvRTBFUkFxOGcySzlDVWNCcTQ1Uy1iT096ZzAwc2N4ZWRnXzIzaG43UXUyOFJUX0U2R3JJbmtQSThnbGV0d05xY0tkLUJlalpvdnBIamtMRkdrNjRZUV9GN3RDQlR0bzBtbDBwaVVJRVdfOVhFWTdSLTRzQ2ZfcGRNdEpMR3hyUHhIaW9SbTdtWUUwUQ?oc=5",
+    "fonte": "Gazeta do Povo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "889743cdb899778b63439218f3371994046094f24c85ee9e9ad180caade3616a",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa sobe quase 2% e dólar cai a R$ 5,06 com alívio global após decisão do Fed - Bloomberg Línea Brasil",
-    "resumo": "Ibovespa sobe quase 2% e dólar cai a R$ 5,06 com alívio global após decisão do Fed Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmVYblM5dkNUbFh5aDBRWVV2bHg4VEpZZzRxUW80UHcwa1dyMmZnV2s1XzI0RjhPSDNLSll6RWRxVTRRNTBFOHk1Q3d6Y2c3eGxudU1HaUdabU43Z1VKTjRpWkVXM0xQQk02Tm1HTmhDQ0REUVY3YXplX2RPRk5idHlUc3F1aHM0bUJLb00wY2xHMHc2c3hJUXpsa2lxN2lpQ2dJVHdmNmtrcmFuWjFWcUsteXJKcUFocUxNbW1Rc3LSAdQBQVVfeXFMTUxDTzhROUxYUDNjMnpOSFpYcG5xS2ZJejc4SExPemtkSlhxNzZIS2VEdDZNbGxsYk9jWkJUdWpYTlJuaF92djc0TGZYYlNqbF9FVVRLekJyRnJEN0k5R2E2WlRrSURSUGx2MlF0MV9YT0JuZkhtX29GYXYwdjBYekRvSnpvSy1hVHlrNU1DbzlQdE0wWjAxbFJLUy1HdjFOX1VHTUNndXBWU00yNGR2cEFCc2pCT2VLaV9NS3NENnp1a2puWXVTUV9EZEkwWDExVHhRVzE?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6c83b5379eee1153d9f70debef2f2f78be21a323cee61d9401dc5465623b9d4f",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
