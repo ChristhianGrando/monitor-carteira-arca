@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa hoje fecha em alta e dólar sobe a R$ 5,07; pregão foi mais curto por falha na B3 - Estadão",
-    "resumo": "Ibovespa hoje fecha em alta e dólar sobe a R$ 5,07; pregão foi mais curto por falha na B3 Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzR6R0QxMVZCQkFqMnZNdWJ6bGx4QU00WmNJYVBnU1JZVVhsNG11VG50Zjd5R3NqbV9GYldtZ3ljWmRuakplS19icG16dWVCMTc1SnVSd1k3RTZ3OHhvcjFxY01BT2gzRVVxYkZMSDdrY0REOU92WGh0Z0t0V2RLNnVGU3lVZlFhekhiTEExV0xMQmY1eTRmMlhYRHF5aFZJWkxhbWRnUXZZT1ltSUFJMk96akJkZ0l1dHFuMlFCMkpSd3hDR2Y5c0t0ZEh2TW8zby1GUXNSenZoQVBNLWlxLdIB5gFBVV95cUxQcnpOdjd6b0tOb1dVZjdPOTZmeHBnMVZBaDQwQ3IyVjkwSzJRVklwLXlCMVN6ZTVzX0tuSVctRXRhWUQwTXJuak1RZ0NCODU3RWUwbTZmcXNicUozUVh1dGpDdHVEalRLMUgxSGZid2lDaTZuLWdkdnBXMDUtS0w4Nmw0bkM1VTR1VW5mRWxEOXA1Ui1uck1kMmxZU24wTW9TZGpsdWVQNlZMSXBSRzJDZm5jazZMbl9kRWRmNnZCLV92dkgxSUY1RDB5a3h2TDdia3B3cFJyTXFzZTYya0JieEk1NU9JQQ?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Dólar sobe no último pregão de julho, mas fecha o mês em queda; Ibovespa avança - G1",
+    "resumo": "Dólar sobe no último pregão de julho, mas fecha o mês em queda; Ibovespa avança G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85M3FFS0hISGFFSk03aHktVU1jdkpIMUdZYkluSGZrZ09VSWJRbUw4QmtsMm1ZMFFsd216SWJ3YTl2REtUczhyQk5SOXZzaU54X0x1bDRHY2U5WlZKOVotc1BEc1NXd2x2aDBxLXRsTTRqdjEtaHVvZdIBhwFBVV95cUxPQ2xvWWxnYTZIMy1uNVFtdk9BMHUxOGZ5enkxa2lvV3pQVm9UaHljdFUzblhLMXZWazJram91YnJ0Zk5OcU42N2MwTWtRRG5pNXhHSUdwLUx5TndTdzZNdlVacm52R25ONTVhbk5zRlBNZ0x5T1pXR2hjVFBzVkp3Si1YdV9pczQ?oc=5",
+    "fonte": "G1",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "bbde9f1028f9accc6b87102fa488cfc1588dbd262e646c0acc37bff7318a5052",
+    "chave": "5f94b0d83b679d665d479df85cbd0f91bec1aaaf825922f54d0e2e6231aa53a5",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -14,34 +14,13 @@
       "Ativos Internacionais",
       "Ações Brasil"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Musk compara imigrantes na Espanha com o filme “Guerra Mundial Z” - Poder360",
-    "resumo": "Musk compara imigrantes na Espanha com o filme “Guerra Mundial Z” Poder360",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTZ2TGhpTWp3YWRERnFNWExUQklDZnp5R3kwTWduTEZFdEdVWUkzcnBVbW5pRWdkNjN0OFpzQy01RTlKUFdBbV9BVEFUV09ta2ozYjFTcmRCel9wdFFUM3Z3S1Y2cHlHSDZXT1lMMm92YzFnZ1FyWnpOT0NmM1pxRnNHMGRXZ3lERDItRHFOdTYzZ0VQVF9Wa1YxQldpcDIyLW85Qy1qMEdIRTFQX05DS3F3?oc=5",
-    "fonte": "Poder360",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "248a315d57d2e279653d56304e05e38fadb1b4e2d3b856af64e4681b7a9a627d",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
