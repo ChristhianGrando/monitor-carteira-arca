@@ -1,11 +1,62 @@
 [
   {
-    "titulo": "Dólar fecha queda, de olho em dados econômicos e conflito entre EUA e Irã; Ibovespa sobe - G1",
-    "resumo": "Dólar fecha queda, de olho em dados econômicos e conflito entre EUA e Irã; Ibovespa sobe G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HNDBqZjBDNU5jczVNUzBaTUpxdTBTajFmcFBQendDYWNMUWkzRm1GclQ3R0ZvQW1NQkVOTzgzQWpNN1N0R3hDU1JfR2tqZTZ2MUozNHA2d2RJZHBUeGVLODVvMUk0cFZHWWl3V1VpT1Vhc0Z5eXhENNIBhwFBVV95cUxOakhqSTdDOTNob3NRQ09TX1BBRm1NdWlEX285NU04NDBKQzE4T3pTcExvLS1OUmUtbkk5a1pKbEY3TDdtU1oyZnA0OWpnVHZ2c1c4NjhLYmFGZ2IyaUJkRUg5NkUxTERqVWxsekg1Q2xtRExFeTdLdUNkck53YTJrQklmckRvUjg?oc=5",
-    "fonte": "G1",
+    "titulo": "Inadimplência no crédito mantém nível recorde de 4,7%, diz Banco Central - revistaoeste.com",
+    "resumo": "Inadimplência no crédito mantém nível recorde de 4,7%, diz Banco Central revistaoeste.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblhIbFZGQXlUaE5TcGdLOVNPemVpbW53NnFvN3NBRENDVlhTYzRKRW5OOTFIRGd3S0dYMVZEbGFaeEd5aTZ3R3cxbU9pUjNJU2FxX0p4YkZHa2FKbHl3dVV5WjR0aXZrTlplUi1mOUxJU0NCbDBycF9IOHdFNUx4UjJWTXJJUnk4NXlNNTJMclRsemxOeHFJOUMtUWJxMEQ1M3hhVV9QSQ?oc=5",
+    "fonte": "revistaoeste.com",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "30e4577f3c41d8168ba453e3648cf6e6666524e19f1fd47e78e7d6b9a8be6854",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "FIIs de “papel” têm retorno de até 17% em um ano; Selic pode mudar o jogo? - infomoney.com.br",
+    "resumo": "FIIs de “papel” têm retorno de até 17% em um ano; Selic pode mudar o jogo? infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVpqQ0ZETGJhWG9GOVprVHhGaG96UllMN3pzM2ZEcG5vQzltaE5VYkNDMGl4WWxDYVRVVjljRWowNWJVTnBobFB3Q0RUbHM4enp5UDdWeWVYaUp2Y1QyRS1PYmx1a0xtbzJYdlJibXZmRGI0R1V5cW5pS2pTcXNzb3A3U2x5X2NqbDhyMXJRY1BtSG9MZ2VGWWRSMkl5LW5GdGE2c0hmQ0dZWEMyYnh2OTVpVGhnZWdLS01mc25QVm1rYmfSAcgBQVVfeXFMTnhoNHRKNGphUEY4SW9keGRSYkpZTFpXZDF0cHJ5eDIwdVdsWHRIM3dFUG1ERngwblFvTm9BbVJnMzVlTVh1RzFENkJLMVhuNjJGY0hRWjlUSnVlNmRJeDJ5ZHRMeUFjYmJ6RTJjR0ctTUtvQXdPQ0hxUW1QZ09ZLU9TaXNMMkxkLVV0ZC1uS0gxVF80dk40LWhfQVdnVGxXZ3FYSlF2RHJpRm1LZTZkMEZuREl0R2p0OUZvMm5mZ2V4Rk5QVXN1dlM?oc=5",
+    "fonte": "infomoney.com.br",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "84d0de227abbe27b019fcbcb1810a5c08d2bf44748bffb6eb323097175940147",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar fecha queda, de olho em dados econômicos; Ibovespa sobe - brasilagro.com.br",
+    "resumo": "Dólar fecha queda, de olho em dados econômicos; Ibovespa sobe brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOERyMWtOTEJYTEJGbmllZ3RPNEJOSzdKZmtsamxPSWNMN21PX0hZVDFzeGk3amtLZ3N6NmEtejhMOFdUdThCS0M2TG51SXZQVWdBLVU2aEpobFI2bmFRVFBKbWZBS0JTdmxLaHJxWGZfaW9BemtnbFZvZ2piOTROOEQ4cFhnVllEemh4QkFhZWpsdldMekJjR1Voalh4S0tBNHlaOTFn?oc=5",
+    "fonte": "brasilagro.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "56781ffb79066a03102959f40306ba4419e626870c7d909fbd98c33d4d37ffe1",
+    "chave": "d2f739dc75b9618ec420e475c619dc4fcc446c1543e8426f264e4294854d3c0e",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,56 +75,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco do Japão mantém juros inalterados e continua prevendo inflação em torno de 2% - Valor Econômico",
-    "resumo": "Banco do Japão mantém juros inalterados e continua prevendo inflação em torno de 2% Valor Econômico",
+    "titulo": "Banco do Japão mantém juros inalterados e continua prevendo inflação em torno de 2% - valor.globo.com",
+    "resumo": "Banco do Japão mantém juros inalterados e continua prevendo inflação em torno de 2% valor.globo.com",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZ1g3ckVSNUw4emt5VEJ0bjBucVFObVBOWDB3OFkycTJPZHZNeHVyd09EdV93bHJjcGdia0pmMlhlZWNHeHRwTzhyWk9tWi1UQlg3UEd5bGVyYUF1bHN1c1JHOUN4ajZmaUZCTFZJdnJlY180WW40WEQxTzhHNENuNFRLZS1WNUpHU2RlWDhyMTR1VXFQVTU4bGJGSDZXWWdua0h4SGpMd01YdkRoc3dEa0R4aEpWRS1KT09LNHpGaG80X0tPcDJvZS1QTndqNzYyZmp2Snhya1hUSWpQWTBBS1gtNFliRUlTdXVn0gH6AUFVX3lxTE15YUpQR0FQRmhoMWxTZWNpek1BVXBRQlgyUFIwQXpIVjlxbzZUQXVHLXFKOElFU2NhVUFKSkF1U2VwbG9vNFVtNXdkM0dYVE85eURmSzRBa19KcElSczREWVNkWWlRN2taUDVzZjRmWWtuZ0FOM3E4Rk9nRl94UWRLOVcxVWR0b1NCdlRPOUY0NFI5ODV0QXZzNWw2eUpjZHI4VHMwNm82a0V2b2pVTXpxazRLRUNPUDZkd1lFdmYxZFNDQzlURmJmdlFEcndwQVhTUzhmTWhTLTJWcnRCQ1dlMmkwMXFIZHV5YmxsLVNNVWhmY0NxRzZudVE?oc=5",
-    "fonte": "Valor Econômico",
+    "fonte": "valor.globo.com",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3999b842ecc2b6ca2620611b2fe1138e63bdd88efe59673b2199c0b8f67d22cd",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Concessões de empréstimos sobem 6,5% em junho, afirma Banco Central - CNN Brasil",
-    "resumo": "Concessões de empréstimos sobem 6,5% em junho, afirma Banco Central CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXBzcFhKMnFYUWNvZUFUZi1hS0ZGbUtDNXJzQTBNLWExY01IcDI2VEhlOHRxSkZOeHdwakhQVy1wMEJzMXdJZDlkUUsxcTRzMEFhUXFWY21CQzlESEtwMHdmU3VvRmpLN0s4T0FYb1NqbENmMkdoa0VUY2R4RU5iVDRjQjEzeXM0ekZ1VXNFNHkyeXZKTG5nQndlSmpQU1d1T2JnMlVnMG1memVjaVdNMnF3V1NMSTVi?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8a7885ff89f63179513402e5f5df48b9ae290b20352e54a05dd6c8df8a031954",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina - UOL Notícias",
-    "resumo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina UOL Notícias",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUTZPR0VFU2ZPekN3NXp1VEZXV3dtVjNnQWhyU2U1by15RkEzRFJOeGhYN2t3ampPUExVRE00a21pcnQ0cjNPSDZQQVpibEdRWmhWRko1Skl3OEhrUGNHdW1nVm5kVUV6OEVRLWxDWVFHbzJRUWItRkVvWUNxVVdpYlAyM1hRRDhTYzNLVmhBdUFKVGhjOFBZNUw1N1diRlFZdUgySkp5blVyLV9zLXd4bXYtcm01SHNlOEZoR3Y2NGVGcnlTa1VPdGI1YV83eVlOMU8yVDFkeVdTQ1BaSWJJTFZ5VERuXzZ2LXlIdmxISEx0Tzh3NEtIUW9jemh3MUpkZy1LVA?oc=5",
-    "fonte": "UOL Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ff48d2f7659a32ee1f153ae52abe9dd9e92b86f51492fcb6bea88a73d61e54af",
+    "chave": "73779c98c30522baa7c165c61010a6c952a012ebf7aa3cec54b6ac7fc8828908",
     "ativos": [
       "CDB 100% CDI"
     ],
