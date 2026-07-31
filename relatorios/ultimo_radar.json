@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa hoje opera em alta após falha na B3 e retomada do pregão; dólar sobe a R$ 5,07 - Estadão",
-    "resumo": "Ibovespa hoje opera em alta após falha na B3 e retomada do pregão; dólar sobe a R$ 5,07 Estadão",
+    "titulo": "Ibovespa hoje fecha em alta e dólar sobe a R$ 5,07; pregão foi mais curto por falha na B3 - Estadão",
+    "resumo": "Ibovespa hoje fecha em alta e dólar sobe a R$ 5,07; pregão foi mais curto por falha na B3 Estadão",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzR6R0QxMVZCQkFqMnZNdWJ6bGx4QU00WmNJYVBnU1JZVVhsNG11VG50Zjd5R3NqbV9GYldtZ3ljWmRuakplS19icG16dWVCMTc1SnVSd1k3RTZ3OHhvcjFxY01BT2gzRVVxYkZMSDdrY0REOU92WGh0Z0t0V2RLNnVGU3lVZlFhekhiTEExV0xMQmY1eTRmMlhYRHF5aFZJWkxhbWRnUXZZT1ltSUFJMk96akJkZ0l1dHFuMlFCMkpSd3hDR2Y5c0t0ZEh2TW8zby1GUXNSenZoQVBNLWlxLdIB5gFBVV95cUxQcnpOdjd6b0tOb1dVZjdPOTZmeHBnMVZBaDQwQ3IyVjkwSzJRVklwLXlCMVN6ZTVzX0tuSVctRXRhWUQwTXJuak1RZ0NCODU3RWUwbTZmcXNicUozUVh1dGpDdHVEalRLMUgxSGZid2lDaTZuLWdkdnBXMDUtS0w4Nmw0bkM1VTR1VW5mRWxEOXA1Ui1uck1kMmxZU24wTW9TZGpsdWVQNlZMSXBSRzJDZm5jazZMbl9kRWRmNnZCLV92dkgxSUY1RDB5a3h2TDdia3B3cFJyTXFzZTYya0JieEk1NU9JQQ?oc=5",
     "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "af4aebee692ec72164eceda3eb14aee3f9713504c6aa2253a582d1249624c6a3",
+    "chave": "bbde9f1028f9accc6b87102fa488cfc1588dbd262e646c0acc37bff7318a5052",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,85 +24,17 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Expectativa para a próxima reunião do Copom - Monitor Mercantil",
-    "resumo": "Expectativa para a próxima reunião do Copom Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnYzd3JzaDBqNFhVMEZXa24zN1hiRlpsSGJJWnJ3RERSNnJsUHBMSUZrOWRRdTFOMHYzWDdwQUppb0FyaWswNWRtRVNab0wyS1oxVzFFeE9EaURpVDNQTzYzQ0t3bHo0WWZ6aEJGV1lxbEdSX2hvUFJ1bGdRVGdYOUxQNVNZZw?oc=5",
-    "fonte": "Monitor Mercantil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b79f7e5d8cb0f76b521d8d050c8d498b81eb54e3c6b5e408d977bacc04c5131f",
+    "titulo": "Musk compara imigrantes na Espanha com o filme “Guerra Mundial Z” - Poder360",
+    "resumo": "Musk compara imigrantes na Espanha com o filme “Guerra Mundial Z” Poder360",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTZ2TGhpTWp3YWRERnFNWExUQklDZnp5R3kwTWduTEZFdEdVWUkzcnBVbW5pRWdkNjN0OFpzQy01RTlKUFdBbV9BVEFUV09ta2ozYjFTcmRCel9wdFFUM3Z3S1Y2cHlHSDZXT1lMMm92YzFnZ1FyWnpOT0NmM1pxRnNHMGRXZ3lERDItRHFOdTYzZ0VQVF9Wa1YxQldpcDIyLW85Qy1qMEdIRTFQX05DS3F3?oc=5",
+    "fonte": "Poder360",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "248a315d57d2e279653d56304e05e38fadb1b4e2d3b856af64e4681b7a9a627d",
     "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ambipar: Banco Central fica fora do processo e perde pedido sobre derivativos - ADVFN",
-    "resumo": "Ambipar: Banco Central fica fora do processo e perde pedido sobre derivativos ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0UyZlNEUThOUWtCeXQ1QlJtQkNzdVNyeVIyckJiV2pGRVZEN0RYdXdZZnlVZmVwWlJKSG5lVUNoWng0Q19tb1lsU2VYa3o3Q3ROTWhPb2NDRXdQb0NVS0FGS0ZRNDgtclE2bkpWUlNvQjV4R2JsUV9UWE5MVHVkY3U4c2VnZUV3cnJqdV9TYzc3VVoydTR6alphQ2FyWGowYXFwbE1TZl8tSF9yTUliSmdB?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0c74e021ffe1e72f6a2d41c922f4daa6d80562a0963f419adb18549bcd5ac52b",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Reforma no Banco Central da Argentina: entenda o projeto de Milei - Exame",
-    "resumo": "Reforma no Banco Central da Argentina: entenda o projeto de Milei Exame",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWtzQmdNbHlKVmpKak43bE4ySEpldlRNLVVQSGZuVEZWMTdZV0Z1Z3lVM1hla21nd1lsQ0lpNlNEWTg4ckRXMFBqUWpJbTVsV0tzRUVaTW9tU3I0OUV2SGV1ODFBVWUxZW9INl9yeUZaSXJvSjVzakpZYm83THFPYzJyZmJwenlta3JaYWtfZkdJdkU?oc=5",
-    "fonte": "Exame",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "673d4811ed40ee77c85cb1ffaf25f4c1be3df2cf24a122ee835136038776c900",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa abre em alta após atraso de duas horas por falha na B3 - VEJA",
-    "resumo": "Ibovespa abre em alta após atraso de duas horas por falha na B3 VEJA",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjVRRGVFUDB0Umcwb0RSb3RiUTlIODM3TUQ1eDdickt2WC16dENoN1RySm42LTdTMTN5cUFtNEQ1dEtPSVFUMDFzMjZUdDZpNVpTbE42RWZMaDVCeHlVRGVSTGlBaW1ldVZ4aDZ5dGpSdnl5LVRKNEdVM0NOTkN0Y3BkMmtfNzZlSmx2Z2xCaGx3UjZUQWRobHhFalF0OVZa?oc=5",
-    "fonte": "VEJA",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8ec570158b37a9abd3f0581443dc011918e73ac3b785430209a038debd7ea057",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
+      "Ativos Internacionais"
     ],
     "score": 9,
     "motivos": [
