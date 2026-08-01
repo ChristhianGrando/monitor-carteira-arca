@@ -1,25 +1,6 @@
 [
   {
     "data_envio": "2026-06-24 12:01:44",
-    "chave": "bfc64383905141778a5c2b1d837644ffbcd92d135af0d02028a9187b2d66324d",
-    "titulo": "Ibovespa sobe apesar de a ata do Copom deixar dúvidas; dólar avança a R$ 5,19 - Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGsyUHB2NXJSUm90enlpUXVGaFI4bUVBMV8zT3F2WHU4SC1GZjhJQ25fWU5jelFHclprZ1c3NWROaUZxbW1uWS04RXpxUTU4NXN0X3Z3czhIZVM0WVozSG95c2tXMXNESmI4RENwOWhfZU13RHJNNktyeE9PRktnUDRac280UkRGbkNiZ3VOaFZWc3pmZjdHZVZ0U01ycnF6WDE4QUdFQnRfLV9JcHpONUpxQ1pBd9IBygFBVV95cUxONlZKM2pkVDZVTVN2czBXTEJydzJERFV3ejZXeVB4R3RrWnN2bWJVQ3V5WnU1YjRBV0gxY2hZOGctcHVQWVc2WG8xMjl2QkFtdXd2cW5qOGRtdUVhbUpXXzYzZFlCNWhZQ3U1bk15UkVkM2JaOTliWG5kVTBnUlF4SHpWQkwtWWI1LWprb3hqaHpIc1lJbGdONjVfX2VvSlhROEE5RlliWjNaUmlRQjdENGh3b3Ztb1JleDJQUE1sVmdRaXJhY0xyN0R3?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-06-24 12:01:44",
     "chave": "3498693a77736eba53bc257f5c8c1d6c6ff21040898f13f3d80659843a551824",
     "titulo": "Ata do Copom muda leitura sobre juros? Ouça a análise econômica do dia - Canal Rural",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHloMzVEbVdHaW1YNEktOTJoYUdfQWtucVFxM3lhRDMxRE45M2hfQ3VYbTZudUhKR2tjY3JmV2lKcGE0T2w2dEVxTUo3dHpEaVlVcjJqdlpLX200M3J0N29RTVZtd0oxWVdNUzFTMnFqUEhNTnhXcGNjRktrekh5UFRQT2FBYTZFTnIxQTI2U3dvR25lWmRSaDdULWd2MTdGazloeXZidm9iMGZPM0E?oc=5",
@@ -17033,6 +17014,25 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:09:03",
+    "chave": "e65faf4cab314b782e6c2f2821b0360e39eb7b17e9b3171a33f621cd7b40598d",
+    "titulo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjZ0RDVDc2IxOTBHa1VOcDA0MXkxSGt2Y0U2WnZlQ1laWGI5Y295elR4Uzc4S3RaVktlbUdVdWdNQWhpMzhUaWZxcXMwZ3dZaUJsVlZySHhHa240UlZGZExwUGFwcFp0ZkJJd09oOW1yeGtVZWJwX1A1Ql84amhaREd2QWViaVdiWVotUmtZLVVMQlJsSHFKLXJiVQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]

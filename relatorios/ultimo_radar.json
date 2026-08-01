@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "titulo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão - Folha de S.Paulo",
+    "resumo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjZ0RDVDc2IxOTBHa1VOcDA0MXkxSGt2Y0U2WnZlQ1laWGI5Y295elR4Uzc4S3RaVktlbUdVdWdNQWhpMzhUaWZxcXMwZ3dZaUJsVlZySHhHa240UlZGZExwUGFwcFp0ZkJJd09oOW1yeGtVZWJwX1A1Ql84amhaREd2QWViaVdiWVotUmtZLVVMQlJsSHFKLXJiVQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e65faf4cab314b782e6c2f2821b0360e39eb7b17e9b3171a33f621cd7b40598d",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
