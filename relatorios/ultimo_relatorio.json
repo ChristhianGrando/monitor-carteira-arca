@@ -1,34 +1,37 @@
 [
   {
-    "titulo": "Fechamento | Ibovespa dribla falha técnica e fecha em alta de 0,47%, puxado por Santander (SANB11) - InvesTalk",
-    "resumo": "Fechamento | Ibovespa dribla falha técnica e fecha em alta de 0,47%, puxado por Santander (SANB11) InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtMkM3aWhZcXRSeGFLYUxHeU1rVlN3NVZUUDFxZDFDRFZ2Rnd3UlZSa0pJWDFOcHRJb2lWQXBscjNOSjRhblcyN2tkeWVtcnZVSHp1Zk96MzJfRVVfLTJ6dDdaVTFlS3MyOFpVQlRiNGpxUlpMNGc?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Ibovespa fecha em alta de 0,47% e dólar comercial sobe a R$ 5,0704 - Canal Rural",
-    "resumo": "Ibovespa fecha em alta de 0,47% e dólar comercial sobe a R$ 5,0704 Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGlqMFoxUE1ZMHNhS2g4MU9QUi1SNHZMQWJXUGRWNXdxeGRrUHFadFlmdV9ZdkZkeFZFVWx2QmFuQ0E1V0NEUm9yNFlLMTBxSWNmdlVWSjJWQzU3UGFMTEU2UWJMM21LOEh4a21FOWI1bnoyVXJKRTVmTmU2a1pwd2sxRW1Gb3ZVS0xReVRET1J3TzhhMnJhSER2RFNLX1Jqd0JldA?oc=5",
-    "fonte": "Canal Rural",
+    "titulo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão - Folha de S.Paulo",
+    "resumo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjZ0RDVDc2IxOTBHa1VOcDA0MXkxSGt2Y0U2WnZlQ1laWGI5Y295elR4Uzc4S3RaVktlbUdVdWdNQWhpMzhUaWZxcXMwZ3dZaUJsVlZySHhHa240UlZGZExwUGFwcFp0ZkJJd09oOW1yeGtVZWJwX1A1Ql84amhaREd2QWViaVdiWVotUmtZLVVMQlJsSHFKLXJiVQ?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa fecha em alta em dia de sessão encurtada por problema técnico - noticiasagricolas.com.br",
-    "resumo": "Ibovespa fecha em alta em dia de sessão encurtada por problema técnico noticiasagricolas.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1NISlpwbC1JYVlTaGRfUzJKd0N0ajhqbUZ5aTNOWFZPWmdvN2VCWnJtWU5tVXF2b3N2cmFENWlEVU5uTG9kTk9pbGlzY0pJMl9RQ0s4TGdrc3JnNEJudGtRNjFPWjROMVc5NWhibGJEeWRGcXFQNC1kSHU5MnprUXNBYmlabHgyVTdOVHFWSl9RY0xKZnhybTZ6c0pZOXJkVVY0M1o3eTVRRVFkaEdzYmY3cmg2YjljNnVRRTU2NXNBdjNtLXNIcUFsY1NFWFc0enZRTGtzRzFRclAwcGtj0gHkAUFVX3lxTE9udnRULXdENGxRX1VQY3dXN2tTMWNPaktZSzVUc2NEMTFROVlkVXVQekIwWGJVVWtleFd4QWFja0xMMzV1MkliMjNtdEtJdzFaXzJNOUE1VkZ5NmkzTm1CTUpFaEVLZkYxS05ZeXNUdGt0V0lELUpuRnQ2bURac1JLbE5vSFBBQXRwX29ld0RYaF8yZUU4N1Z2dUVrUFQ4VEpndUFOTXdxeEljaVBNZTdnZmphRGpuWlM5YzNxVzhhNlduN1RWdFdLX1N6czVjMUlYVWN0SU0xc3BvS0ZwQnVpTkVoZA?oc=5",
-    "fonte": "noticiasagricolas.com.br",
+    "titulo": "Taxa Selic pode ter redução tímida, aponta economista - band.com.br",
+    "resumo": "Taxa Selic pode ter redução tímida, aponta economista band.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjdic3pzLThxbjVFZy1uVVZyaXdUQjhfbGQyWkxycUhmak5Mcnd1NHBscFBaazVNRkF0MkFVU1hGNjRKczBMc3VyRExmTDZTOGc3dHNVdDIwdmtJTGg5dk5SY0xiSWNnYVRtWmJEc255d0NmcHlNVmEtbTF5RS02QTJudzRHSzB1cE44WVNwSW1pUVphQWR6RWtiSFRiNWFsZTVRcVQyLXBNYjVL?oc=5",
+    "fonte": "band.com.br",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Suzano (SUZB3) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra - Money Times",
+    "resumo": "Suzano (SUZB3) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Money Times",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm1vQVVPNmVTWUVvMC1lSl9OY3lJYy1ybHNxOV81bl9sSzREci1fbEdSZUV0TTJjRUdLRDlWUzZGNlNId0JfaGNsY2tBaHRYeDdROXZoZTZVRkRhU2xhNFBRZm9FaGN4MU1VYzl3LXdlbEo4SEl2Y1VQczRjaGJfRVA4aHBsaDE3UkJSblNPOU9LQlZFaHRBQlFKcmUtWGpSUG85ZUxPV0RDVWVqTERfbmU4WGwwQW92TmR1ZFZR?oc=5",
+    "fonte": "Money Times",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11"
@@ -37,22 +40,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Ibovespa encerra julho com alta acumulada de quase 4% - veja.abril.com.br",
-    "resumo": "Ibovespa encerra julho com alta acumulada de quase 4% veja.abril.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnRsVVN4c2VObXlHekkwVi16UkVHeVdMWHNwTmpYVXp5U1ZpOXRyNk5nRWxWY01aQzMwWmNGNWtGZG9mSjJHa1duZ01vNzRxb1JVcGhDMm95XzNWN1ZzWE5JTC1tNkE4TGhPUHVhRTYwUy1haWM2Y0V0OGJiWV83Q2wwR2Fid0lTN2lPY29JNnJmdw?oc=5",
-    "fonte": "veja.abril.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "De US$ 1,3 trilhão a US$ 684 bi: fortuna de Musk encolhe ao nível pré-IPO da SpaceX - Bloomberg Línea Brasil",
-    "resumo": "De US$ 1,3 trilhão a US$ 684 bi: fortuna de Musk encolhe ao nível pré-IPO da SpaceX Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUw5VksyTTBvbUtvczlJVHZ6ZzZXYW9vbm5RTW5JNXM5Mlk3NHZyeUxWbXlwWjh6V1dsY080QkhHNGRwWWs1bkVaT0FWcG15M0dHM01hOFBOSFkxVG01NDB2YVBQNXVlZ1Q3QUFkenlJcURhNmotWmdQNEVyalR2RkgxeWY2VFEteThhUWZfY05MVUVRNUp3bFc0cmd0aV9uUGlvV1hualBMUTVSOTBpc1JXN1VFMFFkVVJPRHFOV2dSajjSAdcBQVVfeXFMUEFSWE52bFNhdTZXUEVZaXZYaklsNUlqNkJMRndzdkVoWGVhQlVVZy1xLTNHS3lHRkpjalBIOEFpaEtvb1pmbV82aUJDMG5UenVJRGFKMVp1bjJfQzFCSlhVT1o0ZnV2TGVUd0g4UlN2RkpETC1TcmlsM0FwMFdqekpBVUVWak1OS19KSFQxNnBfY3BfZGhCWndZSHZTRUxkb3M5bUhPbEkzNVM1TTZsZ3dNSXFURU1qU3JXUnpfaHdRbVgyYlZoS2hoYUZVRDdBSlVJaTY4c3c?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Como Elon Musk perdeu mais de US$ 300 bilhões menos de dois meses após o IPO da SpaceX - Seu Dinheiro",
+    "resumo": "Como Elon Musk perdeu mais de US$ 300 bilhões menos de dois meses após o IPO da SpaceX Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1JhR19KekFSU3dPcGQ3QV9Vc0JXemhzTmtQaUZpRGRjeGFTUVRtXzFmTEpEQ3BXODlzak1PR2h1WWZvaU1WcDY4akN6bktLOUk3RE1QR1FkTHdvcmRwUVlhdWV4MktaTjB2WFBDb1ZFQ3hjRmVWVl9Xek5QWlQ4ckhJczl4Z1JRbTB2M25OSnFNNEVobFRfTWpMc2VIYzhSQTZDRXpXZFJSazl0U205bmxiVUJYamRHX1hBd01XdENKcXotdVpGM0kwVm5QY01HYUotQg?oc=5",
+    "fonte": "Seu Dinheiro",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -61,48 +52,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "US$ 100 milhões para os republicanos: o apoio de Elon Musk nas eleições dos EUA - Exame",
-    "resumo": "US$ 100 milhões para os republicanos: o apoio de Elon Musk nas eleições dos EUA Exame",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMV80anY3NGh2UXlNclBPNFYwZE9BQks0Rm5iM0YyeHBmM3dvLXNDLXRocGhLeVdvemRiMVJESGJsNVVxVGtNZ0FidzdGX3B5bzBfVDlHNWVpbDdqNERoVGx0Tmo1ZkFXR2xOOG9SdVAwbnpLVmZKZ0puOGdwZTdaazVhamxSZ0t5d3drSzZXSFJ3c1l4cHN6VTBpODVlb3k5YVhEQQ?oc=5",
-    "fonte": "Exame",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Parte de foguete espacial de Musk colidirá com a Lua na quarta; impacto deve criar nova cratera - O GLOBO",
-    "resumo": "Parte de foguete espacial de Musk colidirá com a Lua na quarta; impacto deve criar nova cratera O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaGxwS2paTXpvN1Zadl9jT2toTTdNZXBiOUt6UFdHUlBQbUY0TmhUM0ZlWENKRnZ4V0JTUmpDaW5PWTVMNGVvbDQybzhtSFZRSnQ4aXRtcWdFRmwzRHZmOUVsb1FPd3hMOGNsREVDZDFPUjlHa2V2WWdURVkzYjZCTlFvTlBPYzltbUl1Q0lsamp5UVVpUHhEbnZIcC1rRV9weTJZS3pGRzEwX0l0Zy0wY3poS3F5TEtvc2JiVzRKTEc1LWZRQnl4eG5aLWxrRFVVenhhMFJQT0x6dVRUem9WcmhINy1jTlFpcTJOcVREWFBJLXA4dXM3VGd30gGIAkFVX3lxTE9qd2NGZ1V1STJZT056b2Z6Y3IxbHN3RWV5cGxVYjRPdXBrbEozQlBublczREpKc3VtMG15ZlFra1R1THNTTTBsUXNGOWxUeHNEUWtPVGdCQjJ0SHNtNGx5LUVJWm8wYkFSM09VbTZER3AyS01JY2x3aklXWmlQeFFwb3RjNUMxR3plTFZELXpXQVhWbjZFMGx4ZlNRb29WZk4tNElTbjM5aHBheUh5ZjkxREp2dGt3Nld0TU9Ibm5MQVM0M2t5ck5HaXRDd3FBMk1wSmJZZTVmY2p4VTVYZW9JYUlBZmlWTkRXRDVEU29QZTk4YTl1Zk1xM253aEZmVUphQTZrM2JlMA?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34",
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "KNCR11 pagará maiores dividendos dos últimos 7 meses; veja valor - Fiis",
-    "resumo": "KNCR11 pagará maiores dividendos dos últimos 7 meses; veja valor Fiis",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjdWR3NPTFNITkZ2U3JHeHU1X2hsV1BBanZtandXNldqNDRWc3pFYWgtQjZoc2JHQlhKbHhodXI1ZzJtVEZiVGFaSElweFNTb0ZmYmpRZnpabHV1cmJmUURyWEZVZ1pTYUJNNlVma25IeDBtcDdkLVhLazBjSTh5ZjdzYmczWDFFNmJKVEt3ZWxqekhQWnN2V1Jmb0NoYkJYWmx1UjNudmFCZkJEQmc?oc=5",
-    "fonte": "Fiis",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Como Elon Musk perdeu metade da fortuna em apenas sete semanas - veja.abril.com.br",
-    "resumo": "Como Elon Musk perdeu metade da fortuna em apenas sete semanas veja.abril.com.br",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVRySDBSS2VudzBZS0N2YVlrUzhvZHR3SXJJcWdROVlwYW5mekZ0YlJZZUhCYXg5cFhqMVdfSjIzbmhYOTRwVkx6M3hxRElhdk96dUxCWmdhcnV0SkV0ampmQjNWVmwzalRjMm1RMjZOeU1fcEhyUVI0Q3dwLVB3VjNyWFRaTU82OENZSUlNREhHNEx2WFR0VFU4eVJpYkk?oc=5",
-    "fonte": "veja.abril.com.br",
+    "titulo": "Elon Musk perde quase R$ 2 trilhões em julho, mas segue como o homem mais rico do mundo - Época Negócios",
+    "resumo": "Elon Musk perde quase R$ 2 trilhões em julho, mas segue como o homem mais rico do mundo Época Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOG14YjgzMmdTQlZrNlJMbHRfeEY3NnZoSXBSMHhBQ19Zb2loLXZBcHl5SXUtRHVuQ2FpczE5Yjk3M2hyOGIxSE01WUFGTWVTSFhka1VSUEJIaUEwbTFyM3FCWGtkemoyWG00aWhDNG5KdE96dmJhRGR5SUpQNmpEOHlkaElWamlJMEFjT2FicGNRZUZhNWltUGQxTjAyN2JZQmh3SmRpaUpsaU9rYkRyNVIyNm5OYTRXdlYzRzBoZUlaNlJmckNpTTNnUTFuVTFROGRObTlMRUZPOHVMR3lCcTZyMEFIYldJLTlZa1lUSmfSAfABQVVfeXFMTzhteGI4MzJnU0JWazZSTGx0X3hGNzZ2aElwUjB4QUNfWW9paC12QXB5eUl1LUR1bkNhaXMxOWI5NzNocjhiMUhNNVlBRk1lU0hYZGtVUlBCSGlBMG0xcjNxQlhrZHpqMlhtNGloQzRuSnRPenZiYURkeUlKUDZqRDh5ZGhJVmppSTBBY09hYnBjUWVGYTVpbVBkMU4wMjdiWUJod0pkaWlKbGlPa2JEcjVSMjZuTmE0V3ZWM0cwaGVJWjZSZnJDaU0zZ1ExblUxUThkTm05TEVGTzh1TEd5QnE2cjBBSGJXSS05WWtZVEpn?oc=5",
+    "fonte": "Época Negócios",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -111,10 +64,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Fortuna de Elon Musk cai para US$ 684 bilhões após desvalorização da SpaceX - Portal IN - Pompeu Vasconcelos - Balada IN",
-    "resumo": "Fortuna de Elon Musk cai para US$ 684 bilhões após desvalorização da SpaceX - Portal IN - Pompeu Vasconcelos Balada IN",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnBHc0lVRjdfYlVsNDM1blltX3FnZEJTeEk4dTYtOHBkM3N5SUNnVlppQzJGUHBpXy1XVElmV29zazNlb0Z5cExHRkJrMk95eVpibDZLbmhza1pQTzdTNWUyX3FzQjdHS3Z6SjFOREF0bVlwd09neEg3TWZZQnVLNWhMSGRXRjRaWm84VWFUeFJrMHd4bWoybUpJS3JKM1ZEWmpqclpiT1RtaTdEWlNWSjdn?oc=5",
-    "fonte": "Balada IN",
+    "titulo": "Musk zoa editora da “Economist” após invasão de marroquinos em Ceuta - Poder360",
+    "resumo": "Musk zoa editora da “Economist” após invasão de marroquinos em Ceuta Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkVrVkZ3OXd5cE5hRU5GU1JIZzV6SUNHczZ4SzE5RUdEb3FzUW9aUGtuclhnT2QxNnM0d0hxVzliWVJxb2hIbHJDYzc0ejl6N1V2NEZwZWNld3dObUtOTUpUUWZ2MTF1NDhfRnU3RlBDWVBuZlZYMXlsWkVjMWluOE1hZ1k5VDhYUDdVSWJ3TzZFbE9STUJLUjN3NGpKYkRXc3paNFZ5NU44UFE?oc=5",
+    "fonte": "Poder360",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -123,34 +76,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Elon Musk planeja investir até US$ 120 milhões para eleger republicanos - Vero Notícias",
-    "resumo": "Elon Musk planeja investir até US$ 120 milhões para eleger republicanos Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHpyTS1oSXFHTjVFdl9PTlY3bnluSHRScHZYUkVBMEYwcGJoX1NQMzJYUUYyeFZudmZ4WFByd1k2dTFMQWxzQjBxcEJkRU1YTHlhQVRscWZMSmVUMDFSc2RrZ1U2eUJOenBNMWsxZEdRWDZlYmZ0UVhqMngwQi1uek95LTBVNXEyYzVTUGdYdjJ6bTQwanJQM0dFYkNMS3R5dnVjdA?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "FIIs na Semana | PMLL11 e HGLG11 movimentam mercado - XP Investimentos",
-    "resumo": "FIIs na Semana | PMLL11 e HGLG11 movimentam mercado XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlUxUzBZOFZlR2xpU2lFTkNTaWFXUmZyTlpRNmEtU0pLdk9tZThHaURJSXdiM3U5ajUzZm16NVZ2R2wtOGhFcWFLOVNmVm15ZnZieW0tdXJOQzhQRkFLVV81MFpQX3ZBUmlJR043VUtBN3d1dkN4eTQ2VnJUcDlLWF8zWVBIUV8yaERqSGhiX3l4WWFEUnExNVBMTFJsSEpKbWxjQU5HblluSy03d05J?oc=5",
-    "fonte": "XP Investimentos",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "HGLG11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FIIs de tijolo, vacância ou aluguéis"
-  },
-  {
-    "titulo": "FII KNCR11 anuncia dividendo com yield de 1,16%; veja valor e data de pagamento - InfoMoney",
-    "resumo": "FII KNCR11 anuncia dividendo com yield de 1,16%; veja valor e data de pagamento InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVF5SV9DSVROblRmbHFVbHctTXRJZGNiM0pjU0hiQ1JKOEZGUWhxcXhkMXcteVBpU2VjbFd4WThhQVo0ZlQxcmFjdE1kbnNPX1NaWlBLaFlJTHJleHp0ZmtOY3F1SWYydVVUQkNYWVlwMHd2Y2gtTURkdXBRbVd3aUhCby00WnJvZGhoSnBJMmtmaXQ3MmV5NGVOTkk4a0ZHNzk3NVNzUzFaZmdubTZ5N21UV3QwdVZ2enR1TNIBwgFBVV95cUxNNFNtSUNfX0hpV0pPTWZ1NUIzMUlBQ2FFVWJaYUlILW1ESVNVR1dlYmd6NHYyY2cxZVVtWjk1R09DdUZNUkpCN2xTV2F1UGYxVmhLQUdvWmUwazhxLTZJMFRNSV9vek5DdndNMm5NS0Y0WHlUa1NZZmVRM19PUldxYVBYQzJlZHlJa3VjOUFSdE9YX1pQdDNpRDVBelU1RXhLMjNSYjJhbzZQc0FsWEgwTE4wbjMxNExQS1l5WWJHQjhIZw?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "FII KNCR11 anuncia dividendo de R$ 1,25 por cota; veja como receber - Investidor10",
+    "resumo": "FII KNCR11 anuncia dividendo de R$ 1,25 por cota; veja como receber Investidor10",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3VTMUVtR2pkV0VHRndPeVJGdExLUWVaZUdkUHpsREhEUXJ1Y3haUlJ3RXdiU3FYY3BHOUVwWVVuRUtwZnFFOWFjZ3VkUENRdFBCVlZTbVZha3hMOFdabmRqdE1NM3M5RmlpQVJScy1xZkFjYXd6Zy01ek95M1RwSWFiTjdkNUtRbHZndDFDMDBJbTJabTdXam1EX09MQnFMVjFpM1I2MGFKSTZFT0ZB0gG0AUFVX3lxTE01cVNfZG1ZSXpfcEd2dHEwN0NjMm1DRWxrXy0wclJMNzRWWVFMQUtOLWZfQ2YzSkl0VXJWcDcxUm12ZXJlUjBoTlJSMXdOejlzR1pGYUtDVkdCYmtvUFlRZ01TZDh2NVZYNDNmZklZX0VucVFleW5BelUtUi1GdzQ1WGFhaE85ejI2MjNvdFlfMXFSdkJNSDlJYk9SZXdjNDNjOFBrWnVxbnNNZTc2d09jSDJSOA?oc=5",
+    "fonte": "Investidor10",
     "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
     "afetados": [
       "KNCR11"
@@ -159,22 +88,58 @@
     "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
   },
   {
-    "titulo": "Fundos imobiliários: HGLG11, KNSC11, PMLL11 e outros FIIs com atualizações; confira - empiricus.com.br",
-    "resumo": "Fundos imobiliários: HGLG11, KNSC11, PMLL11 e outros FIIs com atualizações; confira empiricus.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR3lMc1FxR003dUVUazlTZGdWaWEwbWlmR3BLT1RseURxejc5ZEZvU2tqblh1ZnNVQ1JNMGktNTRnejhvUV92QVpteVg1NG9STll4czdseS1SV0d5Um9MZWt3TFZEVi1TbTV1MktrVHRHNi03VzUyTlVUTVR6Vl9HMWZwM2RtSWw2SGkxcDg1WmJrd3lKUXFHRk4yd1BMT3NNbDhtRW94RmwzSmhtMW9qWXZRNUUxdGYtTzFWZktPMjBWQ3kwUmZONVlTTmVIQ3dsMHc?oc=5",
-    "fonte": "empiricus.com.br",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "titulo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda - cointelegraph.com.br",
+    "resumo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda cointelegraph.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbm8tY2x2Ml92aWRJRmxUZzRKUHNrdlhDREs0cnZZYkl0Wkw5YkJvdlJkZ0lxNXpmUURnNXl0XzhQS2FkQWdDR3VKeG5lRDZzbkJGQl96RnphcnNsdnFiZExrMmVOUEdrXzliYi1UTWVNcDEzZWdJWU1OLWI0RUlLWnR3anhlX3o4Q2lBRHl3bFpBN1lVYm5MQXIxUnI?oc=5",
+    "fonte": "cointelegraph.com.br",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "HGLG11"
+      "CDB 100% CDI"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar FIIs de tijolo, vacância ou aluguéis"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Quando o banco central fala de mais (e de menos) - O GLOBO",
-    "resumo": "Quando o banco central fala de mais (e de menos) O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeThrLUJsWG9OVW1IOXF3bWJreEZILWZEUDF0QXJWck9FLVFxWmZ6bF9Ld2kxWjFqSTVhRzFiSG1RTWhhV3RBdmcxWVh2WUpRNENmczdOeC1hRllVbzV2eHdxMzNDdC1qSlUxa0M3Y1kxMWhDYmFRSVJERmR3bHVXRG9ONm9jeGRhTGJrZ3JaQmpzWjZJWUtUV3R3eGxfbkZHcWVMQlNpdXVsVGdUaDVNdkpDc9IBwgFBVV95cUxQNTl0d3M4Mi1jcFNuRk1JSjg1UDJ6bTNkZUZ0V0RDYUJOSTk2Z09EMm9HZXlEbUMyLUhyNGJfblJ6NjVzMHVJbGItaS1TZE5NZWhXaTl3eDRoNnBFQ2ZlcGVUaF9JSFk0bllpVjBjNkp4VWxxUnh5Qk1QUnVLUUxoamppTDBGc214a3FzalB3bGhnUU1iMkVtLWM5aDBUVVppVXZjQXF3b0JjTzZvbVRpYS02UVdiS1RsNWRSb2w3UlZvdw?oc=5",
-    "fonte": "O GLOBO",
+    "titulo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central - Poder360",
+    "resumo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGVERTZ5OWZKbWl4MnptX0FwY3J0aWFpOVNYdDFZamx6WVN2clh5QWRFNV9NYW96RzFmejByWmUyRWJWbjdJS1cwSVRvX29WMFN6Q0I4Y1BhamtQODk5dmxoWXFJVmluNzNCU2pQeXJ6bUVpZm1DTVd1NU9NcGFndTRkYkNqVW1CQXNaU0hZemo1MTJYNGYwbFFHaDFZczN2SFBB?oc=5",
+    "fonte": "Poder360",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central - Estadão",
+    "resumo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central Estadão",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlM0YUFGaXhUeWc0WUI1M19UTjJ2MFo4NTh2TlhVdnVIMENENUNtaEpJN1NlejhfUTRJV2JRa0tKTlVDakRLbGZjUGUzdWFTOXJnTWQ1T0ZLWDFIaUpzdlV5QTEtV3R5d0p3bWpIN09TYThHakxEVF9aOEl1YkJLcnlUcTRsS3R2aDB0UWYtN3pLdGlKVkRUV0ZLbw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Milei propõe reforma do Banco Central para barrar financiamento do governo - InvestNews",
+    "resumo": "Milei propõe reforma do Banco Central para barrar financiamento do governo InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEt6ZmJFT2N2ZEZVeTgwcDNvNTJMOEFjWFdiVC1lNHVKZmVjUHllOG9hWjBKUGFaeDJRTE5Wd2R5UzEtdE9ISkNGTHZBSUt1cXZGaDliRHp0dWhjYWhRTjRTTFZUVHV4TmsyUVlyXzVMdm9VYWJXMDktSlBOMHZqdzNsNlhlSzU4UFdsdHdIOGY4cHFnM2RMTEV0TWhnRnNGdEtCdXRHRHh4ZEVqelU00gG0AUFVX3lxTE1NOFpYVkVpcnJIMGdCV3U2OHlBMVhNNGdHRGNiaXZ0NHVKUXhURVkwU19vcXdad29YV3FMaTgzbklaVWJFajFaTTBqNi1EVE9yZlE0YkdlMk5JbTRQbUtCZllCMVhHLTJVNFQ1YXdQWVZ2bFlkb1RMOU4yQlZ6bjlJUXVoZXVVX0NpVG11ZlZDcUVKRzhKVEpYM1ZxNUxlZVRHLUtqanNJU0hrWUNHNzNGS2pNZw?oc=5",
+    "fonte": "InvestNews",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina - G1",
+    "resumo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina G1",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUNPd085cDV6ZnBPb2w2SG03LWE1Rk45TGxFWDNNMUxONWF3WlNjYmxZMTM3dzFpemMtbk9MQ2tFVmFpWEE3Y3ZmRnBJZm9UZUhEZG1FZmdXM0hrWkRPREJHU1hSS0hzRGpqVVRjdEpWMTE2di1KX192dG9xWEFnOWp3MmtsU29penVlcnhBWDExM3RJcE9uV3NsQlhvNDRzalNjRVhsWjJGU0lPQ0NSV2VRMmVVWE5iZFpRTDg3SnZBQmpPQ1JkaHRyZGxtOW9oSnfSAeABQVVfeXFMT1Jwa2hXMFRzbEVnT3FkdWxqODMweVU2Q1pERlhKVk9VVTFEd2hBQ0tNb0QzV25odC1jZUk5UXpqQmlocXJKc2VfWmlfN3lZd0VlRzZLUUwtbW5qT0g0YkpFYTFmNGdIdWJWbHVFVjk5R3VfYnAwOUNHb3RSXzlRN2dHdEJoNUNxenVPZzJjLWdjMnBZNWljR19NMXBYOVNiZ1hfOWJ2WmFyekYtSWszTVlpME00S3dUQ3dtMHNJTV9rRXk5bWg3emxJNGdFNTJ1WTM2cldfVTJHX3FjcFJVb0c?oc=5",
+    "fonte": "G1",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"

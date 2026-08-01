@@ -1,154 +1,5 @@
 [
   {
-    "data_envio": "2026-07-14 12:57:06",
-    "titulo": "SpaceX perdeu força um mês após estreia histórica na bolsa de valores? - BBC",
-    "titulo_norm": "spacex perdeu força um mês após estreia histórica na bolsa de valores bbc",
-    "fonte": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DQW4zMDdHcklsYU15UkdlcUF3RExxXzVIME1EOVdBR1RLdi05ZnpkRmI2Vl9IQmc4Tk53TTZyeEo5Qk5SbEZWc1FTak1zM3pBU01xdVNtR1hiWHdWaURLRUd3?oc=5",
-    "impacto": "Baixo",
-    "ativos_afetados": [
-      "SPCX34"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Economia em Destaque: IPCA abaixo do esperado reduz juros futuros - XP Investimentos",
-    "titulo_norm": "economia em destaque ipca abaixo do esperado reduz juros futuros xp investimentos",
-    "fonte": "XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbE1vSjUxWGNGY2RBamJONFl1XzN4M0JJNWRaQkhXMWYzT3I0RlNzUUMzWmFiZzJKQWdyNzVsTExGRURJb29mNm42MGlHd3I4LU1OY3dqN083MmhFSlpmaTRnSUdHbW41T0NpX2Y5TTNXSzBoOWh2TzRFSTEwVVNZWVR4WVptcW5fUGdfM0t4dTdPTFVrUEFzR0syTFV3WkJKUllyZDJB?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Dólar cai mais de 1% e Ibovespa avança após inflação dos EUA vir abaixo do esperado - Bloomberg Línea Brasil",
-    "titulo_norm": "dólar cai mais de 1 e ibovespa avança após inflação dos eua vir abaixo do esperado bloomberg línea brasil",
-    "fonte": "Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzZUa2ptNVgyOUVDN0FhemJoNUpIUklIUktZNG1fMmNIYzJxbmR2S0ljZXVTQzJNLXJveFBqR1hWaDlTVnFaNDBxdVptNDYxbGhlUFFRdWt6dlpKSEt5RHJNXzJ1SEQ2eVUxcXhMVG5VdUQ2by10OW92S0xVMTBLV2lEb0tLV1p6ZDRhU0RDQmZJaEZRRXQ3NGV3b0VWVU1uNEVTVGxsRElRMm80MmJXWTFUbGdHcG9kNWg4YmE4Tkg4OXpZ0gHYAUFVX3lxTE5yckk0WDJhTFVhRXBPeWI0amM3VE01dzNQSjlXbjRjbVR1Z1Z5bWc3XzVZSVUwZXRPT3dhMWJVSUtha005MFRKN0RyZGJwblU2NXktNkZxNjJQMTA2ODlIUUpoc1NndXBxbXF6eHREbEhJZEdNbmVfX0VpQ1JZYkFNaGdPZzc4cFlWSHhJUnVmRHMyeDZmZ256RERrMk5OZDN6MGJ0RXFlUUwtdlFQRUQ1cGxqaXZCaHltQVlHY2VVX080WlI0UTlfdDBmSXR1QmJyVVRNR25XSg?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Ibovespa sobe com alívio nos juros dos EUA e impulso de Vale, B3 e Banco do Brasil - ADVFN",
-    "titulo_norm": "ibovespa sobe com alívio nos juros dos eua e impulso de vale b3 e banco do brasil advfn",
-    "fonte": "ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3VkLU1jNVZJbHU4RXBjbVBuX2dmQTF1VW94YmlYeEtmbzhmclpSZkJmSkZPdndnd3B1dTR5Wkc5Nzkya0M0NmYxRVdOZzB4Z0ZEa0k4LXYxUWRnTnFfU1FyVFBWamQwMU5WSlhJRlRCNV8zajdMWm5GTHZTTmNLV1pyZjNUeWstQ0RTUnNDZVlFS1NYVjFHdmVwSmlmRU5aTlVyQzZaREV2Uzg3RHo4RTBGRldoa1ZO?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Einar Rivero: IGP-DI volta a se aproximar do IPCA e sinaliza um novo momento para a inflação brasileira - Bora Investir",
-    "titulo_norm": "einar rivero igp di volta a se aproximar do ipca e sinaliza um novo momento para a inflação brasileira bora investir",
-    "fonte": "Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORGFYbmFQbGlyUHBseURmUEI2RnNtc2ptc05WTDBGOU01bGpUSnBIYXd6VXAxNy12MTRjR1I2X0hKcGlXWUVCWkNBTVNPMHdMS2EyUUFqTUZpWllBai1BcHRCNDdIY1VKWWZ2T05xTXljQ01KeXhiWnZBRVl4OXB4TnlPeWhORjY4Z3BGdUNfbTg5Z0VJV0NoYlRlaE1iVU9MaTZ5NXZqY0Q2bUNGSVNuUEI2TnJ2bnI3YzdQemdzOFVpVnd4UXdIejdHeFh1LVNkQkVzVnUyQ2lKRVhDOWZwbzhpTEo4R0ZMbzBtYjZxZw?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Ibovespa sobe com alívio nos EUA e dólar cai abaixo de R$ 5,10 - suno.com.br",
-    "titulo_norm": "ibovespa sobe com alívio nos eua e dólar cai abaixo de r 5 10 suno com br",
-    "fonte": "suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aY2F4MXFTYVRHdG0tbkc3WHhBc0hIemxtanBjeVM3akdnMHJ5WlB5V3FWZi1rRnNYV1lsMmhrYUFMbmtpNEdFWkwtTGhlVGFxV1ZYY19MUkYwTDlsNS1EUXNONTlJX3R5eTV6dnZWUE5iMC1ja1Y4NXJsclJyZ9IBgwFBVV95cUxPQ0JtYTNJVmViNkt0bE1TSUk3Ri1kTjhLby1HR0pFQlBIZGFIVGdYSXB2UnR1YXhfZzlrLTM4QUtOWU1Zd2xxLWVmcklRZkxxMlM2OGc4SWxOeXMtVHdrV3VoYTVlR1V4bUNnUkRZVzcxTEJfLU5LS2JkOFhMZXZOaGtuTQ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Fechamento EUA: Dow, Nasdaq e S&P sobem com recuo da inflação e balanços bancários; IBM desabou e petróleo subiu - ADVFN",
-    "titulo_norm": "fechamento eua dow nasdaq e s p sobem com recuo da inflação e balanços bancários ibm desabou e petróleo subiu advfn",
-    "fonte": "ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzNnTUU0Q3Z5Tzh5RzV0eDdZc25xS3Rna3FqY19FY281aEozb2ltZHROWWxDTHo3dWRMeVVVNXUxcDJVYmE4UVlwSE1QWlNQNHZBRVQ2TDRHNGQxdklXb2RBN3BPdzAzR2lwY3oyVjJ1dXFiY2JiLWlvVWRBMFJ2VE1NVHFpNUNtak9HTHlTaWVYTzhRa0NBS1NEZnhkRldhMHFUaWp1Yko?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos - TradingView",
-    "titulo_norm": "s p 500 e nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos tradingview",
-    "fonte": "TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0cXZROF9YNGRnc3VjaVVwT2p3a0N1SDR3cVdMYlc0UmJwTFZ0UmVaUzJaejRkRmpjTy16aWg1VExtT3JmWU1zM3BFWlB3SnNYWnpfRXRYT0p3MlVnMVRPaU45VmUxRHlJSGE4RnZzaG1MektXUzI0?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "S&P 500 e Nasdaq abrem em alta com foco em inflação e resultados de bancos Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "titulo_norm": "s p 500 e nasdaq abrem em alta com foco em inflação e resultados de bancos por reuters investing com brasil finanças câmbio e investimentos",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWJuTDlzRXFMUDU5TmE3dmJ3bWREUE5admozYnJuTnB1c3BGRUMxME10MFBlOVRWTmZBR0x1U1RQeXZfS2gtUGFCdUxkc3RzalYzdWlBNFVnaUczTWpzY29taTJoRGNSd21XM3NwVkNCTGFFamJjak14Rm0zbXRTeTJ6cWQzYmdRZmJ2aFlibDV2RmdMUGdxQlB0VXgtOEREXzB5aVoxQzhIX2JTY1dwYTRTZEFhcDJOMEluS2FnYTJsZw?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Abertura EUA: IBM desaba e limita alta do Dow Jones; Nasdaq e S&P sobem com inflação abaixo do esperado - ADVFN",
-    "titulo_norm": "abertura eua ibm desaba e limita alta do dow jones nasdaq e s p sobem com inflação abaixo do esperado advfn",
-    "fonte": "ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW5KVmlVZmthd2l2VWh4c0pHYi1jWXpDZ3hpMldxWlRtOXEwbklKejNWUHhQVXN3bXMtZzVJWmNZbHR4UDJVTjRsdlg2SXo4V21QVXNOb3ZKWkl1d211a2NWMjhFZ05TMEtWejFNbl90MlRHRklEdU50UDRtcTh0ajB3amtzX05OamsyOXdjQXNBcUlrclFCS3BYLVh5aEJYcnpKbkxvb3FPUQ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Presidente do Fed Defende Independência do Banco Central e Resiste À Pressão de Trump - Forbes Brasil",
-    "titulo_norm": "presidente do fed defende independência do banco central e resiste à pressão de trump forbes brasil",
-    "fonte": "Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkZEVlo5TnRCYnZ5UHJEWlNsbFpKRVZQMkc4TjZzbl92b3dLQ0FrVVNzQUFIMW9QenNyWFU4YVJ2WTdYdExKVFpDUEJFeHQ2OEZuX2dIMkZnNjZIWWdlTXpnOVZjNW41cEgwU2dXMjJMMVV3WUVTeWZKdGFWLWJ4R1hRYmNUZndUQmVidUYyQTZkY1piSnQ0RGVxcnpBdTgzUDJXZEd6ajQ5VkJfaXlWeGJXVTA5WHpPNE5GS09XNGJrQWxwMzN2RQ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:42:35",
-    "titulo": "Cenário sem cortes da Selic ainda é extremo, avalia gerente do Daycoval - CNN Brasil",
-    "titulo_norm": "cenário sem cortes da selic ainda é extremo avalia gerente do daycoval cnn brasil",
-    "fonte": "CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMFVIZ0FubnRDZHVLYk45eWRjQ1dRVHFGTUJ1RDNtNWxSallUWUMwWjZZY3hSMFlYYjFsQVNNcjdMNjMxT3JEYkhLbE0wRTd6d3hfZmdYZG4xbTlJU1ktN3hmMGItdEtzbnBwOW5rd01Xd1RjdElQTzZ5T0EtQXZPbi1QVy1mM3BJbllJRkV3SGZodzh2Z0o0OUx1aTlVTENaekQtY0x2T0RpN0wwaWJxMEFHbzRaenNDemJ0RjdhZlc?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
     "data_envio": "2026-07-14 21:42:35",
     "titulo": "Ibovespa sobe após dados econômicos dos Estados Unidos - VEJA",
     "titulo_norm": "ibovespa sobe após dados econômicos dos estados unidos veja",
@@ -5793,6 +5644,142 @@
     "titulo_norm": "quando o banco central fala de mais e de menos o globo",
     "fonte": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeThrLUJsWG9OVW1IOXF3bWJreEZILWZEUDF0QXJWck9FLVFxWmZ6bF9Ld2kxWjFqSTVhRzFiSG1RTWhhV3RBdmcxWVh2WUpRNENmczdOeC1hRllVbzV2eHdxMzNDdC1qSlUxa0M3Y1kxMWhDYmFRSVJERmR3bHVXRG9ONm9jeGRhTGJrZ3JaQmpzWjZJWUtUV3R3eGxfbkZHcWVMQlNpdXVsVGdUaDVNdkpDc9IBwgFBVV95cUxQNTl0d3M4Mi1jcFNuRk1JSjg1UDJ6bTNkZUZ0V0RDYUJOSTk2Z09EMm9HZXlEbUMyLUhyNGJfblJ6NjVzMHVJbGItaS1TZE5NZWhXaTl3eDRoNnBFQ2ZlcGVUaF9JSFk0bllpVjBjNkp4VWxxUnh5Qk1QUnVLUUxoamppTDBGc214a3FzalB3bGhnUU1iMkVtLWM5aDBUVVppVXZjQXF3b0JjTzZvbVRpYS02UVdiS1RsNWRSb2w3UlZvdw?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão - Folha de S.Paulo",
+    "titulo_norm": "opinião de grão em grão a selic sozinha não faz verão folha de s paulo",
+    "fonte": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjZ0RDVDc2IxOTBHa1VOcDA0MXkxSGt2Y0U2WnZlQ1laWGI5Y295elR4Uzc4S3RaVktlbUdVdWdNQWhpMzhUaWZxcXMwZ3dZaUJsVlZySHhHa240UlZGZExwUGFwcFp0ZkJJd09oOW1yeGtVZWJwX1A1Ql84amhaREd2QWViaVdiWVotUmtZLVVMQlJsSHFKLXJiVQ?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Taxa Selic pode ter redução tímida, aponta economista - band.com.br",
+    "titulo_norm": "taxa selic pode ter redução tímida aponta economista band com br",
+    "fonte": "band.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjdic3pzLThxbjVFZy1uVVZyaXdUQjhfbGQyWkxycUhmak5Mcnd1NHBscFBaazVNRkF0MkFVU1hGNjRKczBMc3VyRExmTDZTOGc3dHNVdDIwdmtJTGg5dk5SY0xiSWNnYVRtWmJEc255d0NmcHlNVmEtbTF5RS02QTJudzRHSzB1cE44WVNwSW1pUVphQWR6RWtiSFRiNWFsZTVRcVQyLXBNYjVL?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Suzano (SUZB3) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra - Money Times",
+    "titulo_norm": "suzano suzb3 e mais 4 ações para bater o ibovespa ibov no curto prazo segundo a terra money times",
+    "fonte": "Money Times",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm1vQVVPNmVTWUVvMC1lSl9OY3lJYy1ybHNxOV81bl9sSzREci1fbEdSZUV0TTJjRUdLRDlWUzZGNlNId0JfaGNsY2tBaHRYeDdROXZoZTZVRkRhU2xhNFBRZm9FaGN4MU1VYzl3LXdlbEo4SEl2Y1VQczRjaGJfRVA4aHBsaDE3UkJSblNPOU9LQlZFaHRBQlFKcmUtWGpSUG85ZUxPV0RDVWVqTERfbmU4WGwwQW92TmR1ZFZR?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Como Elon Musk perdeu mais de US$ 300 bilhões menos de dois meses após o IPO da SpaceX - Seu Dinheiro",
+    "titulo_norm": "como elon musk perdeu mais de us 300 bilhões menos de dois meses após o ipo da spacex seu dinheiro",
+    "fonte": "Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1JhR19KekFSU3dPcGQ3QV9Vc0JXemhzTmtQaUZpRGRjeGFTUVRtXzFmTEpEQ3BXODlzak1PR2h1WWZvaU1WcDY4akN6bktLOUk3RE1QR1FkTHdvcmRwUVlhdWV4MktaTjB2WFBDb1ZFQ3hjRmVWVl9Xek5QWlQ4ckhJczl4Z1JRbTB2M25OSnFNNEVobFRfTWpMc2VIYzhSQTZDRXpXZFJSazl0U205bmxiVUJYamRHX1hBd01XdENKcXotdVpGM0kwVm5QY01HYUotQg?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Elon Musk perde quase R$ 2 trilhões em julho, mas segue como o homem mais rico do mundo - Época Negócios",
+    "titulo_norm": "elon musk perde quase r 2 trilhões em julho mas segue como o homem mais rico do mundo época negócios",
+    "fonte": "Época Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOG14YjgzMmdTQlZrNlJMbHRfeEY3NnZoSXBSMHhBQ19Zb2loLXZBcHl5SXUtRHVuQ2FpczE5Yjk3M2hyOGIxSE01WUFGTWVTSFhka1VSUEJIaUEwbTFyM3FCWGtkemoyWG00aWhDNG5KdE96dmJhRGR5SUpQNmpEOHlkaElWamlJMEFjT2FicGNRZUZhNWltUGQxTjAyN2JZQmh3SmRpaUpsaU9rYkRyNVIyNm5OYTRXdlYzRzBoZUlaNlJmckNpTTNnUTFuVTFROGRObTlMRUZPOHVMR3lCcTZyMEFIYldJLTlZa1lUSmfSAfABQVVfeXFMTzhteGI4MzJnU0JWazZSTGx0X3hGNzZ2aElwUjB4QUNfWW9paC12QXB5eUl1LUR1bkNhaXMxOWI5NzNocjhiMUhNNVlBRk1lU0hYZGtVUlBCSGlBMG0xcjNxQlhrZHpqMlhtNGloQzRuSnRPenZiYURkeUlKUDZqRDh5ZGhJVmppSTBBY09hYnBjUWVGYTVpbVBkMU4wMjdiWUJod0pkaWlKbGlPa2JEcjVSMjZuTmE0V3ZWM0cwaGVJWjZSZnJDaU0zZ1ExblUxUThkTm05TEVGTzh1TEd5QnE2cjBBSGJXSS05WWtZVEpn?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Musk zoa editora da “Economist” após invasão de marroquinos em Ceuta - Poder360",
+    "titulo_norm": "musk zoa editora da economist após invasão de marroquinos em ceuta poder360",
+    "fonte": "Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkVrVkZ3OXd5cE5hRU5GU1JIZzV6SUNHczZ4SzE5RUdEb3FzUW9aUGtuclhnT2QxNnM0d0hxVzliWVJxb2hIbHJDYzc0ejl6N1V2NEZwZWNld3dObUtOTUpUUWZ2MTF1NDhfRnU3RlBDWVBuZlZYMXlsWkVjMWluOE1hZ1k5VDhYUDdVSWJ3TzZFbE9STUJLUjN3NGpKYkRXc3paNFZ5NU44UFE?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "FII KNCR11 anuncia dividendo de R$ 1,25 por cota; veja como receber - Investidor10",
+    "titulo_norm": "fii kncr11 anuncia dividendo de r 1 25 por cota veja como receber investidor10",
+    "fonte": "Investidor10",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3VTMUVtR2pkV0VHRndPeVJGdExLUWVaZUdkUHpsREhEUXJ1Y3haUlJ3RXdiU3FYY3BHOUVwWVVuRUtwZnFFOWFjZ3VkUENRdFBCVlZTbVZha3hMOFdabmRqdE1NM3M5RmlpQVJScy1xZkFjYXd6Zy01ek95M1RwSWFiTjdkNUtRbHZndDFDMDBJbTJabTdXam1EX09MQnFMVjFpM1I2MGFKSTZFT0ZB0gG0AUFVX3lxTE01cVNfZG1ZSXpfcEd2dHEwN0NjMm1DRWxrXy0wclJMNzRWWVFMQUtOLWZfQ2YzSkl0VXJWcDcxUm12ZXJlUjBoTlJSMXdOejlzR1pGYUtDVkdCYmtvUFlRZ01TZDh2NVZYNDNmZklZX0VucVFleW5BelUtUi1GdzQ1WGFhaE85ejI2MjNvdFlfMXFSdkJNSDlJYk9SZXdjNDNjOFBrWnVxbnNNZTc2d09jSDJSOA?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "KNCR11"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda - cointelegraph.com.br",
+    "titulo_norm": "aviva lança fundo tokenizado após receber aval do banco central da irlanda cointelegraph com br",
+    "fonte": "cointelegraph.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbm8tY2x2Ml92aWRJRmxUZzRKUHNrdlhDREs0cnZZYkl0Wkw5YkJvdlJkZ0lxNXpmUURnNXl0XzhQS2FkQWdDR3VKeG5lRDZzbkJGQl96RnphcnNsdnFiZExrMmVOUEdrXzliYi1UTWVNcDEzZWdJWU1OLWI0RUlLWnR3anhlX3o4Q2lBRHl3bFpBN1lVYm5MQXIxUnI?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central - Poder360",
+    "titulo_norm": "dívida bruta atinge 81 9 do pib em junho diz banco central poder360",
+    "fonte": "Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGVERTZ5OWZKbWl4MnptX0FwY3J0aWFpOVNYdDFZamx6WVN2clh5QWRFNV9NYW96RzFmejByWmUyRWJWbjdJS1cwSVRvX29WMFN6Q0I4Y1BhamtQODk5dmxoWXFJVmluNzNCU2pQeXJ6bUVpZm1DTVd1NU9NcGFndTRkYkNqVW1CQXNaU0hZemo1MTJYNGYwbFFHaDFZczN2SFBB?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central - Estadão",
+    "titulo_norm": "concessões de crédito livre sobem 6 7 em junho aponta banco central estadão",
+    "fonte": "Estadão",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlM0YUFGaXhUeWc0WUI1M19UTjJ2MFo4NTh2TlhVdnVIMENENUNtaEpJN1NlejhfUTRJV2JRa0tKTlVDakRLbGZjUGUzdWFTOXJnTWQ1T0ZLWDFIaUpzdlV5QTEtV3R5d0p3bWpIN09TYThHakxEVF9aOEl1YkJLcnlUcTRsS3R2aDB0UWYtN3pLdGlKVkRUV0ZLbw?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Milei propõe reforma do Banco Central para barrar financiamento do governo - InvestNews",
+    "titulo_norm": "milei propõe reforma do banco central para barrar financiamento do governo investnews",
+    "fonte": "InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEt6ZmJFT2N2ZEZVeTgwcDNvNTJMOEFjWFdiVC1lNHVKZmVjUHllOG9hWjBKUGFaeDJRTE5Wd2R5UzEtdE9ISkNGTHZBSUt1cXZGaDliRHp0dWhjYWhRTjRTTFZUVHV4TmsyUVlyXzVMdm9VYWJXMDktSlBOMHZqdzNsNlhlSzU4UFdsdHdIOGY4cHFnM2RMTEV0TWhnRnNGdEtCdXRHRHh4ZEVqelU00gG0AUFVX3lxTE1NOFpYVkVpcnJIMGdCV3U2OHlBMVhNNGdHRGNiaXZ0NHVKUXhURVkwU19vcXdad29YV3FMaTgzbklaVWJFajFaTTBqNi1EVE9yZlE0YkdlMk5JbTRQbUtCZllCMVhHLTJVNFQ1YXdQWVZ2bFlkb1RMOU4yQlZ6bjlJUXVoZXVVX0NpVG11ZlZDcUVKRzhKVEpYM1ZxNUxlZVRHLUtqanNJU0hrWUNHNzNGS2pNZw?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 21:43:14",
+    "titulo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina - G1",
+    "titulo_norm": "milei promove reforma do banco central e shutdown em caso de déficit na argentina g1",
+    "fonte": "G1",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUNPd085cDV6ZnBPb2w2SG03LWE1Rk45TGxFWDNNMUxONWF3WlNjYmxZMTM3dzFpemMtbk9MQ2tFVmFpWEE3Y3ZmRnBJZm9UZUhEZG1FZmdXM0hrWkRPREJHU1hSS0hzRGpqVVRjdEpWMTE2di1KX192dG9xWEFnOWp3MmtsU29penVlcnhBWDExM3RJcE9uV3NsQlhvNDRzalNjRVhsWjJGU0lPQ0NSV2VRMmVVWE5iZFpRTDg3SnZBQmpPQ1JkaHRyZGxtOW9oSnfSAeABQVVfeXFMT1Jwa2hXMFRzbEVnT3FkdWxqODMweVU2Q1pERlhKVk9VVTFEd2hBQ0tNb0QzV25odC1jZUk5UXpqQmlocXJKc2VfWmlfN3lZd0VlRzZLUUwtbW5qT0g0YkpFYTFmNGdIdWJWbHVFVjk5R3VfYnAwOUNHb3RSXzlRN2dHdEJoNUNxenVPZzJjLWdjMnBZNWljR19NMXBYOVNiZ1hfOWJ2WmFyekYtSWszTVlpME00S3dUQ3dtMHNJTV9rRXk5bWg3emxJNGdFNTJ1WTM2cldfVTJHX3FjcFJVb0c?oc=5",
     "impacto": "Baixo",
     "ativos_afetados": [
       "CDB 100% CDI"
