@@ -1,25 +1,6 @@
 [
   {
     "data_envio": "2026-06-24 04:36:15",
-    "chave": "763e929e4d031a6cf06d54332749b31f9789288a4427cf3b86a9aad6b4c664ed",
-    "titulo": "Copom acertou ao realizar pequeno corte na Selic, avaliam economistas - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaklaUUswS3VOUkhSTU92X2hSTG9IRzhNT0kxdmdrNHI4ZGtmNTYzYTlsT0tYZWpaT1J3VmZVbWsxR3RzZV9EbkcwMTBTZ1RRMGcxWGRIcGJVTHg1N0dFLXNHVmNjNlFZQ3V1MFRLRDJjdW9vRmNlWGY5VlI5VUdlZkNpWGxQVVBjMEpFSkRoeUEyVEItN2ExTGVpdjU4eTY4VW5pN0pDaGg3TWdmQkltaVdTUWNTUzhZOGtlTGZzUnd2Z0lIZzJzQklrY3NnbDYwWk5RTzc4WTMtTUN2LWFN?oc=5",
-    "fonte": "Agência Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-24 04:36:15",
     "chave": "af008ea9d4cd66621fff4a03b474f9ca71464e5bb665896696b086d92272153f",
     "titulo": "Copom: cenário atual exige taxa de juros em patamar elevado - Monitor Mercantil",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG9uOHRzampFZklxLU5iaGlKTjFBX1JrNWVwT0tEazZoZHFIUllpZ3psb1lQWDNjVHh5czBPOTBYNzEtcDJZRHBSd2xkYzViSGQwcXd2T1B2Q2E4eGcxNHVDTy1pa3FNLWJvYkVDUDRBeklJWGZHTm5Ja3o1bzI1SmFDQzRIX19ZWWtCVGpuWllvQmRYOFE?oc=5",
@@ -17033,6 +17014,21 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 09:21:11",
+    "chave": "f049128081da49ffcfdd4a64dc3d5375a7a47cee942265cb59e43d6039c0ec37",
+    "titulo": "Quando o banco central fala de mais (e de menos) - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeThrLUJsWG9OVW1IOXF3bWJreEZILWZEUDF0QXJWck9FLVFxWmZ6bF9Ld2kxWjFqSTVhRzFiSG1RTWhhV3RBdmcxWVh2WUpRNENmczdOeC1hRllVbzV2eHdxMzNDdC1qSlUxa0M3Y1kxMWhDYmFRSVJERmR3bHVXRG9ONm9jeGRhTGJrZ3JaQmpzWjZJWUtUV3R3eGxfbkZHcWVMQlNpdXVsVGdUaDVNdkpDc9IBwgFBVV95cUxQNTl0d3M4Mi1jcFNuRk1JSjg1UDJ6bTNkZUZ0V0RDYUJOSTk2Z09EMm9HZXlEbUMyLUhyNGJfblJ6NjVzMHVJbGItaS1TZE5NZWhXaTl3eDRoNnBFQ2ZlcGVUaF9JSFk0bllpVjBjNkp4VWxxUnh5Qk1QUnVLUUxoamppTDBGc214a3FzalB3bGhnUU1iMkVtLWM5aDBUVVppVXZjQXF3b0JjTzZvbVRpYS02UVdiS1RsNWRSb2w3UlZvdw?oc=5",
+    "fonte": "O GLOBO",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]

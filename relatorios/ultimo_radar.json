@@ -1,29 +1,24 @@
 [
   {
-    "titulo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? - InfoMoney",
-    "resumo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVdTTF9lQTFSd0YzY000My0yaFhBazJid0JaTDdrQ2tEb25yT05MakpaZ29LajFlR19KM0I2NVl0Vkh4c2hHRmFvS3NJeEoyUXlKWUxxeWlLVVZGN1VaRmk2RWhRZk9Md09yVURJWU1mM3hPTFllUm4ySlJ6NjY4Wl9yN3prUGNGdG4tVDUzLUxGV1RTc0FjSnphQkZ4QdIBowFBVV95cUxOTFhXNF9abFBuVkhnQ2xNUFhTcHRNOExsbFZaWVNvSlRQN2wzNE5FR2l1Tm43WF9yYWdxZUk4VHZjR21iQWtlbEx5WE5iWmJkT25HWXhlelVManhUdG1aazN6dTBETGJIa0pGX3BhbnVyeWpUejJNd3kzbTJNbFk1WV9YLVp1OXowaXAxZzhMWnNlYkxxSUlGU2dvclYyRC00Y3dV?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "c2c7448eb5696b2d9443fbf15116608238065fa08a22f5428c5da5230af5d2e4",
+    "titulo": "Quando o banco central fala de mais (e de menos) - O GLOBO",
+    "resumo": "Quando o banco central fala de mais (e de menos) O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeThrLUJsWG9OVW1IOXF3bWJreEZILWZEUDF0QXJWck9FLVFxWmZ6bF9Ld2kxWjFqSTVhRzFiSG1RTWhhV3RBdmcxWVh2WUpRNENmczdOeC1hRllVbzV2eHdxMzNDdC1qSlUxa0M3Y1kxMWhDYmFRSVJERmR3bHVXRG9ONm9jeGRhTGJrZ3JaQmpzWjZJWUtUV3R3eGxfbkZHcWVMQlNpdXVsVGdUaDVNdkpDc9IBwgFBVV95cUxQNTl0d3M4Mi1jcFNuRk1JSjg1UDJ6bTNkZUZ0V0RDYUJOSTk2Z09EMm9HZXlEbUMyLUhyNGJfblJ6NjVzMHVJbGItaS1TZE5NZWhXaTl3eDRoNnBFQ2ZlcGVUaF9JSFk0bllpVjBjNkp4VWxxUnh5Qk1QUnVLUUxoamppTDBGc214a3FzalB3bGhnUU1iMkVtLWM5aDBUVVppVXZjQXF3b0JjTzZvbVRpYS02UVdiS1RsNWRSb2w3UlZvdw?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "f049128081da49ffcfdd4a64dc3d5375a7a47cee942265cb59e43d6039c0ec37",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
