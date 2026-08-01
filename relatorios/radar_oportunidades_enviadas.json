@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-06-24 08:33:47",
-    "chave": "5e09e9627a457e50a2c9a4dec87e6c766cd26dc92c28efe4bab7d24b1f04877d",
-    "titulo": "Um Banco Central blindado: Implicações da PEC 65/23 para o sistema financeiro - Migalhas",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWtFZ1AxV2RxRTBMM1JvT3RMYnBoQ1FnUUx0ajFNWDFmVl84b29JbVVtRUY3alRWa0lMdGNMVllWd1N3cDFya2Rvc3NSMTF4bzB3NUZnT016dWU1SUNzMWZ1T3c3bW00Yy04dE14bF9IYzlLLV9IV0oxWWxVZDk3NGZUYU9vaDdKNjRpa1FZZFFZWXhQM3Rhbk9JN3FGTVdWUWRtYUdGNlBiSFE?oc=5",
-    "fonte": "Migalhas",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-06-24 12:01:44",
     "chave": "bfc64383905141778a5c2b1d837644ffbcd92d135af0d02028a9187b2d66324d",
     "titulo": "Ibovespa sobe apesar de a ata do Copom deixar dúvidas; dólar avança a R$ 5,19 - Bloomberg Línea Brasil",
@@ -17031,6 +17016,23 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 18:12:43",
+    "chave": "51ee1dd68f18369335d0daff360765e74ba5c5fd34845985b6be41c0e304f775",
+    "titulo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos - nordinvestimentos.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96WS1QWWVsTmhXSFRUSzJ1LWk3M2pLb2dtVFh6M3dlSUdBUGttTWNMMzRKdEUtYW5kS3hpVjRwOXFDd2hpVEFfVXZGeXViMDBVSTRfS1lpSFdRZlh1S0x0cUg2ONIBaEFVX3lxTE93cm40V0xjLTRZS0dhWmM1UnpIVDNVQ2drVHpzMWN3MXJtVVJNdGFIUGo1N0dWTEl1ZWFFSUIzeENOMU5BUGRFQWVQQWQ3bzJlZm9EUS1PV05DcUhVanh3ckR1clh3TzQw?oc=5",
+    "fonte": "nordinvestimentos.com.br",
+    "score": 10,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11",
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
