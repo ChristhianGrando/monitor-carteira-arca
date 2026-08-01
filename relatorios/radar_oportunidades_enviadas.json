@@ -1,37 +1,5 @@
 [
   {
-    "data_envio": "2026-06-24 12:01:44",
-    "chave": "3498693a77736eba53bc257f5c8c1d6c6ff21040898f13f3d80659843a551824",
-    "titulo": "Ata do Copom muda leitura sobre juros? Ouça a análise econômica do dia - Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHloMzVEbVdHaW1YNEktOTJoYUdfQWtucVFxM3lhRDMxRE45M2hfQ3VYbTZudUhKR2tjY3JmV2lKcGE0T2w2dEVxTUo3dHpEaVlVcjJqdlpLX200M3J0N29RTVZtd0oxWVdNUzFTMnFqUEhNTnhXcGNjRktrekh5UFRQT2FBYTZFTnIxQTI2U3dvR25lWmRSaDdULWd2MTdGazloeXZidm9iMGZPM0E?oc=5",
-    "fonte": "Canal Rural",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-06-24 12:01:44",
-    "chave": "a792e3793f03ed36809438a95cf7fbf661d3b9da703adb25ebe1e40b8e8a0c31",
-    "titulo": "Banco Central dá mais um passo na integração entre Pix e open finance - Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGNrSWY1YU02MTBtTDFFbXdXbFB0Z0I1elNtb0NaanhGbDFoX21QQVcxQVpqQ0Z5M2JaSmcyV1ozc28tbnFpbUZrNnFFQjZ4OXpYVHhEZFBFRU9QVDJYdklyZGR2Q2pYYTlrM25yOWNIQktHZWctSnVSdGFiWGlYOFBFY3VSVmQzU1hBNVd2c0lRUFVGZGR3d05FajhXSUdjNHBHaEprakJ3N1c5ejBFYzVmR3BHWTcwSmljV2szbFJZdEpHbFRteGR1eW9GSmVabnVHcHM1VExuOF9FTTVBdw?oc=5",
-    "fonte": "Agência Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-06-24 15:09:09",
     "chave": "7bda23cb085ff4d488e115465c9259448c62a0caf05ad343834f473dcf475ad0",
     "titulo": "Digimais corre risco de ser liquidado pelo Banco Central - CNN Brasil",
@@ -17033,6 +17001,38 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 23:11:13",
+    "chave": "2d73a1472ef14ea00f147f9244648b2e376020c5d40c829a50f0ee81ebec85ba",
+    "titulo": "Crise no CACR11: FII suspende mais uma vez o pagamento de dividendos - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLURnUDFrRlU3cmxtWW1NeHRBZFc4TEprcGtUYkZySURSeWpRbXZwNkd6YzdjYzJBN0FoOERkekdCeEwwSjd3SmVEdldGTzMxVTdfVFBsUEc1SXFZdjQ5ekx5bUNwMWJlQVNodVM0VVBCZnBSMExYLWNDckRmblRUei1pNTlkQ2cyaWhUNlp5ZDFhU1dfVVl4WXpFMVg3REl4eVk2UGRlWWJIRGQyUGYtMmFrb2tweFNkSDc1TFZyT1dBUdIBxwFBVV95cUxNQ0NtUUZySmgzbVhyWThTTTg1SnpydlQ4ckNYckdSQmdITER1MDRWSVRVWmhzemQzX2FzNG16akhtaVlhWjBnRnEtU2FlNkVpN0NQWGthOHNtZE05TldiVE5IbnFRNmJjcDgwbjQzaW9xZkZnQ1RiTlBVUmxlS1YyWUlMT3hBcHgwLTRnYUxTOEdLQUZpZEV1d2UxTFFNNlZuLVFpYXZvWUpKdTlZQnlYaDE5Y3hQWkhLUXNZNTR2X3RWa0FZSVpj?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-01 23:11:13",
+    "chave": "87eaff951cdfb6a6430f0ef3ecbe42c3fd042744cb26474c21faf9b3a7670f78",
+    "titulo": "Em decisão dividida, banco central dos EUA mantém taxas de juros - cartacapital.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMng0OFpGNUNXZHdVNTA2UVJrcldhUGRibG01ZERYVlRaQUdxbGs1bkNRZkg5YURic3hoQ1RTSVFwYVpmQjRTeHo1X0c5WUE0d2tfRW5hUFd3TXBZZlNJSFVTVnZTOVJHU29MaFloMUFxdkxsSlNGWC1lQU1KdmM0S0tneTVCU016M0RtRFJKWlA5cjZmaW0zZHU2TG5KMVlZdXJ4U0NyUWY?oc=5",
+    "fonte": "cartacapital.com.br",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
     ]
   }
 ]
