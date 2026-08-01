@@ -1,1 +1,97 @@
-[]
+[
+  {
+    "titulo": "Copom deve cortar Selic para 14%, apesar de riscos para inflação, avalia Warren - BPMoney",
+    "resumo": "Copom deve cortar Selic para 14%, apesar de riscos para inflação, avalia Warren BPMoney",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDY5YUxDaWl4MEhvME82UGNubUU0NG8zTXpDOU9NQlQ2bGlfWE9JVkhmRHhWOF9zWmV1dVg3RExRTWt5TlVqODJWalY5c0thdVpuUmtHWGlMUHVGMHdLcmZpMzN5RjAwZld4UTdjTThKXzZvMWNqbkkxd0lxQ2FfeGoyQ3I2OVpSM1IyNWxoSXc0V0pEY2UzM1lfY1NwYjRUWk1hN1RRblZfZnZq?oc=5",
+    "fonte": "BPMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b7f8e46fac2583b24937c17daccfff802dd9f479262b89ee75dea0ab0cec3e2f",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA-15 sobe 0,06% em julho, menor taxa para o mês desde 2023 - Valor Econômico",
+    "resumo": "IPCA-15 sobe 0,06% em julho, menor taxa para o mês desde 2023 Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVd5Z3FRNnVqX1d1T1VYeEdBODlwM19kMTNWQmt2LU9YX1U4QXNIV0UxLTFURWN3MlBLRGZBVWRmblZBVjNTYVlYOGdOQlc3VkplcmowLUd6MGRWSTNNOW1qNm54VERtY1JjQk9EQ3FmcXZxcVRmcnozME9BQ0dTcE5ENEllUkxjdHd1WDdHLWlROThnR3FoaVlLZ1g2RHR0T0tkNjRwTmFGN1RIZjFBOWVuaWRGOE1DSlkxN3Fn?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "066c3850909681cea1978841edb66740cece39accab0fde0dc12a51f84703c61",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Fechamento | Ibovespa dribla falha técnica e fecha em alta de 0,47%, puxado por Santander (SANB11) - investalk.bb.com.br",
+    "resumo": "Fechamento | Ibovespa dribla falha técnica e fecha em alta de 0,47%, puxado por Santander (SANB11) investalk.bb.com.br",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtMkM3aWhZcXRSeGFLYUxHeU1rVlN3NVZUUDFxZDFDRFZ2Rnd3UlZSa0pJWDFOcHRJb2lWQXBscjNOSjRhblcyN2tkeWVtcnZVSHp1Zk96MzJfRVVfLTJ6dDdaVTFlS3MyOFpVQlRiNGpxUlpMNGc?oc=5",
+    "fonte": "investalk.bb.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "093f3a77ea152ee95613ce95b2c96aa589c5c6b6919b51170d77500b9d2b83c2",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa encerra no maior nível desde maio em pregão marcado por falha na B3 - Valor Econômico",
+    "resumo": "Ibovespa encerra no maior nível desde maio em pregão marcado por falha na B3 Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRlNCTkNpWDZhSDNyV2JDVFBhMHo1N0dKSzdwSkFWNEc0Rkl1TEVkTlc2Rkk1RTN5VUgtNE90NUgyWWRmX1R6SWpZQlNuZmxfZlZxZjdyOXJ4allrbGR0UzhLNDhscGl1UzV4RzZBT2NZbWhNRFNmVG91Z1lDQkJYc3NSOTlEa1J4M1NTVnlTN3d0Z0NRcGhvZ0ZKaDJJTkJQUEhXa1pEdUxZLURnem83VVlaUEFhVWpQdHdoWk5LZG91d2s4WDVGVGFnM2hidWMtZ0pXMjFhcFV1R0xUY2fSAd4BQVVfeXFMUEZTQk5DaVg2YUgzcldiQ1RQYTB6NTdHSks3cEpBVjRHNEZJdUxFZE5XNkZJNUUzeVVILTRPdDVIMllkZl9UeklqWUJTbmZsX2ZWcWY3cjlyeGpZa2xkdFM4SzQ4bHBpdVM1eEc2QU9jWW1oTURTZlRvdWdZQ0JCWHNzUjk5RGtSeDNTU1Z5Uzd3dGdDUXBob2dGSmgySU5CUFBIV2taRHVMWS1EZ3pvN1VZWlBBYVVqUHR3aFpOS2RvdXdrOFg1RlRhZzNoYnVjLWdKVzIxYXBVdUdMVGNn?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "8f5cdff2b240991d4c5fdaec90c163d365b652caa84b0197b1c6927563073d2a",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
