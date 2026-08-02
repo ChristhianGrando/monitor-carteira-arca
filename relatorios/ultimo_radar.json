@@ -1,20 +1,18 @@
 [
   {
-    "titulo": "Notícia Copom e payroll rouba atenção dos mercados; confira a agenda semana - Kinvo",
-    "resumo": "Notícia Copom e payroll rouba atenção dos mercados; confira a agenda semana Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHAwY2dnVlJOTEx2Nm1pUFVfNERseDhwYnp0Y0o1ZlRIcGpiWDh2eXJRcVNkSHlGbFdjZF9UQ2puUk9mS3lVaEFRaWhyM0lmY05WRWpTaDJGd2VWRWtkcDNxMmV5d0pkQjNydFNDZjlWTWQtV0I4UGxYTlF2OUNRRzU3VE5EaUxZTnN6eWg2NWFFVkdpZWtvUzRUUQ?oc=5",
-    "fonte": "Kinvo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "20c4c77ef04b3ad36bc8ee13f46f4b4403d10aca38fa242b5b8bea462718738a",
+    "titulo": "Banco Central atualiza o Pix e brasileiros não precisarão mais abrir o aplicativo do banco para realizar uma transferência - Diário do Comércio",
+    "resumo": "Banco Central atualiza o Pix e brasileiros não precisarão mais abrir o aplicativo do banco para realizar uma transferência Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM0tmcXV5bGN0cDRBeGlYQWRBUUE3V3F0Q3hJN1pWMmhfMDd5WWgwSmQ0Z2hwMjQxNXFTdHprUTRCMk96RmZmN0F3SUJxRzBZNW1FdzFESzJkMDBHVTBQXzVBNVlYSm9lc3BtZWx0emNYNzJIV1FBOU9ESTFTVlZRUHF6Z1kwZmt5ZS1yaEpkenhxc3laYUNuOTUzQnJqbXI1UjZ6SlJsVE9JdGlKc2JBTS1BLWg4M1J2QnNERGI4UkZZSjkwTXZpR0lQcFAwTzZjUTZkNjRRZmVoeF92djVXRkVLaXBSWHo5MURwYVVrcGw?oc=5",
+    "fonte": "Diário do Comércio",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "5294ed553f38bd379f495eed171a429f11120af128ffbae4df2f97a1132f0000",
     "ativos": [
-      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",

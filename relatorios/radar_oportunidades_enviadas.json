@@ -1,23 +1,6 @@
 [
   {
     "data_envio": "2026-06-24 23:34:29",
-    "chave": "86c433e166c628dd949a16be4206c001bbdfa4d3229e08c1b2e0354fdaa9961c",
-    "titulo": "Ibovespa hoje cai com perdas acima de 2% das ações da Petrobras; dólar sobe a R$ 5,20 - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2xqX0tMVG82SGE3ak1SYm9XRF9CZGNfVWlHSmM0dzNsT1JjYmI5NjRaQ19NQ1JRbFZYamYyZVBfbjRCRkhTMFhnNzlCdktYQ0pzSzN1MllJOE9Qb2w0Zm1RM3hTeHY4NzEyb3BRdzVrbk9IUkpHY0VKa1ZzRmxKQk8zdEluc2lKUmtYUmRkelRSV1dyV3d6YUdDcTYydTBneW9yZ0RycnJVMkZsQXZTb0hZb2FIUEFmU0ViWDBaY3pTbzlZc25sZjViY1ZGN2ZlUGfSAdcBQVVfeXFMT0NHX0NKdmN6Y0ZpbmtKaHMtV0x5bFNHcVJaZnhwZkw4N1d6azNqZFFiTXRrVmFZaDZnQkhZWEw3bGdSVkJ2OGJZTnBOenZCTk5Pc1dfODlnb24waHg0SEFTRzE3N1hDVkxfeXp6X2VQWVVvS2tXOHlJQXU5ZGprU0d2LW81ajRFTFJST0tNdHNnc1JNYTB5dkZJRUhpZHk2OUNnVVduaHk0azZqYW1OWTFTYXFhWTg2VXFCbU5tNzVlU1Bjck1uQ2d5cGZkTTB5MFZJN213eWc?oc=5",
-    "fonte": "Estadão",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-06-24 23:34:29",
     "chave": "af63f41ef02da89ac189611b9f74757c41fa8a03ba0eff7e2c64e552622062b3",
     "titulo": "Ibovespa fecha em queda de 0,44% e dólar comercial sobe a R$ 5,2020 - Canal Rural",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3hwMHVqUThCQ2p2OUpTbW5QVDVNVXE0c1oyYlNHQ0hBMS13MXlvRGxxLVR5T0pVYkJxQXV0VGRxcC10ZF9zQ3hPSkxyM0k5WDBqTGNTX2VBVDhiU0d3dF94ajhXOVZvdVE0c1dLTHRidnFTR2p0NE56TF9GeEFIZm9jRTBCTER1bW16VHMzSDRnd0pBR3NhQkU1WGNjckYycUVJS1B3?oc=5",
@@ -17020,6 +17003,21 @@
     ],
     "classes": [
       "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-02 23:11:51",
+    "chave": "5294ed553f38bd379f495eed171a429f11120af128ffbae4df2f97a1132f0000",
+    "titulo": "Banco Central atualiza o Pix e brasileiros não precisarão mais abrir o aplicativo do banco para realizar uma transferência - Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM0tmcXV5bGN0cDRBeGlYQWRBUUE3V3F0Q3hJN1pWMmhfMDd5WWgwSmQ0Z2hwMjQxNXFTdHprUTRCMk96RmZmN0F3SUJxRzBZNW1FdzFESzJkMDBHVTBQXzVBNVlYSm9lc3BtZWx0emNYNzJIV1FBOU9ESTFTVlZRUHF6Z1kwZmt5ZS1yaEpkenhxc3laYUNuOTUzQnJqbXI1UjZ6SlJsVE9JdGlKc2JBTS1BLWg4M1J2QnNERGI4UkZZSjkwTXZpR0lQcFAwTzZjUTZkNjRRZmVoeF92djVXRkVLaXBSWHo5MURwYVVrcGw?oc=5",
+    "fonte": "Diário do Comércio",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ]
   }
