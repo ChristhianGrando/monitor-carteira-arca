@@ -1,22 +1,5 @@
 [
   {
-    "data_envio": "2026-06-24 15:09:09",
-    "chave": "423f8a911ad1521930da81f2f59c263606c97ed6e8c940c5abe155a78b337651",
-    "titulo": "Ibovespa hoje cai pressionado pelo petróleo; dólar sobe a R$ 5,20 - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2xqX0tMVG82SGE3ak1SYm9XRF9CZGNfVWlHSmM0dzNsT1JjYmI5NjRaQ19NQ1JRbFZYamYyZVBfbjRCRkhTMFhnNzlCdktYQ0pzSzN1MllJOE9Qb2w0Zm1RM3hTeHY4NzEyb3BRdzVrbk9IUkpHY0VKa1ZzRmxKQk8zdEluc2lKUmtYUmRkelRSV1dyV3d6YUdDcTYydTBneW9yZ0RycnJVMkZsQXZTb0hZb2FIUEFmU0ViWDBaY3pTbzlZc25sZjViY1ZGN2ZlUGfSAdcBQVVfeXFMT0NHX0NKdmN6Y0ZpbmtKaHMtV0x5bFNHcVJaZnhwZkw4N1d6azNqZFFiTXRrVmFZaDZnQkhZWEw3bGdSVkJ2OGJZTnBOenZCTk5Pc1dfODlnb24waHg0SEFTRzE3N1hDVkxfeXp6X2VQWVVvS2tXOHlJQXU5ZGprU0d2LW81ajRFTFJST0tNdHNnc1JNYTB5dkZJRUhpZHk2OUNnVVduaHk0azZqYW1OWTFTYXFhWTg2VXFCbU5tNzVlU1Bjck1uQ2d5cGZkTTB5MFZJN213eWc?oc=5",
-    "fonte": "Estadão",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-06-24 17:18:36",
     "chave": "bc2882e2f768d36192c21620bad00bc8de976250eff26d0dbadd0d4a44a5a1f7",
     "titulo": "Quanto o dólar precisa subir para as Treasuries vencerem a Selic? - InvestNews",
@@ -17032,6 +17015,23 @@
       "CDB 100% CDI"
     ],
     "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-02 11:34:28",
+    "chave": "e1ca14d8f3bebdf2b5ca91d5de4b9fdfb96d464bec98e3554d2c254b24f36367",
+    "titulo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana - valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2dsTGhuVXRGYkdBWjhtRU1nYzR4aGdmcnN5R2UwRWtZQW5HNjU5ZWJ0bnA5dmRzM0dFdnE5dzhMRzEtWU8tR1NRS0JYazN5UUVyY1cweUVGdUUxZmxwT2N3NGdrb3BKdWswOVluek9HLVZzeGxJa0phX1dNRzg5T3hBblZjSUx2VXFXVl9QbjkteHVtWkxyOVAydEdqdXVjSm1fQWFQS1U1ckpJSFA4UERFdkRkZ9IBxAFBVV95cUxQcXZJTng3SDBQb2ctSS1TQ3dtQ3c4c09GTl94R09kakJJdGg1QjkwcGJ5aVBaM1ZKZFZfM0pSYnA5aUZrZ29tYWUwWVM5TGg2R0ZXTExZY2VEM185bE1DdXdqaXpGcmRiTE1UQy1kSUxlSkNiRFNEZFZ2dzc4aktnT3p1eUthSmozQkt6WkUyUnREWnBHREc3N2psOENiVXJIV0xpOGlwOU5zUHZScW5LUVZrYWVISExkTy1ZTkUtZ25td194?oc=5",
+    "fonte": "valor.globo.com",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
       "Caixa / Reserva"
     ]
   }
