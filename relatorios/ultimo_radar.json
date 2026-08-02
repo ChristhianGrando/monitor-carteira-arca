@@ -1,61 +1,11 @@
 [
   {
-    "titulo": "Dá para confiar no IPCA, o índice que mede a inflação? - Estadão",
-    "resumo": "Dá para confiar no IPCA, o índice que mede a inflação? Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSWJRX3BNc0xXaXVCYW9NaDN6cHFwb0dJR1RBNU1kTVVHMll0M2ZJbVhQOWJpdFZYSWN3ckw4Z0UyQWZRQkZNUFM1cmZvd09mS1Q3ZFBKUUd2NFBMUTNVdmdsbDhvQVlzLXlPMlJSNzlseWNNSWNmaFh6X0s0VGxvQ2pXYW1WY3Z2WTJJcVdoMjZqcWU3NjltNzhvbmFtS3ZOOU9hZ2tjSlA0bWPSAbABQVVfeXFMUHdBR2Jud2NJdEJyRTJFMzY1aXdtUjZld2hkdEFsSjJsZ1NBOHJ1Z0VMSW4yajltUm44Wm9iaVVCT0pWYzZsRWdVRDQ3ZThhXzd0enVUTVNrRHpRUlB1dlJXLWdJYXVoUnBUdzREZVh6OUkwcEVrWVdwRjkzeklNM05QaDF0dlh4WmRCZmZlVnQ1djVudGh2Z0ttS2xuTVhWUjdrcklCQWgyQ1kxU3d5blE?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Copom e payroll rouba atenção dos mercados; confira a agenda semana - Money Times",
+    "resumo": "Copom e payroll rouba atenção dos mercados; confira a agenda semana Money Times",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnA3cS1COFZkVzJoYXNmZWw3WWQtSXdSRkZfbVo3VUdQSFIxd3ZkamVKbkZ1SllmQm1fTHcyeXpad0l2V29Kb3YwOGFqemZ6eHY1YmE1b2M2aXdxS3p3a1FZOTNVMjhleEhUM080YkoyWVl6ZFVJVUVjZml0S1g5ampIZi0xQ1I5N0lsY0x2MnRHM3JPOXhEc2VOd3VRSXl6Vi1DOA?oc=5",
+    "fonte": "Money Times",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8d326a57d3a06790c9b4b3264bedd67d2de651e0c089eb9b06cfa029c2b9eb89",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana - Valor Econômico",
-    "resumo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXZJTng3SDBQb2ctSS1TQ3dtQ3c4c09GTl94R09kakJJdGg1QjkwcGJ5aVBaM1ZKZFZfM0pSYnA5aUZrZ29tYWUwWVM5TGg2R0ZXTExZY2VEM185bE1DdXdqaXpGcmRiTE1UQy1kSUxlSkNiRFNEZFZ2dzc4aktnT3p1eUthSmozQkt6WkUyUnREWnBHREc3N2psOENiVXJIV0xpOGlwOU5zUHZScW5LUVZrYWVISExkTy1ZTkUtZ25td1940gHEAUFVX3lxTFBxdklOeDdIMFBvZy1JLVNDd21DdzhzT0ZOX3hHT2RqQkl0aDVCOTBwYnlpUFozVkpkVl8zSlJicDlpRmtnb21hZTBZUzlMaDZHRldMTFljZUQzXzlsTUN1d2ppekZyZGJMTVRDLWRJTGVKQ2JEU0RkVnZ3NzhqS2dPenV5S2FKajNCS3paRTJSdERacEdERzc3amw4Q2JVckhXTGk4aXA5TnNQdlJxbktRVmthZUhITGRPLVlORS1nbm13X3g?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "bedd9788515278d875d5af7659c2b62bc36d9bb4a662e64154d3253399e0c517",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana - Valor Econômico",
-    "resumo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2dsTGhuVXRGYkdBWjhtRU1nYzR4aGdmcnN5R2UwRWtZQW5HNjU5ZWJ0bnA5dmRzM0dFdnE5dzhMRzEtWU8tR1NRS0JYazN5UUVyY1cweUVGdUUxZmxwT2N3NGdrb3BKdWswOVluek9HLVZzeGxJa0phX1dNRzg5T3hBblZjSUx2VXFXVl9QbjkteHVtWkxyOVAydEdqdXVjSm1fQWFQS1U1ckpJSFA4UERFdkRkZ9IBxAFBVV95cUxQcXZJTng3SDBQb2ctSS1TQ3dtQ3c4c09GTl94R09kakJJdGg1QjkwcGJ5aVBaM1ZKZFZfM0pSYnA5aUZrZ29tYWUwWVM5TGg2R0ZXTExZY2VEM185bE1DdXdqaXpGcmRiTE1UQy1kSUxlSkNiRFNEZFZ2dzc4aktnT3p1eUthSmozQkt6WkUyUnREWnBHREc3N2psOENiVXJIV0xpOGlwOU5zUHZScW5LUVZrYWVISExkTy1ZTkUtZ25td194?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "74f5dc0aa866d1a8dbe0496fa08c04cc80053e6ec9961748631e7d0b0e54c314",
+    "chave": "90e6400cd38655b38992a034ff4c433ebf7185f324c3e76ab50fbf7473dc4ad0",
     "ativos": [
       "IBOB11",
       "CDB 100% CDI"
