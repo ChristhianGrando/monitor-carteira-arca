@@ -1,9 +1,22 @@
 [
   {
-    "titulo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão - Folha de S.Paulo",
-    "resumo": "Opinião - De Grão em Grão: A Selic sozinha não faz verão Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjZ0RDVDc2IxOTBHa1VOcDA0MXkxSGt2Y0U2WnZlQ1laWGI5Y295elR4Uzc4S3RaVktlbUdVdWdNQWhpMzhUaWZxcXMwZ3dZaUJsVlZySHhHa240UlZGZExwUGFwcFp0ZkJJd09oOW1yeGtVZWJwX1A1Ql84amhaREd2QWViaVdiWVotUmtZLVVMQlJsSHFKLXJiVQ?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana - Valor Econômico",
+    "resumo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXZJTng3SDBQb2ctSS1TQ3dtQ3c4c09GTl94R09kakJJdGg1QjkwcGJ5aVBaM1ZKZFZfM0pSYnA5aUZrZ29tYWUwWVM5TGg2R0ZXTExZY2VEM185bE1DdXdqaXpGcmRiTE1UQy1kSUxlSkNiRFNEZFZ2dzc4aktnT3p1eUthSmozQkt6WkUyUnREWnBHREc3N2psOENiVXJIV0xpOGlwOU5zUHZScW5LUVZrYWVISExkTy1ZTkUtZ25td1940gHEAUFVX3lxTFBxdklOeDdIMFBvZy1JLVNDd21DdzhzT0ZOX3hHT2RqQkl0aDVCOTBwYnlpUFozVkpkVl8zSlJicDlpRmtnb21hZTBZUzlMaDZHRldMTFljZUQzXzlsTUN1d2ppekZyZGJMTVRDLWRJTGVKQ2JEU0RkVnZ3NzhqS2dPenV5S2FKajNCS3paRTJSdERacEdERzc3amw4Q2JVckhXTGk4aXA5TnNQdlJxbktRVmthZUhITGRPLVlORS1nbm13X3g?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "CNC: inflação ofusca redução da Selic e confiança do varejo volta a cair em julho - Portal do Comércio",
+    "resumo": "CNC: inflação ofusca redução da Selic e confiança do varejo volta a cair em julho Portal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWl9jUWFTUng1MEJpTV81QTdiUjRUVDc0Nm9mNW5qaEp5M2szcWJmMEV1NGNPS1BHTVVMbVo1elZ1RlMzRkxhc0stbFZhU0cyc0VibmhWZk1JNklnVjhjalI0M3MxWkl5OFhHcmxvSTNGNm9BaWY0b0d5NDRFM21jLVBja19kb1hQUlhrVjNPZVJjVnc3ajJaeFd5SEVSNmx1UHI3YVJ2MDMwZUVYLS1MVmQxVVpnMmM3ZzBDdG9GakhvMVA3cjZ0bDZhNUl5cEU?oc=5",
+    "fonte": "Portal do Comércio",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -14,137 +27,65 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Taxa Selic pode ter redução tímida, aponta economista - band.com.br",
-    "resumo": "Taxa Selic pode ter redução tímida, aponta economista band.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjdic3pzLThxbjVFZy1uVVZyaXdUQjhfbGQyWkxycUhmak5Mcnd1NHBscFBaazVNRkF0MkFVU1hGNjRKczBMc3VyRExmTDZTOGc3dHNVdDIwdmtJTGg5dk5SY0xiSWNnYVRtWmJEc255d0NmcHlNVmEtbTF5RS02QTJudzRHSzB1cE44WVNwSW1pUVphQWR6RWtiSFRiNWFsZTVRcVQyLXBNYjVL?oc=5",
-    "fonte": "band.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "titulo": "Crise no CACR11: FII suspende mais uma vez o pagamento de dividendos - Estadão",
+    "resumo": "Crise no CACR11: FII suspende mais uma vez o pagamento de dividendos Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLURnUDFrRlU3cmxtWW1NeHRBZFc4TEprcGtUYkZySURSeWpRbXZwNkd6YzdjYzJBN0FoOERkekdCeEwwSjd3SmVEdldGTzMxVTdfVFBsUEc1SXFZdjQ5ekx5bUNwMWJlQVNodVM0VVBCZnBSMExYLWNDckRmblRUei1pNTlkQ2cyaWhUNlp5ZDFhU1dfVVl4WXpFMVg3REl4eVk2UGRlWWJIRGQyUGYtMmFrb2tweFNkSDc1TFZyT1dBUdIBxwFBVV95cUxNQ0NtUUZySmgzbVhyWThTTTg1SnpydlQ4ckNYckdSQmdITER1MDRWSVRVWmhzemQzX2FzNG16akhtaVlhWjBnRnEtU2FlNkVpN0NQWGthOHNtZE05TldiVE5IbnFRNmJjcDgwbjQzaW9xZkZnQ1RiTlBVUmxlS1YyWUlMT3hBcHgwLTRnYUxTOEdLQUZpZEV1d2UxTFFNNlZuLVFpYXZvWUpKdTlZQnlYaDE5Y3hQWkhLUXNZNTR2X3RWa0FZSVpj?oc=5",
+    "fonte": "Estadão",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "afetados": [
+      "KNCR11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
+  },
+  {
+    "titulo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana - Valor Econômico",
+    "resumo": "Agenda de mercados: Copom e ‘payroll’ são destaque na semana Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2dsTGhuVXRGYkdBWjhtRU1nYzR4aGdmcnN5R2UwRWtZQW5HNjU5ZWJ0bnA5dmRzM0dFdnE5dzhMRzEtWU8tR1NRS0JYazN5UUVyY1cweUVGdUUxZmxwT2N3NGdrb3BKdWswOVluek9HLVZzeGxJa0phX1dNRzg5T3hBblZjSUx2VXFXVl9QbjkteHVtWkxyOVAydEdqdXVjSm1fQWFQS1U1ckpJSFA4UERFdkRkZ9IBxAFBVV95cUxQcXZJTng3SDBQb2ctSS1TQ3dtQ3c4c09GTl94R09kakJJdGg1QjkwcGJ5aVBaM1ZKZFZfM0pSYnA5aUZrZ29tYWUwWVM5TGg2R0ZXTExZY2VEM185bE1DdXdqaXpGcmRiTE1UQy1kSUxlSkNiRFNEZFZ2dzc4aktnT3p1eUthSmozQkt6WkUyUnREWnBHREc3N2psOENiVXJIV0xpOGlwOU5zUHZScW5LUVZrYWVISExkTy1ZTkUtZ25td194?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Suzano (SUZB3) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra - Money Times",
-    "resumo": "Suzano (SUZB3) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra Money Times",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm1vQVVPNmVTWUVvMC1lSl9OY3lJYy1ybHNxOV81bl9sSzREci1fbEdSZUV0TTJjRUdLRDlWUzZGNlNId0JfaGNsY2tBaHRYeDdROXZoZTZVRkRhU2xhNFBRZm9FaGN4MU1VYzl3LXdlbEo4SEl2Y1VQczRjaGJfRVA4aHBsaDE3UkJSblNPOU9LQlZFaHRBQlFKcmUtWGpSUG85ZUxPV0RDVWVqTERfbmU4WGwwQW92TmR1ZFZR?oc=5",
-    "fonte": "Money Times",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "titulo": "Rali de IA deve retomar, mas S&P 500 enfrenta queda até fim de 2027 - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Rali de IA deve retomar, mas S&P 500 enfrenta queda até fim de 2027 Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGJHSVlqYnRsUUZxeHRkNEN1NU9SSEZGMk5UM2FLTEZLVVFOQzcwZGR2ZzZ5cmVjVG9OVUZFbi1oNjQyVDNyN3R4U3RUOWNTOThHUUJ3WEkyNUQ5STdDMjVMUkdDMTYxRXgxVlRXX0dtQW9fT2lhRlNXSGVqdFFyTm90ZzV0OUpxd19ZRkw3TFpackVtdlZMQjJ4Mzl5akZQa2h3OXFVZnROZzAteVM5VXhhbG5IRU1KU3NoOWd3?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "X Money: rede social de Elon Musk lança serviço de pagamentos e conta digital para assinantes nos EUA - G1",
+    "resumo": "X Money: rede social de Elon Musk lança serviço de pagamentos e conta digital para assinantes nos EUA G1",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdEt2ZURrWDdPUTJoOUptclVTMTZYbVVwZHBWQkNVS0dZck90a3pyOFJROU9rZG80QmhGcFlDVVpCR3pDdHVHWS1ieWN1aHNuS3lwVVRHcTNVMnBaZEtGc0JxdHJ5MTdFNTRaUzdwQzlEeTRtOHBNNW9mNXpQYzN2NS1qQVBYRWh6N3RfLUZfeDYwc1ZlOVF1YzNLckpCOF8zaXdvUHdDNThwdFkxSzVrSGhtUWIxbmUyTU1ZUHJqcUowRlc3aU90WmNXRjV1V09fMWdrbjJUNXdsTGF3R3NXTlBDV1k3X0t0ZGZF0gH6AUFVX3lxTE9yYXozQlB0NUItX2hlX2YzMEgya2hYTkR3REFsMG92NlBsblFwYi1jMk44ZHBMWnVINl95WDB5S2JzZFVsT29oanRwUE9WRjdXYW9uQ25zdFY0UzRaVlF1b3A3WS1QR3d0VmozME5hVFJzd01GZUhPVFBUNlJDcTNoVFp1RUtDbjF4eXM4Q29ZWkxkMHU3RGRnZkpRbXZyOUQyeG1hOXpKcUdlTVFwMzFxNjlGamY5YWhaWXFyUUNQQTYtSlljZldET3hEN1ZDYnJoaGJtYnVKSkxOTVR2c2RBM1BaeDIyOC1PVnFYem5SdUhhRE1rZjB1d1E?oc=5",
+    "fonte": "G1",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "WRLD11",
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Choque entre política fiscal e juros gera \"bola de neve\" na dívida pública - cnnbrasil.com.br",
+    "resumo": "Choque entre política fiscal e juros gera \"bola de neve\" na dívida pública cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelpMUWxoeVNscDk2ekxhQUhRQlNVb21DN0wyMDN0ZzN5d1VFZjh5QzhBSThnUUxHN0xFcHhRXzBzb0ZoMzJ3SlhqODQ1Q0FFWkxjd3FhZkRCMDdlNjAzYnVpS2R4WXBBZFF3dS1ENzNWLXdXeUVxRjNITEEwS2c1TlAzSkpuS25RZmxhTHd6M25oV1JWcC03aHVEQ015WjdIN25oREZtaThsaWhRZVpRWDM3Q0hnckZJX2R1aHBYQTFjVUk?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "IBOB11"
     ],
     "impacto": "Médio",
     "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Como Elon Musk perdeu mais de US$ 300 bilhões menos de dois meses após o IPO da SpaceX - Seu Dinheiro",
-    "resumo": "Como Elon Musk perdeu mais de US$ 300 bilhões menos de dois meses após o IPO da SpaceX Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1JhR19KekFSU3dPcGQ3QV9Vc0JXemhzTmtQaUZpRGRjeGFTUVRtXzFmTEpEQ3BXODlzak1PR2h1WWZvaU1WcDY4akN6bktLOUk3RE1QR1FkTHdvcmRwUVlhdWV4MktaTjB2WFBDb1ZFQ3hjRmVWVl9Xek5QWlQ4ckhJczl4Z1JRbTB2M25OSnFNNEVobFRfTWpMc2VIYzhSQTZDRXpXZFJSazl0U205bmxiVUJYamRHX1hBd01XdENKcXotdVpGM0kwVm5QY01HYUotQg?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Elon Musk perde quase R$ 2 trilhões em julho, mas segue como o homem mais rico do mundo - Época Negócios",
-    "resumo": "Elon Musk perde quase R$ 2 trilhões em julho, mas segue como o homem mais rico do mundo Época Negócios",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOG14YjgzMmdTQlZrNlJMbHRfeEY3NnZoSXBSMHhBQ19Zb2loLXZBcHl5SXUtRHVuQ2FpczE5Yjk3M2hyOGIxSE01WUFGTWVTSFhka1VSUEJIaUEwbTFyM3FCWGtkemoyWG00aWhDNG5KdE96dmJhRGR5SUpQNmpEOHlkaElWamlJMEFjT2FicGNRZUZhNWltUGQxTjAyN2JZQmh3SmRpaUpsaU9rYkRyNVIyNm5OYTRXdlYzRzBoZUlaNlJmckNpTTNnUTFuVTFROGRObTlMRUZPOHVMR3lCcTZyMEFIYldJLTlZa1lUSmfSAfABQVVfeXFMTzhteGI4MzJnU0JWazZSTGx0X3hGNzZ2aElwUjB4QUNfWW9paC12QXB5eUl1LUR1bkNhaXMxOWI5NzNocjhiMUhNNVlBRk1lU0hYZGtVUlBCSGlBMG0xcjNxQlhrZHpqMlhtNGloQzRuSnRPenZiYURkeUlKUDZqRDh5ZGhJVmppSTBBY09hYnBjUWVGYTVpbVBkMU4wMjdiWUJod0pkaWlKbGlPa2JEcjVSMjZuTmE0V3ZWM0cwaGVJWjZSZnJDaU0zZ1ExblUxUThkTm05TEVGTzh1TEd5QnE2cjBBSGJXSS05WWtZVEpn?oc=5",
-    "fonte": "Época Negócios",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Musk zoa editora da “Economist” após invasão de marroquinos em Ceuta - Poder360",
-    "resumo": "Musk zoa editora da “Economist” após invasão de marroquinos em Ceuta Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkVrVkZ3OXd5cE5hRU5GU1JIZzV6SUNHczZ4SzE5RUdEb3FzUW9aUGtuclhnT2QxNnM0d0hxVzliWVJxb2hIbHJDYzc0ejl6N1V2NEZwZWNld3dObUtOTUpUUWZ2MTF1NDhfRnU3RlBDWVBuZlZYMXlsWkVjMWluOE1hZ1k5VDhYUDdVSWJ3TzZFbE9STUJLUjN3NGpKYkRXc3paNFZ5NU44UFE?oc=5",
-    "fonte": "Poder360",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "FII KNCR11 anuncia dividendo de R$ 1,25 por cota; veja como receber - Investidor10",
-    "resumo": "FII KNCR11 anuncia dividendo de R$ 1,25 por cota; veja como receber Investidor10",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3VTMUVtR2pkV0VHRndPeVJGdExLUWVaZUdkUHpsREhEUXJ1Y3haUlJ3RXdiU3FYY3BHOUVwWVVuRUtwZnFFOWFjZ3VkUENRdFBCVlZTbVZha3hMOFdabmRqdE1NM3M5RmlpQVJScy1xZkFjYXd6Zy01ek95M1RwSWFiTjdkNUtRbHZndDFDMDBJbTJabTdXam1EX09MQnFMVjFpM1I2MGFKSTZFT0ZB0gG0AUFVX3lxTE01cVNfZG1ZSXpfcEd2dHEwN0NjMm1DRWxrXy0wclJMNzRWWVFMQUtOLWZfQ2YzSkl0VXJWcDcxUm12ZXJlUjBoTlJSMXdOejlzR1pGYUtDVkdCYmtvUFlRZ01TZDh2NVZYNDNmZklZX0VucVFleW5BelUtUi1GdzQ1WGFhaE85ejI2MjNvdFlfMXFSdkJNSDlJYk9SZXdjNDNjOFBrWnVxbnNNZTc2d09jSDJSOA?oc=5",
-    "fonte": "Investidor10",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda - cointelegraph.com.br",
-    "resumo": "Aviva lança fundo tokenizado após receber aval do Banco Central da Irlanda cointelegraph.com.br",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbm8tY2x2Ml92aWRJRmxUZzRKUHNrdlhDREs0cnZZYkl0Wkw5YkJvdlJkZ0lxNXpmUURnNXl0XzhQS2FkQWdDR3VKeG5lRDZzbkJGQl96RnphcnNsdnFiZExrMmVOUEdrXzliYi1UTWVNcDEzZWdJWU1OLWI0RUlLWnR3anhlX3o4Q2lBRHl3bFpBN1lVYm5MQXIxUnI?oc=5",
-    "fonte": "cointelegraph.com.br",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central - Poder360",
-    "resumo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGVERTZ5OWZKbWl4MnptX0FwY3J0aWFpOVNYdDFZamx6WVN2clh5QWRFNV9NYW96RzFmejByWmUyRWJWbjdJS1cwSVRvX29WMFN6Q0I4Y1BhamtQODk5dmxoWXFJVmluNzNCU2pQeXJ6bUVpZm1DTVd1NU9NcGFndTRkYkNqVW1CQXNaU0hZemo1MTJYNGYwbFFHaDFZczN2SFBB?oc=5",
-    "fonte": "Poder360",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central - Estadão",
-    "resumo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central Estadão",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlM0YUFGaXhUeWc0WUI1M19UTjJ2MFo4NTh2TlhVdnVIMENENUNtaEpJN1NlejhfUTRJV2JRa0tKTlVDakRLbGZjUGUzdWFTOXJnTWQ1T0ZLWDFIaUpzdlV5QTEtV3R5d0p3bWpIN09TYThHakxEVF9aOEl1YkJLcnlUcTRsS3R2aDB0UWYtN3pLdGlKVkRUV0ZLbw?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Milei propõe reforma do Banco Central para barrar financiamento do governo - InvestNews",
-    "resumo": "Milei propõe reforma do Banco Central para barrar financiamento do governo InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEt6ZmJFT2N2ZEZVeTgwcDNvNTJMOEFjWFdiVC1lNHVKZmVjUHllOG9hWjBKUGFaeDJRTE5Wd2R5UzEtdE9ISkNGTHZBSUt1cXZGaDliRHp0dWhjYWhRTjRTTFZUVHV4TmsyUVlyXzVMdm9VYWJXMDktSlBOMHZqdzNsNlhlSzU4UFdsdHdIOGY4cHFnM2RMTEV0TWhnRnNGdEtCdXRHRHh4ZEVqelU00gG0AUFVX3lxTE1NOFpYVkVpcnJIMGdCV3U2OHlBMVhNNGdHRGNiaXZ0NHVKUXhURVkwU19vcXdad29YV3FMaTgzbklaVWJFajFaTTBqNi1EVE9yZlE0YkdlMk5JbTRQbUtCZllCMVhHLTJVNFQ1YXdQWVZ2bFlkb1RMOU4yQlZ6bjlJUXVoZXVVX0NpVG11ZlZDcUVKRzhKVEpYM1ZxNUxlZVRHLUtqanNJU0hrWUNHNzNGS2pNZw?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina - G1",
-    "resumo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina G1",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUNPd085cDV6ZnBPb2w2SG03LWE1Rk45TGxFWDNNMUxONWF3WlNjYmxZMTM3dzFpemMtbk9MQ2tFVmFpWEE3Y3ZmRnBJZm9UZUhEZG1FZmdXM0hrWkRPREJHU1hSS0hzRGpqVVRjdEpWMTE2di1KX192dG9xWEFnOWp3MmtsU29penVlcnhBWDExM3RJcE9uV3NsQlhvNDRzalNjRVhsWjJGU0lPQ0NSV2VRMmVVWE5iZFpRTDg3SnZBQmpPQ1JkaHRyZGxtOW9oSnfSAeABQVVfeXFMT1Jwa2hXMFRzbEVnT3FkdWxqODMweVU2Q1pERlhKVk9VVTFEd2hBQ0tNb0QzV25odC1jZUk5UXpqQmlocXJKc2VfWmlfN3lZd0VlRzZLUUwtbW5qT0g0YkpFYTFmNGdIdWJWbHVFVjk5R3VfYnAwOUNHb3RSXzlRN2dHdEJoNUNxenVPZzJjLWdjMnBZNWljR19NMXBYOVNiZ1hfOWJ2WmFyekYtSWszTVlpME00S3dUQ3dtMHNJTV9rRXk5bWg3emxJNGdFNTJ1WTM2cldfVTJHX3FjcFJVb0c?oc=5",
-    "fonte": "G1",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   }
 ]
