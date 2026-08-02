@@ -1,25 +1,6 @@
 [
   {
     "data_envio": "2026-06-24 23:34:29",
-    "chave": "faa3b4a9a16d8975709957dcea98fc93608fdc3ff9bb10dd06c1f99010f8c8ad",
-    "titulo": "Extrato digital de cliente do Selic agregou informações do Tesouro Direto - Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3BvRXAxWWtSMjhxWFI0ZklQOWpVaWdqT3RrMDNUZ0R4TzMzOXN5TElxV0E5djhQVl9pc3VQbVZSNzN5Q0dMRWd0c2s0RGYtN2dTOFRuWTVhVHBpbFlXbENUT0RxZnFfaGVCQ0plWGNSamhLVHlqUFhGUFM1NFVGdkFzdlJVX1J5TnBaWjNybEVYTG9Bc0xhcllaM3dCbzgtZWtHcTVmTWFfZw?oc=5",
-    "fonte": "Monitor Mercantil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-24 23:34:29",
     "chave": "86c433e166c628dd949a16be4206c001bbdfa4d3229e08c1b2e0354fdaa9961c",
     "titulo": "Ibovespa hoje cai com perdas acima de 2% das ações da Petrobras; dólar sobe a R$ 5,20 - Estadão",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2xqX0tMVG82SGE3ak1SYm9XRF9CZGNfVWlHSmM0dzNsT1JjYmI5NjRaQ19NQ1JRbFZYamYyZVBfbjRCRkhTMFhnNzlCdktYQ0pzSzN1MllJOE9Qb2w0Zm1RM3hTeHY4NzEyb3BRdzVrbk9IUkpHY0VKa1ZzRmxKQk8zdEluc2lKUmtYUmRkelRSV1dyV3d6YUdDcTYydTBneW9yZ0RycnJVMkZsQXZTb0hZb2FIUEFmU0ViWDBaY3pTbzlZc25sZjViY1ZGN2ZlUGfSAdcBQVVfeXFMT0NHX0NKdmN6Y0ZpbmtKaHMtV0x5bFNHcVJaZnhwZkw4N1d6azNqZFFiTXRrVmFZaDZnQkhZWEw3bGdSVkJ2OGJZTnBOenZCTk5Pc1dfODlnb24waHg0SEFTRzE3N1hDVkxfeXp6X2VQWVVvS2tXOHlJQXU5ZGprU0d2LW81ajRFTFJST0tNdHNnc1JNYTB5dkZJRUhpZHk2OUNnVVduaHk0azZqYW1OWTFTYXFhWTg2VXFCbU5tNzVlU1Bjck1uQ2d5cGZkTTB5MFZJN213eWc?oc=5",
@@ -17023,6 +17004,23 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-08-02 22:10:27",
+    "chave": "20c4c77ef04b3ad36bc8ee13f46f4b4403d10aca38fa242b5b8bea462718738a",
+    "titulo": "Notícia Copom e payroll rouba atenção dos mercados; confira a agenda semana - Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHAwY2dnVlJOTEx2Nm1pUFVfNERseDhwYnp0Y0o1ZlRIcGpiWDh2eXJRcVNkSHlGbFdjZF9UQ2puUk9mS3lVaEFRaWhyM0lmY05WRWpTaDJGd2VWRWtkcDNxMmV5d0pkQjNydFNDZjlWTWQtV0I4UGxYTlF2OUNRRzU3VE5EaUxZTnN6eWg2NWFFVkdpZWtvUzRUUQ?oc=5",
+    "fonte": "Kinvo",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
     ]
   }
 ]
