@@ -1,20 +1,22 @@
 [
   {
-    "titulo": "Calendário econômico da semana: Copom e payroll ditam o humor do mercado - Estadão",
-    "resumo": "Calendário econômico da semana: Copom e payroll ditam o humor do mercado Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeFV4LTlJakVNZTF3c21IOUdfX1h3Z3FFU2pOZVFmb2N5UUNKSnYwV1dmdGFJQnp4TFk5RE1ZZ2JBTms0TG4xV3lMTnBGYUJrU3VoNzBYR3BZd3hzOGFNY25PcVYwdFR4dW51NmJLWnBkaTRBUno2bExIMDczNzA5alRnT0MxUjJPVEdyNlhUdHBKYTFET1FvRmNGWTZkbEZuNXBaZUtNZENDS3JwVWVVZXdCMVdBbEFfUlFFUnZUSHJFNUh5QXNwUHg5ZllEelQwQzktWkt3bmR3RWVfdC1KVUJZMNIB6AFBVV95cUxOWFc5LVJhMGZmSEFpeWFTNVUtV1Fma1dnRUNvZGZrdjhyUUlPQUVPcHUzck1uV0NrRGlpd013WUpJMzlyc1V5bE9fMDRpVGNrS1kyTnhGOVdzQWNDZWFubVVMMGdTcDc0dDdxU0VTMTNocWM1UFlNdmdYTmVoSjJfZktPVnZjSENsc0pUc0JlenYtZUZLRk5EVy1WeDhUWXZoWWtoWXlEVjh0LUFWZWVGQUJSbXRNZGFFaGdtN2hEQnNDUE1XaF8yeTVLRE85RG9Ea21zUzlkZTBWSW1XVmVaY1dRU1BhVkZt?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "896fa07115af0b6e70df0e76f7d0503a175126afaf1424e658b3052e9519bbdc",
+    "titulo": "Análise: Copom deve cortar Selic, mas continuidade do ciclo ainda é dúvida - CNN Brasil",
+    "resumo": "Análise: Copom deve cortar Selic, mas continuidade do ciclo ainda é dúvida CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZmxwcVRINXRmWGtOLVJxZXljdU1PN0E2M0JRXzJCRWRhZVptUDE5dUM5MkFGTk9iTjY0d0FVNnhjT3RpYmE1UzZDWlFmR1lEUUxRMUx5RGt0ZnNzaFc3ZFBvNDhOanRzRF9pbUs4UWRYR0d5ZHVCMnFTMWo1TWw0XzFHbXNNMGxSUkRCVGVic0V0Mnc4NnJPNEVBd05ZT0lGM3hidndQemJrUEJfbTMwODB4REtfcTU3RGVoRHgzNHRqeG1mckJ4STdnRmc1dXYtaVZ1T2NHYlZndl8yRzZKSA?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7c280c280ac80ae2afa42c34b1d0df9abb6646f5aed068b9ae4ca3247903df2b",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -24,27 +26,24 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Calendário econômico da semana: Copom e payroll ditam o humor do mercado - Estadão",
-    "resumo": "Calendário econômico da semana: Copom e payroll ditam o humor do mercado Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZnloNjl5NFNQaE5SQUdNN1ZacDdLWnpUTW1VOHYxZ2ZYSGdMZFBWRDAycGJyNjVvcVAtTExBYzduRjdnNThTSjhMYVNVcnRfWEdKUllzcXUxY0xFTGZnZzZfTWlkM2FzdHBhZkNOSmtNTHBsRXVsUEtXNmZib3ZrNG96QWlkcXFfZjhNWE0yc0wwT0YzS0pqOFYzWDJBLUJmU2xWSzRHYTQ4V0drOUQ2bkhlbFkzY2tmb2picXNsX25JRE12SHR6Q3NGYmlLTk9SZ3hiX2RxVDZnbUNYWWxQRWtFZ2tCSTdaaEhVUzd3?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e0db313058c6ee37fedca93804a9335c9b5c5de3417ce8a0e0ab2de8632be983",
+    "titulo": "Petróleo despenca e futuros dos EUA avançam com negociações entre EUA e Irã - InfoMoney",
+    "resumo": "Petróleo despenca e futuros dos EUA avançam com negociações entre EUA e Irã InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE1id1BOZWxYVFE3Rng3RzdpT2hOdUplRDZSZ3FySkZZYWpQYnRfSWtaZUlJSkpndmpuNVFoUldiU3RDYk5CYXpOYWxMaU16Rmw4TGdkMTNzRTJDREJXZmpZV3hVa1ozRlUzU3oxRno0cTN1ekdaMC1vWFV3ZG9tN2lIYk9ZMjNNZHRLRG1MRkFGVTlUZURKVkZLU2ZmSkxJTEU3ZUcxdjVoTzFFLTNfcVF2anXSAboBQVVfeXFMUEJpZXUwZWZ2ZWtudG4xMGV0Vlp6OUZmVklFSkk3dDZpODJpZmhpeUx1bl9mWnk1R0Q1UXVkaVhuLWpuZ0lNQmIybHdTd3g2Qm5FUmlxZV9KWXZSbFhMUDRYQjNPUUNuZEpOUlZROV9jaTdLM2YweldRTTZlMmZEV29LTUwxMnBHTFJjaFhLb2d5RzhBNXpwYjBoVWwyZ3ZuREpqOGZwNFd2am9JVEFXd0Z4d2pMX0luMFVB?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "76294b30ffa36f0ae18103f70e227ede70cfabb984012a35e0c56e52c40aebf1",
     "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
-    "score": 11,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
