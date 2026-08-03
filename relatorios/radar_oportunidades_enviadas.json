@@ -1,83 +1,5 @@
 [
   {
-    "data_envio": "2026-06-25 20:22:46",
-    "chave": "8fe1daaa128cd2bd770914750f0ca00f9bf88fbced6f7107a55c88e92b599328",
-    "titulo": "Dow Jones hoje: petróleo demonstra recuperação e investidores reagem à inflação e PIB dos EUA - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejI0RDVoS1N0Wjh6dTMyZ3JuMjZVUTVBMDhmZ21OWE9kMHBrVlBVMTBIdWpJc1RLLUpLdnlpcnQ2aTFOcUkxdlZka0c3dWJSNjZhUTNfbm1lTTNpdWh2S2c1OE90c1VvaGhwbzd1WFNPQXZ4WWZqQ2QzbWhWOXVVeUZZa09Gc2Y4VlpRZ05yc2dxTlNhQndSNTlmZEY5UjlHa0pHS3JfR2MyalFjMHlYYzhXazhxNkJSS1RKTEFVaU1XMktKSEY2cGN0d2hSQWZuSlA4dXF6YjZPMkxPd2FGSGRZM2h2Zmgx0gHuAUFVX3lxTE5GRXFkZ0lBMDllV2JhNF9GWnlBaVpyY0swV203VHNwckVZQWhtenBqZlljMkVlellRYTk4ZUtVZi00T3o2aWdSdHRUb2p4YzJEb185VXB5T2syZldMZXZtYUtXeGF3c25xalJxNXc1WHlpUUlmTUttZ1lRLTNIZ19tbDUzYlpaclFIN3YwQi00c2YwTk96TGRRdloyVzRyRzZtYVlRdmVOdW5NMHhxV19JSDUwUWFaZzNONUdwTzlwaWxEZlpTYkNIU05RWUt0RUJDUDZGREZTTXVQOXVSSnpLeUl0cWRsRWZUd0YzalE?oc=5",
-    "fonte": "Estadão",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-06-25 22:46:18",
-    "chave": "7aa63ed2ec2da16aede0088c4f46625f0866b1d72bb42d653ebcc8d217528a5e",
-    "titulo": "Ibovespa B3 avança 0,87%, com IPCA-15 abaixo do esperado; dólar cai a R$ 5,18 - Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUNERU5SalRIQ0pzWEtoWlotdHF3Y2VEbEFaMUZKV2kyVTItN2gzTFdFazNXc1NuU3dPSlpVTURBeGtZRkt3Q01mQUY1cjNKTUwwOFNZbG9KQUVCeWRteXMwWkNxSnQ4NnZJOXVGekJLMm1LM1lSMHZFVGtkeU45N05jUnZfY3B6VGZZTnVTLXR0b3pQR2w2M0RKU1M3b2k5ZDU2SS1kUDU4X1d2d3F6eFpmRGJsd01aSkpscQ?oc=5",
-    "fonte": "Bora Investir",
-    "score": 16,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-25 22:46:18",
-    "chave": "d0d0720225b9b40a0985457a459c6cf162401bc8370212e9204dd1954fb227ac",
-    "titulo": "Ibovespa sobe com IPCA-15 abaixo do esperado e dados econômicos dos EUA - trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUJUREpqNUdFZmo3SnJoVFp4eE1VSVdUY0xFRTdTbHhJZTdSTTlIM0h5ek9nS1NHWWpTV3ZhcFFZeGlXc0NHQnlVbThLTUpQVWYxSS14SDZGNVZlRTdZWENMeFNNbG0yNGp3cDFEV3lOelkxVWlrdDh2RFdmZ09BV2dDa2toQlE2Wjg3OEROQV9NZ2MxYk5IWEhWaWNrSEJtOUV1bnBR?oc=5",
-    "fonte": "trademap.com.br",
-    "score": 13,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-06-25 22:46:18",
-    "chave": "7f8c37cbda13443f5d2fba513f81c8a946d45b6d8cca835aadc5d98447ee4b4b",
-    "titulo": "Juros futuros recuam com perspectiva de cortes da Selic após IPCA-15 - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVpJV0VVbnUtZ0hLRTlZU25KT2VKU3hNaDZjWmJIekx6MlVhZXpYVmp6MFBQNkFOV3V4MW9DZi1JRmJDT0luQjJPREZnR1FQRERmQ044d3F5NHk3LWZDQmRyS0otNUhiZl94aUpQcWNJX1NFVTBFMFBqV01uVnh4bnZhWFE0M0Z2RHg4QTZLdWhVUnI0OUlHaHExbjJwZWtsWlRuYnJaRmZhdFZBUWx2a0xMdTN4RC03NXM3Wm5DdmN1cmJV0gHTAUFVX3lxTE9OZm1MZkdHZGYtcVdhRlIwTFRpUmlKMURGcUpHamVMVHVIcU1RdlJsdUdkMTBFWWt4bFlWRWd4d05uV1c5Nkx0Rno5MVBibm5yNVNGX2hLeG5ybk5DcnMzVzQ0dWlZTFg4MERxSHkxLTlZVHBJR3lRUzVGd2NDNTkwM3V2QldrZlBhd3lYYmhSeVdJUjdxNGNOd0gzcElybzNzNkg4eVl3QnZDdWViR2M4SW9XNkJGbXNibjg5Z0l6alNRY1Y3R3NzelRnc3dDVFNnbzQ?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-06-25 22:46:18",
     "chave": "fbcca568355d262c31eb3956b1e1a598a7fa2014490407831dee54b6f18db06a",
     "titulo": "Galípolo diz que BC pode ter errado ao tentar 'explicar demais' último corte na Selic - Folha de S.Paulo",
@@ -17002,6 +16924,82 @@
     ],
     "classes": [
       "Ativos Internacionais",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-03 21:29:58",
+    "chave": "c4168528f0add59669023ed037fb8d6f5409be2b22af1f8601634e91f7d29a73",
+    "titulo": "Safra vê Selic em 14% e mais cortes até o fim do ano - Safra",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpQU5QSTRfNVUyYTFOWnRQSC1NZW9RRkh3ZGVBZHBDci1XLU0yb0FuU0QxV1BlUmVBa0lNc0xiRG4wQU11eHZIU21MSnFZemRmb1FiQmFnelJYQ0FTbENMRnFRQXdxT1RSeERYag?oc=5",
+    "fonte": "Safra",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-03 21:29:58",
+    "chave": "e65595823c565f13d2e84a47642ca20c6a936ca94a2cd65dca9e18f68484431e",
+    "titulo": "Economistas voltam a reduzir as projeções da Selic e inflação; confira o Focus desta segunda-feira (3) - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzB4QVZ4QUZSSENERWVoNzJsT3pzNlFpVkRFbHdSOUtYXzFLVlpOSHRfbW1xVHgwdmwxZ3Y3VHRkZm45cDhPTzczRXZMa0k2My1jb2YteWNRb0JlVWRNMTdPYVZwaTZVcWQ5SWRfLTNlTkFCcjJMQTZQMkpNTDRiZlJUTnBKX3VyT1l6ZHp2bm9YdVVFc2V1RGhGUm9MZWlBRFRsMlNGcy1zeWEwQnVBWXBxYmlDdUQ4Rkx6X1ZNZ1hlWW5ibUE?oc=5",
+    "fonte": "Money Times",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-03 21:29:58",
+    "chave": "d0bb84cf0e70f1dc91670b176ce937c697d49747000f64cb96f4595d371062b0",
+    "titulo": "Mercado amplia aposta em cortes de juros e vê Selic em 13,75% no fim de 2026, mostra Focus - oglobo.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3o5MmlnS3AzMWxnaXc3RXVDaHlPdFNZU052d0xfQmZWN1prNU5LcjBUQXR3dWNxOWJjRVJSaS00c09YWlR4WXdpODNmak84QmVsZXRqWGtmUS1iMFBhVzk0cF9EbjhsOTdobHdUb2NzWU5nRWgtclozU0g5cjNOcjZ6cVNlSm5xREgzd2ZDN21IbnJsbUV2TVV6dHdicEd3bTBIUXVfd3ZEN2N0UE5UNnhyR0xYUFM5Vzk3aTk3TE1zS2VpdGJyTjFBRWZPNDloU3V2WmZoMlBSYUZFUFBWOXd6VUdjRHdW0gH3AUFVX3lxTE12dXdPcmgxYnNSWE5VNk1GVkNrSDR0RFNNRE5yWmVQaE15dHl1T05nb3FlS0RreGR1bjlySkxaN2RXOENMOTJxSEx2NDMtTEp3MjE4MjJfQjdqbUlFNU9PbzBYbExpNnR6S0lKbGJzclZEd0hkN0tIWHRoNS1aNDJiaUd4LXdlaU1nY1FhYjhiZFpreW1MU3RTZ3V3NXZkQlBGX0g0dzY1Uk5ScWh3ZFRjRXdKYjJzWFF2QUNFMHRRZUlDV3J6RW1kUS05amctUFBVZUtDaFJaUExsRG1WMUhfN2RPNFpSSmZRM0FBdlRYQkVESXdhOGc?oc=5",
+    "fonte": "oglobo.globo.com",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-03 21:29:58",
+    "chave": "e65638a524294de5ce4551e468be1290f76328bebbe1860e2ca3929993eab47e",
+    "titulo": "Copom inicia reunião nesta terça com expectativa de novo corte na Selic - Agrofy News Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3FSOS1JVlVKa0ZYdTlqTFcwb3hONGd6MndlZklfcXpJOUF0eTNvSlJTTFRPX2NUSHREdWtpQW85cEtfaHVFc0xjYWFoMUh5cEtnZ0w2TGwzU2Jyb1RUVTFSZzJlVFpBTmp4X3JOd3pibzJ5S2JRaFBIOEx3QVV5TVdNUWRxTGhSSXNyVWxpdDlubWZwcDRPY0pnWTNOSGZQNzRGcnlNRDNzRGRVcU9n?oc=5",
+    "fonte": "Agrofy News Brasil",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
       "Real Estate / FIIs"
     ]
   }
