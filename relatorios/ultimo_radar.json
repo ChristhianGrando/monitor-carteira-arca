@@ -1,11 +1,36 @@
 [
   {
-    "titulo": "Análise: Copom deve cortar Selic, mas continuidade do ciclo ainda é dúvida - CNN Brasil",
-    "resumo": "Análise: Copom deve cortar Selic, mas continuidade do ciclo ainda é dúvida CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZmxwcVRINXRmWGtOLVJxZXljdU1PN0E2M0JRXzJCRWRhZVptUDE5dUM5MkFGTk9iTjY0d0FVNnhjT3RpYmE1UzZDWlFmR1lEUUxRMUx5RGt0ZnNzaFc3ZFBvNDhOanRzRF9pbUs4UWRYR0d5ZHVCMnFTMWo1TWw0XzFHbXNNMGxSUkRCVGVic0V0Mnc4NnJPNEVBd05ZT0lGM3hidndQemJrUEJfbTMwODB4REtfcTU3RGVoRHgzNHRqeG1mckJ4STdnRmc1dXYtaVZ1T2NHYlZndl8yRzZKSA?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7c280c280ac80ae2afa42c34b1d0df9abb6646f5aed068b9ae4ca3247903df2b",
+    "titulo": "Petróleo cai forte nesta segunda, após recuo de Trump na véspera da decisão do Copom - Valor Investe",
+    "resumo": "Petróleo cai forte nesta segunda, após recuo de Trump na véspera da decisão do Copom Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVkg3OXA4ak9YdERFT1ltYXQ2ODhYRFZTaGFqbkQ3ckNNZDhvNjRhZHdlbC1pWXhLR1lzUG9NcXVxVUZoTGJNQ25uOHZYa2s0MjJaZmlHT1V3VkdOb0hFWDk3UjlnajNEZjlLOUR2N1Q3N0h3cnFVdTllTTFUekFvSW15MFlfdndZaUdUSjBlRUxNZllTZHdoN1RuS3FZOU80TkVvTm9taGFGaTlsd19DdjlrQ2JxMUR1QlI3QlhXaGtEaElCLXFpZlV6aWI2WXhmWTlhU3RWcmFNUFhzbV9mbW9NbGRXOFNMZWVKUTVYV21GNEpMczVvUjltN3AyNzlvVVVRbmE4MzlqQl9s0gGbAkFVX3lxTFB1T0p2OFZxZGkteVAzOTY0ckRSRmhCbnJndUxFN2Jtejl0TU54SW00NjhqN3o5VFlFQkJkRnh6YWVaNFNzSXEtYlN3cjhKWlQ2dklSWGNaQldDUlE1QzRlX1o1dG00V3U1bktpVFJkTktEelluc0o4WW4zbDBfVG5rS0tDLVFuYXIyYnJtcmVLdHM5WGRRVmVOZlYwWGJJN19NZGNCc0owTHRhOEVRRUI0bzM2ZUk2bXRqeDFId3dXZ1NmOVptSDRBSlJTenhXS0JHWDNWbHhJUVFzLWw0VGFHekdvUzRzXzRXeXM1Qkw4dVBXbkNLek14RXNNSzBJZ040dnNYRl93U3N4NWdPdDhsWkt6Z1RTQ1A4cjA?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "01b8fb86ed44257f0969588ce59535437a7b15fa68e0cbb3e430a60ae0c11684",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom deve cortar Selic a 14% e deixar porta aberta para novos ajustes - Valor Econômico",
+    "resumo": "Copom deve cortar Selic a 14% e deixar porta aberta para novos ajustes Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2UwT3VOSXh2Nko5X3AtbzNhZVJLTFI3Q1VqTmFUMC1UY2xNOEhpTHRNQTJQSkowNmtKYXo2TmJoM0MtZVlyeU16RmJUY2ktaXFLRGhvN0hqNmtBZDhHNnd1Ymt5MHBNOEh3YXRtczY0dnBzWWR0bzR5b0o5ZDhjUVJQeDFkXzJvTkZqMHFvSGNlRGU2b2hNdUkxY0VlTkdMOXlreUVYbG02cUFSOExCRDN1TGFjRWZtZl9DdFhvQlRxanh0MXR1czlPYi01eWloM0lJ0gHiAUFVX3lxTE5UMGJUR0p3Q3pxRmdUcl9qenNKMGx5YUlKb2RGd1hiMkUtVnFvU0VQVHU5M2V1ZDhKbjRkQ19adUtTYmRpV3RZZTJTclpXdDRPT2NGMWQ4MXZQcEVOb3ZjZlZFTE9GNDF6RE1xaS1xZmw3RFZKN0N1RExrQjJjb0tSU1FQOTB6Y01FV0hVdF95a29mVHNfdzNRaThTMDMtMXMtNTA4bUdyNF9BNVZPbnNpV1NvRTZXOEdPVnI4NGpteDN5bllTRGF0bGxMVkQ5aTZPRktkWWhYX2pxei11bm52dlE?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fcc2ebc903f19c51e3ce3cc095c788260ff1537c2027f4f8d8b3d7d2a2879dde",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,19 +51,71 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Petróleo despenca e futuros dos EUA avançam com negociações entre EUA e Irã - InfoMoney",
-    "resumo": "Petróleo despenca e futuros dos EUA avançam com negociações entre EUA e Irã InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE1id1BOZWxYVFE3Rng3RzdpT2hOdUplRDZSZ3FySkZZYWpQYnRfSWtaZUlJSkpndmpuNVFoUldiU3RDYk5CYXpOYWxMaU16Rmw4TGdkMTNzRTJDREJXZmpZV3hVa1ozRlUzU3oxRno0cTN1ekdaMC1vWFV3ZG9tN2lIYk9ZMjNNZHRLRG1MRkFGVTlUZURKVkZLU2ZmSkxJTEU3ZUcxdjVoTzFFLTNfcVF2anXSAboBQVVfeXFMUEJpZXUwZWZ2ZWtudG4xMGV0Vlp6OUZmVklFSkk3dDZpODJpZmhpeUx1bl9mWnk1R0Q1UXVkaVhuLWpuZ0lNQmIybHdTd3g2Qm5FUmlxZV9KWXZSbFhMUDRYQjNPUUNuZEpOUlZROV9jaTdLM2YweldRTTZlMmZEV29LTUwxMnBHTFJjaFhLb2d5RzhBNXpwYjBoVWwyZ3ZuREpqOGZwNFd2am9JVEFXd0Z4d2pMX0luMFVB?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "76294b30ffa36f0ae18103f70e227ede70cfabb984012a35e0c56e52c40aebf1",
+    "titulo": "Economistas voltam a reduzir projeções da Selic e inflação; confira o Focus desta segunda-feira (3) - Money Times",
+    "resumo": "Economistas voltam a reduzir projeções da Selic e inflação; confira o Focus desta segunda-feira (3) Money Times",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzB4QVZ4QUZSSENERWVoNzJsT3pzNlFpVkRFbHdSOUtYXzFLVlpOSHRfbW1xVHgwdmwxZ3Y3VHRkZm45cDhPTzczRXZMa0k2My1jb2YteWNRb0JlVWRNMTdPYVZwaTZVcWQ5SWRfLTNlTkFCcjJMQTZQMkpNTDRiZlJUTnBKX3VyT1l6ZHp2bm9YdVVFc2V1RGhGUm9MZWlBRFRsMlNGcy1zeWEwQnVBWXBxYmlDdUQ4Rkx6X1ZNZ1hlWW5ibUE?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9736c9eedb3ac2dde0c8b8e68aded75e2d1af3c6e644370be12aacfda4d8369d",
     "ativos": [
-      "WRLD11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 9,
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "O Que Esperar da Próxima Decisão do Copom e dos Juros Até o Fim do Ano - Forbes Brasil",
+    "resumo": "O Que Esperar da Próxima Decisão do Copom e dos Juros Até o Fim do Ano Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTZhN0ZMS3VTT2dSUXk5LW9tanljTXl5U21RVS1vR3l2S0RSUjNtUlhYVUpIZHpXU0RFbi13YlB5TFBmbmtGUlo0X3BMcFdWbW1ibncwNVhFVWZyWkxUNUZUUU13QmZZNkc0emc1bkVRdjVJZjYyMHVjVTBSclYtUzJKUzhMSlRvVVE?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e923b3ab784c6ba63eec4415990731f608756927a19aa2f7602617b7f564966f",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos - Nord Investimentos",
+    "resumo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos Nord Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96WS1QWWVsTmhXSFRUSzJ1LWk3M2pLb2dtVFh6M3dlSUdBUGttTWNMMzRKdEUtYW5kS3hpVjRwOXFDd2hpVEFfVXZGeXViMDBVSTRfS1lpSFdRZlh1S0x0cUg2ONIBaEFVX3lxTE93cm40V0xjLTRZS0dhWmM1UnpIVDNVQ2drVHpzMWN3MXJtVVJNdGFIUGo1N0dWTEl1ZWFFSUIzeENOMU5BUGRFQWVQQWQ3bzJlZm9EUS1PV05DcUhVanh3ckR1clh3TzQw?oc=5",
+    "fonte": "Nord Investimentos",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "9eda1d7f4acc9a2df886ed6c8f9b058f22ebfb27d9f981b26a815ee57962481c",
+    "ativos": [
+      "IBOB11",
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de risco/queda/alerta"
