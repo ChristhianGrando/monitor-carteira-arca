@@ -1,20 +1,22 @@
 [
   {
-    "titulo": "Petróleo cai forte nesta segunda, após recuo de Trump na véspera da decisão do Copom - Valor Investe",
-    "resumo": "Petróleo cai forte nesta segunda, após recuo de Trump na véspera da decisão do Copom Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVkg3OXA4ak9YdERFT1ltYXQ2ODhYRFZTaGFqbkQ3ckNNZDhvNjRhZHdlbC1pWXhLR1lzUG9NcXVxVUZoTGJNQ25uOHZYa2s0MjJaZmlHT1V3VkdOb0hFWDk3UjlnajNEZjlLOUR2N1Q3N0h3cnFVdTllTTFUekFvSW15MFlfdndZaUdUSjBlRUxNZllTZHdoN1RuS3FZOU80TkVvTm9taGFGaTlsd19DdjlrQ2JxMUR1QlI3QlhXaGtEaElCLXFpZlV6aWI2WXhmWTlhU3RWcmFNUFhzbV9mbW9NbGRXOFNMZWVKUTVYV21GNEpMczVvUjltN3AyNzlvVVVRbmE4MzlqQl9s0gGbAkFVX3lxTFB1T0p2OFZxZGkteVAzOTY0ckRSRmhCbnJndUxFN2Jtejl0TU54SW00NjhqN3o5VFlFQkJkRnh6YWVaNFNzSXEtYlN3cjhKWlQ2dklSWGNaQldDUlE1QzRlX1o1dG00V3U1bktpVFJkTktEelluc0o4WW4zbDBfVG5rS0tDLVFuYXIyYnJtcmVLdHM5WGRRVmVOZlYwWGJJN19NZGNCc0owTHRhOEVRRUI0bzM2ZUk2bXRqeDFId3dXZ1NmOVptSDRBSlJTenhXS0JHWDNWbHhJUVFzLWw0VGFHekdvUzRzXzRXeXM1Qkw4dVBXbkNLek14RXNNSzBJZ040dnNYRl93U3N4NWdPdDhsWkt6Z1RTQ1A4cjA?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Commodities pesam e Ibovespa cai, apesar de alta em NY e chance de novo corte da Selic - Jornal do Comércio",
+    "resumo": "Commodities pesam e Ibovespa cai, apesar de alta em NY e chance de novo corte da Selic Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVklNSFBzUzlqRGlhSEl4ZzlTcFNoV1JERWFwY3YxdnJTWEpxVWVhRFlvdmY0ZXgzZWhFZ2tUbXpvRWFfdGhGZFBhaWQydzJzQmxqbnFLZlRmX29yMklmcG5saXNiMUQ3MDZnSUdBSEdHYTlxeE8zdVNXUi02LUR5dy1LRzRHeWhVSTlpVUhlV2NPN0N0Sm84X29rd0U3VG9zV093Y2VHbHhyTzgtMWpvRGo5QURpcGQwNkNRYmk1SVJPdUNMSG9uZ01EX2hzR2J1RXdIcGdBcjc5SVlzX25JSUR3?oc=5",
+    "fonte": "Jornal do Comércio",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "01b8fb86ed44257f0969588ce59535437a7b15fa68e0cbb3e430a60ae0c11684",
+    "chave": "640ac4f843d1835765319580648edbdf94339e53da3f00dff8923c295502a039",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 14,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -25,12 +27,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom deve cortar Selic a 14% e deixar porta aberta para novos ajustes - Valor Econômico",
-    "resumo": "Copom deve cortar Selic a 14% e deixar porta aberta para novos ajustes Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2UwT3VOSXh2Nko5X3AtbzNhZVJLTFI3Q1VqTmFUMC1UY2xNOEhpTHRNQTJQSkowNmtKYXo2TmJoM0MtZVlyeU16RmJUY2ktaXFLRGhvN0hqNmtBZDhHNnd1Ymt5MHBNOEh3YXRtczY0dnBzWWR0bzR5b0o5ZDhjUVJQeDFkXzJvTkZqMHFvSGNlRGU2b2hNdUkxY0VlTkdMOXlreUVYbG02cUFSOExCRDN1TGFjRWZtZl9DdFhvQlRxanh0MXR1czlPYi01eWloM0lJ0gHiAUFVX3lxTE5UMGJUR0p3Q3pxRmdUcl9qenNKMGx5YUlKb2RGd1hiMkUtVnFvU0VQVHU5M2V1ZDhKbjRkQ19adUtTYmRpV3RZZTJTclpXdDRPT2NGMWQ4MXZQcEVOb3ZjZlZFTE9GNDF6RE1xaS1xZmw3RFZKN0N1RExrQjJjb0tSU1FQOTB6Y01FV0hVdF95a29mVHNfdzNRaThTMDMtMXMtNTA4bUdyNF9BNVZPbnNpV1NvRTZXOEdPVnI4NGpteDN5bllTRGF0bGxMVkQ5aTZPRktkWWhYX2pxei11bm52dlE?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Focus: Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026 - Bora Investir",
+    "resumo": "Focus: Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmE2V3l1TUFJUHc1M2k5YTN5dWN5QnZBMGhMcHpfTXpoS0tjMlRiczRFUWk5UktwcVNLMkJqSGtxQkpuaVpJQTVSQk9FV2psZ0NPaVQzNElKaWlPcEM1cWtyUGd5TkctVVctUGxjV21vOGJVOEVySDMyUmJFVGlGaTV4aTh2ckpJeXpuQ254ZnViTGdHVTZycmRaRUp6RjVvV3pJWEJzS0x0enFmd3c1MFl4Y0pTZw?oc=5",
+    "fonte": "Bora Investir",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "fcc2ebc903f19c51e3ce3cc095c788260ff1537c2027f4f8d8b3d7d2a2879dde",
+    "chave": "b90158c5a8ba5dbe476b7e8767a7b50d2479cc99c79850016efdf47353f36caa",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -51,76 +53,81 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Economistas voltam a reduzir projeções da Selic e inflação; confira o Focus desta segunda-feira (3) - Money Times",
-    "resumo": "Economistas voltam a reduzir projeções da Selic e inflação; confira o Focus desta segunda-feira (3) Money Times",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzB4QVZ4QUZSSENERWVoNzJsT3pzNlFpVkRFbHdSOUtYXzFLVlpOSHRfbW1xVHgwdmwxZ3Y3VHRkZm45cDhPTzczRXZMa0k2My1jb2YteWNRb0JlVWRNMTdPYVZwaTZVcWQ5SWRfLTNlTkFCcjJMQTZQMkpNTDRiZlJUTnBKX3VyT1l6ZHp2bm9YdVVFc2V1RGhGUm9MZWlBRFRsMlNGcy1zeWEwQnVBWXBxYmlDdUQ4Rkx6X1ZNZ1hlWW5ibUE?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Abertura | Mercados voltam a olhar para EUA-Irã em semana de Copom e balanços - InvesTalk",
+    "resumo": "Abertura | Mercados voltam a olhar para EUA-Irã em semana de Copom e balanços InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2YmhSNHlTV2UtZm5BWE5RejVvdDJyUjliZEZmdEtaOWVqRXNBNXhkY0V1Sk1GU0NMQlZRMk5VM3RMUEstS0tJQ3VITXJzdmNSYUJXdHdxTGQwd3dDZGVXamNaT0IxazJLeHk5OXhEVUdwS0pBRUE?oc=5",
+    "fonte": "InvesTalk",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "9736c9eedb3ac2dde0c8b8e68aded75e2d1af3c6e644370be12aacfda4d8369d",
+    "chave": "d65cee14e360f2b3fc13ca04acb5e4cfa54bf96998e465576d063da8eb9aaac8",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "O Que Esperar da Próxima Decisão do Copom e dos Juros Até o Fim do Ano - Forbes Brasil",
-    "resumo": "O Que Esperar da Próxima Decisão do Copom e dos Juros Até o Fim do Ano Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTZhN0ZMS3VTT2dSUXk5LW9tanljTXl5U21RVS1vR3l2S0RSUjNtUlhYVUpIZHpXU0RFbi13YlB5TFBmbmtGUlo0X3BMcFdWbW1ibncwNVhFVWZyWkxUNUZUUU13QmZZNkc0emc1bkVRdjVJZjYyMHVjVTBSclYtUzJKUzhMSlRvVVE?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e923b3ab784c6ba63eec4415990731f608756927a19aa2f7602617b7f564966f",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos - Nord Investimentos",
-    "resumo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos Nord Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96WS1QWWVsTmhXSFRUSzJ1LWk3M2pLb2dtVFh6M3dlSUdBUGttTWNMMzRKdEUtYW5kS3hpVjRwOXFDd2hpVEFfVXZGeXViMDBVSTRfS1lpSFdRZlh1S0x0cUg2ONIBaEFVX3lxTE93cm40V0xjLTRZS0dhWmM1UnpIVDNVQ2drVHpzMWN3MXJtVVJNdGFIUGo1N0dWTEl1ZWFFSUIzeENOMU5BUGRFQWVQQWQ3bzJlZm9EUS1PV05DcUhVanh3ckR1clh3TzQw?oc=5",
-    "fonte": "Nord Investimentos",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "9eda1d7f4acc9a2df886ed6c8f9b058f22ebfb27d9f981b26a815ee57962481c",
-    "ativos": [
-      "IBOB11",
-      "SPCX34"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Commodities pressionam Ibovespa, apesar de alívio com petróleo e expectativa sobre a Selic - Canal Rural",
+    "resumo": "Commodities pressionam Ibovespa, apesar de alívio com petróleo e expectativa sobre a Selic Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRxZTFhemVWTzhPdmpCemdnNWV6d1RpbC1vU2l6R0xtT2FpN3VCWXFrZl9YM01IUUJpdVZ5cGcxS1FpQk90bjVBSEVkYnM3QlpJd0VjXzVEX0VEZ0pRWDFSR3FKeVlSRHduWE5LN1VIb2FMTkQ1cUNNZmphTmNYOGpNc25LZHhEbWF1aTVhb2JLNHVFdVJtSzZkZUd5MVplTHViaTNYTGpHSnc1NU1Xck1vWHJ2VVdsUGE1M0ZQNTRTLTB4bEJQVw?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "870a855ddde8c22896f0de0260872d5de12d9fb0473aa7229f06b0ff965eb94d",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus: mercado reduz projeção de inflação para 2026 e corta Selic para 13,75% - InfoMoney",
+    "resumo": "Focus: mercado reduz projeção de inflação para 2026 e corta Selic para 13,75% InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vR3h3UWRDQW9aV05uYk11S1VFLTBaUWg4N3lkWlAxRFZseU43cDZIT2xXSHhPcklNTjlFT2cyRzFSblpfdDZNU01qSGo3TmpULTNYc1hpNmJKLXFmcnJuTkFtV1l4a01kRGJTb2JsWS1QYjJySXVYc2Myd9IBgAFBVV95cUxNM1Bwamc2RVJaVlBLT2lXTW91UDhNQjBhd2VZdVBwamxVUUtYX0JuMjZja1UtTW9zLWJCU01CU3F5UnFUNkF3LWp1SzBkRmRZS1VZLW9jYU1SdUJQWVRfVE42cVc2c203UFJiRkZMMWxxdWFOcWtfNElUd2tMQkN3Sg?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d0007c3d5445eeea705ccaf5fca9031311df3904a7033da132bbd8710f56fee3",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
