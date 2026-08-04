@@ -1,18 +1,22 @@
 [
   {
-    "titulo": "Inflação recua, mas desafios fiscais e juros altos persistem - Canal Rural",
-    "resumo": "Inflação recua, mas desafios fiscais e juros altos persistem Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQk5FcDF1WlR2X3ZWSElEOTI0XzAxODhiRmRXZFJVc2p4QU9icWQzbHdjNEdmTnV6SHVZVmU1U2swRjdRM285SnhnQWdmY3VySTJIaUdLT3FwMGlIYWVlUW9GYUFRRVh0cUV0eWVIa2hCNTRtSjdvVktmbnREa3p5QzZyLW1sV205R1pSb0tTMHpOSHZtSkZZQThEVDZZUQ?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "23ff8904da47c9ee83ed035482c3bbe850c818a0df1a9711fd05d1a530a2acc5",
+    "titulo": "Com inflação mais baixa, mercado aposta em novo corte da Selic na quarta - economia.uol.com.br",
+    "resumo": "Com inflação mais baixa, mercado aposta em novo corte da Selic na quarta economia.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUxrRXhlOHNwNlZ3X3JieTN4c3g1YkIxOU5mMnQ2MjU0RmdCUVNlbXFpUkJxMUhTYjF3NXpEazRVODBWQzZ1V3lSaUFXNzVlUVU4S0l3OW9XOWRyLVJyR242bFZPT3lVMjNIOUpWWEhFREpIYk5QV2FRR01qMGVrSnM4NDFhb0dyRk10YzlqRXFvdkNzOGxQcDFlUWpLSk5lSzZ6U3AzXzlHbUxfNlRaTm45eVVpMlFy?oc=5",
+    "fonte": "economia.uol.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d0625a86339f5ebd2c4631b9a042d5cedbd25f0e1fb8e1bced4dfd723a67046f",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 13,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -23,12 +27,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026 - Sindifiscalms",
-    "resumo": "Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026 Sindifiscalms",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVdxTVVyOUxTSmVrb0pYaGZQZmpNZGp0LXkwbWl3R1FwNGlMQ0VfTGlGTjZNeUFWWHREM0RsejBaWjg3NzE3UlRiWS14S2pWdmFmSWlMWG15T2FsTTl6ZDdqelFKME9HR2M0c09yZnEtSmYxZHoybHdQVDgwbkhpblp3cjlOLUVDWTFPUUdES1VoZE16ejFYcWpxbTZ4eXU1dERXWTktNEtraVh3WjY2ZkN5Rkhkdw?oc=5",
-    "fonte": "Sindifiscalms",
+    "titulo": "Safra vê Selic em 14% e mais cortes até o fim do ano - oespecialista.safra.com.br",
+    "resumo": "Safra vê Selic em 14% e mais cortes até o fim do ano oespecialista.safra.com.br",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpQU5QSTRfNVUyYTFOWnRQSC1NZW9RRkh3ZGVBZHBDci1XLU0yb0FuU0QxV1BlUmVBa0lNc0xiRG4wQU11eHZIU21MSnFZemRmb1FiQmFnelJYQ0FTbENMRnFRQXdxT1RSeERYag?oc=5",
+    "fonte": "oespecialista.safra.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "db6601bca94e4112587c0556d38a2e72359f7083de4288c1cd194140ce942df9",
+    "chave": "1c22c3486e7d8b2fb1d5e6063c8ef20d1e0c1dc37d7ceaa866f9cb32dda8feae",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -49,23 +53,21 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Selic continua muito alta e agrava atividade industrial, alerta CNI - Hora do Povo",
-    "resumo": "Selic continua muito alta e agrava atividade industrial, alerta CNI Hora do Povo",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHBJdXlNWHpRaGk4Mm1pNUJqUHhBRWpJUV9XM1lOSVpoS2hJcGNDeEhIdmF3enUwRzNTR2hxWDlGNUwtb2Q4MVR1enliR0NnRHExUTJBTVcyLWZBM2dER1hYanByNGh1QjRWV0Y5ZENLZ1hJY3JoeDVfZFFXdkZ1T25uZ3d0OE1OekxncTZvbmxsbFRDdGo0Ug?oc=5",
-    "fonte": "Hora do Povo",
+    "titulo": "O que a decisão do Copom pode sinalizar para as eleições em outubro - PlatôBR",
+    "resumo": "O que a decisão do Copom pode sinalizar para as eleições em outubro PlatôBR",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHFpZjJxanQ0ODJsaFZBeU5FR1ZTV3B4TEcxTHQ1ZkN1NFd5N3ZtMXBNaUpUNWV6bk9nU0d2QlJpTVJiOEY1cVZMVlFQYmgteTNNRnRmb292N1d6M000YU14ZWx1emdEaDlCa0FQalVMZEwweUFFcENpb0VJbW9rTDF0ODNXbDBTY0cw?oc=5",
+    "fonte": "PlatôBR",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "52f51a1531ec1376173df3ac5e2d2f1665d29f2e6b2540bc720d7d2b22f795ad",
+    "chave": "1600f792771b6daf11de7b33758bb6ed6fadec2e3db2415091e33e7b659bda85",
     "ativos": [
       "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -75,45 +77,45 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P 500 e Nasdaq caem enquanto os investidores lidam com balanços, riscos no Oriente Médio e tarifas - noticiasagricolas.com.br",
-    "resumo": "S&P 500 e Nasdaq caem enquanto os investidores lidam com balanços, riscos no Oriente Médio e tarifas noticiasagricolas.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNR3JxOTJQZzFGZ0dhV2JyZlpfbWh2aVRHaFhYSmh1QVFOSVpjVTh0U0JjYkRPWFlCSUl5dlB0RkF5SXRBN21oSm5teFFSZ2ZwWUk5RzlQckxKNUVmbnBOVnktSXQxTnJDRkJUdS1xYlJ6SG5ibFBRSG5iZmJROUNmblJFbGVadkxmaGF3QzZsMHBQM2pzMFhkNldTUFpSLTZMNml3R2ZkM0FPenNta3o0d0ItUUw3MzBKX2Q5cUxqUjR6b1FxMnBIMDlmZHJKbTdTWE1mQTM1OHA5WWVraTIxaXdDVlI4NlBVUC1PdktKTW1rUzNvVU1MLU5kaE1tNUdvM05TUdIBigJBVV95cUxOQjJZdzlkaFROUzAzeVRCd3Y1VWNmOXhabVJmWjZ4c2sweHZkd051emNQd19HcmRKcHpfdjlNS2V6WUdpbkVxanVOYWxXMXh4ZWZNclRzbTFzcXJDT2hwR1J2UVpuaXJzMHNZZUMxTGduYzFCWGR6OHBRSkdqb3lLSHFZNkpqeUhKMGVJdVRPaGRpajhsYjZBckt3aVJRZWdoNUlHcGs5MTFKQzd1aEt2cEJCTjByTkxuUUVfcno0WHZwMUl1T0VHdHJJS1p5MTRiOEc5NXRfclBSbkFFUmJkdWpfc3RlNWFtX0lwR0xzZGl3dkRoZzdhMjFVaGt4Q2dWTjV6VGdfWU5vdw?oc=5",
-    "fonte": "noticiasagricolas.com.br",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "7394aee635882c44cc2bfbc7f0c2464fc1b97d5cab78dde256176095a7ad11f0",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom deve cortar Selic, manter porta aberta e ajustar ‘confusão’, dizem analistas - Bloomberg Línea Brasil",
-    "resumo": "Copom deve cortar Selic, manter porta aberta e ajustar ‘confusão’, dizem analistas Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXcyZGh3QkVVQVhmazZjbUE3QjdvX3g0a1JaQmpaY2lINXhIU3BWZ2RSZlo0YWdMWVdNMk9Wb0RKaXNXZHNIYlRaWWZUZVJCQmhLNVVCMWp4bFBZbm5DTHRudHNOTmhMem1JWjlpcVJieWJBWkRZX0k4TGZMWWhIQng3RlRSdlU3T3JoRkhVakdMUkl5Z0Ixc2VSaHhTM2F0MGJxNkswdzhhVUJCWVo2b2RxR01fQVlNMmJ0edIB0AFBVV95cUxPVTZtd1JuTzY1US01RlJDcllMWmtUYVJpWDRfanBhdjVsQjFNeUFtLVZWLUFTVnZxUXRhaXpQcWdoVjNnemlrenV2TURtWlVSc0k5MHVTWEdlRGZWRXlvMnItMi1uV3JGVGNEN0ZkUEZyVFhMX0dVOFBFVnB0eWYxaDhncjVEdmctdjZUM0d1Z01XUDJ3Q0JKNnZQMWJHbnM1T0IxT21qUHlTdWROdkRURUtLOFM2Y1FkZGpwNjllRVBxblMzMDVkYU1DdzhOOFZK?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Copom começa hoje reunião que vai definir taxa básica de juros: veja o que esperar da decisão do BC - oglobo.globo.com",
+    "resumo": "Copom começa hoje reunião que vai definir taxa básica de juros: veja o que esperar da decisão do BC oglobo.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMWdoaXNWWTFmTDZGeGxlS2JPdFVSWlE5Tm9IMFlfN3pVbWN4QkcwUzR1TW5HMjJGejNralc3dkJMSkFvQnA4NERQT0pXQ0dPUWZmOXkwNVpieEZObTNyVkFMVnFKQU1Fci1yVU1EMHdRMHZZS1RFVEZWNFFhWVNLY3IzaGdrckxxRllsLXRkZ1FkSEJnSExCNmpISEFSakpVT1hFZFFjU0JRWl9YMmRDSDk0eEZFVGFYMmZNaDJvWDdpS0ZoVWJ3ek1Nci1oVGtXbUlWWkFLQUE2Ylo1OGoxRWc1b25hYmtERjdkNVdkQjRsT3lHX0p5Y09B0gGIAkFVX3lxTE5UaWV4cmZXdkhuU3dUZ3UwTmcyd0s4M1VoN0ltYVludjhFX2E0SDR4b3VwVWQycTl6OHFZLTdwT0VmQ2lwZ2V4Y2JYQmkwNHBwTzNQWEpFU1lUSE5CR2lsMklwTURFdkdWSE5jTmRKdWlrQmgxSjlSdHUzYldnOWIwZ1JWOThjQ1A2RWtjNWFuOXVvTEtReVVFalVCTWZIaGNQUmRTWjBTbkFQeGxudnU1OUs1RnU1UXgxNWdLa044ZV90OVlHT3JlN0dwa1VzNEtHRDBFQ3VXNlI0cVdrZWgzUTQ5RWRfaVRkQVUxRzlQdHdTMDJuTUpKNWpKV0pYTzlEWnEzanVoMw?oc=5",
+    "fonte": "oglobo.globo.com",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e9c63ad6a7c5fafa6c41a6be34514aa97ae30980e7ebcc8ea1529afefee701ba",
+    "chave": "513c91c8659ef20f0078c81f9f0f1ebb203b53e5c9503390eeba4fbb44c77ed2",
     "ativos": [
       "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom inicia nesta terça reunião para definir taxa básica de juros - TVT News",
+    "resumo": "Copom inicia nesta terça reunião para definir taxa básica de juros TVT News",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSVRlOFFNdC1SaW5tMG1FZU01R0pQM2xncGZCeTQtdUllWXdHV2ZoOUJhYzhzRGtiYXRuSTFybjVtTEdZc0lXMzJyVHBRWXQ5OXBZY3A5ZVlxa3ZBc0gycWlJYW9iUkRHQnNEZjkxVW81NGk5?oc=5",
+    "fonte": "TVT News",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "dd1003031246f0e033769da67ba7761b31fa1296efe54bb3552fc2e391a75f0f",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
