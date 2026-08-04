@@ -1,37 +1,63 @@
 [
   {
-    "titulo": "Dólar sobe ante o real com foco no Copom e no mercado externo - Canal Rural",
-    "resumo": "Dólar sobe ante o real com foco no Copom e no mercado externo Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3U5RWJTLVFIQUxxVkZpbEVZSF9hTWdGYjExbkRlb294c0pIZDVOLWhYd2dpU2ZqckgxR1NaRzE5VExlcjVHZXRjLUtCZERHdW4yc21MZlpHZ3NjUGZRNFNvNUVfdHRza2hlbjZ5Sk9tczJ4NmFlLXJnWnA2T0E3czVfTjNQSktsVklUcVFDTlF6MHFvampFdlZHNnRldWxwQm1j?oc=5",
-    "fonte": "Canal Rural",
+    "titulo": "Análise: O risco de um jogo de espelhos entre o Copom e o Focus - Valor Econômico",
+    "resumo": "Análise: O risco de um jogo de espelhos entre o Copom e o Focus Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1R6X1gzLUxESUNLOWhjbmxfbldWd3A3c1VCV2QtNm1idGhnX3BSR1dpMUl3ZHMyaHVwSU80NmRYbFJNd3BYTFhzR1V6RWFGOGo4akMtSWFqTmFiZDdEemJVQk9RQ29QR0VjeWJWZXpjSUptd203V0Y4djUyQ3E5RFBPUjljTWRicVVBaUl3Z3RhRmcxWHM1MWhBWDE1Z1JzQkxrYXR5RkVSTUlDUVQ1T2pyWkFRRUo5eHlkMkNRYl9RREE5NlJSZE82Z9IBywFBVV95cUxNU1R6X1gzLUxESUNLOWhjbmxfbldWd3A3c1VCV2QtNm1idGhnX3BSR1dpMUl3ZHMyaHVwSU80NmRYbFJNd3BYTFhzR1V6RWFGOGo4akMtSWFqTmFiZDdEemJVQk9RQ29QR0VjeWJWZXpjSUptd203V0Y4djUyQ3E5RFBPUjljTWRicVVBaUl3Z3RhRmcxWHM1MWhBWDE1Z1JzQkxrYXR5RkVSTUlDUVQ1T2pyWkFRRUo5eHlkMkNRYl9RREE5NlJSZE82Zw?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8036f2bcf2834454b40b3dd0b868d652a9aaead4090ce883afaa7b3d9c4b55cd",
+    "chave": "3c327d997c25e45768881b63bb517683facf746da4f0de90997fec68b06a2f01",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "ASA prevê Selic em 14% ao ano após Copom e condiciona novos cortes ao ajuste fiscal - Estadão",
-    "resumo": "ASA prevê Selic em 14% ao ano após Copom e condiciona novos cortes ao ajuste fiscal Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNUp3SkxMblZRaWc1cGw1OVBUOG5XeGJaRXktNTB1NEx5R1pFeE43eDlSaWJtaktiaS1xZ2ZzTXdxOHBzX2xUa0oyVk9COTBhbmRncXJZQk5wRE0zY2JhWm9uR0pHaU40RFhhd244dUNqeHZhSG5OQ0FhTHlfSDhTMThMeUFlZEkxZmROUktXV0xaVG16Sm1ndUNWejNHNEh4b0R3Rk9ZOGdqc1N5dEk3b1FVemxkN1ExVUpMUHpjSTNvemdOOGN0LUE2V3pfWUVYR2FnRmJ2TVVvSU9hRHJ5ZWJhOA?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Mercado prevê novo corte da Selic, mas diverge sobre espaço para reduções até o fim do ano - Jornal do Comércio",
+    "resumo": "Mercado prevê novo corte da Selic, mas diverge sobre espaço para reduções até o fim do ano Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZy1ucVJEd0Y4V0JnWkdEZXFfRm1yZEFHdEFDUkFzcldDeGNGX0JKeEZnclZzWWQyTEFMOEQ3XzA0YS1kRHhDZ1pWRzhzVzZfMHIwNFhwUEVxYURlTHAzaEI1azNiODFlYjc0T2pWZklNZ3ZBb2RZOUQzaVMzaGEzaTFwUk9pY1RDdElseGJTcGx0Vy12Y3RDdmRnTzlIaEpNZFJveDB1aWdpSktWYTdEczhqaDFhalV5OVNROWV1TTAtYjVucWE0R0l2ams0aHJ6ZzkzWWgxTTQ5ZFZ1Sl9TSzdBSktlVkE?oc=5",
+    "fonte": "Jornal do Comércio",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "14d2057892075490a74851f6042159a1d115ed790205e7a6a195c366f99e6cf4",
+    "chave": "931a32cc0bc0dc2291e4982248ad2aa44383834736ca949e69ff40823d715680",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom inicia reunião que definirá taxa Selic - Bora Investir",
+    "resumo": "Copom inicia reunião que definirá taxa Selic Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMldiamNzcWdvNFVIakdxdUxBS0tSOEp2T2FJRXRZa3kzeTJwNGtoWXQ0MDZzaE81UERfQTRseGFwLWRhOWNRRERLakZBVlJUcWk0ZWd1ZW10X2hzajF3X1RBcHNJejBvVV9YeHVkc1pqM1ZkeXZQRWNYNFc1OENzQ0Ixd1Q4Z3VBeUQxblBB?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "98e51ca82a7bd1cd67bd4bfd3f1777ed527833e9d64d11810b170bc79e5be0e5",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -52,60 +78,38 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pré-Copom: alívio nas projeções, cautela no fundamento - XP Investimentos",
-    "resumo": "Pré-Copom: alívio nas projeções, cautela no fundamento XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeW5lVC1wZGVfMDFwZEZwNGxmNGdoTHVZX2RmTmtRUDJtYzdlS1owemhBbFFLZlhNREtsY3l1aEYwblprczl4YzVDUE0zU3M5WDlkdjAzNm05YVg2OGUyR3FYWmFOdTNTRHlHWjJmUWxqeVU2OWd5aTVYb1p2c1hGaHpDZnZRclRzTHRla01mUV8zWXh6cWlTSkY1YnlhMmVpcldscUF3X2dUXy0weVJseVNuUGt0Ylk?oc=5",
-    "fonte": "XP Investimentos",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "80cc3d9cec1e00880dc75a7eb41c0c3ae86852ac16e35de25d15d76e334a4e88",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "À espera do Copom, analistas indicam as melhores small caps para agosto; Veja quais - InfoMoney",
-    "resumo": "À espera do Copom, analistas indicam as melhores small caps para agosto; Veja quais InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUZWNEt6enBIVDBGdTZlTTItcEthNEN0YUZCQ3BJTjNXenFueTFFVVVxRnpfQS11Mjhmdjlma0JqeGdxLTJaY1B3YlppZnNNMnc1cVhTcDBoQVhPUkwzYWs0dkpLYjhCQjRWd19xTGg2WUtKVHJOT0NFYlJETXZ4Sm5OeW1veXlJVkRJQUk5QjltMl9od0tfS3hRTzlZUDdqTHlaUVpQb0s0ZzA5clNWVnNSMWxtMHMxMzJuRHRnTFJTNEXSAcgBQVVfeXFMTndIeVlHTzJZakhuaHJzUkpLY2l1RXVZWktNczdoemRBUk9HYjJxOHh1cDFudzFqQXJPS3NNMDEtQUh0V0JNSHVzajBmaWdVX28yblVyOHp4MzhDNGc3R3lRcDRYcUVSYnNPc1FsSXRYaDY4VGJpMjByLUUxbHloWTNGaGxyOFNhTlpQcUFrSENTMXVZVGV6VGcxb0FSNHgxMUdobzFIcXVvLUNodl9YUVNvVFNFOFN0WDhINVhDNGFMZWREU0JuYmc?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7c4f3fa4f216546e418a108a91968a3ec053bd82ef4f5cd0bf0f5197f7fbfda3",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom inicia reunião que definirá taxa básica de juros - Monitor Mercantil",
-    "resumo": "Copom inicia reunião que definirá taxa básica de juros Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFBuenA0ekFmYmJqM3VzSlU4M2JDa3BnandpeUF6NFpuTEtNTTVoM0NDemxaaUh0UG5HQzk3ZHYtc2ExSkZCSTFhWTNiT1NLMEdXYm5jQl9IOElKTUVWQ2VQN3JTY2pzQjN2R01pUGJiYWI1MDkzSVc5S3NUTDdBMWs2Y0JUdi1sU1ZEZ1UyTE0?oc=5",
-    "fonte": "Monitor Mercantil",
+    "titulo": "Inflação deve ajudar Copom a cortar Selic a 14%; será o último corte do ano? - infomoney.com.br",
+    "resumo": "Inflação deve ajudar Copom a cortar Selic a 14%; será o último corte do ano? infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVlBOY2hPc3ZHYmNObEpyNXp1ckR4YzF4YlI0a3VxOWQ5Y2IxUzBuTzVpRVFleDlubDRyRXdYQ1l3aV9FZVY0TzZZRlZIbG9LSDgyVmlvRFJjTm1oZjlrTGJBQUNjVnQyVWIyMlJReFhJcFBXTzkxM1BDell6V29lUG1yZ3E1Z0hNMVVndWMxNnbSAZYBQVVfeXFMUEJUZldEa3pNUDVyVGN3bHd2Ym4tUUFtdGFNVTc0eDdmRmg2c1o5MFJlWDZwc3h2c3RmbEVqZ19LRUhYX0huc0VibXBsOXJIaV9XRzhxSXhrLVl1U3lVQWNMZmRXaWhsR2NEU1huTC1ZaXh3bFB2dTVTTGZSOERkUWhCTEpRVGt6eTJoYjZsUmdHXzRVbmVR?oc=5",
+    "fonte": "infomoney.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "93c875ebabfa8f59629236772f17cab2bf8a428866dd05c80792318f625b1bfe",
+    "chave": "e99e4b68e10ab4b27448affacf9d030be48bec38a8e8229e8910fd281693c4a5",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa abre em alta na véspera da decisão do Copom - trademap.com.br",
+    "resumo": "Ibovespa abre em alta na véspera da decisão do Copom trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3lUcGpNSmtlNlhWejlqVDY3dEd5RE9ya3gtX2xKMnhQNmlELWtuXzZRRG9UTHNLRkhYVXNNVmE1a3FBNGJjTXAyeHFzRW4yVDdHRHJ0SWxzYk92RVRiUHdpQzlzcmxqcmZvYy1PYm5MeXRNSkNaWmpMS3lvX0hXX2gwc3lLaWhhZ2c3QnFOXzdXSkZhb0VYMA?oc=5",
+    "fonte": "trademap.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1348a7a37e78661b16138ff9df800851a0cdadd68f5b14816b629f727a4c12b9",
     "ativos": [
       "IBOB11",
       "CDB 100% CDI"
