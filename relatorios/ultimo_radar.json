@@ -1,65 +1,11 @@
 [
   {
-    "titulo": "Mercado aposta em novo corte da Selic para 14% na reunião do Copom - Vero Notícias",
-    "resumo": "Mercado aposta em novo corte da Selic para 14% na reunião do Copom Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGVrc3VwWDdoaFNQX1Z6d3MtRTk1SHlfWVo4aDBEODRFZlFFWE9mOWhkR2tFLVBjSnZhbGU4VmRZTHVnWV81YW5FNFhMVjRobVZuRXdTQWZfMnJfbHdzS3ZUZUxDa0FCMXV5SGNSNWNBWkxzYjRENTFyVkFWUW0yQWcwbEdPTU5Bb3NydnN5WU1IeFhETFgySXI2THVrdUlRV3c?oc=5",
-    "fonte": "Vero Notícias",
+    "titulo": "Dólar cai diante de expectativa pelo Copom e apetite por risco no exterior - Canal Rural",
+    "resumo": "Dólar cai diante de expectativa pelo Copom e apetite por risco no exterior Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWJPR1pFSXFhRlF1eEZDTFp4UGJ3MW9YWDlocUlnX2NSSjRLcktmQ0NmSEtHWlBvbHhfbVhSUjUtckgzSnBSdXdrTUJoVzNzVjRnRVVZbXptMXVudTNXTGZjSUhacjRtMWVHSUFjd2o2S2t3M29nUHUzdjVCSkR6SE01UWFHOTYwOWNjRF8tQ2lrdWZDOXBra0FzSUJIQ3dvUlZWSVVTa2lpajN0SGRyQkVOTmI?oc=5",
+    "fonte": "Canal Rural",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c6606bae0dbe8d7860cb3bae057e8d70c2ad1b6afe16bb0aca3615198832b898",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Selic deve cair, mas até onde o Copom pode ir? 17 casas fazem suas apostas; veja projeções - Money Times",
-    "resumo": "Selic deve cair, mas até onde o Copom pode ir? 17 casas fazem suas apostas; veja projeções Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXhnWl9FaUNkUThGR1hIeFV3cVhxcWVsdXJUUm9vYkUzY1MyUXNjYWFic2ZSYUFsM05QWGsyakZvbnlXTm5UM2VQQnhST2tpNFRHZlpJcXp0VnN0VDRmRmx2bU9VQkxHOUlPdmNjX3h1VnA1ZVV5bnoyblVyVndSTjZaaXowdmhSNUs1ZzVtUnZ4TTFYWUt1V2NWakFINTNyQW9Pb3Q3V1VvaGJ4NC01ZHJwMEhZN1NJcUE?oc=5",
-    "fonte": "Money Times",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e67c587610573de125a058af5d53c753ad5ac27e6a14461f9690550773129536",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom decide juro, petróleo a US$ 80, dólar, Ibovespa, mais agenda e pílulas da economia 05.07 - GZH",
-    "resumo": "Copom decide juro, petróleo a US$ 80, dólar, Ibovespa, mais agenda e pílulas da economia 05.07 GZH",
-    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUnlyREptcEdSalpVc0c3SFA0YXoxUlM1U2lXcm9oOHFKc3diU1Z6SXZHSWhWTGZnMHFEaU9mV2lkclRjWEg1VktwNkFQMjlvWDFTdk9pcHRXS2pIeldXYlFINFJlWG9oMkJ1NlpVODkwcUs4T0ZxR0tuYTZEZWpZaF9DNGdTMEF4ODgxY0hfX2FUM1hoUlpmbzhKdWVXZjRMX1NvUHdpNlJjLWc0TjdtOXhSVTg2ZkozaGVMU1RMakhMNHZyc3k3TWx1SUExSWkwUFpxb3Q1RXpSS3l3b3FlQjBtM1BvY1ZHTWp6VEEwd1RwRVVwWVAzSU5zbHlGTHZKZVc2MTJ5dVA3TE1jcExzQTNJaHpTaENaRjB0cA?oc=5",
-    "fonte": "GZH",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b7c5ab25684fca0d8e5bb2de76abe7a5c607f06f8b2dc5a18b05c30a4ce73794",
+    "chave": "b7ca86de14ee791bcd8d9a1b9424aff4d9691491c1eab0b0834b44ea739ac2da",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -69,6 +15,34 @@
       "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva"
+    ],
+    "score": 19,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercados hoje: decisão do Copom sobre Selic é destaque do dia - Bora Investir",
+    "resumo": "Mercados hoje: decisão do Copom sobre Selic é destaque do dia Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0JRbzVKLVA1bG1tb1RvTTlJQXUwRVZ5V0JDQjQ0TGVXTENWZW5xSjFDZ1E4T3BMcWltTlh4VjhRdnFNeXVUc01BNmJCSXRtdmJBUjVwcnZ1S0JMVV96VDZ1UzRCT3M4QkpCSHFDY0kydUpJNFZVbEFjYnV1Yk1QcVFqUy1UZHQtcUJfN1VoLVZNNmNrd3Z0VjRUY2RhdExRQ0Y5Qkdoa0NmRC1hYXc?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7dc477c5c3a4e48d773702b3a17e9854877aa571f4b0b1b181de3acfd5de3e1f",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
     "score": 12,
     "motivos": [
@@ -80,34 +54,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ações da SpaceX (SPCX) caem 11% após o primeiro balanço apontar prejuízo; veja números - Money Times",
-    "resumo": "Ações da SpaceX (SPCX) caem 11% após o primeiro balanço apontar prejuízo; veja números Money Times",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ3NZVVhSbWVobnVwSFBMbjFsUmdFYUxEMWhWT0hTeUgxbEJIYzlyTjBVSWdxLXpoLUlzOVlrRUM3cHU5dTNvNnBWLVdaSG9rSEdDVWVLOFZYWUFaemdMeFM0N3JEaEpBWnJ1MDlfc24wWmlGbzRBc3o3bUktc2NaY3ozSVpXaTluejFKcTFEQUJCNG1na1NHazYyMklTVVpWM0tVbF90eUVZNDJteG5hWHhhNmpZbHpkb250SFRB?oc=5",
-    "fonte": "Money Times",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "51d6a84ca7f618de511242635e0f124066c4adfd825e6df906eebef444a22f24",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado espera corte de 0,25 ponto na Selic nesta quarta-feira - VEJA",
-    "resumo": "Mercado espera corte de 0,25 ponto na Selic nesta quarta-feira VEJA",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3Q5V1F1dlM3b3pJcElsTWg0ejhoY3hwOFV4M1VGYmZCc3hQeHNsWGY1YUEyS09NV1NLVTA1NjYxbW9HUEZ2YW5hVXU0el9GM3VCci04N2RVaGlPRzRTTXFTd1M0UGRhcGpsSXN1TUtXTlJ5Qk1OWGFPSmJLMjY0UDFLTWJlajZEZkl3ZzhwUXFyTi1Xd3pGa19YdjVFQQ?oc=5",
-    "fonte": "VEJA",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e9410ff9cf19e70ac159f4629791832aabc0be44adac7a043b2489fd2c59778f",
+    "titulo": "Copom deve cortar Selic para 14% e sinalizar novo corte em setembro, projeta BTG - MundoCoop",
+    "resumo": "Copom deve cortar Selic para 14% e sinalizar novo corte em setembro, projeta BTG MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQV9HdnpZSzB1SHAxellzdkZKUklodUhQRl92TERFWVpINWVfa1lMMkVqd2tTQ05sVnZvMnRzRV9uMTQ3X2NCTzdNeU12TGo2R1R3cGwyZE1WVk43ZDltZWRsTno3aVlHWkVMOFM1Xy02M2hKOHNpNGdCbVZiYllBdEZveFhVN2dMQkRKZTJZdmJpaXlmck5NTnlPcUx6OXVNb055NV9ZajJaV2RQTXNmRDFSbDFtR1hiVDEwZzFRWQ?oc=5",
+    "fonte": "MundoCoop",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a6dd05237b00facfb8e373f1b320148f583bcc03f5d1982a3fa8c50887f580cf",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -119,6 +71,54 @@
       "Real Estate / FIIs"
     ],
     "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Abertura | Decisão do Copom e balanços de bancos devem guiar a Bolsa nesta quarta - InvesTalk",
+    "resumo": "Abertura | Decisão do Copom e balanços de bancos devem guiar a Bolsa nesta quarta InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtNVlRRkdwMmVmbG9ieWd4LTJTQ0lCczVKTmxLLW0wWEs1ZmhsREphSE1MWFUzTVdpczRLTHN0SlVDbFl1Rkl5M0JPbUc5eFd0NnFGYmZFQ29vY24zUC1UeGQyZGRLbnRXaGdudHczMndvcHUtYkE?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c59eaff8d8f804b600714b705a67e69c9217694f8af496935f1279116a82aaed",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom decide juros hoje; saiba o que esperar - XP Investimentos",
+    "resumo": "Copom decide juros hoje; saiba o que esperar XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTk1fQndINk9sdGx3Vlp2RERMMWc0RTczS3BnRHVabVVGdkRKZmZVMnUwTk1xWGNpWXVSbzdLUmpldXNiUjI0bWZqNFFsZjR0QTJJRVRzQVlheXRJT28xamNDNUdpRUh2REE1eVE3R2N3RXZ1Qnl4SXctaGtNSEN4MUt4b09zaHNjbDYzUWJRWQ?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "edc0ba7fceb35c51dc19f2dd0a82b0e0dd5666349ec61505f3c33bbe44115ad5",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
