@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa sobe com apoio de Itaú antes de decisão do Copom; dólar cai - cnnbrasil.com.br",
-    "resumo": "Ibovespa sobe com apoio de Itaú antes de decisão do Copom; dólar cai cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFNKT1BIdHhjdExtVjl2bjk4YnBVQ213S01tVTVpb05TZEF5QVU0QmkzX19GcFc1ZmwwcURZdTNSSmRFMkJRYW9ocmdacjJwb2tlZ09MNHRxWVRyNG1fWHlYWlBNbHF2bm82N2I2ZXBUeWcxYXptOWFPd1VJYnl5MXFidVBBTW80YVp6UUx4MzZ6TnlkejNqUWZB?oc=5",
-    "fonte": "cnnbrasil.com.br",
+    "titulo": "Dólar cai com Copom e ambiente externo favorável - ES Brasil",
+    "resumo": "Dólar cai com Copom e ambiente externo favorável ES Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KOWpKdThDRGdMbUZyV0U0SXBuTGVSaF9fR1B4UjFCQnEzVnNTY2NOTlZJU1NqOWU5bWxDcmQ3SlplTG5GN2Z4VEZJR0djQVJiTV9ROGFzYlB3X1A1SmdqbElB?oc=5",
+    "fonte": "ES Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b5df44415893a93f2ca2fb3cf747cc592692d1474b9036bb4c86c4f6db8fa7ee",
+    "chave": "595b579ae8b12ae6256404a11d5a9781e0e3507bb7e0a41953cc6686740ae842",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -27,44 +27,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central altera regras do Pix para combater fraudes; veja o que muda - Gazeta do Povo",
-    "resumo": "Banco Central altera regras do Pix para combater fraudes; veja o que muda Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwR05JOHFFZFlCRUt2ZDY5VVJ1cVFUUG16VTVkNXJvY0FGdGliQzhva2V2SGtTX2Q3OWZLakhJeW9xXzhyZmxheHo3cVRINUVIN0pXZFltUWhwdjZiTzhYR1pncEl1WDV3aWlzcmhZTUxmUFVaS0x0TVdKank?oc=5",
-    "fonte": "Gazeta do Povo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a22e9e1a1f01d10cc7f080960929e87a33416e8a7e708d4b0e4097fb377f2a8a",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa sobe com bancos, de olho em Copom e em eleições - Valor Econômico",
-    "resumo": "Ibovespa sobe com bancos, de olho em Copom e em eleições Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeU1Jd1c1LW03WUdRcm05ZFc0VmV4c2lYclVweHNXVG9PWVI3SzMzMGJfQUtaRlRHb1JKaklPTTdPSFJEb2d5UG5VRE9BMGtFeWxSSXVDVkNNSlljQ2ZDd0l6RXh4bk1MVnBqSHN2VVN2MGRTQWswWC1jX2Vmek1qMnZaWHVPVFF1a3EyQUh2NThtWm1kUk5VTGtfMV82TmVXTW1obXpwWTNPNGVMYW5fMnQ5YXNabk1wYkJpU1RhZTRpUdIBwgFBVV95cUxQeU1Jd1c1LW03WUdRcm05ZFc0VmV4c2lYclVweHNXVG9PWVI3SzMzMGJfQUtaRlRHb1JKaklPTTdPSFJEb2d5UG5VRE9BMGtFeWxSSXVDVkNNSlljQ2ZDd0l6RXh4bk1MVnBqSHN2VVN2MGRTQWswWC1jX2Vmek1qMnZaWHVPVFF1a3EyQUh2NThtWm1kUk5VTGtfMV82TmVXTW1obXpwWTNPNGVMYW5fMnQ5YXNabk1wYkJpU1RhZTRpUQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "38a87a60f410bd70b625c4a5bc29a67850b953d89b0b8451c4631f096acc6014",
+    "titulo": "Selic coloca FIIs mais arriscados na berlinda; veja o que derrubou alguns fundos - InfoMoney",
+    "resumo": "Selic coloca FIIs mais arriscados na berlinda; veja o que derrubou alguns fundos InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3h0cHdiVWRIbEFjNXFacW96eTlGY0NlcG80LUJreTltZzVVV1ZicEpDWmN2YlV1b3cwN3A5QVhrOWVNY2VEMWxWVkcyS3g1dC11R0dUZkdQZmNIUms2SGh4YmNjUUFycFBBNEdWb2tWWUhTd0FXdHRZbXlNMWhjUU1jdGFSanhxTy1OUjRRSEUtbHJSU2djeVhBSGxHV0dSRGdnZ1hUQ3dmNWRNNUh0MTBKeHlSY181ak1rM0pnTTHSAcYBQVVfeXFMUFhmeUhIRU5DTVhQTjAyV040ektjOFZSNHNnNmhORTNCMkxpaDhuaDZnNnRzcHZfUW9BMWNGcWZMTERaT3p4VV9kUEhiMC1UcXdiVzN1Smc4M19jYTFRNzljbUxndkQ1RGtfR2ltUUdFQ0tXTlVWeDdyNG55a2J2U21XZUFUWGtETVp2YVJOT0stTU0zTlJuZ0dES3lPTGhsS0tJNmFLX1pSeFd1c29ZVmJKS21nR2FJdWNxWXE0Vll4VHY1V0tn?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "5a8c2adb1aa74bab31bc8ff33b372eb7193bd7663a4c030b34f6c5fcd74eca69",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -74,36 +53,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Humor externo melhora e influencia Ibovespa em dia de decisão do Copom - Jornal do Comércio",
-    "resumo": "Humor externo melhora e influencia Ibovespa em dia de decisão do Copom Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHRKMUtNU0kxa2NqWUJ3ZzY1R2hiYmg4MGd0c2VLSk9TbzZSMnpiNnV6VFZsTXRoMWM0VXNvOTNqWTg3TmJ4ZzZYVkNvYTFUWnRhWElvS0psM0FQSnRQanZsZ2FDZlFOZGJfYlpOT2JLUGdpaXJMSnpxcnRMMVhGbEdNZ0lDV2lxZVplOXNfUnlES2haS3pzM012ZXZOcTNNM2dkb1V6bEVyS3hqNWZQanZLbHg5SW5HR2Z5dEZaRnJWOEtOcmFObHRSNDM1Zw?oc=5",
-    "fonte": "Jornal do Comércio",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "720f83ca61707c3f5ddee1d03d9f51c84e282c0629a30a2f20b6b862ced9c739",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Curva de juros recua levemente à espera da decisão do Banco Central - Canal Rural",
-    "resumo": "Curva de juros recua levemente à espera da decisão do Banco Central Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUd2aGRwSFc2OGhqV212YnROUDhWSjg5WE5iWTVVYlZHMGtOdldiV2lWb0J5Qk1QaTBWNGhWX1Bhd1Z1djZyTTc5eFpIaHVRNHBuY3RXdHBqa216N0VhQk81bW5XUmdRdUtKOGp0M2ZHQ3VwRC1RV0lxWmlEUnlTbVdMbUxZOFhvbTBlUXRFVGlQdzhJS3VpNDg4cVFjc3VlTnJ0ZkQ3VlJqTWs?oc=5",
-    "fonte": "Canal Rural",
+    "titulo": "Banco Central testa Drex para automatizar operações financeiras - E-Commerce Brasil",
+    "resumo": "Banco Central testa Drex para automatizar operações financeiras E-Commerce Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkFDYXhOSkZlY09CcDFJemVKU09NbERWSy05Zi1HOWNYS1JMQUcyNktNeTh3T1gtdFA1bS1wTXUxcS1fUTlMeDk3YjhYd0hHdmNVRERieC15Z1VGdVNaWmZ0SWRmRU1LY1g5cXZIVDBxb25DYVJrOFl4VmxCeTNFOGN2cE02eS1zV0EzUkhmLXRlR0syazIwQkxJOE9hQ1l0Xy1kODc3Z04wTEE?oc=5",
+    "fonte": "E-Commerce Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7b6329d78bd605c1f2ad0a2bfae84c94995df813271f01f1a089929f1a3a6c2a",
+    "chave": "1daefb6d4377f5689fabbc2793309714388329e5b34fc0dd6bf621e6612db868",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -117,6 +72,27 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ações da SpaceX despencam quase 13% após divulgação de balanço e gastos em IA - Folha de S.Paulo",
+    "resumo": "Ações da SpaceX despencam quase 13% após divulgação de balanço e gastos em IA Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzVUZHF1dkFfNHB2bzV5RVUyTEdYLUlCVERlMEdabFk0SXpoTHhlNlhYZ0M0U0VFQmx3cWFuYUh3ZHQwMHhhWVFaakhfNmVleWJleHBwSmQ0Z0FhUTA0QnNxSVdWbGpUS0N2cEJNaS1pRWplUkhJWGpGZ3oyT1F4MWpMalhqOVR4ZnQ3REJlZF9KcGVYTm44QmcwMXN1ZGUtbDdNRTdkb0xqdTIxVzhuSlhkLThycEUyemNGS2U1WGhsQ3RpYXB3S2h3?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "763a9183e6664f619a003cd14722da507d4e1a88c22ae27b2f9cf7ccc8ab2960",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
