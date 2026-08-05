@@ -1,38 +1,11 @@
 [
   {
-    "titulo": "Dólar cai com Copom e ambiente externo favorável - esbrasil.com.br",
-    "resumo": "Dólar cai com Copom e ambiente externo favorável esbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KOWpKdThDRGdMbUZyV0U0SXBuTGVSaF9fR1B4UjFCQnEzVnNTY2NOTlZJU1NqOWU5bWxDcmQ3SlplTG5GN2Z4VEZJR0djQVJiTV9ROGFzYlB3X1A1SmdqbElB?oc=5",
-    "fonte": "esbrasil.com.br",
+    "titulo": "Copom reduz taxa de juros em 0,25 ponto pela 4ª vez seguida e Selic cai a 14% ao ano - Estadão",
+    "resumo": "Copom reduz taxa de juros em 0,25 ponto pela 4ª vez seguida e Selic cai a 14% ao ano Estadão",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYXRhRFY3ZlZnb3ZBbFVhdXBQTGZ2ZnNKQUhtbVlTZ0tXcExkVXdPYTV6ZG9nMmM1MlE1YmFNU2hFem5DbXFWVUdZUTRKTXN2M2ZLanN0SHd4SVhBa0NsRldnRU5ITHZfYUJsSE0yZjhrSG9BS09UemdjaDJqWjA?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "65fe8af5c9732fc1efe0dfc34270761d415e2fd3f8c9281e446b7a065ab50a10",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom decide rumo da Selic nesta quarta-feira; mercado espera que juro caia a 14% - Valor Econômico",
-    "resumo": "Copom decide rumo da Selic nesta quarta-feira; mercado espera que juro caia a 14% Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObXVPWHludVU3R1JiTnRPblViZWFRV0ZYMVhGT3pGZklRT1I5OVltNkNXd3FwWHpjSWxfRk04ZDdFUWZJaGEzWmxqWWFFcUE5TlBHUkNSaG5uX3ZEcmJlOHBHUV9DUTNORFVfVmxKMnRYRDAyVThWRUFpR3RzZXpXTHJNUmY2QXlYa3F6N2JmRnN1QWxjQ2JJbngxU200blBaOUVlcHFVRmFRTE5kbFctd3VXN2t0VHhjVldCbzF0MnRwWmg4M3FDSGY1TFF5OG9SZkZyTUN6aW9sQnZET29scjViMjNOWTA3MTRaS9IB-wFBVV95cUxQV1lveEkxZlZYSlVHbWlnOUNxd0J0Y0c4eVJxZ0x3dHpPQnRyYmJ4UXZZb2E2ZWhxLVlxNk5tbklkNU9kZjZsN251alNCYV9XX0dGX08tTXJTUmFfcWJWQTgzdFFWYlJDdGMweWdURHU4elVYWkJyb0tuQkVsMlhVaXVfaGlqeFo1ZzZhdG5SR2x5WnJ3eFhoMjVjRHNLd285QXJ4Q203cFB6WUM0RTlBQWdYMGlkTWwwelZqb3hsc0V0dWg1eTVJY05fN0V1WERabWhvVHIwWGpqMmJaWmtqRExNcm5POHBmU1ZTWHVocDRsbFFEMk5sZFhZVQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3190e32b3d7b238c78012163fd6fb4d8f350646731cfc234f49a10299571c513",
+    "chave": "97215934aa1bb56e05eb24e0e47dca23b798df9af3b3bbb1673520925225bcc5",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -54,71 +27,111 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom define taxa de juros hoje, e mercado já projeta próximos passos - UOL Economia",
-    "resumo": "Copom define taxa de juros hoje, e mercado já projeta próximos passos UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEhHb3h6Z29tSGNSMFRjU3ozM0M1T0Ytang5c1IxOXVHODJWVUdKeGZLNzBHMkNSUmM2VEVUNjRGX05RR1V3N2RZSHZNMkFORHNTRDlKWEpYX1RlcnZpYzRSVEg2eUEtSFhsVGNWY1RzZVRCb2hub05MdnVWX0d0LWVpVlpfRnRlZDZraA?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "29ce525eacbf9ea0cb6c887c07aac09f0f386f4be935eee6b79773d8b8d0c7be",
+    "titulo": "Copom corta Selic em 0,25 ponto e juros caem para 14% ao ano - Poder360",
+    "resumo": "Copom corta Selic em 0,25 ponto e juros caem para 14% ao ano Poder360",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTlsYXprbF9RQXhqNmpqMktvNFFaVnJZMEEzRzE4QVhMOHY5d2pjOEhjdjNPbDcyQ2U2SGZpOXYweVZGZG91eDJ1dmFhN3Q1T29qU3dJQllxZ2lFcnBZZXhwUkt1Xzh4MWVBaWpUWk9sNWp2S3YtU2t3WWxXTW5ST2FsVG44SlNtdHdQOTI5TURBeUwtVEd6VnVFSHE3Z1cxUU1OSQ?oc=5",
+    "fonte": "Poder360",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3eea2b94a08c14edeb7f810afab4d9c529ed9ea649c3b8863177a17bf8394a5f",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dentro da máquina: como o Banco Central calcula o corte de juros - DComercio",
-    "resumo": "Dentro da máquina: como o Banco Central calcula o corte de juros DComercio",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHpBT2Nab1J1S0JEM3FCT0d5bjcwM0lkcXRnVWt6YUdpeEUtNm1mTHhpb0EyVGF5OXlKOXBGbEtQUVA1UWp2SnFoMk82eFo2WkdiLXp5dkY0bEVhQnJkem1jLWJZRUZxRWtJY2hiVHZOVjdjd3NhcnE4bWxpYk5Db1I3ckFFT1J4WldlTFNNUnJ1OF94NnZlcGlIS3I0NEVoT3Fj?oc=5",
-    "fonte": "DComercio",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6a369a7cb38a1f13f53e36cb668eb0bff54d23b43f5301c720040524826a57a8",
+    "titulo": "Copom Mantém Cautela, Mas Mercado Espera Novo Corte da Selic - Forbes Brasil",
+    "resumo": "Copom Mantém Cautela, Mas Mercado Espera Novo Corte da Selic Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwVDZiNUM4b29fUTRBVUFKWWh1ZXJNLTVGRDBIOXZIdXVvdmM3Rk9USmdzNFN4M2pIYWh5WEdVNkRWSjdNQXBxZHlCQUdmdThVQ0xaMWRscHdwWEUwWjhOdGhUNnpEYVJa?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "89e80dd46ff447f2bf0356f3b1af72c5caf4a3cec9b33f39f79c309c549eb18b",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central e cadastros de crédito: o que o consumidor precisa saber - Demarest",
-    "resumo": "Banco Central e cadastros de crédito: o que o consumidor precisa saber Demarest",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVRWTWpYSUlRRjRrT05TMjFTMmVrVGNla1dUN2JOc284NW1VN1I2MEsxT0hfSXdiQVNJY284LThLQ25VWXF4a21kWU05QllHVkRqNVdVY1lWcFFTZVNBUmFBVmVoMDMwX1pTRjZzVk1HQTFKSDhnWThieUJBNnlpdWJOc0JXTHh1MW9ZYjhTUGhPdFVRNjVoTWljZHhMVHM?oc=5",
-    "fonte": "Demarest",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7dc8a25402862ef1f2fff72f7b48c87e01790d75a9b4b2d277039d3bd75ccf55",
+    "titulo": "Corte da Selic para 14% é positivo, mas juros seguem elevados para impulsionar a indústria, diz FIEMG - FIEMG",
+    "resumo": "Corte da Selic para 14% é positivo, mas juros seguem elevados para impulsionar a indústria, diz FIEMG FIEMG",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONURldjItLVpwZ1c1UUNJOWVGdWJHaGdXUnFSRVhsTmx0T3Y5cWwtUWw4Z09iVDViX3BPUnEtbGJvbG9mcnRuX1JMOWZsVEo5OW5zZlZ2RlZGUkU4ZzRsS1JFTXpQaDc1ZGprNlBQQ00zM2FGYjhEU1BibG5YTk4wS21IRG05YkNsT080V3ZoQzVyZFRobURKLWNtcXg5OF9tbjlRTjNNRm9LaUd6V3Y1bUQ1YWNpaE0xcXoyc09rWXlETklxNV9TVktoQV9NZw?oc=5",
+    "fonte": "FIEMG",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4ab2bf5ec2a721d82389442568f0cfd865a64dcf44953ff82e59aa0186ba1cd3",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "BC corta a Selic pela 4ª vez seguida e taxa de juros no Brasil cai para 14% - Exame",
+    "resumo": "BC corta a Selic pela 4ª vez seguida e taxa de juros no Brasil cai para 14% Exame",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYmlFbkNlWDNZM1BJTUVGOUh6NENsV193VUhwSEVDbER3VFgwZUpMSzJmOHdLSEJGWmV4TlJfT2UxNzhkZlBHMUxsc0JVV0NFbmpLeTlPQnBaV0NUa3dkOXZBcm1PWnl5anQxVGcyZDBDTFc4bzFFTExUVGw0WDFJdlZqYlVQbDJTSHJQVmJQUFBfNXktYU1VeTBOU0p6bkM3TFhhZA?oc=5",
+    "fonte": "Exame",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "100f48406508da9cde2aa455408e745ab2845820480020d9bc39cf5e317747b1",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
