@@ -1,11 +1,40 @@
 [
   {
-    "titulo": "Copom reduz Selic para 14%, mas juros seguem freando emprego, renda e consumo - Sindicato dos Bancários",
-    "resumo": "Copom reduz Selic para 14%, mas juros seguem freando emprego, renda e consumo Sindicato dos Bancários",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1lZaVBKbnJpbzI5RVRaWjc5Wm0wWmR0QW8wX3BfOFN4TDY4eU5FM09sbmxKUDR6RWVHM3VVTndmN3FQWFdnaVhoUTM5NVNlQk42RjM1SmsyQzlXVEFGdzUyaldrMkI0Y2N6UFNqMzktcW9tZURNdEplQzhGcF9zZ2hZbFpyWW13YlQzeUx2aDFYWlB0WHdiVWRlT3pxSmJkaGNQTV9IYTUyNWQxMnc?oc=5",
-    "fonte": "Sindicato dos Bancários",
+    "titulo": "Ibovespa B3 cede 0,09%, à espera de anúncio da Selic pelo Copom; dólar cai a R$ 5,12 - Bora Investir",
+    "resumo": "Ibovespa B3 cede 0,09%, à espera de anúncio da Selic pelo Copom; dólar cai a R$ 5,12 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3lydHh6bGNhZUNLNzZNeXY4LW0zVkQ3RlVIVDZGNS1wS2pYZUo0VlBhVUFITThLd2tmQ1U0Qm9LeHY5ZUZaLTlnYzhmS2V6emdpOWxHWkxiU3dHcmdQOFFNNnNvN2Q5VEt0MVA3TnRBb0lVeHlkaUo3MDlRdHdVOWdmSGN1MWdDNTlCWXROMEZWZE1sS09fd3dhYWFVWWI5SWJfcUxyd3dkT3FEcVNqdGFpVUs3R1IxenM0SHVraHdNSU1PYmc?oc=5",
+    "fonte": "Bora Investir",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "58cd14360eaf82fb56bee1833d3b50ad6f6ab97ba3773f04f6605e4dc0f60977",
+    "chave": "57172b47026071e42d3cf7ebefee10e1e45576b50a6e35f13681cc8caa7b41ea",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Selic cai para 14% ao ano e indica boas perspectivas para pequenos negócios - agenciasebrae.com.br",
+    "resumo": "Selic cai para 14% ao ano e indica boas perspectivas para pequenos negócios agenciasebrae.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1RlR1BhVXAtRk10UklpTUl3azVBTWFodXFhaWNkTjBDdWJlUmV6M0ZveHdEbTZLbmcxQmRVZzFKMzd6TF8wajBLQ09ZZjFYRE54RFFwcjItZU80dldZVGxMcnVmX2l6c0JmWkxwTng5c2UtRVN5eVVLZjZCWk1PaWJMallMZGg5cW5lS0l4Mzdna3JRLUNRLXpzUmhhSnlFanZKMElMZy1TS3VPMmJnR2hVSW1kMFZJaEloMUc0T0Vxdw?oc=5",
+    "fonte": "agenciasebrae.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "58bf700656d2500b49e7b793f2f782a3c286937a50acfe221d5be908f4438f01",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,48 +45,23 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "BC corta Selic para 14% ao ano e deixa \"porta aberta\" para próxima reunião - brasilagro.com.br",
-    "resumo": "BC corta Selic para 14% ao ano e deixa \"porta aberta\" para próxima reunião brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUThCSVB6RGR5SjZfV2ZDZF9JQ0VhZ3VtbmVUaWdKT19uUDJ3aG1tS3l2LVJTb0xDblZtTzBtUURpYWZrejRZalpreW5CeExCLWpQQnlUaGRZeUhCSjNrUVF2enAwaUFYMUhJeVU1ZUd1VHMzU2hQQTlGNGU4OHdhZy0ta1dQWmRlWHc4bWNpdEdhRGFZcVdLZmRpUEstQ1ZQZ2JxY2tZNVNSUWc2TkZaeEMwcmRCdw?oc=5",
-    "fonte": "brasilagro.com.br",
+    "titulo": "Pré-mercado: Copom Confirma Expectativas; Otimismo com Petróleo - Forbes Brasil",
+    "resumo": "Pré-mercado: Copom Confirma Expectativas; Otimismo com Petróleo Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmhnOFQxb1kxeTFzRzl0YjlWMmptcFBtdVJmYUtaZXJmTHRPeUx1X3QtMUVFRzhBc2ZOSWVyS2l5Wkd5enRfbHMyOGVMcDN5Nl9pYlhQYmFObDJQTHVlaFd1ZnRtOEMwZDFQOFlpaTliS3FpbWhOdUEzRTV1a3EyTE5XM3pKMGlTUUJ1RFhDUlNZakFPQTF4YnFDUVllQnJkR0F3RzZNUHI?oc=5",
+    "fonte": "Forbes Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "32cfa3f5f44bf12f967e4c39be89cf0c1b21ca1be0746b796760bf97cd8334d1",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "FIEB avalia como positiva decisão do Copom de manter a redução dos juros - Sistema FIEB",
-    "resumo": "FIEB avalia como positiva decisão do Copom de manter a redução dos juros Sistema FIEB",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3U2U3lJYTBLODBUUzUtTVN0clFyNFZ4M1p0Qm4ySEFuZGRfdTJOSnh2cjJON0hYb1BsWDBPNV9YVnREME8yY1l6Ul9tYTh5MlA5SDc2UFlpYXg4bDllX1hXMU91di1jNnRXdmNvX1p1OG05aTJ3RGFuQklYekY0Tlhzd0RNMW9YSU02Nm5BeDNRWVpGZEwzZG5nQk5aLXZZLWxyejlwcVhCdw?oc=5",
-    "fonte": "Sistema FIEB",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "54c43ec2998160d09a8988ed312987cbfd18180c99ba366fa816fc5fbcbecced",
+    "chave": "c9d54ca323492b7af291fa50f7f08a64551149a8e525a7e2353f025b0c35166a",
     "ativos": [
       "IBOB11",
       "CDB 100% CDI"
@@ -76,12 +80,36 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central Retira Indicação de um Roteiro Pré-definido para os Juros, Avaliam os Economistas - forbes.com.br",
-    "resumo": "Banco Central Retira Indicação de um Roteiro Pré-definido para os Juros, Avaliam os Economistas forbes.com.br",
+    "titulo": "Seletividade na escolha de FIIs segue em foco após Copom - Clube FII News",
+    "resumo": "Seletividade na escolha de FIIs segue em foco após Copom Clube FII News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdk1EUnEzTDZRT0luazJQZG45MXVwcFJSa09oOVpSZi1TMzg1Qnl2QlJGRzZlS2ZKZHBDcEJDeEViYUk1bDhSc1JTVjE3b0I2OFY4bEVMYVEtNkNBNEFBaURmUVhCbDlxd1laY0NYQTg4c29VT1N0cU1RZjRVbDEwd2hUb1BHcmNlZlpYenM0QzEzT3hyd1lFaXh1OHQ?oc=5",
+    "fonte": "Clube FII News",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "2a4c703764676e609e515a7fed052a317945132307bc36a6f1e7bd1aa21c61ae",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central Retira Indicação de um Roteiro Pré-definido para os Juros, Avaliam os Economistas - Forbes Brasil",
+    "resumo": "Banco Central Retira Indicação de um Roteiro Pré-definido para os Juros, Avaliam os Economistas Forbes Brasil",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwVDZiNUM4b29fUTRBVUFKWWh1ZXJNLTVGRDBIOXZIdXVvdmM3Rk9USmdzNFN4M2pIYWh5WEdVNkRWSjdNQXBxZHlCQUdmdThVQ0xaMWRscHdwWEUwWjhOdGhUNnpEYVJa?oc=5",
-    "fonte": "forbes.com.br",
+    "fonte": "Forbes Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ed881e42149d6dac2ab6b8d4a9dabcba5d838f568902c9ca2232c1a8e089a1b2",
+    "chave": "66ea84f085ba163193520ca8a3150a02c9bcb3c6f17c9dd92b342be4a02081c0",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -95,27 +123,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ações da SpaceX Despencam 13% e Fortuna de Elon Musk Encolhe US$ 80 Bilhões - forbes.com.br",
-    "resumo": "Ações da SpaceX Despencam 13% e Fortuna de Elon Musk Encolhe US$ 80 Bilhões forbes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SWDI1UHJUOHhQaF8zOTNRQ2RUVDNhT0NNRHVyMkt2UjNtNHVwYmVQeFpVMlRJT2pDY1JoV3hwNHVESGxDcHQ5ZDViUlhQVzNIRHFycnNNSDRPdW43RjBCbjVVckVxajBJZVppbDMySnlYdw?oc=5",
-    "fonte": "forbes.com.br",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "5ae12f0b68282d35abe22c08fbfc3aea703564e3e5be1a199f1f261d671dce17",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
