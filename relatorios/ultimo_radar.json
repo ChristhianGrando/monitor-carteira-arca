@@ -1,24 +1,22 @@
 [
   {
-    "titulo": "Dólar abre em leve queda ainda sob efeito do corte da Selic - Folha de S.Paulo",
-    "resumo": "Dólar abre em leve queda ainda sob efeito do corte da Selic Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDg1MXNaTlpPWXpzNDVZclAtcWNNME5RRWQ3OGF6b2Fnc0RPbklYMmh1QWRGc045eDdqZ3dOb3E0NE8wRkVmeE41VFNwV3FOcVkyOXU1a0dyekZVT1pfVjlzRWZJaDZWc3BYV1Q3OVFmd0lhR3p5SUJGWkVSMEMzd3BadUNxZWxCdV9YcUlzd1pNSXNtZjRTbzlJLTg0TUVlbW1DcW1iVUo3YVpmczZBMg?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "98ec13f34043182fec49f9d2757a2c59ab80eef1598c800a45fda46d56bcf194",
+    "titulo": "Copom decide rumo da Selic nesta quarta-feira; mercado espera que juro caia a 14% - valor.globo.com",
+    "resumo": "Copom decide rumo da Selic nesta quarta-feira; mercado espera que juro caia a 14% valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObXVPWHludVU3R1JiTnRPblViZWFRV0ZYMVhGT3pGZklRT1I5OVltNkNXd3FwWHpjSWxfRk04ZDdFUWZJaGEzWmxqWWFFcUE5TlBHUkNSaG5uX3ZEcmJlOHBHUV9DUTNORFVfVmxKMnRYRDAyVThWRUFpR3RzZXpXTHJNUmY2QXlYa3F6N2JmRnN1QWxjQ2JJbngxU200blBaOUVlcHFVRmFRTE5kbFctd3VXN2t0VHhjVldCbzF0MnRwWmg4M3FDSGY1TFF5OG9SZkZyTUN6aW9sQnZET29scjViMjNOWTA3MTRaS9IB-wFBVV95cUxQV1lveEkxZlZYSlVHbWlnOUNxd0J0Y0c4eVJxZ0x3dHpPQnRyYmJ4UXZZb2E2ZWhxLVlxNk5tbklkNU9kZjZsN251alNCYV9XX0dGX08tTXJTUmFfcWJWQTgzdFFWYlJDdGMweWdURHU4elVYWkJyb0tuQkVsMlhVaXVfaGlqeFo1ZzZhdG5SR2x5WnJ3eFhoMjVjRHNLd285QXJ4Q203cFB6WUM0RTlBQWdYMGlkTWwwelZqb3hsc0V0dWg1eTVJY05fN0V1WERabWhvVHIwWGpqMmJaWmtqRExNcm5POHBmU1ZTWHVocDRsbFFEMk5sZFhZVQ?oc=5",
+    "fonte": "valor.globo.com",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "2790bb512aedefc543a7f276641f70e11d287292a8e82d6205967f95a8de995c",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 16,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -29,12 +27,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom reduz Selic para 14% ao ano, mas juros seguem freando emprego, renda e consumo - Sindicato dos Bancários",
-    "resumo": "Copom reduz Selic para 14% ao ano, mas juros seguem freando emprego, renda e consumo Sindicato dos Bancários",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjZpSlIxbC00UmZqZU52UE5EUlNBSkJITEpwMTFxUDZOcHZ0azdsRzRkR2xmSzYwYTdaU254N0lhazAwUjJnQldQR0NZanh0Y2h2R0JUN3RSZjZHcGwzMjlvLV9kcjJyOFBMcGFPYTgzWWZxXzl4WU0tZU1xSFdrSWV3QTlFSl9rR193b0M5bEdPbVI3b1Y0Qm9xdXVrekZpb041ejBTajMxbFJrLW9SQmNoVlQxNUE?oc=5",
-    "fonte": "Sindicato dos Bancários",
+    "titulo": "Copom reduz Selic para 14,00% a.a. - fecomercio-rs.org.br",
+    "resumo": "Copom reduz Selic para 14,00% a.a. fecomercio-rs.org.br",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcklINmJjT3djdmUzUzhaWnIzUER2TWJ6QUlTdXBtZERnZGkwX0xzVDVpRF9OTUdkU0VTM1F3V0N5N2JyVk1hWUU2OVp0bzhQTVZOQWFSNHJqSEU2R3Brb3QzYzdaTkZaMzB2WFdsRDlCeGpBNUt1OXVQLWpRN2QxYXVtdVJRQlBqaUVuRk5wWGFKSU54ajZVa2FoQ1JBRDFfbFdaeC1LLXZyOUVfRDV0cmd1RXN5MmtVTUlnRGFvRVZ4T2pFM2xOTldn?oc=5",
+    "fonte": "fecomercio-rs.org.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3d8a96a96e7fde548c3623622af4c6689b0193e234e973c68d25c16081c43bbc",
+    "chave": "fa462d0b4f0f3b5eea8bd35942630c82f381cf119a86cd495a3f69e4e9a7c95a",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -55,21 +53,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa recua na contramão de Wall Street após payroll fraco; dólar cai a R$ 5,09 - Bloomberg Línea Brasil",
-    "resumo": "Ibovespa recua na contramão de Wall Street após payroll fraco; dólar cai a R$ 5,09 Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTg5MzF4NS1aNlRBYVdtNGJQaC1RLXNGcER2TjhSWENyaWh3N094MXhOQW83VTM4SWNJS3c2OGJsUENBcWtlM2xzeUZuQWNSemU3WnpVVXpLNk9QcWlmTkxrbURBdERoTzRiNjVkTUV1Y3Z4dXJKY0VXV2VyWUdRR0pnbnRlT2dwM0pIcC1McG8xQ2VHbUtOTlY4SnROcHQ1d0h4SXQ2NlB6RDBMMG5uZGgyTEpJTDNFc1ZlVjdnUGnSAdQBQVVfeXFMT1JnX2V4SWlSMkdpbDk3WUpDazlFYkVka2M3RE5mR2hDNms3NlNJWWNlU19mUzY0R3Q3dFlSc19QWURhUDkzZUNDNmVrcktqUm4xTVdFdGZYcTg1SjljMm1XdnRaNWUwODh0Y2dYYWR0dzlXOEpLZ2pXS2lCRzNYOXBFT29jTGF5YnVqRm9kY1R1d3QtYWJkUzAxTUZzY1BiN2didG5GemgwWG5lQ24zTjB4YTh2SVpUTGlwd1Rmenh4VmkweG9CbTFFVWVQVDc2V3loVnQ?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Dólar cai com mercado de trabalho mais fraco do que o esperado nos EUA; Bolsa recua com balanços - Folha de S.Paulo",
+    "resumo": "Dólar cai com mercado de trabalho mais fraco do que o esperado nos EUA; Bolsa recua com balanços Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDg1MXNaTlpPWXpzNDVZclAtcWNNME5RRWQ3OGF6b2Fnc0RPbklYMmh1QWRGc045eDdqZ3dOb3E0NE8wRkVmeE41VFNwV3FOcVkyOXU1a0dyekZVT1pfVjlzRWZJaDZWc3BYV1Q3OVFmd0lhR3p5SUJGWkVSMEMzd3BadUNxZWxCdV9YcUlzd1pNSXNtZjRTbzlJLTg0TUVlbW1DcW1iVUo3YVpmczZBMg?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "468acbdc82793a3118baddecb218d015140b3f6cae7492bc6c6078a812ba4ec0",
+    "chave": "108884f2997ceed634c09881d9a29ff53fad5dbb2e74fda605911e3237dc9791",
     "ativos": [
-      "IBOB11",
       "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ativos Internacionais"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
