@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "titulo": "Quais FIIs comprar em agosto? Veja os escolhidos por bancos e corretoras após corte da Selic - estadao.com.br",
+    "resumo": "Quais FIIs comprar em agosto? Veja os escolhidos por bancos e corretoras após corte da Selic estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTHVRRnZoRnkzSGZXWkhDYUR0bUZmbW9ncnBFaXRsNDQ2UG9XSWozMms3aExDVHlWT1Zac1QwVzJzd1dWZWRUamdzVXFKZ3M4aFBLa1B4SlM2U3kxYnVOaW1BNmRWVFdrTW1RS3UzMFozRFR6UVZzaVJIZUQ4a1lUcXFYRGI0cHIta0lsdjZ1TWtodVJleFFXRlhuZ1pkVXJOUnRVQlFYNmk1Sl9GaXRGbjVTeDB4ejZFbHBfd2lDYTcyclpPbVJWYlhxWFF1SDFoNnZuZ1JzM1ZMblhhLVE?oc=5",
+    "fonte": "estadao.com.br",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "1f1a92f99f61a1c36a2c6e63641b027b2080af7851e256f97348e194472d1d5d",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
