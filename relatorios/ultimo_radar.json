@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Ibovespa cai mais de 1% com tom mais duro do Copom sobre política monetária - VEJA",
-    "resumo": "Ibovespa cai mais de 1% com tom mais duro do Copom sobre política monetária VEJA",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlBjdElPVU4zbWF2SXBxRkhtc1N4TkIwd0puR2RLUzhZYXhjSnlLTGZjLU1EbUo4OWh1emltaTBkNllVYkdpNjYxX0pVeDlQcWNVa0ExYmRJTEVhQ1AyVWtIaDNCaV9TOENhZFhiVDFRZlQyT2xOZkpZdFVuWTB6NVlZQkl5NlNwUk5jU01jekJxQjVWLVlrWmk0TEtwbm1WOFZVelhoQ0Jad2JHTzVn?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Copom reduz Selic para 14,00% a.a. - Fecomércio RS",
+    "resumo": "Copom reduz Selic para 14,00% a.a. Fecomércio RS",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcklINmJjT3djdmUzUzhaWnIzUER2TWJ6QUlTdXBtZERnZGkwX0xzVDVpRF9OTUdkU0VTM1F3V0N5N2JyVk1hWUU2OVp0bzhQTVZOQWFSNHJqSEU2R3Brb3QzYzdaTkZaMzB2WFdsRDlCeGpBNUt1OXVQLWpRN2QxYXVtdVJRQlBqaUVuRk5wWGFKSU54ajZVa2FoQ1JBRDFfbFdaeC1LLXZyOUVfRDV0cmd1RXN5MmtVTUlnRGFvRVZ4T2pFM2xOTldn?oc=5",
+    "fonte": "Fecomércio RS",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "1fb5743bf041c79485971c66572827fba10ec65fe0d9ded467112cc416278145",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa recua mais de 1%, com Copom, exterior e balanços - InfoMoney",
+    "resumo": "Ibovespa recua mais de 1%, com Copom, exterior e balanços InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd21UX3JBbkJHelBYMzFlTnloY3dEUkd5cklJRC1yQkxzUUNNVEV2UVV1dVJ2YmJndTJROHFkcUluVmlGZk5RQS14LThoSXBpb3lZNzFKb0c4LUllakQ3LThVV1RVb2JLSVh5VGpPN08tXzFjd1FlVkliYTBDbTJUUVgtd3lKZFdCdjdKYTlZUQ?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "912606a1cda39e0e20d71b5438edaa8c86463ac1fbfe736a26665193e54680a9",
+    "chave": "c3a5779e3c47a1e57b650343f5367bb03d96a148316d120140395d73b6107824",
     "ativos": [
       "IBOB11",
       "CDB 100% CDI"
@@ -14,115 +40,80 @@
       "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 14,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central reduz juros a 14% em meio a riscos inflacionários - MundoCoop",
-    "resumo": "Banco Central reduz juros a 14% em meio a riscos inflacionários MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFhGVkZlYTV5Sjk0bFBRSzV0c1dmZThkeWNzck9acmlxallSOHRxZDQ4MTZscFp1RENPVE01eDI4YkJSXzlHUXgzSVFPN1ZNazd0dUFnclBjbnNWcHBLU0xJOWVYdzkyNVk5UUVpNHRSYmNIUVVIQ0U2UjFFU1VCRW1GMjZUZm1Zci0zSFpqOW9ESDhsQW5VR0NWZm1ubjFUSjNVUHNNWnA5UQ?oc=5",
-    "fonte": "MundoCoop",
+    "titulo": "Taxas dos DIs fecham em alta após decisão do Copom e sob influência externa - Notícias Agrícolas",
+    "resumo": "Taxas dos DIs fecham em alta após decisão do Copom e sob influência externa Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMWNVb29NZm9Id3lwNHBuTmxJTDBFTjBueElmRnNyeVNXOV92Qm1PVjlRMF9YeVFCTkVpdW14S3B3azNzcDI5WVBFZ2JTY2VHdzlCaEQxb1JiNmYtbzJqaTZFNEFrZnRQV0F0MVJqTk5LVk9GVmpoZ1ZVQVJvbHFuUFpaYnNNWHFLUEZhRTJRaTV0eVEzRTloWnEyQ3RsUElIV3IzVFJoTnluRnhSbnpBMTJDNGV1Z1V1NUpXNy00eWFwUG80VnRhS0NRQXVOZ0h5N1ZYWnZZRDNwM3JpMFpNU0NoRmJhUdIB6wFBVV95cUxNVldEOVdSNHliVm1zeFU3d05iMFNNUjVVcU8yckxScVhpOHdabEVlejZsVmx2YWNTc1RzdC1mV3dDMnQwTGZXd003eElwSjlvOTZ6Zll4aURfOV9IUFJ4eTV5d0Q0aU1fLUQ2RmtSWXFnRmhCMXNRNEJYSS0zcEZCS1ZGUzI4SllZNW5BYlJrOFN5QkdpMnN3Rm5YVWdBelhQNGVBN1BVdkFQM3R2RG9tSFBscDh3VzdzcXVoOFNNbEJLZG9ZSzlUaXVqenlKRE8zZUVxVmNiM0swaFZDUERlaUNrQ1J0UGJxaUJj?oc=5",
+    "fonte": "Notícias Agrícolas",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c4f1aa066f05d9eb26bcd1ef49c2c250c9693cbc5eba6f557b86959486168e6a",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central corta os juros sem indicar como levará adiante sua política - Estadão",
+    "resumo": "Banco Central corta os juros sem indicar como levará adiante sua política Estadão",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkNfbGJWOHBhVk40UE96WGpoSUVqUmtpYmZOVjU1MWxwUWdhVDhMZV9nY3BZUmprSXZhOXdWZTk4OXhVTDVPbktLZ1dSc2VTWHl5SFRsa1oydVBXbm9zY2xibG12T3B2cXR6OEpJWVNVWVg4SktOamU5OFNhb0g0OTNUenFQaknSAYwBQVVfeXFMTVVjSnE5ZVFUajBsZGVrOGdLakJIR0MtVEl2QmNqY2RTTnhvdjJmQmJBV09MM2cwdTJFU3lYbEl1ZDBDa3RUM0x6Q3hWQldQMXJGMkhpQi1aUXExbW9DY0p3MmdGX2k2anZOYTJGd3RRU1hDeFFNOHFVaFJJM2xENnFzYV9salA2WkNnbkU?oc=5",
+    "fonte": "Estadão",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4db46dcd5e92a3496679e6155fd0a532ed2a42c29389c98586e9d8272463633f",
+    "chave": "b5906934d00effe45eaf630b11c9d27571172aeeb3a703cbdb2353d96fa688a5",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 14,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "A SpaceX registra prejuízo de mais de US$ 5 bilhões, enquanto Elon Musk promete mais investimentos em IA e data centers espaciais - Instituto Humanitas Unisinos - IHU",
+    "resumo": "A SpaceX registra prejuízo de mais de US$ 5 bilhões, enquanto Elon Musk promete mais investimentos em IA e data centers espaciais Instituto Humanitas Unisinos - IHU",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNzU4N05nM1UwMlp3US1ldzNfUHpQTU5pVUpabnZod0tIUW9vRU4wcmotb3prRlBSdUs3S0F0S2JFd25mSUZoUUpkRUFZMWNlVS1VdHhTbnFWLUlPb01Xd25uRkZ4bHY3NkhVQ19MQk9wNnc0WnlDeHFJY3pfbWp0MlVsamFQXzU1M09SZ3F4cHV3SGtLNE9zYjBxbVNQTjcwVndldy1fcktRbDROeTE5dUpGYmtIcXJFdXB4dTBzTkk2cGg3ZXRHRzdVWE53RDdiM0syaDd2ZUJBWG5QRkE3cHJOd1ZRTmdiM3IxTWdpdVBYMERi?oc=5",
+    "fonte": "Instituto Humanitas Unisinos - IHU",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "79b18c7c596ea008edd3665c98739b4d2120c441483b6f77000e93946eecf25a",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom reduz Selic para 14% ao ano; Humberto Costa considera taxa insuficiente - PT no Senado",
-    "resumo": "Copom reduz Selic para 14% ao ano; Humberto Costa considera taxa insuficiente PT no Senado",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeUlNdmF0LUZXMnZUUV95YVNsemNzWE1MZ1RrOHc4aUlZdGxKRkw1V2dzVU9oUVpHOXdpYzc1RkFIbEc3RlVieU1DQ2FhRWFvSWd3V19fWWxQdHl3T1hpQ21MbUh6eDR6U0pOTWxnemlkUW9CNlQ2V1FZbGE3WEtiTVYwcmVqemZ4dmotazZIeldMSjhvVHZ5VGo2MlF4VmhmUWpOWA?oc=5",
-    "fonte": "PT no Senado",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "bd82168ba02caece8581bebc6419b2f5e7f1b53b6384946651684f5fe6806940",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Às vésperas do Copom, mercado vê IPCA acima do teto por 11 meses - CNN Brasil",
-    "resumo": "Às vésperas do Copom, mercado vê IPCA acima do teto por 11 meses CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZmJGZkV6VU5WSEpsQVhfaUxJdEY1ME9XeHcyOTlwN3U4cC1icVFKOVZUcWFnOXl3VElfejU2cHA0MDc1NWhvMUU5dnVsM0tPbmoxQ3VjNlA4aTNfdC1jT0lBbUpvSkJzamtTTkZQSkk3bmk1dU5wdUloSll6cTlaMS0yeFlpMnZVUWVFU3ZpeF9uN1ZNSU8xQW9sT25yNU9yMHAyV2hEck1Mb3VpREc0aFRrWnVQOG4zMy15bllFQ25XZmZ4M2Vn?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a265b4fec7ff24c4cb94633e82ec7deb06ddc157c9752c3882e9d07c270494ee",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom reduz a taxa Selic para 14,00% a.a. - Banco Central do Brasil",
-    "resumo": "Copom reduz a taxa Selic para 14,00% a.a. Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByY3paMGtDdlFXRlJzWE5rTFlKQU5BcHZwX0ppNGNKOWJfaEwyYWw5a3BRQmpNWlRhQmFlcndxWEFmX3Z1UzhqeEJaT2dZZjB2VzcxcFdZbUdTdlht?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "260d304043379f705e487bda96efcd98a0cb3c2d042d242e527c5e241d5de5c6",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
