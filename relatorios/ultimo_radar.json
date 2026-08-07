@@ -1,11 +1,63 @@
 [
   {
-    "titulo": "Economia em Destaque: Copom corta juros e deixa cenário prospectivo em aberto - conteudos.xpi.com.br",
-    "resumo": "Economia em Destaque: Copom corta juros e deixa cenário prospectivo em aberto conteudos.xpi.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1FpLS11cUFTUzZrM18wV2RFamFNaFBXWndFMEJpdGVzUXU0UzRVWF9SNWFZZGhkWHlGYmNaaWUzSnVoU2o3YVJfb0pMR09IRk5RYU11RXpxWno0MnNWSU44b2YyTVB4RV84Y0FlT1ppOHZsRTJpN3ZaajU4RWg4V1VETHpoSDJtZlg4cHJ0VEVMSzhmN3hsUU12QjUzNEVmaEZUSmlTWDdVUDRFR0tSd1RpTUxmUQ?oc=5",
-    "fonte": "conteudos.xpi.com.br",
+    "titulo": "Inflação perde força e Bradesco vê espaço para Selic terminar ano abaixo de 13,75% - Estadão",
+    "resumo": "Inflação perde força e Bradesco vê espaço para Selic terminar ano abaixo de 13,75% Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM3lkWV9QMWJqRG1FVzkxWV96bEtVMUNiajl3S3hxRzhXMFpCOHl0SDZlVmN5Z1RxZi1UUE5vVUJjREhRYk1xRXYxcUtGSXE3c2ZqcTAzLXoxb0xiM0xwZ2dydkNnMVc1WGl2Ny16LTRnY2pOMlpiLVpTNzh1N29weWgtZnJ5TklqN29DZEdiV2ZnQTRrc3BMQ19YNUhjVklvb0llRHRrRVBJcHVRYkg3c1pFQWhzdXl3LUZ1SjNBUGhuUGkyWTJpZ2hSRjZxQ2NwYUdwSVJiWUsxaEwza3dtaQ?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "12f1c5b9592262a5fb5d98fc89d65936b258af9d97e2d1ca38afb8ee971f3eff",
+    "chave": "c6c15a2d16fe9f2358c51e50595f2a78823b41b1018e87c889bcbbe4a864c26e",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom reduz Selic para 14% ao ano; entenda impactos para empresas - Contadores.cnt.br",
+    "resumo": "Copom reduz Selic para 14% ao ano; entenda impactos para empresas Contadores.cnt.br",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGdaRHpKdTJtdXJMdUVvcURONjVrdTdCNmJpUHFEaUh6VlFrQk1UajNWT3RtcXpPbFlLdnNQczFvVVhBQ2tGeXpqQWhHVlBnNmhpU0t0ZnlsMlFCd1lmUTJoakt2dnFvTGVLRVhRWkk3aDhfb3YyLWdSc21HT0ZDeURycTd6TzdBOU1fdUwwU2ZieG5jVzV2NW1jaUhrVXZJMHBtRkNsUVBqTjFNLXRvTE9xd3p0YUVTYnpKZ3hLWTI2WGIzbGRobHpqQQ?oc=5",
+    "fonte": "Contadores.cnt.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b804ce0d1458e09547fcfc02958af7671b5249134a2b587c6e5e062918d854d9",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Economia em Destaque: Copom corta juros e deixa cenário prospectivo em aberto - XP Investimentos",
+    "resumo": "Economia em Destaque: Copom corta juros e deixa cenário prospectivo em aberto XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1FpLS11cUFTUzZrM18wV2RFamFNaFBXWndFMEJpdGVzUXU0UzRVWF9SNWFZZGhkWHlGYmNaaWUzSnVoU2o3YVJfb0pMR09IRk5RYU11RXpxWno0MnNWSU44b2YyTVB4RV84Y0FlT1ppOHZsRTJpN3ZaajU4RWg4V1VETHpoSDJtZlg4cHJ0VEVMSzhmN3hsUU12QjUzNEVmaEZUSmlTWDdVUDRFR0tSd1RpTUxmUQ?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d70ef89708143a9a93e6cfa8175296e71d83d9767e587435aa6bef5a38cfd1b5",
     "ativos": [
       "IBOB11",
       "CDB 100% CDI"
@@ -21,30 +73,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa recua forte com Lojas Renner entre maiores quedas; dólar cai - CNN Brasil",
-    "resumo": "Ibovespa recua forte com Lojas Renner entre maiores quedas; dólar cai CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamNlckJxZkNKVU0wSUVCOS1CbTlzaHo3bU1OZk9ua2M4ZFIxWGtfVGIybktDMkkzQll5ZXNsajZldUJxZEpDbWtkakh2am02SU9EZTEwQUlhZjlQSld1SHdsS2ZaRGlkaXQyckxUdXJrQWR5TkRHdm9QSDhUQXItNEczcUxVbXhVaFJ3Q3J1ak9JVXk4MjlIa3UydGdVT2lj?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3daa50da673cf14430a2c183ababb618d327cf2127ac523265687ed2f404fc96",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
