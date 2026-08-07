@@ -1,54 +1,48 @@
 [
   {
-    "titulo": "Queda da Selic para 14%: o Fim do Piloto Automático na Política Monetária - Forbes Brasil",
-    "resumo": "Queda da Selic para 14%: o Fim do Piloto Automático na Política Monetária Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2R4NFhCU2o0LU5EcDNGNnYzR0JZUmRpUkhvUUFvUnpQVHQ5c0VoQXFlWDBxOG5fWU9FTURhMTdvcXVFX1RiYjM4YlpPUnVLUTR6R3Fnd3lWdFhDNFhFdFFjamFtVGxEcFlNeWtFa0VLSllaZElFU1hIY3pEQzBPN0dLSkVWS09tbXlFMUNpVThBNHEwbXRYZkp6YzYyX0EzdW4wMEtZY0pUbjVfaDQ0eFREQS12QQ?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a72607896cdbaebda92d25031c0f34c0bc6e478062ac681437c571ccb6ea4498",
+    "titulo": "Economia em Destaque: Copom corta juros e deixa cenário prospectivo em aberto - conteudos.xpi.com.br",
+    "resumo": "Economia em Destaque: Copom corta juros e deixa cenário prospectivo em aberto conteudos.xpi.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1FpLS11cUFTUzZrM18wV2RFamFNaFBXWndFMEJpdGVzUXU0UzRVWF9SNWFZZGhkWHlGYmNaaWUzSnVoU2o3YVJfb0pMR09IRk5RYU11RXpxWno0MnNWSU44b2YyTVB4RV84Y0FlT1ppOHZsRTJpN3ZaajU4RWg4V1VETHpoSDJtZlg4cHJ0VEVMSzhmN3hsUU12QjUzNEVmaEZUSmlTWDdVUDRFR0tSd1RpTUxmUQ?oc=5",
+    "fonte": "conteudos.xpi.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "12f1c5b9592262a5fb5d98fc89d65936b258af9d97e2d1ca38afb8ee971f3eff",
     "ativos": [
       "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Atividade mais fraca pode abrir espaço para Selic cair a 13,25%, diz Bradesco - Folha de S.Paulo",
-    "resumo": "Atividade mais fraca pode abrir espaço para Selic cair a 13,25%, diz Bradesco Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1l0SFRDYk53akFmVlJONm9CWVRETTNxMDctb2czdHVLRlhyamdYbmJhd2I2aGp5b0FHQkFrNFZUbWdMSTFPZnRVczkwbmFfZXdYTzZhVE1NM1NZcXJsblYtejdFdVV6Z0ZrM2h5NVFFMkVZZU1pM0NKM1Vkc3p0QjdBcEJkWnZZUVZHckNYNk5fM3U0a19mOTYwUlIxSUJEaEJMbDVHaDdpUDVqMzJVVDNDaTBRYVZlLWNYY3V4VzFCeXc2?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "d2bbb678966a3663bcb83d63fefb037c1ea973451d7a6f13bef7bd2316733fa0",
+    "titulo": "Ibovespa recua forte com Lojas Renner entre maiores quedas; dólar cai - CNN Brasil",
+    "resumo": "Ibovespa recua forte com Lojas Renner entre maiores quedas; dólar cai CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamNlckJxZkNKVU0wSUVCOS1CbTlzaHo3bU1OZk9ua2M4ZFIxWGtfVGIybktDMkkzQll5ZXNsajZldUJxZEpDbWtkakh2am02SU9EZTEwQUlhZjlQSld1SHdsS2ZaRGlkaXQyckxUdXJrQWR5TkRHdm9QSDhUQXItNEczcUxVbXhVaFJ3Q3J1ak9JVXk4MjlIa3UydGdVT2lj?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3daa50da673cf14430a2c183ababb618d327cf2127ac523265687ed2f404fc96",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 15,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
