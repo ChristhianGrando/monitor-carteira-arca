@@ -1,11 +1,38 @@
 [
   {
-    "titulo": "Copom reduz Selic para 14,00% a.a. - Fecomércio RS",
-    "resumo": "Copom reduz Selic para 14,00% a.a. Fecomércio RS",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcklINmJjT3djdmUzUzhaWnIzUER2TWJ6QUlTdXBtZERnZGkwX0xzVDVpRF9OTUdkU0VTM1F3V0N5N2JyVk1hWUU2OVp0bzhQTVZOQWFSNHJqSEU2R3Brb3QzYzdaTkZaMzB2WFdsRDlCeGpBNUt1OXVQLWpRN2QxYXVtdVJRQlBqaUVuRk5wWGFKSU54ajZVa2FoQ1JBRDFfbFdaeC1LLXZyOUVfRDV0cmd1RXN5MmtVTUlnRGFvRVZ4T2pFM2xOTldn?oc=5",
-    "fonte": "Fecomércio RS",
+    "titulo": "Quais FIIs comprar em agosto? Veja os escolhidos por bancos e corretoras após corte da Selic - estadao.com.br",
+    "resumo": "Quais FIIs comprar em agosto? Veja os escolhidos por bancos e corretoras após corte da Selic estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTHVRRnZoRnkzSGZXWkhDYUR0bUZmbW9ncnBFaXRsNDQ2UG9XSWozMms3aExDVHlWT1Zac1QwVzJzd1dWZWRUamdzVXFKZ3M4aFBLa1B4SlM2U3kxYnVOaW1BNmRWVFdrTW1RS3UzMFozRFR6UVZzaVJIZUQ4a1lUcXFYRGI0cHIta0lsdjZ1TWtodVJleFFXRlhuZ1pkVXJOUnRVQlFYNmk1Sl9GaXRGbjVTeDB4ejZFbHBfd2lDYTcyclpPbVJWYlhxWFF1SDFoNnZuZ1JzM1ZMblhhLVHSAeMBQVVfeXFMTk9DS3VFZDhicGg3U3I3Z0ZINEVhSVE5c3EtWmRYWVdJa0lHRTNiSWt4Tlo3QWo3elo0dFVNb3BNYXdYUGVRSWRpWlBibmRzb1FxRUxhTHkzcVFWSFU3UG1qMmRKbU9DajV3eHJhM2NlbFFPWVZJYnZhNGFCeWJxT0pEUWVadkdKNnhOSnRFaGgzWVNSR3VjTEVhaThtdmozUkhkNV93eFhrVWRyWExQWE1TQnZoSGZRVEVxcmpzdUVsODJ4bW1TdHVpUUJvdTBKb0gyNVpuYTVrSXNzWm5FX1RZWnM?oc=5",
+    "fonte": "estadao.com.br",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "b0528e7ec9d2384a03261035e30566448050a6e3a7677b8a2dcdf6418d8b3ec1",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Modo ‘data dependent’ do Copom alimenta aposta em Selic mais baixa - Valor Econômico",
+    "resumo": "Modo ‘data dependent’ do Copom alimenta aposta em Selic mais baixa Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9CNUF4Wmx5YUVOWVZVX0lwS0x6N3owcVUwdHhWWlpFYkNRWnl0ZG9RbUhzaGlibGl6R1h4Yi1vYl9Kc0NpVWk2eU9LbHBWY3NlTDFMdl9mYklSdWtDQlF0RDZaTzFoa3RiWWt1Vm55dUx1RlJDYXladm9Uc1FuMjY3Rnl4TXlCczhqOVZZLWRyWG0xMGtQTGRMeHRhOUxuV0xCLWJkSmZRZmhDdXMxaW42X2xmcXo2M2FoREdVelBmVGPSAdIBQVVfeXFMTXJxVDNGSExCbmdsLXVpT0prY05FRHktdEVIZEl3b1plQkdJbzNYY2NyM3NmY1BzNzdJU3JvNnQ0bFdNSDFJaU9kMkVBWEFiaWttdmt6UUtQT2gzcnFUekxNckZGaDlONHFuZnBoOXNMeWY0R3NsVW5CbEdkTmRSdm96UUVqSWl5bzZXSmd2M1FNTC1lb0c0REZESDJ2Y20zR1NyaHJIWWRzckhjRGM1bGlwVW8wTFpiMGVyMTAxMUpOWHdxSHc2VE1SWENKc3oxUzdB?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1fb5743bf041c79485971c66572827fba10ec65fe0d9ded467112cc416278145",
+    "chave": "42f1acdb5a4206830df86d73f62b537e888967581f5e95cdd0da8903a40ea0c4",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,82 +53,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa recua mais de 1%, com Copom, exterior e balanços - InfoMoney",
-    "resumo": "Ibovespa recua mais de 1%, com Copom, exterior e balanços InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd21UX3JBbkJHelBYMzFlTnloY3dEUkd5cklJRC1yQkxzUUNNVEV2UVV1dVJ2YmJndTJROHFkcUluVmlGZk5RQS14LThoSXBpb3lZNzFKb0c4LUllakQ3LThVV1RVb2JLSVh5VGpPN08tXzFjd1FlVkliYTBDbTJUUVgtd3lKZFdCdjdKYTlZUQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c3a5779e3c47a1e57b650343f5367bb03d96a148316d120140395d73b6107824",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Taxas dos DIs fecham em alta após decisão do Copom e sob influência externa - Notícias Agrícolas",
-    "resumo": "Taxas dos DIs fecham em alta após decisão do Copom e sob influência externa Notícias Agrícolas",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMWNVb29NZm9Id3lwNHBuTmxJTDBFTjBueElmRnNyeVNXOV92Qm1PVjlRMF9YeVFCTkVpdW14S3B3azNzcDI5WVBFZ2JTY2VHdzlCaEQxb1JiNmYtbzJqaTZFNEFrZnRQV0F0MVJqTk5LVk9GVmpoZ1ZVQVJvbHFuUFpaYnNNWHFLUEZhRTJRaTV0eVEzRTloWnEyQ3RsUElIV3IzVFJoTnluRnhSbnpBMTJDNGV1Z1V1NUpXNy00eWFwUG80VnRhS0NRQXVOZ0h5N1ZYWnZZRDNwM3JpMFpNU0NoRmJhUdIB6wFBVV95cUxNVldEOVdSNHliVm1zeFU3d05iMFNNUjVVcU8yckxScVhpOHdabEVlejZsVmx2YWNTc1RzdC1mV3dDMnQwTGZXd003eElwSjlvOTZ6Zll4aURfOV9IUFJ4eTV5d0Q0aU1fLUQ2RmtSWXFnRmhCMXNRNEJYSS0zcEZCS1ZGUzI4SllZNW5BYlJrOFN5QkdpMnN3Rm5YVWdBelhQNGVBN1BVdkFQM3R2RG9tSFBscDh3VzdzcXVoOFNNbEJLZG9ZSzlUaXVqenlKRE8zZUVxVmNiM0swaFZDUERlaUNrQ1J0UGJxaUJj?oc=5",
-    "fonte": "Notícias Agrícolas",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c4f1aa066f05d9eb26bcd1ef49c2c250c9693cbc5eba6f557b86959486168e6a",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central corta os juros sem indicar como levará adiante sua política - Estadão",
-    "resumo": "Banco Central corta os juros sem indicar como levará adiante sua política Estadão",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkNfbGJWOHBhVk40UE96WGpoSUVqUmtpYmZOVjU1MWxwUWdhVDhMZV9nY3BZUmprSXZhOXdWZTk4OXhVTDVPbktLZ1dSc2VTWHl5SFRsa1oydVBXbm9zY2xibG12T3B2cXR6OEpJWVNVWVg4SktOamU5OFNhb0g0OTNUenFQaknSAYwBQVVfeXFMTVVjSnE5ZVFUajBsZGVrOGdLakJIR0MtVEl2QmNqY2RTTnhvdjJmQmJBV09MM2cwdTJFU3lYbEl1ZDBDa3RUM0x6Q3hWQldQMXJGMkhpQi1aUXExbW9DY0p3MmdGX2k2anZOYTJGd3RRU1hDeFFNOHFVaFJJM2xENnFzYV9salA2WkNnbkU?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b5906934d00effe45eaf630b11c9d27571172aeeb3a703cbdb2353d96fa688a5",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "A SpaceX registra prejuízo de mais de US$ 5 bilhões, enquanto Elon Musk promete mais investimentos em IA e data centers espaciais - Instituto Humanitas Unisinos - IHU",
-    "resumo": "A SpaceX registra prejuízo de mais de US$ 5 bilhões, enquanto Elon Musk promete mais investimentos em IA e data centers espaciais Instituto Humanitas Unisinos - IHU",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNzU4N05nM1UwMlp3US1ldzNfUHpQTU5pVUpabnZod0tIUW9vRU4wcmotb3prRlBSdUs3S0F0S2JFd25mSUZoUUpkRUFZMWNlVS1VdHhTbnFWLUlPb01Xd25uRkZ4bHY3NkhVQ19MQk9wNnc0WnlDeHFJY3pfbWp0MlVsamFQXzU1M09SZ3F4cHV3SGtLNE9zYjBxbVNQTjcwVndldy1fcktRbDROeTE5dUpGYmtIcXJFdXB4dTBzTkk2cGg3ZXRHRzdVWE53RDdiM0syaDd2ZUJBWG5QRkE3cHJOd1ZRTmdiM3IxTWdpdVBYMERi?oc=5",
-    "fonte": "Instituto Humanitas Unisinos - IHU",
+    "titulo": "Ações da SpaceX Despencam 13% e Fortuna de Elon Musk Encolhe US$ 80 Bilhões - Forbes Brasil",
+    "resumo": "Ações da SpaceX Despencam 13% e Fortuna de Elon Musk Encolhe US$ 80 Bilhões Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SWDI1UHJUOHhQaF8zOTNRQ2RUVDNhT0NNRHVyMkt2UjNtNHVwYmVQeFpVMlRJT2pDY1JoV3hwNHVESGxDcHQ5ZDViUlhQVzNIRHFycnNNSDRPdW43RjBCbjVVckVxajBJZVppbDMySnlYdw?oc=5",
+    "fonte": "Forbes Brasil",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "79b18c7c596ea008edd3665c98739b4d2120c441483b6f77000e93946eecf25a",
+    "chave": "6c474a1a088ca9620a83f0b684d14d9602515c4070e24cecc40e17f9b3f53c0c",
     "ativos": [
       "SPCX34"
     ],
