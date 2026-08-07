@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Selic cai para 14%: o que muda no crédito rural e no agro - Agrolink",
-    "resumo": "Selic cai para 14%: o que muda no crédito rural e no agro Agrolink",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeW1rc3QwTkZsYnlQeUFNS1VtenZJQzNkbFNuam5SMm0xd2VmVHR0YXByNkxqRldnVEdoUXBGRWpnemViV29zSzJVTk9xdkZuV3E4eHdxWXg3QS1Oc0NaOGJ2ZzZCS3ZlazZrOE9wekNjc0lhbURoQjN5anBSZk52WFJpaHY3SHpfQlRWWEZTNXdlZDZib0tsYS1PWHlfWEZUY0pGYngyc1Bldw?oc=5",
-    "fonte": "Agrolink",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5e7be65fa343cd02e327d64acb542b3a5ae3ccf30313e1d607ef8979a5e8ebb2",
+    "titulo": "Selic caiu para 14%: ainda vale a pena investir em FIIs? Entenda - - Fiis",
+    "resumo": "Selic caiu para 14%: ainda vale a pena investir em FIIs? Entenda - Fiis",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcG9DdGJ6UVNDT0IwVWxOcVpjQzZWNmJ6X2p3WC1ZMFBRSUdQTXlJRXRyVGJDdzQtM2VqTGotdEltanJwbDlnSy1JQUNxaExQWWYzR2hUZGFMR1dId2xxUjRqYU9oVy1WX0RqOVZmU1VjWVdQcUdpS1d4eGhtOHUxVHg4WkxfTTNTOUR0NDRtZk1wRDA0LXc?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "ecfd3b42f9e8f323ec8543953807718387d896c0ededd1c6323b325469a5658c",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -27,35 +27,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central endurece medidas de prevenção de fraudes em serviços como stablecoins e ativos virtuais - ConvergenciaDigital",
-    "resumo": "Banco Central endurece medidas de prevenção de fraudes em serviços como stablecoins e ativos virtuais ConvergenciaDigital",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOelk0SDVPTExmN2FjRnNfWXlEczBpOHdfZE5OWWs1Q2RvY04wNzVYb00xLVYxajMxbGFvbF94cDFZSHlxaWs3am1rT1lNaFA2SXVmZ0lmLXAtNGcxSE9Na3RNalFtZUMwSEV1M1k4SXpvak1MUnFQUjRLcEV4Z2lmQTRNWURmSHAxeW8yNF9oNGIwSVYzSTEtbllwNk9DMlltRFJEcnI2N0FTUXpuUjdjN3pZdjFjc3dpU3B6UUp0QWt3ZlpBWW9MTTRwamNvQ3VVU3k4Q0UxWFp3MEQ2a1E?oc=5",
-    "fonte": "ConvergenciaDigital",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f52cd9d412b2c629178d4a5bcddd579a5a5a42b4528df5384f40433c6e8fe739",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "O impacto do anúncio da redução da Selic no mercado imobiliário - VEJA",
-    "resumo": "O impacto do anúncio da redução da Selic no mercado imobiliário VEJA",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHJFUDhyQmt2NFpPaVNlOE5GNWlwR0hTOWNMWkhtREVUdm9qS3dFdUs1RU8tXzk5bHdiRTZRNTdULUFycWpsRmtXSU93R19kY0FTXzAtOXUtMmVnMlhtRENYMjBWQmJhVERRdWRWaERCNjJrZjhjNG9ERzNyY1JYMklrZFJTQ3dTMHFjcXhMdDdQWU8waFk4UERvQVlXNjlGTElyNnRpcXBVb0VsbUE?oc=5",
-    "fonte": "VEJA",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f7130b8be5d358e140ab084ab08f92bc2703db95192a28355b2f6f81e5404223",
+    "titulo": "FIIs na Semana | Copom reduz Selic e FIIs movimentam a semana - XP Investimentos",
+    "resumo": "FIIs na Semana | Copom reduz Selic e FIIs movimentam a semana XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRU1Yd0NVYzYyd2RlbE83eXM5LUZURmwyTk16Y1d4dmtnN2o3M2xhcWR4VmZVZmhIeDdtNlJFSVBMY1RQZEZIOW55cE12YXgzc19UR2pNbWJHdmUwMGpHZU5TUHRoa3FLaldkZjJlVGFoXzc5ZC1pTzZwenRmN1N2QlNHcFh3dGRtc2JpM2hoOWxfdDBjV29NR2JhT3pqQnA0MkZ1dDMwcmlIakxiTjVGcWlGNTFoNEZ3aFE2dQ?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "d1aa3355fe79afb94cbf3f03c3c709f7cabd482131c3e523d2c5eaf4c63f3500",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -76,38 +53,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Redução da Selic impacta crédito, empresas e investimentos - istoedinheiro.com.br",
-    "resumo": "Redução da Selic impacta crédito, empresas e investimentos istoedinheiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNamVrVDJQVXNCLUgtUmNZQmpsSmJfdjZqU1p2aGdtcnV5d2RZQ1JYbFg5TGhCSU9Ndng3OWhXTlU4XzBWaHppcmFBWldQMnRkQUNFUTZlaDhYYWxZd0djUHZKb1Rma1VqRWRMVWtVTlZURFNXQWlXbHhOSGpPemt6MFNuV3pqQ2xQ?oc=5",
-    "fonte": "istoedinheiro.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b856c7b1b84e2c66d0eaf49dc8ed90171988e399dcb5a8fa807e7384eb8072fc",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha em queda de 1,73% e dólar comercial recua a R$ 5,0836 - Canal Rural",
-    "resumo": "Ibovespa fecha em queda de 1,73% e dólar comercial recua a R$ 5,0836 Canal Rural",
+    "titulo": "Ibovespa fecha em queda de 1,73% e dólar comercial recua a R$ 5,0836 - canalrural.com.br",
+    "resumo": "Ibovespa fecha em queda de 1,73% e dólar comercial recua a R$ 5,0836 canalrural.com.br",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDlGSUljcUc3SkJVWWx4d1NtbFBRV2pCWjFVUnowVHNqZkc4NGpyMzNLcXQ2eUM0R1lGOWVjT05rU1J3b09NM01KWkhaR0FBRFBfRTc5OXJzSTdreWVVeWdqdGFTRFpDbjZZZlNrYTNhQ3hRMFlCTHhVTG1NY3RlS2xaZlQxRGRuTk9ZS3FkN1VLOXU4al9vNkU4bDdUVG9LYlBqRDhaSQ?oc=5",
-    "fonte": "Canal Rural",
+    "fonte": "canalrural.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "0843b45caf46a488724512f952f00db300f65746e5c3b770b8f2bd3ae359977f",
+    "chave": "7eb8824232a6968da13961030f3fab439ad89067fd4ebbb9065b63956e90611e",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -123,6 +74,54 @@
       "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai 1,7% pressionado por Petrobras e varejistas; dólar recua com payroll - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa cai 1,7% pressionado por Petrobras e varejistas; dólar recua com payroll Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnhibWh3V19OTGw0Tm1xNmpXQVd0cnk0YUFqQmxCZ09nSHRqOWdRQ0MxOTFYVmh1Ty1QaHRhQnJwVEFZNWlybXh6VnQyRjNLMWZEQ2prNjdWUGlmZGpHTXV2c0hlVE5sTXJmQVE3aTlrZzRDdlhXWDRla1JrT05lNTl0MmhSbkI2ZzNNWDhsX1RWOWNPaGEwMFBNOEZTUjJOeXNJd3NXVUpjY2MxSDRzaTNfRUhzUUd2a0dlRFNCa9IB0wFBVV95cUxPajZNUEhNR0xpYS1pSkJyRDJNQkpmUnhaOXM0N1RrLWpFMFdzMXZYLVlrV2FwUjI0aVBzUnBYUzlpRjc2cTJfOTEtRllVTFFhc1ZyNHptdldxanc5SFhpdHRlUldTMVdDa2dtS1F2QkRxZUp2TzJIZGM2UE1pZDdFSUJOd0M2YnZvMDF3aUJSU3NtbTh5VzFsVDczY0NfdG1Jd1ZHMmQ2MWJiUGdUVklYQUtSMTVNeTktX3ZScklMWWFPRGF3WC1qWVRTblFnaHF0a0h3?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "691848fcaf0c456f9785ab00c612a3ccb4afad2b7fa53006e04f8394360a6b2b",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa recua 3% na semana com Copom e balanços; Marcopolo e Magalu lideram perdas - Estadão",
+    "resumo": "Ibovespa recua 3% na semana com Copom e balanços; Marcopolo e Magalu lideram perdas Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaHRkTmhHLWctVW9sMDAyakFMTU52TUk0eXljc1duTWtwR1czZ01zU045d05JeDJFQi1NbkRab29Xb2hZTldNNzVvSkpiZTNDbkxUZkZFNWphc0tRWWJQczY1NVlOcVNaa0stZ1VNSnpXQTdqSzFleFUtMXFfc25wNTVTbmMzN0xBZTFhVWRnXzNPTzNzY3VhQVJ5cHk3WXI5azJkcUJuU2hxbDVfR1pyYUhoNE8xZE5tcVhzYlVmMEJhTUZqNTJnbnVxMWV4TDdmZS1ZLTN3dldjRHdWS3daRzZB?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "289e456ae3e6438500a16311a1a1388399d1ca72c0296fee4e8bfeea4c94e006",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
