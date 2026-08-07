@@ -1,39 +1,5 @@
 [
   {
-    "data_envio": "2026-07-02 19:52:18",
-    "chave": "54e554566b6f50f6c5018ce88a66316b887d6c8d1181070358d77d45b478fab6",
-    "titulo": "Banco Central amplia acesso a contas em moeda estrangeira - Grupo Amanhã",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkZ1MGZBYWtDa3JsWkxqRWxKZlM5NDYzNkpxYWxxMm9tRmFKa2RGM0pSbDVyMElYX045NkRHdk1USnJHNGg4T3A1LW5Ybko3ekMxb2tMRks3RmVsY1I0R0o1bl8yb2NjaFlXY0VQLUZBUmFRZU5SQW5fUzFURVkwdzhVdkdzRVpwdTRRSEpzdmg4b0s2Rm5YT1NOdlQ?oc=5",
-    "fonte": "Grupo Amanhã",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-02 21:32:30",
-    "chave": "d615caed5796904f565ddde3e00eedfc8e20418a2a7e8d8fa7fca2b2fae614f3",
-    "titulo": "O Motivo Que Fez o Itaú BBA Preferir FIIs de Papel Mesmo com a Queda da Selic - Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUc4eGNjZ2FfOUw2dEI3TTZUazhPSE5DSXdXbmJ4cUFWNHZEMHZRUVdMNlljREE2LU9iakxsdngyUG15NW55TjJ1Z2F3ZF9LaXFfUDJ0REQtQ0wtbWF4TF9VOGlGY3ZZMVVXS1VlNDBJZnU2Zk56Y2w5aXM2Q2dzdUQ4dWRSZUZOWHEzRUdJWkluc3JrbkV0Vmpn?oc=5",
-    "fonte": "Forbes Brasil",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-03 10:50:14",
     "chave": "0dbe6dba4a88da631dbf1fb1a454d3d6c506dd8920d87f2e133813b7bd60c004",
     "titulo": "Mais que proteger a carteira, ouro supera o Ibovespa e a Selic em 10 anos, mostra levantamento - Valor Investe",
@@ -17185,6 +17151,44 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-08-07 17:07:02",
+    "chave": "a72607896cdbaebda92d25031c0f34c0bc6e478062ac681437c571ccb6ea4498",
+    "titulo": "Queda da Selic para 14%: o Fim do Piloto Automático na Política Monetária - Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2R4NFhCU2o0LU5EcDNGNnYzR0JZUmRpUkhvUUFvUnpQVHQ5c0VoQXFlWDBxOG5fWU9FTURhMTdvcXVFX1RiYjM4YlpPUnVLUTR6R3Fnd3lWdFhDNFhFdFFjamFtVGxEcFlNeWtFa0VLSllaZElFU1hIY3pEQzBPN0dLSkVWS09tbXlFMUNpVThBNHEwbXRYZkp6YzYyX0EzdW4wMEtZY0pUbjVfaDQ0eFREQS12QQ?oc=5",
+    "fonte": "Forbes Brasil",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-07 17:07:02",
+    "chave": "d2bbb678966a3663bcb83d63fefb037c1ea973451d7a6f13bef7bd2316733fa0",
+    "titulo": "Atividade mais fraca pode abrir espaço para Selic cair a 13,25%, diz Bradesco - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1l0SFRDYk53akFmVlJONm9CWVRETTNxMDctb2czdHVLRlhyamdYbmJhd2I2aGp5b0FHQkFrNFZUbWdMSTFPZnRVczkwbmFfZXdYTzZhVE1NM1NZcXJsblYtejdFdVV6Z0ZrM2h5NVFFMkVZZU1pM0NKM1Vkc3p0QjdBcEJkWnZZUVZHckNYNk5fM3U0a19mOTYwUlIxSUJEaEJMbDVHaDdpUDVqMzJVVDNDaTBRYVZlLWNYY3V4VzFCeXc2?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
