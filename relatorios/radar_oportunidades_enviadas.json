@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-04 21:13:48",
-    "chave": "3d2d8942233095c66b2b239d49d329adb258587e723ac0e80679b6cda9803ea5",
-    "titulo": "O Banco Central ainda quer cortar o juro; a realidade, não - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHBUOVFWdmpySDJwOVFBMmlqY2dWVTVjWWNwWHphYXNYbFRGYzVRd29hWVRGcDlKbEdzNTBtOXN4RFpWZEZiaXJFc2RqNmFmaTd4Y0VySkV6NmR1c0VSVklqd1Y1N2I3OTE4RUtVMHg4d3g0YXlGTW9qekJaRlVOTEN4QmRuMDhLS3F4VHhKVXZ5QlFWc0ZqREd5QVRrTmc2M2RNTEZKNzVTNU9NQmpNcFc5NWNiQdIBuwFBVV95cUxQSUxmM2hQS25lX1hyeE9raUNpeHVhR1N0amJLbmdnbHJ3X1FvM0xSUzk5Mzl4ZlNibGxtYmxzeGR1U3VRRC13MURHSkJtZks0SGc1SnJSZ0h0V0pWa0hBR3dLVGV1M0ZkSEFSbDJiUDBwZm5kSVlrOGdaVXJJSGl4TmpvNVpPRkhjV24tdFFLVEMzR1RhS2tlNWV4azkxREtkdldIa0RrUTAtOGJlY1lFR2ZGcmZHQWVERDlZ?oc=5",
-    "fonte": "Estadão",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-04 23:13:41",
     "chave": "aa716a4d4dfba711924452f4aa17cf7638b989a90a9955dd05e35f480a6b3f3d",
     "titulo": "A Selic cai mais? A pergunta de US$ 1 milhão dos investidores começará a ser respondida pelo IPCA e pela ata do Fed - Kinvo",
@@ -17200,6 +17185,25 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-08-08 11:43:01",
+    "chave": "470dcad5b8c1464cc9c5e1079c072ab36501019d4212d4b415869abd44b749ef",
+    "titulo": "Corte na Selic, balanços do 2T26 e projeções para o mercado; veja destaques da semana - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN082UDJXUG5lQ0pPQzUtU2llamJPZ1BLV0x5NkxJSnI5bVRjaXJVVnFXODN1cHFGaG1WVHJKaGFQVW1mdXIwcUg0bEhhelBqZzVuWHVERnN2SklQSTVpQTlHbUZlZnAzY3JzUEZBeUg1ekEzSjFCZDBsZ1A1aEpIVWMxQktTeW1DQ0pJNVlWSWJmWC1tcjFjc09vNTZPdWg5Z2lXdlhYNVZHOVo0RmdLU29uc0piYnFSWVBPYnNxNTBmTEpaTGfSAcsBQVVfeXFMTjdFMHRKWm00MVlMN0J0VF8zMUdUVEhZaTFNWDlXakViOEpZWUpXbHh3QmViMl9TY2JNOW1Nb3FEcFlzTUpVcFFVYnJoNUN6RDZDSnJuV2ZYaUVydXV4dWpfZ1I1WEdKc0dTTXpyckJCc3RXOThlSmIybVIxMURmZ2lrTVZ1NE9fbnpsN3lCZ0dQMldoTmhZaE1EcWFHUGcySF95VjVmbmhYaDJXbGRHcVFjVXgtZTh3YmZlMXkwS1FDU2RhLVA3ZG90Ync?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
