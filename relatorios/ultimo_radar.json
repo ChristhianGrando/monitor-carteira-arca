@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "FIIs na Semana | Copom reduz Selic e FIIs movimentam a semana - conteudos.xpi.com.br",
-    "resumo": "FIIs na Semana | Copom reduz Selic e FIIs movimentam a semana conteudos.xpi.com.br",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRU1Yd0NVYzYyd2RlbE83eXM5LUZURmwyTk16Y1d4dmtnN2o3M2xhcWR4VmZVZmhIeDdtNlJFSVBMY1RQZEZIOW55cE12YXgzc19UR2pNbWJHdmUwMGpHZU5TUHRoa3FLaldkZjJlVGFoXzc5ZC1pTzZwenRmN1N2QlNHcFh3dGRtc2JpM2hoOWxfdDBjV29NR2JhT3pqQnA0MkZ1dDMwcmlIakxiTjVGcWlGNTFoNEZ3aFE2dQ?oc=5",
-    "fonte": "conteudos.xpi.com.br",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "ca1635b71498dd7c198429fb290aba4f0933de68efd890eb3d3f4db82acfc86c",
+    "titulo": "Os juros da Selic precisam cair mais - O POVO",
+    "resumo": "Os juros da Selic precisam cair mais O POVO",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcERNb1lEQ09hY1ViVkVscUhBNTEzVGEyTjJmRGtwWmw4c3Y2WVRMa0o4bDE2T2xFWWNnSTZvYkd4LXdKNXRHbTNWZmlTdW9fXzV4emlwYk5pVEtnaWNjcFNYMHFYdFhFbDJTSVFCRUZSUENudU1lMUJWSllFUUxTRVgtRVQxNkRuUnkxOXRjLXNDLUpDQnR6OXJJdno2WXBM?oc=5",
+    "fonte": "O POVO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cd7f267eb99b0ea6c7b5d2fdc98e0699e63afacbfc0b048ec4f8837e26b73145",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,33 +16,12 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Carteira de FIIs troca shoppings por galpões e aponta rendimento de dividendos de 11,6% - Safra",
-    "resumo": "Carteira de FIIs troca shoppings por galpões e aponta rendimento de dividendos de 11,6% Safra",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aY3U4eS1DRFloMmhlMTFMTkVQUjgzYTVkMi1QeENDRGY4bU5meVNlRzFtazRjVFJRSlNpNTlEaDBvV0p2MEVrcjFXblQyYUN2Z2gyeWgtS0F4ZHhMNUJsQ3VUMnNtZ0RscnhPQzh4NUZLQQ?oc=5",
-    "fonte": "Safra",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "19ef52c40849adb8c036ee0abbf0ed96f2df3ed2a83dd3c948e7a0720b162131",
-    "ativos": [
-      "HGLG11",
-      "KNRI11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
