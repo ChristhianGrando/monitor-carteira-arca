@@ -1,25 +1,53 @@
 [
   {
-    "titulo": "Banco Central endurece medidas de prevenção de fraudes em serviços como stablecoins e ativos virtuais - convergenciadigital.com.br",
-    "resumo": "Banco Central endurece medidas de prevenção de fraudes em serviços como stablecoins e ativos virtuais convergenciadigital.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOelk0SDVPTExmN2FjRnNfWXlEczBpOHdfZE5OWWs1Q2RvY04wNzVYb00xLVYxajMxbGFvbF94cDFZSHlxaWs3am1rT1lNaFA2SXVmZ0lmLXAtNGcxSE9Na3RNalFtZUMwSEV1M1k4SXpvak1MUnFQUjRLcEV4Z2lmQTRNWURmSHAxeW8yNF9oNGIwSVYzSTEtbllwNk9DMlltRFJEcnI2N0FTUXpuUjdjN3pZdjFjc3dpU3B6UUp0QWt3ZlpBWW9MTTRwamNvQ3VVU3k4Q0UxWFp3MEQ2a1E?oc=5",
-    "fonte": "convergenciadigital.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "796ffcbfd9155e0fb3739571f3a3003f379102ec1c546752e1223278a1e21ff9",
+    "titulo": "Selic cai para 14%: o que muda no crédito rural e no agro - agrolink.com.br",
+    "resumo": "Selic cai para 14%: o que muda no crédito rural e no agro agrolink.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeW1rc3QwTkZsYnlQeUFNS1VtenZJQzNkbFNuam5SMm0xd2VmVHR0YXByNkxqRldnVEdoUXBGRWpnemViV29zSzJVTk9xdkZuV3E4eHdxWXg3QS1Oc0NaOGJ2ZzZCS3ZlazZrOE9wekNjc0lhbURoQjN5anBSZk52WFJpaHY3SHpfQlRWWEZTNXdlZDZib0tsYS1PWHlfWEZUY0pGYngyc1Bldw?oc=5",
+    "fonte": "agrolink.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9a809d74ad2b112978604954ae46c71fa5235cdf6417b6b3fdefc1e420d85b58",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 14,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa fecha em queda com balanços em foco; dólar cai - cnnbrasil.com.br",
+    "resumo": "Ibovespa fecha em queda com balanços em foco; dólar cai cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamNlckJxZkNKVU0wSUVCOS1CbTlzaHo3bU1OZk9ua2M4ZFIxWGtfVGIybktDMkkzQll5ZXNsajZldUJxZEpDbWtkakh2am02SU9EZTEwQUlhZjlQSld1SHdsS2ZaRGlkaXQyckxUdXJrQWR5TkRHdm9QSDhUQXItNEczcUxVbXhVaFJ3Q3J1ak9JVXk4MjlIa3UydGdVT2lj?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "60eee7a458aad83c645114f598631e4c5beffda3424a5500d5f4c3b38eca4bf5",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]

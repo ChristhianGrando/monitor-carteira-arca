@@ -1,35 +1,5 @@
 [
   {
-    "data_envio": "2026-07-04 07:14:49",
-    "chave": "80bf95a9c26e0d9496d8897e187d1ee35bf900f0230ed3cb56a30a5c4b578e66",
-    "titulo": "A triste vida do Banco Central - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFBuZWtCbmtidHV2OGlMaGoyZkFUWWxLQzNqbUxqR1FlTzRPeVJ6VC1OUHBCNjlsejZKazJDNzdYeHJjVkthYnk2LVhpQXFybjlXS0c5NTROYU1qd1gtNEJ0SWt1RF9BaUxocFU2RWlzSEo3SEl3VVVRMEpKdVdzN3FYSnFrZC0zcGpPenNUV3FXMkxHbWY5MXVVM2Fxd9IBrAFBVV95cUxPV04zczFzc0V1QXgxWkJkOXZtNlNQNU41a2Q1VFRhLThwYThrUEdHY1lxUGhQTnF4VE9La2lFQ3o0SkNqY214TUw0YU9CbXYwMXM0NnFjSzJhUjQwV3RJWTRhZmFjYTduLUtIS3NQbmZ2ZWpGbUpyTEFvRmpjaDFsNUExMVNSczkzUm1id3RvdDloWVoyWVZCWmJuR3J4S01aTEl4ajh0VXotdlBR?oc=5",
-    "fonte": "O GLOBO",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-04 07:14:49",
-    "chave": "cefe3244c5537f9d05714aacff29d62c822ed92b6067a9cfd387bf8393d2c836",
-    "titulo": "Inadimplência recorde, de novo - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1SjhIQmt6ay0yRlZmQVBIeGNkcjVVejVuYVctQlRXbnRYUzhKZUhsSU5ZZkJHeWZqaEtEbVJNaUVWRHhLUW5TSkJLSW94UXZ3SWlKdXFQTDJ3NkVpczlpTGtwRHJYZUNuSkg3ZHpUWGNFd3c?oc=5",
-    "fonte": "Estadão",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "KNCR11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-04 11:46:06",
     "chave": "bfeac1bc52e9b7a3670f482deadccf2aa7fe8e40b10b3bc9e2e1717c9e88f4be",
     "titulo": "Governo autoriza concurso do Banco Central em 2026 com 140 vagas - Associação Comercial e Industrial de Araçatuba",
@@ -17196,6 +17166,42 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-08 08:01:26",
+    "chave": "9a809d74ad2b112978604954ae46c71fa5235cdf6417b6b3fdefc1e420d85b58",
+    "titulo": "Selic cai para 14%: o que muda no crédito rural e no agro - agrolink.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeW1rc3QwTkZsYnlQeUFNS1VtenZJQzNkbFNuam5SMm0xd2VmVHR0YXByNkxqRldnVEdoUXBGRWpnemViV29zSzJVTk9xdkZuV3E4eHdxWXg3QS1Oc0NaOGJ2ZzZCS3ZlazZrOE9wekNjc0lhbURoQjN5anBSZk52WFJpaHY3SHpfQlRWWEZTNXdlZDZib0tsYS1PWHlfWEZUY0pGYngyc1Bldw?oc=5",
+    "fonte": "agrolink.com.br",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-08 08:01:26",
+    "chave": "60eee7a458aad83c645114f598631e4c5beffda3424a5500d5f4c3b38eca4bf5",
+    "titulo": "Ibovespa fecha em queda com balanços em foco; dólar cai - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamNlckJxZkNKVU0wSUVCOS1CbTlzaHo3bU1OZk9ua2M4ZFIxWGtfVGIybktDMkkzQll5ZXNsajZldUJxZEpDbWtkakh2am02SU9EZTEwQUlhZjlQSld1SHdsS2ZaRGlkaXQyckxUdXJrQWR5TkRHdm9QSDhUQXItNEczcUxVbXhVaFJ3Q3J1ak9JVXk4MjlIa3UydGdVT2lj?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
