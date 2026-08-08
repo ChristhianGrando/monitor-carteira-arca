@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "titulo": "Banco Central Corta Juros em 0,25 Ponto e Selic Vai a 14% - forbes.com.br",
+    "resumo": "Banco Central Corta Juros em 0,25 Ponto e Selic Vai a 14% forbes.com.br",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CajFGVzZocFVkd3JxTWpyUDdnNjVkZk1fRFU2QXAtMDU2OHk2T1JnaU5mUTU1SWhFeC0tWkJ5ZHhfMGZTbUIzRmVhbHU1ZE1FM1VRZFVTNk1CcmVzT19PeDZIR3p5N3h3clVzbTJ5d3ljdw?oc=5",
+    "fonte": "forbes.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "78f4ae8f089be5f7100db6948edc9af49e0964426acb84c384e8bcad250d72fb",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
