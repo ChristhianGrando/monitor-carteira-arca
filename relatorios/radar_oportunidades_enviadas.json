@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-04 04:01:57",
-    "chave": "5023a092ff1c2ca56644e9d9e845a655a4cdeb033ca9db42d033789e5b1027bc",
-    "titulo": "Governo fará concurso com 140 vagas para reforçar BC em meio à crise do Master - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTRkVHJXczU5VlVFc1NlTTg3bDE2NFRsT3ZaelR5ZXZKRGU5REdzSXhYdTlsZWdhWFZST2FJR3ItUzFzUFJBVEt6TmlQYlJPSnFzc1I2d2xDR1Q2VUQzUmRSbnluNHJKSWZybUk0M2g1YjdENXNhM1NkYVd6bkJWTUJzWGNIUHpRS212UjhySzhzT0g0ZklOQUNmY2xNRUtGRnhoRnFnazVfMVVUUld1Mnp6VkJ3WDdzbWdhVE1GSFpSZkdGVVUwM0pn?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "KNCR11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-04 07:14:49",
     "chave": "80bf95a9c26e0d9496d8897e187d1ee35bf900f0230ed3cb56a30a5c4b578e66",
     "titulo": "A triste vida do Banco Central - O GLOBO",
@@ -17196,6 +17181,21 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-08 07:15:12",
+    "chave": "796ffcbfd9155e0fb3739571f3a3003f379102ec1c546752e1223278a1e21ff9",
+    "titulo": "Banco Central endurece medidas de prevenção de fraudes em serviços como stablecoins e ativos virtuais - convergenciadigital.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOelk0SDVPTExmN2FjRnNfWXlEczBpOHdfZE5OWWs1Q2RvY04wNzVYb00xLVYxajMxbGFvbF94cDFZSHlxaWs3am1rT1lNaFA2SXVmZ0lmLXAtNGcxSE9Na3RNalFtZUMwSEV1M1k4SXpvak1MUnFQUjRLcEV4Z2lmQTRNWURmSHAxeW8yNF9oNGIwSVYzSTEtbllwNk9DMlltRFJEcnI2N0FTUXpuUjdjN3pZdjFjc3dpU3B6UUp0QWt3ZlpBWW9MTTRwamNvQ3VVU3k4Q0UxWFp3MEQ2a1E?oc=5",
+    "fonte": "convergenciadigital.com.br",
+    "score": 14,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
