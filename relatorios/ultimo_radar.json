@@ -1,45 +1,95 @@
 [
   {
-    "titulo": "O recado que Galípolo enviou a Lula no comunicado do Copom sobre a queda dos juros - veja.abril.com.br",
-    "resumo": "O recado que Galípolo enviou a Lula no comunicado do Copom sobre a queda dos juros veja.abril.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3UxVTZfVnhIUTZ4LWJ4VHFFWU1Ob3prd2tVVXFENTBfLWR4dnBjbnozY2VwemM0aTVyRDJsNWRadldjS0RnR1I5Tnd2RnI5eF9IQ3BSR1VWVTFETHNSTnA0azZ3Ti0xQjlMQlhyQ1U2Qy16TUtJZUpTdE12em9Fd25DM1ZKcGtlLVVjUEt2M1dJNHdGaWxKNHBPUGlWUWNhdTcxOGU4SlBSZlI2THYxc1dUM29NejJXMHc?oc=5",
-    "fonte": "veja.abril.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "9b9238c0ecc8ca8f9d953816727b2cf11ff127650f682d60b27c7e8bc8ecd202",
+    "titulo": "Banco Central adia mudança de regras do Pix para combater fraudes; veja para quando ficou - GZH",
+    "resumo": "Banco Central adia mudança de regras do Pix para combater fraudes; veja para quando ficou GZH",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSENBejdCSnFnS0xLTHFhRlByUV9MenlCbFdmMVVhTF9FRWI1NWxzY0tOWGlsT3JERWJZNThldWdyanZYM2czM1pVc3ZEeFgyZ2dvNThfUmRpV0p3Umdoa1JJQ2licnhhaFhLZUJqeTlmNms5NEU4R3R1R0tsRzZSWWkzUEM0eEZCUlZPRk1US3l6ckRDTnJUQnU1RnFYenphelpQaUdHQ3lWQllVOUVoNHZvb2htV1BZUC1ycUxUT3lLOG1YUWNVSURnRXlYWFh6SEhfeHBBUzVJVGlXMFZUb0ctOUM2TXlNcnpxWmYtYW9nYWZpOEdnZEhVMGNsdGFXNEZhSFVSUQ?oc=5",
+    "fonte": "GZH",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "99f485fff7499ff63a7834d15c3b250a3d8d85dcb7d4754fa72177e5ecf68d10",
     "ativos": [
-      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
     "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom: Banco Central reduz Selic para 14% ao ano após inflação desacelerar - bloomberglinea.com.br",
-    "resumo": "Copom: Banco Central reduz Selic para 14% ao ano após inflação desacelerar bloomberglinea.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ05TNTM4TFoycFRUVWFtQ0ZiaExMQVRTbFljcjJkMjJPRFFncUhQNDJ3M2ViZ0o3YmlDZGF0X1ZueE93dTdzckFKbER5THo1bmhyRm50M1JWYmVILTQzZjBveFh6SEgxOHdDZ2xVS3A3cGp3dUp6MGU0MUlrSGNtdkd2WW96WVU4T2lLbDkyLTRON1RmbnFhVkp0WG1HYWt2Q2VuZVQybnNpLTYxRWN6aUhaTGLSAcgBQVVfeXFMTUNZTXZxU3hPOUd6NTl5OWl4d002aW9iaS1mV3ZwNkhvb0ZzWFRodjhhYV85b09VTmg2c3h4SU5KY1BId2hMc3FxWkVoaXBWZkpORGQtYXVfMzZBREZaZWN6Ny1uZkpJYUp1VWRkTHVlWVZYZGNSSGxQTlBMajlGdlN2dGFWbkpydHExYTJmbW9oQVF4aFI5cE43QlMwTFlCOU5uVFRkcmRSenlPeUYyX2dJczd5RExiZm95R2pOVUIwLS1lWHlsbWQ?oc=5",
-    "fonte": "bloomberglinea.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f83e707f4a734178c81ad9d0cf23e9c3bd93bca9f1165c1bc795685b1747f4fa",
+    "titulo": "Agenda econômica: Ata do Copom e dados de inflação no Brasil e nos EUA - Investidor10",
+    "resumo": "Agenda econômica: Ata do Copom e dados de inflação no Brasil e nos EUA Investidor10",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmtQM0xvZ3VSWmRQUWYzN3ROV0ltOGlXTENKOTBRd2dKdmtBUk45LTdZY1VobC1sTDZHTjhjRUZqX0YtaDVKZS01bDJoTDRBZHVUQ2VlaXdlMjBISDBhbjM4Mll4QjcwNXBMNjZpODhQMGgyUE85NWR3X1ZqUTNjYmNVVzRyRkRyVHNDdHRXdXRVLVo0RzRabUFUZlBRYzRrZUtFYmtQZ1FoSTNzdXhCRG03eFHSAboBQVVfeXFMT3o4NnZydXUySEYwOVlxSlBjTEFkZmUtS3I0eHVWc001am5BTkRwVXJwdVRXRF9SUEV6OUJqV1dNZEZaY2VnWmJ6V3B0OWxGMVJVOERJVDhOUnloamlNamdqbVhnX1VNZWN2dmx5Rl9fVHJOUFE2NEs0OWx5SjZDOV9GVHpfaVQ2NWoxTG5tOWJETDYzSWlVbWtzQmRyV2Z0NGhwSFg1eFNzMFdDeVByTHg1NTg5N01sM1B3?oc=5",
+    "fonte": "Investidor10",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "afb94b873687abd0ca2c1ebe58ec9c1d886750e4ecf3bd11b4bae050c2c5520a",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Notícia Inflação, ata do Copom e CPI dos EUA estão no radar dos mercados nesta semana; confira agenda - Kinvo",
+    "resumo": "Notícia Inflação, ata do Copom e CPI dos EUA estão no radar dos mercados nesta semana; confira agenda Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXpxSTFVdEw0YXg1dERCR3VxaWxWWm1XTElFX2MxaDFYakhRWVJ3TGx1OC1mcnM1eEtRZEY2S01FdG5iNjRZWFhYVnVhS3NBQlpTX0JHOXg4aUMzREpZRWt5REhHdVZ1bGEwV2tYV2t2RGdEUHdyaFZtNDFnUWdyNmJ4clB2QkFjRVVRMTZjVVd1N2RZSmlGaE04VWs3QjlPMExwaThyWGxuRG1BZnFiOFE5YWVpNW5ZMnJucQ?oc=5",
+    "fonte": "Kinvo",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "938d5c95c2319468beca77ddff2860bd5443fbb35a8b44b647f49b072fde56e9",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inflação, ata do Copom e CPI dos EUA estão no radar dos mercados nesta semana; confira agenda - Money Times",
+    "resumo": "Inflação, ata do Copom e CPI dos EUA estão no radar dos mercados nesta semana; confira agenda Money Times",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1pITlE1c1ctaFpWZkxINlpVNkhYVjZCY1FKNEJSdW9PT1NfeF8tRjNVV3dJNU1lRHI0X1lJMl84bF9FWFJibEVGS1pLQ3FJSG5haGdFM0tJQy12VFY4UUZjZDlfWHdabDIyamE1ZFk1STg1SmhlejBsUFNkcU1taGlzLTdpUGc4ZElHWEFoNjZmdG11b3JheWotblE2Q1NSUzl4NEFmd3NkUUNkUGoyR092TVJ5QmRKMXZaU0hTYW54M1lXQWc?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cb1f1ec95c86eb99a1f2ea6a23d2716dba0227b25c2e168bd425f67270ec78f6",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
     ],
     "score": 12,
     "motivos": [
