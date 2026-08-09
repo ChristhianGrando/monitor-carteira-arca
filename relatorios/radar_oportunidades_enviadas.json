@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-06 09:10:53",
-    "chave": "fdf14f4df6112144357fbcc308c5831a7c1c61a8537c50b062a6b8091dbf286d",
-    "titulo": "PEC 65 fortalece o Banco Central - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdURKNjZxcFl5dC1RU0ZpQkJkTmxsVE5kSHV5anl2cU1faUdPeHBGWnA1MkpqLUtQWFB1SzJXWDI5b3FiZEVZcUYwWjU2RjVrMGxocVlBVUxYbU9ISzV4UHV3YTJ2bVJFRGtrbTkyVkd0WkhkeDFUd3VqZXpuRnk3bXVBb9IBkgFBVV95cUxNR0hPMS15eFpyTzJBdTR5VmMwTnlDX18xQ21KQUlfaDdOd2dVdTN5TGNTYW1IaFRPbktOZ1pLb0h6bGNUY0xpbzRZTHdrVy1QeVFESG42ZERLR1JQdXQwUjkyeFBDT1NQVFd4QUF1MHFyQjNLNVNuMEd1Wll4WmNHYjYwY0FKVmZnY1Brd1B4MkxlQQ?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-06 12:58:51",
     "chave": "0f1800127b3d49d35f84d3fe74d393030969a922f7d2e3855841dc5f491468c1",
     "titulo": "Economistas reduzem previsão para inflação pela primeira vez desde o início da guerra no Irã - Folha de S.Paulo",
@@ -17190,6 +17175,27 @@
     "classes": [
       "Ações Brasil",
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-09 08:03:46",
+    "chave": "edef56ab90493f0884618828271767e931ed002e800e29accb9a2e6f4847aac0",
+    "titulo": "Ibovespa B3 recua 1,23%, com Copom sem indicativo de novo corte na Selic; dólar cai a R$ 5,10 - borainvestir.b3.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnI0M1JOT3A4TGhnRVJ2RlUxeWdVXzh4QjRqS24tZmc2bnFYdFVNaGJsa01Ib19Qc3pTZkdVTXFRTEsyZU16Y0lzVHFrakU3MXlvOUM5Uy1uUm1QNWJadFhFdjl5Rnl5X0FHdHJJeXIwYnhTQzloZnpWUlNkcVZiRmlXSzdXMmhqUmxDUW5EYTJRWEpXb1pTZ3d1VVFfY3BFdHB3eTAwUVNINXVBZ2dOdUFscHpwcHdaanVUSXEyN2pnaFpQZmhKdVNEQmlyOWRUNnc?oc=5",
+    "fonte": "borainvestir.b3.com.br",
+    "score": 16,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
