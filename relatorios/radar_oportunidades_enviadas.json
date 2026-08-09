@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-06 19:05:02",
-    "chave": "50d7bf950c54801e6ea5fce91bb12b136dfb3112d30a8a78c41b48ff94701b36",
-    "titulo": "Mercado reduz projeção para inflação de 2026 pela 1ª vez desde fevereiro - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFUtdFpNR180ZEdfVzRHcUhDRE5ZR3FWbFVjQjQtakFBZ2wzVGJfRV9XdlFYckVqMjhiWDRTY0pKMHN5S0NCTVpqVjZ1alE5RENheGlUZzA2VEtrQ2FQdGRlNFJ3OU5EYlRmTm5HQ1c5OXBOeUd4c19lVDgxUDlYaWlDWlN5MWpTN3VMZ0cwNkFmN3NzejdZc0FfZTFVdUJzSWxMcTRhY2xjZUdCc0d5Ym1GaHhickhMYjM1MGYzUFdYWVk?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-06 21:01:37",
     "chave": "d0609fe9f84e04339dfa79fecaa45bc53eab02fc6755e98657c5da372d72e914",
     "titulo": "Os vencedores em tempos de inflação: as ações, FIIs e fundos de infraestrutura que protegem o poder de compra - Seu Dinheiro",
@@ -17175,6 +17160,27 @@
     "titulo": "IPCA, ata do Copom e inflação dos EUA testam apostas para juros no calendário econômico da semana - Estadão",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0pqalBXcEE0YXcyUmJhaHgzbVplbDc4NHlUZWR1LVlHS05neGJuMEVzbDNtc2lONS1kSjlpcGpEN3VSa1BHRnVySDVUam1ocHpIZGtCamYxMlY5c2wwNVB1SEVoQkVVOU94RkM3eFdBWFM1dHViNnFLZDVZMG00Q05nZ05ZUnVlWE9VRi1pVEp4TTB3blZ0dzVPSURHcFVkMGoxT2xNZGMzdTdCQlgtdjlNcUhBRDFIUEpkRFQ4eGpERXR3eWthbE0tT3E4dHlmNy1r0gHYAUFVX3lxTFBsOU5zUzl6VUI3NF80Mmw4VERUSWxlMUtZSXktRDVkY0Y1SUhpQ242SXZCRG1BcjVHSzNXSF9ObDZOYWJmQU9ydVJhbTNhQmNTbTlrSHpoQUN4RmhhUXIybGUyRlZiVDlTZV9yRC1VeUZXY01YbnBxNEpnRkRSY1lCQzhOVFZsRG9EYUgzUzB5emo2OFJJc1l0eVpWSEJSamtIY256NFBURDRaRlBlajBQUXBJRFhWVW9ENFR1Tl9HV0wyQVZoOWVCRGI1LXBmWXI3c2J6UHVHRA?oc=5",
     "fonte": "Estadão",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-09 23:46:36",
+    "chave": "9a0930507d666a523285fdc4c8cf9dfcaacb21a7e9f2d66452997e42248e6c5d",
+    "titulo": "Calendário econômico semanal: Ata do Copom, IPCA e inflação nos EUA no foco da agenda - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHZTUE1uM2FBOFZmUUpKMTlic2htWVg2NHBrSzBlX2NXaWc3SmlpVWppS3lsWjVzOWtuRUo5dUlpNmxpSTV4WUd4VGR1OTFkOTZZZVBVMVppR01LVTdya044Y1MtY2x4bENVVFN6TkhfMVhaMklaN0t2X2o4NkFVRklCMnpzYnp4UVp0QXF3NnRrYUhUOHlONE5NZXEwUWdBSGtCc1VyRVNmZHo3cXEyVXdPQTBMWUxLNV9ZRDR4c9IBxAFBVV95cUxQeU5fcE8xbHpUcWYwLUVCb1hzLUthUjBPdU1fUjN1Q2tNc2h5MU5vTFFQRk9HTVNlaGgtbjZUZlRFSEdFNTJQZnY5bmlrbDRfQVBSem4zOGQyMlBuM1IzNXpUN0t3VHNYOTZGZWpYNHc2b080dlUycWx6cGJmVEhSVUN2bDZpMXZpNmlTbUx1bmVUdF9NVUpBX2NJZTkwWmJUZXV6dVZYcXV4Q0plRk1TSEFlSzNtc2MyYkdCMUE0TzYzZFhC?oc=5",
+    "fonte": "InfoMoney",
     "score": 13,
     "tipo": "Acompanhamento",
     "ativos": [
