@@ -1,22 +1,24 @@
 [
   {
-    "titulo": "Inflação, ata do Copom e CPI dos EUA estão no radar dos mercados nesta semana; confira agenda - moneytimes.com.br",
-    "resumo": "Inflação, ata do Copom e CPI dos EUA estão no radar dos mercados nesta semana; confira agenda moneytimes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1pITlE1c1ctaFpWZkxINlpVNkhYVjZCY1FKNEJSdW9PT1NfeF8tRjNVV3dJNU1lRHI0X1lJMl84bF9FWFJibEVGS1pLQ3FJSG5haGdFM0tJQy12VFY4UUZjZDlfWHdabDIyamE1ZFk1STg1SmhlejBsUFNkcU1taGlzLTdpUGc4ZElHWEFoNjZmdG11b3JheWotblE2Q1NSUzl4NEFmd3NkUUNkUGoyR092TVJ5QmRKMXZaU0hTYW54M1lXQWc?oc=5",
-    "fonte": "moneytimes.com.br",
+    "titulo": "IPCA, ata do Copom e inflação dos EUA testam apostas para juros no calendário econômico da semana - Estadão",
+    "resumo": "IPCA, ata do Copom e inflação dos EUA testam apostas para juros no calendário econômico da semana Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZjBjMEo0MDFKMGdsYk1mcm00TkdQRy00YjNQelk1UjNvY3poQ2xIazFzYXpfTWptV2YzT1RPeV9tcTJBbW5FUmRsaDdlSFAwQWltNWc0MlBqVE51ejZ2UVRJbHlZVTNPTnJrR1dfalFDQllMWVFjVnhyTkVRN3hiRGh2TDdRMUF0OW16bVZoQUpwQ1dONjBFMjluWUN3UkRrQ2E2SnBEUGxWZVNTVW5ydDhBZUZhc3kwUFJoeHJTU19qSVcydkJ0QkFoaWZUUXFBb3VTWVp4ajhnS0RoM1E?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "de7b1eb47ce1f054d162502247f6103ceb1215dfe6eb1e7804cfc2a3db57b65b",
+    "chave": "79fdad502e3e9f149ad11453f42c9dc8607284d52e91f8c569dc97a5707de070",
     "ativos": [
       "IBOB11",
       "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
