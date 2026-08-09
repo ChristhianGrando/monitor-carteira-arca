@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "titulo": "O recado que Galípolo enviou a Lula no comunicado do Copom sobre a queda dos juros - VEJA",
+    "resumo": "O recado que Galípolo enviou a Lula no comunicado do Copom sobre a queda dos juros VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3UxVTZfVnhIUTZ4LWJ4VHFFWU1Ob3prd2tVVXFENTBfLWR4dnBjbnozY2VwemM0aTVyRDJsNWRadldjS0RnR1I5Tnd2RnI5eF9IQ3BSR1VWVTFETHNSTnA0azZ3Ti0xQjlMQlhyQ1U2Qy16TUtJZUpTdE12em9Fd25DM1ZKcGtlLVVjUEt2M1dJNHdGaWxKNHBPUGlWUWNhdTcxOGU4SlBSZlI2THYxc1dUM29NejJXMHc?oc=5",
+    "fonte": "VEJA",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5f1c6c61e37ce542ccbc8721392d1f2385451e25aa79c958d08aa0b7caf41507",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa recua mais de 1%, com Copom, exterior e balanços - infomoney.com.br",
+    "resumo": "Ibovespa recua mais de 1%, com Copom, exterior e balanços infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd21UX3JBbkJHelBYMzFlTnloY3dEUkd5cklJRC1yQkxzUUNNVEV2UVV1dVJ2YmJndTJROHFkcUluVmlGZk5RQS14LThoSXBpb3lZNzFKb0c4LUllakQ3LThVV1RVb2JLSVh5VGpPN08tXzFjd1FlVkliYTBDbTJUUVgtd3lKZFdCdjdKYTlZUQ?oc=5",
+    "fonte": "infomoney.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5b9b808e92d0cac3d02cda249b02b4a18a52c94f8f33f12490d2a2ab07e74f7e",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
