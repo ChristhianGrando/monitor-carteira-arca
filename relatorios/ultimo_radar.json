@@ -1,11 +1,38 @@
 [
   {
-    "titulo": "BC deve cortar Selic a 13,5% em cenário de cautela na região, segundo Oxford Economics - Bloomberg Línea Brasil",
-    "resumo": "BC deve cortar Selic a 13,5% em cenário de cautela na região, segundo Oxford Economics Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR29OSjZQRE5QUjE5dUlJZEFUVHY4QmpOdG4tWFp3MlNJbFNQYmoxVHZ1SVJQMFRGU090eFdFOGZ2VUhxUHBpdkNDMmNYdHVtRkxjM2tUTm9mb2FoU2xVYzhzYjlwU0cya2tjbXJCYXE0QTlKZ3Q0MVdmanQzU1NSOGNlckJLMVhEd1dCX05JTjJrY0loa3ZHandibjE0alZrQjh2QkgzazNQbjZKcjdQN3VqTmU3NUdmaGhaSEU2NEM5UXNTR3ZTRFZVRWrSAeABQVVfeXFMUGN5WUZqeEhwNmQ3ekdYNzBvNm9VNkNMd0IwRjZsOE1VMmhKcHhmYmlhQ2Rpbm8xb3Y4akpYUUF4X2s1NHg3SWN0Z25IUDdKTkk4eFdlSV9KTzExbFZhNVpnSng0dVN5d05seGwwei1OSDdzSkVhSEdKUXAxWUEwTGpBemtER2YweEFtVEdoSzY5SGJZT2pYUlpEU3ZtMzkxYlVERkhxTUR6YWw4dk0yRFVBcXdZZ0ZBTjJPaEpVU0Z6bkZDTVBiVHd0cEFobS1IajRTal9BNFZfdzYwR09QM1I?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Focus: IPCA de 2026 cai para 5,02%, na sexta queda consecutiva - exame.com",
+    "resumo": "Focus: IPCA de 2026 cai para 5,02%, na sexta queda consecutiva exame.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3dmLWtVaDRwUHVGMnJ4UjQ1RHdhYURTeE9YUy1NU1FISndYTHZrMV9qeS1acFR2cmxvY3BLZkxtSG5WeTl3T1FnNVdNN05lbllTM1dGcVl3YXFHd2w5Vkh5RzZDdWN1cUU0SnBjNHBiZ0VHMUJ1LXRvVVY5T3dUTVhHb1dwc284WldMeGlMZw?oc=5",
+    "fonte": "exame.com",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "76c231c02c8f4687269fac18756ea347596a7d18eeef2758fd4563b8c59b2171",
+    "chave": "e34c374b60b46cb19f9a47c56dda5fa299dbb696348105411bf68912c7fdbb22",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus mantém Selic de 2026 em 13,75% e de 2027 em 12,00% - canalrural.com.br",
+    "resumo": "Focus mantém Selic de 2026 em 13,75% e de 2027 em 12,00% canalrural.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZm5vcjhoZ2laXy14TWo5cnhVVWNhOGNnb3lsLW9QQUgtLXU2RTdDbWl0WnpOMWhHaVZYTGd2dV94WE5xdUxnS2dnSFQwNzFVWjhnLVZ6X2ZXZlFIMlJWOFg3RC1zTVdjOG11QjlNcDVEZUU5c29kTzNvMlhqY1ZXWGJyNTk2bjZRc0VQME5FQ2hEcl9lMm9V?oc=5",
+    "fonte": "canalrural.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fd6efb7c21dd69f9a47b77d6c52fd88670bda1b951f00c743b0e716254517339",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,21 +53,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dow Jones, Nasdaq, S&P 500: prévia semanal com dados de inflação e resultados de tecnologia - br.investing.com",
-    "resumo": "Dow Jones, Nasdaq, S&P 500: prévia semanal com dados de inflação e resultados de tecnologia br.investing.com",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcjlCT0hUdVN0ZkQ0Z0FfWHg0SFN0SV9uS2JNcGFuV2N4V2NRSnh0cVBfbk1KN3NOb3BNWGlmS0cwX0dyVS1GVk90RnMtMGc5ZnZ1S29vTXZPbGpFWWFBSkhIWVFITWdPbHo0QjE0cmNFcm03ZUJHMWQwTWVTM3Q2NUpDQWpiVHVjTXJ1TW1hVnFEa1V1eHd6MGVEdUhNd0hjWVJMVTFSWW1nMmJiQWdPcjVpdnpGd1FfWk5YOFh1YWM5bTBYVzNvanE5T2NtX1dsN1BKT2ZEdEJjc00?oc=5",
-    "fonte": "br.investing.com",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "5be1d271f886f2993a0d384d43451c2e6f2c1181202c0a078a2024109ac39eaf",
+    "titulo": "Banco Central prepara Pix internacional e novas funções de crédito - Vero Notícias",
+    "resumo": "Banco Central prepara Pix internacional e novas funções de crédito Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRS1fNFFtbElXbFdxZFd0a1FXQnU5RVVxWlMwTkZSbHdSMi1yMkZINlk2SHFLQUNodFZYeHdjZjhiM2JPU1F6MnVoOTBXYndCS25INmkwZ0trQlRDNHJDZVY1SFdtbGlYME1tSE96VTBOSnItMTR0UjBQbE53ZldGZnZtblp1NGJMWEVmN25BMXUyQkhaVDRROHpIWkhTcW5RcE5F?oc=5",
+    "fonte": "Vero Notícias",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "bcb895dea54ea85402733058df0f7671b774bace54154f64af80f663bf491ec9",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -50,45 +75,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central redefine as regras dos criptoativos - CNN Brasil",
-    "resumo": "Banco Central redefine as regras dos criptoativos CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGYtSE9tM1o4ZWJQQWlMdDJMTEszQk1rWjhfVkVCaXBqX012ak42VEJSSTFkX1lJWEJMNjdhYVhhb0JCNlRrdTdMQnRsYzRUWElzRlllclFYNHVfN1FRT0FhQVRsUXlPUDRqRWNzN0VacVRJLUd3SGdYXy0tSXYyajV5X0E4bDluQXptSUFYNEk3cEJRakNiZ3JhMG9nbnRuSU5xNEEyZno3T1FCZF9IemtXd2E?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Banco Central avalia ligar Pix a sistemas de outros países - SBT News",
+    "resumo": "Banco Central avalia ligar Pix a sistemas de outros países SBT News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcUNzMkZOQjduWVpWbmNTcExycXhnRFVkVExVS1pJTEtNYkNxT0doUDdOdUxCdkhDVkRKVkM1My03cUNMSmRUMkd6MzhqYVRfdXJXRHhwak00MW1MX1NHWVJ2c1Q5cGV6ZldQeDlWbUtpLXRJNHc0LVZTdlN5eGxTdVRqZU1BdEJEem1GbkpaOWFSclk1NnhaZG5xM0JIMDdsUmZ6Sg?oc=5",
+    "fonte": "SBT News",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "29346ba1a67545247dba05f5816b248db45d137b768a4f6239f650f5afffe5d1",
+    "chave": "a03a143848abddc2f6ee930c170b64e8d222dfcfd18b46c048e3fdf1ef9fa128",
     "ativos": [
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Pix: Banco Central adia lançamento de ferramenta que rastreia dinheiro em contas laranja - Money Times",
-    "resumo": "Pix: Banco Central adia lançamento de ferramenta que rastreia dinheiro em contas laranja Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd0VBZENCcUVxekdFZXVhdEszdVBScWdEYWpWUm92SnJnU19RTXYzZkFfTzZSaWpBZ21td0tLVWNpYzF0WWhWaERVNTduM1N2N1dlRUk5SU9ma0tjRE8wc2NtYkJhNkVaOW54ZUpkU3V1U2NrTDZhMXFyZjZHUkt0V1VFZ1VtMURNaGlOYUt6bmEycWZpbkFMaVB4VnpkM1lYZm5fS2VkcGs5SloyQXVZdXl6QQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "265aaa7fa30ae7da6812bd6998f7ef720a7466a8e9584dad01590c058b57e340",
-    "ativos": [
-      "SPCX34",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -98,12 +97,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "A estratégia do Banco Central para levar o Pix para outros países - VEJA",
-    "resumo": "A estratégia do Banco Central para levar o Pix para outros países VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGwxNWhQNWhGbmVkSGY5cWlnVm14eUhVU1FXd29sV3A3b1QwVkhFYUN1MWV5SUNpcUFNZ0pWeHFqOEl4dnhNMy1wdjgzMWp0bGV2MWk1dmFnNWk1ZUU4SlZmekRZS2hHc0RfTXFmZjBrNWNETlpSTm54ZmhQS3VRaTlRMUx1aWllU3FodFRDOXZUUXc3OEZ6bS14dzBhdFlMVVpZ?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Focus: Projeção do mercado financeiro para a inflação recua pela sexta vez seguida - Estadão",
+    "resumo": "Focus: Projeção do mercado financeiro para a inflação recua pela sexta vez seguida Estadão",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnJXcFVJeTZHQ3lxYVhOOUtrLVlMSDRTcEtTcUxYWVNYalA3RWsxemV1WmpaeHpBMzMySkFxc2Rmc1VNTm01S3BWWTA0cXVXSW93UTRQbF84ZXlGY2NkNFU5bTNWVmotcGF5dXlSUkFhM0dHU2E0a2lhamNpeEllVDhlWFNwTXVCX3YtYnJn0gGTAUFVX3lxTFBJblhjYTI0NXp6U3V4Xy1TU2todE1nRjJsTnIweEpzTkkyVUl2VEFBcnpWWG93MVBBc0lkUVp2d2VfNEZOb3g3NG8zdm90ODRWN0FhRUgxS1FsNU1hRHVIcnpWVUEtYWtqbUlyU3dacUdqV19qam80elRDWE1oR3FaenRQendMV3liTF9lbGlNS2pQZw?oc=5",
+    "fonte": "Estadão",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2acc962d3fc374574fb310cd2e2562936b184e539e74a902187ccb1a34cf0927",
+    "chave": "ac8c435e2473b803069481ba6c3a0141528a69362a497a7acbccb80d6119bf45",
     "ativos": [
       "CDB 100% CDI"
     ],
