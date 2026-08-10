@@ -1,53 +1,5 @@
 [
   {
-    "data_envio": "2026-07-07 20:14:42",
-    "chave": "688b9b9b7598d3dadf174db8c931a77ad1637389413a2a28150b91b04b188153",
-    "titulo": "Ibovespa tem dia volátil, mas vira para o negativo com piora da aversão a risco global - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT0xhVWtERGZHZDhvbmxHbmRyLXUzNFRxWHVFZFI3cEt5Q3RRME04YnZjN2h5SWgteEtTZU94azRUNXpoR2Y0VnVqc0VCaWRqMzlVWml0RXlqaGQ0REUzUnN5WWxqeDhWakNJX1JfTnRta2R2Y3Z2UEx2dVA5NktkNENXZFJWMjFHNlltbENidV9YSFhzM0F1X3M1NmNUY0NJS1ZBVldIdVo4S0dZejMxUU5WXy1HeUc3NS1qeE5pT20zS0czTG9hYlA3VzNja0E1UThPbVM3X09xSC1nc3dMc21VSVBhUXhRY1HSAeoBQVVfeXFMUE9MYVVrRERmR2Q4b25sR25kci11MzRUcVh1RWRSN3BLeUN0UTBNOGJ2YzdoeUloLXhLU2VPeGs0VDV6aEdmNFZ1anNFQmlkajM5VVppdEV5amhkNERFM1JzeVlsang4VmpDSV9SX050bWtkdmN2dlBMdnVQOTZLZDRDV2RSVjIxRzZZbWxDYnVfWEhYczNBdV9zNTZjVGNDSUtWQVZXSHVaOEtHWXozMVFOVl8tR3lHNzUtanhOaU9tM0tHM0xvYWJQN1czY2tBNVE4T21TN19PcUgtZ3N3THNtVUlQYVF4UWNR?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-07 21:43:09",
-    "chave": "466297a0262aa89bd945bd73f5181a0b768db68eb8e7b101dbc281add079848e",
-    "titulo": "Ibovespa segue Wall Street, mas Petrobras (PETR4) alivia queda; dólar sobe a R$ 5,15 - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pb0Yxbm1KcFRsX0poYk54Um1MM0lkNHU0aEg2czViTTVOTy1qakFnS0J1TFV4OWhPR1hQMUpmaXA3MjFEeG5TT1NCcWF2bTJXcmdLd2llM2VfWFdqdHhFag?oc=5",
-    "fonte": "Money Times",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-07 21:43:09",
-    "chave": "7ade19c95a74da213ca28e48f4df435120d0668fbf58ce3f0e7cd53b87909db9",
-    "titulo": "A SpaceX chegou ao Nasdaq 100. Mas nem todos os ETFs vão comprar agora - Brazil Journal",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVNmUzlQeG44MVMxRGZRRTNQb1ZLSUYyZE5ma2ZrT3phVmdCZGRVblJ2cEx6Tlk2alJyaVAyZHdha0RvUkZPbkl1MlhuSnBVcmNYREN5SS1fWjZfM3l2TnZfVVJZVU5lbmpLMkVpckRpcXpZd1pLZEF2dl9hVVVhSWJWdThxS0x5ajRoNFRERlVYaUZRbmNMWTBsakg?oc=5",
-    "fonte": "Brazil Journal",
-    "score": 9,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
     "data_envio": "2026-07-07 23:14:48",
     "chave": "8ac0dc2f1e2040f6fb4e1aa2647e07c2a17d0bd9b881f4ecb320e185413c4efe",
     "titulo": "Destaques da Análise | IPCA+: Uma janela rara se abriu? - XP Investimentos",
@@ -17182,6 +17134,57 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-10 22:56:10",
+    "chave": "867a91369bd34fb138b76864095b371140f421470f913916667b09e3fd564b00",
+    "titulo": "Fundos imobiliários em agosto: corretoras priorizam CDI e tijolo para dividendos - istoedinheiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDJaQnFHMG5Zc2xxV2k5TTdsQzU3RHBjaVJlV3p4aUNmV2VMUklEWmwtQnJOYXJBLTAwbGk3UFFzS0ZvU1V5VVVkUUpYLXYwY0tlaGpoRTIxSTVURmcwSzU4WTAyRl9jZGdzbXJka08zQ3JObGVOalNVQlZUaTB5VXo5TEZLZkdKN3E1Nnc1a01FMDB5eEtaSVdMX0VsYjVmcHd5R3Jza0lOWUMx?oc=5",
+    "fonte": "istoedinheiro.com.br",
+    "score": 12,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-10 22:56:10",
+    "chave": "6ead192d905b74058f7cbb414a834a8ff0bddb514822ba22de71fd9aa5614d42",
+    "titulo": "Ibovespa fecha em queda de 0,19% e dólar comercial sobe 0,53% - Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazJwVnRHSHhyWXBXY3ZTRTNvejJheFlTY2FLOWhjWXNRSHp5Ujc2amwtM0J6THJCOTVGQlRnNjBHQktHdHpja1Vhbml2bTlrN08zb2JTd2VvNXVQc2NyUHFSS0t4bWhydjBmdmxMamdsMHdDZ1B6WnUyeUhGZjBCLTcxQlJTaG1LQ0pWWHRuUGtEQWNhcUJiWml6aElJUQ?oc=5",
+    "fonte": "Canal Rural",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-10 22:56:10",
+    "chave": "accab46eee8a05ff5333a7bff580312343a43c7d86df9e0bfcb0bec0aecef960",
+    "titulo": "Banco Central redefine as regras dos criptoativos - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGYtSE9tM1o4ZWJQQWlMdDJMTEszQk1rWjhfVkVCaXBqX012ak42VEJSSTFkX1lJWEJMNjdhYVhhb0JCNlRrdTdMQnRsYzRUWElzRlllclFYNHVfN1FRT0FhQVRsUXlPUDRqRWNzN0VacVRJLUd3SGdYXy0tSXYyajV5X0E4bDluQXptSUFYNEk3cEJRakNiZ3JhMG9nbnRuSU5xNEEyZno3T1FCZF9IemtXd2E?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
