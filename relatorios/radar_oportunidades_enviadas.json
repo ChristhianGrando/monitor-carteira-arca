@@ -1,21 +1,6 @@
 [
   {
     "data_envio": "2026-07-07 20:14:42",
-    "chave": "e40df7c1aff32941273da447be6230200be85b09895725e76158fb90097d21af",
-    "titulo": "Pedido na recuperação judicial da Ambipar amplia debate sobre estabilidade financeira. Banco Central pede ingresso na recuperação - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeWlEcHNhdVdUelVub1lKdmVHalBJbUc5TExLak9uQ1pVMDk0STNBaWk5NzdoclU5YnI1UnJZOWdaeThhSENJYTZQLXQ1V1FHWWpCY3RUUktRN0VIWHZINkxMaDdRMlRlV3RMTG13d2FLYV9oN3JEcU00WXJjYng5djI1Mk5NRHFuSzB5dThTc0MzLThFRVlwaVN5NDBwZ3FWbnJWdnBsMjM1dlVPWmxiZEs0Z0RSMnlEUHRWZE1neFZlM05OUUZaTGpZdmZCbEpscElyTU95UzVaYTZQRzlGd3VVRzZiMjN2bmRGdDMyQS01LWJBR2g0?oc=5",
-    "fonte": "ADVFN",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-07 20:14:42",
     "chave": "688b9b9b7598d3dadf174db8c931a77ad1637389413a2a28150b91b04b188153",
     "titulo": "Ibovespa tem dia volátil, mas vira para o negativo com piora da aversão a risco global - Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT0xhVWtERGZHZDhvbmxHbmRyLXUzNFRxWHVFZFI3cEt5Q3RRME04YnZjN2h5SWgteEtTZU94azRUNXpoR2Y0VnVqc0VCaWRqMzlVWml0RXlqaGQ0REUzUnN5WWxqeDhWakNJX1JfTnRta2R2Y3Z2UEx2dVA5NktkNENXZFJWMjFHNlltbENidV9YSFhzM0F1X3M1NmNUY0NJS1ZBVldIdVo4S0dZejMxUU5WXy1HeUc3NS1qeE5pT20zS0czTG9hYlA3VzNja0E1UThPbVM3X09xSC1nc3dMc21VSVBhUXhRY1HSAeoBQVVfeXFMUE9MYVVrRERmR2Q4b25sR25kci11MzRUcVh1RWRSN3BLeUN0UTBNOGJ2YzdoeUloLXhLU2VPeGs0VDV6aEdmNFZ1anNFQmlkajM5VVppdEV5amhkNERFM1JzeVlsang4VmpDSV9SX050bWtkdmN2dlBMdnVQOTZLZDRDV2RSVjIxRzZZbWxDYnVfWEhYczNBdV9zNTZjVGNDSUtWQVZXSHVaOEtHWXozMVFOVl8tR3lHNzUtanhOaU9tM0tHM0xvYWJQN1czY2tBNVE4T21TN19PcUgtZ3N3THNtVUlQYVF4UWNR?oc=5",
@@ -17180,6 +17165,23 @@
     "classes": [
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-10 21:57:59",
+    "chave": "b4472484baa84bf0aababf6192e40c4792881e42bf812932e39585546f405efd",
+    "titulo": "Tempo real: Ibovespa cai com pressão de Wall Street, mas Petrobras (PETR4) e Vale (VALE3) limitam perdas; dólar sobe - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWE9zYjJWWGdoQ3BHcW1ESjAydlZvbVBMaWZUU1NPSTFHV29FNzhyLWJTamM5SEJJeDNSVDNtV0NTaGYxZEJvaU91M3ZvOWQ1aXo2ejZiMnc5Y0Itb3ZHQnJsbEUxbVJxTDJZOUhkblVMSElTOFZWVXUyRWktTVFRdkhaRVpQcHN5TGpRS1NyUS1oLWoxcFNFcUtmTDJqZw?oc=5",
+    "fonte": "Money Times",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
