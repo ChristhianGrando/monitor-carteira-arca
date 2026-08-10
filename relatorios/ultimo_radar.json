@@ -1,68 +1,18 @@
 [
   {
-    "titulo": "Fundos imobiliários em agosto: corretoras priorizam CDI e tijolo para dividendos - istoedinheiro.com.br",
-    "resumo": "Fundos imobiliários em agosto: corretoras priorizam CDI e tijolo para dividendos istoedinheiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDJaQnFHMG5Zc2xxV2k5TTdsQzU3RHBjaVJlV3p4aUNmV2VMUklEWmwtQnJOYXJBLTAwbGk3UFFzS0ZvU1V5VVVkUUpYLXYwY0tlaGpoRTIxSTVURmcwSzU4WTAyRl9jZGdzbXJka08zQ3JObGVOalNVQlZUaTB5VXo5TEZLZkdKN3E1Nnc1a01FMDB5eEtaSVdMX0VsYjVmcHd5R3Jza0lOWUMx?oc=5",
-    "fonte": "istoedinheiro.com.br",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "867a91369bd34fb138b76864095b371140f421470f913916667b09e3fd564b00",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha em queda de 0,19% e dólar comercial sobe 0,53% - Canal Rural",
-    "resumo": "Ibovespa fecha em queda de 0,19% e dólar comercial sobe 0,53% Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazJwVnRHSHhyWXBXY3ZTRTNvejJheFlTY2FLOWhjWXNRSHp5Ujc2amwtM0J6THJCOTVGQlRnNjBHQktHdHpja1Vhbml2bTlrN08zb2JTd2VvNXVQc2NyUHFSS0t4bWhydjBmdmxMamdsMHdDZ1B6WnUyeUhGZjBCLTcxQlJTaG1LQ0pWWHRuUGtEQWNhcUJiWml6aElJUQ?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6ead192d905b74058f7cbb414a834a8ff0bddb514822ba22de71fd9aa5614d42",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central redefine as regras dos criptoativos - cnnbrasil.com.br",
-    "resumo": "Banco Central redefine as regras dos criptoativos cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGYtSE9tM1o4ZWJQQWlMdDJMTEszQk1rWjhfVkVCaXBqX012ak42VEJSSTFkX1lJWEJMNjdhYVhhb0JCNlRrdTdMQnRsYzRUWElzRlllclFYNHVfN1FRT0FhQVRsUXlPUDRqRWNzN0VacVRJLUd3SGdYXy0tSXYyajV5X0E4bDluQXptSUFYNEk3cEJRakNiZ3JhMG9nbnRuSU5xNEEyZno3T1FCZF9IemtXd2E?oc=5",
-    "fonte": "cnnbrasil.com.br",
+    "titulo": "Banco Central avalia interligar Pix com sistemas de outros países - OpiniãoCE",
+    "resumo": "Banco Central avalia interligar Pix com sistemas de outros países OpiniãoCE",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXF5dUVfNzIwVWFtbkJEQmUwVzNKa0pyU3c4V0NPU0c1V3dWMlhZOGQ2ei0xOFpLYlBJeUpaTDRpTkpkWGdSRVp1NXZYZVlXaGxTTjZNTkUwQnc2TVlwakk1d0ZldVZINU1YOHA1UFVrdlgwM3dkczR3VWRqQmVjRGdvekxPb0RvS1VpLXYyY05ncjJISkRZQTdUUXNxZGtoSTNrZHhtcGJaQkh4ejFlc0dOOEIxUQ?oc=5",
+    "fonte": "OpiniãoCE",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "accab46eee8a05ff5333a7bff580312343a43c7d86df9e0bfcb0bec0aecef960",
+    "chave": "c10af18665a843593fe3bf6d373c29341c59e06578eb359fc06df6acc2e5eb2d",
     "ativos": [
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
