@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "titulo": "Mesmo com queda da Selic, juros seguem freando investimentos, diz CNI - Brasil 61",
+    "resumo": "Mesmo com queda da Selic, juros seguem freando investimentos, diz CNI Brasil 61",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1JBdnZ5Zk1ucnV6YXpOZHBHZ0d5aFRhQjBJTHhESWJGd1R4a1VJWENvX1p1QkRjazJlRjFYT0FyR20wN3hzTXdQYTB0TVBBbWVsRVRxY3NvcUZ0aGJWYTMxQ0d2dkhsZ29UeU9WMXV0ckdPQ2ZkWVk5SlpWMnFyQ2VyUGJYZkhsZHRUTkhWMmFkWXhOc3pTV3pMMXlNaE4zS2NB0gGoAUFVX3lxTFBzYjJhdVZHLTQ5UkdLeGhNZ1VXQXhpcVVMSGJZc3NBazRmUFh5dGxBQzNOU1M3MGVJbmgzdnhLcHpIM2U3SHNERG1HcDFhQVpsci1uZ1RFVVlGZXN0UVUwN2Y1OXk0WGc3ZHNPZXMySjVzTlNzeW1fcW9lM2ZIclZLcFFuWkNGZzVvSE9aN283OVhHalRGZm9DajJ3M2JOZm9OS2ZNWlJ2Xw?oc=5",
+    "fonte": "Brasil 61",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c153c08c1d9131b4023316a4118f485488e795c3a22db4e691b715b48fa8d190",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa e dólar fecham em queda - brasilagro.com.br",
+    "resumo": "Ibovespa e dólar fecham em queda brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMExYU1NXZHBMdFFwOTViVEVJOVdvekFOR19Pb3V6RVdwUy1HX19QTUNTOTk2VkNlZG9CQk9KN2NKazdlS21fNFR6c0dvM3VXa3ZTQ1dHWi04T1JGNkI0Nk1VVkFZNFV4R1I2ajloVUg4Mlp3M3lMZmNFT0xNejVJU1Z3?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a1e39933fb3db104b23a4376040adfb29777fe1b595c723d1ef90b2d2b9e9163",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil - CNN Brasil",
+    "resumo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVNVdTlNUFpHQTc4MUxJaXFZTnBHX1ZkYklsaXNEYUZNTktVT2lHUnpVSUdhUXhtUDRzXzlDdEdyYzdDazE3YW9HLVFpd1BSWkdoN0xlMFF0TVVOLW5hbURHYzJCbGFYcnhPUDBJTGlDYUF2WHFoYVZGQ05RYV9MRG5jWU9kcjF0VGl0TVdyRDFfRkIzbXJUWVd2eng4Q3VMMFhSTVpnNTByZm9TbjV6UkpB?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "917968408c660114504f67c38e0c71130a15a9c2815b881a56098d12442cc849",
+    "ativos": [],
+    "classes": [],
+    "score": 9,
+    "motivos": [
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
