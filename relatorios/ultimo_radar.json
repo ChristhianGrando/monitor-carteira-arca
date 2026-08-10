@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Agenda econômica desta segunda (10): Relatório Focus deve mostrar impacto do corte da Selic; veja horário de divulgação - Money Times",
-    "resumo": "Agenda econômica desta segunda (10): Relatório Focus deve mostrar impacto do corte da Selic; veja horário de divulgação Money Times",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ2hzd2h1Snl2WmtZM3NpdTR3QnNmOHVIMnRxRUhsUE92UG42bXJoOVRxTGlLQW5BTUVGTmpWRHlObGxwQmdtZVN6a2lPN1VfSEw5Y3JzQkM4ckhmQkpucHU4RllMQ2Y2VW5wa19WejNIdjJ3aV9DV2pqWEc3RkpCSlZRb0QtbDZtSFpIdEVUdm5xM2ZiVXNMd0RkRWNQQ1M0ZXFMaVZVaEw5T0RUeDZjRlRINGZxcUd5aS1OOVlYNVhpSjVFRUZma0xxSDFsM2E0bS1LVGRXakM4clVhVUZRbnhaWmtYQQ?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Mercado reduz projeção de inflação e prevê mais um corte da Selic neste ano - UOL Economia",
+    "resumo": "Mercado reduz projeção de inflação e prevê mais um corte da Selic neste ano UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVjZ4ZFdTZXZmNEdyTlNaNUNKSzJjOTdmWWdLMkVfWWczWk03dG4xenNJcVNRRk9TSEJtWDVGSFUxZmFGaWxQNjMtcXZFdGpHZ0s4NmFvcWVWYjVYMkJpYk5qQ0ZESUwwT0xUbFJFVG1rTjRuRnhzUjhVVVlSLVVZZm1XLTlaMktsb2ozUEJKZDZVaXBXanhSM1BNMTNUSXh6?oc=5",
+    "fonte": "UOL Economia",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4522737c5248a44cba3df5adfba284cb4eead3aecff794761cee439758460c84",
+    "chave": "0149be96ef0ebe5c23348273c34f062784a99dd761999dcb5ccca8cc5d7a7401",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -27,21 +27,77 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Mini-índice (WINQ26): Ata do Copom e balanços ficam no radar - InfoMoney",
-    "resumo": "Mini-índice (WINQ26): Ata do Copom e balanços ficam no radar InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2NEVUF0dUp1Y0hESGZOZVBYRDAwVFJIaDB2N3pzZG1mWjZHWVJjY1VUTDV1UzRtWWxjWnBFWWhudFU3SlRFODRqRGpwSFhSS24xMmxQN3JaZkFsZ28zRmozSUs5UGNTbFloTGJEeDAwTW91akxLdFdTdUZiTGQ2QTNzaEE5bmNDV0k2WnVlUjM?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Focus: IPCA de 2026 cai para 5,02%, na sexta queda consecutiva - Exame",
+    "resumo": "Focus: IPCA de 2026 cai para 5,02%, na sexta queda consecutiva Exame",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3dmLWtVaDRwUHVGMnJ4UjQ1RHdhYURTeE9YUy1NU1FISndYTHZrMV9qeS1acFR2cmxvY3BLZkxtSG5WeTl3T1FnNVdNN05lbllTM1dGcVl3YXFHd2w5Vkh5RzZDdWN1cUU0SnBjNHBiZ0VHMUJ1LXRvVVY5T3dUTVhHb1dwc284WldMeGlMZw?oc=5",
+    "fonte": "Exame",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2cf5bc2073cef746453eed71cbc73fe85140d4c092498bf17dcd20efe3cb3e97",
+    "chave": "88b4465b5a599e867f94e3e68a2330b2cd4569a2fe27541941b238e201107e9d",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Boletim Focus: projeção para IPCA em 2026 cai pela 6ª semana seguida; Selic fica estável em 13,75% - Estadão",
+    "resumo": "Boletim Focus: projeção para IPCA em 2026 cai pela 6ª semana seguida; Selic fica estável em 13,75% Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNkM4REU5a3BJYkF1X2l1LWdFbkdRMktJeXB0YjVUVnVLX3hXc0V1MUlLRkdKMWlqTlpuVWM5dXNpT19VdHV6dDNwcXpVajRYRmhZVy1pdGU0NVM2QVpPQlF3WlNrc3dHcU1SVlZUdDEyZGhOaWgwUDRnM09UOWZrLUsxQVRDdEJIazRLQmVkdHhlZzFKalRqeEJNWndoZ0toaUoxQnlrWVdOOUo5VG5KNk9ZcXExWWtRZXNCQm5DTXROdUE3X1hYUGY2UGE1N0dSTTA1U25JbVhWZlk5QW9WZnpQMlBJSm_SAewBQVVfeXFMTWpHcWhIUkFEZVl5dndfQ2Y5S3ZtUWFLNVI2OGxjRENvYnBkV1ZGMERrZ0U2RWtxVTM1TlFRTmswQTdWYlh0a1VMRUhfQU5QMXhSdEZIQTdPRlFBNHBEdEY2dWNGZmxIbUVpWE9Yclh0QXlLYzYyTV9hRUdYZnY5bG5OaUFWNGs3c2ZOZlZ5OU5zanliWWNRRFlXYUR4eUNMMWRHUW1uYU52UDFiMkRDNU9FQ0RIcW1INVZZNnFiNHB0WjJUS0Q1d2RxenBDVlJQNm5IRUhGZmFwTUp6RWszQUZWUVZPMk9RWWJEWng?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "73e2152a5db3609ebf415e142b269830fe4c197b9c2197b583d9a213d2460f09",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado reduz projeções para IPCA e PIB de 2026, aponta Focus - Valor Econômico",
+    "resumo": "Mercado reduz projeções para IPCA e PIB de 2026, aponta Focus Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVBzT1Z5SS1XbWNCX3M2eHdGUldCVzRqWjZicDBpRFZkM3lkRGRDMWljdmJ5TEFrcDJwSGxUdjlzb1VERmpqcXpDcjYydzZzRzlBOE9WRzhNa09nT2R3WDNuZ2NWQ25iVEVZYkVXelJEdWhqZnJ5MHRZMVNOTnVQclNtOGpaSnMtYWstLTZ6ZTN1UkZmc2l5VnhFandUd2FOdTRWRFRGdzR6ZXFPVUlSRkV5eThRZWPSAcYBQVVfeXFMUE00NXJOLVN1TzlycFZpekdlVFhrclc1dkVuV1QwSENTNE1uaEhhZmlFM1FDN0lBY3VkaGRuVWlBcExLQUdsUUxGSlJWaDc1c0ZmaUYxdTVqV05MWmYyaXBBbWZ4VHdxV3RuMEZXaVNLa1JsZElobmozRFpHRVRXTWhubmNFSUZILW55UDJ2WHdLNDUwNklnaTFGeUtscDQ5Z3QwVW0yWmpQM0tzX0YxemgzYzFORzdGU21pYmJSSjJUcTV5TkV3?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c4de06878aecc04d91fd92d910efb88b98c98185f3d20c77b7df9d99f64c50d7",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -51,45 +107,29 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dow Jones, Nasdaq, S&P 500: prévia semanal com dados de inflação e resultados de tecnologia - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Dow Jones, Nasdaq, S&P 500: prévia semanal com dados de inflação e resultados de tecnologia Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcjlCT0hUdVN0ZkQ0Z0FfWHg0SFN0SV9uS2JNcGFuV2N4V2NRSnh0cVBfbk1KN3NOb3BNWGlmS0cwX0dyVS1GVk90RnMtMGc5ZnZ1S29vTXZPbGpFWWFBSkhIWVFITWdPbHo0QjE0cmNFcm03ZUJHMWQwTWVTM3Q2NUpDQWpiVHVjTXJ1TW1hVnFEa1V1eHd6MGVEdUhNd0hjWVJMVTFSWW1nMmJiQWdPcjVpdnpGd1FfWk5YOFh1YWM5bTBYVzNvanE5T2NtX1dsN1BKT2ZEdEJjc00?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "2facbb9af5a1f8e2abb2b51c32ec4a1b3f706617cf4104b7f691f04597277d7f",
+    "titulo": "Ata do Copom e dados de inflação no Brasil e nos EUA na agenda da semana - XP Investimentos",
+    "resumo": "Ata do Copom e dados de inflação no Brasil e nos EUA na agenda da semana XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWhaanBQV2thVHQ0UmhZRkttWllzRlUzQWVzLXhaQmJRS3YzT1VoTFZHSENjb2xjWmJSRUpVUjNZdnNxMk84MlJzZFozTWUwWDdoLURKcTVIeFB4NnNVVFdnQXVqbkhqUnpXb3ZlcVBjV010cjJiQXktRk5tNmhKaTFQN3NQTE9lZkVmSHlhOVJuUWs0enIxSUNVTUxFcmdzZWlpQ0NCTGNjRUhuS2tzT2ctOEIyUQ?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "13fe3a5ddf77579076e809cb45a4ce21089945e40cfd2118b7a0b1a4b71e431e",
     "ativos": [
+      "IBOB11",
       "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil - cnnbrasil.com.br",
-    "resumo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVNVdTlNUFpHQTc4MUxJaXFZTnBHX1ZkYklsaXNEYUZNTktVT2lHUnpVSUdhUXhtUDRzXzlDdEdyYzdDazE3YW9HLVFpd1BSWkdoN0xlMFF0TVVOLW5hbURHYzJCbGFYcnhPUDBJTGlDYUF2WHFoYVZGQ05RYV9MRG5jWU9kcjF0VGl0TVdyRDFfRkIzbXJUWVd2eng4Q3VMMFhSTVpnNTByZm9TbjV6UkpB?oc=5",
-    "fonte": "cnnbrasil.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b6ad6e44e4a8c87db2451d7335495ab8854fff112cb0c6bc8d3ec1c66332ab6b",
-    "ativos": [],
-    "classes": [],
-    "score": 9,
-    "motivos": [
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
