@@ -1,83 +1,5 @@
 [
   {
-    "data_envio": "2026-07-06 21:01:37",
-    "chave": "4de3e31f01ea28abbdbaafcc7d37bb158c7e4fbd1d834973cf544c922eccd5f5",
-    "titulo": "IPCA de junho na sexta: evento que impacta a bolsa - Associação Comercial e Industrial de Araçatuba",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pS3JfbTFMVElsdmFvT0hpa0I4ZkFFekJndXRISF9XdnFNY1FwUVQzR2JkZEUzeGxRa0xYRUx5WWlDMjdaTXR2WlI0SjBZSnIza1kyUmVZeVc5aWg1VnpNRzBGZktDQ00?oc=5",
-    "fonte": "Associação Comercial e Industrial de Araçatuba",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-06 21:01:37",
-    "chave": "be1cb12e1985d720b8d488ccca3d7cd0e0e1baf491978f6add21d33c9e92f98b",
-    "titulo": "Receita Federal e Banco Central são autorizados a realizar concursos - BOM DIA SOROCABA",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGE5b3dtWEpaUE5uRVdqYWd6VGhNNHpKNm5HVHRCX0s2eDkwNkoyWjduZy1kMTIwX2FEcmV0RHVrVXFqYmZzWHUyR1dNNkhPVVgtbHktNWFuZTFLaDd6cmtzOEJPMGFvYUVkbHRkQTNrVFY3VXpMcUlGRFRTVnhBd21udkxoaXFvTGxMOEFTd3ZpLVVPX1gybmRsOUlpa0FNWkg3OU9KUGpPMXNOdlAyOVpn?oc=5",
-    "fonte": "BOM DIA SOROCABA",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-06 22:37:56",
-    "chave": "63c1e28f3e340abd8b24ae36516949b960154c8da7d57342f53606b70caea552",
-    "titulo": "Taxas recuam com queda do dólar e das expectativas para IPCA de 2026 - UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZTNWQUlqa3drSE5xQmVqT1ZuYk1BQzFtc2o0bFpIalRzRjBhbWF3LXpCOEdTM0ZOQTB2dFZnWGNKTzRCVFJhWjF0VTlfVU5tMV9vcHh5c2FCZkQyeVA1aDRWeGFwY0ZEbWpaTmVyZ0JhRS1HVEE2MDNQakJfRHVuZjRrNURueUNiaVZIRHZ6UkctN3Ewd25nRmJWS005NHQ2dzBkaW9KeTJXdFA2cDZGSUtkanlNcmNDallqWXdYTVEyc2p3UEZ4OWlTMTFRdmVPV2hv?oc=5",
-    "fonte": "UOL Economia",
-    "score": 16,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-06 22:37:56",
-    "chave": "971ff06b7d45a1d090e7f6b3cebf89e77658b2e9d792b00297462c65893b38b2",
-    "titulo": "Agenda econômica da semana: impacto da ata do FOMC e do IPCA no dólar - Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmhJZzYzTlJubk9SMlIzSlRUSjBlQ25XM1NjTF9ZMmZOOFQtTG5sT1pGM0M0azNiVVdRTklzaWR1WmpJeG13aFdOQnI2U3FVeXdqRW5PcVhrWEUxRGxCcl9Vb2c0cHJlZHB3SDJsZ3RnN3dDYURadVBuNVhkSnR5TU1DTUZwLWNKRUQ2S2lidEpoMlVCVmd5SUdUcWM4Mlc3YXhGVV9HVVA2UQ?oc=5",
-    "fonte": "Canal Rural",
-    "score": 13,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-06 22:37:56",
     "chave": "91acf2b712fbbc9115164101ed3f1ec874fc28a5d00b097b41c422ef859d9b6f",
     "titulo": "Dólar cai 0,70% e fecha a R$ 5,132; Ibovespa cai 0,93% - Poder360",
@@ -17187,6 +17109,70 @@
     "titulo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil - CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVNVdTlNUFpHQTc4MUxJaXFZTnBHX1ZkYklsaXNEYUZNTktVT2lHUnpVSUdhUXhtUDRzXzlDdEdyYzdDazE3YW9HLVFpd1BSWkdoN0xlMFF0TVVOLW5hbURHYzJCbGFYcnhPUDBJTGlDYUF2WHFoYVZGQ05RYV9MRG5jWU9kcjF0VGl0TVdyRDFfRkIzbXJUWVd2eng4Q3VMMFhSTVpnNTByZm9TbjV6UkpB?oc=5",
     "fonte": "CNN Brasil",
+    "score": 9,
+    "tipo": "Risco / Atenção",
+    "ativos": [],
+    "classes": []
+  },
+  {
+    "data_envio": "2026-08-10 10:36:07",
+    "chave": "4522737c5248a44cba3df5adfba284cb4eead3aecff794761cee439758460c84",
+    "titulo": "Agenda econômica desta segunda (10): Relatório Focus deve mostrar impacto do corte da Selic; veja horário de divulgação - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ2hzd2h1Snl2WmtZM3NpdTR3QnNmOHVIMnRxRUhsUE92UG42bXJoOVRxTGlLQW5BTUVGTmpWRHlObGxwQmdtZVN6a2lPN1VfSEw5Y3JzQkM4ckhmQkpucHU4RllMQ2Y2VW5wa19WejNIdjJ3aV9DV2pqWEc3RkpCSlZRb0QtbDZtSFpIdEVUdm5xM2ZiVXNMd0RkRWNQQ1M0ZXFMaVZVaEw5T0RUeDZjRlRINGZxcUd5aS1OOVlYNVhpSjVFRUZma0xxSDFsM2E0bS1LVGRXakM4clVhVUZRbnhaWmtYQQ?oc=5",
+    "fonte": "Money Times",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-10 10:36:07",
+    "chave": "2cf5bc2073cef746453eed71cbc73fe85140d4c092498bf17dcd20efe3cb3e97",
+    "titulo": "Mini-índice (WINQ26): Ata do Copom e balanços ficam no radar - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2NEVUF0dUp1Y0hESGZOZVBYRDAwVFJIaDB2N3pzZG1mWjZHWVJjY1VUTDV1UzRtWWxjWnBFWWhudFU3SlRFODRqRGpwSFhSS24xMmxQN3JaZkFsZ28zRmozSUs5UGNTbFloTGJEeDAwTW91akxLdFdTdUZiTGQ2QTNzaEE5bmNDV0k2WnVlUjM?oc=5",
+    "fonte": "InfoMoney",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-10 10:36:07",
+    "chave": "2facbb9af5a1f8e2abb2b51c32ec4a1b3f706617cf4104b7f691f04597277d7f",
+    "titulo": "Dow Jones, Nasdaq, S&P 500: prévia semanal com dados de inflação e resultados de tecnologia - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcjlCT0hUdVN0ZkQ0Z0FfWHg0SFN0SV9uS2JNcGFuV2N4V2NRSnh0cVBfbk1KN3NOb3BNWGlmS0cwX0dyVS1GVk90RnMtMGc5ZnZ1S29vTXZPbGpFWWFBSkhIWVFITWdPbHo0QjE0cmNFcm03ZUJHMWQwTWVTM3Q2NUpDQWpiVHVjTXJ1TW1hVnFEa1V1eHd6MGVEdUhNd0hjWVJMVTFSWW1nMmJiQWdPcjVpdnpGd1FfWk5YOFh1YWM5bTBYVzNvanE5T2NtX1dsN1BKT2ZEdEJjc00?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-10 10:36:07",
+    "chave": "b6ad6e44e4a8c87db2451d7335495ab8854fff112cb0c6bc8d3ec1c66332ab6b",
+    "titulo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVNVdTlNUFpHQTc4MUxJaXFZTnBHX1ZkYklsaXNEYUZNTktVT2lHUnpVSUdhUXhtUDRzXzlDdEdyYzdDazE3YW9HLVFpd1BSWkdoN0xlMFF0TVVOLW5hbURHYzJCbGFYcnhPUDBJTGlDYUF2WHFoYVZGQ05RYV9MRG5jWU9kcjF0VGl0TVdyRDFfRkIzbXJUWVd2eng4Q3VMMFhSTVpnNTByZm9TbjV6UkpB?oc=5",
+    "fonte": "cnnbrasil.com.br",
     "score": 9,
     "tipo": "Risco / Atenção",
     "ativos": [],
