@@ -1,88 +1,5 @@
 [
   {
-    "data_envio": "2026-07-08 16:50:08",
-    "chave": "bf9ded275413f36c8d2e3ced44d55cb88842a2b659e7ba489c299d7c628a29dd",
-    "titulo": "SÃO LUÍS – MPMA destina computadores oriundos de acordos judiciais para o IPCA - Ministério Público do Estado do Maranhão",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3RZcFdENWN2SVl1LXZVRnhPWE5zS19Qa1hGZlhUNUNhLVdTb01wNmR3cllOeGROaFQ0RWZObUlJcHo0eXZUOHhxalJsdnpzTGt0bVpLLTA3NlJVQVlPZVg5cEZ4MWxCZkYtR1FLUUdkMGZhR3hmNUMtM2JVWENCMzZEMVB2N3hDU0l0TnU1ZEJJYy11ck01MGRhVUZMZ1FjdXc?oc=5",
-    "fonte": "Ministério Público do Estado do Maranhão",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-08 16:50:08",
-    "chave": "36151ce68684b42a882b0d04afe336a17c1047d2095a553d93243f44d70bac13",
-    "titulo": "Ibovespa cai após Trump declarar fim de cessar-fogo com Irã; dólar opera estável - Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRU8xS2ZRbUxLdVFCcThwUkZXU05iaXFSVlhTNjRRRHFMbk0xUWlibWp5UktSZlhDS1VuX3lCcmc2SG5YcUplQkpuVVNNZVFKX3VfU1R1T2hoVkxMUGlwWFFxZExWNjRQVDVFQTZ5XzBQOVdrQnZ2Vk9VMFZlZWt2Yll6RWlUOVoySlo1aDVZNnZqWUhyQ2ZXak13cTNVVU1penJadmpRVG5RejBXMWRpVEJoY2w4dWdkZVByTmFMWjfSAdQBQVVfeXFMTU5pYlhuN1RydnRjd1k0eUlYbklKTzl0ZEl1eTZPTXluTVg2Tms5TkhMdUNiOXVwc1Jic2RiMjdhdndfVTVSeDlMRVh2d3hXbTZzVi16cmlvZHJ2aXY4S0NYWXV2UUpTanFpc0dqYVhrM2dJU3dIV3hRLUJ0ejFsOVZ4dTNUUS1ud3lEc2g1NGh5NUNmcDNHXzJEbW9vRElOQkdIUXNKUlRaVHpiRDF0Vl9QQ21pUzFaZm9MTU5JUDFoUldISmZKWmdPQjdDdS1SN2RpYm0?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-08 16:50:08",
-    "chave": "d526d1ad1112de537cc047582cf673b13f6522bc8539d9e30cf3767ad80ccadd",
-    "titulo": "Dólar oscila e Ibovespa cai, de olho em petróleo e tensões no Oriente Médio - G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tYVJDSk9Nd1V4X3dPS3BtaVJOMEVmbGUwc2htYTlXc3I0M0dEOHRJR205VUNOWGQ4aU81MTFzSklSNUY3UTlObEpYOUp1c2h2TDNocVRqMXVhOUtVcjZnWjg2MWxDY01mcHhxcUlIaDRaUHM5eWRoMdIBhwFBVV95cUxNZFAzZ29HNVVnZHBXX3lMcVhlOW1aV2VUTTFZdmVmeWdiQ0xxTXBfVTB1Um55MjFQUTd2RU9yVWpnOW9WaS1DakNVTTUxeVhKRXZXSlJ4XzRoUUZxd1JIemQ4ZEI3cklXMU9DYU9Ga0dzTFFwWk5RZWowTjJ2dU5LemxMWm9QUlE?oc=5",
-    "fonte": "G1",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-08 16:50:08",
-    "chave": "5775ffa18fe58f71eb8cfb989e66a14f49c64f1dfb0a4fb0acbd0575cb4ab7f5",
-    "titulo": "Banco Central do Brasil tem novo edital para servidores autorizado com 170 vagas - Ceisc",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUdqS3dKZi1hYTBCYnROTkVxTFhyblA3cmw4Rm9FZm1YSEJ2N2VzQ3RwSGQzNGNlSzBIelJ4MTVFYnlsMGFfaTc2c3R1TVN4aTEtOHZ3VVRzdG1ISTVxVkJSeThieXllUURKQXFacWQ0MjRnMHFPX09NclhVcFZFd1c2d0ZpeDFGM2V1aGRkUFo3X3pXc25yM3JPdmQ3bTA4VWFidEtlTFFFRldDcXNwaw?oc=5",
-    "fonte": "Ceisc",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-08 16:50:08",
-    "chave": "897158fe80e3748049d1731d221e5810aca11d1926bb18d1d1d203b8acd7404b",
-    "titulo": "Banco Central autorizado a fazer concurso para três cargos; veja vagas disponíveis - Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVlJTWdabk1xeVdRc0lfc3kzcTBpYjZpSW4tMkdxMm9ZMnFtbUR6YlZuSWpaOTAzTWxjU0pWLVRobktTSTNfWHJKdGRqaDhpU0J2NzBqZmpXTTdXRHVOaHc2QnEyblpGNFc5dmtPc0Nod3dIcEJmbDlvd3dVVEpaWWl0MFlvZm1xV2xhRUNhRktZUQ?oc=5",
-    "fonte": "Seu Dinheiro",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-08 18:45:48",
     "chave": "b61cdb1df928e74103eca2cf735c9e01e03b780d02a6e89d4eb8b722d2c4f998",
     "titulo": "Banco Central lança ecossistema de duplicatas escriturais para modernizar mercado de crédito com registro eletrônico - MundoCoop",
@@ -17190,6 +17107,97 @@
     "titulo": "Banco central da Austrália mantém juros em 4,35%, mas segue alerta com inflação - Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQk80MjlDaXZQZzFfMlRoZ2cyU3ZsUGVGNDI5Wk9td3B2TXNZc2lVamR3T2NVcE5LQ0VTc2N6SUdYNXdqaWlfb1BTdzA5ZnBWSWlfeWdFa1Q4R3MzS3FfR0Z0SGxDV1FBNmJFR3F1TXFDYUJwZE1zanJNNXVDNkJqVHlVbVU2TFZVWmlSMGwxdERpMTFMMDh4eTZxMWRXMElOOC1KRmIzRC1OeldZV1d4SUNvNzhuVjdtYVRYUEExUlNYVkxIVHl6aVUwQ2h4a0JjRDZRVVotejXSAecBQVVfeXFMT0E3LXhOZjlnVllZWlpUQjExZ1lQbnpuOHlsUkVTc015WjAySzYxcnZpdUN2Yjg3cTVMMFEwek5tZ2dMV2FSRG00NGFLcDJiOHYxNEtDVDRvZGdBanpzdzVTVnhfU0pqRVYzVzBYeHdmeTRBOWluWjdIbkRIckhlWFFxNmNBUmRKcnJSdDJubTdKRF9WMDdIWm5NVHRxQjhoRlZLTF9Sc1F1WVVUSndSZXU4SGN3a3hndUtPRHpTZVN3T20wbW8wYnZCa0dvb2xvUWFuZWs0b1E5UW11c0ZmeGxDUW5BbUpv?oc=5",
     "fonte": "Valor Econômico",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-11 11:05:03",
+    "chave": "6ec7c7a05b75dbf9c3bd933dba6c9c7faeed3aab0a31f764f9ee13645762e64f",
+    "titulo": "Agenda do dia: Ata do Copom e IPCA são destaque - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkM5SmNVZkRjZVZUd2ZsNV9DcDRYclpOVmlPa2VEOXVsazM5Q1I1NmRlUUtHN1dXM0VzRFdLd29LaTgxRlM4aXRVa29aNG1mSWg5Z0t5X3l4OFVFT3JFTnpFRnJSS1RKMUJNSTlnX09OQk1PX2dMSnlTSUpQbjdmZW91MGJIcG13RmZHZ3NEOEstQ1ZyTWF6VWNoZTIxTTBFNzRINE9ZONIBtgFBVV95cUxOZ1NSeGpaSFUxSzU1dTlxWmtPY0xFdWdTR0hRVDNuZThaelFsSkZoYVFFZ19uX0xCZ3p1TEZwcXBvbzI3SWpSMnNZZWl4Vnc2Y0xWajlIVTVaVl9QX21kYWx5NGNzVlJ1MS1iOTlfOElqZUFzeklYUWJ0UFZvSURNRG4wS0NEa2RoX21rYWRBM3hvZlRZcFJwdVc3YmNVdUlFNmpxNEs3eGJaS3kzX0s3UGdvcW1Idw?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-11 11:05:03",
+    "chave": "0514c28b544ffa167c36610d63ff601a6183ee7ff54be3c0063ad6212ad5bbae",
+    "titulo": "Mercado espera nova redução da Selic após decisão do Copom - veronoticias.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjNhcFBMaE1WcXJpcTdrenpOVm1tUHNuTGhHazgtbUFEX29peTNFUEF6QnpmMG8zYnJVdUp1UmluWERENkljbzc5aHhrYTRkenZwVThWQkRncTFwQnlJdDdIc012V2pIZ01pNEcyVnB2NGsyOVZxS3NLRXlOTW1takswMlZLWW5hSGxDYmw4bVpXazhXODd2NQ?oc=5",
+    "fonte": "veronoticias.com",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-11 11:05:03",
+    "chave": "31c9f792aee8e2ade8bfe263b5d1ee19d4fa63f162ebeacfa157942737cef6e5",
+    "titulo": "Notícia Agenda econômica: Ata do Copom e IPCA são destaques desta terça-feira (11); confira os horários - Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU244S1FxOFpxa1ppQldNdkhKLWZyS05PQW0xM05haTZBaTBjWlFLNHpBMVhkSEswM0V6YjNEcXZ2ZDB2WlIzVXo2OFZBN19RT0wxWGhZNU4yczZWQXFtR3p0bDhndHhOQVFCV2N2ck9haGQzeFNsX0NTcllaMjVmT0pKbFkwb0ZkUWZtSmdXU3dSNW9LREdtVU01V2tJZ05TYk1zQ2QxNVF2UzRmeE1nUjVnS2F6UXZ3aTI2ZQ?oc=5",
+    "fonte": "Kinvo",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-11 11:05:03",
+    "chave": "00fec696c94c1105f8e8a10f8f08dcee1dc79ba12c9d20dc1474f7390eb39821",
+    "titulo": "Agenda econômica: Ata do Copom e IPCA são destaques desta terça-feira (11); confira os horários - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0lpSkthMzdMVkViVWs5blNBcGZuUnJIN01BRTBzaURFZWNtNXk3SHNsYzFQRmdUQURxNXJEakVwTGNvcHlRNDJobkVDVm5FRnlRdy1ycUM3TVJyVlZBT2UyV0lQZkUtVkppTHFvN18xcTRPem9mbmpOYjB5VkRKdC1ES1d2TFJHajA1Tjd0SS1wSFY3QklhcTRzZGs2ZkN4a21tOC02VlRIaUJ4OHlWVGY0OGQwN1puRmRmYXllQW1xT0t0VlE?oc=5",
+    "fonte": "Money Times",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-11 11:05:03",
+    "chave": "52cf1282151241f5957220d3d47d1d781ec03e973e3d491705c8fdb6e64448cb",
+    "titulo": "O Banco Central da Austrália mantém juros em 4,35% e sinaliza novas altas se inflação continuar elevada - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd1dEbnhIMG13N0x1bElTT0xZNkM5ZndBbG9nODl5S2UyNkxaWVFVY3ZVU0xaam9NeVd4cGUzOF9WYklpVVo1aFF5RENVTWtOS2FpZ3RyaEd4aGp3MFVCS3RHYk5LZWl2NUEwOVF0cVRYb0JmQ01uZm9RQVY3Zmg0OUNvU2I1dG5GWk1vazh5UlZzR2NVdXRGSHRLWHJtWUlnWVRMUEJZUUV2bkc4OXlraGlvNHFvUlluSXFlOUhqcTRzZlJuN3AxZXI1ajViQ2s1UE55OQ?oc=5",
+    "fonte": "ADVFN",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [
