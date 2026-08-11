@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Corte da Selic para 14% ao ano e suas implicações na economia brasileira - Canal Rural",
-    "resumo": "Corte da Selic para 14% ao ano e suas implicações na economia brasileira Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWQ4WHozNnRZa1ViMkhtWS1maXNUdGVDd25HRzdrR3lnRXdoVUJ6UXVYaHpDVm0xTDNOOXp5cV9nVUxmUmdoU25NVmw0ZzZzdEVyT0ZseTdRQ2w3TWcxc25QUW15ZGh0TEZQbGwzQjlqMlU1RnRsRmJwT2VKTjJpcVVSNVZaUXZLSE1xNkY3VktBTW9Ua0dqTDlBaHYtX080dFVkcFVhb0wyUHo4Rnc?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3ec593174799af0f846cfe2bb5ec29bf8668618215a308612948d3f83101e9d8",
+    "titulo": "Banco Central detalha hoje corte da Selic para 14% em ata do Copom - O GLOBO",
+    "resumo": "Banco Central detalha hoje corte da Selic para 14% em ata do Copom O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVy1aS0hUdENzVlBkT2g4WFVrWXhSaTkzS1JmVGp2blN6ZUFTN0d6SXp4MU1KSzU2eW1CSV9oUVU0a2hvM3dsWmZlaVFaWnY4NEtDNFlneGdFZWFpNGZMN3QwN2RmaEFyLWc2NFMzbWRoQTY3UkVUZ1pNMjg3SzloZmxFRVFEN1BFSnFxSEt4WlVOaWRrUFJQdXFidXRyOHhwSkFCMlBKeklpcTdGVjZDUzEzZnB6TmhTaHFGenVMUzRRVjNYMUpfcjRLckRyc21peVRrampzWdIB5gFBVV95cUxNVWxYcklfMVlJSU5QQk9NNWVGZ0RuY1B0QlBucTc5Snh5eHhrUmRLTXNyUm82RHNwbWd3YnF1U0dLTHpmbXkzYmprelNNYUQ2TXRqSlNoVEwyek5IN3o1MUg5RlRqR0FyRVV2R3JURFJNb2hDNlBUWTVqeW96Y21lckJaaW5LWmt0UWJnb0tfS0IzR3RvTkNicTBjUVF4M0twdl91Q0RKU3habFV1WlU0WVJtaWl1STAtV2Q0OG1XQVlRQmpjaW5JY3BhaXhEbVU5VThvNWRiQnQ5eThSdWM5YW1VdFNzZw?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e1604c5a9a2b83656603e84594b916178c133a74e3c3468102eba9b54e90a6f9",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -27,12 +27,38 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central anuncia mudanças no Pix e combate a ofensas em mensagens - Gazeta do Povo",
-    "resumo": "Banco Central anuncia mudanças no Pix e combate a ofensas em mensagens Gazeta do Povo",
+    "titulo": "Mercado reduz projeções para IPCA e PIB de 2026, aponta Focus - valor.globo.com",
+    "resumo": "Mercado reduz projeções para IPCA e PIB de 2026, aponta Focus valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVBzT1Z5SS1XbWNCX3M2eHdGUldCVzRqWjZicDBpRFZkM3lkRGRDMWljdmJ5TEFrcDJwSGxUdjlzb1VERmpqcXpDcjYydzZzRzlBOE9WRzhNa09nT2R3WDNuZ2NWQ25iVEVZYkVXelJEdWhqZnJ5MHRZMVNOTnVQclNtOGpaSnMtYWstLTZ6ZTN1UkZmc2l5VnhFandUd2FOdTRWRFRGdzR6ZXFPVUlSRkV5eThRZWPSAcYBQVVfeXFMUE00NXJOLVN1TzlycFZpekdlVFhrclc1dkVuV1QwSENTNE1uaEhhZmlFM1FDN0lBY3VkaGRuVWlBcExLQUdsUUxGSlJWaDc1c0ZmaUYxdTVqV05MWmYyaXBBbWZ4VHdxV3RuMEZXaVNLa1JsZElobmozRFpHRVRXTWhubmNFSUZILW55UDJ2WHdLNDUwNklnaTFGeUtscDQ5Z3QwVW0yWmpQM0tzX0YxemgzYzFORzdGU21pYmJSSjJUcTV5TkV3?oc=5",
+    "fonte": "valor.globo.com",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "87991c2085c565d5d2176b766c9b8d993fec3565fc5f0c7790328e0ac2352bb1",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central anuncia mudanças no Pix e combate a ofensas em mensagens - gazetadopovo.com.br",
+    "resumo": "Banco Central anuncia mudanças no Pix e combate a ofensas em mensagens gazetadopovo.com.br",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1gtY0Vackd0cE9XR3VTN0EwYmJUbUhXMm1LS2Q1dlZKYzdZQnVUM19vTWkxTnd3Ujc2SjZfcG1WRnN1ZWFDeklwUEVUYm5wN3l5SEE4dFU1NGlPQmpUUDdmLWtmR29YS2R4NWRUTGVfc3Q4eFA2TEt1WnZEdkQ0YkVGd2ZnZlcxUFI3b1RuendoT1JSNEFkWmlseGJxTmtqNy1fcHg4MDhKbzdy?oc=5",
-    "fonte": "Gazeta do Povo",
+    "fonte": "gazetadopovo.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0fb2246d664cc0394baf669cbffc5f0fc209f80b682e921e4ce236d10d950b40",
+    "chave": "1eb823337ca76c59bc15752fcecbafc96e9e0975c697d18712a54912257e3a4f",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -49,34 +75,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central deve lançar versão 2.0 do Mecanismo Especial de Devolução de valores do Pix em outubro - Correio do Povo",
-    "resumo": "Banco Central deve lançar versão 2.0 do Mecanismo Especial de Devolução de valores do Pix em outubro Correio do Povo",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaGRJMXVBSXhlNmhiS0h0N3ozdXIzNlpKMm1oSWVfc01pdVNfZGx5UWtVRlo3azdZRl9YZExaSzhaT09lamIzUk9lX0k5U3MtQmhQTHo2RVRkWElsWVdfc1dKUDlZMzNOWTlLSlJzYmhGUHBhMENpeFBJa0s3ZV9JZFFYdWE3a1N5RjAybE5WS0JuT2VlbUtrWDVLVkgybjBRMTBEbXZKMERUekx1TlhDZU95bWV3LXBVclh0YXpDM2x6M0RsSGo2NFBHb2hUSllZdEdFQm0zOXdkaWdCNUEtSE9fRzJKMnRGRnVKWmFHaWJXbU1UOTVoMA?oc=5",
-    "fonte": "Correio do Povo",
+    "titulo": "Banco Central estuda interligar Pix com sistemas de outros países - Opera Mundi",
+    "resumo": "Banco Central estuda interligar Pix com sistemas de outros países Opera Mundi",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHhxYk5ENFd4MTJzTEFnZzVxdmh1OUxfdVN3YnM0OFNDYTZNMWYzMGNnZVY5UHAzX2psOGxMaDE3ZEJJNTNrZ0g1c0dhVkNBaXRsTzl1dFBOcXYwM0JMWlQzUk5EaEllVkwwWklZSFRkWUNVNkJTa19kVnowR1BSUC14NTZkY3dLTXpYVkpKc1RQTFl2cFNLS0xGS3EyUHBSYklvWHZR?oc=5",
+    "fonte": "Opera Mundi",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "62fe94d0002108946ea13ef38e8f3f08baa8e71c4f1f338b3f0cc02fd49d6aab",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central avalia interligar Pix com sistemas de outros países - OpiniãoCE",
-    "resumo": "Banco Central avalia interligar Pix com sistemas de outros países OpiniãoCE",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3N5Nml0T1oxelU5LWswaHdpdnhZUDJ0OHBSdzVUeVR2OEU3cHpDcldlMWIwY1dMOFpjcERwUF9qckhfd2RlTGxGMElDbWQ2NHZGTU40dHRIUUUxaDBJeHppaEYyeG1sbGdCOUc0U3p6ZUVYRjI3VVNaOUdqeU4zS09EekZxQTRUNVZzY2doUU5wV1o2WG0ySDktVTdNZEszWG85RXQ0LXVDbUJoN1JzX3V0aEQxVXMwSkRkTg?oc=5",
-    "fonte": "OpiniãoCE",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3bbaeb783c9a811c34f9fc965daed46497fca4d91bb103fc3a12c74cb2426555",
+    "chave": "b0da23e8e6366d0a74b881eea54b34df0cf5e6d05d484a4690e3c3cfc0fdbeb8",
     "ativos": [
       "CDB 100% CDI"
     ],
