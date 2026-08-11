@@ -1,39 +1,5 @@
 [
   {
-    "data_envio": "2026-07-08 11:57:35",
-    "chave": "99ab3326dd8cfa666d2828fc4f46e7eb6af4e9b1e4d6b531ef963e380f8dd316",
-    "titulo": "Ex-diretor do BC vai contra o consenso e aposta em continuidade dos cortes da Selic - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjBINE1iQmZ4ODZwa2x3VkNmV0VrTlphUUJ6M2JEdVdZT1VrakVzSmRFUGNibldWSHlxOC1meUVQX1JaWHVlSlRaQ0laeFZYOGNFZjBKVnVKdzUwWDYzaWpocHJpb0JuNU0xRGtlTlFxWWlQYUhMRnpITWFjRHpyaklVb01XOWRnN0JRNGpqbWhJaHZST1EtS1ZMbTVPVnhBNENiWktCZ2FtTnQxX0lXLTFGeDctSElmWmlNNDNqa0pKNXE4TVHSAcsBQVVfeXFMTlItbUM1bWhNbUF0d3hlUUVVdEFmZUNkRjZhVGNSZFZmdjFtRVI2RVZ4d2szUHNzX3J2eFJkVzhEb1l1V2RHU2dBTUVBMFEtX1JPaUVnMUJIWi1QZmx2cU9WYjk5NjU1aEczTzdYSTZWd3VqUUw0dklhQ2NGV0Y2ZVdOY3BiT0ZudFFGZV95RG5lTWY3VGhQNm5FVjNCYTR6cktvXzg0eGRxLXdQVXBxUmFYc0x0RGk5c0hKb0tZMksya001RGtLbFhzdWs?oc=5",
-    "fonte": "InfoMoney",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-08 11:57:35",
-    "chave": "f71e60a302d70edd3dd84e3995c7d8b703651aefce61a53c391cfeb345874150",
-    "titulo": "Banco central da China aponta desequilíbrio entre oferta e demanda - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQck1GdmFkTWNnenZ4UXJFR3pKLW9kOVBPbDZVNEY4OS1LVmFEaGdHRUVHXzdjNDRUdVB6RDhNT2M1VUhsb3pOeHhlVG1zRFp5Zi15cDh1bWpVRlJxTllvbzkwalItTXFBR19VUURCczBMYUtrM1NSN3NsTnhfYzQxLTQtNWJmUDBZMW5JUXk5LTl1N1hCdVVVeUQ3QTdVY2d0UkN0WG1rWENPYVlheUROY1ZqdjNtb0ZfS0pabG9OTQ?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-08 14:40:53",
     "chave": "cd6696e1fb5523a05003a05af41d6dc2b4051e912f85ac77edc7f67f6cc34f09",
     "titulo": "Tempo Real: Ibovespa tem leve alta com Petrobras (PETR4) e medidas do governo; dólar cai a R$ 5,14 - Money Times",
@@ -17185,6 +17151,38 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-11 07:37:08",
+    "chave": "bac7fd0634bce045ffc7f297cbadd1363f3f3ac3ad39cb6ad542bb31c2ce629b",
+    "titulo": "Dólar sobe e chega a R$ 5,11; Ibovespa fecha em queda - brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTklMRDZQX0JtQ1ZWOTRJRG40UW1saVdyay1kbVNxT2dpMVdKMUdfa1hxOWFkcGN2VDVCMUFrTHpsYVNkc25qVVctb1JubjI1WEYtVzREbUxETFllVlEzS3dsNEtTS0FyYktOd1lNbWhxZncwVGpQQUpscUJDLTNBNFA5NVlYcDFpcmVDSWVPVWhobmQ2bHZQdi1R?oc=5",
+    "fonte": "brasilagro.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-11 07:37:08",
+    "chave": "22b2c01703f2d7c7beae267ff5a55f380f74fb8cd34e23855f3e8d50bb758e37",
+    "titulo": "Banco central da Austrália mantém juros em 4,35%, mas segue alerta com inflação - valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQk80MjlDaXZQZzFfMlRoZ2cyU3ZsUGVGNDI5Wk9td3B2TXNZc2lVamR3T2NVcE5LQ0VTc2N6SUdYNXdqaWlfb1BTdzA5ZnBWSWlfeWdFa1Q4R3MzS3FfR0Z0SGxDV1FBNmJFR3F1TXFDYUJwZE1zanJNNXVDNkJqVHlVbVU2TFZVWmlSMGwxdERpMTFMMDh4eTZxMWRXMElOOC1KRmIzRC1OeldZV1d4SUNvNzhuVjdtYVRYUEExUlNYVkxIVHl6aVUwQ2h4a0JjRDZRVVotejXSAecBQVVfeXFMT0E3LXhOZjlnVllZWlpUQjExZ1lQbnpuOHlsUkVTc015WjAySzYxcnZpdUN2Yjg3cTVMMFEwek5tZ2dMV2FSRG00NGFLcDJiOHYxNEtDVDRvZGdBanpzdzVTVnhfU0pqRVYzVzBYeHdmeTRBOWluWjdIbkRIckhlWFFxNmNBUmRKcnJSdDJubTdKRF9WMDdIWm5NVHRxQjhoRlZLTF9Sc1F1WVVUSndSZXU4SGN3a3hndUtPRHpTZVN3T20wbW8wYnZCa0dvb2xvUWFuZWs0b1E5UW11c0ZmeGxDUW5BbUpv?oc=5",
+    "fonte": "valor.globo.com",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
