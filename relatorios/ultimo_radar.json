@@ -1,128 +1,62 @@
 [
   {
-    "titulo": "IPCA: Inflação desacelera para 0,07% em julho com queda nos preços dos alimentos - g1.globo.com",
-    "resumo": "IPCA: Inflação desacelera para 0,07% em julho com queda nos preços dos alimentos g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScFlaeV9JdXM1aE9xUDkzM3hIdTFQYWZwbTd1M2NkTHFDeUR5RkZ2RFNYWmdZcHF6VnZrbDF5SmktR1JrRG1xV1FxaDVSdzAxVTJYeC13QnhRUE92dWk3TTdXdFpvaG55amRwblRUb3MtOExHUWo5N2pVVFJscU3SAY4BQVVfeXFMUFRWbkJncXJjSjM0UHc4RnU3b3JsZlBaLVB1RWlDTzB6eVZ6MzVKYnhVT3V1SkhrUFg2MzlqanVqSTB6c2g4cnFZUEdSN3lTT1doNmgzcHQ1VFpCT1hxQlRtejByR3NORmR3TEJxcVNaVmZEZkNKb3pHMnZEdEtrOURQcm84dUJLenVoWDh1UQ?oc=5",
-    "fonte": "g1.globo.com",
+    "titulo": "Ibovespa cai 1,8% com preocupações sobre eleição e rebaixamento pelo J.P. Morgan - valor.globo.com",
+    "resumo": "Ibovespa cai 1,8% com preocupações sobre eleição e rebaixamento pelo J.P. Morgan valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmNVTU1VQkN0V3VrcDBZY1kwN2ExeTJ5XzVEUXhkZG1hQUZqeHRBOXU2dnZPRGJCc213djNKcTJ4aVJocU5rY3NJM2YwdUM0ZW5LSENmX3l2U0YyZGwxY2xqZ0FRMG8tODU3ZDZpOXAycGkxVmpSaHlQSmpBMUJMZGNvS3B0MkZ3dE5sQktBRG1GYUpuTm4td1QxejhrYkx5MUJXR2tjMWhyNEpLamh2dlYtWktxN2NrZFM3Q9IBywFBVV95cUxQbHIxdE9jQ1QxYmFPazh2Ym9PXy1EN2Z4RlQ1SmVsLUhZalRsa2pSQlpJSFI4TlRJczg4ZFduUWkxNjlYOWcxZnFrRmk1VFZWckN2VzEzNVRGcDN6a2F4VFQ5T0x1b0hDQnFkeVVxaURUbE8zcTBrdDE2a1RRZFdRNkx3M0pKUE5yUUMyQTVzVTExd1JEVXZCZzhLa1BlbWR6YTJ6aVFjcjVZWDE3dEEyQkduMHFTZlJoSXg5T2JNN0FwbndWRS1QSENHUQ?oc=5",
+    "fonte": "valor.globo.com",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e64b5bd7d4b222a30e05b42dbcef71d0f469190ecd5240a8752d5b55ca0ccc00",
+    "chave": "1a3f41a31f92b1af16640d99d06454bff6688ad8974dee700aa2ec6441302897",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ações Brasil"
     ],
-    "score": 15,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa tem maior queda em cinco meses sob impacto de inflação e eleições; dólar vai a R$ 5,16 - Valor Investe",
-    "resumo": "Ibovespa tem maior queda em cinco meses sob impacto de inflação e eleições; dólar vai a R$ 5,16 Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWRYdzVIS19acGZhd3pIYl84TEk4UUpWVG41Q2pEbkpGTC1UQmh6ZU9JZHM5Vi1LZ0VXbnNhQlQ5cjJuaE1udkxjbm1hVlIzallMa1NWemtBQnVuUHBteWFrR0pzX0p4SnVZemJqUXlfWG42VW9rbFBzN2tZV1RSM3B0WTNMc1JURFBFRTI0TUttcFQ1N0RpblpLODQ5UVNHT0ZHYWY2UkE3akFCWjlLQl9uLWU1ZmdvbHVrMWdXS1ZQX21qY3phczBzRWthYkxCLXBLckV30gHkAUFVX3lxTE82aXF5WE9sejkwNVlGZklxUERDMzJjbF9OdVlZSTB1RDJmODVaSGNmOElSUl9qTHhlLVpLUFR3eWxMSFBBUVgteXhWOGZHNWtmNkZBdWlzbERMV2VhUjlMSWlOY0QtWnVoQnZCdkdNZy1NNTlKbXVLUE1JWFJqN2pLcmRUeGJuaEFHME9FVEFPU0M0QlF4NEZ0dEw3VjlvSjB4SUMyUktZTmJqS3RtWTAxMWFJQ1VIQk8zLU00TkloOG9hQmkyR1F6WXk4UHV5OWlYbm9jdVpsUjN1a3J6dC1pM19GbQ?oc=5",
-    "fonte": "Valor Investe",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3352d874e443b7ed505efff8126eb199065f54214d50da0bcdca50c572feed93",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom reduz juros, mas segue alertando para risco fiscal - Gazeta do Povo",
-    "resumo": "Copom reduz juros, mas segue alertando para risco fiscal Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0IzQ1VzRVd5OHh1TUFPRWV4bzNVQnZfOF9oWGo4U181S1BLTHRZUVlLRnBDMjNiaGdjZm9KbnRZMDJfSkQ4cFRxcjBCc2hlM2hsV2x4LVMtRHNnMlJWS3A2TUVzekV6Wlk0UUpJVEh0ZlhyaXZqRjdSeWpsejNGMjFNSUxOcTQzdDVmQ2k4MkFJX3Fv?oc=5",
-    "fonte": "Gazeta do Povo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "381f4d831d89f52b12cef4cefc2cef50a1ae0569a84ce920eb53be4e19101401",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "O petróleo voltou a subir. Isso muda a política monetária e a Selic pode demorar a cair - neofeed.com.br",
-    "resumo": "O petróleo voltou a subir. Isso muda a política monetária e a Selic pode demorar a cair neofeed.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2ZtSXpvaFFrUzhSU29fdjZtUHg0Rm45b2VKb2xPREhvWmZ0aS03cTUxZjcxTzdPaUlzS0VXZWRxbTdvYUpuUjlWbDJzS29kNDMxT3V6YzdqUXRqcWhtOG9sU1R1MkZQNkpIdFhLeXc2dERwR2twVXozeDNXZjJDU0FCU01LUlZGdlFiS3NJODNxWTF0RXlmbzRFVFVBNUlma2VpcTBtWm1XV1VPM0k0cU5sb2xlWEFxZDEw?oc=5",
-    "fonte": "neofeed.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1b55088cb7b66a928daeebe664ea0225a16727b746cc72c9b75ea3f1a6aa7f04",
+    "titulo": "Inflação perde ritmo, mas ainda preocupa BC e investidores - folha.uol.com.br",
+    "resumo": "Inflação perde ritmo, mas ainda preocupa BC e investidores folha.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVDJnWV9sRlduVVl3Y2wzZUMxNEZQU1gwbl90VjB6bnZ2bXQ4XzdtMGZnX1JsMEcyaVN2NDhIeWJqT0xIM3V1Y2hnMDNxd1o1OXA3ZHhZeTZzX1R6RHM1U3F4WlduVXVWNmhZc0NZNFJZcGpiWGdPTE8wQXZDVzZnSDFyTXZERDV5WDZac1ZKNFhiQ21iUkZybV95UUY3cnItcGtUYkI0enR2czNWQWZzekVjdXpsSkJmcmRMM19PTzczMTQ?oc=5",
+    "fonte": "folha.uol.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4babfbf44a7155975564aba2c2cafafc0166404243c228be39aa5c64b0338891",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Cautela com Brasil joga Ibovespa para baixo, em meio à ata do Copom e IPCA - economia.uol.com.br",
-    "resumo": "Cautela com Brasil joga Ibovespa para baixo, em meio à ata do Copom e IPCA economia.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmxQX3BSd29EMkZneFNTQ2hydF9GRl9EakFaM1lBdHdycFRsckNVbjlnbTVScjlRZnJGd21SUUNVN3VzWWFwWTB5M1V2Y0lkMndhYnh5NGV5Q0JKNG1LSnJpbkQxWnNBQmNPWl9OdGxNYUdVeWw1RXB1SVFQVUxpcnZhcHJnSHhVQi1iNWxpVTlicTVFRVpYck5LVEJUajJLdUJSTC1KYlFPU0lWeFZSYmR6b3llSGF6eFZoamxGbjBaTFpTbENicnQ3bHhPQTlKNmZHUDZrMENvdw?oc=5",
-    "fonte": "economia.uol.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "899ab6c88b0ac1b5c4e9ef9b2675419820f2aa4505046b7ac47987d1f7a738f1",
+    "titulo": "A inflação está esfriando. Por que o BC está preocupado? - Nexo Jornal",
+    "resumo": "A inflação está esfriando. Por que o BC está preocupado? Nexo Jornal",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2tJZ1FwaXgyN01XWUVCODVyUUg3MHJXc1hER1N2ZkJ2enBBR1pZREctRkhOblZuTDZJdHU5T2x1R0JxOXprN290cFdPNzJRSHRKWjV0U29hTVczNjM4NlZ1V2V3eEdGcWI3djlVU1didWVUN2Q2WnhRaDk3MXlPSExGQnFtYmRmRHNleUphRmxpdDA?oc=5",
+    "fonte": "Nexo Jornal",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "9ae01bd55cc369ff89bdff80a2ded327989e05f88feb686ce47146c5666f595f",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
