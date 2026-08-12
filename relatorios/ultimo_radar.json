@@ -1,106 +1,11 @@
 [
   {
-    "titulo": "Fechamento (11/08) | Bolsa cai 2,50%, com IPCA, ata do Copom e relatório do JPMorgan; dólar vai a R$ 5,16 - InvesTalk",
-    "resumo": "Fechamento (11/08) | Bolsa cai 2,50%, com IPCA, ata do Copom e relatório do JPMorgan; dólar vai a R$ 5,16 InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVFExLW9fcVBZUFFyWENhQm9aOFpWV2VkZVhELXhHLXR6NjI5d0M0M096NUNrQTFDXzBaQnpxcU9idW9fX095bmNwd3NoTl94eWNGODh1UlVyblYtSzh0RjJhSHNMemVtaXBteVpjcjc0THlqOEE?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "50d7d495ec2a02b6ff87702e950eeabd284097061032e41ac631645ea603263c",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa cai 1,8% com preocupações sobre eleição e rebaixamento pelo J.P. Morgan - Valor Econômico",
-    "resumo": "Ibovespa cai 1,8% com preocupações sobre eleição e rebaixamento pelo J.P. Morgan Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmNVTU1VQkN0V3VrcDBZY1kwN2ExeTJ5XzVEUXhkZG1hQUZqeHRBOXU2dnZPRGJCc213djNKcTJ4aVJocU5rY3NJM2YwdUM0ZW5LSENmX3l2U0YyZGwxY2xqZ0FRMG8tODU3ZDZpOXAycGkxVmpSaHlQSmpBMUJMZGNvS3B0MkZ3dE5sQktBRG1GYUpuTm4td1QxejhrYkx5MUJXR2tjMWhyNEpLamh2dlYtWktxN2NrZFM3Q9IBywFBVV95cUxQbHIxdE9jQ1QxYmFPazh2Ym9PXy1EN2Z4RlQ1SmVsLUhZalRsa2pSQlpJSFI4TlRJczg4ZFduUWkxNjlYOWcxZnFrRmk1VFZWckN2VzEzNVRGcDN6a2F4VFQ5T0x1b0hDQnFkeVVxaURUbE8zcTBrdDE2a1RRZFdRNkx3M0pKUE5yUUMyQTVzVTExd1JEVXZCZzhLa1BlbWR6YTJ6aVFjcjVZWDE3dEEyQkduMHFTZlJoSXg5T2JNN0FwbndWRS1QSENHUQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e71f5aed2b13ff7bbe9da502344159b0aa78ddf34194aae1f4f402b7b55d1e5d",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa despenca mais de 2%; o que está por trás da queda? - Investidor10",
-    "resumo": "Ibovespa despenca mais de 2%; o que está por trás da queda? Investidor10",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTS1sMVIwNk1qTmFUajlpbXVhTXhwS2Q0TWRCNmJ6Mng5QnNTclVfa3NVNmhSWW1pb1hCWkhqUDJDTVVWVURaVmZfM0NYck1mTnZzRGNEejR2WUQ4UzM5Rm42MFktSS1mUEhzckdWWm5scTg1WUZVQXp5eVdMQnRkcV9wVXQ4T0pGcGEyYTd2VGlHdXhocF9fcGZ5SGNicldDX3NB0gGoAUFVX3lxTE0zTjhHeFhuR0ktbm1laTNzUVROTDBOYUVmbXNYeHM3ZTNKRWtSa1FjNDE2OFdTS1c4ZXVwUlFfS0tXVzdlbGVLYVZOU3ZoMDdqdTN0dGlWSWlDU0Z1YUtFampPdEtORXFBSzdzV1RJVUs2dldYODhJMEhKMk4yU2NCNjAtSWZNdW91UHp4NzZEY0JENmxJaklhVjg2Z3Z3S0UxX2VhMXhLdQ?oc=5",
-    "fonte": "Investidor10",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "515089ffd7e3e1e14418188d2a53d4c8aa87a32df48e0ce6a5b97caf113c2d4a",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Inflação perde ritmo, mas ainda preocupa BC e investidores - Folha de S.Paulo",
-    "resumo": "Inflação perde ritmo, mas ainda preocupa BC e investidores Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVDJnWV9sRlduVVl3Y2wzZUMxNEZQU1gwbl90VjB6bnZ2bXQ4XzdtMGZnX1JsMEcyaVN2NDhIeWJqT0xIM3V1Y2hnMDNxd1o1OXA3ZHhZeTZzX1R6RHM1U3F4WlduVXVWNmhZc0NZNFJZcGpiWGdPTE8wQXZDVzZnSDFyTXZERDV5WDZac1ZKNFhiQ21iUkZybV95UUY3cnItcGtUYkI0enR2czNWQWZzekVjdXpsSkJmcmRMM19PTzczMTQ?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "51d5995ec96e2e51bb726ea5a7b5a9d1986f4a279a17962aaca5e74dd356e87c",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central Quer Barrar Mensagens Ofensivas e Intimidatórias Enviadas pelo Pix - forbes.com.br",
-    "resumo": "Banco Central Quer Barrar Mensagens Ofensivas e Intimidatórias Enviadas pelo Pix forbes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVNtcWtTcjVoaENFbzZ0eG9jOHRwdEJ1STBya1JvTTRfTTJvVkhySm9PZUZTcjQ5c3hubTdGMDhlWnpBeWJSSEF0V2pLZnBVdzlPaXFuR1BPT3hRa0gwS0dSSThDNmloUnFRYm9OVkNfNFZGYktTbjkyZzI4M1lMUWVkNW1vaTQ2Mm9wNTNXQnVwYWhlOUZmUXhKVjVoWWM4QVZZQzBOdTF0aVhjaDlSalRyQ3RFWHhN?oc=5",
-    "fonte": "forbes.com.br",
+    "titulo": "CNJ e Banco Central lançam iniciativa para ampliar segurança nas transferências de precatórios - noticias.stf.jus.br",
+    "resumo": "CNJ e Banco Central lançam iniciativa para ampliar segurança nas transferências de precatórios noticias.stf.jus.br",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVNqWHMxLTR3X2QxRHl4bnlSaHNwQXFHeEdTeTFsZGFlVDlaaG0zQ09DbkpybnB2V1U0bm9PMXdiaXRsMlpET0NESUU0NWpUYkt6RHhBSWpGMDVTS0d6d01JVThISXU4LVliOXhRQXBBbGh0VEQxYWZNUE9fNy1rS3FoUXlQeUg1WjhTanFLdk56ZDhYaW91S2liY3Z1UDI4ZXFmT2FjYXZON3RkeHMtYmltYk1GQ3RFNkprcExhTDJqYnJPLVJEVGdVWkdFc081bVJZ?oc=5",
+    "fonte": "noticias.stf.jus.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4517f845a803c818bd77b3ea61a0c853b747fa675692957f8b6809e7c75bfbbc",
+    "chave": "f3a4fa6d4e2497db4cfd76ff935147911b160568bd5fbd016b2a8f708b5ba5fb",
     "ativos": [
       "CDB 100% CDI"
     ],
