@@ -1,24 +1,5 @@
 [
   {
-    "data_envio": "2026-07-10 17:08:22",
-    "chave": "00f4751916334cd56dfec37d2b18ef82d2db1ffb7bd07db265bc13ea639c6837",
-    "titulo": "IPCA: Inflação desacelera em junho e recua para 4,64% em 12 meses, abaixo das estimativas - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWdTU1RaWGxCSG13bjZEaTNZVG9VVXRkV1U5bGxYODdPSlJUTW5xanZONWp2Yk9DUUtlRjBHQVFoRHNYalVSU2tiSlpEbG5KeVBCWUlRd1JBdHdEWkoyWDBaUlU5X3h1SGd1QWIzb09jWTdxcUlWdzNQd1hpVDZDMmVtZmtheGVTZUlLNWkwbzlSeW53MXp0YWJRXzItel9NTVdQQW9GWHNKX2RYU3FHbjBtMEhxcUdBS1RkTzZn?oc=5",
-    "fonte": "Money Times",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-10 18:45:18",
     "chave": "95da503b130e41aac4f12923f5a07fb6707a622674caecee4c94e6165885aab8",
     "titulo": "Opções de Copom na B3 mostram expectativa de corte de 0,25% na Selic em agosto - Bora Investir",
@@ -17229,6 +17210,21 @@
     "titulo": "CNJ e Banco Central lançam iniciativa para ampliar segurança nas transferências de precatórios - noticias.stf.jus.br",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVNqWHMxLTR3X2QxRHl4bnlSaHNwQXFHeEdTeTFsZGFlVDlaaG0zQ09DbkpybnB2V1U0bm9PMXdiaXRsMlpET0NESUU0NWpUYkt6RHhBSWpGMDVTS0d6d01JVThISXU4LVliOXhRQXBBbGh0VEQxYWZNUE9fNy1rS3FoUXlQeUg1WjhTanFLdk56ZDhYaW91S2liY3Z1UDI4ZXFmT2FjYXZON3RkeHMtYmltYk1GQ3RFNkprcExhTDJqYnJPLVJEVGdVWkdFc081bVJZ?oc=5",
     "fonte": "noticias.stf.jus.br",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-12 06:42:19",
+    "chave": "dc998c3be544123e5d81c2c0ddbdaa25c4b5372577fe8198fdf7a4862651dff6",
+    "titulo": "Banco Central estuda Pix internacional e novas funções para o sistema - ecommercebrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFdlN2xBNHpsS3pBcGlzRXJyX0lGZUJvUS1VZ0xYOVh5ZExwMmJEYXpsWkUwRXhSU29RQ01paGRUQTlXd3dGb2hxWllTeG5EdmFsV3pYZjVJQWxVSzdXY2FuR2Q2aXVxRzd3RnRtTzVDem5yRG5XdVItclY5Q0d0ZA?oc=5",
+    "fonte": "ecommercebrasil.com.br",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [
