@@ -1,34 +1,37 @@
 [
   {
-    "titulo": "CNJ e Banco Central planejam central de rastreio de precatórios para coibir fraudes - folha.uol.com.br",
-    "resumo": "CNJ e Banco Central planejam central de rastreio de precatórios para coibir fraudes folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNemFvS0JaaEo2cXFtSlRWZmMzdTFXOTJHNUFnYU1sQWNmQnFNQXJIYUtuNWIyWXpCUk1JX1hWX25rTDhPMVZpa2FHSUE4eG56TkZGdFJBVlRLRnVTcGZjQ2xTLUFGVnU0aVNRMGZTbDdaZm5heVVxeWVKU3RIcktKWDhqWVljRFFSUS10clptei1LaUNibi1sbjR2SUdiSi1URVo5TVZPbzNPNGZnbDVJdnoxLWRKN3ZacUd0NnlWNlA0SkUydWUyMi1abzVVQkhu?oc=5",
-    "fonte": "folha.uol.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "9e83dace2af12e19397b1b76b883d7deb23050964bc88faf94d562d82c8f6ff4",
+    "titulo": "Inflação da cerveja acelera no IPCA de julho e mantém pressão sobre bebidas - Safra",
+    "resumo": "Inflação da cerveja acelera no IPCA de julho e mantém pressão sobre bebidas Safra",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qWUVMVmtLSVhodHE2M3R5Q3RjUkZvTm94RlZoWTc3NEdRclR3ZmhTdnFMbXRKXzg4eVpTZGFEeUdEUUJ4Yjh1X3ZPMDgxRHBmQWxVMzRtRVdrd1JEckRSZHU0Y0JmcnNfZWJxaF90MGtZbllZRkFBYnJoR3pKUQ?oc=5",
+    "fonte": "Safra",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c4ecddda27a6724a44d632d28cf9f8f451cf7174ec407af94a5c02909ba36c7a",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 14,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Os sólidos resultados do setor de IA impulsionam o S&P 500 e o Nasdaq, enquanto os dados sobre a inflação acalmam os temores em relação ao aumento das taxas de juros - br.tradingview.com",
-    "resumo": "Os sólidos resultados do setor de IA impulsionam o S&P 500 e o Nasdaq, enquanto os dados sobre a inflação acalmam os temores em relação ao aumento das taxas de juros br.tradingview.com",
+    "titulo": "Os sólidos resultados do setor de IA impulsionam o S&P 500 e o Nasdaq, enquanto os dados sobre a inflação acalmam os temores em relação ao aumento das taxas de juros - TradingView",
+    "resumo": "Os sólidos resultados do setor de IA impulsionam o S&P 500 e o Nasdaq, enquanto os dados sobre a inflação acalmam os temores em relação ao aumento das taxas de juros TradingView",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LOHhnMjJKcTNTUjBDNUVoR2FGSVpjQjBNNVBZT1lTclFDbURyUWZyTTVoZ08tUnBUOWZhaHFrcHUzajdIMzBuZU9RMHoyM1hqTHJpaUNxQmpTSlViaXJJM0pfN0FFcHhrUkd6WW9scEhvc0ZEcV9B?oc=5",
-    "fonte": "br.tradingview.com",
+    "fonte": "TradingView",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "1ed63c74c3f75bb37dcce3ccc1884e7f1eb7e2eb2015397277cdefb2e69e31bd",
+    "chave": "aade2e1f9a55a23034513326f0eb40b5a728cd2d12b477e0281a5a29ef322ea1",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -47,21 +50,43 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P 500 e Nasdaq abrem em alta após dados de inflação e com impulso de balanços - br.tradingview.com",
-    "resumo": "S&P 500 e Nasdaq abrem em alta após dados de inflação e com impulso de balanços br.tradingview.com",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvZVVwWUxuMkV1R3czamFHLVZuQmVMdWhoNXZ2MVRPUFA2RmZnWll3Qkh5aURyQ2VrLXItdkRRTlJyUjIwNDhDWHZFWkloaU5XVDc0QVBmVjFjaGhnLThFSnNlMW9VbUZWdUlxb25qNFE0dnpCQ3NN?oc=5",
-    "fonte": "br.tradingview.com",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "998095364d03e4ccc94849892c0da53724926ab9a121e91a83d0998a6dedc6ab",
+    "titulo": "Banco Central cria retenção de até 24 horas para criptomoedas - veja.abril.com.br",
+    "resumo": "Banco Central cria retenção de até 24 horas para criptomoedas veja.abril.com.br",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajF6NFU5T1VJM1lmVWZfQXZiakpXMlFmWS1hZXkzZDJ1bEpIMlBqOU85REtZWVFROG5aV3Rwa2VrSUlTTFJfTFJmekJUbDBYQlB3YkduYmh1OTd0YkcybTZYMWRCY3l4cXVkWXdfRW5CWDBMejRhb0JJSlNNWmk4NzhfR1B5c2stRUlwMzZuVHY5b2g4MlVDRUxPZEM5Zw?oc=5",
+    "fonte": "veja.abril.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "dcc93428a19694d4b6ac316fa8ef2d19c060bea4b5de5e62f46e1fd6866e02d4",
     "ativos": [
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "CNJ e Banco Central reforçam mecanismos de proteção na cessão de precatórios - stf noticias",
+    "resumo": "CNJ e Banco Central reforçam mecanismos de proteção na cessão de precatórios stf noticias",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVklCS1pRSUN5eEFTVW9HekNjNy1Oc1gzTlJuQ1M3U0pxV1l1eW5UNHZZeVhzTURfVFdwUVRKWkRSN0E5Z3JBUFpJU1pwcW1qZDR0SC10aTB1ZkFHemo2WEQ0bFdpNWExQU8zYWpYVTh5SGdOMk55Mi01czlVWXFKdHNGVElxSlhYUlNGMVpMUS1rdlZtenU1cWpsUWxYVGZCTm9Ha1NmckVlNkdWSC1ZbFhMSjAwNVJxOHFz?oc=5",
+    "fonte": "stf noticias",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4a01ca3f89da9160e3d2b85a38445e5d3411a31256de44eb15fb6cb774f50dee",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -71,45 +96,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "CNJ e Banco Central assinam portaria para criar sistema nacional de precatórios - JOTA Info",
-    "resumo": "CNJ e Banco Central assinam portaria para criar sistema nacional de precatórios JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS1NtdjlTenFKeVBibE5VNmkzUGpoT0htdmJiOXNSUTRZSzM4XzNETDBlY1dKTzRiVTdyRTN5U2dEUU1COVczbnYwSDJpbTdQM0I1OWdGb2lqTXpZSUxSZWhCVU1XQUVRc0YzYnQwV2d2Uk10OWRxbHk4WC1PNU91SjdRalprQ1RDbUZjd3VVYjlfTlBWbjRlUVBnQ1FZZHFmMUdLUlI4c1dxT2lWVkE?oc=5",
-    "fonte": "JOTA Info",
+    "titulo": "Declarações de amor, ameaças e protestos: por que o Banco Central quer mudar o campo de mensagens do Pix - Seu Dinheiro",
+    "resumo": "Declarações de amor, ameaças e protestos: por que o Banco Central quer mudar o campo de mensagens do Pix Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGRnb2JzTVdIbkZIVlhZOVRMVkI1UV9VZjdaV2VnTkUyNDVhUnotejVTWVFrRXRGZGpGLUZFR09GOWFPXzV3N0gyU0JCZUZ4SDA1RlVIRGFkdGRvOElIY1I2cmpOa1JESHYwUFZMaDRCUUFyekU3UldUdERtQVRpOHR4dHJjRGJJSW02V3VtN19hcFk5dUtaRDBxMzFTZE94TVR6aUhJeDc0WnRoSmRj?oc=5",
+    "fonte": "Seu Dinheiro",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "bde0ab369eab45736f7b95a30766f6c68b2d6d6bf5d03d061505b94fe8eb2418",
+    "chave": "f5242300e919c99182bdd52cb1f1174c05ff563f098780cb8644abffe48cf894",
     "ativos": [
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "CNJ e Banco Central criam sistema para rastrear precatórios - correiodamanha.com.br",
-    "resumo": "CNJ e Banco Central criam sistema para rastrear precatórios correiodamanha.com.br",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnZOOWRHUE1GTFZiaTFoT3VYbEh0eDlPb2RULUFkRXBTU19IRU1pV3J3RVM4czhNMVdYRk1hYmQtT1Rwc3ZzY3JIXzNkS2ZmVV9XN08weE1XZE1ubS1CTXJPS2RVZnpCY3FMblRjcGNIdXVpY0l6dEk0anpfdWJhVmNyUGhSOThWb3I2QVFEVFVLaG1rTXhXc2V4VS11RDNnM3VTMnRrT2h3TENjczYtdjl2Q1JabGZFcXhwS2ZUSQ?oc=5",
-    "fonte": "correiodamanha.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0cddc7ebe30df9fe9b576bb8cb00d486caf3b69bfc42599d8aa27267386148ff",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
