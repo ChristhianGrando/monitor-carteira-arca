@@ -1,27 +1,50 @@
 [
   {
-    "titulo": "Dólar sobe a R$ 5,17, com inflação dos EUA e Oriente Médio no foco; Ibovespa cai - G1",
-    "resumo": "Dólar sobe a R$ 5,17, com inflação dos EUA e Oriente Médio no foco; Ibovespa cai G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fZUtaNnVHRi1aQTJiUnVVS1JhaThfYS1TMHBTOVNrNzVuUlRNMEZOSXBEaGl2aWdrdEp6SUtzb2VCZHdTWDhlRXd6Z1VwXzE5ZVkxYWRFQkRDVHdPUVZHQTZwd2F2cHZZcmlTdmpZVnFBMFM5c0k1WtIBhwFBVV95cUxNNV9sRTZuLXNjbkY4d2ZVWlkyLThxTjlqYVlnQTNWY2FhZnY1VFJHWDQ1THlSX1ZicHhsalVrXzlUY0JFREhtX1BZMTBxQWlPUmJPYTRZVWFNcmV5WnZzeGtVdE5URHRmRnl6UXp1ZmgzbVIzMVB6NUFrWkFLaVY0SDYzaTRDUU0?oc=5",
-    "fonte": "G1",
+    "titulo": "IPCA desacelera e fica abaixo do teto da meta - fiemg.com.br",
+    "resumo": "IPCA desacelera e fica abaixo do teto da meta fiemg.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWlFUVGQtVmQ4eVRXa3FINWdsdEZKZXdDV2VYanBRc25ISXB2eDZEYXpFRm1pbklYai0zaGtJLVZQUmlrYlVGb21rR0hrVjZhei1JQjd2Z3UybVJqbVk5eW8zU29GWUE4b05ZZ09XQ1pwSW9zazZ6WHo4dFZLRjBoR0p4ellyLVF0UnBrYXdBb2h3bHhYRFE1TnFNNUVlUEZpVDFEZnJHLWhRZE9kRGFILVhyaVRKNXIwOWVOSlFqOC0zcU5SUW1nU1IzbVhNYXZtaGo4eU5DY3JaUExwTXFpcXFIc1Jkelg1aGV3ZmpPN2JhMk1heW1vRA?oc=5",
+    "fonte": "fiemg.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "417166ee2683ebb858e010068e8a905bfaa90d25e8fe3137bff9f0b7b58fa4f3",
+    "chave": "7ca168f31d1001b2adbe83f3f48be79f51bbaeb7c9700045c48d57760ffbfc46",
     "ativos": [
       "IBOB11",
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 15,
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa tem a sétima queda seguida e dólar sobe a R$ 5,18 com eleições no radar - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa tem a sétima queda seguida e dólar sobe a R$ 5,18 com eleições no radar Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHNXWlNwNTJKbEdrc0ViOV9UOXFFQ0F1TFNveWdPaG5kNUJsakVJdHQyQlNwV3B2aUR3UXFYVHE0Y3k1Q3lQNS1YZzdyaWxyMWNpcTU0LVlXaHFsSW1LM2JJWnFqazRWWDcySUVHRHROLWZENFZxY21tSlNFVWM5SHV5X1BmR3BXUE9nYUluc25Nc1NOT1lUa1ZubDBwMEY3djBuQUE4dkVneEo3cnBGVWlkTUVsTFg3YUl6V3FGNNIB0wFBVV95cUxNUGduOUhWanNzeTdpbjBHN0dieW5NZnY1b1lJaGNldXdQOGRvTkZqY3VRYWhQaWwtZFJGVzZDbzl5Sk5feExSRUp4Y3ZBbEQ0TWZoMDFlS3VDWTFnSHVBWHlVUVQyOWMzTHAtelZfRWxYU0FOQWlsN2VOT2Z6ak5wN0V4NklhekJMVWh6dHlYRm1aMVhvZ3pxZ1ZHYWtveVVoeWFMTUVDOFI5dTJJODdnUHM5X2VraFRsTzAtd1g4WnZDZ082SHpuRWRZRVE3OVV0TDNr?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ee8c7b54e04fb3ee444c7305b52e4ef8ad9ce3ce0823a10e1f1082483a59b72e",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
@@ -29,10 +52,10 @@
   {
     "titulo": "Em NY, índice S&P 500 se aproxima de recorde com inflação amena e otimismo com IA - Valor Econômico",
     "resumo": "Em NY, índice S&P 500 se aproxima de recorde com inflação amena e otimismo com IA Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV3UxY2hEcFBIZlVGVFJkQmkxM195d3BJM3pWQmtrR1lFRGZCSC16YUROUGljcldOOTJOaUFiMFMzcGJndDMtZUs5TUt5WUo1RHU1TlZIWU1pQVNwZEItZndLaHpaVHp4eHJWT3kyRVZacFJBY0xNYXVGVWFXTm41Z2tEREhhNmZJNXhQSVQ0UEx3SkhFYzRpUTdGMEJFdl8zVFA1VGNueFNCYXplaUU4UjIwR1F6NmpyelN5bEd4TjJWM2dRdEkxWGxLblBoOGNLWTZoXzIyMNIB5gFBVV95cUxQdDVXU0Rack9oaWNfSHl3b1h1S2hjNUUtSVhuZ080V3NmWjVpZU1LbmRvQTVLbTFNQ2V1eUIxSWlBb2hJeDBKM2dqLThGbVBvUFlqNmwtQW1MbXBQY3NJVVZiVnMtYk5JdjJDSnh5OFBtNmgzb1NqM004dEZfaXdmRTJuX0xoR3h1WFE4czdJbFdUeXZ0SXhYRkZuZ3hmWUpSVmJYajNVNDBRVDBjN09URHotUVllaTYySm90LWFLdXdXd1JnZ0dRWlVPZFlZM0JUNFlJV1E0dHRoZ0h4NnJ3WS0wOUdIUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdDVXU0Rack9oaWNfSHl3b1h1S2hjNUUtSVhuZ080V3NmWjVpZU1LbmRvQTVLbTFNQ2V1eUIxSWlBb2hJeDBKM2dqLThGbVBvUFlqNmwtQW1MbXBQY3NJVVZiVnMtYk5JdjJDSnh5OFBtNmgzb1NqM004dEZfaXdmRTJuX0xoR3h1WFE4czdJbFdUeXZ0SXhYRkZuZ3hmWUpSVmJYajNVNDBRVDBjN09URHotUVllaTYySm90LWFLdXdXd1JnZ0dRWlVPZFlZM0JUNFlJV1E0dHRoZ0h4NnJ3WS0wOUdIUdIB5gFBVV95cUxQdDVXU0Rack9oaWNfSHl3b1h1S2hjNUUtSVhuZ080V3NmWjVpZU1LbmRvQTVLbTFNQ2V1eUIxSWlBb2hJeDBKM2dqLThGbVBvUFlqNmwtQW1MbXBQY3NJVVZiVnMtYk5JdjJDSnh5OFBtNmgzb1NqM004dEZfaXdmRTJuX0xoR3h1WFE4czdJbFdUeXZ0SXhYRkZuZ3hmWUpSVmJYajNVNDBRVDBjN09URHotUVllaTYySm90LWFLdXdXd1JnZ0dRWlVPZFlZM0JUNFlJV1E0dHRoZ0h4NnJ3WS0wOUdIUQ?oc=5",
     "fonte": "Valor Econômico",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "334987aab00f6c5bcd27e09f85bb24926d7154b4ae6f830f424c487a99fbe435",
+    "chave": "b460e0eebf51d800ca7d2256d89d1f10f4507f58d6d44ff9f63fb7053ca247da",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -51,73 +74,47 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dow fecha estável enquanto Nasdaq e S&P sobem impulsionados por inflação moderada nos EUA - ADVFN",
-    "resumo": "Dow fecha estável enquanto Nasdaq e S&P sobem impulsionados por inflação moderada nos EUA ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFhkeDEzQURYT2dXTV9wZldMSi1KalJTY3dBX1ZYWmw0TkxLZDdGZFc4V3BxdXVSNzU3Z2tsaWhjaVFjWUVQemxKRHQ0N2NtUEluMXFGZk1rOUlKRTU5QmJEemlIeTMzYm5qWW12QU5QZTZZVUo1WW5lNEwxc0FCcDNpak1XekFhSzEyMzNGRUdfMUpNejExYjV1Q3NyNzllV2Y1NUUxbDRtcVFDVWZwbWln?oc=5",
-    "fonte": "ADVFN",
+    "titulo": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA - Money Times",
+    "resumo": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kOWtZbUU3Y2NWY2hJQUtDdk5ySHFvZEh2clFLbVBwSXdqVExMZlpxS2VpTXRGRnFJN0YxYWs4RncwcGQ4RkZQOXp5ZGJFcFpoZXpIWmR4eHRVazVEVDNFNzlURW5VUQ?oc=5",
+    "fonte": "Money Times",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "6c11cfd0e053c9adad2445785b1bfa3705c9569ab759e2661d1889ba46f9599d",
+    "chave": "2ab263e4bcaa4281c9f76d6958e2bca901136e345f25de9362dcdad24d0fd267",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Bolsas de NY fecham sem sinal único com avanço em techs em dia de inflação nos EUA - InfoMoney",
-    "resumo": "Bolsas de NY fecham sem sinal único com avanço em techs em dia de inflação nos EUA InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWpaY2xlMTh3MFFfbFhRa0lRUFljT1ZSNHFOYkZPdXI1WXR5WnQzVmtudW1NTVpYQ0RIaTBYV2J0b2dYcXVFWGJRYnVaZi1lV2NpY2F2enMxa1pVNF9hLTRPVDZuSll3bmxrdTc1Y084SkQxQ1RLdndQc2NkV25DakstSkl6SXNHWFl2ZHNVaXhhenk1T0E1dFFXYU9RUTRnQ09rZWdReUVuV0xpcTd6Nm01TDZnZXlCWE9oVnJB0gHDAUFVX3lxTFB6X0ZJV19KV2dkY0hGTG9iUWtqa09KOUsyaVhNakhxVzdZMUdUcWppejdPQWg1MlIxLUlFemlEeUhYRDd3S0NBNFFPa1Q4eWdFSGtvOXpsSm1VQmcxZDFXX0RxM0g2cFg4cVprYWdrVmtQR2U4N1hoZS1LRHk3ODRyalVKREJTRkRrZzZQOTAwVlFNVDByRkRYd1I4WXBqclpuWTFkTjM0S01EZnZEdjhPcUt2ZU5BUHdxaW8zdE9IZ1ZuSQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "7c7a78e9bf34d0526ba459d6ad6a3e9ec31cc863d42bc5345de323fe5c1cf0c1",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha em queda com eleições, saída de estrangeiros e cautela sobre juros no radar - ADVFN",
-    "resumo": "Ibovespa fecha em queda com eleições, saída de estrangeiros e cautela sobre juros no radar ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2U2NXZNcEtaN3pjN3NOcUlWMDlxMUNFeDdHTTN6cFFocGk2UWdzMWNWRXlXVTkzUW1ZZDBaQUItSW94aUthTWpzWEk5eWFkUXhCZUhXVEE5RkJkdXJhOWFXUFUxN1RmVVdDWmMxRFVyX09CTW9WYlNjUTh4eThuZEp0eUJwMUYyX0JwdkM0Q1ZWRFVMUjJBYTROSk40S0tmaTctWGpQUU5TVXdyRFd4c0NkN0twbkZGR2FyODk3MmNfRVE?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8426b27362be365c005bec7809c186dd113e2d643bcd5f47c3abeaa4aabfa7b9",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Plínio cobra votação de PEC que amplia autonomia do Banco Central e protege Pix - Senado",
+    "resumo": "Plínio cobra votação de PEC que amplia autonomia do Banco Central e protege Pix Senado",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFhlS0FhM0Zsc0Q5NXJBbS03dEdCSTVRNWdZQzVnQkZhUFdJaUFCQ1B0SEpJVlROamNaX2JnckR6Y1VKcGVTaks2RkNNbXRXd2FnS1VUWTV3OXpSei1FY0NBb1lnajZ5NEJnYlhPZmdGYVFTU1lVSi12OEtwWmJFYmYzald4SmducHNqVU13SWtvb0tBVjBiNjVfdUZFaXFJamFjYlpKV1h0eWZSRGFIcVVDQXJ0YkNJeDlDRWdndmkxb19TdjdueW52NF9OSzV6bnc?oc=5",
+    "fonte": "Senado",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "1578ccb30cf7085d6c46fbdc9591604b6848195c2066a7d323cf301203c75c67",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
