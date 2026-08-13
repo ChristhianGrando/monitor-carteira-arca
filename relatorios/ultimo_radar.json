@@ -1,70 +1,22 @@
 [
   {
-    "titulo": "Ações em queda e Renda Fixa em alta: B3, Selic a 14% e IPCA hoje (13) - ISTOÉ DINHEIRO",
-    "resumo": "Ações em queda e Renda Fixa em alta: B3, Selic a 14% e IPCA hoje (13) ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBVUd3TlNjT1JxOHJFZG9WWk4wT2YxcEJ5MEh3UzBCejAxbkhsbXc1ZmRFZWtOY1Y1MXlUZExXcUVLN2NKRFJKYVFUY0dXY2cwVDNnaXF4VjJFOWJSUjFNaDE3LTBnVWdPS3RnV3czZjBBUFg2eU9rWnhvWnA?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
+    "titulo": "Dólar sobe e Ibovespa oscila, após inflação fraca nos EUA e bons dados do varejo brasileiro - G1",
+    "resumo": "Dólar sobe e Ibovespa oscila, após inflação fraca nos EUA e bons dados do varejo brasileiro G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrLUs1UkYzZGU1RkI0d1A3OVIzOWhNdDFNT1I1anZBTkpOOXY2VjlSLUhpM0VsUVdIZG5PYVZjSTNDZFdPMUxZUXktTW8xWDFyR1ZIU2sxREUtY3A0ZmF2V0JWc1VFV0s5V1JKYkdyRFVrbmJfMHVfRdIBhwFBVV95cUxQSzN4RkNNdGkyVVdneVVFQld5SVJYbE9nOHc1MVI5MTd6MUN6ajl0V1JHaF82VHFvUEh0cU9LeUtoUGlRZnZfVnlKSHE0dTl4ZXc4OVpILXZaS3BLQXZCNVZpMnhmVDF2N2tlamlfU0tNeWJEM08yLWJQS1RqUVRIZzdxTmgyVlU?oc=5",
+    "fonte": "G1",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "633d6e90780351b3cdb3356067ab320c3648065070525036a268ad1bb1c12872",
+    "chave": "c427b83adaf840f64e3d05068d385b531ecf1330f4a764fd37f26184cc10e4f3",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central avalia novas ações antifraude via Pix - amanha.com.br",
-    "resumo": "Banco Central avalia novas ações antifraude via Pix amanha.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXctVXRhSU14UXF2elVTZUFZTjQ2YjdUU2dTM1VUdFROaUVucnFZX0FIb0tmbXVCZ2hfcmlKZ1JsWmlyY2NVeHpWYzNkU1NPcUw3R0YtSm5wcDFzcnI1WnZ4bHc0aWVnVG5GQ3JSN1V3YlJBRlZsZnBiOWowdUlNWk13UGlOQjF1R21SQ0dfcVFCd2hMY1I5V2Fn?oc=5",
-    "fonte": "amanha.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ff1f187511fc280af3e9b7402e9acae4cfa143c107e554320047da72c71dc69c",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "S&P 500 testa recorde com alívio no petróleo e inflação abaixo do esperado - Valor Econômico",
-    "resumo": "S&P 500 testa recorde com alívio no petróleo e inflação abaixo do esperado Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzJ5bVkxY1Fqdk9tRG1vLXFQM3gzSE9DaDBxbXd3dDh3LXEyRzljdjZCYUZqVEd4MzZjeWVfZWZPWWstNFRuZ3Y0UWVBSk5wdWp4WVE5RjRTdWdPV1NTWEE3V19FS1pEN01xZmFweVVmU3pOQmxLTnpITDdlcmY5WlRSZ0xoZ3htX0lXYzlHYXBOUXdURkJoVGdKTmtYZ19xTi14SW1RdDBEVUNfOWs5WnZhczE1Z3p5T2dWWGNvRThGbEJYQkswS29xcFZDQ2PSAd4BQVVfeXFMTzNOZ3N3NU9NRUJRT0Z3U3BLaHdoazExV2ltNlY1b2NXdzR2SzcycVYtYmJEMkc0djE3VmJ5SjU2MFZfcTJkUmFfc3FEelpFUjVrdktnenF2WWVUMFN5dzNWdVZYQXkzS0xKLXBJbHdISkFlUVczaU1WRVdoVDJPNGFJbkxSZk50WDdqZmIzM3ljTmhSd2tmem92TnZPcUJLTHNPQUdrSE96cG5NbTh4bU4tNnNoeFpOZm1JOElFaHJ0Q0hMd2ZfNmNOckgwdzZTSHhaN05EcGxhaUFTQk93?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "94c930c085560cebc5e14053dbc37996c0edd7eb46fd07b1f5399b5bbeb65ef6",
-    "ativos": [
       "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -76,10 +28,10 @@
   {
     "titulo": "Tecnologia puxa S&P 500 a recorde; petróleo e inflação ao produtor enfraquecem - InfoMoney",
     "resumo": "Tecnologia puxa S&P 500 a recorde; petróleo e inflação ao produtor enfraquecem InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWc3SDBpaTgwNGJraTVLWmI5TkNwMlhaY1BseFlsRjR6MzdiNEo4dVJqQTl4WFpTaWZxQzBzSzE5bXJkTEpOSm9wb3lHNGRya3ZsYklxN2pSUHl5RVNqa3czQ3ZXaWZIREhqRE5QRklZSW5EODRxVC1VWjNyWUt4RDhmcEt2VHRva0xPMEJEY3JoUUg1czVBTmhPRUY0RFFLZ2dCV25QeU5FajV1bVlaeHc3TGRQUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWc3SDBpaTgwNGJraTVLWmI5TkNwMlhaY1BseFlsRjR6MzdiNEo4dVJqQTl4WFpTaWZxQzBzSzE5bXJkTEpOSm9wb3lHNGRya3ZsYklxN2pSUHl5RVNqa3czQ3ZXaWZIREhqRE5QRklZSW5EODRxVC1VWjNyWUt4RDhmcEt2VHRva0xPMEJEY3JoUUg1czVBTmhPRUY0RFFLZ2dCV25QeU5FajV1bVlaeHc3TGRQUdIBuwFBVV95cUxNSEl3RGZxMG9kRWxVSlZrU21rT3FmeXBKcjdBXy03YUFWTTBSdjlHanQyM2NkeW9hVXZ0M3RrTEpxNW1WNVA3cU5pcVBwZDJsMHZkbGVjOElCOVNwWEZnTlFjRmh5UTB6LTdfcmlqVmhaalNlbzBYMUo5Z0NRZUJLdlhVSUtfUzdNdncxQXJSdTRJQkRtbmo4TFFXQXQ4VHBPeUxwTkpUNlFqT0tNejZTOVJPX19McDVSZGt3?oc=5",
     "fonte": "InfoMoney",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "ca92b115cfb88e55eac0012a7aa739962e3c12904129521d1f257e09219a53d5",
+    "chave": "90d964ebf1c61663e07f8bbeab5d6bef21033b211b97234fb276517533df1b24",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -98,12 +50,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Tecnologia impulsiona S&P 500 a máxima recorde, petróleo e inflação ao produtor enfraquecem - TradingView",
-    "resumo": "Tecnologia impulsiona S&P 500 a máxima recorde, petróleo e inflação ao produtor enfraquecem TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9laHR6eDhNbi1XYWptWHdtMHJaUlFuZFB0WklwVWM3NGd1Vm02VGg1UVJ2MmhGQU1GaUJTZmItcEp1d21iWVhYR1kxNzNGZS1xRUx3QWpYX3lnVVdBNGxfaXpJY21uQmRuQUY3WnNkbG1sQ0xmcW5v?oc=5",
-    "fonte": "TradingView",
+    "titulo": "Wall Street avança após inflação melhor do que o esperado adiar apostas de alta nos juros pelo Fed - moneytimes.com.br",
+    "resumo": "Wall Street avança após inflação melhor do que o esperado adiar apostas de alta nos juros pelo Fed moneytimes.com.br",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PR211QXhrekpEeEpRVmFJb1Y5LUFsUy1fOWptSDI0cTBsRTNPSDNxVUVOb3JHNDhJOXlibkZfem1jX1NfelFSRjhQUTk2SXVjU2t4UXp2dXhuR2ZEc0lxUzRJMG0zNUQ1S0t2VElraEQzUQ?oc=5",
+    "fonte": "moneytimes.com.br",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "fa73b2b0c92b158d7c9e097333f5ee7d1e502996804d081201e0886b4fb0f5bd",
+    "chave": "35de23798913a70b4bd521d1ad8680495caf244fca87b88e9afb69ec7ff32a89",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -113,6 +65,28 @@
       "Caixa / Reserva"
     ],
     "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central do Peru descarta alta de juros por ora - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Banco central do Peru descarta alta de juros por ora Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3hVbTVhLWs4dzdSRzQ4Mnl5OGtNVklqd3UtOHhzY0daR25BSE9ReDV3RmJMNmVLTFhmMHA4R2lvbW13QThzVVRaR2cyVmpaSjlnbGNxQWhBd0JIR3NlMmgwNDJuWW5xTkdxaXQxOEFmZk1oYzZJS1RNbmR2VmZzcUZTcFA3YzBabFBFX2xYcC16VTZtR0U0aEZaTDhjakJhUGZEc1FJZmJZX1Ax?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d3385bc413a4937b7f112391258e985a2a0ac7114f426515d2b8014dae1ed860",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
