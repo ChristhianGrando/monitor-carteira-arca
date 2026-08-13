@@ -1,75 +1,5 @@
 [
   {
-    "data_envio": "2026-07-14 14:13:41",
-    "chave": "7f4b853f8fe57d071fe9f01ff7e80845075247458d61f4df454be5019262717f",
-    "titulo": "S&P 500 e Nasdaq abrem em alta com foco em inflação e resultados de bancos - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NY25leEhOVnFGRFNUQ3Y3Ym9QaWIwYVlObzN1TFlheDJQWjlLdHY4TXRjWmhiY01ia0hPQ0k0TU1peEx4MHI5cEEzX0FoNmdiTzhpN1Z1OFZuMXNJeHRKV1V0LVZYVjBNeXVjVXp5aURkamVPd2Nv?oc=5",
-    "fonte": "TradingView",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 14:13:41",
-    "chave": "fa1a930194372f4d7aa8da17b9406dc42de96a0c6bdc0666852ee6ec8790f410",
-    "titulo": "Abertura EUA: IBM desaba e limita alta do Dow Jones; Nasdaq e S&P sobem com inflação abaixo do esperado - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW5KVmlVZmthd2l2VWh4c0pHYi1jWXpDZ3hpMldxWlRtOXEwbklKejNWUHhQVXN3bXMtZzVJWmNZbHR4UDJVTjRsdlg2SXo4V21QVXNOb3ZKWkl1d211a2NWMjhFZ05TMEtWejFNbl90MlRHRklEdU50UDRtcTh0ajB3amtzX05OamsyOXdjQXNBcUlrclFCS3BYLVh5aEJYcnpKbkxvb3FPUQ?oc=5",
-    "fonte": "ADVFN",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 14:13:41",
-    "chave": "2576161657a58031bd46c83c5704e90766133deb2abc6e7ffd02f6cb18f0b0f0",
-    "titulo": "Wall Street opera sem direção única após inflação abaixo do esperado; mercado eleva aposta em manutenção dos juros pelo Fed - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpYUJFNngzOHJzYVNuS2owNC03YWhhRG5zOEgzN1dGNElHWWZFUlczazNHYm01bzhGM3BPaV9IeWpPbkZRdHJKXzREeEFMM1hNTFc0UVlOVEJ1UTA5dzlScURWbzZHdkRQeVR3b09qbktPZw?oc=5",
-    "fonte": "Money Times",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 14:13:41",
-    "chave": "d4daeca0a20d03fd421bd474bfe229c21a3ed806ec45337f6921f9236806d21e",
-    "titulo": "Banco central da Índia propõe flexibilizar regras de participação em bancos - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3NWQW1aU010SEkzNUxueEUtak53T0VBZFVrX1ZtTzFiZm9ONnlKdF9WSG42ZkVneE11SVlUaEJEandkMUJQVGlxblN3WGdRU05kdFlzZ3JuWF9iYjVkOVp6TzVYNUktRHNvXzBHRGVoa1ZSdFR5RXg0aDlHMlhQQ3p0dXhSdVh3SGRaOEtPOEZSdDUyNDZNT2djWF83ODQ5aENpbVNnX1hvU3I0TGE1NkFsemJmU3Z0Nm9yNGdxT2xPdmU0WGIxeElVNWs2MVdOc3c?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-14 15:46:31",
     "chave": "6879d86465059180b5e2d8fdc994f7d0f78945e7632de897a3f9f9d3484f0375",
     "titulo": "Dólar cai mais de 1% e Ibovespa avança após inflação dos EUA vir abaixo do esperado - Bloomberg Línea Brasil",
@@ -17192,6 +17122,78 @@
     "titulo": "Banco Central multa Genial em R$ 21,6 mi e inabilita CEO por quatro anos - VEJA",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblpINFBnT1JtNEQ5dkF3Zm1oeUY3cWtRTkhTVkM4c1RJeDFoWUVOZTd4WUlUSjhsam1wTFFET3ZzUHQzUDQ4UHFPMkJ0clBiVENTQmNFMWZCRGJwbUhYRTN5M2NadFlxeDdZOUkwTU1fUzF6eXA4RnlXQjlZTHQyYnY1OEdvSF8wR1ZOME9SZVpXMkdfcDNPQVB5YlRlR3dZaHRSNTFObDFaMTc0SUhEZUVRUHYyMXdVOWRUUw?oc=5",
     "fonte": "VEJA",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-13 19:19:42",
+    "chave": "31993517816e19fc12e97f449d07d2ca708aaa1dad9deab3b48244e3f52d0462",
+    "titulo": "Ibovespa cai com dados do varejo no Brasil e inflação americana; dólar sobe - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQmxTYWlCWnJoZWV6aVFLNjFlWnM4d0pTcHduTkZPNExzcTJXc3l5NHptckxpSmhqVlJPTlI5eUk3M21wTnJ2YVd0c0ZoTXpVaHlheVhVRXpPUHhZLTVqZzYtZjZIX2pjaUJiN1dIUlNGQzFHcTFFTW1aZHVqM1VpM3dWQU1SdXM2MWR5dTdWWUQ2anZXVmk3SmJ0Zw?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-13 19:19:42",
+    "chave": "3423d53de326a17841c79becd73c40c6f10d30136aea03094df1b59badd87658",
+    "titulo": "Ibovespa cai com foco sobre inflação ao produtor nos EUA, Galípolo e balanços - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWktBSHhlYnVHV19PbHJ3dGpySmtRTFd2QmhKQkg0V2xwZ0ZEMm9XQUs1a1lIVktRTzhoemhuYXJhZWN6YmNZTnMzY1pPN2Y1N2dZRTRlbS1kSkJ6ZnpsdWZ0RGNNWGgyU182RzVDcEVSVnFPUWhXTmFjS2JpUkR1RkU4UmVQOEpWdGQ0R3Roc1JDNnZyVU9jbnVRWXNweUNxV2pnUjNwZUNCWG8zLVRBMWVrMWxEd9IBuwFBVV95cUxOMXl4THVCX0JxVlUyemhGTkd5ZkRuendlN0laS2d4UmV6LUtGcHQ5a0poMTZuVWxIZWwzU0dNWC1jN1RNSnY4dUdQdW83X29pdmpaLVFxZ0FjMGF6YTZYaEd2WkxyUmowLVp4dVpZU0hZc29kMF9FcUtTaFJNQVJtYUhDRFhwRWhTbXlURENVRlV1dHNRTGU3N1ZQTTdMLWR2ZXRobkYzcjVGUnh1YnJRTFltWjk5Rm1wemxN?oc=5",
+    "fonte": "InfoMoney",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-13 19:19:42",
+    "chave": "e119b7fc85dffc6df9d3953848a7c4185d849feb9aa3ea2cac6c8958543255f2",
+    "titulo": "Selic pode chegar a 13,75% ao ano? Entenda 'pistas' do Copom - Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaTZVUThvSzhuWlRnZHA0V2VvcFVOZWRHcDZmS1FFZWpyR1ZTN0hLbVhJWFI5OE4wVUR4aWR1U19neG5RT1dHYjZaUHBQYTNoa05ycHNkeFpYc185aFhLRUJTMFFNRTRZSXk1b2NZX3pWeEZDbGNtMFJid0xQZGJjTkRUMkd6dmVkS1ZsNEt5UDJZQXFDSm40enMyaUp5RVlQcnNvYktZNC1hQktUUksxbUVPd29LSDNJYmh4M3VtTERtRnRNT2pnWEVZZHhZM25OajJnUENOcWVKVTg?oc=5",
+    "fonte": "Seu Dinheiro",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-13 19:19:42",
+    "chave": "7362680bbf6a2296f297dc3abf4e61c1f85b93e918ac856181e677c8a447906d",
+    "titulo": "Pix pago? Entenda as regras do Banco Central para cobrança de juros e tarifas - ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUVZQUEt3NzFTak1KSVJxMENFMTMtLUJKRmJ6Q0U0a01sMnNMSTJxbTJ1bTNVV2lyempSOGIyYmpKQzNibmk0UUxaRWFsV3ZGdHBVY1AyUUlVOTJqQXROdjNrUERkQXRnbE43cjVmN05zYkZSRm45ejU4V18?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [
