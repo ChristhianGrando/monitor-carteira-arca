@@ -1,50 +1,25 @@
 [
   {
-    "titulo": "IPCA desacelera em julho, mas composição da inflação mostra pressões diferentes sobre custos empresariais - Portal Contabeis",
-    "resumo": "IPCA desacelera em julho, mas composição da inflação mostra pressões diferentes sobre custos empresariais Portal Contabeis",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVUJiZ3dIWE9GTXpIbGs5bnlRX3FwbWoxVnFxdXY3Rk8yTDVCTC0xZW9mNXBYaVdVdUFXS2lnb1ltQWtXUTdYZmk1bl9IN2QyV3c5LTFKbWs2SjBNa1haSThzZm5sQk9HbkdFWkw4TXZuc0tQUlhzTk80WGY3RWNMQUotVTZYUEI4NGYyaVZ4bk02ZFJpaGVEVEN5LTVCUWl1UDJMWjNUcmYtRVU5ZHZvUVNJV3hSMHRpeTcyLThiLUdvdmx1R1IzMjdBZ1o5OWtNdG1GMi1BQWtHUy1jR2pzUWgyZw?oc=5",
-    "fonte": "Portal Contabeis",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e7ff4a0920079d222ce7e7ca7d1a64f61ec092ee7a57381bff8d2517fffecdd9",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "China: Banco central promete suporte à economia - Valor Econômico",
-    "resumo": "China: Banco central promete suporte à economia Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWUlqc3FBd1dFME9OeFE0Ylk3eXpaSnUxMktRVW80RTNYdG1TUng0ZTVlWUxtdGFXQ0NlbEJ4bFpRdHJBQ2VXMVkzQUtzeW81elRRZTZGNjF5WWFIRzlsY2NlcDhaYndNTzc0U1ZQU09ZYkxfb2tzY0xUajdQam1RcGFwZXRmOGlONTFNRmo2VkFWSTFUOWtMZ1dCSXRBRVVCZmlic9IBswFBVV95cUxPVXVPdjNnRjQ4UWZZaDZvazN0eTVMY3pDYUhTbmtTTlVjcnM0azJpdWRlOUdEZ0JFU25ES3ZsYzRwa0lWNFBPM01UV2NaTDRGczZxUzNucUNzRnNSRmZLeHB5VHBYN0hJUDZIWlV6U19qOFZyMjVpamtKNDcyWF9teE9jZW5UbzIxdktYd0ROcmdINFJvUENmdEpid0IwVmdiX3BWNWxRTS1YTW5mcXZ1UXhsRQ?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Banco Central amplia regras de prevenção a fraudes para operações com ativos virtuais - vbso.com.br",
+    "resumo": "Banco Central amplia regras de prevenção a fraudes para operações com ativos virtuais vbso.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcTg1b2RiTWp0TkxTSmZOa1M3QVR4aHpZU0JsLWYzRk1GMGFGazBxc3lwSFUwN0huTlF4SE4zSWtvM19rTS1mYjhhRloyX2RrUEs2R3hEand1dDE3b292RUtRZndTRndXWG1lamU3bnpLcmlvYTY5VnRKQmxtMUFkTDVxYjZOOXhVZG5PeHhzRUlZVWNYTWxhcUhVQnNQNG1sbG1aaUZuMTBqdw?oc=5",
+    "fonte": "vbso.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cf1742b67d5859522ed0313df5ef490d90808cafe31d47bbe3285083672267ff",
+    "chave": "51f9a2e837ea95c3893cfced9b65053444b984151f1ebfde0d12f004fbe7c598",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
