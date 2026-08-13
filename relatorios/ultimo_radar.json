@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Opinião - Bráulio Borges: Não fossem guerra e El Niño, IPCA subiria cerca de 4% em 2026 - Folha de S.Paulo",
-    "resumo": "Opinião - Bráulio Borges: Não fossem guerra e El Niño, IPCA subiria cerca de 4% em 2026 Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUNGRXpUdUtfdGQ1cjhsX3BCZjVreEt5VDZGblJHcjQ2OE9LMnZyMzAtMmtDa3V5aVFkWmZyZDJQNjhPVllkOUZVQUZ1Qk5xdHZQaDVzTTY0aG40YzU2ZVlYVk44VlRLemNwcEVfXzdSZjVmYVNfQ0FDcXI0ZThKaXhrdF9vMi1lSXdJX01kR2REeW1ycUxCMWxBN2xNNnktV3BPQ2ZXQ1dON1dHaHJCWWR3TGN4a1p2X0c2cFByM1JpZEI5?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Ações em queda e Renda Fixa em alta: B3, Selic a 14% e IPCA hoje (13) - istoedinheiro.com.br",
+    "resumo": "Ações em queda e Renda Fixa em alta: B3, Selic a 14% e IPCA hoje (13) istoedinheiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBVUd3TlNjT1JxOHJFZG9WWk4wT2YxcEJ5MEh3UzBCejAxbkhsbXc1ZmRFZWtOY1Y1MXlUZExXcUVLN2NKRFJKYVFUY0dXY2cwVDNnaXF4VjJFOWJSUjFNaDE3LTBnVWdPS3RnV3czZjBBUFg2eU9rWnhvWnA?oc=5",
+    "fonte": "istoedinheiro.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1eafac953d182f22a40e0d0417626fa123da0e75a784a01b03cd2736d849bde3",
+    "chave": "32bfdccd73f0207e9d5c105e94fc65c5f5f460a64ba7693e7dd4dd2c07c40556",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,32 +16,30 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 16,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ações do setor de tecnologia impulsionam o S&P 500 a um recorde histórico, à medida que os preços do petróleo e a inflação no setor de produção apresentam recuo - TradingView",
-    "resumo": "Ações do setor de tecnologia impulsionam o S&P 500 a um recorde histórico, à medida que os preços do petróleo e a inflação no setor de produção apresentam recuo TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XOVpmM0NoOEhJd1R6Mk4zVW9fTTF4VmZUZWVQZWJOSWNiNTVJdnphbU9HZEFhOW91Q281SV81X0FEa3VlOFNQV1N1U084UTBERG5kNm93RlFHQnZoelJ6T3lxd2drZm5GSlFza193Z1dMNnhXSktJ?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "7964dfe873ed266f129f9ed7500ba2fe5b5218eaec1a063ccf824521b9481b29",
+    "titulo": "Banco Central multa Genial em R$ 21,6 mi e inabilita CEO por quatro anos - VEJA",
+    "resumo": "Banco Central multa Genial em R$ 21,6 mi e inabilita CEO por quatro anos VEJA",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblpINFBnT1JtNEQ5dkF3Zm1oeUY3cWtRTkhTVkM4c1RJeDFoWUVOZTd4WUlUSjhsam1wTFFET3ZzUHQzUDQ4UHFPMkJ0clBiVENTQmNFMWZCRGJwbUhYRTN5M2NadFlxeDdZOUkwTU1fUzF6eXA4RnlXQjlZTHQyYnY1OEdvSF8wR1ZOME9SZVpXMkdfcDNPQVB5YlRlR3dZaHRSNTFObDFaMTc0SUhEZUVRUHYyMXdVOWRUUw?oc=5",
+    "fonte": "VEJA",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4cfae00b897841ffc4fd0c475dd2d783a15d2ad5727f2012a3733ba162226561",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
