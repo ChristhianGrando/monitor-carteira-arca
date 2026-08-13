@@ -1,39 +1,5 @@
 [
   {
-    "data_envio": "2026-07-14 15:46:31",
-    "chave": "68182a09aceebad8137dd7ca189d05dccab5bc7430f4b3ae26b3c427d0747629",
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com CPI dos EUA e guerra em foco - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkdaQkRsbnVkZTNfX1cxTEpNRG4wazBrZExtTUxGbW9WaVJReGZ6WWt6bDN3emFNbnl1aGZvTlFPWGtEb3dwb2lZR0Q0RmFsaEZlX2hQZzJXWjh0clY1dnlzbWlVUldNVnlaS0VJUThfZDVjb2JiVGY2SURKV25rRWNnT2lVMGZncG9ZcFRjbw?oc=5",
-    "fonte": "InfoMoney",
-    "score": 10,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 17:34:26",
-    "chave": "7db1c3793f469d0ace767b5fc2a0357f9177571337acef5c5a5ba050982a2908",
-    "titulo": "O S&P 500 e o Nasdaq sobem com dados de inflação fracos e resultados bancários que impulsionam o otimismo. - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TdWxkMG9vQ0xPS0laYXVDVDdZNUlrVk9sTnA4U19lbDQ5YllCUTFDQnBlNWpaLUZ2cl9wUHZiNWxDUE9MTmoxMXdkRm1lSWVxR1JDQnp0N2p1cWZPZkI4WGxkS3Z1TXRJQ0tEbEZjMTl5QXlXMVJn?oc=5",
-    "fonte": "TradingView",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-14 17:34:26",
     "chave": "8482cbc91d24a767028e71e91b7482e0f9b3bd69fc21dd0114ce31f3a3ba1cb0",
     "titulo": "Presidente do Fed Defende Independência do Banco Central e Resiste À Pressão de Trump - Forbes Brasil",
@@ -17184,6 +17150,38 @@
     "titulo": "Pix pago? Entenda as regras do Banco Central para cobrança de juros e tarifas - istoedinheiro.com.br",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUVZQUEt3NzFTak1KSVJxMENFMTMtLUJKRmJ6Q0U0a01sMnNMSTJxbTJ1bTNVV2lyempSOGIyYmpKQzNibmk0UUxaRWFsV3ZGdHBVY1AyUUlVOTJqQXROdjNrUERkQXRnbE43cjVmN05zYkZSRm45ejU4V18?oc=5",
     "fonte": "istoedinheiro.com.br",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-13 22:03:03",
+    "chave": "78d1e459b2e84ac5b3b4d9368d3020b02b4207afb0e207122997d1e29c628cf1",
+    "titulo": "Ibovespa fecha em queda com Hapvida despencando, PPI dos EUA e tensões em Ormuz - trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmVZRS01SlFoZHpFclRkNWxTeGMyVHVlMVB3RTNOVFYtOWV5OXJNd3d0TjlNcU1tRDFPTWxrb08xUjhucG5ZSE5pa3FteWVKUmdMdGoyUzNHalZmUVlRTW9xMEFBR3pSbnB1LTVDMTk5cmYxRVRsc3JBOWxrdkVybFpzNkc1UFRVb09BN1FQai12WmhLMEgwOHNJYXo5Wk5XVnI5YWx5MjlFTHZzRzBZ?oc=5",
+    "fonte": "trademap.com.br",
+    "score": 13,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-13 22:03:03",
+    "chave": "6d262d12f775be0e8f0421f89daa8ee9eaf711befbe66d338f5bfe4d0cf6673a",
+    "titulo": "Plínio cobra votação de PEC que amplia autonomia do Banco Central e protege Pix - senado.leg.br",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFhlS0FhM0Zsc0Q5NXJBbS03dEdCSTVRNWdZQzVnQkZhUFdJaUFCQ1B0SEpJVlROamNaX2JnckR6Y1VKcGVTaks2RkNNbXRXd2FnS1VUWTV3OXpSei1FY0NBb1lnajZ5NEJnYlhPZmdGYVFTU1lVSi12OEtwWmJFYmYzald4SmducHNqVU13SWtvb0tBVjBiNjVfdUZFaXFJamFjYlpKV1h0eWZSRGFIcVVDQXJ0YkNJeDlDRWdndmkxb19TdjdueW52NF9OSzV6bnc?oc=5",
+    "fonte": "senado.leg.br",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [

@@ -1,83 +1,35 @@
 [
   {
-    "titulo": "Em NY, S&P 500 renova recorde com inflação abaixo do esperado e alívio no petróleo - Valor Econômico",
-    "resumo": "Em NY, S&P 500 renova recorde com inflação abaixo do esperado e alívio no petróleo Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTmRrWVV3SWx5UHl5UHhVMjlEUzlwREdZNWVsZXd6bDVjbzlKV09WWFMxTVRJZlJGcFNqS3AxUjVwelhKSVFrdFN1RGJOMTF0THZDOUI3TzFPUGN4SzU2X3VZUkRoaGxRX0YxSzdmeU1WNW9BYWVuZFJLdXJUeUlmamJ5aVNINUxXckpoS3JnVG9HNlNjQW1pZnpqYURRcldXYlF5eThPNG10UnQ5bWtYZHBzNUlCUmVUUE5UVTRyRERzbEM0aTdBbF9SMDdIc1MwZXFKOVB3bnTSAecBQVVfeXFMT3ZhNEh0TGhWc0kwMmRvWUlhNy13dTVGbi1RSWpOZklMeHV2UUR5V2J1MzRwR2Y2cS1yNC16allpZEJCSlRSSG9rb0RuRWd3SHBsR181RzN4WE9tbUJsTDFyZmpfRUhaTHJsLWVrTnhqZFpXbWRsNjZqVlFYMmVJc1Myc2d2M3QzdFZBOE5ra3E4cHdnWlBwMjZFaDh1U0hMeGJTclI1Wk9fdUo2WENKeFZXcV8tejB1RHNydzc2ZERYTVd4U3Q5NldLa2RoM2xxUko2Q0tQQzFmOEJ2eHVHQ0pSMWhjVmY0?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "662a3115da1ee399e96ac7c036b1e45830ac86c5cbcf6b28a4a04503d5a7d992",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Wall Street sobe e S&P renova máxima histórica após dado de inflação nos EUA - ADVFN",
-    "resumo": "Wall Street sobe e S&P renova máxima histórica após dado de inflação nos EUA ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc29XSDQ4czJtOEJfdzYwWTlseDl3UFlVTHhvWFlxbVRqRGlmV2gzTjVPaVQzSExhSHBMSm9UajRJdVlXRVFXUEZ2QU9MVXp5MTNsX0dGaldPd3ZwSnZiZ1R5QUpYSGRXQWxGRXoyMGZzNXJrMXRvdGlvM211UFdGOXNDTTh2VXhlZUs1d3UzMEpjQUxnZUduSmhqUHpVazFFaEw5cHlWb1g2NFBMUkFxemJ3?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "3e5cc463f87c7e39afe3d7cb3bba9c768d9ae6e0dc0ebf7b34922e0bc41806ec",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "ATÉ O “MERCADO” DISCORDA DA FALTA DE FISCALIZAÇÃO SOBRE O BANCO CENTRAL, PREVISTA NA PEC 65/2023 - Auditoria Cidadã da Dívida",
-    "resumo": "ATÉ O “MERCADO” DISCORDA DA FALTA DE FISCALIZAÇÃO SOBRE O BANCO CENTRAL, PREVISTA NA PEC 65/2023 Auditoria Cidadã da Dívida",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkJTeFVFcVFNelNBSEtSN0NFOGdXYVFLMXpPZEZ1VHI3NF9yT1R5LXNrVlpUQm9VNk4wb0s1Wnc1OTA2bkZoX1RqMlZrNnVwaVdNRWNES0FzNmpKUU1kWFpsXzlLOV9wcV9NZ1JhY1dYM3FwS3did2p1bEpEd3ZWcDk4ZzBBZl9PcWFCNE9IVjc1bzVCa0ZfN0hNMkZuM2xVMDhoUm9YNVVqLVhJbkFRYnk0NkZNTUs0VjFKR0RyRmljNERiYVJMUW9IME91MzQ?oc=5",
-    "fonte": "Auditoria Cidadã da Dívida",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "05fcefaeb8616aab4cc3eb6c2bcbeac8289a99594f1a80b9f94a332fc40497d9",
+    "titulo": "Ibovespa fecha em queda com Hapvida despencando, PPI dos EUA e tensões em Ormuz - trademap.com.br",
+    "resumo": "Ibovespa fecha em queda com Hapvida despencando, PPI dos EUA e tensões em Ormuz trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmVZRS01SlFoZHpFclRkNWxTeGMyVHVlMVB3RTNOVFYtOWV5OXJNd3d0TjlNcU1tRDFPTWxrb08xUjhucG5ZSE5pa3FteWVKUmdMdGoyUzNHalZmUVlRTW9xMEFBR3pSbnB1LTVDMTk5cmYxRVRsc3JBOWxrdkVybFpzNkc1UFRVb09BN1FQai12WmhLMEgwOHNJYXo5Wk5XVnI5YWx5MjlFTHZzRzBZ?oc=5",
+    "fonte": "trademap.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "78d1e459b2e84ac5b3b4d9368d3020b02b4207afb0e207122997d1e29c628cf1",
     "ativos": [
       "IBOB11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 11,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pix pago? Entenda as regras do Banco Central para cobrança de juros e tarifas - istoedinheiro.com.br",
-    "resumo": "Pix pago? Entenda as regras do Banco Central para cobrança de juros e tarifas istoedinheiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUVZQUEt3NzFTak1KSVJxMENFMTMtLUJKRmJ6Q0U0a01sMnNMSTJxbTJ1bTNVV2lyempSOGIyYmpKQzNibmk0UUxaRWFsV3ZGdHBVY1AyUUlVOTJqQXROdjNrUERkQXRnbE43cjVmN05zYkZSRm45ejU4V18?oc=5",
-    "fonte": "istoedinheiro.com.br",
+    "titulo": "Plínio cobra votação de PEC que amplia autonomia do Banco Central e protege Pix - senado.leg.br",
+    "resumo": "Plínio cobra votação de PEC que amplia autonomia do Banco Central e protege Pix senado.leg.br",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFhlS0FhM0Zsc0Q5NXJBbS03dEdCSTVRNWdZQzVnQkZhUFdJaUFCQ1B0SEpJVlROamNaX2JnckR6Y1VKcGVTaks2RkNNbXRXd2FnS1VUWTV3OXpSei1FY0NBb1lnajZ5NEJnYlhPZmdGYVFTU1lVSi12OEtwWmJFYmYzald4SmducHNqVU13SWtvb0tBVjBiNjVfdUZFaXFJamFjYlpKV1h0eWZSRGFIcVVDQXJ0YkNJeDlDRWdndmkxb19TdjdueW52NF9OSzV6bnc?oc=5",
+    "fonte": "senado.leg.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0895ca2d7c2454c65608c91ffd6a29b6e029aab0d6f5d489c41078ea10e878d5",
+    "chave": "6d262d12f775be0e8f0421f89daa8ee9eaf711befbe66d338f5bfe4d0cf6673a",
     "ativos": [
       "CDB 100% CDI"
     ],
