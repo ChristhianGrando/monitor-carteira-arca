@@ -1,25 +1,26 @@
 [
   {
-    "titulo": "Banco Central amplia regras de prevenção a fraudes para operações com ativos virtuais - vbso.com.br",
-    "resumo": "Banco Central amplia regras de prevenção a fraudes para operações com ativos virtuais vbso.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcTg1b2RiTWp0TkxTSmZOa1M3QVR4aHpZU0JsLWYzRk1GMGFGazBxc3lwSFUwN0huTlF4SE4zSWtvM19rTS1mYjhhRloyX2RrUEs2R3hEand1dDE3b292RUtRZndTRndXWG1lamU3bnpLcmlvYTY5VnRKQmxtMUFkTDVxYjZOOXhVZG5PeHhzRUlZVWNYTWxhcUhVQnNQNG1sbG1aaUZuMTBqdw?oc=5",
-    "fonte": "vbso.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "51f9a2e837ea95c3893cfced9b65053444b984151f1ebfde0d12f004fbe7c598",
+    "titulo": "Dólar sobe a R$ 5,17; Ibovespa cai 0,22% - brasilagro.com.br",
+    "resumo": "Dólar sobe a R$ 5,17; Ibovespa cai 0,22% brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWNHa2VUNmtKc2VLSnpQR1VmczlvVHJxcUxMMDVpbXhmMzZDUjg0d1RCdmJMRkI1Y19kMmw4aENzQ0NLWHFDZ1RwT3Z1czBaa1BtNi1NaHNhQ09GaVpTelVEbm9sckZINDR4ZVVhMWRKc3M2RUY3Zmxwa0dsSDlyWHhNZ2RUUQ?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7339d95133d914b48bc75c21d896071f79bbac1e960d593e88359888694d552e",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 14,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
