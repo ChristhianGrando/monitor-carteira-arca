@@ -1,46 +1,29 @@
 [
   {
-    "titulo": "Banco central da Noruega mantém juros em 4,25% ao ano, mas acha alta possível - Valor Econômico",
-    "resumo": "Banco central da Noruega mantém juros em 4,25% ao ano, mas acha alta possível Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNkNPTEw4ZFVaY3J5dmdoNWpnWmNhNUItQlZ6WVpOUE5Zd2ppQV9sN040TnYwMW8tWm43cnhMNkFLdDZEeFVLbXZ0aDF2SFBOUUJNc211VVJvU3B6MVE2RmZrWExTaFM0NGE2YkRvRlFsUFlabkVfc3piSUw0SUZuS180aFZ1WnlfZzBHdTJEbjlpN2FwZEI0TmM5aTFnTDI5TzBYblpmTHpjQmxpaVFodzdCSUVCNUZDenNTNllFVS1DMUx2MXFPcG56Q3owcC1JRVHSAeABQVVfeXFMUEViQUxDcWlpUjFiMDBqZ0VTbTVsbHFGMHpxSU94UllWTktzTUYzNTJWZGYweWc4OGJobVMzNld5bUYtbG02dldqNURxUEc2Y3gzZ09WU1Z5ZFN6SzdpVDM5ZU9Jemd3NWQ0UEVQQU9jMW5NdFJ1MnIwTFJHdmVfay0zYkF5MXlqckNxOVVBb0VsNVJsNFpjNUNJR3RoVnhldTVlcVozSXNPelZyY3kxRUZBNFo3eUtkNTZnb0c0b2M5NUs0V200SV94LVQtVmNWcTFoWFFNTFlJek5XNkdVRTE?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "226e66778666ed843cfc7dbf09a1579e8793c3ef0029e62ce45f0de130b8cd70",
+    "titulo": "Corte da Selic já está na cota dos FIIs? Veja o que pode mover os fundos agora - InfoMoney",
+    "resumo": "Corte da Selic já está na cota dos FIIs? Veja o que pode mover os fundos agora InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1gzS01QYVZMZTFneEdNR2YwbFplN3d1a3VaaEtWNnNfb1VKckpGY2xzemtMSFVJVXNEaTdfNmMzVkhUV3Z0Mm02SGlDV2E3VV9aOTlkMjhyTWtEcC1LYzEtb0tEYkxxaHRZVUVCM0UxOEgtS2RaeUc1SEdsaHo5OS04Nm5vdFQwVUgwdVlXMVNmNVFoTzdiT29XYXlvdjY0cTFhQWRTejNRdmlqVzdNbEptWHNEME3SAbwBQVVfeXFMTlpTMW15NlhlZFRLTVpyLVh6RUdqcVNnblpFN2xfYWdORWZfRlh5R0pNSVF6OTdEdW9RSlZQVHRLQnZuMHEyMmpsSDFHeGNrZzhTeURUQnRHaDNSNERtOWFYYlc1LWZQNGtOcDdoMXVSX2sxM005VUdnbFE3a3l5bHc5SmZvck4xZEloZ05zaW5ZQUl0UmgxZnNmdWJBaW90a3JzdzdZSGs4Ti14eTJLVWJXZUw0dWlYeFh6VVY?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "61c8179e6737f224dcc73c93f70d419eac513c39e9609c974659939956296ef3",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco central da Noruega mantém taxa em 4,25% e sinaliza mais altas - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central da Noruega mantém taxa em 4,25% e sinaliza mais altas Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONENZczBFMnQxdjJNaFRsWWk2Zk1UanpKQUdVY3Vyb09BWWljcVFpY3M0Q1FEUVEzUXNIQXpNeDdYNmNFVnotVDZmQ0xZRjhJd0RFNzQ3N3ZSUWpDR2IyN0FyeDc3S1A0NEpUZXN4UHNiNDdvdGE5cnBZTWJzT29yVDMxaTBWSEQ0VnFKeEpuOHVTRmZsbzQtZDZ5VDdEV2QzWHhaZkRIMWJLb1BJcl90bWNqUTA2VlFzOUZhdVFB?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2bbab42e1616e143e112eea165779a7b5a6a5c854a38709e2ded4f45e8e8cff6",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
