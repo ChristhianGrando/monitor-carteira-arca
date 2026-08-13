@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "titulo": "S&P 500 fecha em novo recorde, impulsionado por dados de inflação mais fracos e queda nos preços do petróleo - Times Brasil | CNBC",
+    "resumo": "S&P 500 fecha em novo recorde, impulsionado por dados de inflação mais fracos e queda nos preços do petróleo Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc08wMVllNkRoY0dKdzNZLTdpRTl3b05CbnlBc1pUU3FnNnlwbjNNN0FIZ3pPZ2liMkZCMkY4M3V1Tm51Qk5MN3hfT19lQ01oRHlWejRFMXQ5WlpnbVhMaUtRY20tS2JaTTlCd0NNd0ZkRElVVEliRmpmTUVVUHJaMGp1U2JFSzNOckNlQ2RrYmZFRTlUUVVSX2pXaDJlSjg3a3NYdnhSVVVpeHJhcXZmMTJqYUJkQzRieWpBLUNKc2VTVFUtTWk0M0hTbHk1cnl1NlplTlROdk1XZlRaM3UwdFBCemRpWnpudnVJQi1PdVo?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "4738d0bff849568638e6be0056a977721d27deaedd302710d5208699c2856004",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
