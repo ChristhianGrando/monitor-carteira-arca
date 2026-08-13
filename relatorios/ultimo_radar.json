@@ -1,29 +1,73 @@
 [
   {
-    "titulo": "Corte da Selic já está na cota dos FIIs? Veja o que pode mover os fundos agora - InfoMoney",
-    "resumo": "Corte da Selic já está na cota dos FIIs? Veja o que pode mover os fundos agora InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1gzS01QYVZMZTFneEdNR2YwbFplN3d1a3VaaEtWNnNfb1VKckpGY2xzemtMSFVJVXNEaTdfNmMzVkhUV3Z0Mm02SGlDV2E3VV9aOTlkMjhyTWtEcC1LYzEtb0tEYkxxaHRZVUVCM0UxOEgtS2RaeUc1SEdsaHo5OS04Nm5vdFQwVUgwdVlXMVNmNVFoTzdiT29XYXlvdjY0cTFhQWRTejNRdmlqVzdNbEptWHNEME3SAbwBQVVfeXFMTlpTMW15NlhlZFRLTVpyLVh6RUdqcVNnblpFN2xfYWdORWZfRlh5R0pNSVF6OTdEdW9RSlZQVHRLQnZuMHEyMmpsSDFHeGNrZzhTeURUQnRHaDNSNERtOWFYYlc1LWZQNGtOcDdoMXVSX2sxM005VUdnbFE3a3l5bHc5SmZvck4xZEloZ05zaW5ZQUl0UmgxZnNmdWJBaW90a3JzdzdZSGs4Ti14eTJLVWJXZUw0dWlYeFh6VVY?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "61c8179e6737f224dcc73c93f70d419eac513c39e9609c974659939956296ef3",
+    "titulo": "Banco Central avalia novas ações antifraude via Pix - Grupo Amanhã",
+    "resumo": "Banco Central avalia novas ações antifraude via Pix Grupo Amanhã",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXctVXRhSU14UXF2elVTZUFZTjQ2YjdUU2dTM1VUdFROaUVucnFZX0FIb0tmbXVCZ2hfcmlKZ1JsWmlyY2NVeHpWYzNkU1NPcUw3R0YtSm5wcDFzcnI1WnZ4bHc0aWVnVG5GQ3JSN1V3YlJBRlZsZnBiOWowdUlNWk13UGlOQjF1R21SQ0dfcVFCd2hMY1I5V2Fn?oc=5",
+    "fonte": "Grupo Amanhã",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ae7ed89765a11a62575713fc2b74c8f6abed78c5d4fc27f2c543081caf4254af",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Wall Street avança após inflação melhor do que o esperado adiar apostas de alta nos juros pelo Fed - Money Times",
+    "resumo": "Wall Street avança após inflação melhor do que o esperado adiar apostas de alta nos juros pelo Fed Money Times",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PR211QXhrekpEeEpRVmFJb1Y5LUFsUy1fOWptSDI0cTBsRTNPSDNxVUVOb3JHNDhJOXlibkZfem1jX1NfelFSRjhQUTk2SXVjU2t4UXp2dXhuR2ZEc0lxUzRJMG0zNUQ1S0t2VElraEQzUQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "548352b417199a7e3f6f86b06277ee5b3f0bb8e4c99e68383f648d1a328698ec",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "S&P 500 e Nasdaq abrem em alta após dados de inflação e com impulso de balanços - UOL Economia",
+    "resumo": "S&P 500 e Nasdaq abrem em alta após dados de inflação e com impulso de balanços UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczliUldlWDFjNDdMZ0dIY3NLUkItWlVIWE1lTFVXaDNmQ3JaWjIyaXFSc2xMcEVaYzZEWkhBXy1TYkpyb2J0cDZQVDctLUI0RU5UZnJTZVlqZHJScFd0Vl9DQ2pacm5iYUU2ZFpfUlR6VV9DMXpmd19ZbXU2THB6SG9PMFV4RE9fSDdJVVB4R3ExME1JQ2FpR0duUk9TZFFsVjVGTUxsRVAteU5ZcHNNWVMyXzJxZHJNbkxiOFVOUHUxcnMtMktsdThSZlh3cVBDT3V6bA?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "40b2c0aa21d2e4a3ec20c38aff55daf92b5c8b877a0aa3bd62fdebefdbd8bac9",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
