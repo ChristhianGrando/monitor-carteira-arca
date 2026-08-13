@@ -1,11 +1,38 @@
 [
   {
-    "titulo": "Em NY, índice S&P 500 se aproxima de recorde com inflação amena e otimismo com IA - valor.globo.com",
-    "resumo": "Em NY, índice S&P 500 se aproxima de recorde com inflação amena e otimismo com IA valor.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdDVXU0Rack9oaWNfSHl3b1h1S2hjNUUtSVhuZ080V3NmWjVpZU1LbmRvQTVLbTFNQ2V1eUIxSWlBb2hJeDBKM2dqLThGbVBvUFlqNmwtQW1MbXBQY3NJVVZiVnMtYk5JdjJDSnh5OFBtNmgzb1NqM004dEZfaXdmRTJuX0xoR3h1WFE4czdJbFdUeXZ0SXhYRkZuZ3hmWUpSVmJYajNVNDBRVDBjN09URHotUVllaTYySm90LWFLdXdXd1JnZ0dRWlVPZFlZM0JUNFlJV1E0dHRoZ0h4NnJ3WS0wOUdIUdIB5gFBVV95cUxQdDVXU0Rack9oaWNfSHl3b1h1S2hjNUUtSVhuZ080V3NmWjVpZU1LbmRvQTVLbTFNQ2V1eUIxSWlBb2hJeDBKM2dqLThGbVBvUFlqNmwtQW1MbXBQY3NJVVZiVnMtYk5JdjJDSnh5OFBtNmgzb1NqM004dEZfaXdmRTJuX0xoR3h1WFE4czdJbFdUeXZ0SXhYRkZuZ3hmWUpSVmJYajNVNDBRVDBjN09URHotUVllaTYySm90LWFLdXdXd1JnZ0dRWlVPZFlZM0JUNFlJV1E0dHRoZ0h4NnJ3WS0wOUdIUQ?oc=5",
-    "fonte": "valor.globo.com",
+    "titulo": "Fundo imobiliário ou renda fixa? Compare rendimentos após a Selic cair para 14% - infomoney.com.br",
+    "resumo": "Fundo imobiliário ou renda fixa? Compare rendimentos após a Selic cair para 14% infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHRtTzlydHBvZWxXdlJXdFBGSFJVNndqRy1VYk4xbldfQTBkT0g3S2ljT1oteEpFLXhXMnhfNElWVTd6NzE3NDJtLThkQ01TYVVsOWpnS3V2dUlfcl9lSEVrOXJLNlYxN1B2SE44Ums2bHBUdXhWbk12cTBxSnVDUEhub0lLbWJ6LWc1cUF0bmJ2UDQxdGFaN014cmdPN1FObFVSeWViMWFFb0JjdmlrLVFrd1JMV1Q2ZzdZNEF30gHDAUFVX3lxTE5wQi1MQVdYNlZjN1Q3YXJYd1lMOGdBazBOSDFZQTNNX3VfTjQxd2p0cGpSdmxtVVgzS2wyYWt0dXRfOFU1cktqOGdKdnlYNUhaOEdReUo3MFpfRjJvd2toUkFqcEEydTBtQ0hVQ1g1MjNaWkxVYnpXVGswYjFCcW5qSU5fOEUzUmdPejM5R2h3UGpHV3VlaUd6V3M3b1hqR0FUcHpscElkd1VHbTJ6dHp6VEVSMl9JMlI3Ukd2ck9XZUNFWQ?oc=5",
+    "fonte": "infomoney.com.br",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "8de9f7c50e78cd4e9209bdbd2f16e6772136331dc2fa5320f33025dab5596b99",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA; S&P 500 volta a se aproximar de recorde - Money Times",
+    "resumo": "Wall Street fecha em tom misto com inflação em linha com o esperado e ações de IA; S&P 500 volta a se aproximar de recorde Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kOWtZbUU3Y2NWY2hJQUtDdk5ySHFvZEh2clFLbVBwSXdqVExMZlpxS2VpTXRGRnFJN0YxYWs4RncwcGQ4RkZQOXp5ZGJFcFpoZXpIWmR4eHRVazVEVDNFNzlURW5VUQ?oc=5",
+    "fonte": "Money Times",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "ca3354e6e83f47636b709909e1a57a391364cf10c27c38a146ccc8c85b75ad9c",
+    "chave": "fb7c99a38be4cd77c8a6769b1810386aa3e01be93ab4de1ab5e7f4e13f9721ce",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -24,12 +51,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "CNJ e Banco Central ampliam proteção na negociação de precatórios - Portal CNJ",
-    "resumo": "CNJ e Banco Central ampliam proteção na negociação de precatórios Portal CNJ",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3k0SHFwLWhNYkU2bnZHd3YzR2ZndUs5emRwQU00MmhGWHZUdkFrVWVEQTEyd3psRndQb0JuaFM3eldveWpleTVsYlQyTHlWLTBSVjlPelJ5c1E0ZE5zVlBCOTlldi03UzhldFl4SXEyUmU1a3hKN3RmYXdTbUh0YlN1alBvS3l5a2QzMEMzTE1LM0U?oc=5",
-    "fonte": "Portal CNJ",
+    "titulo": "CNJ e Banco Central reforçam mecanismos de proteção na transferência de precatórios - stf noticias",
+    "resumo": "CNJ e Banco Central reforçam mecanismos de proteção na transferência de precatórios stf noticias",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVklCS1pRSUN5eEFTVW9HekNjNy1Oc1gzTlJuQ1M3U0pxV1l1eW5UNHZZeVhzTURfVFdwUVRKWkRSN0E5Z3JBUFpJU1pwcW1qZDR0SC10aTB1ZkFHemo2WEQ0bFdpNWExQU8zYWpYVTh5SGdOMk55Mi01czlVWXFKdHNGVElxSlhYUlNGMVpMUS1rdlZtenU1cWpsUWxYVGZCTm9Ha1NmckVlNkdWSC1ZbFhMSjAwNVJxOHFz?oc=5",
+    "fonte": "stf noticias",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "9865f4c3a8ab2823a9c6ed850b4f1cc991ceae589d7918013986d4a35af59f09",
+    "chave": "cd96c3bc84fcc794a7e32a6f03055437804688c88954eb9b146f7f6e065b8bd7",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -43,49 +70,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central multa Banco Genial em R$ 21,6 milhões e determina inabilitação do CEO - JOTA Info",
-    "resumo": "Banco Central multa Banco Genial em R$ 21,6 milhões e determina inabilitação do CEO JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnVvaGtLOGpJTkQzTXI1b2VFcXFMWEZaVkh1Ymp6Yk5xUnlWbTliZWdMTUZMRFloeHRPdnZxNFo2YTZMR1ZDalNkMDM5WVVNdGxQQ2ZhQVRFWF9od1Yya1BELXRGeHZmWlNwRk5WTlVvUkpOVmh6dVprS2RKaXQwdmZvdkVZNW1nODkyY2ItajVhSHFudW5lWXV1ZlVhS3Jqd3JyVDNYNXh3c3ZEMVlxd0ticw?oc=5",
-    "fonte": "JOTA Info",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2f77c436beaab405f1b8574d9c03fa1d3cf8fca3af71e882d54678a67a1c27e4",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha em leve baixa após despencar em pregão anterior - veja.abril.com.br",
-    "resumo": "Ibovespa fecha em leve baixa após despencar em pregão anterior veja.abril.com.br",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR29DV09ZQnNsY21RUUpVZkQ1N0Q3bWZHWlVxMDhLSWprQlI2N1pIcUZHQ1RseFAxMWR1dGhmQy10Tnp1dWQwQ0ZsNEM2aDJRLU9jMWl0QmJMcy1qd2VwWGY0SlY3MG5CWEFjcDBKUGhKYmNDVmp1LXNXc0V0Z21ia3luWkFFbHMtZTB5eE1NMFlGUzhWVndFcGtmMEpGd0k?oc=5",
-    "fonte": "veja.abril.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1fb025dd0e8955d1bd20f3eb36772f92a3d6c39084f52b9443e3f2da2caaccd6",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
