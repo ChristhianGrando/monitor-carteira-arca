@@ -1,77 +1,5 @@
 [
   {
-    "data_envio": "2026-07-14 21:15:17",
-    "chave": "90d755d5dc3ff6e7ea3fa2bcb8a4d8fa999bb00d109e89f24a105c724e34e85a",
-    "titulo": "Wall Street tem alta após inflação abaixo do esperado reduzir apostas de elevação nos juros pelo Fed - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aNnhCU3dzQV8wMUctaVNqWGdvMkJMc0V2UlNmQ3R3U254UlZKNDFVQmRaOHk1RHFWZnhHTTBPc2F2Wk9sV000M1hpZ2V1bFBnTWcydWw3dE1ib0phYVdxZlJMWTJUQQ?oc=5",
-    "fonte": "Money Times",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 22:15:11",
-    "chave": "9bde05535938f710667f1162e82c8d26d6889ddc4906c4dcdf0e534a02feedda",
-    "titulo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0cXZROF9YNGRnc3VjaVVwT2p3a0N1SDR3cVdMYlc0UmJwTFZ0UmVaUzJaejRkRmpjTy16aWg1VExtT3JmWU1zM3BFWlB3SnNYWnpfRXRYT0p3MlVnMVRPaU45VmUxRHlJSGE4RnZzaG1MektXUzI0?oc=5",
-    "fonte": "TradingView",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 22:15:11",
-    "chave": "de15376bfd2d491733b954a8ca16befd4b1a9b4a3ed60adbfe8b0f14ad82e8e1",
-    "titulo": "Cenário sem cortes da Selic ainda é extremo, avalia gerente do Daycoval - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMFVIZ0FubnRDZHVLYk45eWRjQ1dRVHFGTUJ1RDNtNWxSallUWUMwWjZZY3hSMFlYYjFsQVNNcjdMNjMxT3JEYkhLbE0wRTd6d3hfZmdYZG4xbTlJU1ktN3hmMGItdEtzbnBwOW5rd01Xd1RjdElQTzZ5T0EtQXZPbi1QVy1mM3BJbllJRkV3SGZodzh2Z0o0OUx1aTlVTENaekQtY0x2T0RpN0wwaWJxMEFHbzRaenNDemJ0RjdhZlc?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 22:15:11",
-    "chave": "7c9cad6ae33146da565f03bd89da1f895a91e961106e241c9cc1b20cc2bde5ab",
-    "titulo": "Ibovespa sobe com alívio nos EUA e dólar cai abaixo de R$ 5,10 - suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aY2F4MXFTYVRHdG0tbkc3WHhBc0hIemxtanBjeVM3akdnMHJ5WlB5V3FWZi1rRnNYV1lsMmhrYUFMbmtpNEdFWkwtTGhlVGFxV1ZYY19MUkYwTDlsNS1EUXNONTlJX3R5eTV6dnZWUE5iMC1ja1Y4NXJsclJyZ9IBgwFBVV95cUxPQ0JtYTNJVmViNkt0bE1TSUk3Ri1kTjhLby1HR0pFQlBIZGFIVGdYSXB2UnR1YXhfZzlrLTM4QUtOWU1Zd2xxLWVmcklRZkxxMlM2OGc4SWxOeXMtVHdrV3VoYTVlR1V4bUNnUkRZVzcxTEJfLU5LS2JkOFhMZXZOaGtuTQ?oc=5",
-    "fonte": "suno.com.br",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-14 22:15:11",
     "chave": "96d18f3d00ad30657cb5623ef2a4dd9006197f98e7edea396db1767cad3a9c08",
     "titulo": "Ibovespa fecha em alta de 0,5% após dado de preço nos EUA referendar apetite a risco - InfoMoney",
@@ -17178,6 +17106,66 @@
     "titulo": "Banco Central decreta liquidação extrajudicial de empresas do grupo Simpala - G1",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1VuRE5UdVpWQzJmaGpFX21tc0dyT1d4cl9ZN25uRlBkaHBnMlBmSGJoWHRPNXU2NTl6bUlJblE0NTJoRWc0UWhUNUFHX3Q2RmVHa3Z2WnRiV2dFUmJoc0M4TUloc0ZmQnBNUUZFa19jS3dnQ3BVSzZvbFYwQldCaVhLX0toNUllVmxTcFJvdHZBMXcwQ3BCTTJTWUg4WDhvZmg00gGyAUFVX3lxTFB3Y1VDbkpIMU8xeHdvbXg0WVlKUVFRN2dUQ0FxYVhCWVhGVWhmSFlEdDI4V1NpelhOSVVWaDhBWjltNlFZVXVFa3dVZWJqYlMxQkpiVS03TXpib25kNTBvRGl0X2h2TjZaQkdXdVgxcmZSSlowcTB4SGNjUUNqSzRmeDdVY1lzZ05QUUl1YVJfVjBJSlB6STU4QnFVY3RfdEdaNG1JLU9EUndJMy1hMndROEE?oc=5",
     "fonte": "G1",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-14 13:42:36",
+    "chave": "89f7056ef913a434f1432eee42b75510f0d74bedb61ad3cbf094894ed2050060",
+    "titulo": "Banco Central decreta liquidação extrajudicial de duas empresas do grupo Simpala - G1",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1VuRE5UdVpWQzJmaGpFX21tc0dyT1d4cl9ZN25uRlBkaHBnMlBmSGJoWHRPNXU2NTl6bUlJblE0NTJoRWc0UWhUNUFHX3Q2RmVHa3Z2WnRiV2dFUmJoc0M4TUloc0ZmQnBNUUZFa19jS3dnQ3BVSzZvbFYwQldCaVhLX0toNUllVmxTcFJvdHZBMXcwQ3BCTTJTWUg4WDhvZmg00gGyAUFVX3lxTFB3Y1VDbkpIMU8xeHdvbXg0WVlKUVFRN2dUQ0FxYVhCWVhGVWhmSFlEdDI4V1NpelhOSVVWaDhBWjltNlFZVXVFa3dVZWJqYlMxQkpiVS03TXpib25kNTBvRGl0X2h2TjZaQkdXdVgxcmZSSlowcTB4SGNjUUNqSzRmeDdVY1lzZ05QUUl1YVJfVjBJSlB6STU4QnFVY3RfdEdaNG1JLU9EUndJMy1hMndROEE?oc=5",
+    "fonte": "G1",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-14 13:42:36",
+    "chave": "aa9eedc16945b7c4fcaed086837cbdd58235d7d0d3ce96c9204c19f2bdd845dc",
+    "titulo": "Banco Central decreta liquidação da Simpala, de crédito e consórcios - 14/08/2026 - Economia - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTE3Y011Q09jaHBNeGxEV0o4LWx6Yk0wSzJoV1lLMnNvUkw5aVdFc3ZyUjAtR2RmRVZoNTBrN05lM3BsM1Vvc0wzenR5UmZEYXo3Y1ZabFFNYkJselNyRm1PMWRLQXZRX2wxbzBhSGpRVHQxQjU2cmpYMlZ4T1h5VlVVS1ZiMkVyOTlJOVdRVE52OW91TjFJaTh3ZTViR0F3LTRXS0lxMHRQQndjMHM4UDNsZWxpYmpnZDg0?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-14 13:42:36",
+    "chave": "04e9f312b2b5d94e0cae75d8499dfa6d3eead43c84eca6c5567c794e33ed1609",
+    "titulo": "Banco Central decreta liquidação de financeira e consórcio do grupo Simpala - Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNFWlVXWlBwN25VRThMdGd1c3U3cnFETG9vbXRjNzdQdXdCYUI5OWRQY3ZLNmNOb0IzcHBmQUY3dWtfcFMxLS03TGZNRDR4YXcyRnlRNWpKSDU1aDF5UzBCX2ZNYzA4dy13Q3dyeVBJeXlGZWpMNGNYN0I0VDVpc0dTRjFTRXFBdnZTV201ZVNyUjQxcmU5czB3Y2o0YUxfZk1oZ2hWc09xYll3NWFZ?oc=5",
+    "fonte": "Vero Notícias",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-14 13:42:36",
+    "chave": "d33208ef1aaa796463729e288790eb46aa01d94f441ba1a88ebaa728b6e2f2bf",
+    "titulo": "Banco Central decreta liquidação extrajudicial da Simpala - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTlHaEYtRlNQZFdVRkZiSFA2REVSMXNBUmdhOHpUN3JJOXh2eEpjNnpFbndHLVVhalYzM1FoMHd5U2FtczJSMUhGd05IZU5sUEdJaUZyX3gtTko0a1h6alhNZU5YSlBuTF80akhXTzZqMmJIY19hRlB1OEo5NGZBZDZUa29tQlVvRFUtNUpYSElRRmhlcDRMbA?oc=5",
+    "fonte": "ADVFN",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [

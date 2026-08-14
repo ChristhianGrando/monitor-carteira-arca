@@ -1,11 +1,77 @@
 [
   {
-    "titulo": "Banco Central decreta liquidação extrajudicial de empresas do grupo Simpala - G1",
-    "resumo": "Banco Central decreta liquidação extrajudicial de empresas do grupo Simpala G1",
+    "titulo": "Banco Central decreta liquidação extrajudicial de duas empresas do grupo Simpala - G1",
+    "resumo": "Banco Central decreta liquidação extrajudicial de duas empresas do grupo Simpala G1",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1VuRE5UdVpWQzJmaGpFX21tc0dyT1d4cl9ZN25uRlBkaHBnMlBmSGJoWHRPNXU2NTl6bUlJblE0NTJoRWc0UWhUNUFHX3Q2RmVHa3Z2WnRiV2dFUmJoc0M4TUloc0ZmQnBNUUZFa19jS3dnQ3BVSzZvbFYwQldCaVhLX0toNUllVmxTcFJvdHZBMXcwQ3BCTTJTWUg4WDhvZmg00gGyAUFVX3lxTFB3Y1VDbkpIMU8xeHdvbXg0WVlKUVFRN2dUQ0FxYVhCWVhGVWhmSFlEdDI4V1NpelhOSVVWaDhBWjltNlFZVXVFa3dVZWJqYlMxQkpiVS03TXpib25kNTBvRGl0X2h2TjZaQkdXdVgxcmZSSlowcTB4SGNjUUNqSzRmeDdVY1lzZ05QUUl1YVJfVjBJSlB6STU4QnFVY3RfdEdaNG1JLU9EUndJMy1hMndROEE?oc=5",
     "fonte": "G1",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "75e105cadbf484d37752b14a59bfa4ffe3f847fe71773ac35f167c4707785fe3",
+    "chave": "89f7056ef913a434f1432eee42b75510f0d74bedb61ad3cbf094894ed2050060",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central decreta liquidação da Simpala, de crédito e consórcios - 14/08/2026 - Economia - Folha de S.Paulo",
+    "resumo": "Banco Central decreta liquidação da Simpala, de crédito e consórcios - 14/08/2026 - Economia Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTE3Y011Q09jaHBNeGxEV0o4LWx6Yk0wSzJoV1lLMnNvUkw5aVdFc3ZyUjAtR2RmRVZoNTBrN05lM3BsM1Vvc0wzenR5UmZEYXo3Y1ZabFFNYkJselNyRm1PMWRLQXZRX2wxbzBhSGpRVHQxQjU2cmpYMlZ4T1h5VlVVS1ZiMkVyOTlJOVdRVE52OW91TjFJaTh3ZTViR0F3LTRXS0lxMHRQQndjMHM4UDNsZWxpYmpnZDg0?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "aa9eedc16945b7c4fcaed086837cbdd58235d7d0d3ce96c9204c19f2bdd845dc",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central decreta liquidação de financeira e consórcio do grupo Simpala - Vero Notícias",
+    "resumo": "Banco Central decreta liquidação de financeira e consórcio do grupo Simpala Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNFWlVXWlBwN25VRThMdGd1c3U3cnFETG9vbXRjNzdQdXdCYUI5OWRQY3ZLNmNOb0IzcHBmQUY3dWtfcFMxLS03TGZNRDR4YXcyRnlRNWpKSDU1aDF5UzBCX2ZNYzA4dy13Q3dyeVBJeXlGZWpMNGNYN0I0VDVpc0dTRjFTRXFBdnZTV201ZVNyUjQxcmU5czB3Y2o0YUxfZk1oZ2hWc09xYll3NWFZ?oc=5",
+    "fonte": "Vero Notícias",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "04e9f312b2b5d94e0cae75d8499dfa6d3eead43c84eca6c5567c794e33ed1609",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central decreta liquidação extrajudicial da Simpala - ADVFN",
+    "resumo": "Banco Central decreta liquidação extrajudicial da Simpala ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTlHaEYtRlNQZFdVRkZiSFA2REVSMXNBUmdhOHpUN3JJOXh2eEpjNnpFbndHLVVhalYzM1FoMHd5U2FtczJSMUhGd05IZU5sUEdJaUZyX3gtTko0a1h6alhNZU5YSlBuTF80akhXTzZqMmJIY19hRlB1OEo5NGZBZDZUa29tQlVvRFUtNUpYSElRRmhlcDRMbA?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d33208ef1aaa796463729e288790eb46aa01d94f441ba1a88ebaa728b6e2f2bf",
     "ativos": [
       "CDB 100% CDI"
     ],
