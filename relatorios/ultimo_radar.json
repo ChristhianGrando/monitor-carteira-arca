@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "Banco Central decreta liquidação extrajudicial de empresas do grupo Simpala - G1",
+    "resumo": "Banco Central decreta liquidação extrajudicial de empresas do grupo Simpala G1",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1VuRE5UdVpWQzJmaGpFX21tc0dyT1d4cl9ZN25uRlBkaHBnMlBmSGJoWHRPNXU2NTl6bUlJblE0NTJoRWc0UWhUNUFHX3Q2RmVHa3Z2WnRiV2dFUmJoc0M4TUloc0ZmQnBNUUZFa19jS3dnQ3BVSzZvbFYwQldCaVhLX0toNUllVmxTcFJvdHZBMXcwQ3BCTTJTWUg4WDhvZmg00gGyAUFVX3lxTFB3Y1VDbkpIMU8xeHdvbXg0WVlKUVFRN2dUQ0FxYVhCWVhGVWhmSFlEdDI4V1NpelhOSVVWaDhBWjltNlFZVXVFa3dVZWJqYlMxQkpiVS03TXpib25kNTBvRGl0X2h2TjZaQkdXdVgxcmZSSlowcTB4SGNjUUNqSzRmeDdVY1lzZ05QUUl1YVJfVjBJSlB6STU4QnFVY3RfdEdaNG1JLU9EUndJMy1hMndROEE?oc=5",
+    "fonte": "G1",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "75e105cadbf484d37752b14a59bfa4ffe3f847fe71773ac35f167c4707785fe3",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]

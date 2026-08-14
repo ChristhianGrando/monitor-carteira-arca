@@ -1,23 +1,6 @@
 [
   {
     "data_envio": "2026-07-14 21:15:17",
-    "chave": "fc3e370db428940ace39923aa82858c2baf4067873224b6705354aaae4e5336e",
-    "titulo": "Fechamento EUA: Dow, Nasdaq e S&P sobem com recuo da inflação e balanços bancários; IBM desabou e petróleo subiu - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzNnTUU0Q3Z5Tzh5RzV0eDdZc25xS3Rna3FqY19FY281aEozb2ltZHROWWxDTHo3dWRMeVVVNXUxcDJVYmE4UVlwSE1QWlNQNHZBRVQ2TDRHNGQxdklXb2RBN3BPdzAzR2lwY3oyVjJ1dXFiY2JiLWlvVWRBMFJ2VE1NVHFpNUNtak9HTHlTaWVYTzhRa0NBS1NEZnhkRldhMHFUaWp1Yko?oc=5",
-    "fonte": "ADVFN",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:15:17",
     "chave": "90d755d5dc3ff6e7ea3fa2bcb8a4d8fa999bb00d109e89f24a105c724e34e85a",
     "titulo": "Wall Street tem alta após inflação abaixo do esperado reduzir apostas de elevação nos juros pelo Fed - Money Times",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aNnhCU3dzQV8wMUctaVNqWGdvMkJMc0V2UlNmQ3R3U254UlZKNDFVQmRaOHk1RHFWZnhHTTBPc2F2Wk9sV000M1hpZ2V1bFBnTWcydWw3dE1ib0phYVdxZlJMWTJUQQ?oc=5",
@@ -17187,6 +17170,21 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-14 11:57:27",
+    "chave": "75e105cadbf484d37752b14a59bfa4ffe3f847fe71773ac35f167c4707785fe3",
+    "titulo": "Banco Central decreta liquidação extrajudicial de empresas do grupo Simpala - G1",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1VuRE5UdVpWQzJmaGpFX21tc0dyT1d4cl9ZN25uRlBkaHBnMlBmSGJoWHRPNXU2NTl6bUlJblE0NTJoRWc0UWhUNUFHX3Q2RmVHa3Z2WnRiV2dFUmJoc0M4TUloc0ZmQnBNUUZFa19jS3dnQ3BVSzZvbFYwQldCaVhLX0toNUllVmxTcFJvdHZBMXcwQ3BCTTJTWUg4WDhvZmg00gGyAUFVX3lxTFB3Y1VDbkpIMU8xeHdvbXg0WVlKUVFRN2dUQ0FxYVhCWVhGVWhmSFlEdDI4V1NpelhOSVVWaDhBWjltNlFZVXVFa3dVZWJqYlMxQkpiVS03TXpib25kNTBvRGl0X2h2TjZaQkdXdVgxcmZSSlowcTB4SGNjUUNqSzRmeDdVY1lzZ05QUUl1YVJfVjBJSlB6STU4QnFVY3RfdEdaNG1JLU9EUndJMy1hMndROEE?oc=5",
+    "fonte": "G1",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
