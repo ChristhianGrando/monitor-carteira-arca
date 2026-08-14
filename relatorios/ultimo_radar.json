@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Selic mais baixa: Citi revisa projeção para 2026 e aposta em novas quedas de juros no próximo ano; confira - Money Times",
-    "resumo": "Selic mais baixa: Citi revisa projeção para 2026 e aposta em novas quedas de juros no próximo ano; confira Money Times",
+    "titulo": "Selic mais baixa: Citi revisa projeção para 2026 e aposta em novas quedas de juros no próximo ano; confira - moneytimes.com.br",
+    "resumo": "Selic mais baixa: Citi revisa projeção para 2026 e aposta em novas quedas de juros no próximo ano; confira moneytimes.com.br",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0dDa1VFd083ZjdQUW5uUmVZalNhQXN1Rk5VU0RCQ0tSLVdQLVp5SGQyVDZTcVpSMTVPWHNzQzdtRHgtT3k5ZkxRakhxTG96ODJncTZNS2ItTlVZcndoMjBGeHZibEpmbmVEX1pTRjNrcGlTTlBaY19BWWNrN3RvS3Q4TjZOZVVTWFRIZDZ0dXZNTGtWQ1lVdVQ3QW8tMGt5ZjdSMWxZOHVBNmpobHd1M1FUMjFicUFsSWloVDNGZmdPVENL?oc=5",
-    "fonte": "Money Times",
+    "fonte": "moneytimes.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b92845aee13274c7eb0a7ad2874cbd7133e9e2fb0d923398b1187079d020d073",
+    "chave": "5aa53bbd6193d59ab71527be78b8b918de51034a3b202a5074b5245793afe246",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -24,6 +24,28 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central decreta liquidação de duas empresas do Grupo Simpala, de consórcios e crédito - VEJA",
+    "resumo": "Banco Central decreta liquidação de duas empresas do Grupo Simpala, de consórcios e crédito VEJA",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa21nd3FmV2pYOGtXaDdoT1UyaFA1WXU4cG1wVUpOLWdqckFVZHc2WnNQd0lQLVAzRFRtcGRSeExNeXRLQ1dXVkZGZDhIVHpwUDlUUkJvMEVtdWtqTnFUWUIxQTc1N0ZoSTNwN1hIbWlwdWJXWnVsTjlTZjQzN1RKNUtJMXAxSjUwb2RjM0dfbERMT2tKa3hhdWpYZ1VxcGFjSkVpZnRuaXJEMi1uOVhkWWZKSi1TWnNKajI4YUpxRk1WcXkt?oc=5",
+    "fonte": "VEJA",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "a98d923f3f354eaf94077736c47c5897171ace70d9def72aefd0ce9a807adb5d",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
