@@ -1,66 +1,22 @@
 [
   {
-    "titulo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil - G1",
-    "resumo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrLUs1UkYzZGU1RkI0d1A3OVIzOWhNdDFNT1I1anZBTkpOOXY2VjlSLUhpM0VsUVdIZG5PYVZjSTNDZFdPMUxZUXktTW8xWDFyR1ZIU2sxREUtY3A0ZmF2V0JWc1VFV0s5V1JKYkdyRFVrbmJfMHVfRdIBhwFBVV95cUxQSzN4RkNNdGkyVVdneVVFQld5SVJYbE9nOHc1MVI5MTd6MUN6ajl0V1JHaF82VHFvUEh0cU9LeUtoUGlRZnZfVnlKSHE0dTl4ZXc4OVpILXZaS3BLQXZCNVZpMnhmVDF2N2tlamlfU0tNeWJEM08yLWJQS1RqUVRIZzdxTmgyVlU?oc=5",
-    "fonte": "G1",
+    "titulo": "Selic pode chegar a 13,75% ao ano? Entenda 'pistas' do Copom - seudinheiro.com",
+    "resumo": "Selic pode chegar a 13,75% ao ano? Entenda 'pistas' do Copom seudinheiro.com",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaTZVUThvSzhuWlRnZHA0V2VvcFVOZWRHcDZmS1FFZWpyR1ZTN0hLbVhJWFI5OE4wVUR4aWR1U19neG5RT1dHYjZaUHBQYTNoa05ycHNkeFpYc185aFhLRUJTMFFNRTRZSXk1b2NZX3pWeEZDbGNtMFJid0xQZGJjTkRUMkd6dmVkS1ZsNEt5UDJZQXFDSm40enMyaUp5RVlQcnNvYktZNC1hQktUUksxbUVPd29LSDNJYmh4M3VtTERtRnRNT2pnWEVZZHhZM25OajJnUENOcWVKVTg?oc=5",
+    "fonte": "seudinheiro.com",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "10a68f521a776ba30b7f2dcff1a9706f624217d197edcc0a8e0cb03a42631bb7",
+    "chave": "c518fa5e6fcca3ba6aa4ad215622c3390caee0073892004ce87596d3fc81ae72",
     "ativos": [
       "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Wall Street sobe com inflação ‘branda’ e alívio do petróleo; S&P 500 renova recorde - Money Times",
-    "resumo": "Wall Street sobe com inflação ‘branda’ e alívio do petróleo; S&P 500 renova recorde Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90ODBkeWVha3JYa1I1QkpFa3diUVJxVW9qRjNFdlhSQUUtdjRDdmhsMDJwWHp2WmRKamwwaW14Rmlud1NGZ2FKRXVtX0hLNGNSaXVxV2RHcWlLQnpBN3IwckZXb2NwQQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "a84159388069432c2d2025871f7fee86e7433063b9e4e0685308400c809b0ad0",
-    "ativos": [
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central do Peru mantém taxa básica de juros em 4,25% - UOL Economia",
-    "resumo": "Banco Central do Peru mantém taxa básica de juros em 4,25% UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUNZT3VkLTY2WmxnWmItMkZ1RFUwX0U1eEVBX0FNbXJqSmNQa1NGR1dOYkJPbzIyYlQ3SWo4LTVkU19YbHBXdU1oZS1qZC13a2hDM1dzR2tGa3JRcjYybU5GV25uVEVxeHlWdU9HSF9HLWZwWlVEaDEzdWJpMTNCTGp2TFhFUUZ6aXFhVmxtejRWNlVFU0VMOC10a1ZrVFZHRnZVUTdobGFESURvc2VWaDEwbE1lMV9LVEFGeTRkc2ZkR0k?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cc4e3568555f2c1046dc3800593b17b2b88af72748f412595d578c4a17ce8553",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
