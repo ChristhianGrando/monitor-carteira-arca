@@ -1,95 +1,28 @@
 [
   {
-    "titulo": "Dólar sobe e Ibovespa cai com saída de investidores estrangeiros - brasilagro.com.br",
-    "resumo": "Dólar sobe e Ibovespa cai com saída de investidores estrangeiros brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVZXLS1xc0FqbVg5Vk5oZDR1bzNKUjlKNVF3dXhIWmdlVlZDVWZ6cTRudDFJM2haQ1dPNTNkMGczVUpBbEY2TDVHNm1QaHdncTVVNk5BbUo5bkpUNGRXRm0zelRXdGtoaE1wakRVeExndGFiR1NnMENCVVZtSW1aYzlfamF6VEFRNWlveXVMU1FLSkx4VTZPbm5PNGJMMEVlZXJhaW5uQjRyanVDR2c?oc=5",
-    "fonte": "brasilagro.com.br",
+    "titulo": "Incerteza sobre contas públicas eleva parcela da dívida atrelada à Selic ao maior patamar em 20 anos - Folha de S.Paulo",
+    "resumo": "Incerteza sobre contas públicas eleva parcela da dívida atrelada à Selic ao maior patamar em 20 anos Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3NEdVVJbUwxcEE3MkFpdUUxbXVmS01Bd2RiQ1M5a3I3cEQ0cTRaaFcxcjR5NDFWVnZIVEJESmpGODIxY3A4NURHOGpRVzVOcklxOVZoaHU3MFVmNGRhTURzblotUFdUbnhFaTc3V28tWmtyT3EyQ1B4bHpYZE9lLUUwamNGV0tIVWpYd0wxdURxWExZV3BBSnh0clRQWjVxS0JXNnl3RURfY1VwQmZKNTY4NE5fQ1VKZkJYcGstaG5aLUZZcHhFZWZyV0dpaUcwYWRMTFhRZlZCQnlDNGN1YjJxaEJoUDg?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "57d8241f3c3c42a2cb20925e677e74a71086bce653fd0c212a22acba363767fa",
+    "chave": "2cc9da53d902d94280ed8b95559a3d7506d469e88d9f9efd3e741866b618a6bf",
     "ativos": [
       "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dow Jones hoje fecha em alta com inflação mais fraca que o esperado nos EUA - Estadão",
-    "resumo": "Dow Jones hoje fecha em alta com inflação mais fraca que o esperado nos EUA Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNExHT0FueFVEZUJkNVE5clZNRXlHZENESEVtbU9tUk5TOUNWNmx0RDBvZExjMGQ3RVBzNlprcThnY0JYdkU2SUdka25XdEszSFJfRllvc3pSOWlDM1l0X2NpLWE1NVRBOG1jNjJhTjd5U3RBMzROOXo0SWZLaDIxMmxOSGpzOUpMOW5xUzRGNGZpb09NQllaM2dyRGx6aDQ4QWNUa1lWT3JZODk0WVl5dU1mODFZNFBPbTUxLTdKUHVRX1JVaHRWczhSZ1dramJHRGhIRGg0UU93dkF2OXBWSjh3dUxmMktJR2fSAe8BQVVfeXFMTnh2d2s4bjJ0bkk5MVlIeTgzcHRlYjZtZE4wUUo4WmtfeVhVTVJTcDBOR2xqYnpuSERwd0ZkamFSQjNfUTd2MzNoX1ZUS24tQUJHMmphNVhvTi1kcnIyUGZrajkxUDFjaG5tNHhUWG5GNmRacFBVMm5IY3NkNWJvcV9hSjVWYzZuUzdjR2FNTTNFRURFV2x2U2E4NzEtdVhSNXRiZlRIbG5MaURyOWVSeDd0cTA5OTJCdjlXdWJRdkRwV0hFZ245X1hLU1Z1MXNsNFpsbVU1ZS02RUhmUW5wSjNfV3pRSmRtRnppLWtFcDQ?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "27a7a45da36445a2db4761f3a59d0ef561dfa489e1de18b7d6ea5780525490e7",
-    "ativos": [
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dados de inflação reduzem chance de alta de juro pelo Fed - Valor Econômico",
-    "resumo": "Dados de inflação reduzem chance de alta de juro pelo Fed Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmpMZllhcEltcTBHb1k3X2NpeEp4ZjJndWVzLW9fWjdXamtJZGhEVFRITEkyenJBeVdsVWhJakw1SkVoNlF2SGFpbmttWDRVbmwtc3pXQ3I2Mk9odkJUaGtDS0txODRpMFlDV3ROcEJ4THFMWExYYjBMSmphd0RUaWx1VVBKZW82ZE9ZWEJkOFBvQmo4bjhNTkdJVG9DeEIyNDdiS0hlRzBCVFJRYjFJRGhHakpPUdIBxAFBVV95cUxOQ0RmYl9GU05DcnVYeGlhOEFYTWRzRnhxWlRTdmNUUm9WREpsQXUza01QOGFzU2o5SjViQnMwY3FJX3dFU3JzeXBKejFzR1FtcFp6QWFCVGlTMGhqVEpFcU1VUTIzUlJQalpHLWhpQ2RmMjh0b2FDYjFQVGtlM09sZXdfeW9VM3ZiQUNFeXg2OHpmZGlueC1SN1puclNQQTlpRzV0ZGZlZmYyQlA0VlZpRVZkZnh5akVzTHQtZEZqdGV5TE0t?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "b1d744c932fff3e2af194cbfe30cbf5d835669758e97371debf538d6853b69af",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Regra para reter operações cripto acima de US$ 10 mil desagrada setor, mas deve ajudar no combate a fraudes - Folha de S.Paulo",
-    "resumo": "Regra para reter operações cripto acima de US$ 10 mil desagrada setor, mas deve ajudar no combate a fraudes Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdWZmN191Zl9aUWlCUFZab3lLaHVBWnVKdXg3Ylh3TVd5U0w3eVRLQlBBWVRXajR2Ry02VENLVG9kdHBORF9YbWJ4OUUtTjd1bWhMVmdUQjhqYTk5cmVwa0p2T3NYaGYyYzJHY1VjX2hZem9fYkhlcHpOYzBOcnVqOHhjTkVzUlJNa2l3MlNmc0RaaWxRVTYyamNDMFFGZnVjbThhLWJTSVZOTjdjWWNYQjZTLXNMYVhzek5RbGRJWmJ5RlAyZkg3c1otWmIxUm5Sbnlwa1Z3VGZhX0Vyc3E5UkpuY3ZIZ2JFNEpDc3Zn?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fe9774b7b421f4b9cf0203a9f94bcbeb8935b666818ce47175ccd9d8c1260cf2",
-    "ativos": [
-      "KNCR11"
-    ],
-    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 9,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]

@@ -1,25 +1,6 @@
 [
   {
     "data_envio": "2026-07-14 21:15:17",
-    "chave": "2e3c302c5ddce2121c8502920e07e06ead2b7a274d86515d56c5342c6257e1d7",
-    "titulo": "O S&P 500 e o Nasdaq fecharam em alta após dados de inflação moderados e resultados sólidos dos bancos. - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWDlYaWJoWTFTZG5JcDZldFVkVy1HemxkODRGZS1acWVvTWpUd1BhYTVfX1JQM2tGQ2RkdEVQWUJ0VWtGVWhtNWR1OFJkN0pNOUwtenBzS0hoX3dXVllvbXRoNEhYWm4yUFhGNkk4Z0Z5OHVhTmZR?oc=5",
-    "fonte": "TradingView",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-14 21:15:17",
     "chave": "fc3e370db428940ace39923aa82858c2baf4067873224b6705354aaae4e5336e",
     "titulo": "Fechamento EUA: Dow, Nasdaq e S&P sobem com recuo da inflação e balanços bancários; IBM desabou e petróleo subiu - ADVFN",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzNnTUU0Q3Z5Tzh5RzV0eDdZc25xS3Rna3FqY19FY281aEozb2ltZHROWWxDTHo3dWRMeVVVNXUxcDJVYmE4UVlwSE1QWlNQNHZBRVQ2TDRHNGQxdklXb2RBN3BPdzAzR2lwY3oyVjJ1dXFiY2JiLWlvVWRBMFJ2VE1NVHFpNUNtak9HTHlTaWVYTzhRa0NBS1NEZnhkRldhMHFUaWp1Yko?oc=5",
@@ -17186,6 +17167,25 @@
       "KNCR11"
     ],
     "classes": [
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-14 10:15:47",
+    "chave": "2cc9da53d902d94280ed8b95559a3d7506d469e88d9f9efd3e741866b618a6bf",
+    "titulo": "Incerteza sobre contas públicas eleva parcela da dívida atrelada à Selic ao maior patamar em 20 anos - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3NEdVVJbUwxcEE3MkFpdUUxbXVmS01Bd2RiQ1M5a3I3cEQ0cTRaaFcxcjR5NDFWVnZIVEJESmpGODIxY3A4NURHOGpRVzVOcklxOVZoaHU3MFVmNGRhTURzblotUFdUbnhFaTc3V28tWmtyT3EyQ1B4bHpYZE9lLUUwamNGV0tIVWpYd0wxdURxWExZV3BBSnh0clRQWjVxS0JXNnl3RURfY1VwQmZKNTY4NE5fQ1VKZkJYcGstaG5aLUZZcHhFZWZyV0dpaUcwYWRMTFhRZlZCQnlDNGN1YjJxaEJoUDg?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
       "Real Estate / FIIs"
     ]
   }
