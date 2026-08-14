@@ -1,11 +1,35 @@
 [
   {
-    "titulo": "S&P 500 fecha em novo recorde, impulsionado por dados de inflação mais fracos e queda nos preços do petróleo - Times Brasil | CNBC",
-    "resumo": "S&P 500 fecha em novo recorde, impulsionado por dados de inflação mais fracos e queda nos preços do petróleo Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc08wMVllNkRoY0dKdzNZLTdpRTl3b05CbnlBc1pUU3FnNnlwbjNNN0FIZ3pPZ2liMkZCMkY4M3V1Tm51Qk5MN3hfT19lQ01oRHlWejRFMXQ5WlpnbVhMaUtRY20tS2JaTTlCd0NNd0ZkRElVVEliRmpmTUVVUHJaMGp1U2JFSzNOckNlQ2RrYmZFRTlUUVVSX2pXaDJlSjg3a3NYdnhSVVVpeHJhcXZmMTJqYUJkQzRieWpBLUNKc2VTVFUtTWk0M0hTbHk1cnl1NlplTlROdk1XZlRaM3UwdFBCemRpWnpudnVJQi1PdVo?oc=5",
-    "fonte": "Times Brasil | CNBC",
+    "titulo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil - G1",
+    "resumo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrLUs1UkYzZGU1RkI0d1A3OVIzOWhNdDFNT1I1anZBTkpOOXY2VjlSLUhpM0VsUVdIZG5PYVZjSTNDZFdPMUxZUXktTW8xWDFyR1ZIU2sxREUtY3A0ZmF2V0JWc1VFV0s5V1JKYkdyRFVrbmJfMHVfRdIBhwFBVV95cUxQSzN4RkNNdGkyVVdneVVFQld5SVJYbE9nOHc1MVI5MTd6MUN6ajl0V1JHaF82VHFvUEh0cU9LeUtoUGlRZnZfVnlKSHE0dTl4ZXc4OVpILXZaS3BLQXZCNVZpMnhmVDF2N2tlamlfU0tNeWJEM08yLWJQS1RqUVRIZzdxTmgyVlU?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "10a68f521a776ba30b7f2dcff1a9706f624217d197edcc0a8e0cb03a42631bb7",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Wall Street sobe com inflação ‘branda’ e alívio do petróleo; S&P 500 renova recorde - Money Times",
+    "resumo": "Wall Street sobe com inflação ‘branda’ e alívio do petróleo; S&P 500 renova recorde Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90ODBkeWVha3JYa1I1QkpFa3diUVJxVW9qRjNFdlhSQUUtdjRDdmhsMDJwWHp2WmRKamwwaW14Rmlud1NGZ2FKRXVtX0hLNGNSaXVxV2RHcWlLQnpBN3IwckZXb2NwQQ?oc=5",
+    "fonte": "Money Times",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "4738d0bff849568638e6be0056a977721d27deaedd302710d5208699c2856004",
+    "chave": "a84159388069432c2d2025871f7fee86e7433063b9e4e0685308400c809b0ad0",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -14,14 +38,35 @@
       "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 14,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central do Peru mantém taxa básica de juros em 4,25% - UOL Economia",
+    "resumo": "Banco Central do Peru mantém taxa básica de juros em 4,25% UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUNZT3VkLTY2WmxnWmItMkZ1RFUwX0U1eEVBX0FNbXJqSmNQa1NGR1dOYkJPbzIyYlQ3SWo4LTVkU19YbHBXdU1oZS1qZC13a2hDM1dzR2tGa3JRcjYybU5GV25uVEVxeHlWdU9HSF9HLWZwWlVEaDEzdWJpMTNCTGp2TFhFUUZ6aXFhVmxtejRWNlVFU0VMOC10a1ZrVFZHRnZVUTdobGFESURvc2VWaDEwbE1lMV9LVEFGeTRkc2ZkR0k?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "cc4e3568555f2c1046dc3800593b17b2b88af72748f412595d578c4a17ce8553",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
