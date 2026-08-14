@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Dólar vai a R$ 5,21 e Ibovespa tem 9ª queda seguida à espera de pesquisa eleitoral - G1",
-    "resumo": "Dólar vai a R$ 5,21 e Ibovespa tem 9ª queda seguida à espera de pesquisa eleitoral G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84M2pjU3huVEZIVUpNMk41MWItYTJJc2hJb1NGbjZvdnhhbFJBeHQ1YTQ2UlNheFpWc0JyOEl2UFVTZFJZd0NfTHVCNXZhNFUxNTc2U1pVSDhZRjY0UEFOMkJVS1VvVS1PWTRHSkY2cVpoR3J5aElBRtIBhwFBVV95cUxQS0gybFMyRjVmcmhnQmF2Zjk1QW5lYVBPT000eGYyYmNnbmhWU2dxM1Nna19FRzJGbXl1ZWNOdmJ5dEFpd19QcnQ2MDNFcEphVndLeUlYQ0I1ZmxyejJJQ3ZVNTdxRzJTYWNVcFpHelRlU2hQbFpzdDhNUXhMNXpiX2VQbkJJX1E?oc=5",
-    "fonte": "G1",
+    "titulo": "Ibovespa cai 3,23% na semana com preocupação sobre tarifas dos EUA e balanços - Estadão",
+    "resumo": "Ibovespa cai 3,23% na semana com preocupação sobre tarifas dos EUA e balanços Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbllWZ1JtbVZqUTlmelFCT2JGdlhJNGJ6b2dBd3RYNFlVVU5kTEU2ZkdSZUlyd1hieEItMDBQeEhYTGFQQ2VDWW1DcV9wb3FXNURvRVEwcTRueEtsRzR3aXp4Ym9QRlRDRGZDVzk1RlhVZkhybmRoR0lxVndpSVBfQ1JwcGJFVXlRMi1sYVB4UW9MNXlwcWpCOS1xbHY3ZE5jT0JNbWdBRGt6Q20tX21PYjRZaC1NN2t1bTJWZmtFemY3Y0Z4LXR3dWd1STlaMVNZb3g3d281RFpuZw?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ed0a4e9db946026f30e60aa0c30802251834103b39079fea1616c933d02a6d27",
+    "chave": "6c2d3653fc63f6aa63c953dbb33bd9a89a248e6cece554ed4839416deed6813a",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -14,57 +14,12 @@
       "Ativos Internacionais",
       "Ações Brasil"
     ],
-    "score": 11,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
     "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central implementará código alfanumérico para identificar instituições financeiras - JOTA Info",
-    "resumo": "Banco Central implementará código alfanumérico para identificar instituições financeiras JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnc4Nl94REY5cTBmV0k4ek5xYV9QbURBSm9BS2dHMm52emlhMVdVNWR2UU5KQVN4c3E5ekcxMnladWJ2VThjOE9zbFhEZUlNeE9GSkNHYjBUTHVDNi1fcXdpSUo0NXpnUFRuUkFOTXhjdWdGMDFBVzhUbFQyYU9sb0NKOHl1REZVLW9mYm9XTWxSSWd0VkFwSmE5ZlM5Z2xyZ3lnTVZPNXJJU1ZwZElqakVPTVVhek5jZjZnWA?oc=5",
-    "fonte": "JOTA Info",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cb8c0d702b660a08fe331be12e46947dccdd5b12702d39244f3f84b23d52518a",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central decreta liquidação extrajudicial de empresas do grupo Simpala no RS - Times Brasil | CNBC",
-    "resumo": "Banco Central decreta liquidação extrajudicial de empresas do grupo Simpala no RS Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDZ3WnJhd3J2bFgwUVdrV3k5alRWLU51Qlh2S0M1YnZiNThqN2RGT3R0NEgtNEk4ZFk5el9JNlp1QlBaMjZpOTVIcWNZclVFdExkcEZwZEVKRVV6aWZ3bjgtSUQyYlBnVTF1SjZVc3E5TlNBekh2TzZOT3lIcUZjUTZxTm52eEVVR09UVFhRVFBRVUdwNkZXaFNVYXBjUFA1b0F4d1pSYl9sWGt2VmJmTW5FNUVVMExGREVHZkM4bEJLNUgxOUhHeQ?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "bfa2764300c6b8d1f01871c3ce31eea9d2ddbfe5e3567e0a86fcc91ff812b334",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]

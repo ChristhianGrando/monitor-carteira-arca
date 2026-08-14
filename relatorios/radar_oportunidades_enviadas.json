@@ -1,22 +1,5 @@
 [
   {
-    "data_envio": "2026-07-15 19:36:52",
-    "chave": "aec877564f40dbc384735533696f4b589b1df17c4700115e39b9831272fb2e5b",
-    "titulo": "Ibovespa abre em queda entre a expectativa do tarifaço dos EUA e o PPI americano - trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlItcU52VXBlUDM4MnJDczVGSU5ZOS14Nmw0ZDgySTVXdzM4eTduNUhUR2tQSGp6WVlUSEljTVBIVFBhaHhVc3NrSWFFRGJtd0tjZTNtd1VwblQ0YXdHaUp2Ul9kd19zaEVjaHRnbEEwZ3ZBM3NfV3dSMnd5Y2JCLTBtS0NZVjkyNnRvZUlsSlo2YnYwZTlNNXowOEtKaGR3cE5OWkJPWFVWdVR3V2NfbTV1UQ?oc=5",
-    "fonte": "trademap.com.br",
-    "score": 9,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-15 21:15:04",
     "chave": "d4f3d1fb9053ba85ad61f3c849aaccb02912cdae5387d7ac6c746c7687252244",
     "titulo": "Dow Jones hoje fecha em alta com inflação abaixo da projeção; dólar cai ante moedas fortes - Estadão",
@@ -17137,6 +17120,23 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-14 23:35:48",
+    "chave": "6c2d3653fc63f6aa63c953dbb33bd9a89a248e6cece554ed4839416deed6813a",
+    "titulo": "Ibovespa cai 3,23% na semana com preocupação sobre tarifas dos EUA e balanços - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbllWZ1JtbVZqUTlmelFCT2JGdlhJNGJ6b2dBd3RYNFlVVU5kTEU2ZkdSZUlyd1hieEItMDBQeEhYTGFQQ2VDWW1DcV9wb3FXNURvRVEwcTRueEtsRzR3aXp4Ym9QRlRDRGZDVzk1RlhVZkhybmRoR0lxVndpSVBfQ1JwcGJFVXlRMi1sYVB4UW9MNXlwcWpCOS1xbHY3ZE5jT0JNbWdBRGt6Q20tX21PYjRZaC1NN2t1bTJWZmtFemY3Y0Z4LXR3dWd1STlaMVNZb3g3d281RFpuZw?oc=5",
+    "fonte": "Estadão",
+    "score": 9,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
