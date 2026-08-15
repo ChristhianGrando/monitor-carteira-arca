@@ -1,1 +1,131 @@
-[]
+[
+  {
+    "titulo": "Fechamento (11/08) | Bolsa cai 2,50%, com IPCA, ata do Copom e relatório do JPMorgan; dólar vai a R$ 5,16 - investalk.bb.com.br",
+    "resumo": "Fechamento (11/08) | Bolsa cai 2,50%, com IPCA, ata do Copom e relatório do JPMorgan; dólar vai a R$ 5,16 investalk.bb.com.br",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVFExLW9fcVBZUFFyWENhQm9aOFpWV2VkZVhELXhHLXR6NjI5d0M0M096NUNrQTFDXzBaQnpxcU9idW9fX095bmNwd3NoTl94eWNGODh1UlVyblYtSzh0RjJhSHNMemVtaXBteVpjcjc0THlqOEE?oc=5",
+    "fonte": "investalk.bb.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5f0fac42cb5235bef4962aca478fbf9975a063a3743a71df3d6a7815054816e2",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Selic não é correção: uma ficção jurídica e suas consequências - conjur.com.br",
+    "resumo": "Selic não é correção: uma ficção jurídica e suas consequências conjur.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMEczT3lsTU9Vc0p4WWRCc0Q3d25VU29OYzlqQ195dlZyWG1Fb2dKMVJjc04tRmhEeS02ZS1lY0tIU2ZRRW9ESmRQWXpaaVI3MXZsalJucnd1OGJOMkp5Y2IxUklaOG1KVWFzN3NpY29pTlpaa2tfY1p3YkplVmx1MU9GalVjNnJBYVNfOTNEVmdpdkdUS25PT3hRTzUtNFJCeWo5QjdfTlRmV3VONzlFdzFacWRoYW1oWk5aVmVyakxwN2s?oc=5",
+    "fonte": "conjur.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "68bec90da737163fb3c714c2a5aad7626d100562f040926d0c6443f10f97ffe7",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA desacelera e fica abaixo do teto da meta - fiemg.com.br",
+    "resumo": "IPCA desacelera e fica abaixo do teto da meta fiemg.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMVhCeHRmOG1xY0pSUXVUamNiTktOclFZYk02dS1YUkZYTDZheURMaHRaaWFpSm9pQkJqc1dGN2dEM3BlTDlNOWxzU0Z5a3dZTUZfOGhEUUp0czRLRlBLX0FKU2VKdi1hWkcwMjdmSWZJMlZWM29rMUZoWEJ1R1NSb0M5bGRSa0szUG1mdHlFSHFNR0hWVG1YTUZ2NTVoYUdRM2ExcWJBTHlrRUdLT3plTzgzdGFrcWp2MWFtVHVsa2ZfSDA3T2c2NnlaVTFVS1RhQ0Y2UUhNTEN0eEhFSE1aMG9JYnRub0pUWjJqMFgwbzZMUjY5RWNEQVVlSjl3YVZ4?oc=5",
+    "fonte": "fiemg.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5427592961483f6e6609f5a00df6bba5cd11cf2c8e6fafaf556f104c268cacec",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inflação perto de zero emagrece retornos do Tesouro IPCA+ - InfoMoney",
+    "resumo": "Inflação perto de zero emagrece retornos do Tesouro IPCA+ InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXVFVExIV2Y5QWFWOUZpWmZVeHhJWG9TV2pfNGlJRW8xWUkyZWRIVGlkU3gwdFpaeHRyOEZnbzV6LTBwRnBsVVJGSm40NDVOUk0xdEh4b3hmT1J3czJxMktGMFFQTXIzR01SYjZlOXB3QUFHZEdyaVZXejVnYzV5ZFY4S00wUWVYUzFPbkg1dWdRdFgwUVUtZUtvYUIyUlNhVEHSAacBQVVfeXFMUEZRWmpwUjJpeHZuakxzRjgxUXhmajdvclN4Z1l1MnE4OUFFaUtLVmJzb1Z6SjhMZ19BV0VpTEktM0VZNVZtQVFvX3F2YVlzRk1feWFWeEJ5YkdrMTVwaU9wd3JvaFpHd3FRTG5QRXNqRGthZUluajVyWVNOWnVHcC1HN2R1V1AwX1R0TUVPVjc4Wk9Bb0dvRXZBb0lXS3VTRFZzb1pHcTQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e9ef5c5eb463a947ad51480d90f3ed508ebba459d8e77d453a949cafe04738ab",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Arminio Fraga diz que Brasil repete erros e compara cenário econômico ao pré-crise do governo Dilma - Folha de S.Paulo",
+    "resumo": "Arminio Fraga diz que Brasil repete erros e compara cenário econômico ao pré-crise do governo Dilma Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYVVHQXRwczJnaV9GbUpJQ2E3WS1hYV9tWWJrX3RWckUwanRmTE9mZU9lVGE4MFNrWGVPUFpnd2NfYjJ6NXpQVnM5MDlneDg5NXp5Zi15bjZKU2UzRlY0dGZvb1RCWjloaEpmNVNQWTFtWmFJRTMybUJLNGpIVGxPaGp1ankxR2hhZ0ZsR2wwcFE1VDk2LU94QXFBeUY0UU9vNUxjaENKZ3RmNVE4QlJxd0lyRHJVSnl0SjVQMzN3SmxJajRzQ29za2VrSWxsZ0JFTG1kUWptOXR5MWQ5TzJpZ0xVVzFWQQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "91844054862f2ea924f2d22950b42e103ef8a9edef61fd6aa6334dadadd19975",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
