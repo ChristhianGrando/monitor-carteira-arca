@@ -1,56 +1,73 @@
 [
   {
-    "titulo": "Ibovespa recua pressionado por alta dos juros e queda das ações da Vale, de olho no cenário eleitoral - Valor Econômico",
-    "resumo": "Ibovespa recua pressionado por alta dos juros e queda das ações da Vale, de olho no cenário eleitoral Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUFpsZmRiVEhkeDhYTFJSMlZRZU5ENlEyT1BaSmxHUlVQM1VJV1NLQVpZMDRHLUlEOFRCUGZCYVJkaXhWQmhCNTNMcUVScHBGVnc4STYyNW9LVEZXUUdiVGxjNm9ZMm02RlRCQUYzdXF1R0dQSmRtWFN0cVk2Q1lnWDVmbUZ2OGlXRWhVTndYZkFFcUwtNkZUTnNKWXJxSXc0R3FiOW1RdDRrMTl2SGlHaFZlcUZiUHYtWU85UnNMdkpiRnY3WFFrbWZJb1BVaE1ZVkx6TUpNYzlrdUExaHlVUmpDS1dlWGp1YXJ2ZDBJeHVwQnU1TjRoZVFGbWdzd9IB_gFBVV95cUxPUFpsZmRiVEhkeDhYTFJSMlZRZU5ENlEyT1BaSmxHUlVQM1VJV1NLQVpZMDRHLUlEOFRCUGZCYVJkaXhWQmhCNTNMcUVScHBGVnc4STYyNW9LVEZXUUdiVGxjNm9ZMm02RlRCQUYzdXF1R0dQSmRtWFN0cVk2Q1lnWDVmbUZ2OGlXRWhVTndYZkFFcUwtNkZUTnNKWXJxSXc0R3FiOW1RdDRrMTl2SGlHaFZlcUZiUHYtWU85UnNMdkpiRnY3WFFrbWZJb1BVaE1ZVkx6TUpNYzlrdUExaHlVUmpDS1dlWGp1YXJ2ZDBJeHVwQnU1TjRoZVFGbWdzdw?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Ibovespa Fecha Semana com Maior Série de Perdas Diárias desde 2023; Dólar Atinge Maior Cotação desde Março - Forbes Brasil",
+    "resumo": "Ibovespa Fecha Semana com Maior Série de Perdas Diárias desde 2023; Dólar Atinge Maior Cotação desde Março Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbUk1ZVlBMFF3NjVuR1NRNU9vdXI4ampKYk5JTkkyMkdMa0NrRUxnVC1oUG9NcXlVNG82UXN0bTRzazMycGY3a1JFTkJiWnhZX3dWSE5qd2VWaUJmVkstbDhNVzVBakhMZWVkYTV2MGdoSHFPcnVYYXJuYWREWURjS2dTZGNmOU9IR0NqYWdab0JSWjJxam9zUTEyOXpaVUVFNGFINVlsQUFWdEctZUVqc0xyRUphNjRnTzI3SkRTbHZvLXlSOVpCZzJ2TUlnc2xYOFlrVTZFaEZHT2lzWjNGUFpUOA?oc=5",
+    "fonte": "Forbes Brasil",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "WRLD11"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa encerra em queda pelo 9° pregão consecutivo; entenda - VEJA",
-    "resumo": "Ibovespa encerra em queda pelo 9° pregão consecutivo; entenda VEJA",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFZtT3Y1Yjc1UlpEZThKSWdkZ2dkUnNlTFFsSFR3RkJZUDFsVU91bVBPS2hzMllSVWhrRklQNXkzaUh0MnN6dWV5UjJXd1AtX0w2RE9LQUZnX00wTDNTdjlqcGxkNHY1UjYyWTkwZXpGUWpLbFFYNnd6bE9uVy05VUozNXpmbzRSMFlxdjFYUnhwbW5GOUNvRWMzTQ?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil - G1",
+    "resumo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrLUs1UkYzZGU1RkI0d1A3OVIzOWhNdDFNT1I1anZBTkpOOXY2VjlSLUhpM0VsUVdIZG5PYVZjSTNDZFdPMUxZUXktTW8xWDFyR1ZIU2sxREUtY3A0ZmF2V0JWc1VFV0s5V1JKYkdyRFVrbmJfMHVfRdIBhwFBVV95cUxQSzN4RkNNdGkyVVdneVVFQld5SVJYbE9nOHc1MVI5MTd6MUN6ajl0V1JHaF82VHFvUEh0cU9LeUtoUGlRZnZfVnlKSHE0dTl4ZXc4OVpILXZaS3BLQXZCNVZpMnhmVDF2N2tlamlfU0tNeWJEM08yLWJQS1RqUVRIZzdxTmgyVlU?oc=5",
+    "fonte": "G1",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa opera em baixa; confira o desempenho das ações - trademap.com.br",
-    "resumo": "Ibovespa opera em baixa; confira o desempenho das ações trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTZ6Y09saGpEb3pVdnMxTEh3U20yMmV3ekhESUZIdGp3ZnlVU21LeTJ3UXM2bEdyUXNOQ1p1WHFkaWRXZWU3TElIR3l0OXlXaHlLTUIxdy1hUEl5U19QZ2U5bVd5dWM2X3NhZkdjd3dCMENqdDlmRGVNVGhET29XejNhRGJJb29XSFNYdHBkQQ?oc=5",
-    "fonte": "trademap.com.br",
+    "titulo": "Dólar sobe a R$ 5,22 e Ibovespa encerra semana com perda acumulada de 3,2% - Bloomberg Línea Brasil",
+    "resumo": "Dólar sobe a R$ 5,22 e Ibovespa encerra semana com perda acumulada de 3,2% Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQU5xY2NCbDJ2eVVjMC0wWGg2V1h1VGhIV0tmTWVLM0tHaktFNEZFVlZuSWpWaFg5UFlpV0FWUEZMRHBmV1FZdUVOT0k5UU1HODByODBjU3gwNFVucVVFdEJTNWNiRkNERDVHcHZNR0tWTzE1NkE0Sy1iUUN5SWRQOFJMZ2M5S3FGMHQ3RmxVREYtY3pMMU5ZMHJqclZQRFdrWTNHek9TNnZsc2RsV0owUk5IN23SAcgBQVVfeXFMT3FWc1BocVJkZ2pPS2l6QlRjakdQUFBoc0pSN2xpbllNUjJGVElkVlFwNjRIZXAyNkU3QTZQbUtIN1FmU0ZwU09JMVlOYk44VUlfVnJDUkw3UjM3MlNfZzZHclhOMXBUeVhTMTVXckZhQndUNmFRZm1zN3RVOUpySHp5MGItMU13STZMMVRlLTJIQmU2Vnp1UXRaQlJBeHJFZkpaaE5CSkhMdTN1d0dBQW1lek9Mb1hKbVEybjVQSVIydVltcjVoLUI?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Yduqs despenca 7% e fica entre as maiores quedas do Ibovespa; veja o que desagradou o mercado - Estadão",
-    "resumo": "Yduqs despenca 7% e fica entre as maiores quedas do Ibovespa; veja o que desagradou o mercado Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM3B4ZVpCSlNITmRBSi12WWplMzl5Z1NwQWxtbF9lM2tLMzZwZDJaRkJSVEV3bjVScmFDb1Zmd2FFaUlFM1QzazU0NHVuY2R5LUpyLXl3d3FZVUl1RnhBZzg4TEh5cFMwTTdLdnZOZlByRUxoT1F6elkyZUstUmpLa29nY1l5OEo3djVrRmViZnl5dzBaYXh6bkdTUEY5RlpPMTVNWFFLaVU1R29FX1g1N2tDLUZDTVhfUkxZdC1DeERqTm9BbjdKUXMxUksxRHRSYkFZdFhjWm1DREx1MUNteFVfS2VVbjlKYTBJSUo0eWI?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Ibovespa fecha em baixa de 0,1% e dólar comercial sobe 0,52% - Canal Rural",
+    "resumo": "Ibovespa fecha em baixa de 0,1% e dólar comercial sobe 0,52% Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3h3Z0l2WnU0Wi1EdGxYMEg0ZUtPN2h5aDJRUWp3SW1QQTB5QTgxY1ViUG9wdGpwTmk3bURrQmRNZWFrT0tlUllGaDg2OVgwZEE2bC11SmhxYkltRTNrZWF1TFZGWFNQM3ZFOC12MUZqVDZxSHVGbzBqWUpjTjF5by13VGN5V1hxMDJzSHF1bGdvMVBpdjFmRENsTUE?oc=5",
+    "fonte": "Canal Rural",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa recua em dia de vencimento de opções e mais balanços no radar - Notícias Agrícolas",
-    "resumo": "Ibovespa recua em dia de vencimento de opções e mais balanços no radar Notícias Agrícolas",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ0JxRHN2UzhYV1hTaU9iRHFnVWpuVDloQU53TUMxQmV2dTR3Ym5EbjRvUEtWS0c3ZnNUU1kwb0plQXRqN2VNX1FXZFI0cDY0U2g0ckxaT0tiLXI3eEl4QXp0TjFHOUZkX0sxUEJScWJEVmtTdVhXa2lTQ05XMmJ0OHMtelo0eUk0OWRmWEk3VEYzVHdxa2p3UzJud1U5Q01qdWVXNG04cE5zMndOWWVfQ0lxbWpqLWhQTjdvV29OWThGMWxkSkhIZXg0dkNLd3VGSXM4dXVudnNtdUYydURz0gHkAUFVX3lxTE5RQjdOaXlsWDZQeTdjVHQ3Uzd3OVlsbTQ5eXcxTC1nSkR4cW5nYzRHYnE4VmRieFE0N3ZFU3ltMXNPVkRQMi12MGRXQjQwcEVoUHk3SHdERG81VVVkLWlKQ1hNbjBHTVNQejBYdVVaZzJiRU1IazFXTEg2RC01aXNiZXF3Si1zY2NSNUJlUk9FVTVHc05faGNmak1Hc3ZxbUo0bGRWZU1tWGU0MlVwb2JvT3AwU0VSbDBSR25hNVg0VzUyTGU3RTV1RlZidng2eUpoU09uNE96NjdOak9CV2NpQUN1Qw?oc=5",
+    "titulo": "OPINIÃO ✍🏻 Alvaro Gribel: \"Liquidação continua sobre a mesa do Banco Central, mas solução seria traumática, com impacto em vários tipos de serviços do DF\"⁣ ⁣ ✍️ Assine o Estadão em ofertas.estadao.com.br para acompanhar todas as colunas de Alvar - instagram.com",
+    "resumo": "OPINIÃO ✍🏻 Alvaro Gribel: \"Liquidação continua sobre a mesa do Banco Central, mas solução seria traumática, com impacto em vários tipos de serviços do DF\"⁣ ⁣ ✍️ Assine o Estadão em ofertas.estadao.com.br para acompanhar todas as colunas de Alvar instagram.com",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51SFhMRGxCWXEySGlnOFJTenUtZGkzUl9oZXc3eDhMcDNoQWhHV0RfSmppdVpMc2tvM255Wk5pWFBsTlo1VEdka1YzSmR4U1ZMLWE1N3FB?oc=5",
+    "fonte": "instagram.com",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "SPCX34",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Ibovespa recua e fecha semana com maior série de perdas diárias desde 2023 - Notícias Agrícolas",
+    "resumo": "Ibovespa recua e fecha semana com maior série de perdas diárias desde 2023 Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVVU4Wlhzc2xHSFdPeEdVMWcxemhnd0Q3dVRPc0hQaG1QV2xidHFnTWprOUhaLW9Zel9OQTVoVmIyc1dnZV95V0ctSE5NVTNoLW5EOXAydk1kQldTTEdTc1hwZHdVVmlZLVJBN3NMaDBreDB5OVdyMjdteW1HemF5Ukx0T05aZ3RQX3V0eUVmdHFqS2R5M1FlUE9UNVNlY3dDSXZjdXpJdGJNT0l0dTQyZFVYbHBVeWtRemdPQk9SbGFCMUV2Z1MwWGRwVjZxR2d6MlQ4Yl9wRXkxTjZUT1czRldaMXbSAeoBQVVfeXFMUE84bnROckZuXy1CR3ZjX1Y4dG9EWVhONmIzN19LRkZCd3lyRHJ0WWRSbFVDYWlPZFlZQlhVWmcyU1dwZk5HYUNDZEhzT1I5UlJjaUFTSERXV0U1VGEwX2JjZlVZNnBna3VhWVpLZGd2eEExQlNiWEZGa2lTX2xOQTJTbDkzUktzdVlVX2lBckZMQVBwZU03YXNSdEREQktxNERIblZPeU1mTUJJQWY4dkRJdFYtaVBEWjFSS3hhQ1c3di1MOGxSc0VpZU1ITmxpM1E1ZGJxTzJCaXpHSDFJRERXczdZUlViWmx3?oc=5",
     "fonte": "Notícias Agrícolas",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
@@ -60,10 +77,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Ibovespa cai: índice acumula baixas na b3 pós-debandada - ISTOÉ DINHEIRO",
-    "resumo": "Ibovespa cai: índice acumula baixas na b3 pós-debandada ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MWnFVT2hmUmRlYlpDNklnTkQ2aWlFaUNwRVJWQXJaVVdmUkx3em1ZU0NvZ1RPTnFQaE5tbWxBZEY5R3poZThjRjJPSjNvY1VKM2cxT1NEX0ZaajU1OXNNVC1sUjk1UVRXMDR1ZjZrYVVDelEwT21NVm9GYk0?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
+    "titulo": "Ibovespa recua com Lei da Reciprocidade e tensões no Oriente Médio - trademap.com.br",
+    "resumo": "Ibovespa recua com Lei da Reciprocidade e tensões no Oriente Médio trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1BXVGlwdVNfNjBKVVM4a3pIV0g5RHl5ajFPQ3VQOVJqRFVNcVJMZ2VNcUxLbUl6ZTJxQzAzZ01ZNnhHVnRSUWZtT05CdjBsNnZjUGpmOGlvM1JqVkstaFVUalZOSkJEYkpTTktIWS1LMTJxOGtlR0Q0M3IwRWd1blY5WGdWMWtPeGdKaGxsU2JwYklPaTJqZFVsZWNqdjQ?oc=5",
+    "fonte": "trademap.com.br",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11"
@@ -72,10 +89,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Reddit será incluído no S&P 500 na próxima terça-feira - Monitor Mercantil",
-    "resumo": "Reddit será incluído no S&P 500 na próxima terça-feira Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNXZIMGhqako2QVZ5MThYVmpKdl9FdFYwcm9hRkY2ekZRQll4NjR5M2d3QVZYNjFEU0RwNlRhRXJWamRJY1pBdVpVU1Z5UmFYLXd4WkdBc25NX2lOTlBUOTgtaGRTcTJvV0VsNG1qMkJrX19WNVdoMXBrc25fMmFVNm03REExVGtoNDNQR1VYNA?oc=5",
-    "fonte": "Monitor Mercantil",
+    "titulo": "S&P 500 recua, mas fecha semana em alta pela terceira vez consecutiva - Times Brasil | CNBC",
+    "resumo": "S&P 500 recua, mas fecha semana em alta pela terceira vez consecutiva Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc25GN1dMdU16THJnbHl1MC1McGRfZEo1M0o1ZmtrZkVhc3FXdFV2ZllJdGZkeXBsUXM2bS1Tb3JSYVF0V3hKVGNhb2lHOWRRR1B0MnFpclQwRmdhZ0lvLXhVUHlFMTRPM2RYQ0YzQlBlRTVHMmxnRlNaSktaQ3JoT1lPQS12dnl6N0lXUHhiV1NZbklhcXYwUjF6b19qam8xTkVIeFBtOWpSWXF0MlVYT21fb1d5QQ?oc=5",
+    "fonte": "Times Brasil | CNBC",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -84,10 +101,10 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Wall Street fecha em queda, mas S&P 500 completa a terceira semana consecutiva de ganhos - Money Times",
-    "resumo": "Wall Street fecha em queda, mas S&P 500 completa a terceira semana consecutiva de ganhos Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51ankwUzYzV1BRa2QyRERld0s1dEN4cU5mcXVjT2dtQVh6MUIyVUxZSHBsT2JqYmI2eVlIaWkzUmtKNk5wbW1ZMEVjQkhFTzR3dmRpLWdRUjVBaDRocTEtRUQxRG5ndw?oc=5",
-    "fonte": "Money Times",
+    "titulo": "S&P 500 fecha em baixa enquanto investidores avaliam dados e tensões no Oriente Médio - Terra",
+    "resumo": "S&P 500 fecha em baixa enquanto investidores avaliam dados e tensões no Oriente Médio Terra",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYi1TRTNTRS04Y25GX2o1S19wQUZlUGVwWjYyTUQ4N3FGS0xxZzRTcUo1Y1BMRHpIWHJNbWR3aEtHNDJBUlVYbjZtVnhIS2RBdFptNzNIVzV1ZnZxMG5mczBKRkp0SWduMTRsNnBDOGJoRUdkSTFfaXBJMlhRcFJYczdPYVBHOXZTOFczXzN4ZGlpbzVUOFpLTzRkaGtxUVJhQVdxSTNDLUZGQzZmcUZKNWl1TWVLOVQ1Z0V2RzM5Y1k2LUY1bmVxcVRnOC1MVlRrSHBDa2xqYzZ6VEJQdFVyWmZVR2VIdE8yTUhLa2VReVZ2NG1sRm9j?oc=5",
+    "fonte": "Terra",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -96,22 +113,10 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "S&P 500 fecha em baixa enquanto investidores avaliam dados e tensões no Oriente Médio - TradingView",
-    "resumo": "S&P 500 fecha em baixa enquanto investidores avaliam dados e tensões no Oriente Médio TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmRGNtWmYzelhpTnF2SlBJaC1wcTllT084cTVCX0xWa3BkaDdDSW5GbFBLWXZnd0pJakYySmljVnlrb1VtM1NVRFJCVTA1ZHF5aFhnRHdRNUowNl9aVmNxMF9oQmdqZTJSa01qcGhUWXgyb0N1Mndz?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Investimento da Alphabet na SpaceX cresce 100 vezes ao longo de 10 anos, para US$ 94 bilhões - Valor Econômico",
-    "resumo": "Investimento da Alphabet na SpaceX cresce 100 vezes ao longo de 10 anos, para US$ 94 bilhões Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUURkNUpsaFlhU05UQ2lHNXBtc2d5MkpvQ0pRbXhvZDNocmtMb0pOc0ZrVlNtVl8zMXV4MVo1Wm51VGd2eTFXcGJYY3lzWDNhLUZOd3UyNldjeTY0NGZDYVJVMDZ3VlRLNkxCcmQyYlRKSWhrd0gzU0tUVG1CMlFRVW0tejFGbjJYWkF3Mk5BNmdnM1NQa3c2X2J5WXhHV1VWUGZRMExDNW53ZEhTNWpScjZRRmpUdTZtRnhNSzB5SUZlS3VTWGVmZG5tV3dGTlQ5YkQ1eGJ3b3d1MmhtYnQ3cNIB7wFBVV95cUxPZHhWMndrWGhfcUJVUURPWGE0MVpTSGtHMC1UX0sxaFk3cGttUHpqZmc1dUtuZzFNLUl6RHFHbVlFTHBIV3Frby0zTElyU3ZzcTVmaTF0VFpwRTdlVDdKamRHOFdSWGFteThlVzhoRmdXWDFhaU50UmpWeFRVX2h1d0t6bmVjNVJOUi1xMHlRMkJUcTZ4NDNRNEI4WFd5djY0NTBXU295Sm5PUW9Ual80aklNTkFQSGR5YXhWMjZUUE0wVzFSaWg1R0FWTFV3QUhYQ0RqYlZwNzNRM2NFRk8ycDctNENSRXVDcVZMMW91SQ?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "SpaceX conclui compra da startup de IA Cursor - CNN Brasil",
+    "resumo": "SpaceX conclui compra da startup de IA Cursor CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0JSZnljLWFZTjRzRWFrOURpMm1TdHktVFI1cHpOOFJLWHRvWWllUGVPT3hEMTRtOFVtSnNEOXhxOWJidG9POVBjMzBTY0ZuaWF4emlDbEtqd052RnN4a0s4TFhtSVRlWGgtWmpKLVZxeGdjRWNOU2pBSGY3ckxPRGdYNS1GbDdoTFdSV3NGN1UtSlJ5NW5jYVlNdUJEUkIt?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -120,10 +125,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "SpaceX completa aquisição da Cursor, revela participação de Musk e ganha rival - UOL Economia",
-    "resumo": "SpaceX completa aquisição da Cursor, revela participação de Musk e ganha rival UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOElfdm5FejVCQzFPTkdzSHRydnR1dlQwMTg4T0k1eC1DZE5WbVIwYmRUV2FwSk41ckZ2ZTVHZFpkdE9WMnVSVVFrc0RSMGVwdWg4QkFSazA5Q0RQZThtRVpJUVJ5emdDY3ppVXBmV29XbGRxVGRsY2Fwakl4RDEzaW1zem8tTUVRWUZxYk9aUy1wZmk4LS1HTW1jTjZVZmw4WmR0TlAwVnVQWG5KbnFCSUdEemNFeG00ODJGUktrQlFIcGpRWEhtdHFKWXBBVkExTzFad0lXTG4wT2NyOHdv?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "Elon Musk anuncia a construção do maior edifício do mundo, com 9,3 milhões de metros quadrados e custo inicial de R$ 86 bilhões - Diário do Comércio",
+    "resumo": "Elon Musk anuncia a construção do maior edifício do mundo, com 9,3 milhões de metros quadrados e custo inicial de R$ 86 bilhões Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ2NxR25KUzdLVlIxVkVfazJxaXk5bDdDYVN4b1F6RXpyM3lneUl5RlFla2NJN1JCajU5MzNCazIza0xGVkNxZFFvUDF5WThYdklFNzNkdnlVd0xadV92UDgwSjNIcEdHZy13VWtIRG1YVGdqVkc0cTl6LXVtZTJma1U1VFAyOXFETnRXLUUwSW5nNkY3WXpZRWJYLXQ2WlBZbDYwQ0RLV1VVSmxUTTdWb1VqckxSREwyYUJ6SjFBT1c5OTZpOUdFUHVkV0ZIN3hHOS01cGF0a3pBZnlTYlhPU1BuaHpiN0hxWTN4V3NtV0VHSGM?oc=5",
+    "fonte": "Diário do Comércio",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -132,10 +137,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "\"Efeito Musk\": Como o Pacote Trilionário da Tesla Puxou a Remuneração de CEOs para Nível Recorde - Forbes Brasil",
-    "resumo": "\"Efeito Musk\": Como o Pacote Trilionário da Tesla Puxou a Remuneração de CEOs para Nível Recorde Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTFBOSHJSQlF3bGlkQzZiLUtuVkc3V25wY0p3VXRIZ2pxU1lGb3E0eXZsekF4dkx0Vm56UGN5LTV6U2k3NVlQSGxTVm1RWGdBZ0NfbFhqSUJBaGxMUVlKeWFUalpRUG5yU3BvY1pUdno0SEdqWFFxUDVLX3IyXzR1Zjc4blBrV1pkQzZObEhuQUFtT2xmTFBfN2kzQVRYMHp5SDR3SG5DWi1lS3NoMXdHSWdoVGV4b2puOVNSR3J6bF93b0RUN3B4U0RkX0E1dw?oc=5",
-    "fonte": "Forbes Brasil",
+    "titulo": "Elon Musk troca carro elétrico por combustível fóssil na corrida pela inteligência artificial - VEJA",
+    "resumo": "Elon Musk troca carro elétrico por combustível fóssil na corrida pela inteligência artificial VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEdDc2xiX25mZ0prXzljUjg5RUN3dmZtaDZsSVkxR21RNWs2eGtxOFh3T3pHUXRmX2FJelROb01iYXM1RDJzem10VC1wZFo0eFlYZUsyTHd0YjNlUXRFQUx4NjJLd09BbThoNUtpSkQwYmFwUU0yTHk5UDdDYWtuXzctT0lGT3dwWTdRWkQxVkpXNFJVdlJVTWVmRFVBR01YcU85QzI2XzZEYnh1akdCNTV0S2szSENPc2Q1V0NXNzlfRmtZTHFhLQ?oc=5",
+    "fonte": "VEJA",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -144,10 +149,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "SpaceX conclui compra da startup de IA Cursor por US$ 60 bilhões - InvestNews",
-    "resumo": "SpaceX conclui compra da startup de IA Cursor por US$ 60 bilhões InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1VMTzZfZG03bmlnNUp6Q3JsUmc5WGp4aFF4WlNOWC1MbnZtNGd3RXVWMVFiTHFQbF9zVWhFVWVGNjkxVkFzRkh6QjZWQjh6bmVfZ1E4cEJWZ1hZZ3oxaXFKQ2tPMk5wREp1eFozWl9BanpMZVUxM3lfQ3U4b3E1aVJPZld2MXAxLXM0WGFTVk5kUTFVdGVYT3ZYSnhreHlz0gGmAUFVX3lxTE9sNnQ1UUFEcVl2YUZPTldkU1hIaUhUZmNPd01MdVc5eEZJdURnaEJTRVZoX3l2QktMX2stMEFWdFdmd0lkQkVUZGVOTUk4Q3I2ZEg0dTU4NGhSSmw2dXBHbGxMN3VIRFpNZ3JHbnRLemVBZDJwYVB6OXJrdVpaNkxvZmg0OEEzRTIwN2czdHZtcTdDVG9BRjBJX255VHJfWGVqQmZtb0E?oc=5",
-    "fonte": "InvestNews",
+    "titulo": "Nvidia tem participação bilionária na SpaceX - Olhar Digital",
+    "resumo": "Nvidia tem participação bilionária na SpaceX Olhar Digital",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmdiYVlRNGVhTXBTdFhJZ0I3eEVqUzUwVFg0d3VEWXpLX0V1bGtnREkzanUyZnk4cTU3YWI4UHVPTkFxQ1YxREFUU05heUFFZFRuejRqa2hnQTRaS0szZzRpZ1VYZGZ2SmZhdkY2STJOaXp1UVZ2TFBMaWNRQVFIdWVOaW1WVjZ6NHFfQUNZRjZHUQ?oc=5",
+    "fonte": "Olhar Digital",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -156,9 +161,9 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "China mira tecnologia “nível de Jesus” de Elon Musk com nova política para chips cerebrais - Times Brasil | CNBC",
-    "resumo": "China mira tecnologia “nível de Jesus” de Elon Musk com nova política para chips cerebrais Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV2hJclRRRlJxd3cwenFkalNLUDFtcGh5aWw1OXIyb0NXZGNqcjloenFhNmRJZWtFR1hPYU5uYjY2dTJFb1dQbnBrLVNUSlZ5SVJCLTRFRnBleW1pRkdSLV9XVF9TMko4SVh6WWdWYTh0YVo1OXMxWUw3N2duUW95aVpYaGxtMWc4M1NOcXhCRDEzSjBmUk9tWmotNnpsTENoQ1lj?oc=5",
+    "titulo": "Nvidia revela participação de US$ 21 bilhões na SpaceX - Times Brasil | CNBC",
+    "resumo": "Nvidia revela participação de US$ 21 bilhões na SpaceX Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjBJVnl2bWY5WmkxS3hzMDBFZlVoSGYtNEdJWi1YU3FfeDVRcHNqODRPQnNEQTE2UE1pTTNiSWlFYjZRRnhuZC1TQ0hORHNWcEs0cWhKTUF3TmVzcDBQenJvQjZzcmFsZnVfNzhsdkNaUFg1X25XRk5kTW5ZWkNkdHhfX2htNGxUcEF2NGkxMURNaW50NHFHVzJteG43UkhyVHlZ?oc=5",
     "fonte": "Times Brasil | CNBC",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
@@ -168,10 +173,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Alphabet transforma US$ 900 milhões na SpaceX em participação de US$ 94 bilhões - ADVFN",
-    "resumo": "Alphabet transforma US$ 900 milhões na SpaceX em participação de US$ 94 bilhões ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYm5XWEtIMlgySXItNk1vcG0xdUZOOUhYX1BtejBFa2RCV1h4T1pLMmZWQ2NMYm9kcEFiUVlpWTFpcXR1ZEU0SnVzNjEyUlhUYzRJaHZGYkgzbDJ1NDB3c3JvWmxqZXBvY0ZNNEZRS3JhMl9UVWthUnJZM0d6QTBZNlpZVFl0Tkpza1AwQTZVOA?oc=5",
-    "fonte": "ADVFN",
+    "titulo": "Elon Musk anuncia a Terafab: a maior instalação industrial do planeta com aporte de US$ 16,8 bilhões - istoedinheiro.com.br",
+    "resumo": "Elon Musk anuncia a Terafab: a maior instalação industrial do planeta com aporte de US$ 16,8 bilhões istoedinheiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lQmlmYnZraklsdGRxWTV5S0htbzF0Tm9FcC16aVFkdTg0VmxGWkR6Z3prMUhXOEVpTm5lQ09LaEhzbkEwSlZpSW9Ud0VVckdSZDQtY0tOTDBoVllzbFFqMXI4WXIxRllXLW8xZEllNGVlY0piaGVveEwwcjQ?oc=5",
+    "fonte": "istoedinheiro.com.br",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
