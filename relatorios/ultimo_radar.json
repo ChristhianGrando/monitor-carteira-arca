@@ -1,25 +1,70 @@
 [
   {
-    "titulo": "Ibovespa cai 3,23% na semana com preocupação sobre tarifas dos EUA e balanços - Estadão",
-    "resumo": "Ibovespa cai 3,23% na semana com preocupação sobre tarifas dos EUA e balanços Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbllWZ1JtbVZqUTlmelFCT2JGdlhJNGJ6b2dBd3RYNFlVVU5kTEU2ZkdSZUlyd1hieEItMDBQeEhYTGFQQ2VDWW1DcV9wb3FXNURvRVEwcTRueEtsRzR3aXp4Ym9QRlRDRGZDVzk1RlhVZkhybmRoR0lxVndpSVBfQ1JwcGJFVXlRMi1sYVB4UW9MNXlwcWpCOS1xbHY3ZE5jT0JNbWdBRGt6Q20tX21PYjRZaC1NN2t1bTJWZmtFemY3Y0Z4LXR3dWd1STlaMVNZb3g3d281RFpuZw?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6c2d3653fc63f6aa63c953dbb33bd9a89a248e6cece554ed4839416deed6813a",
+    "titulo": "OPINIÃO ✍🏻 Alvaro Gribel: \"Liquidação continua sobre a mesa do Banco Central, mas solução seria traumática, com impacto em vários tipos de serviços do DF\"⁣ ⁣ ✍️ Assine o Estadão em ofertas.estadao.com.br para acompanhar todas as colunas de Alvar - instagram.com",
+    "resumo": "OPINIÃO ✍🏻 Alvaro Gribel: \"Liquidação continua sobre a mesa do Banco Central, mas solução seria traumática, com impacto em vários tipos de serviços do DF\"⁣ ⁣ ✍️ Assine o Estadão em ofertas.estadao.com.br para acompanhar todas as colunas de Alvar instagram.com",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51SFhMRGxCWXEySGlnOFJTenUtZGkzUl9oZXc3eDhMcDNoQWhHV0RfSmppdVpMc2tvM255Wk5pWFBsTlo1VEdka1YzSmR4U1ZMLWE1N3FB?oc=5",
+    "fonte": "instagram.com",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "9f9ad16b9be156f55f2fcea644fbe9fe8123364cc19d93c516ad9c499b76df18",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "SPCX34",
+      "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central liquida Simpala e bloqueia bens de controladores; clientes têm proteção do FGC - veja.abril.com.br",
+    "resumo": "Banco Central liquida Simpala e bloqueia bens de controladores; clientes têm proteção do FGC veja.abril.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0ozTFhPT0ZfVVZoWE5tV0RQVXhJbmZOZE9RTE1aTG56TDNNTDlZV190Vm5tX3FjcE43YkZyU1M4QVpabUgzcjlPc2FNLTh6M1Nxb2J3RGl6MHlHNm5ZNkpBYVRnY2R2T2hiT2txTUVjQ0pSWE15M0d6MlJsYkxnTkZtUFdNcl9vaGlZcUhlSHQ2a3JTdjhvX1lkWF9UM1FsVnZKR1lwMzR1bVhwTnZvU25IYUZRV0RLd1JvdndWaC1FQXR0UVE?oc=5",
+    "fonte": "veja.abril.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "35a96b3ccf953cdee44df4e5c65eef9cdab177411e92fe1b844f2e84e25e1288",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central liquida financeira e empresa de consórcios de Porto Alegre: \"graves violações\" - gauchazh.clicrbs.com.br",
+    "resumo": "Banco Central liquida financeira e empresa de consórcios de Porto Alegre: \"graves violações\" gauchazh.clicrbs.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNaW9CbUNiUi1OeVp1SWtRWTVrRm9CN1FxQnVlRWFEQ2ZqcV9CWmNXZkdxWlBzNVkwekFrMzhyVkNEdThpdTh1ZW1vNFdmRE9LMnVWYk9wT05QeDA2cFA0MFhXMm9qV3ZEX0hBb3hfRl9rVWhtM2J0T1AxNXBaVVd4RXNEN0RVWGx1UDFDeXhHbERZS3U0Qi04V29NY0Y3YnF2akZqSXZWRkMzVHFidktMT1Z5aWtOM0JyUU1VcWw1bXZ6TzNrT01uQWduQklVZzdkbWVqOFRLdWxCUVlMNWYyWlFUVjc4VURDS0pncTJLRGl0Ul91b0tLQTdTdHl3cU9fV3FZRWNvOTFuOVRlRXFJVUdnWmlOaThkUHZ2ZA?oc=5",
+    "fonte": "gauchazh.clicrbs.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "dd254e8ba0c236307013e71919a643e9938d35f6957ac12038255e435d96d196",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
