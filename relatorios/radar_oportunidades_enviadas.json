@@ -1,22 +1,5 @@
 [
   {
-    "data_envio": "2026-07-15 23:14:22",
-    "chave": "9dbbf041ccbb1405de599abfbcfee3d12e6335e443af4da1a29330837cf5eda5",
-    "titulo": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar fica estável em R$ 5,07 - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjdGZllzMk5OeW5qVkZyZ1JkWWhGTEF4V2ZBUjUwekNLN3I5UHRtV1cwcWlBN0NiN2hQenczN2gtcE5wSll2TzY5VzQzMW4ybzdaX2hxT3E4NGFIWUhWbktyVVdNOERxbkRySE5USkpTRUxGVlNLR1NSa2l2dlJ1cnRDak9ENDNEcGFHNXF5aw?oc=5",
-    "fonte": "InfoMoney",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-16 06:31:23",
     "chave": "111763629fa59b19f24d7fce0cec1a19b3d5eb5da75898ee3c9e691c3de31337",
     "titulo": "Ibovespa fecha em queda descolado de NY com investidor à espera de decisão dos EUA sobre tarifas - Notícias Agrícolas",
@@ -17137,6 +17120,25 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-15 17:34:53",
+    "chave": "e738d96ee475158ec27d9b9828ad5376e389254a4c3d5a062d28465bd3076334",
+    "titulo": "IPCA desacelera e fica abaixo do teto da meta - FIEMG",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMVhCeHRmOG1xY0pSUXVUamNiTktOclFZYk02dS1YUkZYTDZheURMaHRaaWFpSm9pQkJqc1dGN2dEM3BlTDlNOWxzU0Z5a3dZTUZfOGhEUUp0czRLRlBLX0FKU2VKdi1hWkcwMjdmSWZJMlZWM29rMUZoWEJ1R1NSb0M5bGRSa0szUG1mdHlFSHFNR0hWVG1YTUZ2NTVoYUdRM2ExcWJBTHlrRUdLT3plTzgzdGFrcWp2MWFtVHVsa2ZfSDA3T2c2NnlaVTFVS1RhQ0Y2UUhNTEN0eEhFSE1aMG9JYnRub0pUWjJqMFgwbzZMUjY5RWNEQVVlSjl3YVZ4?oc=5",
+    "fonte": "FIEMG",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
