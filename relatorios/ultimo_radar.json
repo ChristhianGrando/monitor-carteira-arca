@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "titulo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil - g1.globo.com",
+    "resumo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil g1.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrLUs1UkYzZGU1RkI0d1A3OVIzOWhNdDFNT1I1anZBTkpOOXY2VjlSLUhpM0VsUVdIZG5PYVZjSTNDZFdPMUxZUXktTW8xWDFyR1ZIU2sxREUtY3A0ZmF2V0JWc1VFV0s5V1JKYkdyRFVrbmJfMHVfRdIBhwFBVV95cUxQSzN4RkNNdGkyVVdneVVFQld5SVJYbE9nOHc1MVI5MTd6MUN6ajl0V1JHaF82VHFvUEh0cU9LeUtoUGlRZnZfVnlKSHE0dTl4ZXc4OVpILXZaS3BLQXZCNVZpMnhmVDF2N2tlamlfU0tNeWJEM08yLWJQS1RqUVRIZzdxTmgyVlU?oc=5",
+    "fonte": "g1.globo.com",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "8ca1d11032d145f92ece72449d0c1ba183f7d5e3f1d6ce9b11feaa49649180e5",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
