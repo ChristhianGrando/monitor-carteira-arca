@@ -1,21 +1,6 @@
 [
   {
     "data_envio": "2026-07-16 16:41:39",
-    "chave": "dd86c67dc3ea7ee70945b2c725eb178383f977e9ee6126ecefedfc9a3ad737f0",
-    "titulo": "Análise | Alan Greenspan foi um dos mais influentes presidentes de banco central da história - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnF1OTI2RXAxSGpPYlVMNDNheDNHU3dTZzVxYkdsOVdCcXRoX2gwM01vUUI4S0JwdTdYdkFnMDE2UmNGSVN0MTM3MWhKNnktYTJlNHUzcU45eE1sVlhETWFSenVlYVlkeVozTlV3N0xvMkRnMGU3eTJ1OWtNQmRNUjhWQTFRdUpLMl9maHFfeEdOT0F2UWV1QmJ4VkZxODJ6bmp5bFhnTTJEckdwbjVHenNBQjEtMFpIakJoNVY1aDR4Z21XbFE?oc=5",
-    "fonte": "Estadão",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-16 16:41:39",
     "chave": "0d2dd8f71c1a1712c4809ceba4e39961cd0c0d212784918fa81a959010be5a17",
     "titulo": "O Ibovespa pode até subir, mas talvez não compense o risco - Estadão",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2pTbkswV1ZLMndQeDZNaFRzRWl5U0NSMkRJUTN4TmpRUkRBbFFPWHJRbUV0aE1yMVAwUTdVdHAxeXpsWVM0Tk4tOFF0NllNOWFGejF3cnVPSEh4czUwVzFHZWE5d0J6cHVwdWVRNmlrRWhlY3BuN3Z4WTRTUzhhZFNVa1R1QU4tRGxmbm5MX3dleF9MY2FKUnBlM3JmSm92TGF3dUQyZzhocHBtYURHVmh2d2w?oc=5",
@@ -17149,6 +17134,23 @@
     "classes": [
       "Ações Brasil",
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-16 13:00:26",
+    "chave": "9f3f5ab3bf1ed5ba7f80ed910dd75d91502b34a89a0afb53971d01e3eb61bca2",
+    "titulo": "Bolsas europeias superam mitos de crise e Stoxx 600 acumula 10% de ganhos, pouco abaixo do S&P 500, aponta Goldman Sachs - Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHZzTldHMnJkSlROY1NraHk5M3JEbjZ1TFd0NGlmeDlZMDFoenA2enUyTVN5QmRQekIyY3A2V3ZvOUNCcmRUOEh4ZldlMUswc0VFbmVHZE4tdExJQkxXSGVxLXkyUjVjYlBpR3Nvb3NOWlpyUXFtdklVNEc1SGdMaWZDTlJ6TGR4MnhLdGwyNFVPdE8tVG1V?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "score": 10,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "WRLD11",
+      "KNCR11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Real Estate / FIIs"
     ]
   }
 ]
