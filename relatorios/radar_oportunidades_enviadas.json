@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-16 16:41:39",
-    "chave": "0d2dd8f71c1a1712c4809ceba4e39961cd0c0d212784918fa81a959010be5a17",
-    "titulo": "O Ibovespa pode até subir, mas talvez não compense o risco - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2pTbkswV1ZLMndQeDZNaFRzRWl5U0NSMkRJUTN4TmpRUkRBbFFPWHJRbUV0aE1yMVAwUTdVdHAxeXpsWVM0Tk4tOFF0NllNOWFGejF3cnVPSEh4czUwVzFHZWE5d0J6cHVwdWVRNmlrRWhlY3BuN3Z4WTRTUzhhZFNVa1R1QU4tRGxmbm5MX3dleF9MY2FKUnBlM3JmSm92TGF3dUQyZzhocHBtYURHVmh2d2w?oc=5",
-    "fonte": "Estadão",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-16 18:19:40",
     "chave": "8319f323fc2bb51ee65ce7bddca2e618e4d8f63438e06da1aec433baf82d9097",
     "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai aos 175 mil com repercussão do tarifaço dos EUA - InfoMoney",
@@ -17151,6 +17136,21 @@
     "classes": [
       "Ativos Internacionais",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-16 14:39:02",
+    "chave": "31350171f8005c017c37f57a46d497c4987c6ac050a8b04c9380fb8e9e712529",
+    "titulo": "Trilionário por dois meses: entenda como a SpaceX fez fortuna de Elon Musk despencar - Francês News",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQjBkWVFGRkM1Wl9QWGNRTVB1QW9MaXFSVzZBeHNBeFFmQXgxRWlzbDhPdmpFQmJObnZxUW8tZXNoWWI4OVFwb1Fnakp0WGt3T2s3ZVNieFhEYzh4cDc3YzIwNkVjbzhuU09YNGZQX2xramVRYnlNZTdTcmRJM0ZJRHVFZnMxQlJqLTh1Y2M0dVppYm9pc3VuTGRGZWpvenVPaWpHWm1PazdZbDZ4WXdlY0lnQy10YTVHR25wUVhwcXh2VkxhbkloWmlOLVQ?oc=5",
+    "fonte": "Francês News",
+    "score": 9,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ]
   }
 ]
