@@ -1,34 +1,37 @@
 [
   {
-    "titulo": "Dólar vai a R$ 5,21 e Ibovespa tem 9ª queda seguida à espera de pesquisa eleitoral - G1",
-    "resumo": "Dólar vai a R$ 5,21 e Ibovespa tem 9ª queda seguida à espera de pesquisa eleitoral G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84M2pjU3huVEZIVUpNMk41MWItYTJJc2hJb1NGbjZvdnhhbFJBeHQ1YTQ2UlNheFpWc0JyOEl2UFVTZFJZd0NfTHVCNXZhNFUxNTc2U1pVSDhZRjY0UEFOMkJVS1VvVS1PWTRHSkY2cVpoR3J5aElBRtIBhwFBVV95cUxQS0gybFMyRjVmcmhnQmF2Zjk1QW5lYVBPT000eGYyYmNnbmhWU2dxM1Nna19FRzJGbXl1ZWNOdmJ5dEFpd19QcnQ2MDNFcEphVndLeUlYQ0I1ZmxyejJJQ3ZVNTdxRzJTYWNVcFpHelRlU2hQbFpzdDhNUXhMNXpiX2VQbkJJX1E?oc=5",
-    "fonte": "G1",
+    "titulo": "Inflação perto de zero emagrece retornos do Tesouro IPCA+ - InfoMoney",
+    "resumo": "Inflação perto de zero emagrece retornos do Tesouro IPCA+ InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXVFVExIV2Y5QWFWOUZpWmZVeHhJWG9TV2pfNGlJRW8xWUkyZWRIVGlkU3gwdFpaeHRyOEZnbzV6LTBwRnBsVVJGSm40NDVOUk0xdEh4b3hmT1J3czJxMktGMFFQTXIzR01SYjZlOXB3QUFHZEdyaVZXejVnYzV5ZFY4S00wUWVYUzFPbkg1dWdRdFgwUVUtZUtvYUIyUlNhVEHSAacBQVVfeXFMUEZRWmpwUjJpeHZuakxzRjgxUXhmajdvclN4Z1l1MnE4OUFFaUtLVmJzb1Z6SjhMZ19BV0VpTEktM0VZNVZtQVFvX3F2YVlzRk1feWFWeEJ5YkdrMTVwaU9wd3JvaFpHd3FRTG5QRXNqRGthZUluajVyWVNOWnVHcC1HN2R1V1AwX1R0TUVPVjc4Wk9Bb0dvRXZBb0lXS3VTRFZzb1pHcTQ?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "WRLD11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Inflação é a menor para julho em 4 anos e fica abaixo do teto da meta, mas vem acima das projeções - Folha de S.Paulo",
-    "resumo": "Inflação é a menor para julho em 4 anos e fica abaixo do teto da meta, mas vem acima das projeções Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUQtaWZJeWJIS21xd0hVdWZkc0xqYmt5LWVSMWs1SXpzcnFObWdfYUdNUXJkQWFDUmtBYTM3c1FSRmh4YkpkVWtYbFgtSDBSdXhYMjZ1REdHS2VZdkt5cGR2Mm5Kd3hpTGxRbXNfUlNHay1ZSndNNU1NN0RKNnBjNnFFSVJXOXpmSHE5amVXRFI1dWJHTFd5U0w1TUlvZENaRWRWNk02SGN2TWhWUjM5bDhwQ2lIOU0?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
+      "KNCR11",
       "CDB 100% CDI"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Por baixo da alta do S&P 500: desempenho e fundamentos divergem - br.investing.com",
-    "resumo": "Por baixo da alta do S&P 500: desempenho e fundamentos divergem br.investing.com",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTNZU1NRaTQyellnTmNyc29weHFFNWhEN1RycFpGdktyZjA3azBCVFB0YUh3V2N1WTBrakxmMjhNVkhqRnF2R01rd3ZJQXZhelhfT0ZYbVMwT2N1OFA4cUlVelNOSElxRXZNSmFXYllvNURpRFJrNzVONDAzZHRxT1RkNGRidWdQX2taazN2V1QxSUNyOHZpRl8yWmd2WGtyNFZYbmZaM0JHRDBpYVNqYkRyN2xoZ0o5?oc=5",
-    "fonte": "br.investing.com",
+    "titulo": "Trilionário por 2 meses: a ‘marcha à ré’ da SpaceX que fez Elon Musk perder bilhões de dólares - G1",
+    "resumo": "Trilionário por 2 meses: a ‘marcha à ré’ da SpaceX que fez Elon Musk perder bilhões de dólares G1",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOGtpS2pCOVlZcU5Kd09UNFd4dk5nSTdGbHY4NDZtLTl3eFlBTmo0ckdnQkxwU3pFanVhWGlCNmQzZ19Hc2RlQmdBWXVMV082bnFCZ1VqenpRMlZYUTZPcmdOcnZoU0ZsUklGNkhsZFYyUmZxTGF6VFFrQnZjVFp1ZlFlbUcxeHRjZHl2WmtFNm0ySkxjakJfbDkxMjNiYVRlTUN6UHU2dVJDaFNpYlY5a19yM0pmZGNkTDVFdFcwemVmRVBaVTZSN3pudlJJeWtNbkw2bjJ5MENtTVRuNHJB0gHuAUFVX3lxTFBjU01Ga0U0SlN2ejBBdUNaLTViVHctNmFBdFJ6ZGJVaFRkalNDaF8tOHRoM294X00ybVlLUkhLN2hSZmhLSE5tNmVMWndqb1ZwZTdQTlpEYU1TZXRrODJyVWtBWXlvejliOXRjVG1EQUNCZXZJQ1FaZ2RPNnFnQ3RpemR0TXNuN0xid3ZmeWlZemtPMkpMVlA5bUZSd3RSbVJmcHA5T0ZRb05wWmJnZWp3eWJBMGI0czVabHlpalZ2bHVHUU1LZ2J0Unp6VzUtbkJ0eURvaUZ1aUlBcDFBUkRCbmpKTlJGeXhEX1UxWWc?oc=5",
+    "fonte": "G1",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "IBOB11",
+      "WRLD11",
+      "SPCX34"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Previsão para o Índice S&P 500: JPMorgan eleva meta para 8.000; Lucros de IA podem impulsionar ações dos EUA a novas máximas? - TradingKey",
+    "resumo": "Previsão para o Índice S&P 500: JPMorgan eleva meta para 8.000; Lucros de IA podem impulsionar ações dos EUA a novas máximas? TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSjdwUm54SFdJc0g2RUJFeDBLNkR6akpuNVZQeUpLc1RRRnJGQUFYT3NDNmR6VkFDdlJITGxUOUJQcUJMdE91cC1vRVdGVU1PN1lPVENsTFRWOS1ZdTd0VmFXYUg4cmpfbTU3bzJwaThvVm1YdVpIaENDWWJEWUpEVlp6RWxSVTg1TmNDZWwzX1VzU05iSjV0V200VXZQY2FINjlqUDVTVWR6a1hXeW0zU2xQTWlwb2pKNHNOYmY0SlFjZWNCWTFfUzYyMGphVVk4RnFxWjI4Z09sdw?oc=5",
+    "fonte": "TradingKey",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -37,142 +40,59 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Nvidia tem quase US$ 21 bilhões em ações da SpaceX - Folha de S.Paulo",
-    "resumo": "Nvidia tem quase US$ 21 bilhões em ações da SpaceX Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemF4OERLNEsxSV9XaW5SVDZsQXJQUDFWLWRlcEx5a2tKVW40V0U1aThYOE14ZnpOT0c1RklHTGROLVE1V1F2Z096UEV4ZnJLM1ZlNFRTUDd2Nkh0X05YQ2FnRF9meEN3NlhiNFZhdTNDLTlyUl9VRzNBVkJLemdBM0tRdEZKbzU4UHBkMU5SSkQ2MXNfcHhRS1lRc3cxQktmV2dV?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Elon Musk pretende construir no Texas o maior edifício da Terra: Tesla e SpaceX planejam uma megafábrica de chips com 9,3 milhões de m² e investimento inicial de R$ 86 bilhões para abastecer robôs, veículos autônomos e projetos espaciais - Brasil 247",
-    "resumo": "Elon Musk pretende construir no Texas o maior edifício da Terra: Tesla e SpaceX planejam uma megafábrica de chips com 9,3 milhões de m² e investimento inicial de R$ 86 bilhões para abastecer robôs, veículos autônomos e projetos espaciais Brasil 247",
-    "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdzJJczhFbjl6MmlHY2Y4RWVtZldCeGlmQjR5QlI2YUhVcERFMlE2amg0SWI4bVozTDdQR0dpdmNQUXF6R3E2ZW16WFVrdndmSzFkdW1EOUdqRUhLSlFheDllZjM1Ml9JN0JybjhhRTd6dlFDd3RSTGlyUG5YeWpMT3JjN2NOS0xzc1BPRTd4bFFQLUhfNDdRUHI3OTRGWFIwaDJZNHRoSjU5cGU1cHFVUFVvVnNLMWdjTnlHbkFtR1YxclplRlAxbGZVaWlOWlcxSjQ3QmVXa0J6OFEtY1FzNHQ1NEg3ZXJtbXlBLXFPTlFjd1NCaERSQjBzS2ItM2Z1UU1EQ3puME56bGtFYTc1WG9DQmpXeE9MQVR2aUdad0FnWUFFNEQwMEhQZUtGblA2VDdZQzBCWmh4VnVJTm02ejJzNnUyRG9hSUdZZHd5S0VubW5qNThZTXNyRWFGN0hZcmRuUQ?oc=5",
-    "fonte": "Brasil 247",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Nvidia revela fatia de US$ 21 bi na SpaceX e US$ 30 bi na Intel - Exame",
-    "resumo": "Nvidia revela fatia de US$ 21 bi na SpaceX e US$ 30 bi na Intel Exame",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0hiay1UOGR5RjdVNE5HamhsWjdfQTBnOVNaRGJIaVZnTm9OQXlyeFYzZjlrUzNyczRZcVJIY2toRzdEX09NX0VlNllUTXoxX004eVNxeHl4d09ESFRuR0QzMW15SHgwVEt0QXJVLUxEcnRqejVXd1A5eWdTR1U5cVJNR3hCUU1rcFVNQzV6czRnRjdTSjJ1S3F4dDk?oc=5",
-    "fonte": "Exame",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Enquanto Véio da Havan ergue maior prédio do mundo, nova construção de Elon Musk quebra outro recorde mundial - A Crítica",
-    "resumo": "Enquanto Véio da Havan ergue maior prédio do mundo, nova construção de Elon Musk quebra outro recorde mundial A Crítica",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcFRYV1NKemp0R19PRklaeFlaWVdOZ2hncWpOWVBQcm5DSHkzdmFEbktmbHJYZWs2UURKSjhRV3AtUWE4Ykp5QmQ1ckVYem5JS3NLeWVUMTI1TWNuZ29LMXdQV2U0SU9yWE93VktqTDFFUE43c3pvbkxSMXB5aGhON296MHFaZjRqb2hZdW9iV0M4cGZPSVhfZVVhSlUzdkJrTEdCUi00aUoxY3ZCS21RNEVVLWk2blplYTFsbmhzX184OVZHV1BHQjY0b1Y0dHZneGVN?oc=5",
-    "fonte": "A Crítica",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Haltin, gestora de ativos estressados, compra CRI inadimplente de problemático FII da Cartesia - valor.globo.com",
-    "resumo": "Haltin, gestora de ativos estressados, compra CRI inadimplente de problemático FII da Cartesia valor.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3RxcjRRdXlGa3FyU1Vsd1pDdzRHM0xWQnNtY19UR01ya0FtcGpXWFoxTEFzYjhIYmxhVFRvSVRRcjBXY2k5ZlpuYVVHZ2JXbDlWUjVxSmpTRWdWQ2JKVnNSMTF3VHphTE9jV01ocXhBNjI1YzdMU25WVHQ0LWhTbmdIRWVSVDBoQ3RhS3A5OTI3cEx3WkJIUWNVdGpsVjRVbGlFZGpVbWt5Z2h6OTRRZXd0aWpQQ193eU5ONHN2X2hYcjQ3LUxTVWF2V2dWdy1lcTkwSjhrRlJKSTVUc3VZX01ZTdIB8gFBVV95cUxPSnpwZFhhenVoQ3psT05mdXJkY2ZuN1ZkQmloV3pndm9SNXIzVTB2UGRJRko2X2ZiXzdST2kyWHhkZmszSk96cUVGUXQ4cXc2WEUzN3ZXZXRlblJLeWFkUXRwRHFqTjdzdDNMcmxsaDlrS2RNZjdFbnl3blJDUGxTUTlXUUhuTnBJV2tabUs2QkhYQWdVM1VkcVpkaVhnak1PRkJZa2dkMGJ5Y0htbFJlY3FPWnNRdVNYTnBQZ3RfYktSYVFhMWRjd3NXYlNDYzctYTQwZDRLTTJJZDNaUFJOdERGQ1lSYnpPSDFWdVhnSC04Zw?oc=5",
-    "fonte": "valor.globo.com",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Fundos imobiliários: KNCR11, TRXF11 e XPML11 e outros FIIs trazem atualizações aos cotistas; confira - Empiricus",
-    "resumo": "Fundos imobiliários: KNCR11, TRXF11 e XPML11 e outros FIIs trazem atualizações aos cotistas; confira Empiricus",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVzJIemlFQ2VJUnFMdWxlUDZUNjZ3X3kwX0FMRnlZazRTTXJHVjVUMk9FU2JtY0ZBcXdkdmFDdW5kS1ZzakxUZlp0cGktZmw5Q1ZjM1ZLbk1Jd25UM3NWX1BDaWhrdE9fTlZ3RU5GTGg5N1pfelNIYWhTVTlEeDgxVUQ0d19ZelBoZlY4Ukt2V3k1TVNuWUZsbFZsWWtBSjFtTVFxeURjX19wN3hfU0lZWE4xNjZURHlYSGMzNHZHNXp4d21XWXJKeW5rZlZ0U3FQd0xKYw?oc=5",
-    "fonte": "Empiricus",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "CNJ e Banco Central ampliam proteção na negociação de precatórios - Portal CNJ",
-    "resumo": "CNJ e Banco Central ampliam proteção na negociação de precatórios Portal CNJ",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3k0SHFwLWhNYkU2bnZHd3YzR2ZndUs5emRwQU00MmhGWHZUdkFrVWVEQTEyd3psRndQb0JuaFM3eldveWpleTVsYlQyTHlWLTBSVjlPelJ5c1E0ZE5zVlBCOTlldi03UzhldFl4SXEyUmU1a3hKN3RmYXdTbUh0YlN1alBvS3l5a2QzMEMzTE1LM0U?oc=5",
-    "fonte": "Portal CNJ",
+    "titulo": "ECONOMIA. Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos, segundo o Banco Central - Claudemir Pereira",
+    "resumo": "ECONOMIA. Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos, segundo o Banco Central Claudemir Pereira",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcTk4QTZtRDdGdzMwRFRwSXVtSkNnR2MxbmMzY2FpbFVwck9KRE9qVFBGbnF1R3lBOXBTNTR6MU1PbTQ3OVhDOEtDc3dHanF5WGNLZVlxVVFpNFhqdzNVeVhqR2lOTmYyRkVaMFNIQXFNbVJmeTZpOTE4R2NsUzlCTzdqUXMwQS04NWRNRkU0RjlvY0R0SXV5TXZrcThKRUNjajhSQUJlYmRTZTlQMllLcHBHd2dhVm85bjZ6VGRTcTBlXzB1S0NwU0pmYw?oc=5",
+    "fonte": "Claudemir Pereira",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
+      "IBOB11",
       "CDB 100% CDI"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Banco Central decreta liquidação extrajudicial de duas empresas do grupo Simpala - G1",
-    "resumo": "Banco Central decreta liquidação extrajudicial de duas empresas do grupo Simpala G1",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1VuRE5UdVpWQzJmaGpFX21tc0dyT1d4cl9ZN25uRlBkaHBnMlBmSGJoWHRPNXU2NTl6bUlJblE0NTJoRWc0UWhUNUFHX3Q2RmVHa3Z2WnRiV2dFUmJoc0M4TUloc0ZmQnBNUUZFa19jS3dnQ3BVSzZvbFYwQldCaVhLX0toNUllVmxTcFJvdHZBMXcwQ3BCTTJTWUg4WDhvZmg00gGyAUFVX3lxTFB3Y1VDbkpIMU8xeHdvbXg0WVlKUVFRN2dUQ0FxYVhCWVhGVWhmSFlEdDI4V1NpelhOSVVWaDhBWjltNlFZVXVFa3dVZWJqYlMxQkpiVS03TXpib25kNTBvRGl0X2h2TjZaQkdXdVgxcmZSSlowcTB4SGNjUUNqSzRmeDdVY1lzZ05QUUl1YVJfVjBJSlB6STU4QnFVY3RfdEdaNG1JLU9EUndJMy1hMndROEE?oc=5",
+    "titulo": "Elon Musk Diz Que o Dinheiro Não Terá Importância até 2036 -- a Escassez Tem Outros Planos - Forbes Brasil",
+    "resumo": "Elon Musk Diz Que o Dinheiro Não Terá Importância até 2036 -- a Escassez Tem Outros Planos Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWZTLU5uM0dzVnpJb2JWWm1mZGpBMGppc0VWSXlHN2h6SjFfclFpclI1T1dxY3ZDMmFrSG9kT2puUHRNU3hKUmQ0di1YRmdRWDFLV2tOWGV1X0ZGTEtReXlySVVVdlY1MVk1OElKYjBEUHY4TDc2OF91ZXpWZHlmUW5PdlhCZXB1cXY4LVNtN0cwcmpIbFctT1c3Y0dWdWE0NmJreQ?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Cards Against Humanity quer construir um monumento para irritar Elon Musk - Fast Company Brasil",
+    "resumo": "Cards Against Humanity quer construir um monumento para irritar Elon Musk Fast Company Brasil",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZE1Td2FXR1MyNnlDNEYxTTMxb0FKX2w3M2FMMGxoSkdYOEQxQWNqVnRiRTJKYnEtVXJ0ZzlLT004UGx1dVpYdW53RnJLME04Sm96VmQzajhnRlNWY2lkdUpzUWhzelVXc3hkeHU4WHpXSjBkbjBfTkFSbWR4d0FQckNqTkU2dw?oc=5",
+    "fonte": "Fast Company Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Ações da SpaceX sobem 9,3% após reunião geral de Elon Musk sobre IA - CNN Brasil",
+    "resumo": "Ações da SpaceX sobem 9,3% após reunião geral de Elon Musk sobre IA CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFVtUHRmczJwX1ZxRTBwdmlTVlNKX0Q0bVpBNGFWdTB3YlQ0eThWTWdtMVpvVzBhNHhlQndPSVltdFMybXZlODhoWDBrQXMzZ2VpYWl1VEN5bXh5SzU5WFd1bTRyUkE5Sy1hNmctbV9OcGkxemFka0Y4ZkZFSXpLUldhdmEyNmEtQ3JpWDBudktheS0zU280ZTZUakNBaWFzX0tSaFdpS0NfVkNZMjZ2SHVtOWFqSVVkSXVv?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "FGC orienta 21 mil credores da Simpala após liquidação pelo Banco Central; veja o que fazer - G1",
+    "resumo": "FGC orienta 21 mil credores da Simpala após liquidação pelo Banco Central; veja o que fazer G1",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2xwUHdDb3d1Njg4MlJHUkRkNWdmeXF4QXRJM3RhRkVUdVVKZV9XMDFpWm9hd1FpUi1HcHdkb3VpdDZlcUNsdjhPbTZiWWJuR09hV0o2Tjk2X3E0T1JXb0IyNUhPcnI0VXRQRWtHRllESVUwZlhtWERMdkljY1o5UWcwb0ZTc1hYaUJERXpPTGdDMmZyQm1sUUFQVVNoaUJNLWlOYjlET1psX09rLVg3a3h5WWpJanhyazFrd0lLZFJwSjFMMW1Ddmd6U25QUkFTVHRxVzVLazRKaVBteWfSAewBQVVfeXFMTW82Wm1uN1YyTXNwVS1Kc0hETzZqN05DTExIVmYyTlRZZ0FuZWtIcmU2Q05pcFVPSWxfdWxGcTc5TXQwQlh3SzhvbUh4ZGpuTkI0YnYyMmItX19FVnF0VDF6UEY2emdXTkJoOHl2ekpPRU9jXzhvam5kVFF6YUs5cFN5QjZGR3AtSlh6WXhGVXVZVUVwOVNVYUdEQjVlcTdTTU03VERRd0h6cVZYUTJQYV9mUUlpVk1oT2lmT1NQaC1nbFR1SFJ4TUZmTnpXVEJvWHBFVDRTQlVSbE54bmtlVmd1XzVQQm1KOTVmcDI?oc=5",
     "fonte": "G1",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Banco Central multa Banco Genial em R$ 21,6 milhões e determina inabilitação do CEO - JOTA Info",
-    "resumo": "Banco Central multa Banco Genial em R$ 21,6 milhões e determina inabilitação do CEO JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnVvaGtLOGpJTkQzTXI1b2VFcXFMWEZaVkh1Ymp6Yk5xUnlWbTliZWdMTUZMRFloeHRPdnZxNFo2YTZMR1ZDalNkMDM5WVVNdGxQQ2ZhQVRFWF9od1Yya1BELXRGeHZmWlNwRk5WTlVvUkpOVmh6dVprS2RKaXQwdmZvdkVZNW1nODkyY2ItajVhSHFudW5lWXV1ZlVhS3Jqd3JyVDNYNXh3c3ZEMVlxd0ticw?oc=5",
-    "fonte": "JOTA Info",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Plínio cobra votação de PEC que amplia autonomia do Banco Central e protege Pix - Senado",
-    "resumo": "Plínio cobra votação de PEC que amplia autonomia do Banco Central e protege Pix Senado",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFhlS0FhM0Zsc0Q5NXJBbS03dEdCSTVRNWdZQzVnQkZhUFdJaUFCQ1B0SEpJVlROamNaX2JnckR6Y1VKcGVTaks2RkNNbXRXd2FnS1VUWTV3OXpSei1FY0NBb1lnajZ5NEJnYlhPZmdGYVFTU1lVSi12OEtwWmJFYmYzald4SmducHNqVU13SWtvb0tBVjBiNjVfdUZFaXFJamFjYlpKV1h0eWZSRGFIcVVDQXJ0YkNJeDlDRWdndmkxb19TdjdueW52NF9OSzV6bnc?oc=5",
-    "fonte": "Senado",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Banco Central estuda mudar isso no Pix - jornalcruzeiro.com.br",
-    "resumo": "Banco Central estuda mudar isso no Pix jornalcruzeiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQelBwZzJwYkt6TTZDTU05U3VHVXdjbWlRUUQzRWdWckxXZVlxeVc0bHM1Z19XN0didFB1dHpqeDNxYVdNRlRtSGZUQk1tcC1SQWVmMWpsUlI0RDBxRmdmbDBzRHk2RmM1M3d4T2w0QWZ0VzNlYlo3S2d0dW55VGZoczNvQmNpU3JObkZOSnBPUVpZN3J3dWMxMWo2RFFNSkY0dDRWRU5nVlVfT1E?oc=5",
-    "fonte": "jornalcruzeiro.com.br",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Banco Central liquida Simpala e bloqueia bens de controladores; clientes têm proteção do FGC - VEJA",
-    "resumo": "Banco Central liquida Simpala e bloqueia bens de controladores; clientes têm proteção do FGC VEJA",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0ozTFhPT0ZfVVZoWE5tV0RQVXhJbmZOZE9RTE1aTG56TDNNTDlZV190Vm5tX3FjcE43YkZyU1M4QVpabUgzcjlPc2FNLTh6M1Nxb2J3RGl6MHlHNm5ZNkpBYVRnY2R2T2hiT2txTUVjQ0pSWE15M0d6MlJsYkxnTkZtUFdNcl9vaGlZcUhlSHQ2a3JTdjhvX1lkWF9UM1FsVnZKR1lwMzR1bVhwTnZvU25IYUZRV0RLd1JvdndWaC1FQXR0UVE?oc=5",
-    "fonte": "VEJA",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
