@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-16 14:23:00",
-    "chave": "f78dc65e373208c650ee39d8286af2a92b629a6b51c7d1343c59f085ff3fe820",
-    "titulo": "SpaceX testa nova Starship após falha no último voo; veja o que muda agora - A Crítica de Campo Grande",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2YtbElyNHJOMUhBbEd4aDJYV0lEcXRxYzJwUFluX2UyTmc3aEJBUEI2M0NxUEFCRG0wWGdoZGdhaUp1M25pNzMyTjI3aVgwNDNvdU5wSUV0S2VFcXc5VDc3ME9icUtnSHNwQnBtU3BJeHg3TmZlTm9MOWgzTkZGR3AyR09RdERmRHRFdlJuSUYxM09DTDQyY0pzYVZLZHVXazhsaVV4VDhjZw?oc=5",
-    "fonte": "A Crítica de Campo Grande",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
     "data_envio": "2026-07-16 16:41:39",
     "chave": "8d7278bf829e2225762cb1d304b63722137e81b0f5f1aa01d123d824464c4eaa",
     "titulo": "Com tarifaço, dólar sobe e Ibovespa cai - Valor Investe",
@@ -17148,6 +17133,21 @@
     ],
     "classes": [
       "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-16 06:59:04",
+    "chave": "4d31db54afb01e7ffbe584aae69cd9dc9d78b6306d771012cf411032b5b9ba59",
+    "titulo": "Inflação é a menor para julho em 4 anos e fica abaixo do teto da meta, mas vem acima das projeções - folha.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUQtaWZJeWJIS21xd0hVdWZkc0xqYmt5LWVSMWs1SXpzcnFObWdfYUdNUXJkQWFDUmtBYTM3c1FSRmh4YkpkVWtYbFgtSDBSdXhYMjZ1REdHS2VZdkt5cGR2Mm5Kd3hpTGxRbXNfUlNHay1ZSndNNU1NN0RKNnBjNnFFSVJXOXpmSHE5amVXRFI1dWJHTFd5U0w1TUlvZENaRWRWNk02SGN2TWhWUjM5bDhwQ2lIOU0?oc=5",
+    "fonte": "folha.uol.com.br",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ]
   }

@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "Inflação é a menor para julho em 4 anos e fica abaixo do teto da meta, mas vem acima das projeções - folha.uol.com.br",
+    "resumo": "Inflação é a menor para julho em 4 anos e fica abaixo do teto da meta, mas vem acima das projeções folha.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUQtaWZJeWJIS21xd0hVdWZkc0xqYmt5LWVSMWs1SXpzcnFObWdfYUdNUXJkQWFDUmtBYTM3c1FSRmh4YkpkVWtYbFgtSDBSdXhYMjZ1REdHS2VZdkt5cGR2Mm5Kd3hpTGxRbXNfUlNHay1ZSndNNU1NN0RKNnBjNnFFSVJXOXpmSHE5amVXRFI1dWJHTFd5U0w1TUlvZENaRWRWNk02SGN2TWhWUjM5bDhwQ2lIOU0?oc=5",
+    "fonte": "folha.uol.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4d31db54afb01e7ffbe584aae69cd9dc9d78b6306d771012cf411032b5b9ba59",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
