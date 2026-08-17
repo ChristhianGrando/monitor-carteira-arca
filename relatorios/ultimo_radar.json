@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "titulo": "Cartões de criptomoedas avançam sem cobrança de IOF sob novas regras do Banco Central - Folha de S.Paulo",
+    "resumo": "Cartões de criptomoedas avançam sem cobrança de IOF sob novas regras do Banco Central Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdzBIUmVyZ1hET05kZW9Ic25KMW1ab0NoRUhJY3FLTElLeTlvZTM0YnhzNVdteW1jRUc1a2c3Zmd6UHRoNmxuMEdjMU01S3NOTHFFRU54aUw1eERCNHpiN2xMUmFYVzJQcVlhVEpUT0hTRXZZNENKTjVlaDNyTXowUTV6TDZBcERzOG54dmVLdWxUU2NNMl92X3RCeFNLQmxPcHNhZzNYdVJxNEVaTjJSM3diSlZrdTNhaDZLQndxMGhMaHBsLUxOVDNEaEU0ZmU4S09R?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3d19aaebc9d56bf121b09b4053ac53ea4a773cc2f6486f226a559647f392a075",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
