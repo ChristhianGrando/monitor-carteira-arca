@@ -1,42 +1,6 @@
 [
   {
     "data_envio": "2026-07-16 21:16:14",
-    "chave": "a9856001db80c1366707fc1b679782aeeaeeade4a5fba2639accbf26fc6a9862",
-    "titulo": "Ibovespa cai 1,24% após tarifaço dos EUA ampliar aversão ao risco no mercado - VEJA",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWENWS3gwS2NJNVRWWFNJcU0wM2t5dmlGNGE1NkI3QXFzWlNId1BrTkItMmZfTVZSMmRfRkxPbWtITG5ZQWh6dkpjOURFVFJjMk5LRjhzazh2UktTcldKSm9DVmxrS3pyQjZobGpkV0ZKNUkwaVB4dEhmVzRGeFJGZzd3eldqckh2VzZxMXFGaHloWWRUZnJRV0hWU2dNNG04Z1puUktHSEYtaEZ0MXFn?oc=5",
-    "fonte": "VEJA",
-    "score": 13,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-16 21:16:14",
-    "chave": "3630f0ba66cf52f8dd3c129830be0e236b5204851743616c815cafd8e029e3f7",
-    "titulo": "Gestora do Nubank estreia três ETFs de Tesouro IPCA com novos índices da B3 - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2ppUE43TGVYVVVzdlFxR3NDVlRra0tOWk1kdFZ1cUozNzM5U1lmTUZ4Tm5naXpicmVoVTFXNVdHVTkwNmdDLTJYaHlUMEdfOV9tbWRFTlNlemU1VUdwR0VvdDEzVkNnM1BmcnZGX2xmTDFWdWtSWW9FQXJKQnNtMWZPRnFRekVuSzRpVnFuTzhlcDMzZm1ERXB5TmNCQU1LWjFpNnVJTE0wV3h5VDRKNm4ybWNua3NWd0h1THozQUtDZnNBY3VJVVRqR3pjakRmZFHSAdcBQVVfeXFMUEtUOVB0c25hQy0ybW9Ra3hhNE5leWJPcHNvbnZycEpuTGhWV2NiU1hXejNmc1FGaHVZZnJOWkU4dTZDVjk2RGtDYVRuTVhVVzIwYV9iSWxCaW9CUUJINVYyY0JsV3dRVjJqelZFSFIyMkVFcUQ3bmtVSTAtZlpkWnlSTC1vQWlvSGhQUGtjalY5SjJQbkZSSjgwR3UtQUpZWjR5LUJJSEVNdHNxUTR3MHh0WmlOdTBhX0tiN1lZaVpfVk8yRVcxbWVOd2F4ZU5uNnphNkJINEk?oc=5",
-    "fonte": "Estadão",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-16 21:16:14",
     "chave": "30c33b8fa932397ac5695080c5cedd63b37b3774a41f3343f6be88d0c159b65e",
     "titulo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra - ADVFN",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmFPVHJZX2d5dHdiTkp4YzFYR1pHYy02VGl6UkprRWxScEdDaVNyVFZ2ZHZhMU04d01xbjBxczRIQnZYN2Ftd05ndHpXS2ZzTXNIWVBwT0RFd3VDbno5akxNVEx5T2FTZjZ3Y29fRkxoTkRQbXcxbGpMWFVid0g5aVNsMUF0V1N4MFQwMDVxZXF1cUtueUJ2VDJubGJ3QjBMVmloVFpLa3VmM3RYLWt3?oc=5",
@@ -17157,6 +17121,38 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-17 04:57:56",
+    "chave": "3ee38d7715018b0ddb003ab32bdc064acaafdfb68653f36b22c768dd0241adfd",
+    "titulo": "Cartões de criptomoedas avançam sem cobrança de IOF sob novas regras do Banco Central - folha.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdzBIUmVyZ1hET05kZW9Ic25KMW1ab0NoRUhJY3FLTElLeTlvZTM0YnhzNVdteW1jRUc1a2c3Zmd6UHRoNmxuMEdjMU01S3NOTHFFRU54aUw1eERCNHpiN2xMUmFYVzJQcVlhVEpUT0hTRXZZNENKTjVlaDNyTXowUTV6TDZBcERzOG54dmVLdWxUU2NNMl92X3RCeFNLQmxPcHNhZzNYdVJxNEVaTjJSM3diSlZrdTNhaDZLQndxMGhMaHBsLUxOVDNEaEU0ZmU4S09R?oc=5",
+    "fonte": "folha.uol.com.br",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-17 04:57:56",
+    "chave": "b7bd993f3504ec118498fc41de2dd14c322aec1a5716195d801fd45a9f40916b",
+    "titulo": "Elon Musk vê fortuna despencar US$ 146,5 bilhões em dois meses - bpmoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOS1fLVF1dDkzWHQ5VDN3SWZtNy1CbE9SZnQ0cjVZdU5iYTAzYkNGUl94Z2dKQnkyaW5XSnVMb0Z0clN2U29LcU9RUlMtTkhsU1FOeWt0aUpSdGV0SVFZNzVnRXU0amxjU3QweTFFWDNHLWIwVUI1XzlObU9TbHluS2JuU3A3cEZldW52M3kyLTBKdXhVa200?oc=5",
+    "fonte": "bpmoney.com.br",
+    "score": 9,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ]
   }
 ]
