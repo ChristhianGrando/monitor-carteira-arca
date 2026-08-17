@@ -1,16 +1,116 @@
 [
   {
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar - InfoMoney",
-    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0JnV2E4MUUyTV9OWkk4UGczcUdxdV9YcHA0RjBSUUEtUEcyZXozTFBkSUZwcnZMcUVFRVJsbEEyVm0yY0t4R3pYem9ybVppWmdGbG5FdUpsVFBJZHJTenQ4aXA0WWw0WDFCcklGU3czRmNWV2tQT3NPREdhdnVTTG9qOXFqNVdIZjJEdk9VZw?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Mercado mantém projeção do IPCA para 2026 e eleva estimativa para 2027, aponta Focus | Brasil - Valor Econômico",
+    "resumo": "Mercado mantém projeção do IPCA para 2026 e eleva estimativa para 2027, aponta Focus | Brasil Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dxcjRRR0dYTnZXNnFRZE5mY0JNNHJGV2pLVzc3U0ZELU9IeE1ITlpWNC1xdmlYQjA4aEl5b0xKYjhGNmlyRVVpSTZXdkNWeVdRUjM4dTNZUVpmdXFDYjV6QmIwQjI5blJ1MWY4S2YyRHNRbDI4bE50MnRweTBkb0pteVF5ZGNKd0RwbmFqRlN0TmlVZE94c2hHNVk4Ulljc01XUGVXbFVMTTdSNWJOc2s3YkZXN3ZULWJZanN4TU5sbm1yd2tVYnFwdWk5dU9uVDJCSzJB?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "09f63a822fad70416f75d122e4d595d6cb587b5287d47fbef0b275a32844ffe2",
+    "chave": "c3048416a7ad7b87226f23fac3d8af443c8ef1624c58810233400a2766d3bf88",
     "ativos": [
-      "IBOB11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibiuna Credit IPCA+FIF CI RF Incentivado de Investimento em: Cotação e Indicadores - XP Investimentos",
+    "resumo": "Ibiuna Credit IPCA+FIF CI RF Incentivado de Investimento em: Cotação e Indicadores XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZDZac1cyLXBnVkJaU1F3Q3QyUXF4bXM1ekk1RldfcXByc3ZySGVfSHZfcXQxM3NlSzV1dVJyQXQtc25GM0hKOENDQ1dUUWdjQjgxVVZaVEw0N2lfdXc4LTRjYkJXODQyOEN5T2Vpak54R19kNWNPVW9LRXJpeTNGZ09yb1dWMlpteUxQZmppakdDdmFjOS0xR0ZLRmNDbF9sdjJWOTlRYndzZF9ncUR2aQ?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e15cd409cd539a12f6afdfc7c536e5c015b45de68b69f2bb091b325d4e888429",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Tesouro IPCA+ 2026 vence hoje, e R$ 258 bi voltarão para investidores. Saiba como reaplicar o dinheiro - O GLOBO",
+    "resumo": "Tesouro IPCA+ 2026 vence hoje, e R$ 258 bi voltarão para investidores. Saiba como reaplicar o dinheiro O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaEdXVEVTRGhNV284VnJSbnc5a2ZMeUYyZ2hGdHNVdjQ0X2t2MXdPY3RiT0FXUUUtMzE3QmpOVC1WQzEyVFlLazVTeWRXc1lrbzJQZEtYd1JVTUlZdXk5eDlkYlJYWkNtR25uM1Y2cFNTeDVVdDZXbjRfYWQ3VVRsbFlCUDJiazJlcjV4MmN0RmFuanJGQ2RVTlR0NncxOU5sMzVUZDZmZmVZSjF2R3NWNHdGZEVEbWJYa0c3clMwQkFkMVV1Mktyb3NwTEZjY2RZRzF0SGpGdXd6ODhsZlFVSXVUM1l4dTMyVXZRVlVyV3hVRFltV3p2UmxB0gGIAkFVX3lxTE5NdmtCaWw4YjZTUkpCMmpoSENIa3pYTWpNTFFtR1kwWlJVMmVyN2ZPVkdLN21FX2cxWGpGQy1ORVZnd2VwcE9kMDhleWI3N0I3Ul9FelI4RnpWZ2xoUlQ0TFl4cFU3UXVJSlVUN1lwR0poR244c2tyRmR1aEt0MEFHS2VkOXlaSHhGQmdfamRBVGFFWGtSNzk1UDJiVmljZW52VkNUTktQNDRzenBWRVZiMHItMjZfWVQzd1pxNXQyNTdHX1pkQVVtSzFLSERLV3ZvdGthYWpkRmhwREdfT2pFSUpwbnJuSXVxbk43cjZYYXdWNktrVXlkc2V6em1TMHBuOUNmb2cyRg?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a227c25d96cc117de3124185c7c72faafdc6050871d55e0cd415a21a1c92491c",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central decreta liquidação extrajudicial de duas empresas do Grupo Simpala - Jornal do Comércio",
+    "resumo": "Banco Central decreta liquidação extrajudicial de duas empresas do Grupo Simpala Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjcwZlFhLTFJUE1QS2pNc1VxVVh2anYyc0tneERXRHRyOE5TLS1BNnJ6R3A2OHJrMEpXYXg3aVhHLUNWbDdaWVNlNGFiTF95ZHBOQVlWbktRS0JGWVAxMmdfdERwVEZUN1pPNmR6Q2hxRjI1cVJFZ2pneFRZZTdjVk91bVJ4NEhvaG5zYXhZQ2tiR1FJWS1GbVRBYldSZndOSUVXTE5odFFhRG80cVFKSlhwQmlnbHFSdVJWX0FVX3REQ1NPd1h4X1kzcHZ2NVNfWUo2TG5sNmViSFk?oc=5",
+    "fonte": "Jornal do Comércio",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "9025ed8a84d1af8b864d2ce783ae6a98428ad9d6a5106e0628c6ad0584e2d74c",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "SpaceX prepara 1 milhão de satélites para IA no espaço, mas seguradoras temem os riscos - CQCS",
+    "resumo": "SpaceX prepara 1 milhão de satélites para IA no espaço, mas seguradoras temem os riscos CQCS",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTBSdm5kQ2pCRnRlZmRjYzQ2cDhGSkJJcldIMWVRRHJDV0dvclFpY1lzS2NRU19SNDFHMzdPZTdQR2YxUGFLX3JrcnQ4WE1ndnh6RTg3WFE0NjQtSm9Bb2tUWDN2anhFV2FOZWphY2FrUjZ4SVY2cXk3djZ1NW5iUUQxV082SURlU1g3Qm9xMnpJYkRhZ29kdUdrT0FHOFVIOGdwRXgxQ3F6VTVwTkdLV2ZSM19PQQ?oc=5",
+    "fonte": "CQCS",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "1f0736971e7947c0c1da94143f38ef8b313cc828e613e53180c2a9573f3d7b9f",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ],
     "score": 9,
     "motivos": [
