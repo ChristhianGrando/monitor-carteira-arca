@@ -1,23 +1,25 @@
 [
   {
-    "titulo": "S&P 500 mira recorde em semana decisiva com varejo fraco e risco com Irã - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "S&P 500 mira recorde em semana decisiva com varejo fraco e risco com Irã Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnJ2cE1JLU41WGFFcENsSXNFUDF2MW5fQjJFVmM0VEFqVkdZZERFNk5aVWlmNFBFRzBFUEx0NVg4QzRiZ2NYdUprTzhocG1SYTlxNTJhaU9PRUU5ZU1ua1hCRkxoM2p0R280ei1LaUNhWlNaS1lVWm5UUkpLRUNzMklNc3FWLV8zQkxRZVRZbFJyQlI0NkRQR0Fab05PVHU3cHF5TmtvbVFsRkJYdjBtYzB6dkJHdmlMOUFQNkJZZENTTzBXQ0RmaHNTYlk?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "5feaed25384d9bc3b3a3e889b69e01274875ff38bb8ab11ecbf0c85a74837533",
+    "titulo": "Banco Central Europeu: Correção no mercado de inteligência artificial (IA) está por vir - Money Times",
+    "resumo": "Banco Central Europeu: Correção no mercado de inteligência artificial (IA) está por vir Money Times",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVV9SbEJaZjZDa1VUSFUxTXVUOUViZy1VN1loMmwwaUFrb0FDYnpDUUZmNTFNYnlZQUFlSnU5NnB4bUwxZzZ1UFpTQUxQODVCNUw5NXJVZzlIMXEzbFBmMDh0ems1VW9yZjJkeGJwSy1xbjd0YXJRb01RNUhUeXg5RWVSZ18tRkV1MkYyOWZEYmdLNDFOOTZj?oc=5",
+    "fonte": "Money Times",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7563b09e48618a36e7779b8b13e7df4a64036a067c1fb7a7672b37b6792ee89d",
     "ativos": [
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
