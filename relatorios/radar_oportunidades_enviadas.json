@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-17 17:30:37",
-    "chave": "cbea824ed9242a566462a4bfccdb13c594005599bf7551261261f46a5fc05362",
-    "titulo": "Prévia do PIB avança 0,1% em maio, informa Banco Central - Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFZYTY2UjNucUMtV3FLd0VhNlZiTmJBZEZwd2ZYdnlXRm5XQTdWRUVhWlpVektLX0ZVcWVHcllub2VoQjZUdXZkcm5QMm5OZXJSVUdFcDVQVVFhSno5eWFCby1wQURHQ2lfS2FUVFNMbTJiYWU1RHRYWFhOVm9KQ0dERDRxOUVBOVFxb0d6WVl4Zw?oc=5",
-    "fonte": "Vero Notícias",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-17 19:32:50",
     "chave": "38eff4d544c10e4b8b8f777ba5ad09d2834fce43ca442bf295681873bee7900b",
     "titulo": "Selic em queda pode destravar o PVBI11: fundo negocia abaixo do valor patrimonial - A Revista",
@@ -17197,6 +17182,21 @@
     ],
     "classes": [
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-17 20:43:20",
+    "chave": "af19d21deb0e4bfdb4cd231d0a8c23e95b15205dccd800273ffe326bfa84d6d8",
+    "titulo": "Dólar hoje cai 0,41%, a R$ 5,19, acompanhando exterior, após 5 sessões de altas - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3doNl9UalotT2YwYTVaR19ZUTBQcFp4NzVRczNLbXZ6cmpJUUZFUmdVbTUwdFdrVDBXaTRnNEtaUHdRT2M0QzRlQ2JSa19XRFJrSEc0c2p2bEM1ankwZ3JTUWozSWVkUlBGbmVqUFk2V0ItUFZnSmR2QlczWkVPRWdYV0JyVjI1Q18tVmpXWFVjcXBGNDllVDJsdmXSAaIBQVVfeXFMUER5Mm9aRHFJR0l6eXVSemZtRHZOcElSTVZSdzNxZFZ5U29BZlBPUHUzTGxoYnhGZ2lTWmxDay1TWldtY25JQzZqdHU5NFFaRGVtbWhpSnV3NlRoanFtZ3hxTmZIdnR3N1FNUEpXWW9ON1pLSGloZEhvQ3pzTmpOdlkySXYzdXl5R0ZxdXFHamFpQ2g5ZWFBZlRWQWREZmNBeDVn?oc=5",
+    "fonte": "InfoMoney",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ]
   }
 ]

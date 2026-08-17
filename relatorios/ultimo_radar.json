@@ -1,23 +1,24 @@
 [
   {
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar - infomoney.com.br",
-    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar infomoney.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0JnV2E4MUUyTV9OWkk4UGczcUdxdV9YcHA0RjBSUUEtUEcyZXozTFBkSUZwcnZMcUVFRVJsbEEyVm0yY0t4R3pYem9ybVppWmdGbG5FdUpsVFBJZHJTenQ4aXA0WWw0WDFCcklGU3czRmNWV2tQT3NPREdhdnVTTG9qOXFqNVdIZjJEdk9VZw?oc=5",
-    "fonte": "infomoney.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "03122f56932384f4bd908aae844849cb5e5468794be4bd999c0ce77ce1672f25",
+    "titulo": "Dólar hoje cai 0,41%, a R$ 5,19, acompanhando exterior, após 5 sessões de altas - InfoMoney",
+    "resumo": "Dólar hoje cai 0,41%, a R$ 5,19, acompanhando exterior, após 5 sessões de altas InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3doNl9UalotT2YwYTVaR19ZUTBQcFp4NzVRczNLbXZ6cmpJUUZFUmdVbTUwdFdrVDBXaTRnNEtaUHdRT2M0QzRlQ2JSa19XRFJrSEc0c2p2bEM1ankwZ3JTUWozSWVkUlBGbmVqUFk2V0ItUFZnSmR2QlczWkVPRWdYV0JyVjI1Q18tVmpXWFVjcXBGNDllVDJsdmXSAaIBQVVfeXFMUER5Mm9aRHFJR0l6eXVSemZtRHZOcElSTVZSdzNxZFZ5U29BZlBPUHUzTGxoYnhGZ2lTWmxDay1TWldtY25JQzZqdHU5NFFaRGVtbWhpSnV3NlRoanFtZ3hxTmZIdnR3N1FNUEpXWW9ON1pLSGloZEhvQ3pzTmpOdlkySXYzdXl5R0ZxdXFHamFpQ2g5ZWFBZlRWQWREZmNBeDVn?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "af19d21deb0e4bfdb4cd231d0a8c23e95b15205dccd800273ffe326bfa84d6d8",
     "ativos": [
-      "IBOB11"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil"
+      "Ativos Internacionais"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
