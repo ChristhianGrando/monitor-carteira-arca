@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-16 20:12:18",
-    "chave": "b39cd810ee0eaaec52e23bc371369821897c6d28e0f5a5fc7f1854e957f950f2",
-    "titulo": "Banco Central lança novo portal para mercado de consórcios - UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnpqMTJrQVVkWWVKbjFNbnNxQ2lwVnhFZTY5MmM3bGJkT0dmZFNsYTRRQWwtamVkQ05rVlY2N3lUNGZLeWFsX0xPU1hzSk5vTk1FOThJcTlQQzZHeWlzaHJicVJ5SWt2X0I0UGxKWk9Udm01a3hOd1FZQnU1NlBxbmRqTy1zN3VVYUtWVF9JYWwyUVp5VUJfd3FHU2pVRzBaWENqYjc0aEpTbHV6Y09rM3I0RHJmMWp6aVRz?oc=5",
-    "fonte": "UOL Economia",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-16 21:16:14",
     "chave": "a9856001db80c1366707fc1b679782aeeaeeade4a5fba2639accbf26fc6a9862",
     "titulo": "Ibovespa cai 1,24% após tarifaço dos EUA ampliar aversão ao risco no mercado - VEJA",
@@ -17151,6 +17136,25 @@
       "CDB 100% CDI"
     ],
     "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-17 04:03:21",
+    "chave": "87300238e0f65aaea2755cd321ad684f4e6f7923d66afe4160a930ad1c608838",
+    "titulo": "CDI ou IPCA+: qual indexador faz mais sentido para o seu investimento? - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMm1YMXRVR0ZGU2RiRTB2VUwwc1ZWTFJ3ZUlxX1hEUXJMbW1McDZPV1pRa2pZRXBMX293eXhTV3pnRGdCM05ja1Q4bTVjSUZnU1JTUjQyTUJoejhreXg5cjYwVkhFV0gzMGpycDcwNG9RcXlUcFFJUzNNbWlXUk9IUnY1anliWThvTWlGUlo1NzFMekhETllXTE44MEI0N0RLVGVodm42NjhoWWNzZVY2SlprdFZBeEtzeFlr?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ]

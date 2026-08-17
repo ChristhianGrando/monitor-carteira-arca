@@ -1,20 +1,22 @@
 [
   {
-    "titulo": "Cartões de criptomoedas avançam sem cobrança de IOF sob novas regras do Banco Central - Folha de S.Paulo",
-    "resumo": "Cartões de criptomoedas avançam sem cobrança de IOF sob novas regras do Banco Central Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdzBIUmVyZ1hET05kZW9Ic25KMW1ab0NoRUhJY3FLTElLeTlvZTM0YnhzNVdteW1jRUc1a2c3Zmd6UHRoNmxuMEdjMU01S3NOTHFFRU54aUw1eERCNHpiN2xMUmFYVzJQcVlhVEpUT0hTRXZZNENKTjVlaDNyTXowUTV6TDZBcERzOG54dmVLdWxUU2NNMl92X3RCeFNLQmxPcHNhZzNYdVJxNEVaTjJSM3diSlZrdTNhaDZLQndxMGhMaHBsLUxOVDNEaEU0ZmU4S09R?oc=5",
+    "titulo": "CDI ou IPCA+: qual indexador faz mais sentido para o seu investimento? - Folha de S.Paulo",
+    "resumo": "CDI ou IPCA+: qual indexador faz mais sentido para o seu investimento? Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMm1YMXRVR0ZGU2RiRTB2VUwwc1ZWTFJ3ZUlxX1hEUXJMbW1McDZPV1pRa2pZRXBMX293eXhTV3pnRGdCM05ja1Q4bTVjSUZnU1JTUjQyTUJoejhreXg5cjYwVkhFV0gzMGpycDcwNG9RcXlUcFFJUzNNbWlXUk9IUnY1anliWThvTWlGUlo1NzFMekhETllXTE44MEI0N0RLVGVodm42NjhoWWNzZVY2SlprdFZBeEtzeFlr?oc=5",
     "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3d19aaebc9d56bf121b09b4053ac53ea4a773cc2f6486f226a559647f392a075",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "87300238e0f65aaea2755cd321ad684f4e6f7923d66afe4160a930ad1c608838",
     "ativos": [
+      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
