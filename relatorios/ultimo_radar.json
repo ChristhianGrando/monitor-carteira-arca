@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Mercado mantém projeção do IPCA para 2026 e eleva estimativa para 2027, aponta Focus | Brasil - Valor Econômico",
-    "resumo": "Mercado mantém projeção do IPCA para 2026 e eleva estimativa para 2027, aponta Focus | Brasil Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dxcjRRR0dYTnZXNnFRZE5mY0JNNHJGV2pLVzc3U0ZELU9IeE1ITlpWNC1xdmlYQjA4aEl5b0xKYjhGNmlyRVVpSTZXdkNWeVdRUjM4dTNZUVpmdXFDYjV6QmIwQjI5blJ1MWY4S2YyRHNRbDI4bE50MnRweTBkb0pteVF5ZGNKd0RwbmFqRlN0TmlVZE94c2hHNVk4Ulljc01XUGVXbFVMTTdSNWJOc2s3YkZXN3ZULWJZanN4TU5sbm1yd2tVYnFwdWk5dU9uVDJCSzJB?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "IBC-Br cai 0,6% e mercado aposta em cortes da Selic em 2026 - ISTOÉ DINHEIRO",
+    "resumo": "IBC-Br cai 0,6% e mercado aposta em cortes da Selic em 2026 ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0F0SV9mQWZLcHZSYlo2LU10N05OVU9BQ0ljaUhZUXVrbkU1ZjBZV1JlZ2R6SnpCTnJDUXRuYXpsTnVUaTBfTDVnUm96TGlLSEtuVUlRRkk1cUVyMnFRc0xNODVkY25PUU1xV1ZRTElFczJnR0xVLXZrVklObnBRei0wSlo?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c3048416a7ad7b87226f23fac3d8af443c8ef1624c58810233400a2766d3bf88",
+    "chave": "bea06c3b038bb2242c01033e187d9ce1c98f9da169637cb688228d8bc919d3b7",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,33 +16,36 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibiuna Credit IPCA+FIF CI RF Incentivado de Investimento em: Cotação e Indicadores - XP Investimentos",
-    "resumo": "Ibiuna Credit IPCA+FIF CI RF Incentivado de Investimento em: Cotação e Indicadores XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZDZac1cyLXBnVkJaU1F3Q3QyUXF4bXM1ekk1RldfcXByc3ZySGVfSHZfcXQxM3NlSzV1dVJyQXQtc25GM0hKOENDQ1dUUWdjQjgxVVZaVEw0N2lfdXc4LTRjYkJXODQyOEN5T2Vpak54R19kNWNPVW9LRXJpeTNGZ09yb1dWMlpteUxQZmppakdDdmFjOS0xR0ZLRmNDbF9sdjJWOTlRYndzZF9ncUR2aQ?oc=5",
-    "fonte": "XP Investimentos",
+    "titulo": "Boletim Focus: Selic, dólar e IPCA para 2026 estáveis; inflação ainda cima da meta do Banco Central - Estadão",
+    "resumo": "Boletim Focus: Selic, dólar e IPCA para 2026 estáveis; inflação ainda cima da meta do Banco Central Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR1h0bHloWGtnRXMyRWtZS1JFRmVwcldScnAxdE9QLTF2Vkt2X1RjNFgyQlFpLUNiTWZkZmN2QTN4UVpucW05TUxrRnNNNzNjYS1rRXdGbGJuSVdOYjZ0ZWZ3enRrNEtwVUpLaGlPUUN6YVE4RGdLd2RQS25hdXFSRXJYNVRfeU96eXFQR0c0ZURIZnFycnQxZGVTWlhyQzRXVUlLVDQ5eHNCOWNoM2t4aDF0a0RXMVBjYmt1aGtnbnEzazYxYUFBN1BUZU9uczZsVVRLNGFOSzFVVzBfcktr?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e15cd409cd539a12f6afdfc7c536e5c015b45de68b69f2bb091b325d4e888429",
+    "chave": "4f4c4c59b2e7190d8a91dcd4c0d5535fd6c2a5efa67f57616eb0b8375d7aed6a",
     "ativos": [
       "IBOB11",
+      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -52,38 +55,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Tesouro IPCA+ 2026 vence hoje, e R$ 258 bi voltarão para investidores. Saiba como reaplicar o dinheiro - O GLOBO",
-    "resumo": "Tesouro IPCA+ 2026 vence hoje, e R$ 258 bi voltarão para investidores. Saiba como reaplicar o dinheiro O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaEdXVEVTRGhNV284VnJSbnc5a2ZMeUYyZ2hGdHNVdjQ0X2t2MXdPY3RiT0FXUUUtMzE3QmpOVC1WQzEyVFlLazVTeWRXc1lrbzJQZEtYd1JVTUlZdXk5eDlkYlJYWkNtR25uM1Y2cFNTeDVVdDZXbjRfYWQ3VVRsbFlCUDJiazJlcjV4MmN0RmFuanJGQ2RVTlR0NncxOU5sMzVUZDZmZmVZSjF2R3NWNHdGZEVEbWJYa0c3clMwQkFkMVV1Mktyb3NwTEZjY2RZRzF0SGpGdXd6ODhsZlFVSXVUM1l4dTMyVXZRVlVyV3hVRFltV3p2UmxB0gGIAkFVX3lxTE5NdmtCaWw4YjZTUkpCMmpoSENIa3pYTWpNTFFtR1kwWlJVMmVyN2ZPVkdLN21FX2cxWGpGQy1ORVZnd2VwcE9kMDhleWI3N0I3Ul9FelI4RnpWZ2xoUlQ0TFl4cFU3UXVJSlVUN1lwR0poR244c2tyRmR1aEt0MEFHS2VkOXlaSHhGQmdfamRBVGFFWGtSNzk1UDJiVmljZW52VkNUTktQNDRzenBWRVZiMHItMjZfWVQzd1pxNXQyNTdHX1pkQVVtSzFLSERLV3ZvdGthYWpkRmhwREdfT2pFSUpwbnJuSXVxbk43cjZYYXdWNktrVXlkc2V6em1TMHBuOUNmb2cyRg?oc=5",
-    "fonte": "O GLOBO",
+    "titulo": "Focus mantém inflação de 2026 em 5,02% e reduz projeção para PIB de 2027 - InfoMoney",
+    "resumo": "Focus mantém inflação de 2026 em 5,02% e reduz projeção para PIB de 2027 InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvbFgtMjgwdGxETmhmNkl3VmZ0MXpkMXNBb1FpYm5uaWxRTVJKX1BhemUtZnVOMkFmZUFNVzNDR3ktd3BQMlFFUVNKcVlYMkNxVmxOallCUkYtU29tMGd6VHJFNV9FczZvZnVlbl9obzBIZUZEZTVXbEo4ONIBgAFBVV95cUxNN05yZVVkd2twbjQyWG5MWDdCRjMwODBzNkNTNmN3N05fMlNiNzZKcDQ4MFdUXzIxMW80a2pQZ0tobGlxZHB1QzlRY2loTE9jb3Z1ZUtLenVSNlVFN0o3S0JpOTRybllId05LTjRQRWlxanpCNHlGMzJ4Vlc5MHd3Rg?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a227c25d96cc117de3124185c7c72faafdc6050871d55e0cd415a21a1c92491c",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central decreta liquidação extrajudicial de duas empresas do Grupo Simpala - Jornal do Comércio",
-    "resumo": "Banco Central decreta liquidação extrajudicial de duas empresas do Grupo Simpala Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjcwZlFhLTFJUE1QS2pNc1VxVVh2anYyc0tneERXRHRyOE5TLS1BNnJ6R3A2OHJrMEpXYXg3aVhHLUNWbDdaWVNlNGFiTF95ZHBOQVlWbktRS0JGWVAxMmdfdERwVEZUN1pPNmR6Q2hxRjI1cVJFZ2pneFRZZTdjVk91bVJ4NEhvaG5zYXhZQ2tiR1FJWS1GbVRBYldSZndOSUVXTE5odFFhRG80cVFKSlhwQmlnbHFSdVJWX0FVX3REQ1NPd1h4X1kzcHZ2NVNfWUo2TG5sNmViSFk?oc=5",
-    "fonte": "Jornal do Comércio",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "9025ed8a84d1af8b864d2ce783ae6a98428ad9d6a5106e0628c6ad0584e2d74c",
+    "chave": "6e2660d59d74e2a0a4a403359bceacd014266791d45a0e7eea813f3cfc0a5cd6",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -100,12 +77,34 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "SpaceX prepara 1 milhão de satélites para IA no espaço, mas seguradoras temem os riscos - CQCS",
-    "resumo": "SpaceX prepara 1 milhão de satélites para IA no espaço, mas seguradoras temem os riscos CQCS",
+    "titulo": "Banco Central: demanda acima da oferta mantém juros altos - SBT News",
+    "resumo": "Banco Central: demanda acima da oferta mantém juros altos SBT News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWZLMU5vRzZ3ODl2WGJCUzBiWm1mTmZ0T3NFOXZDQzhwTTB5SUpVeTVzNERGejV2bm9xQmwzWEFjT3hJS0FvWFRMYUVMN0FMczlRMl9lRzhFQ1dxWG5Vd25QT1pWeWdzNUtuZXFSVjNiY3hiMDBhY19JUnFjeDl1MHpSNXpMNjJ0eVUzUGNIblJzc2xic19NRERkOUZaNVlVYVE?oc=5",
+    "fonte": "SBT News",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3d7cffdaac0231cb99a654abc1f6546f00fe244ffad397f67aec6c19d10b547f",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "SpaceX prepara 1 milhão de satélites para IA no espaço, mas seguradoras temem os riscos - cqcs.com.br",
+    "resumo": "SpaceX prepara 1 milhão de satélites para IA no espaço, mas seguradoras temem os riscos cqcs.com.br",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTBSdm5kQ2pCRnRlZmRjYzQ2cDhGSkJJcldIMWVRRHJDV0dvclFpY1lzS2NRU19SNDFHMzdPZTdQR2YxUGFLX3JrcnQ4WE1ndnh6RTg3WFE0NjQtSm9Bb2tUWDN2anhFV2FOZWphY2FrUjZ4SVY2cXk3djZ1NW5iUUQxV082SURlU1g3Qm9xMnpJYkRhZ29kdUdrT0FHOFVIOGdwRXgxQ3F6VTVwTkdLV2ZSM19PQQ?oc=5",
-    "fonte": "CQCS",
+    "fonte": "cqcs.com.br",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "1f0736971e7947c0c1da94143f38ef8b313cc828e613e53180c2a9573f3d7b9f",
+    "chave": "1cd9259012d321ba401874321837533cfc03d5fa852cdbee529258ec0348ab36",
     "ativos": [
       "SPCX34"
     ],
