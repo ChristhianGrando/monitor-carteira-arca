@@ -1,126 +1,23 @@
 [
   {
-    "titulo": "Boletim Focus: Selic, dólar e IPCA para 2026 estáveis; inflação ainda cima da meta do Banco Central - Estadão",
-    "resumo": "Boletim Focus: Selic, dólar e IPCA para 2026 estáveis; inflação ainda cima da meta do Banco Central Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFhObkNjNXFRc2pFMzZyRTl5M3FkNE8zVzB6VlI5alJwSDJQTjFJRk9HdjAyaWxNN1ZNbDBWMGs3TnNnenBLS0dPWnE2STFGS1hjcGhLWFFKc1dNS2VVV3JDOEFrUnhzWGFFSExta1VMaEk5Nkk0U0diM2t1LVlJb1hWSFJsRDBpczFKbkt4QjNZU1BaSGJfdUtkYUV5T09RM0VnSVp0ZlVpWXc1OGFvdjUwUDN1RzV1U2pwaGw3TldTamwzMDBYb3FLMDNXRDNZZFFTbNIB2gFBVV95cUxPZ0E2Q0Z2RUQ4Uy1FaGZVMnU1NGVBV2piTlFLRUNrTVhzaFFMNERaVEFOWS04NlRZQjVSNVIyRGUwYWlyRHE0UXZpc09ZTTlpQm8wTV9WZkQzVGEwbFJUMFl2MWNSYVRwSVVpY2tKRlRvS3NhSlJWM3pPX3QtazBNYVFZSlpfRnZybWktNlExLTZjYlZtWVlBYUY1R25FakJQVzJCOWpOSXRadjZWQV9KZ2YtVGd2SUJJZFBzTk52ejhIVUU5Unc0VTQtWUVNWjJYdGozVk5ncGlhUQ?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar - InfoMoney",
+    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0JnV2E4MUUyTV9OWkk4UGczcUdxdV9YcHA0RjBSUUEtUEcyZXozTFBkSUZwcnZMcUVFRVJsbEEyVm0yY0t4R3pYem9ybVppWmdGbG5FdUpsVFBJZHJTenQ4aXA0WWw0WDFCcklGU3czRmNWV2tQT3NPREdhdnVTTG9qOXFqNVdIZjJEdk9VZw?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2f3f8ce057ab1e99c1f825b2462d914338f19f0c9d0249e1cc9d9a845c59e672",
+    "chave": "09f63a822fad70416f75d122e4d595d6cb587b5287d47fbef0b275a32844ffe2",
     "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ações Brasil"
     ],
-    "score": 13,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "CDI oferece \"maior ganho real\" em 2026 com Selic a 14% - ISTOÉ DINHEIRO",
-    "resumo": "CDI oferece \"maior ganho real\" em 2026 com Selic a 14% ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1penBldkxVQmt1Uk1OTkJlNXNhSVg0Q1lGbzlSTGhTRVVvSFYzUWVSME53aTl4ZDJoZjRaQlpUMkFNNTY1d1l1WkdzbnRib2ZlQU1PcS1Sd05TbXlSZ3RoSlh1bDlaRUN2SkhEdF9FV21zX0ZUeXFZOGlRVQ?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "63213cd2c02ecbdf5744ea912cd8d26dbb7354d9912f0ff58a4b10b463286bd7",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Tesouro IPCA+ 2026 vence hoje, e R$ 258 bi voltarão para investidores. Saiba como reaplicar o dinheiro - oglobo.globo.com",
-    "resumo": "Tesouro IPCA+ 2026 vence hoje, e R$ 258 bi voltarão para investidores. Saiba como reaplicar o dinheiro oglobo.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaEdXVEVTRGhNV284VnJSbnc5a2ZMeUYyZ2hGdHNVdjQ0X2t2MXdPY3RiT0FXUUUtMzE3QmpOVC1WQzEyVFlLazVTeWRXc1lrbzJQZEtYd1JVTUlZdXk5eDlkYlJYWkNtR25uM1Y2cFNTeDVVdDZXbjRfYWQ3VVRsbFlCUDJiazJlcjV4MmN0RmFuanJGQ2RVTlR0NncxOU5sMzVUZDZmZmVZSjF2R3NWNHdGZEVEbWJYa0c3clMwQkFkMVV1Mktyb3NwTEZjY2RZRzF0SGpGdXd6ODhsZlFVSXVUM1l4dTMyVXZRVlVyV3hVRFltV3p2UmxB0gGIAkFVX3lxTE5NdmtCaWw4YjZTUkpCMmpoSENIa3pYTWpNTFFtR1kwWlJVMmVyN2ZPVkdLN21FX2cxWGpGQy1ORVZnd2VwcE9kMDhleWI3N0I3Ul9FelI4RnpWZ2xoUlQ0TFl4cFU3UXVJSlVUN1lwR0poR244c2tyRmR1aEt0MEFHS2VkOXlaSHhGQmdfamRBVGFFWGtSNzk1UDJiVmljZW52VkNUTktQNDRzenBWRVZiMHItMjZfWVQzd1pxNXQyNTdHX1pkQVVtSzFLSERLV3ZvdGthYWpkRmhwREdfT2pFSUpwbnJuSXVxbk43cjZYYXdWNktrVXlkc2V6em1TMHBuOUNmb2cyRg?oc=5",
-    "fonte": "oglobo.globo.com",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b8c1c7e76076240765e2bfef21b28856444b9873ed202a67452d6a878076ece3",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central decreta liquidação extrajudicial de duas empresas do Grupo Simpala - jornaldocomercio.com",
-    "resumo": "Banco Central decreta liquidação extrajudicial de duas empresas do Grupo Simpala jornaldocomercio.com",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjcwZlFhLTFJUE1QS2pNc1VxVVh2anYyc0tneERXRHRyOE5TLS1BNnJ6R3A2OHJrMEpXYXg3aVhHLUNWbDdaWVNlNGFiTF95ZHBOQVlWbktRS0JGWVAxMmdfdERwVEZUN1pPNmR6Q2hxRjI1cVJFZ2pneFRZZTdjVk91bVJ4NEhvaG5zYXhZQ2tiR1FJWS1GbVRBYldSZndOSUVXTE5odFFhRG80cVFKSlhwQmlnbHFSdVJWX0FVX3REQ1NPd1h4X1kzcHZ2NVNfWUo2TG5sNmViSFk?oc=5",
-    "fonte": "jornaldocomercio.com",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1ce035443c56e5efcbc6584acf948f8085bcb2e118eaa8b8b17f722f0e5fecb0",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "IBC-Br recuou 0,6% em junho, diz Banco Central - Monitor Mercantil",
-    "resumo": "IBC-Br recuou 0,6% em junho, diz Banco Central Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDFsaWZoYWdEVmFsRC1FNzRGeTdleHA2WGZfaTZKXzdFbjF4ZnAtMk1XS2RxdnpRU21PSjJ4Z3Q3MWJQekdnUDlqTlN2NGlrNlpnVk5OYXlPWnpHWUQxUEdJeHd1UHRBMXF0bHQ0Zm1qWXlvRlEyXzFpOTM5UFAxazNB?oc=5",
-    "fonte": "Monitor Mercantil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6d9b1b365fb92ca8158ea69ff8c9777baa3891934f79be48e5739c06e5ef6147",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
