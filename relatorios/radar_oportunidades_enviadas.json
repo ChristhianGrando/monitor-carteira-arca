@@ -1,21 +1,6 @@
 [
   {
     "data_envio": "2026-07-16 21:16:14",
-    "chave": "30c33b8fa932397ac5695080c5cedd63b37b3774a41f3343f6be88d0c159b65e",
-    "titulo": "Fechamento EUA: Dow Jones, S&P 500 caem e Nasdaq despenca puxado por chips, TSMC frustra - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmFPVHJZX2d5dHdiTkp4YzFYR1pHYy02VGl6UkprRWxScEdDaVNyVFZ2ZHZhMU04d01xbjBxczRIQnZYN2Ftd05ndHpXS2ZzTXNIWVBwT0RFd3VDbno5akxNVEx5T2FTZjZ3Y29fRkxoTkRQbXcxbGpMWFVid0g5aVNsMUF0V1N4MFQwMDVxZXF1cUtueUJ2VDJubGJ3QjBMVmloVFpLa3VmM3RYLWt3?oc=5",
-    "fonte": "ADVFN",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-07-16 21:16:14",
     "chave": "fa092183378949a67119a9c89b2a73c2510fdd6b848b5efd3cdcb736378d8fe7",
     "titulo": "Análise: Kanczuk faz o box que faltou ao Copom - Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2h6TDdjbWxmSWFlMXphZzY3RzA4Ylo3eTg2QWNtV0gwQUNzYjlrUy16Q3pldW9aUV9yemJRMmVJdk1CWVl5UzRNajVqZTQ4ZXF0UlVNWFBudUo5aVVGbFl1T3E5UHp0MEZDcDhncnFaeUNlM1ZRQ3hGbldGSHlqUm9aRUhoUUJkclZ4WDBDeURXTE1ER0h5cmh1MUs4THYzN0IxMnhSQ0NDQ2NROVNveE5jZTfSAbQBQVVfeXFMUDdoekw3Y21sZklhZTF6YWc2N0cwOGJaN3k4NkFjbVdIMEFDc2I5a1MtekN6ZXVvWlFfcnpiUTJlSXZNQllZeVM0TWo1amU0OGVxdFJVTVhQbnVKOWlVRmxZdU9xOVB6dDBGQ3A4Z3JxWnlDZTNWUUN4Rm5XRkh5alJvWkVIaFFCZHJWeFgwQ3lEV0xNREdIeXJodTFLOEx2MzdCMTJ4UkNDQ0NjUTlTb3hOY2U3?oc=5",
@@ -17153,6 +17138,25 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-08-17 07:15:53",
+    "chave": "ce97dbe89321f01ae085569e2aacefdff383409a609651bcea3ced4294e9f870",
+    "titulo": "CDI ou IPCA+: qual indexador faz mais sentido para o seu investimento? - folha.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMm1YMXRVR0ZGU2RiRTB2VUwwc1ZWTFJ3ZUlxX1hEUXJMbW1McDZPV1pRa2pZRXBMX293eXhTV3pnRGdCM05ja1Q4bTVjSUZnU1JTUjQyTUJoejhreXg5cjYwVkhFV0gzMGpycDcwNG9RcXlUcFFJUzNNbWlXUk9IUnY1anliWThvTWlGUlo1NzFMekhETllXTE44MEI0N0RLVGVodm42NjhoWWNzZVY2SlprdFZBeEtzeFlr?oc=5",
+    "fonte": "folha.uol.com.br",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
