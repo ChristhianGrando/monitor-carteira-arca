@@ -1,115 +1,16 @@
 [
   {
-    "titulo": "IBC-Br cai 0,6% e mercado aposta em cortes da Selic em 2026 - ISTOÉ DINHEIRO",
-    "resumo": "IBC-Br cai 0,6% e mercado aposta em cortes da Selic em 2026 ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0F0SV9mQWZLcHZSYlo2LU10N05OVU9BQ0ljaUhZUXVrbkU1ZjBZV1JlZ2R6SnpCTnJDUXRuYXpsTnVUaTBfTDVnUm96TGlLSEtuVUlRRkk1cUVyMnFRc0xNODVkY25PUU1xV1ZRTElFczJnR0xVLXZrVklObnBRei0wSlo?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar - infomoney.com.br",
+    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0JnV2E4MUUyTV9OWkk4UGczcUdxdV9YcHA0RjBSUUEtUEcyZXozTFBkSUZwcnZMcUVFRVJsbEEyVm0yY0t4R3pYem9ybVppWmdGbG5FdUpsVFBJZHJTenQ4aXA0WWw0WDFCcklGU3czRmNWV2tQT3NPREdhdnVTTG9qOXFqNVdIZjJEdk9VZw?oc=5",
+    "fonte": "infomoney.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "bea06c3b038bb2242c01033e187d9ce1c98f9da169637cb688228d8bc919d3b7",
+    "chave": "03122f56932384f4bd908aae844849cb5e5468794be4bd999c0ce77ce1672f25",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Boletim Focus: Selic, dólar e IPCA para 2026 estáveis; inflação ainda cima da meta do Banco Central - Estadão",
-    "resumo": "Boletim Focus: Selic, dólar e IPCA para 2026 estáveis; inflação ainda cima da meta do Banco Central Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR1h0bHloWGtnRXMyRWtZS1JFRmVwcldScnAxdE9QLTF2Vkt2X1RjNFgyQlFpLUNiTWZkZmN2QTN4UVpucW05TUxrRnNNNzNjYS1rRXdGbGJuSVdOYjZ0ZWZ3enRrNEtwVUpLaGlPUUN6YVE4RGdLd2RQS25hdXFSRXJYNVRfeU96eXFQR0c0ZURIZnFycnQxZGVTWlhyQzRXVUlLVDQ5eHNCOWNoM2t4aDF0a0RXMVBjYmt1aGtnbnEzazYxYUFBN1BUZU9uczZsVVRLNGFOSzFVVzBfcktr?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4f4c4c59b2e7190d8a91dcd4c0d5535fd6c2a5efa67f57616eb0b8375d7aed6a",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 13,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Focus mantém inflação de 2026 em 5,02% e reduz projeção para PIB de 2027 - InfoMoney",
-    "resumo": "Focus mantém inflação de 2026 em 5,02% e reduz projeção para PIB de 2027 InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvbFgtMjgwdGxETmhmNkl3VmZ0MXpkMXNBb1FpYm5uaWxRTVJKX1BhemUtZnVOMkFmZUFNVzNDR3ktd3BQMlFFUVNKcVlYMkNxVmxOallCUkYtU29tMGd6VHJFNV9FczZvZnVlbl9obzBIZUZEZTVXbEo4ONIBgAFBVV95cUxNN05yZVVkd2twbjQyWG5MWDdCRjMwODBzNkNTNmN3N05fMlNiNzZKcDQ4MFdUXzIxMW80a2pQZ0tobGlxZHB1QzlRY2loTE9jb3Z1ZUtLenVSNlVFN0o3S0JpOTRybllId05LTjRQRWlxanpCNHlGMzJ4Vlc5MHd3Rg?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6e2660d59d74e2a0a4a403359bceacd014266791d45a0e7eea813f3cfc0a5cd6",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central: demanda acima da oferta mantém juros altos - SBT News",
-    "resumo": "Banco Central: demanda acima da oferta mantém juros altos SBT News",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWZLMU5vRzZ3ODl2WGJCUzBiWm1mTmZ0T3NFOXZDQzhwTTB5SUpVeTVzNERGejV2bm9xQmwzWEFjT3hJS0FvWFRMYUVMN0FMczlRMl9lRzhFQ1dxWG5Vd25QT1pWeWdzNUtuZXFSVjNiY3hiMDBhY19JUnFjeDl1MHpSNXpMNjJ0eVUzUGNIblJzc2xic19NRERkOUZaNVlVYVE?oc=5",
-    "fonte": "SBT News",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3d7cffdaac0231cb99a654abc1f6546f00fe244ffad397f67aec6c19d10b547f",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "SpaceX prepara 1 milhão de satélites para IA no espaço, mas seguradoras temem os riscos - cqcs.com.br",
-    "resumo": "SpaceX prepara 1 milhão de satélites para IA no espaço, mas seguradoras temem os riscos cqcs.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTBSdm5kQ2pCRnRlZmRjYzQ2cDhGSkJJcldIMWVRRHJDV0dvclFpY1lzS2NRU19SNDFHMzdPZTdQR2YxUGFLX3JrcnQ4WE1ndnh6RTg3WFE0NjQtSm9Bb2tUWDN2anhFV2FOZWphY2FrUjZ4SVY2cXk3djZ1NW5iUUQxV082SURlU1g3Qm9xMnpJYkRhZ29kdUdrT0FHOFVIOGdwRXgxQ3F6VTVwTkdLV2ZSM19PQQ?oc=5",
-    "fonte": "cqcs.com.br",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "1cd9259012d321ba401874321837533cfc03d5fa852cdbee529258ec0348ab36",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
+      "Ações Brasil"
     ],
     "score": 9,
     "motivos": [
