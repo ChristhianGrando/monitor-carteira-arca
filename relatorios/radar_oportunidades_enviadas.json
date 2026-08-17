@@ -1,23 +1,6 @@
 [
   {
     "data_envio": "2026-07-16 21:16:14",
-    "chave": "fa092183378949a67119a9c89b2a73c2510fdd6b848b5efd3cdcb736378d8fe7",
-    "titulo": "Análise: Kanczuk faz o box que faltou ao Copom - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2h6TDdjbWxmSWFlMXphZzY3RzA4Ylo3eTg2QWNtV0gwQUNzYjlrUy16Q3pldW9aUV9yemJRMmVJdk1CWVl5UzRNajVqZTQ4ZXF0UlVNWFBudUo5aVVGbFl1T3E5UHp0MEZDcDhncnFaeUNlM1ZRQ3hGbldGSHlqUm9aRUhoUUJkclZ4WDBDeURXTE1ER0h5cmh1MUs4THYzN0IxMnhSQ0NDQ2NROVNveE5jZTfSAbQBQVVfeXFMUDdoekw3Y21sZklhZTF6YWc2N0cwOGJaN3k4NkFjbVdIMEFDc2I5a1MtekN6ZXVvWlFfcnpiUTJlSXZNQllZeVM0TWo1amU0OGVxdFJVTVhQbnVKOWlVRmxZdU9xOVB6dDBGQ3A4Z3JxWnlDZTNWUUN4Rm5XRkh5alJvWkVIaFFCZHJWeFgwQ3lEV0xNREdIeXJodTFLOEx2MzdCMTJ4UkNDQ0NjUTlTb3hOY2U3?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-16 21:16:14",
     "chave": "ba86a8635c7b88b04bb56f0cb5331b0407fdeec319649c7fc671f6e013c313cc",
     "titulo": "Presidente do Banco Central, Gabriel Galípolo comenta novas tarifas dos EUA - R7",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZlh4WDNBTVB0MXJUT1ZOUXZJX3VQdEtDQnkwZm45bHBmcUh5VW8tZUl3d1dEZXBCMmFmcmNoaHlwUVZXcW5vZnR4aExOcUVrVEFnUHQwb2JhWTRMWDZRLTJwNTNLTVdrV2lkajFIdnB3MGpjc0xybjhsdEtzcUsxMVNVVEMxYWpfMTk3ZmRIa19MeEhfWU51ZFZQMGcxYl9KdTNCTmU5ZmdRY1IySEZ5X1RPR09tbDgyRmtxcE1sT3VzcnBWcWJBT0xxbTBwYmNCNjkzejdDM0R2MGRGdEJn?oc=5",
@@ -17157,6 +17140,21 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-17 10:48:08",
+    "chave": "5feaed25384d9bc3b3a3e889b69e01274875ff38bb8ab11ecbf0c85a74837533",
+    "titulo": "S&P 500 mira recorde em semana decisiva com varejo fraco e risco com Irã - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnJ2cE1JLU41WGFFcENsSXNFUDF2MW5fQjJFVmM0VEFqVkdZZERFNk5aVWlmNFBFRzBFUEx0NVg4QzRiZ2NYdUprTzhocG1SYTlxNTJhaU9PRUU5ZU1ua1hCRkxoM2p0R280ei1LaUNhWlNaS1lVWm5UUkpLRUNzMklNc3FWLV8zQkxRZVRZbFJyQlI0NkRQR0Fab05PVHU3cHF5TmtvbVFsRkJYdjBtYzB6dkJHdmlMOUFQNkJZZENTTzBXQ0RmaHNTYlk?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "score": 9,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ]
   }
 ]
