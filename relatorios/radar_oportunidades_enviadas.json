@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-18 03:32:03",
-    "chave": "91d1962b9b9a4bdda118bb21a18ad184c1eb88a126ccef87154add35303fa4bb",
-    "titulo": "IBC-Br sobe 0,1% em maio de 2026, aponta Banco Central - Associação Comercial e Industrial de Araçatuba",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBscFVTd1owNl9KaUtJQlA2bXdvdTh2QXJJZTVCV0VMYkU5RjVJbWR2UW52WEpFZTBuMGgtZTlIaFpVczRTTEt5Z1ZpZXZPTUZ5Ylp6MjJQdw?oc=5",
-    "fonte": "Associação Comercial e Industrial de Araçatuba",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-18 08:58:50",
     "chave": "8d027572d47e8c9d54d85172bab19afd2ff2ed491727919b7f82cfec5107ac8c",
     "titulo": "Ibovespa encerra estável e dribla aversão global a risco com apoio da Petrobras - Valor Econômico",
@@ -17217,6 +17202,25 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-18 09:48:33",
+    "chave": "95172136d4d19cf3961315a95e041feea364c70f6689cc6658733ce77feaff8d",
+    "titulo": "O que vai definir os próximos passos da Selic? Galípolo aponta pressão da demanda - valorinveste.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLXpCeUMybzR2R0NaNFJNMi05NmNfU1QycVl4WlM4Y0dSQXA3MVBPQ3JNdW5qS3paWHZiZU9pX3phalAteVJZWWoxSjFic1ZldW9MWHp5bVdrbUEtM3hPSTh0RE1XZlkweUh5SGE4RUowdnUzaHJNaXpmNHc1bEx5YkZHRVJkV1h5V0xHdnAzRk9Zek9uSWJNdV90b0dsS0JOMDdZSnRhN1FFMjVaWEJVaFpmeVVrdW8tcVdsUzdNMUdYemlRX3dESU9WNDd4WGhlWFN4bGc3RXJaMXFOeklLLW5zVndXVjczZS0xdTlJVVVCSWc3b2fSAYQCQVVfeXFMTmVRVU54ZndtbnJEbzlweFFaS3FfQzFLRXhBNVNEelF3UHNkbVRNR3ZUcE5RX2hEcW1iWlA2c21iX19ZZlo4MHpKSnJpVV9PTlYxbHNoU3VCUnItSWhxU0JNOGYxSDNzVk9uVUQxT05ZY0dpM2lpUWV0VnE3QmhlRHN2a2VKOU4xXzRGamZSZm4wcnBPVFdiRFdkbW9mZk85MFJweGdDTUNJU0FCdDltODY2ZkNfR0ZIV2EwNGs4MlloVDQ0Y1p2T28wLThZNGZJNlRCMnVvQ2JoTmtEYmpsM1JNSUpXRGlyRWdvSXl1UWZtM3BzZmpiYjRId1lSU1B1cG9jZ2Q?oc=5",
+    "fonte": "valorinveste.globo.com",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
