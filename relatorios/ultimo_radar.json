@@ -1,64 +1,22 @@
 [
   {
-    "titulo": "Dólar inverte e passa a cair, de olho em petróleo e dados de atividade nos EUA; Ibovespa sobe - G1",
-    "resumo": "Dólar inverte e passa a cair, de olho em petróleo e dados de atividade nos EUA; Ibovespa sobe G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41d1pBYVBSc3NjWmdhWnRiQjltRWRGRTdidzVfNWF4NmI2c1BmZlR4c2VVU2tiSzhQb1huSU1ENHlxclM4N0dyanF1dzE4cXJIbklLY0NWYVptTXpfX3owNEhMcUtrVnhEWFB4U2pFTzdrdU11RXl6T9IBhwFBVV95cUxOczJadUV1LW4wV1NOdHNTVlZWSzNKYklHa0s1ZkZSN09MZjl2NkEyYngyREtLaTh0WG1mNWx4RzNleXRpWGhXbUdEazI0MTIxaEs5RVhyR0VDUmVfbVlPbHZxdEdUVWJvRjY0dV9SRkhQNmpWSnBKT2NuMF9zR3A2cDFRdzdEMVU?oc=5",
-    "fonte": "G1",
+    "titulo": "Cortes na Selic vão além de setembro, diz gestor da Kapitalo - Valor Econômico",
+    "resumo": "Cortes na Selic vão além de setembro, diz gestor da Kapitalo Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmh0N0R2d19kLXVwYTBUVXJmU040YzhHbkI3T2RVMklTUnJ0WmhaNi1vLUJoellhdEFvb1BnOGsxMGVnUUlyMDFwTXoydFBxeWJBcU14VXlBY29FcVFJMERwUnJlTVBxaG1qVUI5cThWYnV3bDJTSEtQN1NIQktpY2NXcExkYTlOUHhZX1VHckk4THdQQ1BwZUMwZ3dwZjk2enIzbVM1RXpGVXlnZUppQ2xmSGFQQdIBxAFBVV95cUxNcE9veUJ0eGN2QjlGbGU5ZUZGdmIyV2JyaTlvR0cxN3lLa1c1NURrWXNvTkp3SHFkRU51OWNFRkhRNHpjVHlzS3p2ZmRCYTZGWmdRc29ZMEQ1VzZTNnRfUTRERm9EN29KdlNyTC1sdGs0VGhRQTNKWnRrdXZZOTRwT19wanNSZERxWXhPYk1qa2Y2VkJta0JoeXN1MHo0X3V5NmhuaVRSb1FPZUYxR25tY0g1TW9mMWlQc2czVC1yM2ZKeTFZ?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "41d677e2dd69284798c57691b4055949ad8cc248cd31f75595aca9e86e9ce3e2",
+    "chave": "aed3adcb5a89beb96bb27a5c75dd5179b50444157e57d5c7ef2b0b72f676f252",
     "ativos": [
       "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Registro de Declaração Periódica Trimestral no Banco Central do Brasil – Data-base de 30 de junho de 2026 - Demarest",
-    "resumo": "Registro de Declaração Periódica Trimestral no Banco Central do Brasil – Data-base de 30 de junho de 2026 Demarest",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQak8xUEJXTkRNSlJhaWE4UGVsU1VFeENTQTlUZ0xGNzFhVnh2bmI0djVqNXh3NEhfYkE3UTVZVXktcUVGVVhyLWlrbmdzaVdtUks2SjA4ZVJ4c0RiQlUtVUlhMnBjV0Z6Mk1GdXBOVnYwZklVWE5lbEpVMUhwTjFFY3FnZm5fTUVZUWJOcGl0dkpuWEpqTmY5Y2dQVVgyb1I3djlUWURzWU1Gd2wzZmJ1TzRlaUVrU2hrQUVIaW83Yk5QUVQwS195VEt5bTU?oc=5",
-    "fonte": "Demarest",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "009d5a56841106fd3827fe67963eeda11a93896e5c02125245045686747553ea",
-    "ativos": [
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Liquidada pelo Banco Central, financeira da Simpala tem 21 mil credores com R$ 622 milhões a serem pagos pelo FGC - gauchazh.clicrbs.com.br",
-    "resumo": "Liquidada pelo Banco Central, financeira da Simpala tem 21 mil credores com R$ 622 milhões a serem pagos pelo FGC gauchazh.clicrbs.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOSXZQWTF0VW5RWnV2U0xuLWRraHk0TVJrMUFxTVhIcWFqNEVHNnp2elNlcEZSanp0d0Mxd0htYUlyZHRfOFFSSWRZOUJXWE02LWtqb1VaWVpJWkthV2pNTTU1S0JTTHdlZi1ZNjFIeHdLRVR6TVdyQlRCNm5VbzNEcHlvd3FnSGtxMmQxNFV5bUdxc1FWV2sxQUZNeXFnbEc4c3NvMXQtZFV6UzA2TlR3bWE5UEZWUEgxMWlkOTYwSklNUHJfNlBpZE5BR1FnTnhKajhjSFM0TXpYNlRBaEhOU0lneXhoUW1XZE5uX0FEZi1GXzZHZFJNYjBuR0NnMWNDcHR3eWN5ZTJLQkpYeVdmcVFnT2pBWVFDS2Rvc25Ka09URDdwQUlMbVgwSjVBOC1aT2hZU1ZoZWFNUQ?oc=5",
-    "fonte": "gauchazh.clicrbs.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6c04bfef2d67ed7eb64b263b7026f23b64acbb4cc0eb08e780508a271f845d0a",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
