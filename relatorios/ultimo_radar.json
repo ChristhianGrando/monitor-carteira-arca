@@ -1,11 +1,36 @@
 [
   {
-    "titulo": "Ibovespa cai pela 11ª sessão seguida com PEC 6×1 no radar; dólar sobe - Money Times",
-    "resumo": "Ibovespa cai pela 11ª sessão seguida com PEC 6×1 no radar; dólar sobe Money Times",
+    "titulo": "Banco Central Desacelera os Criptoativos para Conter as Fraudes - Blog do Prisco",
+    "resumo": "Banco Central Desacelera os Criptoativos para Conter as Fraudes Blog do Prisco",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUJ0WVNtcXo5R3NYa001Ym12SG9FUkZ4dklaUFlCX2NWc0NQc1FBa2lienAwRnBnb042cXplQ3Y5cG1VUlg1U2xKNExyWDNIRjJKSUgwb0wyRk1ERHVBRkJFUHVhNG9WVmpFYjV1UFhTLVRJSWZDekExQ1NMQ2tQRkZjTjdWY1o3dWdCR09hb01SZUlBTHNsTERNeGfSAaIBQVVfeXFMT21fMENOdTJ3ajdrRUZWYmV0WExKazNWelFEekwzZHNXQXJiUjFpam40dGtFaEZtZm1kb05GWS1CS0ZKUm50MTVlbEhGNEd2WW9MQ3dBZFZSN1RublczYkZ6dUQ4RXdwdXVONVRxTGFSTlh6UFdCMlFXdTV1Z0g5U0tzTU5pYjAwYzFrRU5GeGRFTUkydzE5blZ4UU5nS0I1RGZn?oc=5",
+    "fonte": "Blog do Prisco",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "1aed6a0a413d723f2247fe3b1797341d63a975082ff90b836512aab370e0b2d2",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai pela 11ª sessão seguida com PEC 6×1 no radar; dólar sobe - moneytimes.com.br",
+    "resumo": "Ibovespa cai pela 11ª sessão seguida com PEC 6×1 no radar; dólar sobe moneytimes.com.br",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NMGhtTHQtQmoyN3NFMGFTTlp5QmhPM2trcDFmQWYtYlFTa2pFTzhtNUN4RXlGOTh1LVdqVmZndW95WHhTZWV1SExzTWhNLTZ5dXRJSmtZMTIyX0tYNFVSMGln?oc=5",
-    "fonte": "Money Times",
+    "fonte": "moneytimes.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "d6ab09ef0cea925aec386b5e60cb8cb167b999e8f0cbcecfd0483b3a87c93c2d",
+    "chave": "e6ff6814708abf57a73aba76313d6dab03dece1e2723de04e112c00a13b801b7",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,25 +49,49 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Wall Street cai com disparada dos Treasuries, petróleo e à espera de ata do Fed - Money Times",
-    "resumo": "Wall Street cai com disparada dos Treasuries, petróleo e à espera de ata do Fed Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RU1p0a3NiRVZKb1NraTI0MWRvMXZzQ21tS042RGkyOF9UYm9VSHZqUXNBY1RmTUpQcjFYUTROajJwaWpZTDg0WmprSjFPeWVWUnAyQkxhek5hSnpxd1I1TjFPLXo?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "e3ff377fc02ddbf3e4d88cf0c6d09b7d54818b8dd6b77986ae034d54c706856c",
+    "titulo": "Novo marco regulatório do Banco Central: Paulo de Matos Junior examina apetite institucional por criptoativos - bluestudio.estadao.com.br",
+    "resumo": "Novo marco regulatório do Banco Central: Paulo de Matos Junior examina apetite institucional por criptoativos bluestudio.estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTHgzU2J1Z2RpRkJma3RSMmxYbnM0a1IycEhvYkpZYnhfOXFBdFBwRTZ3YkF6dFBLZUdXYUJWNVc0TG11UDFaRmhaZmRjUUVNSGVObWRwcnJHY0dZbGMycFJWZzhWenBHVXVnT1ppYWtqQ3dtUVBlelB5S1F2eVFVNEtadXlzNG5rSXlNdlE0UDZGRnZRVU5MX3pNY3FzSXNCaDJpcHVRbjdtTWlfUDQzVmY2YUU3TDIyREtSLW8zTTBwSk1uUW1NNTBQRXlYdHlmZmFQZ0xBSEJrMm50LUhESVowa3JKVGM0OWtGVkNzYmVTZDFhR1VOZllEVS1NZ19TdDRTZkFUM0UzUWxOclE?oc=5",
+    "fonte": "bluestudio.estadao.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "fa800dfed6d2bdb76929e545d77a2ff98011019b6d12b7bc2fdd1106408e463e",
     "ativos": [
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Índice de Atividade Econômica do Banco Central | IBC-Br - www.gov.br",
+    "resumo": "Índice de Atividade Econômica do Banco Central | IBC-Br www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbVBLdXFKQllTTFdmZllJLWlCcHpITzFFYXFpdG5nZmg0XzZRdGVwXy1IUGlibnVmdWJndDhBRC0wOFpELXctX2t2Z3pOZDN6RjJTc1FYMzRrZWhjenlDOHI3dDlDeUlWNDlteUVSYWtyZ21uRzNqc1B6VS1ZbGtCZ0lyZkFpTGF2Ti0tbUdtZF9KR1FIMnIyQVpJZG9XakVzTU5fUGhLcGZ5aEZSYlUxTHlHWVhOTjh2UWtCTVpodnJweF84RUJfRDV5NktqV2l1cW5FYWFOZTcxazkybHdUSE1ncVd6Tm90UG02VkR4WHo?oc=5",
+    "fonte": "www.gov.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "cd67612d08de69fd4c9b8be169c17d0d48c3989c04fd85ba64313e5c701961be",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
