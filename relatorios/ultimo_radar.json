@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa cai 8,5% em dólar em agosto e só ganha da Bolsa argentina - Poder360",
-    "resumo": "Ibovespa cai 8,5% em dólar em agosto e só ganha da Bolsa argentina Poder360",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUg2eE91WktORFVuSDh6NmF2d0ZpSno1aldwZGZISXB6bXRwODdOOXlOdHpybDZ6Umk3eTQ4aktDRWdiQk9pb3NyeUVkQjlXcF9RblpWeWQzOVJ6Sm9LTFZnRk9Mb2ZCQjZHdk0xRG16NFFhbmZ6TEZ3MUlSbmVuUlVSanpZX3F1Wlp1dUJzRkJuc0hiN0U1T0NWU0V1NElBUmFyWmhRMU9aMWsx?oc=5",
-    "fonte": "Poder360",
+    "titulo": "Ibovespa fecha em queda com cautela no mercado externo; dólar sobe a R$ 5,22 - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa fecha em queda com cautela no mercado externo; dólar sobe a R$ 5,22 Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNGhvTzg2d3l1Z1o4VWJfSWxLNXlEb3VsX080WUtmYzUxWk1hYWxxcWkzNFUtM2tDN1FlVVUwc2swal96LTQzUy1sOUJxOTBHQWRfUDBnc1ZmMHVYUTBtdzA2d21ZOUt2YzhiNzZVNkxyaWctMFFHckZUSnB3dTVGNVN2d1ZZVE82ZXhoM2VlcUIyS2xFS3E0ZEZRSUJYai1IQWFPeXdQR0VqSE9hTXFBaXc4alpvWTVV0gHMAUFVX3lxTFA4cGZpMzJpazhqYVp6Uml6bW1uaWNvVXZHVUFkcU9FR0tTT1dBTEF6NHROdFpKN1UtM1lpY0xhbWpEcVFFQ05QOEZhcjRLenl2RERrcVVmQ0ZwVktGQmh6TkJ4b1p5ZDRxTmRJcmcyTE9mRHA5Wi03Yy1Ub1pRbmJHNTRBTzdXaUllQlRqWWhleXdRNEFVcXYzcFFVc2EtVl9pdVFnbW1FaEFycjY2QnVNbzUxX2QxVUpXOGhVRWNNdG5JR0RDSmdRN2JQVQ?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "eeb51161ab005bfdbba611c28826659e8c3e2cafaea490daf85f88ac3ed09c20",
+    "chave": "fadbfb68d7d987e9a9eddc30257a1ed4ba2fd6b3ca2a6cf25c4c25aa543ab25a",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,25 +24,27 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Com edital autorizado, Banco Central do Brasil registra mais de 3,1 mil cargos vagos - ceisc.com.br",
-    "resumo": "Com edital autorizado, Banco Central do Brasil registra mais de 3,1 mil cargos vagos ceisc.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEhLczFMLWxPRjNYb0FjQVhFVTZGemdXWE1xNzQtN3VJMGswYU54QnFMVVB0eFVtZU1EbHNTRmdPUlNpakw4YzhWQzEyZ2I2NGc1eDE3bGZGN3lHUnJFRmJqYnJPM2F6WFRSa0NFdHdNVDFsMXN4QVh3R210elRYbVF2YlY0bEFNbHo5b2NMME80aWp4b1Ixd29FRzMyMENEWE5lcGNZVmh1ZXJ0ZUVmQ080eEw?oc=5",
-    "fonte": "ceisc.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0346c940339a3816197b74d681303cb66b1461b84b422248cb6d9b2241b930e9",
+    "titulo": "Ibovespa cai pela 11ª sessão seguida com cautela do investidor; dólar sobe - Money Times",
+    "resumo": "Ibovespa cai pela 11ª sessão seguida com cautela do investidor; dólar sobe Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NMGhtTHQtQmoyN3NFMGFTTlp5QmhPM2trcDFmQWYtYlFTa2pFTzhtNUN4RXlGOTh1LVdqVmZndW95WHhTZWV1SExzTWhNLTZ5dXRJSmtZMTIyX0tYNFVSMGln?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ca84af221dd919a839977ccb2856664ab0c673a79af847b0a62272dc2480d8c6",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
