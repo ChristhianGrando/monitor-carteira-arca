@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-18 16:12:14",
-    "chave": "610eb6044c5a5d8f7c589dc8b56b1570e85e79151cca3890bdee77c32d03ad49",
-    "titulo": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zd29oTTIxekthRmJPOXB0UF9TdllwQkZBSGlDbTJjYy1odEh0VnZnNjI5WjdoRmdqZEtySkJleGlEZ0tVb00xaVFqbm5LcEgyVE96X3JRQ3I0WktORHNUMk1pMDVwUFpIRldKTjVFWFpZZw?oc=5",
-    "fonte": "Money Times",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-18 17:14:14",
     "chave": "1b93ed703f491f9fb0f9e0142d4330a7d906045c0cb49eda7521ce4d3584fe14",
     "titulo": "Gestora do Nubank estreia três ETFs de Tesouro IPCA com novos índices da B3 - Estadão",
@@ -17231,6 +17216,25 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-18 13:07:22",
+    "chave": "9e8d224ff631059e3c2dffa3f9bd4b6d5f2619c4bede23dc2462124218947571",
+    "titulo": "Tesouro IPCA com rendimento menor; entenda - cbn.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDVEVUdhWllmTTYyQ0JQN1lJY2NuVFVZU0RXa1BpdVNOcFBSTTdzNUtfZlFPRkRTQ3M0STVWdjNMNzFyb2d6WXRBMWZld2V1LThHeGgyeTlTQWUybjhScFRfRVVnMWJSYi1EUEpIbzlRZHEyNHd3V0haT0JSbThReTBFWmNMSnluUUlVR2hVeUNVUm5uYVJReXd1aXBJMlcxQjVpR2pLOU1vUzk4N3hMQWdLVTNtV3Q1RExETm1taU5ERGRS0gHTAUFVX3lxTE5yOHNGcmtSUHIxMEVFU2g5REs3MW9rY19wanI5NzJDVUI0OGVYQmZKa3Q2LW0ySVJyRzgyV01nbThwN19XZUQ4VFREeWk3YmhwZ0UxWXRiTEcwdUdkNG5oZzV5el9wNFZJMTlWSnBrTTVYb3dka0JIdkVqMHhxQVlrZnNORzNJVjJSQkh3Ql9kVVJTbEJJQXZNS2kwUGRjY2EyUkxWbUpmQnBiMkZubkU4cmh6Rjc2bHpzdk95YmVNQ0NPOWx2NXU1V1p4R3Z4dHVhanc?oc=5",
+    "fonte": "cbn.globo.com",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]

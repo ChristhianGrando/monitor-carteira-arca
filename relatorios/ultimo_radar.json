@@ -1,34 +1,11 @@
 [
   {
-    "titulo": "BTG pediu aval ao Banco Central para compra de ativos do Master, diz diretor à PF - Vero Notícias",
-    "resumo": "BTG pediu aval ao Banco Central para compra de ativos do Master, diz diretor à PF Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkI3THExVEk4ZFZUTzhud2wxZGVDOVNwdmtCNXpjYVdCSFd6UHdNYUJ1dmpyVV9EYkNUcG5Yazl2R0hzc0ZYWVotWV9kSWtpNHg0MW9hZk51VGg5eUJtZ3hjNTJBNk01TzNQU29GV0V6SDhBcERBMFRrb3Jjc3d5Y0JQLVN2dVhvMHVqdXNjYjRSZUN5anc0NF9DeS1zRzZnM0gzblA1VWh1Y2FtRml2N1NFZkpCZw?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8b5e50be3f91d0263ebb6c1c52b3606163f242620eb70253fe6e44f7f2cbdc82",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 13,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Tesouro IPCA com rendimento menor; entenda - CBN",
-    "resumo": "Tesouro IPCA com rendimento menor; entenda CBN",
+    "titulo": "Tesouro IPCA com rendimento menor; entenda - cbn.globo.com",
+    "resumo": "Tesouro IPCA com rendimento menor; entenda cbn.globo.com",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDVEVUdhWllmTTYyQ0JQN1lJY2NuVFVZU0RXa1BpdVNOcFBSTTdzNUtfZlFPRkRTQ3M0STVWdjNMNzFyb2d6WXRBMWZld2V1LThHeGgyeTlTQWUybjhScFRfRVVnMWJSYi1EUEpIbzlRZHEyNHd3V0haT0JSbThReTBFWmNMSnluUUlVR2hVeUNVUm5uYVJReXd1aXBJMlcxQjVpR2pLOU1vUzk4N3hMQWdLVTNtV3Q1RExETm1taU5ERGRS0gHTAUFVX3lxTE5yOHNGcmtSUHIxMEVFU2g5REs3MW9rY19wanI5NzJDVUI0OGVYQmZKa3Q2LW0ySVJyRzgyV01nbThwN19XZUQ4VFREeWk3YmhwZ0UxWXRiTEcwdUdkNG5oZzV5el9wNFZJMTlWSnBrTTVYb3dka0JIdkVqMHhxQVlrZnNORzNJVjJSQkh3Ql9kVVJTbEJJQXZNS2kwUGRjY2EyUkxWbUpmQnBiMkZubkU4cmh6Rjc2bHpzdk95YmVNQ0NPOWx2NXU1V1p4R3Z4dHVhanc?oc=5",
-    "fonte": "CBN",
+    "fonte": "cbn.globo.com",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8e57eed884f7ef175df631fec5366d29fc5ae4c051944f33deff82f4b81a5e0a",
+    "chave": "9e8d224ff631059e3c2dffa3f9bd4b6d5f2619c4bede23dc2462124218947571",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -46,56 +23,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Estratégia de Renda: As ações que pagam mais de 14% e superam a barreira da Selic - ISTOÉ DINHEIRO",
-    "resumo": "Estratégia de Renda: As ações que pagam mais de 14% e superam a barreira da Selic ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVV2bmJtMlZLWGhxZGJ0N0tSdHl0ZnVhdk5qbm9CbnI5M3NkR210UWZNU1V0UFlNN21jZ3JtZkJxT0JaanpPbWhYYlB0Zl9vR0xCbGZ2SlNWRUp3NzRRa3VyWlZ3Zm5MdkNjSjVNa2lNemlCcG8yaGIyYVZ6XzRjRkhfalZFMkJLdUItUA?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "0d352e5f2e74a82cccaa77a27fc57cfe60c8f2aae0dde6746eb71fabfcdf82d9",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Descontos em imóveis, petróleo a US$ 90, dólar, Ibovespa, mais agenda e pílulas da economia 18.08 - GZH",
-    "resumo": "Descontos em imóveis, petróleo a US$ 90, dólar, Ibovespa, mais agenda e pílulas da economia 18.08 GZH",
-    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPbjNIdmh6TC1YOWZwYjhWV2RtYTdqeXVHMHNDeG5wYjN3SGx3UjBXc0FHRTd6Y1ZwX3Z6VWpLTFQyU09WYVZ1c1FTMnJzQ0hLWUdIa0tWNFNpdy1mdm1mWWRVZE5MbUZGb2djc00yQjU5bWJyTVljV1NCUDJ5ZGlNZVhudktqZnh2UkRKdm5TdnYtTHBVbld5T3l4UVctb0dYc2NIeVlzd05yMjBPRDMwOGl3SkhUcFo4ajFzVDNTMmktU09NV2dXeTY2VUZmSTF2eVNhUXo0VHNpU3U2QU1WQzIzOG8zR1YyazRhX3IyMjRuU3paZXAySjZWa1FWZHp2eFJiWWduVFNXd0FidkF6cENkYmlzYk5FU0ZlM2pBTGc?oc=5",
-    "fonte": "GZH",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4adac88da3e5bff203d00c688bb784710e60f49034df381fbce3e9b8ee008f62",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
