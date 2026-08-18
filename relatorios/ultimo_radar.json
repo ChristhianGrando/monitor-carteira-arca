@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa fecha em queda com cautela no mercado externo; dólar sobe a R$ 5,22 - Bloomberg Línea Brasil",
-    "resumo": "Ibovespa fecha em queda com cautela no mercado externo; dólar sobe a R$ 5,22 Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNGhvTzg2d3l1Z1o4VWJfSWxLNXlEb3VsX080WUtmYzUxWk1hYWxxcWkzNFUtM2tDN1FlVVUwc2swal96LTQzUy1sOUJxOTBHQWRfUDBnc1ZmMHVYUTBtdzA2d21ZOUt2YzhiNzZVNkxyaWctMFFHckZUSnB3dTVGNVN2d1ZZVE82ZXhoM2VlcUIyS2xFS3E0ZEZRSUJYai1IQWFPeXdQR0VqSE9hTXFBaXc4alpvWTVV0gHMAUFVX3lxTFA4cGZpMzJpazhqYVp6Uml6bW1uaWNvVXZHVUFkcU9FR0tTT1dBTEF6NHROdFpKN1UtM1lpY0xhbWpEcVFFQ05QOEZhcjRLenl2RERrcVVmQ0ZwVktGQmh6TkJ4b1p5ZDRxTmRJcmcyTE9mRHA5Wi03Yy1Ub1pRbmJHNTRBTzdXaUllQlRqWWhleXdRNEFVcXYzcFFVc2EtVl9pdVFnbW1FaEFycjY2QnVNbzUxX2QxVUpXOGhVRWNNdG5JR0RDSmdRN2JQVQ?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Ibovespa cai pela 11ª sessão seguida com PEC 6×1 no radar; dólar sobe - Money Times",
+    "resumo": "Ibovespa cai pela 11ª sessão seguida com PEC 6×1 no radar; dólar sobe Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NMGhtTHQtQmoyN3NFMGFTTlp5QmhPM2trcDFmQWYtYlFTa2pFTzhtNUN4RXlGOTh1LVdqVmZndW95WHhTZWV1SExzTWhNLTZ5dXRJSmtZMTIyX0tYNFVSMGln?oc=5",
+    "fonte": "Money Times",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "fadbfb68d7d987e9a9eddc30257a1ed4ba2fd6b3ca2a6cf25c4c25aa543ab25a",
+    "chave": "d6ab09ef0cea925aec386b5e60cb8cb167b999e8f0cbcecfd0483b3a87c93c2d",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,21 +24,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa cai pela 11ª sessão seguida com cautela do investidor; dólar sobe - Money Times",
-    "resumo": "Ibovespa cai pela 11ª sessão seguida com cautela do investidor; dólar sobe Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NMGhtTHQtQmoyN3NFMGFTTlp5QmhPM2trcDFmQWYtYlFTa2pFTzhtNUN4RXlGOTh1LVdqVmZndW95WHhTZWV1SExzTWhNLTZ5dXRJSmtZMTIyX0tYNFVSMGln?oc=5",
+    "titulo": "Wall Street cai com disparada dos Treasuries, petróleo e à espera de ata do Fed - Money Times",
+    "resumo": "Wall Street cai com disparada dos Treasuries, petróleo e à espera de ata do Fed Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RU1p0a3NiRVZKb1NraTI0MWRvMXZzQ21tS042RGkyOF9UYm9VSHZqUXNBY1RmTUpQcjFYUTROajJwaWpZTDg0WmprSjFPeWVWUnAyQkxhek5hSnpxd1I1TjFPLXo?oc=5",
     "fonte": "Money Times",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ca84af221dd919a839977ccb2856664ab0c673a79af847b0a62272dc2480d8c6",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "e3ff377fc02ddbf3e4d88cf0c6d09b7d54818b8dd6b77986ae034d54c706856c",
     "ativos": [
-      "IBOB11",
       "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ativos Internacionais"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
