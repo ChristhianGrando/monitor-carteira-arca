@@ -1,65 +1,5 @@
 [
   {
-    "data_envio": "2026-07-18 08:58:50",
-    "chave": "8d027572d47e8c9d54d85172bab19afd2ff2ed491727919b7f82cfec5107ac8c",
-    "titulo": "Ibovespa encerra estável e dribla aversão global a risco com apoio da Petrobras - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON0ZDVnVENGdSSVN0QTBwcFBTbC03cjFxN3I2aHdybTN3MlBidWM0cXY0Ri00ODMxRFA5N195T3FpZU8wemQzY1V6cnZScTZfWHlTLXVhR0lOQUhTNTN2d2J3dVlVbERQSTM2dkhYSlBLUkx4Z0N5MDRJUnYzOHU4akRzSTh3UVNBV0V0THUyV2QxSUJTei04dlVOY0Y0TzJPejZTWW5xSXFERmVBcGVrV0M5SEQyR0JjS0RkVEt5MmhwaEE4MWF5aHBzY1BTY0t5TzBJbjRvY04xd3FheWZtNmlR0gHiAUFVX3lxTE43RkNWdUQ0Z1JJU3RBMHBwUFNsLTdyMXE3cjZod3JtM3cyUGJ1YzRxdjRGLTQ4MzFEUDk3X3lPcWllTzB6ZDNjVXpydlJxNl9YeVMtdWFHSU5BSFM1M3Z3Ynd1WVVsRFBJMzZ2SFhKUEtSTHhnQ3kwNElSdjM4dThqRHNJOHdRU0FXRXRMdTJXZDFJQlN6LTh2VU5jRjRPMk96NlNZbnFJcURGZUFwZWtXQzlIRDJHQmNLRGRUS3kyaHBoQTgxYXlocHNjUFNjS3lPMEluNG9jTjF3cWF5Zm02aVE?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-18 10:40:57",
-    "chave": "2bcda122e8e980ecc81e696a2496cac8619370fe32ae8e1fd4a41f6859e4dc1f",
-    "titulo": "Ibovespa na semana cai 2,33% com tarifaço e retomada da guerra - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2k2QXpJVktlT3ExR25YamdTakRlaHNHOTN4Q2NZMjMwY1BwdDZ1XzBOTUh2eDJWdmJhdS01Um85SnJ5LTAxY0N1MGRzblN4b0JkV3FHS3NmQzNUUVBnSW05WkNaNEcyUllFMUdDdThuZW10dTc4TGNkbGU4WEt5bWswakVYOENLanc3VEtQV2NWWGxqMFhDd24zRkRTRmd0Z1dTLVpvVy0zcWY2NzVtZGZfWjR5eVY5X1RiRzNvN2Z6bGs3VEE?oc=5",
-    "fonte": "Estadão",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-18 13:49:03",
-    "chave": "47a40651926deed2d80ce3e4a937164aff4c69e8eaf1ba24eeb9170b65a3866c",
-    "titulo": "Com novas regras do Banco Central, registros de fraudes financeiras crescem 10% - Diario de Pernambuco",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMGNTeThKUENUMFpkclN4YWZlVWVRRC1HVVZ6ZjZuZy1FX21WSW9Belc0ZnJmTWFSMDRwQTU4NzRndlFhckxWc2RyVHNnMTJreW9YcVBjWGltbEVkMFFFR09wcFJPNG1CdUhLZXlXcm5nYjZwT0lCanhNY3hDZVliNkpJLWZKTGEtMXhhcndOSk5QUkpUalFUVHM2VFZRWC0zcWlhd0trc2MtZ28xQktxdGE1YTBuUlJ0X1h1X1pXSXlwX3NYSzlIdkRWa0RDaVVvLXVEMmNvVnozalJRZWRN?oc=5",
-    "fonte": "Diario de Pernambuco",
-    "score": 14,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-18 15:14:57",
-    "chave": "e6483c6a0a887eba10e941c7873d7f9f543dc618413642428008babe63cef6dc",
-    "titulo": "Detecção de fraudes cresce 10% após reforço das regras do Banco Central - A Tribuna RJ",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmlzTTVvQVh1RXItdE1JYVFMLUZYY0dsV28yWmN3TzlCd040T2Fpajh6aDZIb0tnYjYwZTA0YXlCSEV1VTViQlpCQVprNjdOamtYempCRnpGYTJ3NjFxY0I5V1FOMV9KUWl2bDZBaDFydVhGZzdWRnhXVWRQMmR3cHVfNTI0eFBrOUpQTDhrWlZVMmlLYmlraGpvbUpreTFMc2FwQ05vZjdMNXdK?oc=5",
-    "fonte": "A Tribuna RJ",
-    "score": 14,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-18 16:12:14",
     "chave": "610eb6044c5a5d8f7c589dc8b56b1570e85e79151cca3890bdee77c32d03ad49",
     "titulo": "Hapvida (HAPV3) lidera ganhos, enquanto Auren (AURE3) despenca 11%; veja os destaques do Ibovespa na semana - Money Times",
@@ -17221,6 +17161,76 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-18 11:41:18",
+    "chave": "8b5e50be3f91d0263ebb6c1c52b3606163f242620eb70253fe6e44f7f2cbdc82",
+    "titulo": "BTG pediu aval ao Banco Central para compra de ativos do Master, diz diretor à PF - Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkI3THExVEk4ZFZUTzhud2wxZGVDOVNwdmtCNXpjYVdCSFd6UHdNYUJ1dmpyVV9EYkNUcG5Yazl2R0hzc0ZYWVotWV9kSWtpNHg0MW9hZk51VGg5eUJtZ3hjNTJBNk01TzNQU29GV0V6SDhBcERBMFRrb3Jjc3d5Y0JQLVN2dVhvMHVqdXNjYjRSZUN5anc0NF9DeS1zRzZnM0gzblA1VWh1Y2FtRml2N1NFZkpCZw?oc=5",
+    "fonte": "Vero Notícias",
+    "score": 13,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-18 11:41:18",
+    "chave": "8e57eed884f7ef175df631fec5366d29fc5ae4c051944f33deff82f4b81a5e0a",
+    "titulo": "Tesouro IPCA com rendimento menor; entenda - CBN",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDVEVUdhWllmTTYyQ0JQN1lJY2NuVFVZU0RXa1BpdVNOcFBSTTdzNUtfZlFPRkRTQ3M0STVWdjNMNzFyb2d6WXRBMWZld2V1LThHeGgyeTlTQWUybjhScFRfRVVnMWJSYi1EUEpIbzlRZHEyNHd3V0haT0JSbThReTBFWmNMSnluUUlVR2hVeUNVUm5uYVJReXd1aXBJMlcxQjVpR2pLOU1vUzk4N3hMQWdLVTNtV3Q1RExETm1taU5ERGRS0gHTAUFVX3lxTE5yOHNGcmtSUHIxMEVFU2g5REs3MW9rY19wanI5NzJDVUI0OGVYQmZKa3Q2LW0ySVJyRzgyV01nbThwN19XZUQ4VFREeWk3YmhwZ0UxWXRiTEcwdUdkNG5oZzV5el9wNFZJMTlWSnBrTTVYb3dka0JIdkVqMHhxQVlrZnNORzNJVjJSQkh3Ql9kVVJTbEJJQXZNS2kwUGRjY2EyUkxWbUpmQnBiMkZubkU4cmh6Rjc2bHpzdk95YmVNQ0NPOWx2NXU1V1p4R3Z4dHVhanc?oc=5",
+    "fonte": "CBN",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-18 11:41:18",
+    "chave": "0d352e5f2e74a82cccaa77a27fc57cfe60c8f2aae0dde6746eb71fabfcdf82d9",
+    "titulo": "Estratégia de Renda: As ações que pagam mais de 14% e superam a barreira da Selic - ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVV2bmJtMlZLWGhxZGJ0N0tSdHl0ZnVhdk5qbm9CbnI5M3NkR210UWZNU1V0UFlNN21jZ3JtZkJxT0JaanpPbWhYYlB0Zl9vR0xCbGZ2SlNWRUp3NzRRa3VyWlZ3Zm5MdkNjSjVNa2lNemlCcG8yaGIyYVZ6XzRjRkhfalZFMkJLdUItUA?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-18 11:41:18",
+    "chave": "4adac88da3e5bff203d00c688bb784710e60f49034df381fbce3e9b8ee008f62",
+    "titulo": "Descontos em imóveis, petróleo a US$ 90, dólar, Ibovespa, mais agenda e pílulas da economia 18.08 - GZH",
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPbjNIdmh6TC1YOWZwYjhWV2RtYTdqeXVHMHNDeG5wYjN3SGx3UjBXc0FHRTd6Y1ZwX3Z6VWpLTFQyU09WYVZ1c1FTMnJzQ0hLWUdIa0tWNFNpdy1mdm1mWWRVZE5MbUZGb2djc00yQjU5bWJyTVljV1NCUDJ5ZGlNZVhudktqZnh2UkRKdm5TdnYtTHBVbld5T3l4UVctb0dYc2NIeVlzd05yMjBPRDMwOGl3SkhUcFo4ajFzVDNTMmktU09NV2dXeTY2VUZmSTF2eVNhUXo0VHNpU3U2QU1WQzIzOG8zR1YyazRhX3IyMjRuU3paZXAySjZWa1FWZHp2eFJiWWduVFNXd0FidkF6cENkYmlzYk5FU0ZlM2pBTGc?oc=5",
+    "fonte": "GZH",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
