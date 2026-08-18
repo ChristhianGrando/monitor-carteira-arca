@@ -1,37 +1,5 @@
 [
   {
-    "data_envio": "2026-07-17 21:08:08",
-    "chave": "b644d5889af6314b255d241e59fc60110951a18b8f5b5e3c16098c599ea6aac4",
-    "titulo": "Dólar sobe 0,25% e Ibovespa cai 0,06% com tarifaço dos EUA - Poder360",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG11U21pcUFubXVpbDczZHlwaFRHaktrY3UzYW5mRHQ2cDFIZUgyVFROc1g1bm5CR3pYY0xpNTQ2QzBtZVVjbGFpT3ZrSHlvUG5NYlJBeW5kMlNYWG12aVE5VWRmN0daUFllb0NCaXJfT0NRWC1oVUlXVkpJUUFSNUFQVDFaVUJqQUlYbElNWUhaZ3I4bjZORWZGOHgxOUk?oc=5",
-    "fonte": "Poder360",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-17 21:08:08",
-    "chave": "344f6ccd2b1536d57d0ab4d06c6e0542bdff83245f5376540b6b8edd02849cf3",
-    "titulo": "Bolsa americana fecha em queda com pressão do setor de tecnologia e alta do dólar - BPMoney",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHEzMXA1NFFUSjlYRXV0QnlYOFdMN2hXeWNLS2c2ZTNOUjhQTjQtaGZob2VvVUlzNDFnX1czYm9qUjZucmkzcUpEcWdxU0wxQkVWUnRtWFU1NEF5MGZZX29hcXFjLUxNNkZvUmtUbWFGVlN2Wk16NjhYemtwYjR2WnJud1lZZw?oc=5",
-    "fonte": "BPMoney",
-    "score": 10,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
     "data_envio": "2026-07-17 22:06:30",
     "chave": "c32156bccd6a5cb6f0ffdbda94c3e9f35f06a433412f2103181de51a15ae68c7",
     "titulo": "IPCA abaixo do esperado faz títulos prefixados dispararem - CNN Brasil",
@@ -17194,6 +17162,44 @@
     "titulo": "Selic a 14%: o que muda para a economia brasileira, por Vanessa Onzi - Portal do Cooperativismo Financeiro",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmpIVWFnUEo0YlpKVGlGY2hXYzNfQzg2N3VEMDhObDhmN0FybWdHNFZycmtNbHo2cl9RRFZpQnBFU1FKbDM1eHpVTGJ0SUNHU29xLUlnd1dsNkRXNFY1UWh2Ri02VFhxY3Y3MEVoelU5d0tfbDNKcnVibktRRW5Oby1RVlcwS3huNFhSQ2NJazRSUTY2ZkV0V2c1dVNYaVRsVDY3czdkY0szMDZXNi0yakdVcG0?oc=5",
     "fonte": "Portal do Cooperativismo Financeiro",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-18 01:50:33",
+    "chave": "a0cfcfef29d5f5ad34cee46d9062a32b9e6814b77028d3878cd3700fcc08fcb1",
+    "titulo": "IBC-Br cai 0,6% e mercado aposta em cortes da Selic em 2026 - istoedinheiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0F0SV9mQWZLcHZSYlo2LU10N05OVU9BQ0ljaUhZUXVrbkU1ZjBZV1JlZ2R6SnpCTnJDUXRuYXpsTnVUaTBfTDVnUm96TGlLSEtuVUlRRkk1cUVyMnFRc0xNODVkY25PUU1xV1ZRTElFczJnR0xVLXZrVklObnBRei0wSlo?oc=5",
+    "fonte": "istoedinheiro.com.br",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-18 01:50:33",
+    "chave": "851890d706a47e8c1b336991a2303375a4ae16e0029755f3eb87055dba5ff8f5",
+    "titulo": "Mercado mantém projeção do IPCA para 2026 e eleva estimativa para 2027, aponta Focus - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dxcjRRR0dYTnZXNnFRZE5mY0JNNHJGV2pLVzc3U0ZELU9IeE1ITlpWNC1xdmlYQjA4aEl5b0xKYjhGNmlyRVVpSTZXdkNWeVdRUjM4dTNZUVpmdXFDYjV6QmIwQjI5blJ1MWY4S2YyRHNRbDI4bE50MnRweTBkb0pteVF5ZGNKd0RwbmFqRlN0TmlVZE94c2hHNVk4Ulljc01XUGVXbFVMTTdSNWJOc2s3YkZXN3ZULWJZanN4TU5sbm1yd2tVYnFwdWk5dU9uVDJCSzJB0gHkAUFVX3lxTE1JX3ViMlZ6VmYxc1RwZHVDdl9sMWNZdUxqNzdZUTBuMDE4UUR5TzhTdHdYYW5GSnFvUy1welVWd3pjNm5xYkVVd1VuZ2lFYnMxNEQ4bXZGSUxiaU5ab2psT2sxY3dnQVlDN1NwbkpWM0tJdGhxQkhPN011emw1emk5bXhWX21zbDZNX3IzTFpSQ3Z6UUFHOFJwSGtzM3NOOWN0THRfWGY1VnJTeGM1TldkWjh0amRzTVMwdnJxXzNhTHRKcUpZMXZoSHRtZ0ZReWRIaERlXy1CdTBiYmdmNW9qd01fZA?oc=5",
+    "fonte": "Valor Econômico",
     "score": 12,
     "tipo": "Acompanhamento",
     "ativos": [
