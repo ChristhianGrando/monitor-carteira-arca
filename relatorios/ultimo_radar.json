@@ -1,28 +1,49 @@
 [
   {
-    "titulo": "Ibiuna Credit IPCA+FIF CI RF Incentivado de Investimento em: Cotação e Indicadores - conteudos.xpi.com.br",
-    "resumo": "Ibiuna Credit IPCA+FIF CI RF Incentivado de Investimento em: Cotação e Indicadores conteudos.xpi.com.br",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZDZac1cyLXBnVkJaU1F3Q3QyUXF4bXM1ekk1RldfcXByc3ZySGVfSHZfcXQxM3NlSzV1dVJyQXQtc25GM0hKOENDQ1dUUWdjQjgxVVZaVEw0N2lfdXc4LTRjYkJXODQyOEN5T2Vpak54R19kNWNPVW9LRXJpeTNGZ09yb1dWMlpteUxQZmppakdDdmFjOS0xR0ZLRmNDbF9sdjJWOTlRYndzZF9ncUR2aQ?oc=5",
-    "fonte": "conteudos.xpi.com.br",
+    "titulo": "Dólar fecha em queda e de olho no varejo brasileiro; Ibovespa cai - brasilagro.com.br",
+    "resumo": "Dólar fecha em queda e de olho no varejo brasileiro; Ibovespa cai brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOV9tbkZLcktoYnNQLU5lcjZUMEhuaHhpY2lBTHhGMl91Nnp5VzVEWUNnZExhNXZxeHJ3eVdTVnVLZU1rdGhQOUktUkd3LUo3NnVDNS10TG43ZDhLbEQ1QVBFUjE1NmhaalBsaElOWkhDN1NGWE11WGJXTUVPZmQtOFVuTUVxT1hiLWtDTEtwUDMxc2loVEZJVmxXNzhwR2hsOFh3emlRZkMwOEdF?oc=5",
+    "fonte": "brasilagro.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "fa0c2c5e709e4f3d2c3eac51ddc152c1119286d7c0863c66952b474c5518a8bb",
+    "chave": "7c745cf3c18050b3f5db58547ea5f13451ff4f3fe358cc98cdee587f0f093d7b",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje tenta evitar 11ª queda seguida de olho no petróleo e em dados dos EUA - Estadão",
+    "resumo": "Ibovespa hoje tenta evitar 11ª queda seguida de olho no petróleo e em dados dos EUA Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOWlLYjYtRktCVjNHa1YxYXBDVnNEZXZ0Rzk5eGRSLWhZVlczZUJHZ2FJN3owZWNrSHptTnBEYkFkbDNLRnFtUzNFMUthQ1FMMlVXSGVSZFEzUzRBcnZnZldSMFRkcXozNDNGVVRzMkNnelRXNEczdzlwTUMxN08xV2Y2UXlTbDgxSFZrMmNZQW1HU3huVXA3djRhVmxSVkVyWW42bjlnM1lWY3cxWmQ0alNYQjk2N1NhMEFuX3ZaY21yOW16cWYxNnB6OUc0R2syRHU0TGV3WVZUNlJwaHV1V1JfTQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "246ffb53d7f0e663a3a901110c14b852a03ece45a24ee53b94d3b99d1279a07c",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
