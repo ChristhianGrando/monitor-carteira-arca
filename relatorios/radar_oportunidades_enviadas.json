@@ -1,54 +1,5 @@
 [
   {
-    "data_envio": "2026-07-20 18:19:31",
-    "chave": "acff3366bb6432d16169886fc6790b82e12d21b9c16d0d2fdc56f1a4674034e3",
-    "titulo": "Economistas diminuem previsão da inflação pela terceira semana seguida - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDR4YjBoZ25WRm0wbUpnWVYxdjJsQjZ3UV9jZE4zMlV4NUZRTUdnUy10WEF5dDB4T204bWlTdXk2UEQtZGtLbGV6TjJIUkNkNVphVDRMNUlsQUNVVWxrdlBaaXVUUXdfY1d4UmluMlVjV0xXUlQ5b0dfSWNjSEVMbGhONHRaaWlGeG1KdjZZYXpSZEJWLUdDdlFEcWt0R2RvblpKZHpqLV83cXRPcE01a1llb3RCa0ZPbFM1dEpRNA?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-20 18:19:31",
-    "chave": "96183376dc91ac7525cde936b55392332a641aa5d14a154f4a829a66b18e2495",
-    "titulo": "Após falha nos motores, SpaceX prepara novo lançamento da Starship - Exame",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMkdwSHpGMnRMQ0hacUZRdGk4NE5ybDVLQWJCbUl6bTNldDAwRWdrbzMtQllqZWVicEptYUJWdEVzcElsV2FyUkZQTU9rcngxaVJyejY2bGtjMkpUWmZGTmRiREpYVjJMVk1qWjVGc0xVZHVMVVo4UlJTUTRIS2VwdkhLMTVuMTFUQUJ4UWtvUFhqc0Y1eG04?oc=5",
-    "fonte": "Exame",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-07-20 20:40:29",
-    "chave": "c6e50ab05e7bc8340c8dc55f02a3d16b7cc75117fbc466d9622ccbe844f05410",
-    "titulo": "S&P 500 e Nasdaq fecham em alta com dados moderados sobre a inflação e bons resultados de bancos - UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaFg1UEtYZFhuaWNzNXVRQVl1RTI0b0g3NkZDLWlnczBOdm14X3BZSnI0SEtkZWJjcFR4TDl3M0lrTFBCZG02Wk5FMHZFUGNsY002dUF3VF9Hc1NyTkZQTmFHMkplOHJ4c0t6aVlvT1lja1E2RkJfdkhzanplMkRpR3NJQkIwRkRlZHFHR0FpdmxXT0ZaRzZNMGVkal81V1JpUnFQalNjSWdQOVFvMW1WcTBxdGF4ZXk1WC1yMXhQR0hlTDhTR21zaGpIcF9TYll3LTU1akNWbjBXQndrZ05aczJKWkVoT0daUTNv?oc=5",
-    "fonte": "UOL Economia",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-20 20:40:29",
     "chave": "e56cfe34035badb7d344963855babd041229de3d7c9e5c4edcecfec716605066",
     "titulo": "Expectativa para a inflação recua pela terceira semana seguida, mostra Focus - vermelho.org.br",
@@ -17231,6 +17182,61 @@
     "classes": [
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-19 13:08:23",
+    "chave": "3a9a8d6d98101943031dc7b7951da3ff51b4818c4c540278284301bdf285b619",
+    "titulo": "Dólar e Euro hoje: entenda a alta das moedas e o impacto da Selic a 14% - ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcEF6dGJiNEdXUWhpNWhlOFcySWlEVmZqUG5fYmYzZ1g1WEdTbmZJN1VMVVlUaDFRMDA0UURwTmhUVDMxX2liU2hFT1VqMTVUVUlpZzdncF9GSnB3SmVTTU50YVBPV0J0UzFNaGI3d1RoWkxVelkwZW5FYzQ?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-19 13:08:23",
+    "chave": "f21c06f87f14e2324d15e34464a6cbea634a77c99841bf55064e48799e3364b3",
+    "titulo": "Até IPCA+11%: os papéis de inflação mais recomendados para investir agora - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREpvZG0yVTNoUVdKU00xc0hXOWNWa0NvMkNXM1ZPYnBZek5MZlpucThrWlJ6NUZZZm5MX09BdlZXcUJ5aWM1V09jVHdqdElsU0VyU1E3bzVtMEI4VnYxdWpHN0Ruakw4ZWR0OTRJQ0RUb3M4VGpXUVN0TXZtd0xTemFhWmExc2VPRkk2MU5mSHFxWWxVdGVnVUZyeGhpTkNfSVRWN3pLLWlqOU8yeXB0VjAzUmPSAboBQVVfeXFMTnFfS2x3SFg3Rm0zNzdWMXhDTk5vWWJERlg2bXhPMUt6b2g0X1Q4ODh0WlpMYzRsNjBVU2R0STB3RUI5MEhoMDZvZ1RUQnFwMWw4czR1cGxhM3dubnJkNFRYcEpuRG9aZ2NUZ2hzdlBTbHBYM19YSGlFakw2ckdVUk9uNnBBRW5vUGl5Uy1QdVNfaVhPcWVac1Joa2staS1ybVh0WENZVUJZWkl4V2J4MTZ0b0M0SHd2WXBR?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-19 13:08:23",
+    "chave": "e7a821af9a5076c22e882d9a9a4c28cd424b8a304b52793ca7392ffc0913d76d",
+    "titulo": "Russos correm aos bancos com medo de confisco para a guerra - dw.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjUzUmp0QUJUUzNRSUdiNVNyX19UQ2gyOUJnTGp4cG16U3NqTjdCNXNpV3NZS1JRT2NsYmx1VHpGY21UUmF1eTlBbUp0VnhjUzRON3hmWnhrbWxfSGZmek1SaUh0d1BXdDVIbWRnQzdyU1FKSDZzZzZ1Y0c3RDFIRTVmbW1HMHFaS0l1TmgzWkNwN29hMndNd1dmUGVZRjVVNkdKTVk4bHPSAagBQVVfeXFMTWhzNGRWMTVZNDZCNDAzUGE3c05KWXhWUzVXdzJaTUctQnp2Qm9uTG13SzdLdTJ0ZTJ4R0g2d29qX1Q0eUR6WlFLRS1RVnB2NmdrWnFUUVhDTk4wdEZSWEowbVBzT0p3c1l4anlrdjVlUEY5ZkdIR2JkSmJSNkRVOGJDMWY0d3BQYXo3cEtlLVZiZ3VJTlVJLWJrNUd6LVZYQkV1RENxeWlP?oc=5",
+    "fonte": "dw.com",
+    "score": 9,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
     ]
   }
 ]

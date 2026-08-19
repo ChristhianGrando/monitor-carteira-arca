@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "titulo": "Dólar e Euro hoje: entenda a alta das moedas e o impacto da Selic a 14% - ISTOÉ DINHEIRO",
+    "resumo": "Dólar e Euro hoje: entenda a alta das moedas e o impacto da Selic a 14% ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcEF6dGJiNEdXUWhpNWhlOFcySWlEVmZqUG5fYmYzZ1g1WEdTbmZJN1VMVVlUaDFRMDA0UURwTmhUVDMxX2liU2hFT1VqMTVUVUlpZzdncF9GSnB3SmVTTU50YVBPV0J0UzFNaGI3d1RoWkxVelkwZW5FYzQ?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3a9a8d6d98101943031dc7b7951da3ff51b4818c4c540278284301bdf285b619",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Até IPCA+11%: os papéis de inflação mais recomendados para investir agora - InfoMoney",
+    "resumo": "Até IPCA+11%: os papéis de inflação mais recomendados para investir agora InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREpvZG0yVTNoUVdKU00xc0hXOWNWa0NvMkNXM1ZPYnBZek5MZlpucThrWlJ6NUZZZm5MX09BdlZXcUJ5aWM1V09jVHdqdElsU0VyU1E3bzVtMEI4VnYxdWpHN0Ruakw4ZWR0OTRJQ0RUb3M4VGpXUVN0TXZtd0xTemFhWmExc2VPRkk2MU5mSHFxWWxVdGVnVUZyeGhpTkNfSVRWN3pLLWlqOU8yeXB0VjAzUmPSAboBQVVfeXFMTnFfS2x3SFg3Rm0zNzdWMXhDTk5vWWJERlg2bXhPMUt6b2g0X1Q4ODh0WlpMYzRsNjBVU2R0STB3RUI5MEhoMDZvZ1RUQnFwMWw4czR1cGxhM3dubnJkNFRYcEpuRG9aZ2NUZ2hzdlBTbHBYM19YSGlFakw2ckdVUk9uNnBBRW5vUGl5Uy1QdVNfaVhPcWVac1Joa2staS1ybVh0WENZVUJZWkl4V2J4MTZ0b0M0SHd2WXBR?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "f21c06f87f14e2324d15e34464a6cbea634a77c99841bf55064e48799e3364b3",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Russos correm aos bancos com medo de confisco para a guerra - dw.com",
+    "resumo": "Russos correm aos bancos com medo de confisco para a guerra dw.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjUzUmp0QUJUUzNRSUdiNVNyX19UQ2gyOUJnTGp4cG16U3NqTjdCNXNpV3NZS1JRT2NsYmx1VHpGY21UUmF1eTlBbUp0VnhjUzRON3hmWnhrbWxfSGZmek1SaUh0d1BXdDVIbWRnQzdyU1FKSDZzZzZ1Y0c3RDFIRTVmbW1HMHFaS0l1TmgzWkNwN29hMndNd1dmUGVZRjVVNkdKTVk4bHPSAagBQVVfeXFMTWhzNGRWMTVZNDZCNDAzUGE3c05KWXhWUzVXdzJaTUctQnp2Qm9uTG13SzdLdTJ0ZTJ4R0g2d29qX1Q0eUR6WlFLRS1RVnB2NmdrWnFUUVhDTk4wdEZSWEowbVBzT0p3c1l4anlrdjVlUEY5ZkdIR2JkSmJSNkRVOGJDMWY0d3BQYXo3cEtlLVZiZ3VJTlVJLWJrNUd6LVZYQkV1RENxeWlP?oc=5",
+    "fonte": "dw.com",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e7a821af9a5076c22e882d9a9a4c28cd424b8a304b52793ca7392ffc0913d76d",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
