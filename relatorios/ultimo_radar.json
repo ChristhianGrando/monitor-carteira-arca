@@ -1,23 +1,72 @@
 [
   {
-    "titulo": "Russos correm aos bancos com medo de confisco para a guerra - CartaCapital",
-    "resumo": "Russos correm aos bancos com medo de confisco para a guerra CartaCapital",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbllOZmd6NERDbWd2RFNMMFBmM2trVkRfUkcxWFJNVUE1ZmVKdXBWcnVvY29XeGtTOXdLVlFONXlvNEpVOTVNRGs2RGVfYWZLWFUyazlELU9fdHpGd3FlSkpaT1N2LW5UR3l2aHBma0pHeVVGNHRYakFDTlI2M2ZCMGhuMDZiQVkzMUlYNUxMU3BWODAwYVM2MzM2dTRHbXQ2eEdz?oc=5",
-    "fonte": "CartaCapital",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e7f8debc7ce1c95cd6b11037817d244719ba006d2e1269d7299bef96fcee5750",
+    "titulo": "Ibovespa reage após 11 quedas seguidas; dólar cai a R$ 5,16 - Exame",
+    "resumo": "Ibovespa reage após 11 quedas seguidas; dólar cai a R$ 5,16 Exame",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYUxhenZHVE5vX0FONEdZRDhIZUpiNUl5LTFFc08xMnZES1ZSTUYzVGxRS3BEdmNsU1JFbWIxTFFFb0VVbmF5Wk9LTVBMQ1FRNngzcldHd0h2X0NMamE4QktwaEVXVzN3WUlOc3ZxWnpydXMtaDBldktQcFk1d2VyMjd5Q0F1SnlGTnlabXFqbjYtVGRGakE?oc=5",
+    "fonte": "Exame",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d1ec01d9f4dbdbc4dcd2e95b2157e2f81b75a654603389b65b3b31ec463c5676",
     "ativos": [
-      "IBOB11"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa dispara após Tesouro dos EUA dobrar recompra de títulos públicos - Valor Investe",
+    "resumo": "Ibovespa dispara após Tesouro dos EUA dobrar recompra de títulos públicos Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbFlaTklLZGZqSlVodWVyb20wY002bEVQd3FMQ28wTWpZRUZJVmltWjNOX2lZYUNnMzVwUFhBdzNhSVVwYUdWYUZTTUtFVE11ajhNTVdza0YtUFJ6eHZ2TV9FMlZjUVo2LXZwUWV6R0RsSVVpaW5CcjRNQXNoMU9haVZST0xwOHdoSnEtdEp3M3plQWNhZzZKRC00NWg0aHVkSUlFVTMwT1hhY3A5QmkyMWpaTThrWmNQZU91WjhRbEhZQjU5VWFMOFI5Q3R3Zk1Yd0d6SmZn0gHkAUFVX3lxTE5VZnppTDhwd3M3MTlFQXhXcS11NWRkRWI3ak9IMFdnbnVzeWt0X0F3cXFaYVRnNk1DS1R4YnBPOVRzYWZqVFMxSVhZZk1uT003UjlCUzdTV1Bzdm10a2h5Z1dKb3dKMFUxTmt0bFc4akpvRHdMYTN2NXRVZHpMTmlwTmgybE9TenpGaEViMmgzc29wVllIaEtCYTVYcG9WYlByM05MYmYtNmcxWnZ2MlFaTk9xSzBqVXNkam03M013LTJLbjI4bDRILVdTMTI3SFNuYmFGMEZ3VUxKSUJZWE1PcmZDZQ?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1d1eff092f0eb1963a13e63ba028efad696a1a35cd23c9ef919cd3753ffa7da8",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Ações Brasil"
     ],
     "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa avança mais de 2% com notícia sobre recompra de títulos pelo Tesouro dos EUA - InfoMoney",
+    "resumo": "Ibovespa avança mais de 2% com notícia sobre recompra de títulos pelo Tesouro dos EUA InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWdzT0s1LVBiczFGc2o3TVNBWm5tcFlTYVNzTzVwYmc4N3FDdFc2QVJTRXRNbXY2UC1HOGxNTE1DdFFkVUc3VlNuajhFcTBJeW5FWm14d0poVDlBMDJfMlNJMkxleXlmQnRpaWNyMy1kQmQyRG1BQVE2WUxybHd0djNn0gGHAUFVX3lxTE11MUlWQmxic2NEdjl0VEN6RFlTcW5QNTZVOUMwVnVDWlBXelkyaTJ5OG5WY3A0M0MtSzZVZTBpUHQwLXBMcnFkV0pZREp1V2JETndabVVmVlVKOFc5OGw3Y2F0TjBmMkNHYXFnX3lOdi0yMGFtYnVtd1J0RFpneUFlMnRDaFdQUQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "723cc26ee8f0c51ad01eaf155ba74bfb36cede8da91d8a888774df42fa030dc2",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
