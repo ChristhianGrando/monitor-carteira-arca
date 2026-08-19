@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "titulo": "É difícil imaginar o Brasil com menos LFT, Selic ou CDI - Valor Econômico",
+    "resumo": "É difícil imaginar o Brasil com menos LFT, Selic ou CDI Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVgzQkltSi1SR01QMkdUUVN1TmNHWC1pT0tOaDJLSWd2dUhnWXpNX2tLZlZqbmU0OHpRM0dPVllyQVc0Z3hSQms1WlVxSkd0Ry1LLWl6a2g5amN6c3RQLWRHb3ctT3laMkNDeUQ0Y0dWS19rVnZMRjZIUVVEeGNkR0U3dmFJYWVXNUFuclY0WEFsWWkySS1jSkFiZEZJbWZBWG5tbjNQa1hMaWxWWVM3U9IBsAFBVV95cUxQVVgzQkltSi1SR01QMkdUUVN1TmNHWC1pT0tOaDJLSWd2dUhnWXpNX2tLZlZqbmU0OHpRM0dPVllyQVc0Z3hSQms1WlVxSkd0Ry1LLWl6a2g5amN6c3RQLWRHb3ctT3laMkNDeUQ0Y0dWS19rVnZMRjZIUVVEeGNkR0U3dmFJYWVXNUFuclY0WEFsWWkySS1jSkFiZEZJbWZBWG5tbjNQa1hMaWxWWVM3Uw?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "35d02b8f4f4ea5fa94db60a50d5794a43f99cd75c547fc690027ad1c62074511",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Só três de 48 gestoras de fundos imobiliários bateram o CDI em três anos. O que o ranking revela? - Valor Investe",
+    "resumo": "Só três de 48 gestoras de fundos imobiliários bateram o CDI em três anos. O que o ranking revela? Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdl9PWDFyS0M2UXByRnRaTHpNNDRzRXRkemJrajZERXVVM0FqU3VDejJnbEZDajFmbnlMVUwzX2t6WDJrTlpBcHh0RnNQSFFleDRKNFQzMjNHMFQwXzBaRlExQWdtVXI3X00xdkZqWHY4eFpqRmxQWGcwVGZ5dUxwdmlKTVhQTk1nZHIzSVFMamZWd1c1QWlQR3ZzYzAweWg0WV9ZNlA1SHB1Y1hMVHk2dkMxY1BCc3R2QmVfb3pXaGt0dFdGY2cxT0gxM1E1WjduT25rUHotb0tyVjQzWmllOUp5Q0NyNnplcF9uUFVBUnhGQ20zZS00VXM2MkxzWnfSAY4CQVVfeXFMUEk2M2lndHNWRUxjNHNyTE1WeEljT1NPd182TkdUZXAxYWh0QkhQNy0wOU5PVlZFTUtOMFEzMC1icTdSbXRjX0ZKcHZWM3dHcThnbDNPOVh2VzNEM2xITjZURWZYWmtPOFN4WmNVcTZYaTBBRGpVMlVPVDJyMTI3enp1VjMxSHZmVkR5YXdDT0N3Y1JiN3lRZjd3LXRrZGtxcDFNR1ljNHA0SmlJek9RaUxPSzN2RUJRUjhiajgzYkhWa1M4MDJNZlJGalJMODVvcEhyQmdUQy13N3VOU3FEdXpuZG90WWNfM0hBR202aGxld0xhbEdaTkhfdHVJRWRTZlhvU1FfNVpqRTFiRnFR?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "e88f8e53f771087e362fe6d09c628c3b7c0790d6e86c6bfc2ad7102ae7507cfd",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
