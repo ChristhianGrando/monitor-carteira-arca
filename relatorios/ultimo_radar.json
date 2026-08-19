@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "titulo": "Selic, alta do risco e programas subsidiados fazem juros efetivos da dívida atingirem maior valor em 10 anos - O GLOBO",
+    "resumo": "Selic, alta do risco e programas subsidiados fazem juros efetivos da dívida atingirem maior valor em 10 anos O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdFpETFVmd09iMENEOHI3Q3NreVkwR0tKQlhzLWVWQjVRT1hYYnBnSnMyaW9xSTJKWWQ3OVkxSGkxYzEwemhNYi1GRUFlS3R5dUJxMWxrdnVYbFZpcENvRGdwOXRUWDNQRktzbDdqS18zTE5ncGdOaWNoZXUzOTF6a2EtelZ5dnF2YU1EYVdZdC1GSndtUWNPWWN6eGZkX3R1YVJFX2I4Y1BDb0psc1JZWjlBQ1BIYzlYZnhmaHVIcFZaX1Z5VG5oWDdER0Y1RWZ0VjNqUHBzZ05RX3VLQUhXMUljYi1paTFfUEdyQjhuOExPQVJ1MTltRTRPS3JxdXVFcHI40gGSAkFVX3lxTE1veEN3bUYtd1Zia0NYa3BLcVo5ZFRncDZMRVVEZ21QandaSnRQWlZUUGFpTlRpYWVYdnF3Z3lfTXhlMEdNOUo0LTJxRDRJV0RwSmRRNmdpdEpNSTZNZlZwMW1nY0xZaTJ3NTJTdWdrdF92SWlFMTFJRENhd05wUHc4b1VfOV9fdzZZTFZOY3VadmZpY3ZUR3ZXVDc0V2pkWEYybDhHV1hDOHJXRHJlRUoxSk9SZ1dCQ2VELTN2cTd1TDlwc3dQQ3FSX3JzLTMxSDlNY3NYaU5JZzhFVWJPM1V1WVlMcHAtdzJmVkRvY2E5SExxWUZRRFltNlJaSGVrQks5QlBCM3owaDJqcWlpT2cxd0E?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "0c02d991d990d666589cf9743a0cdb88a3bd997362f70c71f03d47e021b52bab",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje tenta evitar 12ª queda seguida com ata do Fed e petróleo a US$ 90 no radar - Estadão",
+    "resumo": "Ibovespa hoje tenta evitar 12ª queda seguida com ata do Fed e petróleo a US$ 90 no radar Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbjZOTnlSTVFKNWc2aHNSdTkxcUdjQVhGMXZMQVZXQXJwQ2l5T01Cd2UtaVp0U2hyNmJkS0NVRF9QWDh1MTlMU3Y3WV9FUWp1cXNHUFlmYVRIZzVGWDIyV3FyX0VoUGF4Q05yREpieEFDUi1ITlpaWkRxZDdZcWMtOVJsd3EwSGRlSUtkVXQ4aVZhV3dxYkhrd29lVnRJZ21Qc015NlJ2aTJlLVFGVmVHa2RyaXdHUXNiWlVFeS14QTBtOGtrTGViNm5mTlI2WE1FSUM0VVdyTF9LS1k0ZUxlTkdkSW9VdkxE?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9a81c4f55e9c309d238ae7ed7172e0584d6da613581539136f3b1033571e1456",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
