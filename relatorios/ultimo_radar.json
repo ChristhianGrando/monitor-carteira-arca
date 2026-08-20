@@ -1,20 +1,18 @@
 [
   {
-    "titulo": "Bancos pressionam Banco Central a rever teto de juros em novo modelo de crédito imobiliário - Folha de S.Paulo",
-    "resumo": "Bancos pressionam Banco Central a rever teto de juros em novo modelo de crédito imobiliário Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ3d5Y3hXTUlUN1REQ0NJWHlGc3BsbkxBUy00VDRCRVBCb1lIY0NuTDhjVVU0MnR5VmJlNDVtVDBSYWRzVkFqa1U1VFpUNTZ0RW5BdUJJT0pEV0IyT3pPYkVmcWRRX3hQbEl4dXpQcnRZOXJ6bHVwdEwweUxTY0hVMXlTdlBJQ1p2SmJsZGJ2Ty1CdHpZLW9RaGVYbU1BNnFHcXZhQW9mUHViVElBWjNNbXBZZExKSkdRUGMzZW1sNWlNX1RIY1diTTVPazlmNWJIZUVXUU0tZUFvNEk?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Banco Central rola US$ 2,5 bilhões em swaps e garante liquidez no mercado futuro - ISTOÉ DINHEIRO",
+    "resumo": "Banco Central rola US$ 2,5 bilhões em swaps e garante liquidez no mercado futuro ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGh1S3RwTGdGcVhSZTFEeXpWNlJjaFUzdXhFN0lEbzZHUnVocDAtZWQtWUJDWWlQYjNkSW1QZDF5SllPLTFQT3RGSnVVWkZ3QjJiSVJYOFpCOS1VanpPRHVKMUg3OTVqZHVmMzRMMnR2VW02Xzh6bjNwWkZnYXhOSGZFY0ZwbnByQmQwTDI3Y2VYNlRod0xLQTVJZTl4dXdYS0dOX0xGcHd4cm8?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ad4449e83ff18f006389e346880066825e351fd452df401b93be569f4502efba",
+    "chave": "65394ad7262679d6537b8652e639da528502b7276acd8656230cf870068f191e",
     "ativos": [
-      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -24,12 +22,34 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco central do Egito mantém taxas de juros inalteradas - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central do Egito mantém taxas de juros inalteradas Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXllYldsYmE4dElHLUo5aE1wQ2VBMDlwWEhZX2sxeU9mMHhVUjJ3UVdPQkw4ZkF0cVh2WlRTZGFleF9pX3Q2Y2JnVmJXUXhpNmh4Z2Z5aW5NVWIxVTk0SnloRXY0OFNOZU43Sy14a1BudldZd3I0Z3A5TWUzNHlqcTlYMUJQR0NVR3dSNWdrMU1kcmg5Q0E0YzZRdVllV1h3QXdkTXhQd28wdkNPamJxektn?oc=5",
+    "titulo": "Banco central do México sinaliza manutenção da taxa de juros - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Banco central do México sinaliza manutenção da taxa de juros Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3ExaThEUXY3NEpMOTZ4NlJjWi1nY1dxcXJ1NE9TcDY3Q3ZvdHFUbzV4TG5felpkOW9XNnNSX3lSb2Vzb2xWRnZxNnR2RDJtQ1hlRWpIcnNXUkhhZWdhNUpDdnNqM1Q1MEJWalo5VUJvSVFhN0JBb253ZDFRLUh3X3gtanBxQkpDY0p4R0lUVEVPSHFHQmxKdHV0UXp5WTZFRkVHUDJjaUt5eTRzWi1TMjM5YkRsM28?oc=5",
     "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6dba15df4c0dd5f83e446059d69d7e370714a75f4c4df05719c8c7b01a536f13",
+    "chave": "0718769bcc187a44482b7d6a71374d8a313fce143738da71ef49d0f7df5a78db",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado asiático fechou em alta com Coreia do Sul disparando. Banco Central Chinês mantém juros - ADVFN",
+    "resumo": "Mercado asiático fechou em alta com Coreia do Sul disparando. Banco Central Chinês mantém juros ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZVNBLUFIaWoxSWxlZTZwNlN4d1hZY0Z6T3lhc0ZBbG9LVDlFRmFGYnI5MzRtbnZ6R0tGb0FQUUZyNmZQcm5zcHZ0ZzJjUW5rbzRyNUFQNXFtMy1ZMlh6QVR2NlI0UGd1V3BYWGhtOWZvY2hpVExGMjNCcC0wTHZNUjZsTG5Sd2o2QjNSamN1ZDhFZ2I1XzVjTGJ5YUk4LUJjWGY3NFhZb2VncnFuRXZzSTFqbERwSTdFQ25wNkVMajhpTlg2eXU5SEdR?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "70af37ee85503386c073798cf12f5f863da7f88fd45ae8516dd02aeb93d8fe0e",
     "ativos": [
       "CDB 100% CDI"
     ],
