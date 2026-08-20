@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "O Banco Central da China mantém juros estáveis pelo 15º mês consecutivo e sinaliza cautela - ADVFN",
+    "resumo": "O Banco Central da China mantém juros estáveis pelo 15º mês consecutivo e sinaliza cautela ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3k2eGkzSUNiTmVyR0Jqd0JrVkxKNWYwOGZfR3ZiUDBvVEV4NFdPcmo4QzlLQXFQeVBIdUV4X2tKaGdRc2ttcFREZ1VTRm1UYmVMUEhhdzlFeGFyQVVDNHg3XzZjaDFrdWVGSXl3cjFUUWRCM2tFSXo2OHFTUmp1SVppcTc3Vm1GRG5hSmJxOVRCVzhHR1otSzJCeGNiWTZpTUlMdU1GN0tvWFFaTmhtX1hpeVNiZEtoN0QxeVRDYWdsTS1j?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "87d17417e5afef2c3ce3cc6d7adcda29a84850efe6255897a0961a71d8e156f1",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
