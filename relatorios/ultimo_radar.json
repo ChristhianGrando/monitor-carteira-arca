@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "China: Banco central mantém taxas básicas de juros inalteradas - valor.globo.com",
+    "resumo": "China: Banco central mantém taxas básicas de juros inalteradas valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem5yYkZCTURDc25HcVpZdzVFZEtTMS1zaWloOGdPdnRBYXpnRE52RGhIbnpRaTROOThlUGhBSUZLVC1IRzVjU1N1UjBLaVJxR2lCUFd2TktVcUx5MkRjZ0JnY3U2MHN0OXNiTnB3ZTc0ampjQ2RNWmV0ZnZhMTBIcWplaWNpVmVwRUhkR19CRUNKWDdQekN2SVlSZVVNVHZVTFBvWnVTT0NiV25JUWN3YXdJOFFoQ0RS0gHHAUFVX3lxTE44SFVJSzJ6ZURrWGYxYnhpTENKN2I3SV9xZmh4aGpUd0ZWbzktT0hsb192TzI1WXZfVElXRnZKRVZBM0dXWUVlREp5aDR5dUhvX3BXR1RWTGVUdlZUMkJIbFRmaE40LVdFN0VZSjlUdTBoTEhnd2FXd19BeW9iazNDR1dRUmRScEZZWTZMR2NjSkN3eEtucHh5N2ttRDBDUk9zeHpDMVN1WS1KdXZnUDIxbjFwVEhkRnRwVzA2MDRlMUpmSkZvbFE?oc=5",
+    "fonte": "valor.globo.com",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "675fdb2f7c251fec5950e8a0009a5a32cf1cd6ed7dc77c77bcddaabe61b88d25",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]

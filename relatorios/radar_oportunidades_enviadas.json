@@ -1,25 +1,6 @@
 [
   {
     "data_envio": "2026-07-22 09:38:39",
-    "chave": "f262a6a384b35072e9694bd1c17d27ffd0d0372e47e4f2ae45f71ba5cfb8f3cf",
-    "titulo": "IPCA + 8% vira problema e aumenta pressão por intervenção do Tesouro; entenda o que está em jogo - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVUxiZ3BTZlEzUmYwd1hFSHVvZHl3cUdrUC1YeWJPbmxjX2RvQ3VrY1lUc2dERHRqNG9Sa0Z1Njl1RzNDOHdHVEFsQy1oakJNbDBreTZ6TzUtTFlJYUJuTWR3ZzhPd05GcHh3bGk0bk5fN2dFaDBxMVZwUmZmYW5WbmllVGg2MFR4VUdMV25MZ3RPTmRKd2tYZ0tQazBwRkMxMjJsdndhMzN6MVBBRHo3aDB4VXdBbURtVWZtenUxOW50OUFLRC11NHpwbWhBOVZLLUh4YTFBR2RBdlBIRlBsbUgtV0o0QdIB6wFBVV95cUxQMmRXOENpNTBObDZPcDdPQTNnbWZLd2I3UGxiUWFtR3VRclJqRWVkdjlrV2JxXzdhSmF5d1dMZk8wanJWTVhPYmdPTkF2NWdLWFlIaWxBamxFY2FhRE14dy1YWENMOTNzR1o0NUtXeGFUd0ROem1QczBLYVZYaWxBZkVlTzNvaHAxd3JoVVdITnBNTnd5Vm5NVEtmMFlia2U0Sko0OU9NOEo3ajctRXJhbVZ5T2hmNURLc0JONW1CejQwcGs0Mm1Ld1ZzQW54YXU5b05FX2h0RGNqQUVyYnlDRE1wMEVjMy14NVlB?oc=5",
-    "fonte": "Estadão",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-22 09:38:39",
     "chave": "e31acc46fa5230d61b8f7cb44ebb01f3f80d1ae4ef3adffbdf122cbb8535368e",
     "titulo": "Dólar cai e fecha a R$ 5,07; Ibovespa recua 0,03% - brasilagro.com.br",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUk2WkRWZXFVT1cyemF4YUxrdWE4Z19zcWdRYWd1eURacDRzMG5kZ3dUSThMZlRKTHpJUDRLSlMzbzBOd2NRM1ZpVWdMeEZjRWZ5UFQxVHctcUhfUlpwS3MtSk5aMHRHZGxFdlQxZ3FvWmRQLVVDYUE0VkVsMHllTmlNSnFua0ZFWkhqNFBieDZtdw?oc=5",
@@ -17253,6 +17234,21 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-20 03:10:07",
+    "chave": "675fdb2f7c251fec5950e8a0009a5a32cf1cd6ed7dc77c77bcddaabe61b88d25",
+    "titulo": "China: Banco central mantém taxas básicas de juros inalteradas - valor.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem5yYkZCTURDc25HcVpZdzVFZEtTMS1zaWloOGdPdnRBYXpnRE52RGhIbnpRaTROOThlUGhBSUZLVC1IRzVjU1N1UjBLaVJxR2lCUFd2TktVcUx5MkRjZ0JnY3U2MHN0OXNiTnB3ZTc0ampjQ2RNWmV0ZnZhMTBIcWplaWNpVmVwRUhkR19CRUNKWDdQekN2SVlSZVVNVHZVTFBvWnVTT0NiV25JUWN3YXdJOFFoQ0RS0gHHAUFVX3lxTE44SFVJSzJ6ZURrWGYxYnhpTENKN2I3SV9xZmh4aGpUd0ZWbzktT0hsb192TzI1WXZfVElXRnZKRVZBM0dXWUVlREp5aDR5dUhvX3BXR1RWTGVUdlZUMkJIbFRmaE40LVdFN0VZSjlUdTBoTEhnd2FXd19BeW9iazNDR1dRUmRScEZZWTZMR2NjSkN3eEtucHh5N2ttRDBDUk9zeHpDMVN1WS1KdXZnUDIxbjFwVEhkRnRwVzA2MDRlMUpmSkZvbFE?oc=5",
+    "fonte": "valor.globo.com",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
