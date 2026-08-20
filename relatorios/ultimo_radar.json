@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "titulo": "Ibovespa futuro cai com novo cerco de Trump contra o Irã e avanço dos Treasuries; dólar sobe e volta ao nível próximo de R$ 5,20 - Money Times",
+    "resumo": "Ibovespa futuro cai com novo cerco de Trump contra o Irã e avanço dos Treasuries; dólar sobe e volta ao nível próximo de R$ 5,20 Money Times",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFpJSndEMjlXMGNXMjJVcHBZOTlRY3AwTlRkQjcwZDhtcl9lTXJGMFJrMHZ1dmhoMjEzZ1ZWMkxBLVNZbEt5dEdQbHZSTkc0VzRXM2xRbnl0RVZnTEJmM0NzbzBCVGEtMjVkakxlUFF2a3M2LU5sSlpqQmFzWk8teEE4LW00ekZBXzlETElTaEg4SW5vV0oyQ3BYZ2lmSTJvT1ZEb0E1OXFmbS1LaEQ5eXRBWGFyOWJ5RGxRUGxZQUtxMzI5UXZRWmFjOHlhR093Z253Yw?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "516fdfc05203d7ba213b07d59b780470298f76f111ce5945e7c12ed0a003e5f9",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa Futuro cai com exterior e mercado avalia medidas do Tesouro dos EUA - InfoMoney",
+    "resumo": "Ibovespa Futuro cai com exterior e mercado avalia medidas do Tesouro dos EUA InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQandpZmVVOWdRbTVFdnNpdU1UQUN3a2pnZzJVQktwcXVWSjFwRm0tQzdPMHVzbnJoZFFwQjkyU3N2aGcyTG5XUnp3NkVRM21IX1NwNVZESUlQYTNEZlJTU2E1QUdLa2htTTRDMnpiRGMya0dEQmxsUnotS1J3RmdBcmtRTDlFdG9GbTRXTllGcUlNWUE1NnI2Tmx2cHRHLUQ2b0FNeXdkY3R3YjRuT0lXVFlqWWEyZ9IBuwFBVV95cUxPQVFJbVFpR1RoLXdybDV3cUdOTkFwX1plcVI3UlIyS0w0dHJxcUotU2JEcXJpbmpIYXk3dWJDLTc2WTA3WHJfcEF3d0wyaUs3T01ZRzV1SHRtMG5oX2luUXJwZ2thdVNrLU1DeWJZUDBpbUNWbl95QUVMcmxZNkh0azRvOUJYbjNmYTN3bU5zcUJubTJGU1AzTW5PNmEtS1NvWExTN2l6UmpidDQwdVdqdE1yRmoyN1hDV253?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ff3851866363aabf5db30c8de738835b6e69d39fb60a7e0a44d181263c225c7e",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
