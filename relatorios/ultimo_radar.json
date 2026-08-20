@@ -1,11 +1,33 @@
 [
   {
-    "titulo": "China: Banco central mantém taxas básicas de juros inalteradas - valor.globo.com",
-    "resumo": "China: Banco central mantém taxas básicas de juros inalteradas valor.globo.com",
+    "titulo": "Ibovespa rompe sequência de quedas e sobe com fluxo global para ativos de risco - Jornal do Comércio",
+    "resumo": "Ibovespa rompe sequência de quedas e sobe com fluxo global para ativos de risco Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOUJzVmlQNUNQNUNHcGxZZDZmaG1YLUlsQjJwQUNTZURRcHI1TGZxS0FlbEZCbTVWMG02clFjeTNsUGtvS2hGVWFOUXdLb2hEb3FGOHZQY1RwemhoYVcwR2FfWUxLU3daLUFXODNyYnU5c2YzV2pQRV9tU2xVaXpWU1Vya2MwMHljQ1l3RkVyRDhKNFZZSFBwMWljcWtlb3hQalB0NWJ2MzEwalZxdHJRSHlTc2FTMjVXRWNuazY3ejRpWU9JLWJ4a0w4bFdrdldUTUdHMnpHRlZhQQ?oc=5",
+    "fonte": "Jornal do Comércio",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a2b1411fe3bc3b1b45c365b019ab2230f4800af8c00f69762bdbd4c391f5a919",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "China: Banco central mantém taxas básicas de juros inalteradas - Valor Econômico",
+    "resumo": "China: Banco central mantém taxas básicas de juros inalteradas Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem5yYkZCTURDc25HcVpZdzVFZEtTMS1zaWloOGdPdnRBYXpnRE52RGhIbnpRaTROOThlUGhBSUZLVC1IRzVjU1N1UjBLaVJxR2lCUFd2TktVcUx5MkRjZ0JnY3U2MHN0OXNiTnB3ZTc0ampjQ2RNWmV0ZnZhMTBIcWplaWNpVmVwRUhkR19CRUNKWDdQekN2SVlSZVVNVHZVTFBvWnVTT0NiV25JUWN3YXdJOFFoQ0RS0gHHAUFVX3lxTE44SFVJSzJ6ZURrWGYxYnhpTENKN2I3SV9xZmh4aGpUd0ZWbzktT0hsb192TzI1WXZfVElXRnZKRVZBM0dXWUVlREp5aDR5dUhvX3BXR1RWTGVUdlZUMkJIbFRmaE40LVdFN0VZSjlUdTBoTEhnd2FXd19BeW9iazNDR1dRUmRScEZZWTZMR2NjSkN3eEtucHh5N2ttRDBDUk9zeHpDMVN1WS1KdXZnUDIxbjFwVEhkRnRwVzA2MDRlMUpmSkZvbFE?oc=5",
-    "fonte": "valor.globo.com",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "675fdb2f7c251fec5950e8a0009a5a32cf1cd6ed7dc77c77bcddaabe61b88d25",
+    "chave": "1d651b32fbed7f36209550770154943350c7468abd4a8a8ef6eeba3e45ab48ac",
     "ativos": [
       "CDB 100% CDI"
     ],
