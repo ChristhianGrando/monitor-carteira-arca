@@ -1,25 +1,26 @@
 [
   {
-    "titulo": "Bancos esperam piora da inadimplência no 3° tri apesar do Desenrola, diz BC - CNN Brasil",
-    "resumo": "Bancos esperam piora da inadimplência no 3° tri apesar do Desenrola, diz BC CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXNrVGpvMDdIdndTenhKSGphYVdoUGlBZzZWU0Iyb3J3YjVNWk55VVVwT09icTN2bzdXdHltSmFIQWt3dXlBMzFHNjh2MzBqZHZHNEp0ckM4SjhWWEZLa01wT0wyZkdJaGI4NE5hMDk2VHVWTU5Tb25aOElsMmxjT3RfRkprWWdzLWZJeW9RbkJveWplUE5GWGo0eXpyRXB6blpqR2ZVeDFfZWU3UkJJbXhKSWRwbGJaaHB1eFFVb1RRN1U5UjQxTTNrRlc?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "faf0f86497f777a0496d2e69dbebc1cda953f2a627b9c57b18a49d72df5e887c",
+    "titulo": "Com galpões cheios e cotas descontadas, FIIs de logística desafiam juros altos; vale a pena investir? - Bora Investir",
+    "resumo": "Com galpões cheios e cotas descontadas, FIIs de logística desafiam juros altos; vale a pena investir? Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNejBHem94RmNIdFRIYXhDSFM3OXpBTG15ekE5d25ScjdSZG5BSHVjamJkNVlaSHZ5Vm1GR2ktR0pzQmlJaFBSa053anV6NUE2ZXpxWUpDZ1JYSW53cWpFZDgtWlpIbWdLdkJnamJGT3dGTjRqbmVOcnJTZl92R1ktWnI3RUFrX1dyMWQ2aWptR3dVOVpCMmxTWGdjdUtLN3VPNDVMUkR0ZzdTZWw3OV9FRktHTEw1ZDVBMmc3Z2NrNGFnUHh0UjVMUXVrOURoZGxNUDM3V29RVUpjX0szMlFRVGZ5UlRTY3luTVFmUzdvX2RWOHN5dl9jN0prdHR0eEpUM3ZZeEFmbElPM3U0anVLNEZUQ3ZFcjQ?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "8a28dd5606f871619b5a9d9d2fd47cd031e616ae6de37e0ebc00a482e974588e",
     "ativos": [
       "IBOB11",
-      "KNCR11"
+      "HGLG11",
+      "KNRI11"
     ],
     "classes": [
       "Ações Brasil",
       "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
