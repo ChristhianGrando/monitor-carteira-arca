@@ -1,26 +1,24 @@
 [
   {
-    "titulo": "Ibovespa sobe 0,9% e dólar cai a R$ 5,18 após movimento do Tesouro dos EUA - bloomberglinea.com.br",
-    "resumo": "Ibovespa sobe 0,9% e dólar cai a R$ 5,18 após movimento do Tesouro dos EUA bloomberglinea.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZW9uWHhoQ0ctWHNndmRHb29Vamcwa20wMTFCU3VEZ1ZVWVcyRW5sY1hSNnFmMG5GejRUR2dmcWJzSVRSUnJtYUt6ckxlUXR1dzhXck9JNjBMUHBoUlItYXFlcW5acE5wT1Zuem0wT2dIcnBpR2Y5NFlnTXdmXzhHa1FYRHRFMjZCRjJBVllCS1l3RnJ1MWV1eEE4MXJQTnVhR3U5eURpTlUxV3dWemJ2UlQ4X1rSAcgBQVVfeXFMUEVIaTE3XzFyUGEzdWhmbUx6QWoyZ1VJZ25sRzhkakpNYWVFa0pyUEZkaldrMU5NcWpJb2NER3N2NGU5blQ1TmJTOGxyU0pjOWpzU3A3MjFhS2FXdDZZaXlJOEZRMXNKc0tlR3lyLUlRV2p4UTJwdjhweGlnUzJaNnRnaGd3VmxET0FVX2xWMW02SUNBNGtnam8yUzMzSVk2SVAyampKdk5GREFzcXZtQXVpVFBZaWV6NmU0M3lZRWJVUGFFeEtldTU?oc=5",
-    "fonte": "bloomberglinea.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b78b707460efcf6963562a8f4fa1dc81a668a5d879636015a992781d6b7994c8",
+    "titulo": "IBC-Br recuou 0,6% em junho, diz Banco Central - Bora Investir",
+    "resumo": "IBC-Br recuou 0,6% em junho, diz Banco Central Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wMnVPRG9BaDZocGQ3RDhGbU8zT2dEMjE4ZDFodF9qUHU4a2JlOEpnMUM2NXg0TTVOZ1pGa01MNDBRUVFKWTQ2ZGRxajQzMkVtNzhBWTR3V2pmeEVVMXlXdzNiRFBYYzZkbmROV20tOTR0QThn?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "fb3c7342df473f4b28d3bf787710850daf15226ded5c47ac523030d4cc19a604",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
