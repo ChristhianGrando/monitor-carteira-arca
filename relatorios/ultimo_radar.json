@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "titulo": "Adeus, débito automático: Banco Central começa a substituir serviço usado há décadas pelos brasileiros - Diário do Comércio",
+    "resumo": "Adeus, débito automático: Banco Central começa a substituir serviço usado há décadas pelos brasileiros Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXc4MF9Bb2lhdWNWZ2JVaEJjVTFRRlVaWUIycnlsQTFvWHk2TURTa1JTMnRXSF9oV1dvZUR5RVZRS0xxajFVdmcweU14eG02U05iZTI2N0h4T1h3cENMNV9BcnJTQ0dUU21IeW1NZWN4ZjFnR2RDRnh3UnJxSkdDTzJURlRFNG5LM29fQkhhNS1pbnp4S2ZIUnBGUy1RanRhRFN2ZlZfTFRhMEs0eWFCX0Iya0tST3RmX1pSNi03VGptTFVJM05VTzZlSkZRdmI3OEMw?oc=5",
+    "fonte": "Diário do Comércio",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "2468fd003b8d0b23f528f13fa4189989dd6fd424a03c317bd6243f0c4276d610",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Com inadimplência alta, crédito fica mais restrito, diz BC - Poder360",
+    "resumo": "Com inadimplência alta, crédito fica mais restrito, diz BC Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDBRX0pJejIxTWVEeWlyamFwaXJqZDNCa0dkNWJHdTBIbm1xY0R0VUJTRzU2c3BSVnoydHFPUTVEem41SGJzTWdXMnN3VGJhX0Q3VlBJWW0ybHFyUUNKT1NyQV9rajZWaFlCVzlqR09NRkpfWXVYZUt3SHdkaW5LNmJkNGVDN3ZnTkZjOE1DWWRBU3FaUTZOM0JnMHdXcUZzTGc?oc=5",
+    "fonte": "Poder360",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "f440e84f6bd8a099ddf12f4022eec3219a6d9286481c5f13657d733d4e943b6d",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
