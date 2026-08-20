@@ -1,24 +1,26 @@
 [
   {
-    "titulo": "IBC-Br recuou 0,6% em junho, diz Banco Central - Bora Investir",
-    "resumo": "IBC-Br recuou 0,6% em junho, diz Banco Central Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wMnVPRG9BaDZocGQ3RDhGbU8zT2dEMjE4ZDFodF9qUHU4a2JlOEpnMUM2NXg0TTVOZ1pGa01MNDBRUVFKWTQ2ZGRxajQzMkVtNzhBWTR3V2pmeEVVMXlXdzNiRFBYYzZkbmROV20tOTR0QThn?oc=5",
-    "fonte": "Bora Investir",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fb3c7342df473f4b28d3bf787710850daf15226ded5c47ac523030d4cc19a604",
+    "titulo": "Dólar cai fecha a R$ 5,17;Ibovespa sobe e interrompe sequência de 11 quedas - brasilagro.com.br",
+    "resumo": "Dólar cai fecha a R$ 5,17;Ibovespa sobe e interrompe sequência de 11 quedas brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlAtdTk2U2c2MmFXUVNrV3JVajl1dFdKaVM5WWFLTmc5T25RZkJ0RGFQell6NmRtd1B3LVFDcE9CYXp5dVZYWmxjck1mNlprSzQ3WHBLclhhQ0Mzc3NOc3BuNVAwLW1ZRDgzdTJ5SGZuWHlhY3ZKLUVJLXNiYzBIazloMmhvMWVESkVNNHBfOE1IXzNoTTJDb1o0SVpvTUpwVkEwNlhrT202RHRjVDlRelA5OWswZzg?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5b1a1334545d3eeb525ee9e58ab1f13e125788bbc6d1df2540ab6e630743bd72",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
