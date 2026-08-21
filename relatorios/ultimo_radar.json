@@ -1,26 +1,136 @@
 [
   {
-    "titulo": "Ibovespa avança quase 2% e apenas seis ações caem; dólar recua a R$ 5,13 - Estadão",
-    "resumo": "Ibovespa avança quase 2% e apenas seis ações caem; dólar recua a R$ 5,13 Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTVTMHRaWk52Qy1vNGRMTnZraWtWRUk4TUJVXzZxWVA0ZFhIam4xRllMZUs5NGUzVnRYcnVKRk8wWXVTMlMwdGdieDBaT3R4bVZFRkZiTnM2TVdWaUZxM0NSelE3TU9QR3BGTmNhRHhJVGRycExjY0lFTzFVM1hpRlEyTG96TDJxWDVVcUR1emltN1ZhWXJoSXRGLUctZklTbkpRUEdqWjdiWGVqdTR4bGRaYUN4OFlZOXBTX0c3OVU1ZkRjV3hYS0p30gHPAUFVX3lxTE1VWkdMbEk0Q21UNzNWQ0hPOE9aYXJFNHBsUm1aZ09iOUNMdk5oUGJteG5VSFhhRkdzcmdWMTdhcm9JSW1lWDJJdzlISWozZkpmOGFQNE9KaEU1RWpFYWxnMVYwZjE1QUhYR2NRX2d1dUhGYVJwNUxreFJyOWdFVERSck42ZUxsUldLWmZDbEtZSjFKVmxUOWlYUVk3X3RreHA2QVY2UXpUUjRjTDVPUTNOMFktaHFVMlBOVkVRbWRKNVVVb0RvZ25MVjI4UFhjaw?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Caiado promete Selic a 6% com corte de gastos e inflação menor - Vero Notícias",
+    "resumo": "Caiado promete Selic a 6% com corte de gastos e inflação menor Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRVSzc2X2Zhd0tvX25qbUhxTmNnRUJlUk5qcm9QMk9KX3d6R3ZBY0xEYk55c1d6U3RXQ3dfUjBGN00yS2xiUVhIRG5xNXNrY0ZjOTNBaHR4TjhiNWd5ZFd3UnJkTHNSb2Q4WnBXOHZ4OVo2VVhSSWxlY3BSbFFoRUpmdFppMV9qSi11MjdfUkhXQjJLa3k3MXhhQ2E?oc=5",
+    "fonte": "Vero Notícias",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ef6ac5fcc29d92ae18fc64f55d8e3f116c3a3d6564f56b212ad4b785e04d9e0c",
+    "chave": "f14b6a993c984f4d05d3f48188d1aff690ba5fbc098c14d37a5c4e5a78c5c755",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Selic caiu: ainda dá tempo de aproveitar descontos nos FIIs? - InfoMoney",
+    "resumo": "Selic caiu: ainda dá tempo de aproveitar descontos nos FIIs? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQW41dzVFN01PTVFyUmdiTDZmbmhWSU84M2pWZFoyOGZtSmxqM3FOZFJ4aHZXdktfS09naldCYVRLeXM1MUVBcjVOdWhwemVXaktkVXVrRTVyb3RhZ2ItbEtaaEgxRUo2bFFmcTFocjlFbmVhenBUcGRHUnV6RkNqZWZZZGdybDc3WURBak9MN2U5UmRsX19UQUYxRmhrQ04zMWJlS090VdIBrAFBVV95cUxPRHVnRTM0bW04SlJRSDFxWGVaaVJRenN4UEZiTVRXUUhJOWl0c1BjNS1vR3J5UWJLSE44dkg5NUU2RXNxVGQ0Vk1TUFlNS1ZGN0pCaW5FRktDcGtZQWlzZDl0TmotVkdneWNwYjQyTXlSZDgwRTRkY1VQRXFKMHNjVEVUaTFGVF9vOVBOWVhGcnF5X2x6NW96ZHJRY1ZENmlPZ3NBdW83OHFVV2Zm?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "48858e6210fd6228c779633d353b707fbcd6ef76d0ef26dbaa3262f3039b2b80",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "9 fundos imobiliários (FIIs) baratos que pagam dividendos acima da Selic - Estadão",
+    "resumo": "9 fundos imobiliários (FIIs) baratos que pagam dividendos acima da Selic Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOFlQT0htc1ZKdm5KZ3NRay1mTmRubFd2YU1mZDlyYlpzWXFLUXpWQWJ4dG5xcVBLaGdIWFV4N056bm5zekxJN2VqSlh6M01EenlVZkozU0w4VmRvUEI4Q0ZRTFo4cmZXR1Myb3BweUFvMUhUS3hWbHZ1TkNFNkdzbjloRURLN01kaldyMnFReWRQWmh5bF9wZXVaQlk4TTFVS3Zj0gGoAUFVX3lxTFBpUDM4S0Y3cFQway1ZQ3F6R0FWT1VDb1BVbVU5czlkT0doOHltcjI2T1R1ejdMS0FiUkM0bFlNbGxvM0Z5R1JXeTg1WktUQ3RWSGJfbDdtNTE0WTRZQzAzWWxDMVhXTVpXdGdQS1lrcFBFVk9WMnRDRkJqSXJEYXhzaDRtQnlDRGpTMVFDQVFtOXloYWNhVk1td2RxeUVrVjltTkVhU3BXNA?oc=5",
+    "fonte": "Estadão",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "fd4a8d8e7d2158c5ba9e933bfb4af8417b67ee2da54967017102b81e0fe8ee6a",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Com a Selic em 14,75%, só estes 5 FIIs pagam dividendos acima do CDI; confira - InfoMoney",
+    "resumo": "Com a Selic em 14,75%, só estes 5 FIIs pagam dividendos acima do CDI; confira InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDRIcF9RczFLM2NVMXlPVEdMQVI5YmFORjItUlMtQ0djVGxjNFpuVFRuOFRrZUh5MUNJclBWMnNobnJnT2pmd3BVbUExcFlHY1dXMjBOVm9EYVBSMmJlWlRpUGFRMGdBOXZGOWVVWVMtQ094bVRLbXFfTGlOR3ctcTZETHJjUjlhMWR0cXBZVjhPUk9TTU9FZUVqazc4MjJtTlNUNXdaUFlJY1pVSE5KSDM0Rk8xMVNi0gG-AUFVX3lxTE54ZlMxdG93QzVLYm9tMkd0bXJDbmFJbjltcnNsMllmNUI4UUo1NXphTzJuTVNycG1tSXVZcnJjNUpmRU05d0lTeWhjM2hPUzh4Zm1FSnM4VlI4WDJBS182WjJ4MGFObGtmckViS2dpaDNuMDZCU0l0R0J2QThvX2tDRXZaNU1idnZMaGdlX0RvMEVoQ3Z6cnphNmU1Mkpud19UaUZUNnhFc2pnUjFwZFNhb1dCa3N1OUFiMmFxWVE?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "deeb6873f734fe52886d43f6fd9047c0b2dc4903a0e9453af01905cacd89176b",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Papel, tijolo ou é hora de sair dos FIIs com a Selic em alta? - InfoMoney",
+    "resumo": "Papel, tijolo ou é hora de sair dos FIIs com a Selic em alta? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2xUWS1vcFp6MWdiSTVBUmRjTEgyTkR5YktJcmgwUmFMNXE0ZnFjZXdSRFFaQ01pZXJ6NlJkUUVsdXVBb3dTQlhtczVmd1YwYlRYTVdPYTNVLURISGx2ZTItTGxYUzlCeDRIZXkyRXdrTzRHNTEzSkN2ZVlwNVlJdFJ3X3plUmxaU0FNWXJpZnFUSm9FcVVIazhKZkNvSVpTVlhfMUtR0gGrAUFVX3lxTE9HQmlDZjJLUGhic3RNZ3JUV0R2MlN0Qm9RYjhDSkpDbEwtb1AtN2lLUlFjMGVEalZNekZIRVFFUWVzMldoQVo0NTJ2QkRtVllNU081dGNKdHNmRWF3bWtLakYtSk11QVloNVZINWh1R0N5di1Bd1hzR0JjcE93V0Z2ZkZQQVk3dkhDNmk1cW9YNFpOMXpkT0FzVUpqU204VHY4andNUkwyRkNsQQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "afa3784fdb19170904d322a1715854d121efa91ec029573221eb507d5ced3b7c",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
