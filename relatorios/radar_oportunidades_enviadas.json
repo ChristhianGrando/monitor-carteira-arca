@@ -1,21 +1,6 @@
 [
   {
     "data_envio": "2026-07-23 22:14:32",
-    "chave": "a01626f70aa6acbd88786d0c79ac61c2917eb122fa29890dda0d866505480d21",
-    "titulo": "Ibovespa fecha em queda com aversão a risco no exterior - Notícias Agrícolas",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0ZpLTY4NGpfOWtsZ1R4Y21uQVh4dzBXWlZsNzhzeWR0QlNVaDhmV3o0S0FlNWFENVc3d2RnMDhBTTJYa0ZTd3RnQU9ncmFRWU1WZ0pVVW5ZNnRRWHl2YjJtX0lIUW1GZGc2aHZMTkdSOFd2LU0zemZVUmZmNHhxMWFTRVFQTXd4UGNydm9mNTZaRHhPUHUzbGVHRFIySS00R1B1NnBuNnVvRUhpT25OWVY4R0FkeWlKN2hsN3F6RFQyYTdpZXFtdENZMNIB0AFBVV95cUxPZkI5MF91OXpheUFHUHRSTENCcXdDQ3ZsZ0d3MmR0bWh6S0ktdGZpa2U4N1NkUk5jVWtHVGxIM2pHSHlkaHhFOGc2RFJVTFNkQ0JRWkpjWUdzbHVRSmNSOGFKNmxUT0RGQzJHY2VjNEJoTTYtaXY2ZEU2OXotckNLRERQd1MxQ0pqVDBfZGw1OFdnNnBERDNtdVpjMHZEVXQ1bjd5cGZycWZCSEpwOC1fcGN3VkhBWi1PcXVvYU5rcWxmTjBqQTNZZkhQZmh5MV9E?oc=5",
-    "fonte": "Notícias Agrícolas",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-23 22:14:32",
     "chave": "fc9d4f10313eb080e044794b484e2e97f3df513377a52a2e7ed6eecdeb8ea426",
     "titulo": "Ibovespa cai com aversão a risco após escalada no Oriente Médio - ISTOÉ DINHEIRO",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDBIcHF0V3VFV0JCZkxzTEFaS25YWE9Ka1I4QjVzV1pScEl0OUh6c0FDS1RrNkVSV2lEaXZXcFcyb0JQMC1MMkJ2aldkaW9XeHE5T0pxbHh3eGNKSWh2Tl9CajNIekNLRjYxVTZlbEI1bFp1bnFUaGkyZnN5UEswbm9ycVJTZFJUM1BMdWhQSHZzNGRGTHNr?oc=5",
@@ -17245,6 +17230,23 @@
       "IBOB11"
     ],
     "classes": [
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-21 22:41:44",
+    "chave": "94f7e2b444d2045b1bbc83404769657bba2d14dc1e1dbd6454577f0a45894881",
+    "titulo": "Ibovespa sobe 1,8% impulsionado por Vale e bancos; dólar cai a R$ 5,14 - Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS2pVVUlqMG5jUG1xWnZjX1ZiWXc1OEMwY3hRbDRpU0NfcDlXalNRbWdoandiWFNjcndJX3J1TXNrOVhOTHY0LXVkU3VnU21peTdpdmdELXU5YlFxbXdjR29MQ0tONzR3SW90emhoMG1FdnZReTY1dkwzNTZHcV9WU191U1ZQUlJxektIaS1YN05sRjdPRVNNeXFrS1FTNURhbHJDU3dwVEtZWXFzVWfSAcIBQVVfeXFMTWJlNlBYVjBBdGthc2NzalRhb2IxNnZQZ0RVLUtYWkFhSWFRanNkdmN4al9kSE9GTHNBczlKcGQ0VmRqbEhWc2lyaVpueGYwYjdPTEdESkRGMVl5elNSclMxMFB2MWNvdTJRMFgtT1ZMUmRVbjBsdXRmQXh2NlZWTlVWdVpMWWg1QmVyV1BvSUxCVGdBTHlINXRiUGNNSHpRNHNxLW4yeG9VMFloMzBpWWhyUl8yMFFJeDlERXFha2dLWmc?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Ações Brasil"
     ]
   }
