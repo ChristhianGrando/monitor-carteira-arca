@@ -1,36 +1,11 @@
 [
   {
-    "titulo": "Dólar opera em queda, de olho em guerra no Irã e eleições no Brasil; Ibovespa sobe mais de 2% - G1",
-    "resumo": "Dólar opera em queda, de olho em guerra no Irã e eleições no Brasil; Ibovespa sobe mais de 2% G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0WTZQZmcwYkpxTUhKT05sbDBwR1UwT3NjNnRUQnpGbUpiNHkzbjY3dWsyUGp1RWxrSGJzcU10LVRWNDFLNWhIZ1NLNU5CcjNPa2UzRGZDOTN2TnktMDNwV3o0WkRBQnYwbTlnWHplNXFPRnNwb01IOdIBhwFBVV95cUxOQTFROTlLaUo3bV9xM1cyUVczYllINTRkTkVUaF90TmVJZHNEazdYbXJyZHhnZG9xbzN0VWVmU0hUUGEzNkUyTE42WGFURXRwQV93cFdySWtQLXJyWmEtekVHeTRBSFhGSVB3MjlGM01jSExvME1nbFl4MzktZGNKaEswQS10Qlk?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "94427e8b199fc1830bbeea3903b122316ade4a51d9ad266d4dd98d1f57a2cd1a",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa avança quase 2% e apenas seis ações caem; dólar recua a R$ 5,14 - Estadão",
-    "resumo": "Ibovespa avança quase 2% e apenas seis ações caem; dólar recua a R$ 5,14 Estadão",
+    "titulo": "Ibovespa avança quase 2% e apenas seis ações caem; dólar recua a R$ 5,13 - Estadão",
+    "resumo": "Ibovespa avança quase 2% e apenas seis ações caem; dólar recua a R$ 5,13 Estadão",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTVTMHRaWk52Qy1vNGRMTnZraWtWRUk4TUJVXzZxWVA0ZFhIam4xRllMZUs5NGUzVnRYcnVKRk8wWXVTMlMwdGdieDBaT3R4bVZFRkZiTnM2TVdWaUZxM0NSelE3TU9QR3BGTmNhRHhJVGRycExjY0lFTzFVM1hpRlEyTG96TDJxWDVVcUR1emltN1ZhWXJoSXRGLUctZklTbkpRUEdqWjdiWGVqdTR4bGRaYUN4OFlZOXBTX0c3OVU1ZkRjV3hYS0p30gHPAUFVX3lxTE1VWkdMbEk0Q21UNzNWQ0hPOE9aYXJFNHBsUm1aZ09iOUNMdk5oUGJteG5VSFhhRkdzcmdWMTdhcm9JSW1lWDJJdzlISWozZkpmOGFQNE9KaEU1RWpFYWxnMVYwZjE1QUhYR2NRX2d1dUhGYVJwNUxreFJyOWdFVERSck42ZUxsUldLWmZDbEtZSjFKVmxUOWlYUVk3X3RreHA2QVY2UXpUUjRjTDVPUTNOMFktaHFVMlBOVkVRbWRKNVVVb0RvZ25MVjI4UFhjaw?oc=5",
     "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3caf616ef370bed632dbd7941771734a5fda8a396129f8325689e98a790e1d96",
+    "chave": "ef6ac5fcc29d92ae18fc64f55d8e3f116c3a3d6564f56b212ad4b785e04d9e0c",
     "ativos": [
       "IBOB11",
       "WRLD11"
