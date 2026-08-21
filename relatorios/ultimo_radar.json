@@ -1,11 +1,36 @@
 [
   {
-    "titulo": "Ibovespa fecha estável com Petrobras (PETR4), mas aversão ao risco limita alta - suno.com.br",
-    "resumo": "Ibovespa fecha estável com Petrobras (PETR4), mas aversão ao risco limita alta suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeE8wVmpUQ3MxUE4wX0hRN0FTM2FFTUREM2FITmJseGVfZjd4QlZCdTdzMldRdGxWNWNrd3luZ21IRmQwczNzTmMzdUg4Q2xnbVFzTjRCZnV5ZU9zSzFmby12Z2dueUViM0Q1UzNNT2huZk9UVEtBdmNmUTFHSkhZZkhDQWpuNXRp0gGOAUFVX3lxTE5naXNOaDlnVExUczkwdHNhZUVhMkxrM2tla2ZlMGRyWDdXUlhpR0NPSk9OdXZXOURaN183RWFiRWRHNTY1ZzU0SHdoaUxjRWtrdEQ4NUpPZHZRcnZtaVpkUEotRUk1cGdrZy1icUZ6cDJTUjl3blpPMkRaWDNodzlFR21yZDVNVGc4OWR6OFE?oc=5",
-    "fonte": "suno.com.br",
+    "titulo": "A inadimplência no País deve seguir em processo de deterioração no terceiro trimestre deste ano, diz relatório do Banco Central - Rádio Pampa",
+    "resumo": "A inadimplência no País deve seguir em processo de deterioração no terceiro trimestre deste ano, diz relatório do Banco Central Rádio Pampa",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMVdRQVhCY2ZlYUNVR1hYaXBkWld2bk1YM2o0OW1UQjNGMFYyd1FybW1Vcll2R2lnRXF3UjZnb3JLMmppb3hpeDlwMGg1c0VWOVVFS1hjR3Q3Q1dCOUNUdUZYWVhRaG1iUjc4TWZkSGlaZFlUSzh3Q0VsQUpjY0NVcEZfQjFxQ0E0ZENCRmRoYXlyTDBqYlRBY3o5SWlKOVBLLWx4a203azBOMTNlNzQ5SXdadVAyMWNBY0RKalBoVkVlZHZZbEpKTkd2VzlKLWh3blJMQ0hnbnNsLXI2b2JvTHItSXZZTWx3U3BvS0x3?oc=5",
+    "fonte": "Rádio Pampa",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d7f50686217a1e2386aff360e55171334dc074629bea71ba333eead681dc39d6",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa fecha quase estável com quadro de incertezas ainda minando apetite a risco - Notícias Agrícolas",
+    "resumo": "Ibovespa fecha quase estável com quadro de incertezas ainda minando apetite a risco Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRUdQZHJPSWk2RmdBZ01UcWlJUVROVjBzTmVOTXBQZGp2Ukk2N21qLXEwR3N5ZGFwRVJlczQzNzg3NUk5V2FLczVjS0lvc1FlTlp3aXh6RmUxNS1KR0FSVHdaOG5OSldFVmozOXdTMjBUMlRidWo2emRnRnp3OVhPeEItaENSYzRZa3EwOWhzM0g5bmMzcmdNdzFQMUFpbHJaUGRJSWw3UERYcHd5dUtPc2FrM1pLY3kwNHJBaWVnbW5VR09MWkNGZ19XXzZzd240c1ZDeHdZcjNqajBuZ3FiSi1ZeDZQaC1pOUhQU0JiOXfSAfYBQVVfeXFMTmJSUXhLc0w5WkpxeEFvVVZOZXp2LVByTkN2SFBVVUVZWHYxQ3dUNlI3TWxkYkVBU2NpVzRRS3BlNlhST0VxSHo5M1pqOHoyQ2VXeVZBVlpFbWI5OHdqM2QyMV9tbGpCd1MzU0xVOHNBWVhNTThnS3loLTVHbmMwV05oMVdhUEY0MzVOV2Vpbkp2SnNDMFQxandCWnR5eDUzT214RllzcjVQb1NaajBIelhlYl9zZ1U0NFNLQWI4cFBNN3FnZkc4andSMjRmZVVfNzlDcjJLMXJoamFxVGxHaGFwUEFHQkQtUW9aREVSa3BQWXFlOG13?oc=5",
+    "fonte": "Notícias Agrícolas",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "cfa4f2fa36bded5c27a5feaa0e929f9958fbff7674ecc972519a5418dcc74e51",
+    "chave": "286f7ccd65960f4f33dfc9d3182b7551b74adcd6f56ef300b298f05da6fb9139",
     "ativos": [
       "IBOB11"
     ],
