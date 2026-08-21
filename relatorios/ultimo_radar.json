@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa avança com redução das taxas dos títulos dos EUA; dólar cai - Valor Investe",
-    "resumo": "Ibovespa avança com redução das taxas dos títulos dos EUA; dólar cai Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONG16SF90bmIxSDk1UG91SkQwVjlZMU1reXdTbndQRmVOQm4tRU1zdVVIcnRYTzVrSjd5bm53X3lkQ3otajd6YmREM3FhNHZtWVRJVUhmbDhaNG9KYUVzbjZoLW9HWHNOVVNrc05DcXQxQmg5dEFxdnYtaTFvNDY0Ql9xSWpfdVZub1VobThRS05ld2tNYWtuZXZHS240aVdYQnctdHpKZWhTRTJLcm9UWmxJTGMwakx1VXRJRmRXa2dvZUNlUXZPeHRoWmU0bnNSTlYwQXpR0gHkAUFVX3lxTE9wZXFKTU10ZWRDX1lzN01ZeHpMcUxmZmJJMjRxdzdLeURXWnFrNXVmTjRJRElaOEdnSnlZcUlmSGFIUnBZUnFZUXA1UGFBTktqZVNrbE1McGpMdDJMN2o1TmJVUWl1dlJtZTR3YzJhUXhRUmFJdG5vTFduWWpkd2tSeHJBSHAyZlpFMFZWRDBlUGR4WU5VTm5yR0tOWEVqT1ZqUE0xQy1valRIUW93RGdSQVBuY2hPSHJUWXRvNkZzUVhMTUtheHJnMUJrODZIUUNvb3pjT2hGS0lDQjlzQW94Y1J5aA?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Ibovespa volta a saltar 2% e dólar cai a R$ 5,15: O que está por trás do alívio local? - Money Times",
+    "resumo": "Ibovespa volta a saltar 2% e dólar cai a R$ 5,15: O que está por trás do alívio local? Money Times",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZb0hVbFNtU1lFY2hlQnZpMWJsUVp2cDE3NXhPc19SMmtBN3ZJdU5ZMGpFUFRSTDZLWXIza0RmRjhjdE00bXpQVXdxcDRSc01OWXBrU3NRSDEySlA0NXZ5a0szdHNVT2ozLVF2NUdn?oc=5",
+    "fonte": "Money Times",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "079385b6417b01c0e7f13ee9bbdcefd3a9e9cb75cb77f511b2c75db4492891ab",
+    "chave": "4671d11db8686041a681d315d808fe49c51144e87d9105453c35c9bd8b2846ef",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -15,6 +15,28 @@
       "Ações Brasil"
     ],
     "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa avança com Vale e queda dos juros em sessão de maior alívio no exterior - Valor Econômico",
+    "resumo": "Ibovespa avança com Vale e queda dos juros em sessão de maior alívio no exterior Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUVRX0V4d19sem9UU1NjaVZjdzNPY1hOQkwyUGtGbVFNT01hbTY2bjFFRXc2RE1RWkg4X1dvZk10ZDFjSVV2MzBGT0pFSkFGUE93Ny1zQWtQUzFpZVdlQTZoSXgteWZoNHNNWlZKejVoWUlnWWEzbHZ4bXJ1cHQ4UVRWcENZOEhyZjlkRnZqMmNpenhIZ3FTR0g2NkdRTVZvclA1UjNzVXdZMmQzMzJKbk5hVjZsMDNFUzdYNm9XUWpxWGlyQWRVRWkzQU9HZHBvdVh3MmdGN2NpaGNqV3I1Rm5RNNIB4wFBVV95cUxQeUVRX0V4d19sem9UU1NjaVZjdzNPY1hOQkwyUGtGbVFNT01hbTY2bjFFRXc2RE1RWkg4X1dvZk10ZDFjSVV2MzBGT0pFSkFGUE93Ny1zQWtQUzFpZVdlQTZoSXgteWZoNHNNWlZKejVoWUlnWWEzbHZ4bXJ1cHQ4UVRWcENZOEhyZjlkRnZqMmNpenhIZ3FTR0g2NkdRTVZvclA1UjNzVXdZMmQzMzJKbk5hVjZsMDNFUzdYNm9XUWpxWGlyQWRVRWkzQU9HZHBvdVh3MmdGN2NpaGNqV3I1Rm5RNA?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fe4c90cc6d12484e1a24adff8c39df03875dab655f21c29828227403c21e066b",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
