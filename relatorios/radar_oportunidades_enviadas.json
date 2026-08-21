@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-22 22:16:00",
-    "chave": "34c460046ac9b6a29b73768e961d1c6fe79af91213bcf442ff6e2fe317d6e678",
-    "titulo": "Ibovespa dispara com Vale e WEG em dia de maior apetite por risco local - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWG9XN1BydGhSMjBmbk40SFpZV0VzcndlaFlfeTNjQldwYTR5NEFyVjdZSEJTcjlKSVIwako0MEZnRUpfb3JBUVFFWkhkX2I1NWI4RzFsQm5uakljZGtWQ0YtNUpXSjlqeUVDMDdlMlRxRVVUYWpfcEZmZkJ2aGsxaEl0X3FsTnVXQWIyTDRjMXcxc1V5SGFkT0h1SUJva2l3MUtxU25IRUNTNGFTZnZDejAtQzFSU3NycWpwckxZWTJ2WUpzdlk0OVI4Ym80TlJOeEFfc3MxY9IB1wFBVV95cUxPWG9XN1BydGhSMjBmbk40SFpZV0VzcndlaFlfeTNjQldwYTR5NEFyVjdZSEJTcjlKSVIwako0MEZnRUpfb3JBUVFFWkhkX2I1NWI4RzFsQm5uakljZGtWQ0YtNUpXSjlqeUVDMDdlMlRxRVVUYWpfcEZmZkJ2aGsxaEl0X3FsTnVXQWIyTDRjMXcxc1V5SGFkT0h1SUJva2l3MUtxU25IRUNTNGFTZnZDejAtQzFSU3NycWpwckxZWTJ2WUpzdlk0OVI4Ym80TlJOeEFfc3MxYw?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-23 09:36:38",
     "chave": "e48df3dae50ef7c5655354a7bb9ea05fb29a1b270f5d5340153719165961d164",
     "titulo": "Investidor deve esquecer o CDI? IPCA+ ganha espaço como nova peça-chave das carteiras - Estadão",
@@ -17220,6 +17205,21 @@
     ],
     "classes": [
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-21 04:54:14",
+    "chave": "53cacfd138769a60d047f86377216bf1925828035ec573601518ac680513b040",
+    "titulo": "Live vai discutir as regras para ativos virtuais na reta final da adaptação à Resolução 520 do Banco Central - Anbima",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZVZwQmNZMmpmd0ZJcHNBS1R4M3plX0JXYk5sVTQ3ZlFGMmtNNUZMVHl5UnNQNk9ZOG8telVPX1N5TVNVdFhieEdJZUZPcm52TC1vZ0YwMkl6M2tIeExWOWlwQWsxOS1BNjlQTThGdV9MYnRKZ1BnRC1FQ213XzM0ai1zbkcydVBsME80QWNsTTdZNW9UX1M4RW1GWV9xU2ZncmVIR0dtQUY4Z0tjR05DQTFLM0gzd0FlTHVBOGJsV1FyYkpWdFpBZjc1WEx5OWlrM01YUlBrcWNDU01STFV6b042Q3NwbF9w?oc=5",
+    "fonte": "Anbima",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
