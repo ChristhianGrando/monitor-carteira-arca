@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-23 09:36:38",
-    "chave": "b948a29666472aef108d724adcd9c8d18506553d4d1ed063e675806574cb07d2",
-    "titulo": "Bitcoin ignora guerra entre EUA e Irã enquanto S&P 500 mira um 'short squeeze' - cointelegraph.com.br",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDc1S1JFeVRBZVZIY19HY29MRkdlUFlpMWJvV3lVbHdTYVNEZE5wV0Qwc2E0TVc5QVhRZ2VWbzJuLUh1VVRLNmVIYjdhRmxIVWV3MVI1RFNCLV8yN0lleTRHeTY4SjY1QUJfMGkyd1NXOUdHSlJQYUpUb3V6Z2Z5TnNSZjFHTmFaQk1GMTBrS1hOT1oyZTZvUXpyb2lWVF85cnBwNFl3aXZ6YWt6SGZkYw?oc=5",
-    "fonte": "cointelegraph.com.br",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
     "data_envio": "2026-07-23 12:02:31",
     "chave": "93deea08443ca2cece1dc9c503c0cd1970786b341129efa00462a465ea162ce9",
     "titulo": "Dívida pública muda de perfil. Tesouro amplia dependência da Selic e enfrenta menor demanda por títulos de longo prazo - ADVFN",
@@ -17218,6 +17203,21 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-21 13:58:12",
+    "chave": "f0deae2f5c58bb7e15b12257fbea03cdbdfb843d955bfcefbeff08d5f90aa047",
+    "titulo": "Durigan: Banco Central preocupado com inflação tem impacto da guerra - Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNXhkTEdiTkJEVUVsTW5oRmRMN2lxdHdVNnM1VXpkbU5NanFoenRzUkdRNzVwZjgxX3FzMXdsOWtrYnVmdHQtMTVtdDlVcXRSZElwY3FQemp2TUpwSnRiTEhFRmJDSGJiSXlLXzYtS2pJcFY1UGktR1hoSVZQUWlDSVdtUTdoTEpDMmxSaFk2LTc1OV9nT1A4c081UEd5d0FxRDZkX1pWVWZzMnhZUTlTWHZnSFVnQXhDUTkyZDdZYjZMb0d2UnVzWGx3?oc=5",
+    "fonte": "Jornal do Comércio",
+    "score": 14,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
