@@ -1,35 +1,5 @@
 [
   {
-    "data_envio": "2026-07-23 14:32:09",
-    "chave": "3b8453b67083d241a51d0b3afb0ff27a2ee7ee715ec65e12629066a756fc4ae9",
-    "titulo": "FMI elogia Pix e defende autonomia orçamentária do Banco Central - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEp4V1BIdTRRQkdWUEttSzgxRWJtY1ZOOENaWWRaa0JSVjZsclgwMmt6c2xfRDRzT3hNV1NOWEFmVkpCWjloTnRSekcyd1RTaG4yYlhSN2NldldyYmd0TlBEV1ZuMnZ5QVhoN0pZc0hJN0JmU3FDUWpNb21fUHIwSm84Umppel9QU0s2Zy1RUGpiOFcxMk9TaGx0MUl2V1JfWDVfZC04Qjl1UXAweXVsU24yRk85VGFXZzdyRNIBywFBVV95cUxPLXZlbVJSZGNfZ3h0c3BkcGR3V0tGSHc3UVk1ZzVGMW9hME5NNWV5NVpmREJsVDgzQVhkRU5Ua2xWRHlWTl9IdzFyQ05BRk9VWDFiLXJsYUhJTC10bTJkR0x2WVZPWTZDR1VtVFZJR1lWVEcxZjdtWkhfVWxSQk9XRHg2Q2hkT0VEWUFBaTEzOHVNbjNEMlBwTFFyWjZFdm5oMUFVNFhhbGJJVnZITjhQMy1QRlJ2UXI2NGJkZFhwOUpiRVk1X1Y0Y2UyWQ?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-23 14:32:09",
-    "chave": "d8c4ebf3e7d5421ff576f0406ab7aaa3ed36f6210b8678d433b7f35f826aeab6",
-    "titulo": "Banco central da África do Sul mantém juros em 7% e surpreende mercado - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUmVrM1BjT2ZtRXlfWGVXODhvQ0M1MHV6SFd0dkZ1UTdkbHlsTmduLWhMUTR6Q1VLSUVESWxCMW0xcXE3VEpaRjJxbExLbWtBa3ZwOTc5ZWR3djRmaHdZS0lFYVFuMU8tY3duTmE3dFhtdjVVRTVsRE5iaXBxa0dZVzV2QXUtR3ZsRjVBdTlRU0RJNW9sWVBPdXM4VFJndE44R2k4NjBMZkJUZ2hRbDlPc0FaVHl1bG9XZ0RJbU5uSk90NHc?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-23 16:46:44",
     "chave": "9cf08c6f65f8fbc7d4ca0f8a922f4714e547c97ea4691a8e8ade3b877604a389",
     "titulo": "Ibovespa abre em queda com guerra no Oriente Médio e petróleo em alta - trademap.com.br",
@@ -17215,6 +17185,40 @@
       "IBOB11"
     ],
     "classes": [
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-21 18:55:39",
+    "chave": "94427e8b199fc1830bbeea3903b122316ade4a51d9ad266d4dd98d1f57a2cd1a",
+    "titulo": "Dólar opera em queda, de olho em guerra no Irã e eleições no Brasil; Ibovespa sobe mais de 2% - G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0WTZQZmcwYkpxTUhKT05sbDBwR1UwT3NjNnRUQnpGbUpiNHkzbjY3dWsyUGp1RWxrSGJzcU10LVRWNDFLNWhIZ1NLNU5CcjNPa2UzRGZDOTN2TnktMDNwV3o0WkRBQnYwbTlnWHplNXFPRnNwb01IOdIBhwFBVV95cUxOQTFROTlLaUo3bV9xM1cyUVczYllINTRkTkVUaF90TmVJZHNEazdYbXJyZHhnZG9xbzN0VWVmU0hUUGEzNkUyTE42WGFURXRwQV93cFdySWtQLXJyWmEtekVHeTRBSFhGSVB3MjlGM01jSExvME1nbFl4MzktZGNKaEswQS10Qlk?oc=5",
+    "fonte": "G1",
+    "score": 15,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-21 18:55:39",
+    "chave": "3caf616ef370bed632dbd7941771734a5fda8a396129f8325689e98a790e1d96",
+    "titulo": "Ibovespa avança quase 2% e apenas seis ações caem; dólar recua a R$ 5,14 - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTVTMHRaWk52Qy1vNGRMTnZraWtWRUk4TUJVXzZxWVA0ZFhIam4xRllMZUs5NGUzVnRYcnVKRk8wWXVTMlMwdGdieDBaT3R4bVZFRkZiTnM2TVdWaUZxM0NSelE3TU9QR3BGTmNhRHhJVGRycExjY0lFTzFVM1hpRlEyTG96TDJxWDVVcUR1emltN1ZhWXJoSXRGLUctZklTbkpRUEdqWjdiWGVqdTR4bGRaYUN4OFlZOXBTX0c3OVU1ZkRjV3hYS0p30gHPAUFVX3lxTE1VWkdMbEk0Q21UNzNWQ0hPOE9aYXJFNHBsUm1aZ09iOUNMdk5oUGJteG5VSFhhRkdzcmdWMTdhcm9JSW1lWDJJdzlISWozZkpmOGFQNE9KaEU1RWpFYWxnMVYwZjE1QUhYR2NRX2d1dUhGYVJwNUxreFJyOWdFVERSck42ZUxsUldLWmZDbEtZSjFKVmxUOWlYUVk3X3RreHA2QVY2UXpUUjRjTDVPUTNOMFktaHFVMlBOVkVRbWRKNVVVb0RvZ25MVjI4UFhjaw?oc=5",
+    "fonte": "Estadão",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Ações Brasil"
     ]
   }
