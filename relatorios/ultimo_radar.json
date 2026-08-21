@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "titulo": "Bolsas de NY sobem com inflação e futuro dos juros no radar; dólar perde força - Estadão",
+    "resumo": "Bolsas de NY sobem com inflação e futuro dos juros no radar; dólar perde força Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc3hrLWptV2JOWjQxOWtWMHMwWFZWVlN2U0d5RFNMZ3FZTzhzbUNocDIxXzFuQzg0UTJCckZnbzMtcjBCcFd3azVKWTVnLV80ZmRQNTRENG9wZDdsZFFjSFQwdS1NRUI4M3dhMVNpN2FVa2RQakdUNEIyVTZubnF3cDQ5X2FHdlhvTm5XSExScmhFVENkc1k3azBzeEQ4Qk5ITEkzX0QycEhqbXdiZ2ZRUTJYRER6TXp0Q2pPQnFrbTVYUUhJaVlfOF92V2tsWVJqbVHSAdcBQVVfeXFMTVAtNUFVZWVPTWVrQ3JLbllSWWswb2NnOTFPOVl5b2NWX3d0RW1rbTV0WjVCNFlGMTJkUEIydDIxZ1FHZ19hTjRsaV9WMVVCTElkSzZjUjBOZmtUa0h1WktDZVlhTTk2cHc3ZUtxQ3ZuQUJGVkdFeHVHYklRSmozSXhRdzR5d1dQRUZhUkV6M0tXV0NjSTlNVjNBZ0FwV0VVbEgwcTJlS09Ra1J0cWVsSEpMaUZINFFiXzBPSGN3VXY5Vk1GZ1B5X3VuTGpfMmpEUUtscUtVbk0?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "f84ee6e2cda38d20b41a7b514435a1f73201c9907da11651a415983868ae6c1d",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
