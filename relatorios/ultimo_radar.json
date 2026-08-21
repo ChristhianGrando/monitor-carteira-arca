@@ -1,68 +1,25 @@
 [
   {
-    "titulo": "Bolsas de NY sobem com inflação e juros no radar; petróleo avança pela 6ª sessão - Estadão",
-    "resumo": "Bolsas de NY sobem com inflação e juros no radar; petróleo avança pela 6ª sessão Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc3hrLWptV2JOWjQxOWtWMHMwWFZWVlN2U0d5RFNMZ3FZTzhzbUNocDIxXzFuQzg0UTJCckZnbzMtcjBCcFd3azVKWTVnLV80ZmRQNTRENG9wZDdsZFFjSFQwdS1NRUI4M3dhMVNpN2FVa2RQakdUNEIyVTZubnF3cDQ5X2FHdlhvTm5XSExScmhFVENkc1k3azBzeEQ4Qk5ITEkzX0QycEhqbXdiZ2ZRUTJYRER6TXp0Q2pPQnFrbTVYUUhJaVlfOF92V2tsWVJqbVHSAdcBQVVfeXFMTVAtNUFVZWVPTWVrQ3JLbllSWWswb2NnOTFPOVl5b2NWX3d0RW1rbTV0WjVCNFlGMTJkUEIydDIxZ1FHZ19hTjRsaV9WMVVCTElkSzZjUjBOZmtUa0h1WktDZVlhTTk2cHc3ZUtxQ3ZuQUJGVkdFeHVHYklRSmozSXhRdzR5d1dQRUZhUkV6M0tXV0NjSTlNVjNBZ0FwV0VVbEgwcTJlS09Ra1J0cWVsSEpMaUZINFFiXzBPSGN3VXY5Vk1GZ1B5X3VuTGpfMmpEUUtscUtVbk0?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "f649f5a213a7a5de2a547c63d882ea514e7b3f51b90a1de5ebc3fd3758546ee0",
+    "titulo": "Ibovespa sobe após presidente do Irã falar sobre fim da guerra contra os EUA - VEJA",
+    "resumo": "Ibovespa sobe após presidente do Irã falar sobre fim da guerra contra os EUA VEJA",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVNRQk00cGx3OEY3eHZKV09ILVhxZ2Y4SV9CclJ4WmN6V3NGVE9iaUlqSlVLR2hUNTNYY2E1d1ZjT0YtRFZFWHFSMVo3dDlIaHFOMHBBMmVQNFNPZnhwRy1CMnNsN2dNMjJIdkppNnZfOWxhRWZkVnFUUUhFUGhtRUdFZU1TQy0wUHBhaHptSGUyUS0tV1hUUTd6TzVOWk1CZS1kVlJnQlJwN2NrV1ZwVTJB?oc=5",
+    "fonte": "VEJA",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "eff1de2c4bb875e4be6a2f885ade0e148526f02542322a4a02e36755fd3a0e09",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Cortes no Banco Central ameaçam cibersegurança e atrasam novas funções do Pix - Jornal da USP",
-    "resumo": "Cortes no Banco Central ameaçam cibersegurança e atrasam novas funções do Pix Jornal da USP",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1RjRVBfbWg0TGZpa2hFcGFUdk1Lb1lFcTdWdXk4Rmh1YzVmOTZCVURVdWMza3F5aHFwYmpHemNhX3UtT1YyNU1yZVFKblN4QnpuTWhaSXkzenFCUFN3NFF4eDBDWms0NklsdXR3WUo5NFc1Mndoc3ktYWJjOEdROEdwSktDTldNUGplWHJPYjRmQkxTWXVZRkpqVHgyMWp5RU5JREo1dEpRZGNXa3FlY1hB?oc=5",
-    "fonte": "Jornal da USP",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cecd4cb84afcaec4412b1d63c12adb94673858fb5fc5e568b9b4264bd20ccba4",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco central da Polônia adiciona 7,8 toneladas de ouro às reservas em julho - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central da Polônia adiciona 7,8 toneladas de ouro às reservas em julho Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1JFMTVNWHlOXy1wcVlKLW1iMk82WExVSnE3blJHcEV3bEFoekkzZVM2RHVXdS1NWVBoRVNtRE1SN2taUFJna203UGh3THp3Q2QxZEVhdU5rNzNNbFlTWl9wRktWMVNqdkd6cU9TV2MxYnZ3YzR2blJfZXlVZVhwb2R1ZlZrQXc3WmVNN1ljeVNYUi1lbHJlOUVCVzVYdzA2MTljazQya25tVU11Y0ZnT0ViQzl3MU00TzFSd01sUFFGQXd6Ykcwb0NOQQ?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "c8e44da027f7ebfb18889e4ccf7f08995ca0040e242df9542343afc3f37c85f4",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
