@@ -1,21 +1,6 @@
 [
   {
     "data_envio": "2026-07-24 03:44:14",
-    "chave": "df93eb7e260f482108dbba1adb6b93d49c6b1b2eb4b2c16bb588935c7f1d1549",
-    "titulo": "Fechamento | Ibovespa recua 0,46%, com pressão de NY e risco geopolítico; petróleo volta a US$ 100 - InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdlhaRzZCMlprQnNuQXktQWpibFdTcFBQWldwMlRLUktESkRjRXh4YTNqeVMyYXl6UTZSb2g4aTA2TmJaaUxURThzM2Y1WEVyZ08zY0tPSXNlbXR5YXJ2WDYxZEE3cDFlV1EtS0YwQ1F1NVpLdWc?oc=5",
-    "fonte": "InvesTalk",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 03:44:14",
     "chave": "e10a7ca96254d7cc9a5a34a768bd82d27a4d43c876b74b091db8d854af987e8c",
     "titulo": "Ibovespa cede com menor apetite por risco, mas avanço da Petrobras e da Vale limita perdas - Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVXA5dEZuTGlwSUt6Z1VfNHUwSHpqOWc4bUQxRU5xSHE5ZU1rcmN0em9iQzFZNFpXUWlJbmhnUFFuc2RrQ0l5elFNalFxYV9nYzZYVlZuRUtfUlVEMTdubFZfa04ySlc1SXJXdUZMdkRPeEpBWlFVQVFIZ29WSzlodWE2NXowWXNOQlRzNEJaSzBOUE5BWEV6ckl5TzA1dlFqMi1nOTRlNWlyd29UYlpmeGNiUVRpakozMWdFUUNDWHhMTGd5SmMxZjZrcVJ6N1NoRzhMRG5FYUxVcFozNzdVWmRuSk5uR2ZwZDJYTGZmSdIB7wFBVV95cUxOVXA5dEZuTGlwSUt6Z1VfNHUwSHpqOWc4bUQxRU5xSHE5ZU1rcmN0em9iQzFZNFpXUWlJbmhnUFFuc2RrQ0l5elFNalFxYV9nYzZYVlZuRUtfUlVEMTdubFZfa04ySlc1SXJXdUZMdkRPeEpBWlFVQVFIZ29WSzlodWE2NXowWXNOQlRzNEJaSzBOUE5BWEV6ckl5TzA1dlFqMi1nOTRlNWlyd29UYlpmeGNiUVRpakozMWdFUUNDWHhMTGd5SmMxZjZrcVJ6N1NoRzhMRG5FYUxVcFozNzdVWmRuSk5uR2ZwZDJYTGZmSQ?oc=5",
@@ -17260,6 +17245,23 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-22 22:38:02",
+    "chave": "3f0ccb329ee73d8ebb3f6386acc12efe469fcab20a7fb32b1fdc448a86442d9a",
+    "titulo": "Ibovespa B3 sobe 0,90%, puxado por Vale e Petrobras; dólar cai a R$ 5,17 - Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWhqNjgtRG5TdHc3OFFGM1ZZU2pQWDFCWXZRajUxcXR0R0lIdkhQNmt5RTBmRGR2X3BaNFBFdGlUN3N4bmxsSlpLZ0dobEJrS0lTeWlhb3hYNjFGZGpJWS0wSlh5Wkg3LWVsX0lpZVlJaEtVNHpRWGdxY0ZlTjBtY0c1TUoyajhkT1otTWtTajhsNnd1ODZvZjJ0T3hvVS12dE9jSnBwaEEyekFMT0RKN2pKOGItQQ?oc=5",
+    "fonte": "Bora Investir",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
