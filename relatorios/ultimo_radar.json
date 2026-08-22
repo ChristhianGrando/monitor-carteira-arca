@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "titulo": "Ibovespa Fecha Semana em Alta, Dólar Cai a R$ 5,14 e Petróleo Dispara com Tensão no Irã - Forbes Brasil",
+    "resumo": "Ibovespa Fecha Semana em Alta, Dólar Cai a R$ 5,14 e Petróleo Dispara com Tensão no Irã Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2ktMWpOaGdnMU1zU1lWNnQxRGp5OTdGRDk4QlZ2eXFndmdKMTdRNG05UkkwM1F2ZTBmSzJKTmdKcjV1VERrZUNiaDh3NC1wbGQ4T3I0bUV6VGNJWm9FWTZkTU12bXJ3Ymo3THFCSVk3bU56ZmZrQjlRMnJoTGNWWnY2QXhLbDRxdVVrbk05VVJZVEFoU1JXeGxjNFRFVGloZGZiVzJtdXRSdlpiRHZ5dFZGT2IxdEk3S0FZOWVXUlgxM3BtRzVF?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "2dedc17aa03cbcf08f77a535e890cead72c9824b3c7cfc3f1e2d61f491113bdc",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Fechamento (21/08) | Ibovespa estende recuperação e sobe 1,85%; dólar cai a R$ 5,1451 - InvesTalk",
+    "resumo": "Fechamento (21/08) | Ibovespa estende recuperação e sobe 1,85%; dólar cai a R$ 5,1451 InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OLV96Tnp1S2dUUWlZV2tpM2VWejNRUFVmdi1qOXBqWUdOZGNyZVVySk1JcG9ReVItNVVFaG9sdk92TEx0ekhJVlVsUGREbUFRaGx0V09odUhuMlJac0Z0OHMtMnFXMUF4bFRwOTVfOHBnbVZGakE?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ac83ae212a5e5e23471f0ddc326ee09bf11c15acdffbcb6b8fc0ec0449453468",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
