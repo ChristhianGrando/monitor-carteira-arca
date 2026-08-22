@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "titulo": "Risco externo no horizonte: o alerta que chegou à Fazenda e ao Banco Central - PlatôBR",
+    "resumo": "Risco externo no horizonte: o alerta que chegou à Fazenda e ao Banco Central PlatôBR",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQenVtZnRKUWNPU1BXdFR5OWppNDV2bDBFOE5fVkZ0bnFfRWd1ajA2RkozWW1jdHBFNEEwWWVzdldaNVBWR3lyQjVCV20zTUZrb21FdlV0bjZyWWluNGZvVjZkamE5amtLYnd3SHJCQU5FY0FuVlJpdUpVWUVEMnRfeTQ0LUc4QVVRaDZXRVlhbjUwek11bDRRQ1RIaVNoeTA?oc=5",
+    "fonte": "PlatôBR",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d82936e81bda74ed05da2d10a8f51a71944361ee0d45b74a78e2c352af67c4a8",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
