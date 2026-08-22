@@ -1,23 +1,6 @@
 [
   {
     "data_envio": "2026-07-24 03:44:14",
-    "chave": "e66b815726e6191ce118bb3f410107bddfdb7bc2d91d5e67840bc6f06ae8293b",
-    "titulo": "Ibovespa recua com deterioração do cenário externo em meio à guerra entre EUA e Irã - trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTc4a1pkTnB6c25iekxGczd1U0dhOHVZOVVXUjJ1REJWd1pfZngtNEt5U1FtYlAtcWJXMGJONnR6aFl3RjdVZW0yQmwyT0VMb2FMODNMRFdLVVVRTlhYZ2hQN1dOMEw1bVV2bzhrSnpyS1dPWnUzSmZLR01xcm9hWTl2TzNNaUU5ZjdFU0dFOXUzT1pNLS1vRXUwUzZhVS1sa1ktSlFnamFOXzZ1U0pyRmFpNS1zQQ?oc=5",
-    "fonte": "trademap.com.br",
-    "score": 10,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 03:44:14",
     "chave": "df93eb7e260f482108dbba1adb6b93d49c6b1b2eb4b2c16bb588935c7f1d1549",
     "titulo": "Fechamento | Ibovespa recua 0,46%, com pressão de NY e risco geopolítico; petróleo volta a US$ 100 - InvesTalk",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdlhaRzZCMlprQnNuQXktQWpibFdTcFBQWldwMlRLUktESkRjRXh4YTNqeVMyYXl6UTZSb2g4aTA2TmJaaUxURThzM2Y1WEVyZ08zY0tPSXNlbXR5YXJ2WDYxZEE3cDFlV1EtS0YwQ1F1NVpLdWc?oc=5",
@@ -17262,6 +17245,21 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-22 18:48:33",
+    "chave": "e361a89fc785c16f8cb71d247dc61f1a8f5a684a64d3d4b429e64af4fdd92c06",
+    "titulo": "Estatísticas do setor externo - Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KeUoyVFdmZXp5ZlhkQm53NWF3eTZWeUc2RndCZHBrSEsyelNrTG1Jb19FenFCU1RIb1NHbWw0bW1FZzh6UVh4V0tXQVY0Ynl0dWRnZlJSSUZQdk1YVURPUkQzdUFUQ2h2U1ZxUg?oc=5",
+    "fonte": "Banco Central do Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]

@@ -1,52 +1,24 @@
 [
   {
-    "titulo": "Selic a 14%: o que muda para a economia brasileira - Vanessa Onzi é economista da Unicred Integração - MundoCoop",
-    "resumo": "Selic a 14%: o que muda para a economia brasileira - Vanessa Onzi é economista da Unicred Integração MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa21BcDZHeHVyeE5Qcy1sRTdlSlQ1ZUVwdFFuSEpPdU5tNG50Z1A5R1JqRHFiTGtXS19OT2xxVExwNnRBQlFDTEVZTVNVdzdGbm5lQ0FZbXFlVGkxMEZpNFZXaU50VUZGcjdNQnJZZENBU0FCY0EyWTJxdE5rWHVoSUhoeXVqdEFPRnplQ2pLWkdtLXYwTUlGeGhhMW4xX05IMVFZSmZ3SzdfUWVzZVN0TTZBWlNRbURXTjFhUHdBYVNYVHpoUk0yOQ?oc=5",
-    "fonte": "MundoCoop",
+    "titulo": "Estatísticas do setor externo - Banco Central do Brasil",
+    "resumo": "Estatísticas do setor externo Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KeUoyVFdmZXp5ZlhkQm53NWF3eTZWeUc2RndCZHBrSEsyelNrTG1Jb19FenFCU1RIb1NHbWw0bW1FZzh6UVh4V0tXQVY0Ynl0dWRnZlJSSUZQdk1YVURPUkQzdUFUQ2h2U1ZxUg?oc=5",
+    "fonte": "Banco Central do Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f42a24ce89c26c680bfd3c62e708af6aaef46a5db3d41f0972f636ad3f64e520",
+    "chave": "e361a89fc785c16f8cb71d247dc61f1a8f5a684a64d3d4b429e64af4fdd92c06",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Hoje, Ibovespa salta quase 2% e dólar cai para R$ 5,14 - Associação Comercial e Industrial de Araçatuba",
-    "resumo": "Hoje, Ibovespa salta quase 2% e dólar cai para R$ 5,14 Associação Comercial e Industrial de Araçatuba",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lWFNSLWhuYWhPMzByeVNLSE81RkxwcXNxVV9mc0pmV0FhOVgteElvYVdqYnRqekdNdFNpV0hnRzRNR1FwYzB3WXFBSzE1LWRxWWd0SWwxak9BNXI0dTBR?oc=5",
-    "fonte": "Associação Comercial e Industrial de Araçatuba",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7bfa5a601bc8cf6186be4c27b76ce3a618463537173ec6c0d1d60395c02da8e6",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
