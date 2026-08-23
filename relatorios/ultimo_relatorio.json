@@ -1,9 +1,24 @@
 [
   {
-    "titulo": "\"Crédito para irrigação e manejo de solo tem juro muito abaixo do mercado e da própria Selic\", diz novo diretor do Banrisul - GZH",
-    "resumo": "\"Crédito para irrigação e manejo de solo tem juro muito abaixo do mercado e da própria Selic\", diz novo diretor do Banrisul GZH",
-    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQ25LMkZCWENfWU1DS0JROVJxYk1pNi1yT2FUZWdkMHExcXFTUzJjU0NnWUdFYXhia3lVM29nbTBGTlJHUHpOSWRRYUtLWHN1WkNXUi1OMUxHTDdCNjZWbHBfaFdMa1VCc0ZVMkhNbVlwRmxES1l0Y2FGUWdmRDJtbWRXemZXVjhQZU9lbUYxQU93VDJPU2RjOFd6RWh6SU9iYjJSUW1TV2FGUklxUDduWHpadDJ2czhKMnBQa1dsMERqRWZpbTVqSnRnSWJ3QzZPSldkak9qSjZBbmd3Rmo1UmxrWWczRjhqWm1QM0M4RU00LV9uX2hLZU1xV2RPMnFReXVVb2w4amVkYXBGY3Y2RkQzZ2lvQlc5bEJPd3FIeXJvQnRIYmZkdjRVSThPOEpuaktoUkxuTUlnNVVzbXFwalgtRkQxQQ?oc=5",
-    "fonte": "GZH",
+    "titulo": "Agenda de mercados: IPCA-15 no Brasil e revisão do ‘payroll’ nos EUA são destaque - Valor Econômico",
+    "resumo": "Agenda de mercados: IPCA-15 no Brasil e revisão do ‘payroll’ nos EUA são destaque Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemZpR2pkSlllUTJYTHVmNWZpY0ZxZUF1bE04V2VMSUxqNVdVZVJEY1FHdXFOd0ZjSG1IUTUtNmdGZzdITkpteTRPa3c5bU03TWE3cnctbWtwM0FVZEhscThHTVdnc1p2NG9ma2FtZU4wZnF5VDFZS3ZXRWtla1g0cGxpZ0hGQjhDVkU5UGZ5dFFUZm9tYlYycG5lNndka25iU0VMRVo1WUxmRzlFRGFaOFRWT3N4MHcwMVB6TnhnZVFGMW9iQnZqRk1VMEw4ZXRKbHfSAeABQVVfeXFMTk1CdW92eXlmYS1VdVY0Q0JfZmJDRkdCWXg1NFZ0a2x1cHJLRXRoTGRtUkxINzRGbEJFTU5CTGl0NFhhbUhqdkNuQ0VVQXg2eno1dklDbG5vVkR5TlhXMFBlV21JcHo1YVd0QlNnaGpCUWJvS0s2VXFVVzJ3WEhUX3FWb2IzMEozUS0zUTljbWhpcGZkYWl1MXZlT3BCUTk3RTNYUV9wb0dDWkxjVUtkRG5CbjIxa1R2eWxlQWEyd3Z6cm5uWkFZVjhLeGpDWUxKYkJqUmJSUGpSUXlmMUdRUmo?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "IPCA-15 de agosto e Jackson Hole: os eventos que vão pautar a semana aqui e lá fora; veja calendário - Estadão",
+    "resumo": "IPCA-15 de agosto e Jackson Hole: os eventos que vão pautar a semana aqui e lá fora; veja calendário Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQU02T2J2T3JFMXNJM1REOER1VURmR193dHpqNVpjWVVTcjFKdzNzSktMaHF5UFNyM0FUajVGYk5ab2hmX2dMMHAxbDNYSTJ6TUU1enB1UnZZVEVRVXFvWGRVcy0zc0V3LXlDVy1icmNXSWxOTHFYbFVZWDBjdk1UWTd2ZDZJS2poejVWMUxHSlJZX0pKMml1d3pyRExISktIZDdlR0tCYzFlX3RHWlJfZTlBSjJ0eE1qXzdUSzh2X093cklqckhIaXl2UUR2RmxpcWo5Ry1CdnNwbXlXOFpJTHhTQmJRRkltQ1lWLWJHOFlTa3VWeHR2TA?oc=5",
+    "fonte": "Estadão",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -14,10 +29,24 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "WEG (WEGE3) e mais 4 ações para superar o desempenho do Ibovespa na semana, segundo Terra Investimentos - Money Times",
-    "resumo": "WEG (WEGE3) e mais 4 ações para superar o desempenho do Ibovespa na semana, segundo Terra Investimentos Money Times",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjdkZmRQVXhNOS1JQUUwNXllT0tNMEl0WEE5Z3ZpakNwUWUxQll5RWIxWlVXY01mOTZQX25UakpnZVFSZ2FVbWtweWlGM0V0OVVpeUp5Sm1oLXpIX1ptbnA1ZDBYUUdWcEo2NFRDRnRLV0diNlRVSW5ZU3VCQkVFbTR5OHdOQnRXWVNGdndrbmxzZi1EUGZGYzRXeWlycHA4c1d6UUlwd0szN0ljVFRDQmtxU0J4aTBlR0JhVnJ5cUNfSkVVLUxUaEtDR3NkVmNMbFE?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Renda fixa: por que investir em Tesouro IPCA+ 8% se o CDI a 14% ao ano em tese paga mais? - Seu Dinheiro",
+    "resumo": "Renda fixa: por que investir em Tesouro IPCA+ 8% se o CDI a 14% ao ano em tese paga mais? Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlJvVjNHWWlscDlxamFpVEZtZ3RjWFNqaWhUQnB0ajRpUmtxWk05dXZ6dDNFNWRzS3RzOGJfMVhUa0pPZTIySWdzcWNGUURlTGJxRWY5M3BQOGtHMG5mbVJENDByY2RhTWh1V2gtb1UybXZfMVMxVUVYRXJjRkpHM1daX3VrLWVmbm5zeXFKbU96eVR4ODdmLTBud0R5NmJyU0o0YXJuNlR0NGdQdDFtVG9yUmdLQnhsRk1mSmVrbDB1RFVCQUx1RWZDMkI2b0k?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Ibovespa Fecha Estável Aos 167,9 Mil Pontos em Meio a Incertezas Fiscais e Eleitorais - Forbes Brasil",
+    "resumo": "Ibovespa Fecha Estável Aos 167,9 Mil Pontos em Meio a Incertezas Fiscais e Eleitorais Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFlWNUQ0b19BbnByUDlrc1VjWHNpWmFkbUFrQzF6THRVN3V2bG5iOENwT2NOQ1lmSHBvcEc0WHRxcUVkeDJNZDhhMWRjOUhZOVZoSnF6RF9sWHBKVGotWHVrTUFsYnkxd0xsdmVqblVMR1IyZ2RxclNWRzhrS3ZsYjlad290bmNjcG16WnRRaWszVmVBVHo0aW9oSWo?oc=5",
+    "fonte": "Forbes Brasil",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11"
@@ -26,63 +55,28 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "XPML11 anuncia dividendos e HGLG11 lança nova oferta bilionária; veja as mais lidas da semana - Fiis",
-    "resumo": "XPML11 anuncia dividendos e HGLG11 lança nova oferta bilionária; veja as mais lidas da semana Fiis",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWNCOV92b2JIVUY2QUV4ZmoyOUtWYkkxUXlHM2lCanJqVFFhYzM2eFJ3ZWp1WmZmVlhPMEY4eVd0Z3VmOExMZjZjMHhqMG1tcUN3T3VuY2hZVktJR242NDJiVmQzRW1GZUx1NWxqS2dFbVh4T2dzRkZEWnpwMUlmd0ZkcEdPbVltLU1kUUx1MmZJVUx6VDFFcEx0dzhWbWNjdnpoZG9aYjhkdktMd2Uw?oc=5",
-    "fonte": "Fiis",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "titulo": "Justiça condena Facebook após invasão hacker de rádio para divulgar golpe com criptomoedas e Elon Musk - Livecoins",
+    "resumo": "Justiça condena Facebook após invasão hacker de rádio para divulgar golpe com criptomoedas e Elon Musk Livecoins",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3EwTW9qWjhCUzd2ZzdQSUMwYnRRRmcxSGFxek1ZWEs3WTB0M3UzQjRSaGRvOEhKUWsyNzd4d0k0d2JtWHNuT1JHLWpjSV8wWmxfdlI3RndmUHNHX0R2VnE1ZXpZUl9zSWs4em95WmJoaEJ2dEZVOFlDMUdidnM5bV96OC1kMXF2dGdXMkVWTXpSU0cyQzRJQlk3WmFxNDVXX0dTdFZjLTJTbncydFVFLVlBazRqaVg1dzE5MENhYjZ2VlFmYmU0?oc=5",
+    "fonte": "Livecoins",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
-      "HGLG11"
+      "SPCX34",
+      "KNCR11"
     ],
     "impacto": "Médio",
-    "explicacao": "pode afetar FIIs de tijolo, vacância ou aluguéis"
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
   },
   {
-    "titulo": "Substituto da Starlink que está fazendo Elon Musk perder os cabelos está chegando ao Brasil - jornalcruzeiro.com.br",
-    "resumo": "Substituto da Starlink que está fazendo Elon Musk perder os cabelos está chegando ao Brasil jornalcruzeiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQVdrM3E2dk5zVjBGSWpjOURjNUt1YktZZ1pBclJZaDdPNHI5RXV3ZDg3Qy1CWHRpRGpNWHpXZFhDMDB1NWlDUnl3Yy1Dd2trYnh4OWQ3YUVhNzBzYTRGazVZSmZBSFBpNkFDUzR6VGt4aC13OGpScUhmQV9ELVRMSUtEMUJNWVB2UW5fV0F2SUk2a1EycUdvUzN2R0YwUnp2ZFB5d1JLQXROdEpaQk5QQlVCcXRDN3JjX2hCbjU4Sy1yZWlPZVA4TWJiMjQtVnN3dWhMUUhjTGlMUDZjZm5jS1ZSSmxNd0tGVDZQTVRaVlh5Zw?oc=5",
-    "fonte": "jornalcruzeiro.com.br",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Parte de nave da SpaceX vira atração turística na Austrália e inspira bebida de pousada - Money Report",
-    "resumo": "Parte de nave da SpaceX vira atração turística na Austrália e inspira bebida de pousada Money Report",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnJPa2dVVzhEc1pqZS1sNHI0SjBnVDJwOEduelFhS19QSm8tNlllSVF0akhRYmFtZlNyTG41eGlKZ3J0NjQ0aTN5SGhWOVJUU3ZmOUtUUzhRUkwzYW9KbmVaV3d0bWxGRGNhd0RKUHo5N21oTWI5Y1lVMUZncm5GZ3JBUWlQSjhFMWpMR1BGTHUzTmRpcVY3cHZhMEIwZ0w5ckd2OXA3NEtDSWsySFZBOEQ1Tno0NFplTTd1d3FLZFdzUnpTemVVOA?oc=5",
-    "fonte": "Money Report",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Trump assina política espacial para chegar a 1.000 lançamentos de foguetes por ano - Olhar Digital",
-    "resumo": "Trump assina política espacial para chegar a 1.000 lançamentos de foguetes por ano Olhar Digital",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQkZYNWdCQlEyU3Bsa2pzUWl6RWN5dHhWaExhb1VXOUZMeF9VRFAwQnRPb29JUzlEMzRncFNaQjdZVHBOMngzamJrVmNidlN6aVhOdGluM2JfbFNXN3VhMGlvb2dXTzI1TENGakRzcmtpUTBPVHdPM3pFTFpWdFRqa3Q2WndPeEdYcDJVM1Q3Vnd1WUpndVVlbFRIQnlSTlE5MzV4QVpCVm1BZ1l1X0h3bW9oaDdLRWJXZGJtNkdjekszV3d2RVpDV2xzbU9CUjBhVTBLMkpn?oc=5",
-    "fonte": "Olhar Digital",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Registro de Declaração Periódica Trimestral no Banco Central do Brasil – Data-base de 30 de junho de 2026 - Demarest",
-    "resumo": "Registro de Declaração Periódica Trimestral no Banco Central do Brasil – Data-base de 30 de junho de 2026 Demarest",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQak8xUEJXTkRNSlJhaWE4UGVsU1VFeENTQTlUZ0xGNzFhVnh2bmI0djVqNXh3NEhfYkE3UTVZVXktcUVGVVhyLWlrbmdzaVdtUks2SjA4ZVJ4c0RiQlUtVUlhMnBjV0Z6Mk1GdXBOVnYwZklVWE5lbEpVMUhwTjFFY3FnZm5fTUVZUWJOcGl0dkpuWEpqTmY5Y2dQVVgyb1I3djlUWURzWU1Gd2wzZmJ1TzRlaUVrU2hrQUVIaW83Yk5QUVQwS195VEt5bTU?oc=5",
-    "fonte": "Demarest",
+    "titulo": "PIX fora do ar? Clientes de bancos relatam instabilidade do serviço - G1",
+    "resumo": "PIX fora do ar? Clientes de bancos relatam instabilidade do serviço G1",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUYyMU03WS16NnNRUUp3UF81TXU4TmR2VFRCaG54RE9ITHQ3RzhYSHcxTFZBYWNFR3N4MFptSDFGUjNFWWNIeVowNEliWjlJajd4VGtDbkZBbFlEMmdiSW5EWm96NVY0NXVudXNYRGdqZ0xhWE1OR1Utb0JlaTdlWVJvcDZ6RzVIQmRHelFGMmNEWDR6UmJGdHZjY2RRVjk5bTAwVVhKSXRzNDQ2MXprSklnZVJvMEI4WjFTMXRB0gHMAUFVX3lxTFBTUjJIam9BeG9UWVQwRmtzT1ZuYmJqMGh6SEFYQ1JMcEZpb0JUSzRSU2VOOUNDMy12X3Y4a1lOQ01fN1ZpWjY4UzZDb1FiUlpJMVcxQ3plbWdNZ3FOM05NTFRtNjJ1SjNTLXZTQXo2UE9qdHM3MUNPamxCSTYzUFdwRV9YcmFDaVAweGx2Z1l1czhEdm1lQXZhMVVRSVZIaDdqZm5VdHhLYjY5V0I1T2ZITkt3cS13a1NoUVhRM2plMHlFbGdpelg3c0xSeg?oc=5",
+    "fonte": "G1",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   }
 ]
