@@ -1,20 +1,108 @@
 [
   {
-    "titulo": "Criminosos invadiram sistema ligado ao Banco Central e desviaram mais de R$ 540 milhões via Pix - Diário do Comércio",
-    "resumo": "Criminosos invadiram sistema ligado ao Banco Central e desviaram mais de R$ 540 milhões via Pix Diário do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMy1ITmpkX2JvOVpSSjVvalRGNExKckVBaTVleXhqWjRCTEh2TDhvdWltQ0wxVGF2bVFKOEt3a0NHQW04WENOdWg0SFlJRGtyMTdWMHdhUHMwUWtQcG51cTZvWEpHWkNWTG9UOVV0Zm9CNDZuUmxJSlBEc1hsTk9HaU84V0dFUmF0UU8xN0FiZmhCV3ZMNjRBX3l1ZEZoZUtmdHF6cTJmOWFDTi05NlFoaXNjNk9RMGUwcEttNGdHQXpTeXJLQklIdDhmUGk2MUdEdU1sczlrMjNyUV9oSk9RVWZ2ZmZONkhVT0E?oc=5",
-    "fonte": "Diário do Comércio",
+    "titulo": "Banco Central diz que Pix foi restabelecido após relatos de falhas neste domingo - ICL Notícias",
+    "resumo": "Banco Central diz que Pix foi restabelecido após relatos de falhas neste domingo ICL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5SG9wa3RIMGU0U21rc2IzN2pxRS1fRmFtYnFTdWxJWTlJTWFacjRlSERUZ3dud0pXNHZDWm9sRnVOU2pKc3VENzZIRGx5ZGtOYTFRM0s4MUM5SE9DdGJGb01oUG5lbzRJWVhqUzF4SnQ5NDhhRVBR?oc=5",
+    "fonte": "ICL Notícias",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "05d05ecec3c32f27e16fd360a737420c25f7b198f2b360172d0937db4640b124",
+    "chave": "930d1e9ba5af34650601fba33359fb1213b0a301843d41d5924898d14958ebb4",
     "ativos": [
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central investiga causas de instabilidade no Pix após falhas neste domingo - Brasil 247",
+    "resumo": "Banco Central investiga causas de instabilidade no Pix após falhas neste domingo Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVh4R0N1ZzQyNktUWTk0bUFSM3IySExkcjFxSlU4NWUzU1hYV1E2UlZSMzlWR001OEZsd0lFSzFJYVJuQndRWXQxcVRtbnp4dng5ZURLUV9qVXUxdWdsWTVOR2NoLWpCMG53M0dxcHFSczVZN2VZT2VVaV9Ca196TVpodjhld2Q5S1MyQk5tUzduZEM1NlFldXlEOHZfaDRmeGV3c3JiMXpGWnFQS0V6Mk5EV0VMUVE?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "deb2a5a757c253724c3b609db98a180886bcbc15c0bdb31b534e8dbda846bff1",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inflação, dados de emprego e Jackson Hole dividem os holofotes do mercado; confira agenda da semana - Money Times",
+    "resumo": "Inflação, dados de emprego e Jackson Hole dividem os holofotes do mercado; confira agenda da semana Money Times",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXJ6TVZlSUJNLUZHVTJoVGt6UFM4cG00TFdvVGpuRzJCUDhxWDhCWkJWN1VXRXRXZzAwQ3JWWkpfSVZZZjJXcFM5OUtVWDdaQlMwOVVXN2hvbjgyM1plR0pHXzJadkhVM091MXRCekFKUUx2RTh6bzlJLVRvY2pfS1ZoMVNKU09SNmwyc0xPZTVSN1l2elNTbTdkRDY3enJBck1yN1ljd1BzZW4zdUlKbGwydkJiMWRFVHJxWHprc3QtUVNHYktZ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "f8aacab10c4083529b1658847bbdfc5d4171b155b1fedd46d123b78a49f0eb9e",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "PIX fora do ar? Clientes de banco relatam instabilidade do serviço; Banco Central diz que sistema foi restabelecido - G1",
+    "resumo": "PIX fora do ar? Clientes de banco relatam instabilidade do serviço; Banco Central diz que sistema foi restabelecido G1",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUYyMU03WS16NnNRUUp3UF81TXU4TmR2VFRCaG54RE9ITHQ3RzhYSHcxTFZBYWNFR3N4MFptSDFGUjNFWWNIeVowNEliWjlJajd4VGtDbkZBbFlEMmdiSW5EWm96NVY0NXVudXNYRGdqZ0xhWE1OR1Utb0JlaTdlWVJvcDZ6RzVIQmRHelFGMmNEWDR6UmJGdHZjY2RRVjk5bTAwVVhKSXRzNDQ2MXprSklnZVJvMEI4WjFTMXRB0gHMAUFVX3lxTFBTUjJIam9BeG9UWVQwRmtzT1ZuYmJqMGh6SEFYQ1JMcEZpb0JUSzRSU2VOOUNDMy12X3Y4a1lOQ01fN1ZpWjY4UzZDb1FiUlpJMVcxQ3plbWdNZ3FOM05NTFRtNjJ1SjNTLXZTQXo2UE9qdHM3MUNPamxCSTYzUFdwRV9YcmFDaVAweGx2Z1l1czhEdm1lQXZhMVVRSVZIaDdqZm5VdHhLYjY5V0I1T2ZITkt3cS13a1NoUVhRM2plMHlFbGdpelg3c0xSeg?oc=5",
+    "fonte": "G1",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7b0856d0fcf2d6d2640fef76da0eb3e3098d6c2d746de34e9b152e1a3112746a",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Tecnologia: Banco Central informa que Pix foi restabelecido - Portal Terra da Luz",
+    "resumo": "Tecnologia: Banco Central informa que Pix foi restabelecido Portal Terra da Luz",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1dIZmsycVU5WkhOZ3l6Z3lZVW94bDU5VGxJcW9sR09nNTN3aHJnTTljRWNLYXlaM0NPQVpiUU1vc0MzNFo5MWJBaXEwbk1JVU1tS2pZZk83ZzQyRWMtc3Z3eFJOaV84b0FCYjJfamVtdkpqcTltQ3BYUHQtb3g2NWd5TXNKM0NfaDRZV2E2ekFPSy13VFJkWm9rRC01RHJXcG5V?oc=5",
+    "fonte": "Portal Terra da Luz",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e15478c3c45ea7521f790a9249df387246de937bc0d0b152770581c9a12c9614",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
