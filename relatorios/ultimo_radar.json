@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "titulo": "Criminosos invadiram sistema ligado ao Banco Central e desviaram mais de R$ 540 milhões via Pix - Diário do Comércio",
+    "resumo": "Criminosos invadiram sistema ligado ao Banco Central e desviaram mais de R$ 540 milhões via Pix Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMy1ITmpkX2JvOVpSSjVvalRGNExKckVBaTVleXhqWjRCTEh2TDhvdWltQ0wxVGF2bVFKOEt3a0NHQW04WENOdWg0SFlJRGtyMTdWMHdhUHMwUWtQcG51cTZvWEpHWkNWTG9UOVV0Zm9CNDZuUmxJSlBEc1hsTk9HaU84V0dFUmF0UU8xN0FiZmhCV3ZMNjRBX3l1ZEZoZUtmdHF6cTJmOWFDTi05NlFoaXNjNk9RMGUwcEttNGdHQXpTeXJLQklIdDhmUGk2MUdEdU1sczlrMjNyUV9oSk9RVWZ2ZmZONkhVT0E?oc=5",
+    "fonte": "Diário do Comércio",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "05d05ecec3c32f27e16fd360a737420c25f7b198f2b360172d0937db4640b124",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
