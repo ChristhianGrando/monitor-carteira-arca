@@ -1,21 +1,6 @@
 [
   {
     "data_envio": "2026-07-24 15:44:26",
-    "chave": "dddc35aa161e229b51f7fac919ab8f009ff3298a194dbe2b9c81529371668c8b",
-    "titulo": "Ibovespa tem queda forte, na contramão de outros ativos domésticos - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGtqa05Sb0ctQ0l6bG9uS3FQSEdCZ2tXeVVTbG9MckdPSXMyVVZXU21oUUJlV00zZzY1Ym9NRzl6VVhBR240bHhBZGgtN3lQQVlBbm5pTWsxbHhFU3dQc2ptaGl4bnZVXzJ0anZyNURYUGNVUU1WVUF3U3pzMC15Qlc0Q0MwRWo3QjhoTVNNNWdDb04tWDF4Y3FwWnFkMElDTVRDUTZuT2VBV3ZYUmZfd3hpV1cyX3kwZE9rYnFQdlUzNlE2SnhpNFFaV0R4cEnSAc8BQVVfeXFMT0xramtOUm9HLUNJemxvbktxUEhHQmdrV3lVU2xvTHJHT0lzMlVWV1NtaFFCZVdNM2c2NWJvTUc5elVYQUduNGx4QWRoLTd5UEFZQW5uaU1rMWx4RVN3UHNqbWhpeG52VV8ydGp2cjVEWFBjVVFNVlVBd1N6czAteUJXNENDMEVqN0I4aE1TTTVnQ29OLVgxeGNxcFpxZDBJQ01UQ1E2bk9lQVd2WFJmX3d4aVdXMl95MGRPa2JxUHZVMzZRNkp4aTRRWldEeHBJ?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 15:44:26",
     "chave": "820fd2b605e9bd88aaa18ec47ed2935bf3a3247412b7af5805555e862601dd35",
     "titulo": "S&P 500 e Nasdaq caem enquanto os investidores lidam com balanços, riscos no Oriente Médio e tarifas - TradingView",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15S191eTRQNERVQVBfRGIzQV9qSlVYQm9mM291M0gyV1JWSkI5dkh2d256dTJROWxFTXFra0lhZVdpQi04MEpEOTYxR01GUm05RUVxTDJSck9hd2x3bFNHYVZpcjlQQnpLU2JDS1hWbkU1OVAwQl9F?oc=5",
@@ -17264,6 +17249,25 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-23 20:38:37",
+    "chave": "345f42bcea132eefd6b0471e9a6bdbe1f5898ce3a4fe4e271428e5bdf978ea5a",
+    "titulo": "Calendário econômico: IPCA-15, trabalho no Brasil e Jackson Hole são destaques - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdF95dFVfQTNVTDRTVmdHMWhzaFZackdzX0NCU1AzTmNGbkxhVTdBNEE4UFF1Xzk3QUh0ODh4aHEwbzZYWU1CMmJTeDNQa1M0X0NIQWRXNVR4WWRRLW9BRG9DVTF6Y2FmeUV6VHdrUW0zZVlzZ3J5bUhLZFlNZkljUEhHSzNCY0E0cXplNFFkYUxTZXNJQjFzbU1pTHE2dWtQNzM0NDZQbHROREM4X2sxZ2s0dmdod9IBuwFBVV95cUxNbFNQWkRZRkFPUlJIS3NBVDAtemtUYnJmclpUeVRKYnp5V0hXbFM5anh4SHNaX3lVUjlWT19WVXVaR25DZzNQTHBqajFFWnkzT082Ulh4WDZWT0JaVzd5YkhzSlBZcV9SeUMtNFVfSHN6c0ZPM3JZZVhMVnl5VHlqUm41MlhnUEN0NEZaLTh6eVY1d3l3bFVCUXhoam0wWGZtRWt4LWh3MW83dlZvbHpMR0o2cVk3TDVKVGhz?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]

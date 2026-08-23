@@ -1,18 +1,22 @@
 [
   {
-    "titulo": "Pix é restabelecido após instabilidade, diz Banco Central - A Tribuna RJ",
-    "resumo": "Pix é restabelecido após instabilidade, diz Banco Central A Tribuna RJ",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnBOU0prQ24ycmNZa2tCdWVYSXJxVldHdVZ3YURMYVNwWVllZVdQdXhEelZHM2diZ3AyMnVndVUyZ080WEhyampvSGNqbHpDTWUzQmdzcTJkZXkyRm9Zc1A1c0w3X3ZPak16N2N4R19QVkFXX0JwQzNYWG9MTHZyOVZ2QVVsRUNyVGdtTG5aLVktSkhWSjd6LVdB?oc=5",
-    "fonte": "A Tribuna RJ",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "21de422d8a2100b3f7e1f8725abe80a4826b58cdcecf08f222a0e54826b5dfd4",
+    "titulo": "Calendário econômico: IPCA-15, trabalho no Brasil e Jackson Hole são destaques - InfoMoney",
+    "resumo": "Calendário econômico: IPCA-15, trabalho no Brasil e Jackson Hole são destaques InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdF95dFVfQTNVTDRTVmdHMWhzaFZackdzX0NCU1AzTmNGbkxhVTdBNEE4UFF1Xzk3QUh0ODh4aHEwbzZYWU1CMmJTeDNQa1M0X0NIQWRXNVR4WWRRLW9BRG9DVTF6Y2FmeUV6VHdrUW0zZVlzZ3J5bUhLZFlNZkljUEhHSzNCY0E0cXplNFFkYUxTZXNJQjFzbU1pTHE2dWtQNzM0NDZQbHROREM4X2sxZ2s0dmdod9IBuwFBVV95cUxNbFNQWkRZRkFPUlJIS3NBVDAtemtUYnJmclpUeVRKYnp5V0hXbFM5anh4SHNaX3lVUjlWT19WVXVaR25DZzNQTHBqajFFWnkzT082Ulh4WDZWT0JaVzd5YkhzSlBZcV9SeUMtNFVfSHN6c0ZPM3JZZVhMVnl5VHlqUm41MlhnUEN0NEZaLTh6eVY1d3l3bFVCUXhoam0wWGZtRWt4LWh3MW83dlZvbHpMR0o2cVk3TDVKVGhz?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "345f42bcea132eefd6b0471e9a6bdbe1f5898ce3a4fe4e271428e5bdf978ea5a",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
