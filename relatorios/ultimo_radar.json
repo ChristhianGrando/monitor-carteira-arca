@@ -1,46 +1,46 @@
 [
   {
-    "titulo": "Ibovespa cai quase 1% com tensão EUA-Irã e pedido de recuperação extrajudicial da Braskem - Estadão",
-    "resumo": "Ibovespa cai quase 1% com tensão EUA-Irã e pedido de recuperação extrajudicial da Braskem Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmhBYzJPSXpVYU9HRzdGSFdvVmFhMklBNmdiUWdjVnZneTVrSGIzUTQ4Zjk0a21oU1o5NHhxNTJqUTlzR3QzdkFxMG9EaU5ISGZtN010QzlIV3ZjNkJsWGJnYjFPX1JnS1NFTERyLXkwdm9TX195dEJzbU8tVFUzUGxYOGdBZGxZYzlRX2JEWUpoa25YWGo0LWJaNnMzQkwweVVDQXV0UFZ3am5ZMTdxOXRqdXZXclVS0gG-AUFVX3lxTE43OUFDd3puWF94V0VjN1pyMVF2cld4UFFJaWtSbnhmNWdVelRWMXdZYnNLbUpMUlVYWkxocnB3eDBpSm9SeFJEaVpLTU9lVkZqRUN2ZXNIUDVVQUUxNDFoZ0x3UEpnM2JjV3hnaURvMGNPczdjZEFZWThIbkFfUy10RFFMRzJZUHdoOXUtcFNjQzI1Mkk3QTlTVFllREx4OHgxZFh2SXVESjE1UEM0Q3ZRQmRRdWtpc3VrWHByUnc?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2abeea1a769decaf9978d4ea2ac9fcb1f094f0428f686f80cf2f8ea67a487adf",
+    "titulo": "Banco Central quer que população faça uso responsável dos serviços financeiros, diz Gabriel Galípolo - O GLOBO",
+    "resumo": "Banco Central quer que população faça uso responsável dos serviços financeiros, diz Gabriel Galípolo O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOGgwQUI4RjRJMjZmdGNDNWZ0WWFOSGdKM293VVZUeGJINjZyT2VscDRuRE5WeFFDTlRBRllyUll5Y0FCSS11NzFTSEQ4c3RwN3RYOEs5LTk4WnZROWhSNXJYbWZaWHZVamNJa2k5MnNkTERvM0RSQUVsQjE3MU5PQlQ2WkNiUVp3dk1WSTZrRVd1SWxmMThfVGlnTU9nOWxjZDdWVzB4TkVjOG1QTHZvRWt3WUNILXl6Y1VCcDVQTHd1Q2tXNWRRa21nc19SRXNJb0pMRlVNbE5DbTctb1NhZ2t5NVF0b0ZSZ0dWbDQ2WdIB_gFBVV95cUxPWE5UdG5YcEtZUWxjRHljNGJXSlAxNXpqYVdlV1d3VnR6ZGRxeWo1Q2k1S3JTenp4LVlXWkJHQUFuVUdJM2RHY3k1LUNrYVJua2xHclkyTXF0eHNjTEJmVHJ0M2ZiU2hvNUNtV0wwX0p5R3pXa3RIaW0xdjF3T2lwQWptU1FacWUxRXVQLVdfMDBmOXNwY0JSSGlQbjdaMnNWVmZsQk8tdzRGVVFCVHdSdzRJTHNabjJuNlJ2REJIUmJtbm1kczluVWV0SUo5czNJUWdESFBKOVRHV3BMRlhJSV9FR3h2UkYyOS0zQ3RXY1JRQ0Nka0R3dWVUb3hnZw?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ccea32f08369213c3ea686485e7af175bb3e64e170c7ea7520f84d648d82e446",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P 500 e Nasdaq recuam enquanto as tensões com o Irã colocam os mercados à prova em uma semana de alto risco - TradingView",
-    "resumo": "S&P 500 e Nasdaq recuam enquanto as tensões com o Irã colocam os mercados à prova em uma semana de alto risco TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WWNldDZhRWp5aXdWNHhkUGk2eVBpWHZmVldpOG5YT0IyU21FZjlLN0pXbDNLaWxKelpFdV9HUnZOcnlyLWdPSnBTMmpkX0dmc3Z4MDBORGsxaHhaODJUdDc2OEhNcklWRExpalRkYnBudUswQXVv?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "6a155514987d97523ca0d58a417d04aec1f472b6f067896ff908d7e4151b649c",
+    "titulo": "Pix, às vezes, é vitima de fake news, diz o presidente do Banco Central - Estadão",
+    "resumo": "Pix, às vezes, é vitima de fake news, diz o presidente do Banco Central Estadão",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0Z4WUluSEpIV1QtMXVyS2dfYk4wSThPeldtdzhGWmlnTndCWXlENkJrN3hZNndYN3RQU3liZmZSYlJfbUhHdXhINUpoODZNa1RKd3pXdzREWE5sckJrNmNGb1YwRDZtTmFNeGpIa2xzdndEOGNXcWF0ajMxTlRVbV9uR0VpNzlhdzhFbHFCT0FWclJ5RHcwUlJn0gGfAUFVX3lxTE9FVFh3NVhITUJ2T09MVkhUTHhvYzdlYWZCLXVkWHFjeEJNa1ZQeVN1VVZfZTdDR01VbDhTbUkzNWRpcDgxOWtwVVYtaGFxdHpZaUJVeHJzakNucHVTbnBLYWYzaEU0cVNTZ2NLb3N5T1dYTWVPY0t1MXdsaXpaTFhNOTVmYnhKZ1dIb0V3T3hFRURWWk1sSTcwMWltVzdOcw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "67ece44c357896e60e3f42267bff42cd9659a5cfaca1c72874d4256850d3835c",
     "ativos": [
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
