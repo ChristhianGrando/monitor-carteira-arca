@@ -1,37 +1,5 @@
 [
   {
-    "data_envio": "2026-07-24 21:20:36",
-    "chave": "886a7690fda246345942525ef182e8de1c083afe196206e66174e46dbd3f3057",
-    "titulo": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RZHpvdFpfWDhVcmRPQVlzTHgxQ255c1ZYQzk2OGNyeVh5ems3aE5oVTBmSk9GOEhwNk1Qdm9WR1otOEdwRDZKTGN5bHdQdFEza29IUnNjaTRvNXFqV3U4aW9VdDd4dw?oc=5",
-    "fonte": "Money Times",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 21:20:36",
-    "chave": "a3fbf6e11e0877d6915f08f517712718ceba25879c28579aab7e492d84721e43",
-    "titulo": "Fundos de papel indexados ao CDI estão imbatíveis, diz gestor de FIIs - Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVnpFcC13dzB1UmJfUFdvTURyTnkwOU44elFYNmZSR0xWZDBNT1JNUjk0ZmYyYXNCZkNRdkJJVERiRVQxVHJ0RkFZSmFRQXNNazk3RE0yRHVDbHlTRTZNUmpIZnVhaUd5akExSy1QQTg4X2xpMnVVT2RlejVCVHM3WjFKZERHR2J6WXNfX1Q5enBnMjBrWmE5Z3BQa09BbmxLMWhTWEFTU005ZWt0Z3dUUGVXZi0xenFHeFZDNTB0bXRjTllsRGREeHNwaGdvR1RLTjNrZzA0ZGVDYndBNHYxcnRjbEUwMkR00gH3AUFVX3lxTE5DNkdYUkh1VExxeVlUSGVKVHpqaTdZNnRObU83QW1KYkVZX0xzU1JlYVREanRoR3RuRlhpSW9OZktWZkRoUk9RN09OYWxSTWh0UDRVRmEzMVMxRlVjT3VuSlQ5bWlLZ0JhQTJra2poUmUwMkRkVHVoNUMxbHdjWmRLaUlWQU5JbzFLOGV5MkpNeGkwbnJ2WWNEOHZGbTN2bm80cEJHejdUTmo5dk5SVWtmQnlsSkdvTGs1RnN4aGY3VGQyeXhtRDhHSUowa3J1NGdxd2ZEVUNaRjhoV1pNMkhIQW0yMDJVUXVTaXFqQTZ3VzA1bXlIZDQ?oc=5",
-    "fonte": "Valor Investe",
-    "score": 9,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-24 23:16:30",
     "chave": "5aaea269fdf4e1bc53d2c94cd9e66adc3f06f968a775f815cc5800b3066f9b78",
     "titulo": "S&P 500 e Nasdaq caem enquanto os investidores lidam com balanços, riscos no Oriente Médio e tarifas - Notícias Agrícolas",
@@ -17290,6 +17258,38 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 14:59:54",
+    "chave": "2abeea1a769decaf9978d4ea2ac9fcb1f094f0428f686f80cf2f8ea67a487adf",
+    "titulo": "Ibovespa cai quase 1% com tensão EUA-Irã e pedido de recuperação extrajudicial da Braskem - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmhBYzJPSXpVYU9HRzdGSFdvVmFhMklBNmdiUWdjVnZneTVrSGIzUTQ4Zjk0a21oU1o5NHhxNTJqUTlzR3QzdkFxMG9EaU5ISGZtN010QzlIV3ZjNkJsWGJnYjFPX1JnS1NFTERyLXkwdm9TX195dEJzbU8tVFUzUGxYOGdBZGxZYzlRX2JEWUpoa25YWGo0LWJaNnMzQkwweVVDQXV0UFZ3am5ZMTdxOXRqdXZXclVS0gG-AUFVX3lxTE43OUFDd3puWF94V0VjN1pyMVF2cld4UFFJaWtSbnhmNWdVelRWMXdZYnNLbUpMUlVYWkxocnB3eDBpSm9SeFJEaVpLTU9lVkZqRUN2ZXNIUDVVQUUxNDFoZ0x3UEpnM2JjV3hnaURvMGNPczdjZEFZWThIbkFfUy10RFFMRzJZUHdoOXUtcFNjQzI1Mkk3QTlTVFllREx4OHgxZFh2SXVESjE1UEM0Q3ZRQmRRdWtpc3VrWHByUnc?oc=5",
+    "fonte": "Estadão",
+    "score": 9,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 14:59:54",
+    "chave": "6a155514987d97523ca0d58a417d04aec1f472b6f067896ff908d7e4151b649c",
+    "titulo": "S&P 500 e Nasdaq recuam enquanto as tensões com o Irã colocam os mercados à prova em uma semana de alto risco - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WWNldDZhRWp5aXdWNHhkUGk2eVBpWHZmVldpOG5YT0IyU21FZjlLN0pXbDNLaWxKelpFdV9HUnZOcnlyLWdPSnBTMmpkX0dmc3Z4MDBORGsxaHhaODJUdDc2OEhNcklWRExpalRkYnBudUswQXVv?oc=5",
+    "fonte": "TradingView",
+    "score": 9,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ]
   }
 ]

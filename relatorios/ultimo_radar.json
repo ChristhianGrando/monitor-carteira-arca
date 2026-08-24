@@ -1,72 +1,46 @@
 [
   {
-    "titulo": "Calendário Econômico: IPCA-15, Jackson Hole e os rumos do emprego no Brasil dominam a agenda da semana - ISTOÉ DINHEIRO",
-    "resumo": "Calendário Econômico: IPCA-15, Jackson Hole e os rumos do emprego no Brasil dominam a agenda da semana ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV9Ea1pyX2VvUHRRYW5lV3o3aTZzMFJDZjhpSEZRZTRybjdEVDRhOVZneWpPSTRZdjI0SEZlYW1JUVMzU3ZXX1dHOG5pUnJjUEg4ZmdUcUlwUGlYWFlYRnhEdzR3enlNbUFkbUM5cGZlb3ByQ1UwNDZNczlGT2twRk9RenJVbXRKNEprMllVenEzX2x1bEdadlZvRWZnVWFfbTRqazhjUjdJOERV?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
+    "titulo": "Ibovespa cai quase 1% com tensão EUA-Irã e pedido de recuperação extrajudicial da Braskem - Estadão",
+    "resumo": "Ibovespa cai quase 1% com tensão EUA-Irã e pedido de recuperação extrajudicial da Braskem Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmhBYzJPSXpVYU9HRzdGSFdvVmFhMklBNmdiUWdjVnZneTVrSGIzUTQ4Zjk0a21oU1o5NHhxNTJqUTlzR3QzdkFxMG9EaU5ISGZtN010QzlIV3ZjNkJsWGJnYjFPX1JnS1NFTERyLXkwdm9TX195dEJzbU8tVFUzUGxYOGdBZGxZYzlRX2JEWUpoa25YWGo0LWJaNnMzQkwweVVDQXV0UFZ3am5ZMTdxOXRqdXZXclVS0gG-AUFVX3lxTE43OUFDd3puWF94V0VjN1pyMVF2cld4UFFJaWtSbnhmNWdVelRWMXdZYnNLbUpMUlVYWkxocnB3eDBpSm9SeFJEaVpLTU9lVkZqRUN2ZXNIUDVVQUUxNDFoZ0x3UEpnM2JjV3hnaURvMGNPczdjZEFZWThIbkFfUy10RFFMRzJZUHdoOXUtcFNjQzI1Mkk3QTlTVFllREx4OHgxZFh2SXVESjE1UEM0Q3ZRQmRRdWtpc3VrWHByUnc?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a31c28815bca122eab7a25d20e4de863d0052c4f3b966ff2b4f25b56acde1fea",
+    "chave": "2abeea1a769decaf9978d4ea2ac9fcb1f094f0428f686f80cf2f8ea67a487adf",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 12,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central mantém inflação em 5,02% e reduz projeção do PIB para 1,95% - Vero Notícias",
-    "resumo": "Banco Central mantém inflação em 5,02% e reduz projeção do PIB para 1,95% Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1Q5MS1YZmwtNkRDTm1RbkNJS052azI1UXNKZm41YW0zOTRPQ2tmRDRGMlhvSlVaaC10S3JXYmlxNEN3MndSQWxrSVJ4d2NvX0dvVG1VMTdqcWZrS3Q0LVI0SDZSNUxiV3JtQ2ZLZnpiUXc3TmdOSDdXWE5WSUxVVS1NZWZ6TXJEeHA0TWtmT1pyOWJnS0s0VDJDSm9qSW53Y05tdW5Pdw?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "db95d71a03a3a8a22487a5cdfefe54d8f7c19ec6f5241db15837948596ccd425",
+    "titulo": "S&P 500 e Nasdaq recuam enquanto as tensões com o Irã colocam os mercados à prova em uma semana de alto risco - TradingView",
+    "resumo": "S&P 500 e Nasdaq recuam enquanto as tensões com o Irã colocam os mercados à prova em uma semana de alto risco TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WWNldDZhRWp5aXdWNHhkUGk2eVBpWHZmVldpOG5YT0IyU21FZjlLN0pXbDNLaWxKelpFdV9HUnZOcnlyLWdPSnBTMmpkX0dmc3Z4MDBORGsxaHhaODJUdDc2OEhNcklWRExpalRkYnBudUswQXVv?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "6a155514987d97523ca0d58a417d04aec1f472b6f067896ff908d7e4151b649c",
     "ativos": [
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Boletim Focus: expectativas para inflação e juros em 2026 são mantidas - Estadão",
-    "resumo": "Boletim Focus: expectativas para inflação e juros em 2026 são mantidas Estadão",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFlPYTNSMDVZbUpGR05DZTV5SkhZck1GMnNjdlBNclRER1RnTTBGNFE4SzlwcFpkTGZYRmVRUGRKZ094M3YyNjZmYm9qYjJJUWV3dV9qVXJLd3o1Sk4tOTVxZGZ0emNzVGw2WWEzMkpmZDBQSEpDdzFCOVZ0SUd3UTNDNzhDQnFjN1ctSWxlRDdJRWxZRnpFNFZaaFV6eV9EVnB4SWE4LU8tZVNMdzQ0YWpqVm9xUGVhbzJTUlJWRWpxOEJMSEHSAcsBQVVfeXFMTkFmTXRTbG9fV2c0MjZ5eWlqY014SzZXdzhiQTZFbk4wamh6WWlDQUVpNnZ5RWF1MEZjcWg0N2l3Q2lBUkpqZDk5QUo3TFE0djJCTF9WWHNZbXRRNVpCX2VhaTdUOWpoeExlVk5CWUpOamJhQWxqUTlYNmNYOWF3SGZFUVk1NTJuNHVlYWktb3pzNGN2eWV0RUtiR3BCRnk3SVVScXFCaXFEZUZ4dDJCejdfempEODBVZUJSbEdBbVJ4TUplWDN2TVdmTVE?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5c37481e6702283a8d30dcf408d0d91c74dd930d3f1cd34f308c304618e4b560",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
