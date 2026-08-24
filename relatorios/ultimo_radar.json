@@ -1,26 +1,24 @@
 [
   {
-    "titulo": "Tecnologia impulsiona S&P 500 a máxima recorde, petróleo e inflação ao produtor enfraquecem - Notícias Agrícolas",
-    "resumo": "Tecnologia impulsiona S&P 500 a máxima recorde, petróleo e inflação ao produtor enfraquecem Notícias Agrícolas",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLXE4Z0hnYjFESVpiaEJ6MC0ybTFIUVdFcXR3WFhVRldBMWV2eTdMQy1Ha2QyU1ZkTWtnSnh0Tmk5MU1WY2NFaGJnOWszLTRPeGFRanVfRG1VaFFBN0xONGNNMTduWEd1R1RIaVVtMGZEc2R5Q2ZyeTlSdHBIM3NsVnpkdlVNRTl4V0NOa2NWZTJaVTEyMThXREc3QW9TNk9uWHZ4V0l4QzNBMGdBU0gwUElndUhkanlVMy1hR0Z1MUl5Q2pLMzYydnA5ZEF0Ti11dVZQdDB0S29qVUI2Q3BsZjczNzNlSXpWdVktdDNvekgySmEtUnNPbNIB_gFBVV95cUxNSVhZek9yRGkxM2IwRnJQMklzbWpJSlNZM21IdzBCTzhLVmJ6R0xYa05HTkhvT28zd0xXRjRBaE1SRVhYOU1BQ0VJOTR6XzdmenRnR1ZLSFI3UUtVQmQtMDRKMU1XVmZnM0lWdU5wTjgyQm9OR1hIR0djaTh3SjdHdFk3anVNNVRxb0d1Z3JjUEkxdjZCWjl0VVk5dGUyREVFRE9NSXBweHF2aEpHQjBfajk5Zjdmci15MW9HX1FjOFg1NFRhNTJEZzFiVGZfcFA5WGxaYTB3RmFiZG5oa2FBU092RjBTcXZKbC1RZHhLTjVRQVNUcGFCZmwzYnREQQ?oc=5",
-    "fonte": "Notícias Agrícolas",
+    "titulo": "Dow Jones despenca 700 pontos e S&P 500 cai após plano do Tesouro para conter os rendimentos fracassar - timesbrasil.com.br",
+    "resumo": "Dow Jones despenca 700 pontos e S&P 500 cai após plano do Tesouro para conter os rendimentos fracassar timesbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZUpObmFKMDM4WUxqMWpaU0dlbTByb1JCSEJ5Slgxb1NMUWwwWGkzSS1mSTFLMGNyLUNmRmxscm1ZcHVQTmNuOWhmUEp6cTU0SkcwUDhrWDlKZ3JtS2JNZ1N2OE1WUG5Xbk9VVU5rLUtUMGJ4cEczZ1ltclVldldzbHZYa2NoRFdtZ3JYcjNhRGdhTFFMTGRvVG9EM05ZdG5SUS1iTmMyNFJ0dmxyYnBza00zMU9zYlp6RHhZRlo1c0xHQk9WdU42aExmZVI2eV9KRUlEY0ZYSnZWQm92TXBlRmtqQQ?oc=5",
+    "fonte": "timesbrasil.com.br",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "4deb3c557dcd388df3735219eec703ba2f3123924300d14b0907b98ec95eb827",
+    "chave": "9878e6bd9278ee527bcae823e34de654262c45378abfd36002cea75cda609cce",
     "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
