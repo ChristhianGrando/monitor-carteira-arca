@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "titulo": "Ibovespa sobe 1,84%; dólar cai a 5,1443 - brasilagro.com.br",
+    "resumo": "Ibovespa sobe 1,84%; dólar cai a 5,1443 brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlk4NVp5T2NXaVBvb3QxbWpIRkRITVh1eE90TXRIRXBoTE9jOEhLSktIY3RqT0w5QzM4VlQ4d2hXTVpIamc4eTRtUVhoZlQ0blg1RnVHN01yeHNfaTQ5S21hbWxHTlltVlRBZm0tZEN2VHAtQmhDV0QybDUxTFZYdUtqZTY4dw?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "73bb6b351febe5728c99557ffe903aa2693fc2f99c0ce1fcdd850e8ef8df58c2",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]

@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-24 15:44:26",
-    "chave": "3ba087eb82950a5873ae01fef688cfde44d3fa356f4529fcd48361c8f51c9782",
-    "titulo": "FMI elogia Pix e cobra autonomia financeira do Banco Central - Opinião em Pauta",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTExFLXVXcGIzYTAzM0NldEJDVmhmVzBhVXdmU3FUR0tvUWlvSG8zZ2RQWEE0NG9QeGZOLUJ6Wi1VY2x6RkNPNzBhMmt2OWNZanJ3SmMtTV91SHY2b2NpVFc4eWdCaGNHUHJrSG1ZZWVjeTBmUVFBUWgweXltNkkzZEdKT3U1eERTdnJBNmxlVHRNTFZObHc?oc=5",
-    "fonte": "Opinião em Pauta",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-24 17:51:57",
     "chave": "412fe26592c51c05c9b518e700968a276e3d095a399b097bd895f9e394a71099",
     "titulo": "Galípolo: Copom avalia “plano de voo” que pode levar inflação para mais perto da meta - InfoMoney",
@@ -17268,6 +17253,23 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 07:20:27",
+    "chave": "73bb6b351febe5728c99557ffe903aa2693fc2f99c0ce1fcdd850e8ef8df58c2",
+    "titulo": "Ibovespa sobe 1,84%; dólar cai a 5,1443 - brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlk4NVp5T2NXaVBvb3QxbWpIRkRITVh1eE90TXRIRXBoTE9jOEhLSktIY3RqT0w5QzM4VlQ4d2hXTVpIamc4eTRtUVhoZlQ0blg1RnVHN01yeHNfaTQ5S21hbWxHTlltVlRBZm0tZEN2VHAtQmhDV0QybDUxTFZYdUtqZTY4dw?oc=5",
+    "fonte": "brasilagro.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
