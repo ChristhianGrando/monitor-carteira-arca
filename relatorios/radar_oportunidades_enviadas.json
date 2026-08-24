@@ -1,86 +1,5 @@
 [
   {
-    "data_envio": "2026-07-24 17:51:57",
-    "chave": "7d3daf7245d21116c812e035ff5492c5e5bd6d2fbd0773fde668238fac51b452",
-    "titulo": "Galípolo: Banco Central manterá juros elevados enquanto inflação exigir - Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0lOOU9UYm4zdUZCdEtvblh5bG5FQ2ZGZnl3c2VNUVE1Mk5vZjdrRVExSmpjSFU4ek96X1gxdEVjYm95OHBSNVI0SmVFNmlyRlNIU3dPMlh3aHdkc1ZZd0ltOHNvQnZHYUhieF9xOUo4RUFkLUpvbWJ2X2s2N1VRN1FHZm93Q2ZoT0ViU181Q0JxRGJFVUZrZXBJWF91NnlUQjVOQ1FuTE1mQ1pScmxQSm1iZzVkTHB2NWlHWlNoQm1la1AzX2gyRDlaSmhmZw?oc=5",
-    "fonte": "Jornal do Comércio",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 19:46:50",
-    "chave": "dafdccee789ac235ee6c288b75e2a4daaa8402b7aba9bc0578ba212775ad2386",
-    "titulo": "Dólar e Ibovespa operam em queda, com petróleo e tarifaço no radar - G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SWHlQam5IMDJGWkgxMkJFMGpMT1ZxNGozTDluMVdfa2Y2NjFEM1BIbE1ibnNBNTRjT2hnMXJWX1B1ZGlYd3J6aG5WYnFKLV9aeHdNSnJXYXJzdnJuVlc3YVJpRWVXdlRwUHJMUUl0Tjl5UUVlbWl3YdIBhwFBVV95cUxOZkV5UHQ1VFFhSkNpSlZGcnFGRGZObWF2VlNLNlZTaHlVN2duREY3ODFrOERaaEVaRmhfd0ktRmR2TmRsWlhLbHU0VUViV2hYVmNPSnRwdng4V0hRUC1UcDZMTGtLQWlKODdORlpDcmlNOV9NNncwYWkzd3BqWEZicWxnRlBHQmM?oc=5",
-    "fonte": "G1",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 19:46:50",
-    "chave": "f1d7df007053ed9803aad3d2bbf8be2d61485d64036abb14c28d68a256a15814",
-    "titulo": "Copom avalia diferentes planos de voo para deixar inflação mais perto da meta, diz Galípolo - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXota1JWWkZsQXpDMzFwWjh6RW5fd3k3ajVfR29ZazNHbjJYZlBKd2g3ZWpob0IzZUF1aVE1QWg3b1pJX0lqb1pSdno0ZEVyd0l6U2MzLW9ldVV5RVdmeTczeGc4d3NrVmZ0V2dyRnlxcHR4RWsxZVFtelBydGxXTmJEMU5zdHo1aFpZaA?oc=5",
-    "fonte": "Estadão",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 19:46:50",
-    "chave": "bc6d8dd3d71f25d01ec136b480b9453098371b6b20ae4ac7f7af002e3cb14a4d",
-    "titulo": "Banco Central adotará cautela na definição dos juros, afirma Galípolo - A Crítica de Campo Grande",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaC1JLUpHZHd3eUgxNnJvdWlhaHFGN2tVeVNaeEE3UWY5czl0X1NWMVE0MjlaTVAtd3ZmSVlfR2tGWVlSdzd1bFlxVU10Tnp6WFFJd0FldHd0NF9uRU0wZWJ6TVpfX1BWNHduZl9HYXFOaDNuT0VTRjhDdTNUYU81Q09vR0FIVWhGb25oTFNuajNRa2JQWE9OUHRZQ21BU3pf?oc=5",
-    "fonte": "A Crítica de Campo Grande",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 19:46:50",
-    "chave": "fe9051fb47f89b98effce2ee2fe81692169ebe33e5479398bf4f7db00851595c",
-    "titulo": "Ibovespa abre em queda com nova tarifa dos EUA no radar - trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3pDMmlkU2tid2JRcEdDU1hoOXZZQWgyLXMwOUYxNFRVWS05UFAzMjUxTEZqekRDVVJHYU1leHBfY3lHNXJpSUNBcnVYZjFTYjdfaVRCQndMa1E0ZGktLUxVdkVLTTFBLU5LNU0wUVNYMm9DQ1ZxN1Qta1UxenhyaTRJOEpqSy1JSV9NMjlVZ3M?oc=5",
-    "fonte": "trademap.com.br",
-    "score": 9,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-24 19:46:50",
     "chave": "e336a0c086501bda15bd436d245051e5cda58775f95dca328a63e607eaeda0a9",
     "titulo": "Tesla despenca 14,1% e Musk perde US$ 18,6 bi em 1 dia - Poder360",
@@ -17276,6 +17195,101 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 13:12:43",
+    "chave": "93cc26306f842fbf2def9487c0b01475c3f7936ef5c2cd9277081114d31bcd09",
+    "titulo": "Mercado mantém projeção para IPCA de 2026 e reduz para crescimento do PIB, aponta Focus - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeVBTYUZHbXYzTG5fb01KRjI3cElYSF9XUFFGX19zc2VoVXE2WmNjdDlyOGlFZ3AxS2h5WXZ5SENwMUFlVnJPUURTYVNZdUpEOE9HN3VFQUhaZy12OWdEdWl2OHBBbjN1LXZZWjQwbzVmSjk2SU1yZ1VWVmlRb2RzMGhDSjBrdExpc3IzSWU1bk1nRnppb3dHQWRxaVVRMjZyYmIxeHFYbUxFa2ZIejJMU1UwVTk2ZGp3X0FGaDVBV0k1LXRpeWFfUjFiQjBPZVpYeWdJbDlWMTJsQdIB6AFBVV95cUxOT1F0WS1vV05QUkcyMG9sR1NvRUd5ZlZ2NFVCYkN6RzBGSGVac1F0OEdvZnpNcFVFZ3RLSHd4UlN2V2pIcjROZFFsWXZOeXRHd2VHeGRMWWxaZjVlTy1hQ1V4cEhoZ3BabzhTVmlJRE5KV2RKR0M0ZmxpTEFTSnd5aUZZTWVNZnd5MUNKakRZT1BqWUQ3MXZFNTIwWm9uVHFwajNkTVVUZld2SEZZa2RuemI4TzhUc3h1QUpDUkdFRWNpd00zMkNrWC1hTXZXblZ0LW5pWEloendCTlhTMVg5TmlNbExiWWtj?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 13:12:43",
+    "chave": "a68045ce8a2a03151ae1c291d53c7fa2907305157a72f705b3a06b5fc3f759fb",
+    "titulo": "Focus mantém IPCA de 2026 em 5,02%, acima do teto da meta - Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObENua1Nfc0ttcEFULWNMMG5Fa0FJb3ZRamZjVVN4M3lxMlhMVVZINjlLUmFhZi1QX1JEdHlwLTNmOHh6Ymw0SXlDSVpncG9fTGJFVmNBSFVpUjQ5UDdKZmlELXFPVmlZeGFmTWs4NDk4ZWtpU1NMVGpoNXRqRDZiLUpRWExjWGt3cS16ckFKTlZUakk2blVEdy1R?oc=5",
+    "fonte": "Canal Rural",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 13:12:43",
+    "chave": "763c75a988e178d60b2f067eac9d515ab979943dd052981751f291d57a6c7e7b",
+    "titulo": "Mediana de IPCA 2026 segue em 5,02%, acima do teto da meta de inflação, aponta Focus - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb3FwZkwzYXBtbktXQkhXb05ZcEtPRnc0R255Umh2UXVvaGlHVjM3ZVF0bzNUdnBwV1hGRnFXVFhPdXc0UjFJcVl0ajhHd0tsaDFaQ0JlcjgyNnlvNThUZnl2ZG52SXZNc0JXdFZFYnE0OWx6SVllS2M1bTNieDNuTVhKa1pyUnNmRFJHUWYza2R2T0JWY3lKZjQ4eGs4SE81dXplTmVMMzBpVFUxeGx2VTlqWDFKM3V3SmUwTDE4dWpPdjNyYkZvS0hJU0w1a2ZaQ043Z2F1eFFvUDBjaTNGeDY2dw?oc=5",
+    "fonte": "UOL Economia",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 13:12:43",
+    "chave": "269dff03bb125f3a16e9f896cb37f05d657fa564e2bf5b69f43da487ba6bd00e",
+    "titulo": "Selic deve fechar 2026 em 13,75%, aponta Focus pela terceira semana seguida - Correio do Povo",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSV9QSk5KN0pobDBhWmxGdDYxbEFhWm9aVFN3STR3OWx1aDJxcUhIR1BJdUVzWTlBeXh5ckFwTER5bVNiRDdfV0F5YU93dHdCd0tndkR0YmdhcVhmUkpFYjJsMkY4cHhsU3c5QUNBVG5vWkV5X2ZwTkhRd0VuZVVzZW80MEpoYnNhZkx1Z2k1V1g2ZkpoX3ZodHBMMFh5QkktYmM5U2hKelVsemV0UmxkOU50RzRRUFNhajUyc2RwQ2JRdlRCVFlMSHdOVGhSV0hIeTZkMg?oc=5",
+    "fonte": "Correio do Povo",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 13:12:43",
+    "chave": "d5031e05be1c3f4f1df2e282cf9603d876471177a563679ace2037c4c98f6cab",
+    "titulo": "Boletim Focus – Mercado mantém inflação e Selic e reduz projeção para o PIB de 2026 - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2ZUWXpQckFTekg3MjUwaUZSZkNOTFVKSFZ5anNGS2xST21Vdm5jRzNyZ2FsY29jQUxuOU0wWVZlM0JXNEZPR3J6QUUtT1F5WjE1M01WWFVtNlRsWWdZS2hRbzFyNlpFWDN1bkVUVEdmMDc3ZTNXRjQyQVU4eU5EcF9ReHFxR0tBNUtYLWNadHJsaXJndnU5ZG9EWkw4QzJKZmVROHlOVElKR1UzN05XdWlTemdpSGwx?oc=5",
+    "fonte": "ADVFN",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
