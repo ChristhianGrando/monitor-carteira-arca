@@ -1,24 +1,49 @@
 [
   {
-    "titulo": "S&P 500 e Nasdaq caem pressionados por ‘techs’, apesar de recuo nos juros e no petróleo - Valor Econômico",
-    "resumo": "S&P 500 e Nasdaq caem pressionados por ‘techs’, apesar de recuo nos juros e no petróleo Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGFKTmp0ZWdoRUpVcUpaa1V0Y1FDUmhGYV84U1ZwUVhxV0NkZDFtc3hvWFlSY0pnd1pwdHpLTER4TXlxcXgtZEI2MXRrNzJTM1FIWGtlOWdPOG9nanVvbE0xSjNscHVIQ05HN2JycC1wdVMtcy1xeTlSdlNuYVBkWUdyaUZVQWlWYy1FUEVmUjJnS1VPTFBYTlRYT1FqZWRoRy10anBYTTNWalktMU4wbG5USjNzbnJablFUZGotcUkzSkwxdUZnQmt1SWF5bGxHTXlRR2J2UGRuajgt0gHrAUFVX3lxTFA3T3N0WVRRWXR0bGUwM0dhZHM1NERuTjYzenhMTGIxWURMMGh2Q2c0NlBGR1ROVzdrMFkzY1Z1YjRYTUhYZE5iOG5UZWh4UDF6dnVxQnVfTVhkRHJGdTVNcl92aWs3OTI5S2ZiRXR5QjJta29BYndoS2IyaFVtTzhzR3ZoUFNiOXdJaDFsUG5yUk1kNmoyUkNjeGV0S0o2WEFzUjFXa1ZmR25JSi04V3BxQ3BoaWpiVlRCeW11dEV1U1h1YjB0OWYxVlN5dkFtWGg3ODFKMHBrLVFiNUo2TFp2dHdfZmZabjAxclE?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "baa45e00e0a6d6728009621f8d59d92e7360553aebf2142d4dc9d8fedc813278",
+    "titulo": "Selic Alta Preocupa Mais a Construção Civil do Que Carga Tributária e Custo de Mão de Obra - Forbes Brasil",
+    "resumo": "Selic Alta Preocupa Mais a Construção Civil do Que Carga Tributária e Custo de Mão de Obra Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3NzVk1FWDhJLWxHRlhydGlQQ05OZ0RWLTdaRGw5azFhOTUyZHBKZmNJQXE1Qlk5S0pqZUlCckNTUm9MQjd5SWhJY3BvV0Vsc19sTTRFREZHcURYMVBZU1RTQWtvMVh3ZGQtRkxIWGFwV3UwVTJmSFBQMHBaRkIyaVpYVndITHA2U2lhR0poc05TaUJJQnU4c2E1RDRUNzBDdE96Yk9R?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c7bec3433c48ad405bcf2b4a337e315bb2c262a5cf370756fc70212d7c1779cc",
     "ativos": [
-      "WRLD11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com VALE3; PETR4 e BRKM5 despencam - InfoMoney",
+    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com VALE3; PETR4 e BRKM5 despencam InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWjN4WTk0TndrY09OZWNDaHpOVHB0WlVIbXo5V2hYdG1BVlhYVTVyUkZPdk1ZRFFWc0pjSDBGazBHT0NuMmF1blFMMV82Y3VOZzFqWkllMHpGcHdpREdrMW5WZF9DREZEZHZvMWFrN3M0YTZPVHU0Rjl5NE1ldEdXWllQUGQtSHRiV1JBR0VEVQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "75ea469fc6564f6606f24fa755536a63c5910ae42e329081be4543e26710ad9c",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
