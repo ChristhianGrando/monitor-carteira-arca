@@ -1,23 +1,6 @@
 [
   {
     "data_envio": "2026-07-24 23:16:30",
-    "chave": "a83515c5ef86d939c0272a650124eda10431364c2b5fa2d635252cbdcee1206a",
-    "titulo": "Ibovespa cai 1,5% com recuo da Petrobras (PETR4); dólar fica estável - Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmFaRDg4aHkzSDRiaHNYei1zczlBNk00VmlDQTlmSEhVeWJJaDMwYmJNNVBfNjZVa2xPZUExQWpQWWZTQW9hUDFoQnppVUVOekZ2NHctMGVIb2lUeEF3RWExcW1ab2hKandrTDBKSFpQUEFJSFpNeG90Y3pxNXNkTC1lT2xuN3J2TUFobDl1LXlmYkZzdEUySWl0U1dvcVNjM21ZMjJBaTNPQlHSAb8BQVVfeXFMTUg0bnFaQ1pVWU5TR3hKNUZpZ1pNa2pOZzJ1bTRaeXVOS0EyaTVQZ3RYUF9jQ3NnZVduMWtJVzRxbThMellLTTNlZE8wU0lrdXlob0VxN2pnLTh0T1E4T1doS1k2eEVXbEVkbHo4cWUwUzF0Y1JMZTBLOGRlRUJGbUgtbURwdC1oR3ROSEFNbUhWTXB6ejdtVzZIcnkyS3VBSjhKd0wzZU5JMXRUVkg1QU9JSnNsZW1tQnNlZEp3ZFk?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 23:16:30",
     "chave": "a67b6cc022d595020122aa2c029929a52e8920e66341fcf1e5760c61d695ff05",
     "titulo": "Ibovespa fecha em queda de 1,52% e dólar comercial recua a R$ 5,0809 - Canal Rural",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUZOaU5rNjFjMnRyUWFJWG9YdXdoSlBlZWRCa3BlTm95c3otcEJaZmJxempWX3RraWU3Y0FGLWV3RzFPQklRYTAwMUgyVUptXzY5WXVHRW1HZUNxYXJaaHZlcEd6OWlPcmdpT0RGY294clpDVWNtWmdhYWVXUUZBV2QwOERldkVsZnJBeXg3NEt6NXNSWEdxdE9ucktkZXZzNGdRZkRqQQ?oc=5",
@@ -17288,6 +17271,23 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 16:55:26",
+    "chave": "5ffa4dc50ebcfd9520330d6cb50d16302bcabc511861ec6bd7ec6ca2d73c7f36",
+    "titulo": "Banco Central alerta para alta da dívida e da inadimplência - SBT News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnY0V1A1Z05uZmFyamZmMmItYU11cUdZaVczMGVIRHVIdF82dmc5d0QtY250cDk5N0dpTTA3aUFPcmRBNnhNT2NUSHh5QkRoZEhDMkJpc2lqYlFmV2FMQWpvWUxfYXM5S0tyWTBYVkROVGdFQVFab2VvNnNNT2lHNnp5bjVGNEljb0ViRnFvaEt0NmhCQzU5NlN3cU9Ka1BmNXlXS1VB?oc=5",
+    "fonte": "SBT News",
+    "score": 15,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]

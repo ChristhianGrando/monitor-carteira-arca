@@ -1,46 +1,27 @@
 [
   {
-    "titulo": "Banco Central quer que população faça uso responsável dos serviços financeiros, diz Gabriel Galípolo - O GLOBO",
-    "resumo": "Banco Central quer que população faça uso responsável dos serviços financeiros, diz Gabriel Galípolo O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOGgwQUI4RjRJMjZmdGNDNWZ0WWFOSGdKM293VVZUeGJINjZyT2VscDRuRE5WeFFDTlRBRllyUll5Y0FCSS11NzFTSEQ4c3RwN3RYOEs5LTk4WnZROWhSNXJYbWZaWHZVamNJa2k5MnNkTERvM0RSQUVsQjE3MU5PQlQ2WkNiUVp3dk1WSTZrRVd1SWxmMThfVGlnTU9nOWxjZDdWVzB4TkVjOG1QTHZvRWt3WUNILXl6Y1VCcDVQTHd1Q2tXNWRRa21nc19SRXNJb0pMRlVNbE5DbTctb1NhZ2t5NVF0b0ZSZ0dWbDQ2WdIB_gFBVV95cUxPWE5UdG5YcEtZUWxjRHljNGJXSlAxNXpqYVdlV1d3VnR6ZGRxeWo1Q2k1S3JTenp4LVlXWkJHQUFuVUdJM2RHY3k1LUNrYVJua2xHclkyTXF0eHNjTEJmVHJ0M2ZiU2hvNUNtV0wwX0p5R3pXa3RIaW0xdjF3T2lwQWptU1FacWUxRXVQLVdfMDBmOXNwY0JSSGlQbjdaMnNWVmZsQk8tdzRGVVFCVHdSdzRJTHNabjJuNlJ2REJIUmJtbm1kczluVWV0SUo5czNJUWdESFBKOVRHV3BMRlhJSV9FR3h2UkYyOS0zQ3RXY1JRQ0Nka0R3dWVUb3hnZw?oc=5",
-    "fonte": "O GLOBO",
+    "titulo": "Banco Central alerta para alta da dívida e da inadimplência - SBT News",
+    "resumo": "Banco Central alerta para alta da dívida e da inadimplência SBT News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnY0V1A1Z05uZmFyamZmMmItYU11cUdZaVczMGVIRHVIdF82dmc5d0QtY250cDk5N0dpTTA3aUFPcmRBNnhNT2NUSHh5QkRoZEhDMkJpc2lqYlFmV2FMQWpvWUxfYXM5S0tyWTBYVkROVGdFQVFab2VvNnNNT2lHNnp5bjVGNEljb0ViRnFvaEt0NmhCQzU5NlN3cU9Ka1BmNXlXS1VB?oc=5",
+    "fonte": "SBT News",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ccea32f08369213c3ea686485e7af175bb3e64e170c7ea7520f84d648d82e446",
+    "chave": "5ffa4dc50ebcfd9520330d6cb50d16302bcabc511861ec6bd7ec6ca2d73c7f36",
     "ativos": [
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Pix, às vezes, é vitima de fake news, diz o presidente do Banco Central - Estadão",
-    "resumo": "Pix, às vezes, é vitima de fake news, diz o presidente do Banco Central Estadão",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0Z4WUluSEpIV1QtMXVyS2dfYk4wSThPeldtdzhGWmlnTndCWXlENkJrN3hZNndYN3RQU3liZmZSYlJfbUhHdXhINUpoODZNa1RKd3pXdzREWE5sckJrNmNGb1YwRDZtTmFNeGpIa2xzdndEOGNXcWF0ajMxTlRVbV9uR0VpNzlhdzhFbHFCT0FWclJ5RHcwUlJn0gGfAUFVX3lxTE9FVFh3NVhITUJ2T09MVkhUTHhvYzdlYWZCLXVkWHFjeEJNa1ZQeVN1VVZfZTdDR01VbDhTbUkzNWRpcDgxOWtwVVYtaGFxdHpZaUJVeHJzakNucHVTbnBLYWYzaEU0cVNTZ2NLb3N5T1dYTWVPY0t1MXdsaXpaTFhNOTVmYnhKZ1dIb0V3T3hFRURWWk1sSTcwMWltVzdOcw?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "67ece44c357896e60e3f42267bff42cd9659a5cfaca1c72874d4256850d3835c",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
