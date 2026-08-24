@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "titulo": "Crise do varejo chega aos FIIs de logística. Veja os mais afetados – e os menos - InvestNews",
+    "resumo": "Crise do varejo chega aos FIIs de logística. Veja os mais afetados – e os menos InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzFFVV9ld1VJR2lkR1Vnako4OHlvZXFTQWxTNmg4bEliZ0QwZHRIV1pHSjJGb3NmZHJfSHZwTjlwWExzRkFqbjRpMDZOaE5zWFhrNUROb1J2MEFJa3Rlek5KcmFTS1FxSnhVdG9la2d6clpLdUdLdVNNN1hiUFptLUNXZEp5aGNGdElSOFg2dnVmSy1zaDNkSl9XSS1pOWVOQ3Vpd0NQNXFEdUdoLXRyc3lwSmQwSmND0gG-AUFVX3lxTFBlb200S21IM2NQU0JwcDFYYUJlWEtwaE11SWxwb3BSOGxJWXlNdVoyYWc5YWt0aDBzaWtGV0duQnBQWDJPRzJodERGTVB6cUpUM1Yzd2dvbTNNTmpZeURlRzBkbTJ2OWlhR3prRWc5eExoV3dwX1hmNU5WRzZoTXdheHgybGxYU0dlMmxaWEt2dFdsYWI3OHRBWUVhaVAzOFQxMmIxRGo2NUktSE1ZNDl1TDA4ZkFGSzVFMWh0QUE?oc=5",
+    "fonte": "InvestNews",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "fa9aef554a511de0ce4ebaad25344ebddf7d72ace001ee61a2a105ceedc4e92b",
+    "ativos": [
+      "HGLG11",
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Na Febraban Tech da Inteligência Artificial, Banco Central diz que IA têm divergencias - ConvergenciaDigital",
+    "resumo": "Na Febraban Tech da Inteligência Artificial, Banco Central diz que IA têm divergencias ConvergenciaDigital",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUNjYjM5WF9mZVlZTXpzMTg0VENOQUVCdGJNeHk4aWJaNlV0Y2JPQklGdVlWcnhUU3Y2U2FlZmF1NHA0ZGtzcERjeC0tSklrdG9pWnhJQ3hJY1Z1YzZzakV5RVRkNXlrUTUyY3VsVVpkZEJJcURkbWF3eGg4Y1FiUktoMVpvTHVaQlV6eThVV3BIaWx5OEN5MEhMTDFidjBsRVdQd1gtWXFuMGQ0ODAyUlR1ejFwYVVPUTJQM3JYTzZLc1dGRHRLNw?oc=5",
+    "fonte": "ConvergenciaDigital",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "bb4353ea170e9d39f7bc20ff53fe6db58a4c5b8b4cb06378acf3f342a2a578f8",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central da China mantém taxas de juros inalteradas - safras.com.br",
+    "resumo": "Banco central da China mantém taxas de juros inalteradas safras.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGY0NjNBOVJYMTlueUkxWkhkc0lYamx3MGEtZjJHTHl6M2xFSEtZMW55TzJDOVJFSUIyaVhTa3hEbkpFc2pld2U5RzFUQ0tlYTlUTXo2Q25kRjhYZGJpcEk1Y0FOS3lVLVI0bTNfS3Y3MUt0ZEVSaEVKWkI4QWJ2eG8xdnJtQQ?oc=5",
+    "fonte": "safras.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "904bd3701b79ebe0a35d44064c6797fc164aac089a8eb018e18e7d06a5e1ddec",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
