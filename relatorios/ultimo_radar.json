@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Selic Alta Preocupa Mais a Construção Civil do Que Carga Tributária e Custo de Mão de Obra - Forbes Brasil",
-    "resumo": "Selic Alta Preocupa Mais a Construção Civil do Que Carga Tributária e Custo de Mão de Obra Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3NzVk1FWDhJLWxHRlhydGlQQ05OZ0RWLTdaRGw5azFhOTUyZHBKZmNJQXE1Qlk5S0pqZUlCckNTUm9MQjd5SWhJY3BvV0Vsc19sTTRFREZHcURYMVBZU1RTQWtvMVh3ZGQtRkxIWGFwV3UwVTJmSFBQMHBaRkIyaVpYVndITHA2U2lhR0poc05TaUJJQnU4c2E1RDRUNzBDdE96Yk9R?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c7bec3433c48ad405bcf2b4a337e315bb2c262a5cf370756fc70212d7c1779cc",
+    "titulo": "Selic em 14% desafia FIIs, mas gestor do MAGM11 vê oportunidade na volatilidade - Fiis",
+    "resumo": "Selic em 14% desafia FIIs, mas gestor do MAGM11 vê oportunidade na volatilidade Fiis",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRS1JWF83bGRNekdzeF9XZmp5ZlJhcnd5Y19sNHNoUjVnRkxxUFY3U09ZS0lER1pVTlJWalVQRnJDMzE3Z1VMMnFCOGpmV19OYUVMb0c5LThKNWRKcFlPSHQ1NHRxTFZxOTN0aHpseE1PWnhNaXNLVDJFTGthd1hENUI5TXhraXdIc0NoVnJpOE9IS3FzelZRYkxB?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "3c61c41e760aab54f4b0ddd07dc0a47296a5584355edfa85b5d591c7c6ad766a",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,34 +16,36 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "O presidente do Banco Central, Gabriel Galípolo, disse nesta segunda, 24, que o Pix é vítima de desinformação e fake news. ⁣ ⁣ Ele ressaltou que as novidades sobre o sistema de pagamentos instantâneos são comunicadas, de forma oficial, apenas pela di - instagram.com",
+    "resumo": "O presidente do Banco Central, Gabriel Galípolo, disse nesta segunda, 24, que o Pix é vítima de desinformação e fake news. ⁣ ⁣ Ele ressaltou que as novidades sobre o sistema de pagamentos instantâneos são comunicadas, de forma oficial, apenas pela di instagram.com",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wQTdoeDVsQVJOcmlLc1lmbk1pQ2tYT0Zka1doUkZWTE1NNl8waVhGUjRsbDAtNktuVkRLUU9YV3ZLWXNRci1URWsybmQ2bU5wUVE?oc=5",
+    "fonte": "instagram.com",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0890a59eb6e437a2f00667ab92a0d3f98ea1efd9e3cb820a0f98f0e2d35cd0a8",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com VALE3; PETR4 e BRKM5 despencam - InfoMoney",
-    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com VALE3; PETR4 e BRKM5 despencam InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWjN4WTk0TndrY09OZWNDaHpOVHB0WlVIbXo5V2hYdG1BVlhYVTVyUkZPdk1ZRFFWc0pjSDBGazBHT0NuMmF1blFMMV82Y3VOZzFqWkllMHpGcHdpREdrMW5WZF9DREZEZHZvMWFrN3M0YTZPVHU0Rjl5NE1ldEdXWllQUGQtSHRiV1JBR0VEVQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "75ea469fc6564f6606f24fa755536a63c5910ae42e329081be4543e26710ad9c",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
