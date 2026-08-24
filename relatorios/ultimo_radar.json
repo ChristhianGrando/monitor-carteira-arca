@@ -1,26 +1,26 @@
 [
   {
-    "titulo": "Ibovespa sobe 1,84%; dólar cai a 5,1443 - brasilagro.com.br",
-    "resumo": "Ibovespa sobe 1,84%; dólar cai a 5,1443 brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlk4NVp5T2NXaVBvb3QxbWpIRkRITVh1eE90TXRIRXBoTE9jOEhLSktIY3RqT0w5QzM4VlQ4d2hXTVpIamc4eTRtUVhoZlQ0blg1RnVHN01yeHNfaTQ5S21hbWxHTlltVlRBZm0tZEN2VHAtQmhDV0QybDUxTFZYdUtqZTY4dw?oc=5",
-    "fonte": "brasilagro.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "73bb6b351febe5728c99557ffe903aa2693fc2f99c0ce1fcdd850e8ef8df58c2",
+    "titulo": "Tecnologia impulsiona S&P 500 a máxima recorde, petróleo e inflação ao produtor enfraquecem - Notícias Agrícolas",
+    "resumo": "Tecnologia impulsiona S&P 500 a máxima recorde, petróleo e inflação ao produtor enfraquecem Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLXE4Z0hnYjFESVpiaEJ6MC0ybTFIUVdFcXR3WFhVRldBMWV2eTdMQy1Ha2QyU1ZkTWtnSnh0Tmk5MU1WY2NFaGJnOWszLTRPeGFRanVfRG1VaFFBN0xONGNNMTduWEd1R1RIaVVtMGZEc2R5Q2ZyeTlSdHBIM3NsVnpkdlVNRTl4V0NOa2NWZTJaVTEyMThXREc3QW9TNk9uWHZ4V0l4QzNBMGdBU0gwUElndUhkanlVMy1hR0Z1MUl5Q2pLMzYydnA5ZEF0Ti11dVZQdDB0S29qVUI2Q3BsZjczNzNlSXpWdVktdDNvekgySmEtUnNPbNIB_gFBVV95cUxNSVhZek9yRGkxM2IwRnJQMklzbWpJSlNZM21IdzBCTzhLVmJ6R0xYa05HTkhvT28zd0xXRjRBaE1SRVhYOU1BQ0VJOTR6XzdmenRnR1ZLSFI3UUtVQmQtMDRKMU1XVmZnM0lWdU5wTjgyQm9OR1hIR0djaTh3SjdHdFk3anVNNVRxb0d1Z3JjUEkxdjZCWjl0VVk5dGUyREVFRE9NSXBweHF2aEpHQjBfajk5Zjdmci15MW9HX1FjOFg1NFRhNTJEZzFiVGZfcFA5WGxaYTB3RmFiZG5oa2FBU092RjBTcXZKbC1RZHhLTjVRQVNUcGFCZmwzYnREQQ?oc=5",
+    "fonte": "Notícias Agrícolas",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "4deb3c557dcd388df3735219eec703ba2f3123924300d14b0907b98ec95eb827",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "WRLD11",
+      "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
