@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "titulo": "Bolsas de NY sobem com inflação e futuro dos juros no radar; dólar perde força - Estadão",
+    "resumo": "Bolsas de NY sobem com inflação e futuro dos juros no radar; dólar perde força Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUC01QVVlZU9NZWtDcktuWVJZazBvY2c5MU85WXlvY1Zfd3RFbWttNXRaNUI0WUYxMmRQQjJ0MjFnUUdnX2FONGxpX1YxVUJMSWRLNmNSME5ma1RrSHVaS0NlWWFNOTZwdzdlS3FDdm5BQkZWR0V4dUdiSVFKajNJeFF3NHl3V1BFRmFSRXozS1dXQ2NJOU1WM0FnQXBXRVVsSDBxMmVLT1FrUnRxZWxISkxpRkg0UWJfME9IY3dVdjlWTUZnUHlfdW5Mal8yakRRS2xxS1VuTdIB1wFBVV95cUxNUC01QVVlZU9NZWtDcktuWVJZazBvY2c5MU85WXlvY1Zfd3RFbWttNXRaNUI0WUYxMmRQQjJ0MjFnUUdnX2FONGxpX1YxVUJMSWRLNmNSME5ma1RrSHVaS0NlWWFNOTZwdzdlS3FDdm5BQkZWR0V4dUdiSVFKajNJeFF3NHl3V1BFRmFSRXozS1dXQ2NJOU1WM0FnQXBXRVVsSDBxMmVLT1FrUnRxZWxISkxpRkg0UWJfME9IY3dVdjlWTUZnUHlfdW5Mal8yakRRS2xxS1VuTQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "e9c4d01362774c39e0bcaf961db88cba27dacee62dc754aeca3d4e9abf8c1198",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Caso Master: entenda o escândalo de R$ 12 bilhões que envolve o Banco Central e foi citado por Renan Santos em debate - Terra",
+    "resumo": "Caso Master: entenda o escândalo de R$ 12 bilhões que envolve o Banco Central e foi citado por Renan Santos em debate Terra",
+    "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPMnEweFVVQ20zSTR1bVVnRm1OZkdjOHJjYXAyWHZTejMtMzdiRmRydnBLUFVlTWFWYjZwNkY4RWtacjZTaVlPejhYVDU3R3lXcm1JRW00WERsbnZOcHMtSzNkUVVkVEIwYzM1XzJwVGNtV2lZX1RNQ1BENm5SbU5RTDc2Y3NhenBPRHNuMjQwbW1mTU9yeF83U24xcUZFRGJScmVuZXUwQkE5S2podjdqM3g5bDRHckcxLXVGWjVWcDZxZ19xRjFwS2RGMFd6emNGYTFFTWVrN0RFcDgwY0VWclcwTldJVHI5dDA1aWJOa3JWR2o2SWtNMWJ1MlBhM1pKTE1MdS13SnJ3YVRtYjdaVnlKMzFLOENPTXRoeGlFTDMtYk5XU2p0Y0xPVFY?oc=5",
+    "fonte": "Terra",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0c332b20a90cb3a37e76de18fbb7a4376274d88a756c23527c8ca85e9e7d1603",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
