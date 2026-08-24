@@ -1,54 +1,5 @@
 [
   {
-    "data_envio": "2026-07-24 19:46:50",
-    "chave": "e336a0c086501bda15bd436d245051e5cda58775f95dca328a63e607eaeda0a9",
-    "titulo": "Tesla despenca 14,1% e Musk perde US$ 18,6 bi em 1 dia - Poder360",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzRmMUMtZ3YyYndsMHNweGZQUWVFd05FMXFmNHBrTDBVSENHSnp5Y2ozTUM0aWhQR2tLRW5BWXRKSlF4NUJrMG9xcnM0TEZic2V5UEs5LUpoLVZJOFVlVl9LM0tybm9aaWRmOXNscWpDRGphT1JCekhmS3dwMzZTZDBucUJsUmJGTE1lZGhXZzRpQ01jb0tFT1J3?oc=5",
-    "fonte": "Poder360",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 21:20:36",
-    "chave": "ab4117a9909abefff06aa855a4ce1423aca59b67071dfd9b90f7e6f522a91c5d",
-    "titulo": "Ibovespa Cai 1,52% com Recuo do Petróleo; Dólar Fecha a R$ 5,08 - Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGg0QjNPM3BLOGQ0aW9VRjJXcHo4Q1JYNTZWSjBGendKVDd2Rko0cjJ1NDlyUk9UTURtdmFRckNiRUxWRThNVG51S3VEVEc3NnExZy1VLUhJSXlNQjNDcGxtX1ZMaVVsREdRZ2U0bXhGLUxHNklXZU0ySjNSOG45Zk9aczM0OXBKaU8wYUNtRnBBWVVTZVVIYVI2dTZFOXR1THJILQ?oc=5",
-    "fonte": "Forbes Brasil",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-24 21:20:36",
-    "chave": "4a74c232d447df3c590a8d322ca653f9f41842fc294b8be71af664da0c29341d",
-    "titulo": "Ibovespa recua mais de 1% com alívio no petróleo; dólar tem leve queda a R$ 5,08 - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LdThpRjRpZUxZd2pCWTlnTjd0TG0wbmc1Wm9Ra3NpLXRjb0NzWHB4WEpzSWdMLWJUdGJ1dTNoZEs5YktEQlVYWVNMZy1RSXdvTlRXckxDcnc1c0FZM0ZaNDBB?oc=5",
-    "fonte": "Money Times",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-24 21:20:36",
     "chave": "886a7690fda246345942525ef182e8de1c083afe196206e66174e46dbd3f3057",
     "titulo": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana - Money Times",
@@ -17290,6 +17241,55 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 14:02:43",
+    "chave": "a31c28815bca122eab7a25d20e4de863d0052c4f3b966ff2b4f25b56acde1fea",
+    "titulo": "Calendário Econômico: IPCA-15, Jackson Hole e os rumos do emprego no Brasil dominam a agenda da semana - ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV9Ea1pyX2VvUHRRYW5lV3o3aTZzMFJDZjhpSEZRZTRybjdEVDRhOVZneWpPSTRZdjI0SEZlYW1JUVMzU3ZXX1dHOG5pUnJjUEg4ZmdUcUlwUGlYWFlYRnhEdzR3enlNbUFkbUM5cGZlb3ByQ1UwNDZNczlGT2twRk9RenJVbXRKNEprMllVenEzX2x1bEdadlZvRWZnVWFfbTRqazhjUjdJOERV?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 14:02:43",
+    "chave": "db95d71a03a3a8a22487a5cdfefe54d8f7c19ec6f5241db15837948596ccd425",
+    "titulo": "Banco Central mantém inflação em 5,02% e reduz projeção do PIB para 1,95% - Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1Q5MS1YZmwtNkRDTm1RbkNJS052azI1UXNKZm41YW0zOTRPQ2tmRDRGMlhvSlVaaC10S3JXYmlxNEN3MndSQWxrSVJ4d2NvX0dvVG1VMTdqcWZrS3Q0LVI0SDZSNUxiV3JtQ2ZLZnpiUXc3TmdOSDdXWE5WSUxVVS1NZWZ6TXJEeHA0TWtmT1pyOWJnS0s0VDJDSm9qSW53Y05tdW5Pdw?oc=5",
+    "fonte": "Vero Notícias",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-24 14:02:43",
+    "chave": "5c37481e6702283a8d30dcf408d0d91c74dd930d3f1cd34f308c304618e4b560",
+    "titulo": "Boletim Focus: expectativas para inflação e juros em 2026 são mantidas - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFlPYTNSMDVZbUpGR05DZTV5SkhZck1GMnNjdlBNclRER1RnTTBGNFE4SzlwcFpkTGZYRmVRUGRKZ094M3YyNjZmYm9qYjJJUWV3dV9qVXJLd3o1Sk4tOTVxZGZ0emNzVGw2WWEzMkpmZDBQSEpDdzFCOVZ0SUd3UTNDNzhDQnFjN1ctSWxlRDdJRWxZRnpFNFZaaFV6eV9EVnB4SWE4LU8tZVNMdzQ0YWpqVm9xUGVhbzJTUlJWRWpxOEJMSEHSAcsBQVVfeXFMTkFmTXRTbG9fV2c0MjZ5eWlqY014SzZXdzhiQTZFbk4wamh6WWlDQUVpNnZ5RWF1MEZjcWg0N2l3Q2lBUkpqZDk5QUo3TFE0djJCTF9WWHNZbXRRNVpCX2VhaTdUOWpoeExlVk5CWUpOamJhQWxqUTlYNmNYOWF3SGZFUVk1NTJuNHVlYWktb3pzNGN2eWV0RUtiR3BCRnk3SVVScXFCaXFEZUZ4dDJCejdfempEODBVZUJSbEdBbVJ4TUplWDN2TVdmTVE?oc=5",
+    "fonte": "Estadão",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
