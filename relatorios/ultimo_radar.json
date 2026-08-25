@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "Banco Central da Austrália (RBA) mantém juros em 4,35% após considerar alta de 25 pontos-base em agosto - ADVFN",
+    "resumo": "Banco Central da Austrália (RBA) mantém juros em 4,35% após considerar alta de 25 pontos-base em agosto ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMVBBTzhDazlVV2FuSC1zMWhfNnJUR2FTXy1qZTI5TjhHMmdRVG5DZWVQSUE0ZklSRnBoaG1ady05Zy16aWJOTVU1ZGFqTXo3dVBzellXRmhrelYxcFJvbE9FWHRDS0c4YVBTdHM1N3B2V3VGZnh5eVlHbGNvNVp2ZWVVb2hFb3BnOExzcS1iN05LYWdhR0hDaHpYN0tuQ3NPNDRxejRJOTd4b1VYQ1V0ZzJKcUtLZW9OMFA3N1p3LXE1SDNldVh4RnZtMkhvWUJrclE?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "c5f764685e7c6bdf0245437dd6704bc0ade350dba19b94d488400ed519ea8ca5",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
