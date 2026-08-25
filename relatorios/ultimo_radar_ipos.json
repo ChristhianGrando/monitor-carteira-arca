@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Shein estreia na Bolsa de Hong Kong de olho em oferta de US$ 1,7 bilhão - Estadão",
-    "resumo": "Shein estreia na Bolsa de Hong Kong de olho em oferta de US$ 1,7 bilhão Estadão",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVg1SW5xSld6c2JBVi1uN2JwZXVTQmNHRkIyVzlrNFBic0ZjSlFfbjJadjl0NVpEdDlXWS1SVlhuSEFDQmJrWmlQYXdjNmNYWUw5UXhMcXBEaGtsdUhibEphNXNqaEw4ckJKb2tCRjIzajBYQTYtT1o3emNWRHRUazV1OURGQ3I5ZDl0X2FPSWJ1MWVCRnQ1UjZzYlkwcDkybGc3VFJ0c1RHWEk2VzQ00gG0AUFVX3lxTFBzYzJXUWNTMjRma1BRSDBYdDNxX1VCUzNxV3JXc29wUXdZS2lQNjlhOVpnNy1Yb2VpN2hLMXI0Q1F6cFd3aEZHUmpQWG1tYzRWVHVmRk9odzdueXVzeDl4cXpNelJydEloc2xBOUZQWi1oSmxGMWZ1cDZ2UEd2a3RLNnFJeFVSdWpFN29oZUNEdVhQSUptWHJZNmR0QW9Ddjc5bW0xWGxQaml5SWF6ZmJleWxJdw?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Shein adia estreia na bolsa Hong Kong para setembro, diz jornal - BOL",
+    "resumo": "Shein adia estreia na bolsa Hong Kong para setembro, diz jornal BOL",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWR0STNRd2pLYlRMX3VXRUdCS2ZPeThyY2VjNHRqcUQwLXJBMnlIYWhuTXVoWF9vdWVUVkNCV1RsUHJhc0VYbTdtak9LOWVpZHQxNnE1TUhuR0VUeGc1YjI2X2dNUjB4Q1J6N1I4M0dsMWdkVlN3QXE4YTBWbURPX0xNXzNjMWs4eVhSbV9TZVZLRkFiem0td3otZVNEeUdwM0Zyb2RRQUEwMVdCR3dCZTBrWdIBuAFBVV95cUxOYU9qNy1ZZThmVU9STk02X3dRbjRJQTlQZEcxODZrSmNmQXdoN3dCQmdzeVBIYWJNUEtucW8xb0RmN1NVSk5lbGxFMHlZMy1uZTlDdkpXNU9HN2hfZGhQUkNYVzV2STd3RTJfR3ZldUdBdHU0cFloeTlBUlh3STdnRFVBb3AwZHA4TWxXN1J3XzV4bHVfMzlqS09CN1FTS2RLZGtJSnU5dzJFMjdxUnJWYS1pc0ZLSUY2?oc=5",
+    "fonte": "BOL",
     "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
-    "chave": "e9b5f28cdf2cf96aee07bd41f7edcefbc33f9b2f8b12eafac17b0e8147ef9b92",
+    "chave": "e4bc7e70d2fccd59b4eb9b2d6c3b121a2e56ef26092d70a287d9153db447227a",
     "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
@@ -14,5 +14,21 @@
     "tipo": "IPO em fase avançada",
     "estagio": "Fase avançada / estreia ou precificação",
     "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
+  },
+  {
+    "titulo": "SpaceX: Trump comprou ações duas semanas após IPO - Olhar Digital",
+    "resumo": "SpaceX: Trump comprou ações duas semanas após IPO Olhar Digital",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0FGcUhBQ2tYLWt3NUk2NmJZZzJlQnFIVXFyTGZtbUJPUmJUdktDNXA2VXZxYUdZNTZIR1lfZjBiWmgxM0g5SEhpTDlIZmJudUtGUTdCTGZqU3A4MV9LUXB1X0Y5Um1mZEVxYjBveVlUQlg3bHZmZlJQZFk5b3JHU0E5ZjVhbzAxQ1Jya203TDB1Y2IwbTdn?oc=5",
+    "fonte": "Olhar Digital",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "44467fefdb21861b0fd6804a6e79bae7ea601cef21bf62d6b57be0046494cd81",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
   }
 ]
