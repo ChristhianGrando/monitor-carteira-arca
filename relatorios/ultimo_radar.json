@@ -1,18 +1,49 @@
 [
   {
-    "titulo": "Banco Central: Pix será cada vez mais integrado a outros meios de pagamentos - ConvergenciaDigital",
-    "resumo": "Banco Central: Pix será cada vez mais integrado a outros meios de pagamentos ConvergenciaDigital",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2tvNlA0dmJFMnJzZlJEQVJCblU0ZzkzZ3NsSnZIUVVpRmlwNHFvYVdrUzhZQm9aVGRpSGlZQVV2R01XNTh4SGF0aVVKTGRITWRPLWJ1UEotbFVRUGVZX3ViRjFuSDZ3QW1hcWwyeWZlQVJyQlRGTWJ0UDJheGtCMnpOTmppY3RkQ0RRLWVDZVJleC00ZXZxenBVSGJYbFRnRWMyTTM1eFhocTFIZnVpUWxKc0pQZ1pOcXF3?oc=5",
-    "fonte": "ConvergenciaDigital",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a68b26b9d1a4ef099f84e322d5e91da76c0b5f405b7ea72785262172f7907a8f",
+    "titulo": "MAGM11: diante da Selic em 14%, gestor vê oportunidade na volatilidade - suno.com.br",
+    "resumo": "MAGM11: diante da Selic em 14%, gestor vê oportunidade na volatilidade suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmthOERnaFM1XzdfMTRwWnRyLWgxZ0FGcjhFc000N0VSY0xyMk9oaWktbV82STY2VlpOUVBhMWgyNGdhUFlDRzJJUGhZR1FMTW55TTBNWkxmRUlNYWhOZGQ1a21wNUtyUWQ4QWY0dWItdUpRZjJrRjhwU0pYQ3IzeEY4aXB2U3BucHB1TzZnY0o5U2ljb3JDRHoxbDdsWTNBMkpR0gGoAUFVX3lxTE1sU2lMa29PTVJiUVhJVm9GSjU4RllqMW4zRFkyS2dfWkVWejJENzN3WjJwaGw5MzB1TFRxVFVUZlhxcGZnb2txRzRNYV95RG80V1VkWERPZFNjb3FqN0ZFQWVORFNPLXJXM1lUcEE0aktXYURkbTlXSEdfTTdHNE90cWZuQUJ6bGdocWt4dTA1Z3Y0ejhHNTJsQXZjM1hQMi1Bak1XN1IzVQ?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "df776458428bfdce7f61bfae7f44f0ef55398f2651e60e0947958202d992bcb9",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dívida pública mais amarrada à Selic | Podcast Macro Review - C6 Bank",
+    "resumo": "Dívida pública mais amarrada à Selic | Podcast Macro Review C6 Bank",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZmphckphMUhNN1RFZzQ4NHJVM1R4TnhfSkt6UUw2enVYUHBqWHkyUk10UE9memxGbkxOY29pd05RYXN2SE5rUVg0T2FQbW8yb0JLeGJCQUx4SmdhMHg3RGZIOXU?oc=5",
+    "fonte": "C6 Bank",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9c565312f70236fe15bf4bf87bb98623a652ee5a07c4034b692c1583b608cfe2",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
