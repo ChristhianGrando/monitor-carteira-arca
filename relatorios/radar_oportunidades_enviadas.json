@@ -1,41 +1,5 @@
 [
   {
-    "data_envio": "2026-07-26 19:35:45",
-    "chave": "26ed384f483860ed6739ef9a2085bb63141def7fddd3ba6af0c745d32bda8c04",
-    "titulo": "Milei propõe reforma do Banco Central e proíbe financiamento ao governo - Exame",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWllMaE5Zdzc4VkJkV09ic2UyanVYbHczbElxUmVkY2hweUZfamhoaDEzMkxLVFpCQjZ3dTlqTVNpcGZ3VzluUVpYTzJUdk1wNWJ5Yzc3cmtaS0ZvSWU4aTZ5MmQ5bXdfV1RWWXBxZUhIVHQ2UVJnRS1kd0xzRjRBR2M3UWlfRWJ0RXpOaldPZ0ZQbkZWeXdqTUl0UFo?oc=5",
-    "fonte": "Exame",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-26 21:11:35",
-    "chave": "b1feb6019c4ec09ca30cc71abbc869a87a53ec83a1b6f783d8d6870c3b74ac85",
-    "titulo": "Eventos do Mercado: Fed, BoJ, IPCA-15 e PIB dos EUA em Foco - Jornal Brasília Capital",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVpDSk1sY1F2aGlHZ1ZaUEswQTBtbUROMnpKdzl1SkFSVVFnQlVWbXNqZW14Z0ZYajcyX1pTc3V1TGZqRjJkYTdrNmZYcE4wdnp0YzY4b1ZIR3hycTBKdmo1U1I1NVh2SXQ4N29IOE1abkg2OERiem1tbkZnR0lfWWNkZkxWcjVacUk4?oc=5",
-    "fonte": "Jornal Brasília Capital",
-    "score": 13,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-26 21:11:35",
     "chave": "1194e431d2ca42fc2d9cd75319e58ca9a5c44933f1b93b4b98181f615520d822",
     "titulo": "Reflexões sobre três décadas de política monetária: o papel do Copom em um cenário de transformação - Estadão",
@@ -17270,6 +17234,42 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-25 22:44:48",
+    "chave": "278e33aeb2d1b81cae206933924bffc915418cfb3147a68aa3a907f8e5460ee8",
+    "titulo": "IPCA-15 será divulgado nesta quarta: o que esperar da prévia de agosto - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR09vRTlCM0pqM0hUTEVRSlNUNXFDclUxLXZ5UWdqS1J3VWdkaVlRR20zWW1XY3I1d1BBeU5lSjVfOFBFMElxVkJJTllpMWJnZW1pUUZzcFQ0RjFlYmlEaEE0Ml9SOVRTWUV3ejJSUUtiVnc2dXZ6UGpjZXVhNXVTTTJwR2xXaUNwUzdYUndKM25Vd3g2ZGVPUEJHU0RqWVJWbUdrblV2LUY0RTNfTXBBcGJ6SjR6a09rbnRveE5IUUlkVWt5NmdWcFRUZXo1ZTB1R2Znc0tzVGxMYTVQRWfSAewBQVVfeXFMUDBWOVFRX0M1bXJDb2pqb3FKUG5aTFF0ckZwY002eEhOM2lVZnh2b0wxV29TWmF5cDZCX1JTd20wZ1JQejhHbENHb3l5Q2Z5VVBsbV9HaTdGcVNkWUxPTkgzSmdLWkh0S1JhV2FfcjU1aHdRX0hRUjdlcnRKRF9sYnoxOXpRbmxzOG1kcFBHZHlScWdKc2Z2X0FWdkJaaWx0a29qS01XdUVtUTc1c2JnSHphTHhNbmkxSk1hcWhFSVF0TWQ1eDdvMmQtT1lvQlVPQzE3MDRlT3UyTk1IS3ZmTnlJNk5ocXE2bWR1aVg?oc=5",
+    "fonte": "O GLOBO",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-25 22:44:48",
+    "chave": "cab4fa657d6f29efae2ba32667299e73a1e3b566545dad9ecf3b219fe435ebf7",
+    "titulo": "Haddad critica política de juros do Banco Central: 'Descalibrada' - UOL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFFUMmV5WDU0WHZpci05SFBWd2ZOODZVbG8zVWh6bE1JQW5SZDNNb1NySXN0bjZJWlFqUmJCTmZ1V1M3QmJOTldHWGNJclNyT3U4VnRaV09oSlIxNTBGRUJYZnVMcE95OXkzdGdHTzFDTzl0WFduQjZRNFA4SkNqRUc4UHJET2NoQy13S0ItdFpDT2pyYjJ3MGZpU2ZXRmw0NVpKQVZ6TTRBc29JNm5ZbTNOLVQyQQ?oc=5",
+    "fonte": "UOL Notícias",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
