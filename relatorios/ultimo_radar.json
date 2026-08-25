@@ -1,11 +1,66 @@
 [
   {
-    "titulo": "Ibovespa futuro avança com esperanças de um acordo entre EUA e Irã renovadas; dólar tem leve queda - Money Times",
-    "resumo": "Ibovespa futuro avança com esperanças de um acordo entre EUA e Irã renovadas; dólar tem leve queda Money Times",
+    "titulo": "Tesouro IPCA+8%: entenda qual é o risco embutido, e até que ponto seu dinheiro fica protegido - InvestNews",
+    "resumo": "Tesouro IPCA+8%: entenda qual é o risco embutido, e até que ponto seu dinheiro fica protegido InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXJiYWxZQnZFc29SNlpqYW9EanZ3RTBZU2Jhbk9pcFU1QUJGYmZPNzhWWlc5UnhWTGpqZmd1T3hmY2xJNEpfaTdnNTNKUUdKSkYtanR0ZTNHMlpNMFdFZS1Eb285djdpVGIwSnNjNV80cG8za1BnZHVOSm9EOGRTM0JpZnNCT3E3dXNna21NLWJvMWNDNHVKajFKRXJsUXA0RTVFdUVkVEVjOUhlQVYyNTBjQWFpTnhJMG9INXBuaVJXcXpoN18xV1J30gHPAUFVX3lxTFBkdlZoS1ZhNVY1aFB6ajJ3bTBZOUhwVmdOOUNKck1jcTdyYWFvZFczVkM3TlFZTWZEN1VVbENKTXVtMG1Ia2htd0g4dElRZzBwX3kxZ1Q1blE0R0RlN0JUT2YtdlJTcGdSUUtXY2Q2TkVabjBRc2I0RHIybkQxTktKS0JfOTNDbnlhVzl1cTExR2F3MjJDOG0yQmgwZkhLYXlIQ2xoLTdldUxzSklRazlPTW5Xd21KbkJHa1dxelZrU2FHLWM3MFN5RXZZTERpbw?oc=5",
+    "fonte": "InvestNews",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9c44640e9726b648e04c33e706c924bbd638e144733a72c4e59aa1a976172530",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar comercial: impacto da política monetária e Selic - ISTOÉ DINHEIRO",
+    "resumo": "Dólar comercial: impacto da política monetária e Selic ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnTWg2SXFTVVpJM2prNU9tY01mRTlITFZjbDhVRlFNM1A5blFVY29qRUZRNDRsSnJ4YUlhU0NSSjJtZDEzQ2tIZnZtTUVmSF9QVnVzdDNZNEZjYlQxZTJBZGVBMXlwUmYzTHloenBsZGlkS2owWXc3TURXYzU1SG8?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3eb178adcd9e6e0c8d60469476060a279ad3dca4456debe6de6b6f1062301d81",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa futuro avança com esperanças renovadas de um acordo entre EUA e Irã; dólar tem leve queda - Money Times",
+    "resumo": "Ibovespa futuro avança com esperanças renovadas de um acordo entre EUA e Irã; dólar tem leve queda Money Times",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kQmlYaHVMMWNTeWZBUzVJS0NHTlJUVVlBYXNxaU9mVEYwOFlQN0dXWWg2ZnpGYTFuZmxJNVI4aHRNd1dHVTJWVTVYWlBkMTgzcWxfbHNNanFYTVRMbkFDQ3lKanlfU2V0djE0?oc=5",
     "fonte": "Money Times",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "066fd01307711f9c9e9a811247523288cd2e53fcd6c47031aeeb046afb77bf24",
+    "chave": "6db0602755c25df527c07420e3f6070a20761fa640fe47ca3144f0a5e3decc9d",
     "ativos": [
       "IBOB11",
       "WRLD11"
