@@ -1,26 +1,24 @@
 [
   {
-    "titulo": "Dólar opera em queda com petróleo e tensões entre EUA e Irã no radar; Ibovespa avança - G1",
-    "resumo": "Dólar opera em queda com petróleo e tensões entre EUA e Irã no radar; Ibovespa avança G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OMHp2YkIweVYyMi0yRGoya1hwczhQMVFQa2tkazNNYWQzdHVrWm9pN2M2TE5tQTF1aC16Zm5wOG8wWWtlZHUwZklodkF0ekZaUVhybnZZY2EyTEtiU0FBUHdJMGVNemE4V0M3WG1xeVNBTmpORWl3RdIBhwFBVV95cUxQZ3JURVFiQ0N3a1dJWXFWQ0hYUjdqMzZrSnY5b0VaWTF2TlRsT0tzTENIeDFBNGJHbnFUc1dIWE1NZXpBanlrRlhOVG1EQWtoT1RDRUJkMU9mbXhBdEFzVlhScTdXQU02eVNIRVhrZjF2R2JvbE1JS0lnakRuZ1NSSVdQNUFmWTg?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "df5c91f508c2ccc7b2bbbfcbef6e9a9583c9cd76704cce93616dc4228517eb0d",
+    "titulo": "Banco Central mira uso responsável de tecnologia após avanço do Pix - IT Forum",
+    "resumo": "Banco Central mira uso responsável de tecnologia após avanço do Pix IT Forum",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByRjA0Wmk4YWZQcmg1Wmw1OExuaUJOS2JfeXF0Tld6b0w0Zk0yN2p0R0tKekVoYkJhRGVIZktNYmUyMnJOYWJmYTlpUFJJXzJCRC03czVYR1d3dXdQak9uSEFUTTdoX0xsOFo3akRsQXAxX1N2eHo4Zg?oc=5",
+    "fonte": "IT Forum",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4c429c76763757ba489044beedf02975d2f3999eabcd2263c1b4a8fcddc91ec8",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
