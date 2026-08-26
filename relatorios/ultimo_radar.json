@@ -1,22 +1,20 @@
 [
   {
-    "titulo": "IPCA-15 tem deflação de 0,40% e senadores destacam cenário favorável para queda dos juros - PT no Senado",
-    "resumo": "IPCA-15 tem deflação de 0,40% e senadores destacam cenário favorável para queda dos juros PT no Senado",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDV1ZklxdGlPRVN4UVJPcXlRY3E4Umw2LTBTaERNUUEwcWNLdGFCNjBRa2I3R3VTTzJlcXlJSUlLNlZEVmdPV1RFWDltZnpyUzJLUmZRMmdoNzZsS3h1MGxqRVBxY3ZSM1kycld1WUk5ZGN0anlmZ0pCd0FwYWRnZW9aaWVQbVFYcHFza08xNHZpYkdYSl9FZDBjQTByc0xVcWFVR2N3RVZmbEMxSGRoem54MGc?oc=5",
-    "fonte": "PT no Senado",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b46432fab5b0f9dd1176bf7d673b5ccd015ee144c65ca14e1797f0eec553625d",
+    "titulo": "Dow Jones hoje: Wall Street cai após revisão de inflação nos EUA e balanço da Nvidia fica no radar - Estadão",
+    "resumo": "Dow Jones hoje: Wall Street cai após revisão de inflação nos EUA e balanço da Nvidia fica no radar Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZEdwdERiazUzaFIySGd6M3gtMkYzWGVxdVZhTEdhSzNQSmtCVGN2V0t0V2MwSUx0ekFCbTM3RnFWVmt5MzlmVmZmYU00dnVaNm4yemllYzZ3MDhVazRqcTVfVVYzX1FNaU9RYXdmRThZOEtOVGhWc0FOVEI5ZkZQbW14T3NPbmprZm5BWWhIbkVScmdFTkZQWGZfdlc1QUJJbEpFQ2diLXFOZG9QMU51ekxMQWF6b2NUQ0l4MWxsd3AyU1Q0ZklRNWQwV1Yyc2V5b0d3Z1RIdk92WV9DcElQblpjWk00TGVicUHSAe8BQVVfeXFMTV91YWhFa3VXM09YYU4tYThiYU9GOF9xRHpEUHY0cWZNbzlod0FSdmVvczlFTGFWQUFkVHZzeXhYTExTUE5iRi1KRkFyeEpESE5Ra0FYZXdwOUxQN0twMjg3Tld1ek9IY1VjdmY3bXRpcWFwTWhES01OaE1pZDNpRm1kSHlFaTRyRUY3WVR4X2xuNDR1cnlXZEdTbndJSFZRSkRQcDh0T2tBWWFoOUx2eDJXVHczT19VWFpnSlZ5OFA1R3ZQSlphcjhYbDhIWTRaZ3IyYkdseENvbDJkeXp5YXNwd3FfTlhZMndDQWtSMGs?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "d22760a7809c3f4d9fc16eeb82b86b37f918546e1e0672c5095655db0a9895db",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -27,48 +25,72 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Queda do IPCA-15 reforça apostas em novo corte da Selic em setembro - Canal Rural",
-    "resumo": "Queda do IPCA-15 reforça apostas em novo corte da Selic em setembro Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2wyeXBvQ2JIekhGZ2FaNUVRY3IwUnExXzEyR2V3TUVJdXlLX1pEWE4zaVdjcGtjSHRCM2x5LTU2QktVN3pVa0tUdzV5dmVHTzh3RkJaRXJoTlZaM2dNVkVVOEU5cmo3SXktSEs1TUVpTVM1UW4tQTVoNlJlcldSaXBQMXg5ekpPMTN3bnV5VkMyTktDWkJBeGlYWHh0ZEE4b3JOODVsYjNWRUE?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1d7e63367d8db948b21b8e20c515de78a0c0ce24601258b3f9cbc30d3e4b8583",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte - Money Times",
-    "resumo": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte Money Times",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjBYUGZxU3dIYWNfVW13Nk8xT1B4RURrNjNtOXpuQlJrN01Fa1MyeDQ0SHl3UnFGLWRwYXN3Z0N1azBHbkNjYVBBSzBXUGhjaGlNNDdUNWlybTA1T3JlVnRhaXpQeWdLYUZpVzBuSjczbUVqNXJfUUxOcWdXR0ZhMmZmaW1mWXZteXZNSXhnankzYTU5cFhqY0FobWlmYVJseWZIR0h3dGpYaXR3S2JJc2xybzlDS0N3T0lnNVNIYkRZcUFvWC1LM2VlSjAzemRzdTV4SUF6Mzc0bVdo?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Banco Central diz que prepara medida para mitigar risco de crédito em meio à endividamento recorde - O GLOBO",
+    "resumo": "Banco Central diz que prepara medida para mitigar risco de crédito em meio à endividamento recorde O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMTBlZzdMWFd6aEJvUHFRS3N0YzB6WnJrcUhiTUpVNzhBNy1iZTFBN2lIVEVOUnB1M3lSY2plS0pKelE0Rzlac25aLUlzT0NoZ25wUjVCLUlvSE1zcUttUVpKY0xZNGppZW9vNTh1Sk8zbEd0MXF0QWYyZUxyTzBoVURpM0pBSl80YXFKaEhBUUdUUmhycnlaZFpuSnFqTzZDTmNQUTQtcVRJNHZnM3VKb3pnTy1IaXJIV3lNdmxFVGhqMUJsNC1XbkxENXBtclV4cFNUbUR5MGQtdnN4VmZPNEtPZFA4N0FfdElsRjBR0gH8AUFVX3lxTE1sak1acjlEbWhMVGEzYW1SM1ZPMFRxMXZhYm5LWGYwbzFzOGVValdBcjAtX3RJN05BMEM4cGtJdFF3OTNicFQzMy1jS2U0TGxkY3RFNU5yOHR1Yk12bmVXSGx5ZDlSdTJQZHJyT1E1SDdnajZDOEdqR0FBaGNNbzgwTnpqdllDelpvTUxLeG1oTzlsemVSZm1rQ1JaZjQxa2NPMmpxRGVTR0xFVE1vNXpzejlYWDZzS2dhdTE3YU9zYTBBZ1lwaXJNTkc5cF9MYjFCMlJOcURrek8wODU3Tm5RWFgxbnFialV2VnQwVXNuNlFNaUNnaG05ZXh3cQ?oc=5",
+    "fonte": "O GLOBO",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "850174d7e8689171a665c569e18efec9228777777c6396bfc6fe6995a9b8e9d1",
+    "chave": "c5ef1fc29a12867e36031efda137da03ea8fe2510647a51f3f05141f2b098cc5",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa encerra estável de olho em IPCA-15 no Brasil e PCE nos EUA - VEJA",
+    "resumo": "Ibovespa encerra estável de olho em IPCA-15 no Brasil e PCE nos EUA VEJA",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSl82QnN5NGRrMGR0UjJFaW1ZbkZCbzRZWXU1b005UFFuLU9MTkpPOVh6MExtWHU3Nkx5WGVFRWpraFphei1YdXI3V3ZLOFlnUThrOTh6cGJ2bzNOLWVoOW1qREU3LVlkWUNXODk1bWJDa2xueUNia01EdGxkbDZHQWczc3J4MndrcDVDWS1fcXQwUnBaSzdaazhVQV9qc2lWUzA3MW53?oc=5",
+    "fonte": "VEJA",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cb2240e444cfee34a5588ad542dfd2e1caa71533cba72c3f1bb40b5fa7600006",
     "ativos": [
       "IBOB11",
+      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa B3 oscila positivamente em 0,01% em dia de prévia da inflação; dólar sobe a R$ 5,15 - Bora Investir",
+    "resumo": "Ibovespa B3 oscila positivamente em 0,01% em dia de prévia da inflação; dólar sobe a R$ 5,15 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRC1MdkdFeVIzcE1ObjdpZDhhLURsbWNZa0pYc2MxU1B1UDlNMEtvR2o2RkdEeUtjTU8zNnJTUVNQZEl5VF9NNGRzc1VjRXNDc05tZHJVUWdZaTNXb0s0VHZiWVZFMlFfZFEwdlBtd3NZX3dQTTE5UlNhZUJIQXRPbS14dGJqZnBMWTBjbk55MXE3bndZbWllQm83aGJKR1Nwa3FLZEs2RVVpQUJ5eTF2dlNaT2xWdTZtcVJyLXQyOXExblo0MUNQMTAxYUdyc2M0aGc?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "dea216ac95e93f87392094589644ce1a2a7c583cf9c447105b4b529f995a2c56",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
     ],
     "score": 12,
     "motivos": [
@@ -80,43 +102,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Vorcaro vai depor à Polícia Federal em inquérito sobre fraudes do Master - O GLOBO",
-    "resumo": "Vorcaro vai depor à Polícia Federal em inquérito sobre fraudes do Master O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbjY4c1pNaTV2MjRXMFRyRVJ1SFF6M0NzN1dvNFBxV05ReGcxUV93UnRicWxybU82aWlTcHNheFBBb0lqSTlDaHJRYkZ2NDhPWTdvRUNtZk5YOG5NQ3d1ejh5a29lQ1dIZ1VwbE1fTHlNR0NxRWtod3pqdFBvSHZsLWpMdkhPYzZsclZJWFBlR2Z4czFZaVVwWnlQZjNnRzVndUcyUy1XLThndkNLaUpGTHFzVUlqTVZRRDhYT1pLb08tVm1SdzljTUxqY9IB2gFBVV95cUxPZy1tNm1wWkNuY2E2azVPMkVhajF0bTZ6REtRXzJzNFJDZUpxX3JyOWVhYlg0TF9XM0xtT1NTeGNHcnFHLUZCekJ3eU1jMVBBY0w2N0RqTnRybll2OUlRNEJGOU40U3A2Z0dzWDEtMWhHbzhWLTdLNURyajViN2hLOGE0S3M4SnFWMk5KQVJBR0M0eDBjRzBnN2E3cW8xUVVnbEpZRzZMTHFNZFI5WjRsZVJNQ1JMOERrZlpwVl80eDBMTU1FaWsxTDJWb0w0c0E3cFVnd0pQZ01TZw?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "11c79a77687ec156240d2e9a2ae56b40aae762e6363ea8513bed9b8455f8d0f1",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central - InfoMoney",
-    "resumo": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT21WSUFlSG5UNUpWUHMyUjhaaFM2RExDbHMtX2M0dVdlTzRVOXJON3QwMm9LeE9pVUVCVXIzTGwwSnZRQ0ZsYnU3ek93NkJaUWVBWDIyUHM1bmNkNEZDSDBsN1gwaWdYVERlSVo1eEJMaE1rN1hfRlJReGRmN1B6eXFaeXB6UXlQdm1VN0RUZnN1TkNZc3ZHczMxSXF1bTFKeXo3VjdpOVJCZkV1WE05YTNwT0hxb2JQOGZSUy1HONIBxAFBVV95cUxPYld0dC1YUGo0aTBUOWJCZk10S2FOVVlUOHNaenJtNW5rOWNISXd3bDZnZUE5cUlVM3pwUlZIUXNuZGFvU015bTc5WTYzbUR5bDBXVVZza0JPeVBMNm5TbW5iN3c0aXVUVzdQaDFzZzhZVWlTWVFuT25VWHd4X2JEeDlvdGFoaFd1SnV5elg0dTFER0diWXhiM2puVUtPLUQ2Qi0wMDMwMGxxLTgybWZPTHZYLS1YandSZldkYjIzYUdEb24w?oc=5",
+    "titulo": "IPCA-15, inflação PCE, balanço da Nvidia e mais destaques desta quarta-feira - InfoMoney",
+    "resumo": "IPCA-15, inflação PCE, balanço da Nvidia e mais destaques desta quarta-feira InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNDhXQkxoc3FSVnJWamdld0RtZUxTMTJMdmduWjJMNVdxRDYxU0pWcE93QjBoWjF6d1hxRmZ5czVKRmVBWGVMMENPMjF3N0RFQi1TNk9xLTNGUDVlMF92SnFxQlh0Z1VwNHI0bk1CQTYwWUMwWHc0WjJpOWFMa2VUT9IBhgFBVV95cUxQMjg2VndLZkZ0alpUSURfMGllWVVjd3htZkQ2UmpqYzZWaUJkdV81NHRiR3FUSzBWMzk4SUdmQXpEemd4aEdnaS1QLWo0UU5TSzdUVFA5dUFQY1o4MldaQl9WQ2pKY0tyenpOQnNVN1pvVWpsLVV6ZC14a2dRQ0dpQ1I1UUFuZw?oc=5",
     "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cb44510e74f969f10d2048376afedd8fdb90b5dca64e58737a0fde019e8821c7",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b8dec6a6e0b745b9f518c919bc78a87cd5c9bc15398cd9d8ff894f8d40f6bdaf",
     "ativos": [
-      "WRLD11",
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
