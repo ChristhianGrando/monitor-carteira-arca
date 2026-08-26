@@ -1,22 +1,5 @@
 [
   {
-    "data_envio": "2026-07-26 22:12:43",
-    "chave": "4b443cfc186514a95a9003ac746b3d0febfbdab4ed64dcbfef9eb8456cacf3d9",
-    "titulo": "Reflexões sobre três décadas de política monetária: o papel do Copom em um cenário de transformação - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXpNN0tYMFhZcUk1SkZXZklFamJ4MnVGbXllUEJmNlE2MldVWklZM2FuYnAxalJwdDJiQlo3ZEhUVEFLM0c4YzZRbTktS2RwTEpRUXQ1ZEZrYXJUTlBGaFZGeFV1QnRYdk9DNlJNVVoyaVhoNXdwUzZjZlZFVGFIQ1FPMlB6cHllZC1RLTZBRW9mTmNOdThHdGhSS1dRWDZGRUFmbmFJM0NLbDNYeTMxa0dn?oc=5",
-    "fonte": "Estadão",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-27 04:02:04",
     "chave": "2eeaee02159578c85c4a267813c5693b19ecbdeb1e29f0b3d9654af4c72e0140",
     "titulo": "Banco central de Singapura surpreende com segundo aperto consecutivo - Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -17272,6 +17255,23 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-26 09:02:13",
+    "chave": "f7d1992785e2dea17ed71191e3a3a40aeb442a2818693c249b324a54f9c5a4db",
+    "titulo": "Dólar cai e fecha a R$ 5,13; Ibovespa avança aos 174.577 pontos - brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVno1SGlhbno2TnJqZHF5emw0TzhKWENSV1pZSTQ3M1hKS2VkTTdMYjBvTWwxVlZKZEplUXg0R0JmbEl2dVlDUklJUHB4WFNCa3hRRTh5UUJ0S1RsTE5PX1hLMzZGLUlLV1U0Nl9zZW5CNllUdHF0Ulktd0RQZFAzbEI5VjFTcnpsWVdLOUlHZ2cxUFVDZWZsSUhjR3BXTnJteV9uaXNB?oc=5",
+    "fonte": "brasilagro.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
