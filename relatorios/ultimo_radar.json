@@ -1,36 +1,11 @@
 [
   {
-    "titulo": "Dow Jones hoje: Wall Street se divide antes de Nvidia e inflação dos EUA; petróleo cai pelo 3º dia - Estadão",
-    "resumo": "Dow Jones hoje: Wall Street se divide antes de Nvidia e inflação dos EUA; petróleo cai pelo 3º dia Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZEdwdERiazUzaFIySGd6M3gtMkYzWGVxdVZhTEdhSzNQSmtCVGN2V0t0V2MwSUx0ekFCbTM3RnFWVmt5MzlmVmZmYU00dnVaNm4yemllYzZ3MDhVazRqcTVfVVYzX1FNaU9RYXdmRThZOEtOVGhWc0FOVEI5ZkZQbW14T3NPbmprZm5BWWhIbkVScmdFTkZQWGZfdlc1QUJJbEpFQ2diLXFOZG9QMU51ekxMQWF6b2NUQ0l4MWxsd3AyU1Q0ZklRNWQwV1Yyc2V5b0d3Z1RIdk92WV9DcElQblpjWk00TGVicUHSAe8BQVVfeXFMTV91YWhFa3VXM09YYU4tYThiYU9GOF9xRHpEUHY0cWZNbzlod0FSdmVvczlFTGFWQUFkVHZzeXhYTExTUE5iRi1KRkFyeEpESE5Ra0FYZXdwOUxQN0twMjg3Tld1ek9IY1VjdmY3bXRpcWFwTWhES01OaE1pZDNpRm1kSHlFaTRyRUY3WVR4X2xuNDR1cnlXZEdTbndJSFZRSkRQcDh0T2tBWWFoOUx2eDJXVHczT19VWFpnSlZ5OFA1R3ZQSlphcjhYbDhIWTRaZ3IyYkdseENvbDJkeXp5YXNwd3FfTlhZMndDQWtSMGs?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "64debb3f3b66f087cc0c7a8ee2db3a2e964053cf34d7494641bd6684ae956629",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Agenda do dia: IPCA-15 no Brasil e PCE nos Estados Unidos são destaque - Valor Econômico",
-    "resumo": "Agenda do dia: IPCA-15 no Brasil e PCE nos Estados Unidos são destaque Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTWdlU3ZUNTdtSUVIMzBUVWJ6clYwOTkyTUxZOFctZi02akE2RnNMVWRRbXgxQ1B1bTNrSEJ5blFfSDVLdk5KWlhaTVczMVhWeFJjOEk5ZWpnTm5kazlfUW01ZXB2emN3eG5pNHZlLXZsV0tqSmgtMzRJdENEVEJSYXV4Y0haLWhyemdjUjNCS3o5RWtJSXhORFB1amJOOVpSTnJ4d2tuaXZ5TmhVZ0pOWjhod21TWnFDV0tBRkVPSnVuMmJ2dUHSAdQBQVVfeXFMUFdZb0NBUEZYNHRkQmdqZEJCOEszRnJsVXlDU09hU0xaYkVmcVNPd2xyMmNjRUNCUHlPX3BwQUItYU5wbDk0S2k0a3h5bi1JblpjU1p0ZnltZzlRaUJGS1V0WDl6em1oa01wdW9tWUhETV9WTGZ0c1NEc3d2bG8wcHprNUtmbXk1UjRMVmxxQjY5Q1k1NWtNc0NZd0JvU1F1bEZMczRZTE9VOXpLcW5fUlBzVktTTEx2T3RGV3hyT19nUzRLSHZHT1BGeFRDR1U1YXZPbS0?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Dados econômicos no radar: IPCA-15 e PCE movimentam mercados hoje - XP Investimentos",
+    "resumo": "Dados econômicos no radar: IPCA-15 e PCE movimentam mercados hoje XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWG8wSDFEU3JBLUxfM1F2Tk5Xdkp4RTFTaEhLTW9oM2JwdVZ6ZHVsZ3ppcHR3OWZZLVhwZDQwdDZ4VXBJcGV3NVZqQ2JXeERBM0k4Y1Bfck1LUGxEREx4SDVfcHFTS0JSWi0tT25LWXdfaW1FX2FBTUZvSGd1Y2trOFFDWV81cndTc2t2VnZOcWpNVWxzMGxJU0tCbHFRZThrVU91S3BTeUtlS2s?oc=5",
+    "fonte": "XP Investimentos",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2b712b5fcfedacacd39fcab073c221aef5bc1ab341e5719ec84f45dd8cbf0908",
+    "chave": "08233f2907c72b012f2faa9583fad891cd399a869a607bba994959d863fb1716",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -51,21 +26,21 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Agenda desta quarta (26): IPCA-15 pode reforçar ou mudar expectativas para a inflação; veja indicadores e horários - Kinvo",
-    "resumo": "Agenda desta quarta (26): IPCA-15 pode reforçar ou mudar expectativas para a inflação; veja indicadores e horários Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGpSWnRjNGM1SG5GQWRIeFVuMXMxOVRaT3J6Wl9xNnZLRUR2Z1ZQenpjUDJ0UFRPcnZTdlduc0JITk9nVE9weVZwc1NLY1l4TDNVUDdMS0UwS0VraFlaRFVyYkpHQ3cwMTJNNW5IMDQtVkVxZlRfaDFTcmphYkhkZjkwR0MxNU5LbEtua1VNMXZUMUZ3RjVHNVNQVjRMSWRhcjdNTWNTSGZ2TlJ6MF9OVjJkZWZQSzVNS2VQMGRNVXJjOEtaeVpReGR1T1cwbUZhb3d1T3dB?oc=5",
-    "fonte": "Kinvo",
+    "titulo": "Prévia da inflação oficial, dólar, Ibovespa, mais agenda e pílulas da economia 26.08 - GZH",
+    "resumo": "Prévia da inflação oficial, dólar, Ibovespa, mais agenda e pílulas da economia 26.08 GZH",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSVMwMXZ3QTBzaGVrMFdaT2hOWkpOemxHSHowV1p1VzFiUU82QTMyUE5QcWp1WGpQU0pTRkR6RTd0bThpMlFFMWk5eEk0dTJUUHh3R1BjU0FLb29NZy1US3RqVkNYaFd0OVRPTU03VE9NaWdHYzdoX3JRSEx5enhTWHBkeUZDNklKMDlCR1B6aWpaMW5wbEk1WlZiODVKTUl4V0xJVmVyQmRTYUxqRTY2U3A2QnFiSjZ4bGJmcURTaFFLVWhsRF9UQTdGenIwQUw0a2RPbjZjT3hjWFlIYURHeTZMd0U3S095dmNGbndMdnJXM2NUcURFaHdKZUp4MW56V3hFTUJvdm1aaEpRdHhWRTFn?oc=5",
+    "fonte": "GZH",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "50d75d1525d6544ce79443f82bb61fba15575f72f3e78a3d701b720df5601932",
+    "chave": "8f673885eee807002245fb1fc6e61e7f24ed6b14412e3194d4a2881ccb042a51",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
     "score": 12,
     "motivos": [
