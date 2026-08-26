@@ -1,20 +1,5 @@
 [
   {
-    "data_envio": "2026-07-26 21:11:35",
-    "chave": "cd139bbbd586fb81c25f953152f14da845e68e07edd40174b951e86f51edb176",
-    "titulo": "Presidente do Banco Central afirma que pressões inflacionárias já estão sob controle - Portal da Câmara dos Deputados",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY1c1aVZsNEU2Uk10U1RrWWtlZ2s5RS1rZk41X2FQM1VnUm5WT2piX2JVT2RqRW5tZ092X1V3ZnZXckhkX2hMMndmd0FZMHdhWDlDelFwQktfeHFqWUFjSGVPNGZuYmRMTmR3MXdQS1hkWEs0dE5JdVlmWHNld2VBMldnZUgzazg4X3Y3UE5tdEFFdS1Dc2w0MU4tU0l0Nk5OOHhpNkVyc05lQjJ3QWRDOWRoYmZpMmdCSUNNQ0JkckVqTzZLVzluZUVCbnQ?oc=5",
-    "fonte": "Portal da Câmara dos Deputados",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-26 22:12:43",
     "chave": "4b443cfc186514a95a9003ac746b3d0febfbdab4ed64dcbfef9eb8456cacf3d9",
     "titulo": "Reflexões sobre três décadas de política monetária: o papel do Copom em um cenário de transformação - Estadão",
@@ -17268,6 +17253,25 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-08-26 07:59:27",
+    "chave": "cc6fa01748b05c6f99ed59228224ce3126ecea37f2ed4f81a4080821629ea435",
+    "titulo": "Ibovespa tenta estender sequência de altas com IPCA-15 e petróleo no radar - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLXUyWVJQRVZFam9GQmYxY1JFTUFQckRjaHVsSDhrVEtEd0FSZGhTQ1Q1LUFhZVU5UTFndXlLMnJ2OXp0VWZyWDF1bU1wN3dvb0lCMXJSOXFaQnBHMVFnMTRTalJxM0ItZFBpTkZIUDhVNzlHZWpxNXpBeURRcVk3dzdWOWZ6a18wYWlzR0NDeVctaWI2N00zanA2QkVtaHh3R0dkVzRHd3lkQkZKQnFrMXVLZlROc3NfN1ZGWUgyZWk5aFdSTVRjZ0RWSHZIZXlhNkh1TlpMT3Q?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
