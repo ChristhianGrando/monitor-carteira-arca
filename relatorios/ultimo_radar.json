@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "ChatBCB: IA para interpretar normas do Banco Central - Debate Jurídico",
+    "resumo": "ChatBCB: IA para interpretar normas do Banco Central Debate Jurídico",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjZ4TFdrSTRHak9NdW1nRW9mczJZTURmdzhZQ2h0dlJ6VkU4bk9qNHlsODNvc0g3bUxQYVJQRV9oNl9LdzA2Yy00Rzl0MWFlSUhLakltWndHWHZZbFhzWWN6M2wyV2Vmd0U4cUtYdUZnd2szSzBGbzNQdTJQQmtNZ1BmVzJuRzZMUEE?oc=5",
+    "fonte": "Debate Jurídico",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0abe45b3554533c9d3eb25ae7e13136c152cdabcf6a12897cc9e1f377d8bc092",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
