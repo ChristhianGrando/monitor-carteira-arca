@@ -1,11 +1,65 @@
 [
   {
-    "titulo": "Deflação IPCA-15: inflação recua a 4,24% em agosto de 2026 - ISTOÉ DINHEIRO",
-    "resumo": "Deflação IPCA-15: inflação recua a 4,24% em agosto de 2026 ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zQmg0c3MtNGhlLXczVDVNdnY4dU5ncGxmQVNjVGFPV25ibVNzcFQ0cGk3ODBmb19fTXJtVVBXYnJWTG9kM0RkLUpXOG83OHBHX0NKcmZUWkczZTMtU2NNTnh5Q2tUUi1XVmNFNlNyUTV2UTR3ZFVZVEFHbw?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
+    "titulo": "IPCA-15 tem deflação de 0,40% e senadores destacam cenário favorável para queda dos juros - PT no Senado",
+    "resumo": "IPCA-15 tem deflação de 0,40% e senadores destacam cenário favorável para queda dos juros PT no Senado",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDV1ZklxdGlPRVN4UVJPcXlRY3E4Umw2LTBTaERNUUEwcWNLdGFCNjBRa2I3R3VTTzJlcXlJSUlLNlZEVmdPV1RFWDltZnpyUzJLUmZRMmdoNzZsS3h1MGxqRVBxY3ZSM1kycld1WUk5ZGN0anlmZ0pCd0FwYWRnZW9aaWVQbVFYcHFza08xNHZpYkdYSl9FZDBjQTByc0xVcWFVR2N3RVZmbEMxSGRoem54MGc?oc=5",
+    "fonte": "PT no Senado",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b46432fab5b0f9dd1176bf7d673b5ccd015ee144c65ca14e1797f0eec553625d",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Queda do IPCA-15 reforça apostas em novo corte da Selic em setembro - Canal Rural",
+    "resumo": "Queda do IPCA-15 reforça apostas em novo corte da Selic em setembro Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2wyeXBvQ2JIekhGZ2FaNUVRY3IwUnExXzEyR2V3TUVJdXlLX1pEWE4zaVdjcGtjSHRCM2x5LTU2QktVN3pVa0tUdzV5dmVHTzh3RkJaRXJoTlZaM2dNVkVVOEU5cmo3SXktSEs1TUVpTVM1UW4tQTVoNlJlcldSaXBQMXg5ekpPMTN3bnV5VkMyTktDWkJBeGlYWHh0ZEE4b3JOODVsYjNWRUE?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1d7e63367d8db948b21b8e20c515de78a0c0ce24601258b3f9cbc30d3e4b8583",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte - Money Times",
+    "resumo": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte Money Times",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjBYUGZxU3dIYWNfVW13Nk8xT1B4RURrNjNtOXpuQlJrN01Fa1MyeDQ0SHl3UnFGLWRwYXN3Z0N1azBHbkNjYVBBSzBXUGhjaGlNNDdUNWlybTA1T3JlVnRhaXpQeWdLYUZpVzBuSjczbUVqNXJfUUxOcWdXR0ZhMmZmaW1mWXZteXZNSXhnankzYTU5cFhqY0FobWlmYVJseWZIR0h3dGpYaXR3S2JJc2xybzlDS0N3T0lnNVNIYkRZcUFvWC1LM2VlSjAzemRzdTV4SUF6Mzc0bVdo?oc=5",
+    "fonte": "Money Times",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "9a8bff5b2e8e7d346484958ba21b2c48294c687649a82ec666d4b59a54482f90",
+    "chave": "850174d7e8689171a665c569e18efec9228777777c6396bfc6fe6995a9b8e9d1",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,36 +80,34 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com dados de inflação em foco - InfoMoney",
-    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com dados de inflação em foco InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUV9zUF9qcXpzcDQyLVZvdmlVRVkxOTJsRGVuMHhwR0tXSmV2Yk1aWUN5aGNXZXAwenh3dXNtb2kzZkFHdncxT3FrYUl3SzI0WnpQbGllN0llYm94SFY5OXRJMGxfR2tpV2tuckJQTllLWEQtVDZXeHExbmVGR2xxMFJkZDgwcEtHRGZESGVNSQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "61f2b03511e6e06a24daee652c995f5c7378407e8aa95aea9304c0375b8979d6",
+    "titulo": "Vorcaro vai depor à Polícia Federal em inquérito sobre fraudes do Master - O GLOBO",
+    "resumo": "Vorcaro vai depor à Polícia Federal em inquérito sobre fraudes do Master O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbjY4c1pNaTV2MjRXMFRyRVJ1SFF6M0NzN1dvNFBxV05ReGcxUV93UnRicWxybU82aWlTcHNheFBBb0lqSTlDaHJRYkZ2NDhPWTdvRUNtZk5YOG5NQ3d1ejh5a29lQ1dIZ1VwbE1fTHlNR0NxRWtod3pqdFBvSHZsLWpMdkhPYzZsclZJWFBlR2Z4czFZaVVwWnlQZjNnRzVndUcyUy1XLThndkNLaUpGTHFzVUlqTVZRRDhYT1pLb08tVm1SdzljTUxqY9IB2gFBVV95cUxPZy1tNm1wWkNuY2E2azVPMkVhajF0bTZ6REtRXzJzNFJDZUpxX3JyOWVhYlg0TF9XM0xtT1NTeGNHcnFHLUZCekJ3eU1jMVBBY0w2N0RqTnRybll2OUlRNEJGOU40U3A2Z0dzWDEtMWhHbzhWLTdLNURyajViN2hLOGE0S3M4SnFWMk5KQVJBR0M0eDBjRzBnN2E3cW8xUVVnbEpZRzZMTHFNZFI5WjRsZVJNQ1JMOERrZlpwVl80eDBMTU1FaWsxTDJWb0w0c0E3cFVnd0pQZ01TZw?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "11c79a77687ec156240d2e9a2ae56b40aae762e6363ea8513bed9b8455f8d0f1",
     "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P 500 e Nasdaq devem abrir em baixa após dados sobre a inflação; aguardam-se os resultados da Nvidia - TradingView",
-    "resumo": "S&P 500 e Nasdaq devem abrir em baixa após dados sobre a inflação; aguardam-se os resultados da Nvidia TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5SllvQjM4SEtVNU05bUlNWHRrem83LXB4b3NXWjVWdFNmc0RLWGRvYjcwNkhXbUJ3bk40aDdPTWljS2k4NFIyRnNORjhDUUg4RnkwazVsR2dyQUFXb1ZyclVZcGpsUjhCMTRGVTdaWEcwSGFjWUxn?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "4fa4d95fe35b59ef1c04075fd0573a8730894940b65348ea279c9c4f7e4b765d",
+    "titulo": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central - InfoMoney",
+    "resumo": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT21WSUFlSG5UNUpWUHMyUjhaaFM2RExDbHMtX2M0dVdlTzRVOXJON3QwMm9LeE9pVUVCVXIzTGwwSnZRQ0ZsYnU3ek93NkJaUWVBWDIyUHM1bmNkNEZDSDBsN1gwaWdYVERlSVo1eEJMaE1rN1hfRlJReGRmN1B6eXFaeXB6UXlQdm1VN0RUZnN1TkNZc3ZHczMxSXF1bTFKeXo3VjdpOVJCZkV1WE05YTNwT0hxb2JQOGZSUy1HONIBxAFBVV95cUxPYld0dC1YUGo0aTBUOWJCZk10S2FOVVlUOHNaenJtNW5rOWNISXd3bDZnZUE5cUlVM3pwUlZIUXNuZGFvU015bTc5WTYzbUR5bDBXVVZza0JPeVBMNm5TbW5iN3c0aXVUVzdQaDFzZzhZVWlTWVFuT25VWHd4X2JEeDlvdGFoaFd1SnV5elg0dTFER0diWXhiM2puVUtPLUQ2Qi0wMDMwMGxxLTgybWZPTHZYLS1YandSZldkYjIzYUdEb24w?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "cb44510e74f969f10d2048376afedd8fdb90b5dca64e58737a0fde019e8821c7",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -65,50 +117,6 @@
       "Caixa / Reserva"
     ],
     "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dinheiro vivo em casa: entenda recomendação do Banco Central Europeu e saiba como conservar notas - CNN Brasil",
-    "resumo": "Dinheiro vivo em casa: entenda recomendação do Banco Central Europeu e saiba como conservar notas CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWUFFbEJjM1p3NU5rWEpvNE8wYUpWU1dfZmtpclZiaUd1N3hRTm5WUUVSTGFFNUp0SjlfWnVFb25UVEFqWElKeEpiU1IybFRBN1VtZ1FsaXVMYl8welMwVDVtQ1VRNlAwalBzQndsZjlnOUtyRjhCOVVQQlFhX0d6VmszVjI2NVdzWXJNeW9kd0VCajVVakg0YkpTWWl1T2ppblZCWDY2MkRsMVpFRFFVYmhYOE4wOVVLTFh5ME9faUpxTmJycjQtSzRpTW9yWE8tSnM1ZXV3?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fe94454978c68b407372e1033d34a6ee6367a55f66410528b9421da6a4a53a03",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "CEO da ABBC cobra Banco Central por regras de parcerias no Open Finance - Finsiders Brasil",
-    "resumo": "CEO da ABBC cobra Banco Central por regras de parcerias no Open Finance Finsiders Brasil",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFZObkR1U0V0MmpKaG5lVC1Jc0ZLR3FLbzRoeTlTYW9wTmUwUEpfX096VTdkelFvczE2cFNRazZmdkFMUVNFendPNVBuX1YyaUhpS2N0eE1qaXFMSW5CU0s0TnljY3c0WUxQaG84dzhVNE1zMWxLSWZDcnVrdHdOUUpkblpINnEwQ1ZkaDFKYTd1d2VIcUYwWFJ4dk53b0Z1WW0xellNZlFpQ1V0dXM4Tg?oc=5",
-    "fonte": "Finsiders Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2f8444d30d541ec8acf3e4fc99c887ed2b407f876c87d497536702728eb881b5",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
