@@ -1,114 +1,122 @@
 [
   {
-    "titulo": "Juros futuros recuam com maior otimismo por cortes da Selic - Valor Econômico",
-    "resumo": "Juros futuros recuam com maior otimismo por cortes da Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX080NVRoQm5PWkFPbFlxYV9tOVY0YzdiUU04eU84RzBudHh3OWFmUEZLZURZMmh3MVlpN0RHU3BtV2JGTldDQXA4THN1cDBfMGJ4aUhqU1BTdEVtQzhCSHBCRWZza2hFWGFBTzFMMkV2UkJUQ3R1NFV1elhTcF9ZUUxzN1kxbGNJWVprOEdobkU1Tm1QdE0xYURHdWtIclB5UmpWOTZoR0x3SmVBYlNCdTV0WjRqXzR0TzdWdHpWZmo1ZXhtRGRn0gHHAUFVX3lxTFBfTzQ1VGhCbk9aQU9sWXFhX205VjRjN2JRTTh5TzhHMG50eHc5YWZQRktlRFkyaHcxWWk3REdTcG1XYkZOV0NBcDhMc3VwMF8wYnhpSGpTUFN0RW1DOEJIcEJFZnNraEVYYUFPMUwyRXZSQlRDdHU0VXV6WFNwX1lRTHM3WTFsY0lZWms4R2huRTVObVB0TTFhREd1a0hyUHlSalY5NmhHTHdKZUFiU0J1NXRaNGpfNHRPN1Z0elZmajVleG1EZGc?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7d51ee5c6445f55da10ee87d8f3728f59961386ccf345acdbec9859099a4d085",
+    "titulo": "Inadimplência das famílias sobe e bate recorde em julho, diz Banco Central - O GLOBO",
+    "resumo": "Inadimplência das famílias sobe e bate recorde em julho, diz Banco Central O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR2V3bEJ4RW92SzZyOFZVUFFVbHhGWldhaXZaSTcyRUREdlVkWTVpbVhrazNmem1tdzBOeVF3RDN1RFkxSTVqQXFMRzVaT2FJaHVLZnJIN0N2U3JnSTM1cERudTJXWjBNMVlmcG5zdUU5cEhkN1djNm9sejNlekt0dHlBa0lsZFl4NmgxazRzOXRhZnJoNklZdEpHdkhYM1FaRV9iOTlXME5ZLXptbl8ycE4wOTdLV2QybF91QVZ2dUVHTVRhTGx0RHo0OUExMEJXRnNxR3pfWVJZb0xESzAzYnZHU0dtUlBtZFNjN2l4bG1JZGNkZG03QXRtSW_SAYsCQVVfeXFMUDZWNnlNRTZDMEd6cEdQQWE0MWt0S09XZGZfenZIQzdMNUFoaW1naGw1MGxQXzFseVJaMS1NVnVPVGxfN1lza3FrOW9RMThmekN4MGRHODUySE9maENyNnpwX1JUUzRmbEVaODdSMGJqUS1iR1ljMV9kUnJ4LUt1VXRaY1pvYjJ0YVV3M2JMbmlSVWFuZlFFcl9DbnZadGlxS1EwQzFMRklOODhlbzFRREJleG5kS3NSOHlPRzlCcTItaXVvLXdaUk9Fa19ISTdDRG8zUGxsam1xdWVnaEpaT2pPV0JyZmdSbWtwYW9MeGtJekktSHdqenRTMmFEcXk3dmg2cTFpWnNsZkVJ?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "f5f0d58899459f6ac657a9d9ed284babd7d28ba38182743ea94a057e445a777a",
     "ativos": [
-      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inadimplência atinge maior nível da série histórica em julho, aponta Banco Central - suno.com.br",
+    "resumo": "Inadimplência atinge maior nível da série histórica em julho, aponta Banco Central suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcjh5ZGQ4emZxNUtNU3dkX0lXd3JaNGhnc2pLVU81a1F0aTYxT0UwaXh2TzZfUnF3UENTLWYxUFhtTWFRNzJoR3F6WVo0WTZjVVE1c0JMTnRzaEN5M285a1Q4WDBKdzhZc3pxbTZNdnNib2Y1dXU1Z2hfbVp4NUE2X2pvQVhvT2ZucG9v0gGQAUFVX3lxTE1QeExWVEI4NUJMaWQ5cVhYNWdPWnUyTWZpYzJiZ01rYmF3emRIYVV5aGNkSHFvUWlZU01NYVRyWnVMa3o4S1lxYVhSNm5YRHJCSG9Ca2U3eUdiMVFrMHhuZUp3bktwMjV3d0hxY1lwMXE3OU5IeU4wMXpUWlR1QkUwOE1Fb2Q2RGtiNmNaMWtXYg?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "5f69dac8e73e4417db7d35c1afb059421c02f6595298289b7b513abbf5cb5b36",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Presidente do Fed diz que banco central americano terá trabalho a fazer se inflação não cair - Folha de S.Paulo",
+    "resumo": "Presidente do Fed diz que banco central americano terá trabalho a fazer se inflação não cair Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaDB2bDdBOG9MLS1teHFqa3pZeFVuUjl0WVp1bmR0Wlgwam43bmFDOXlaN3pIMmEySFhWWmJabDdDZmItN2ZFWHpWdklacG1mRjBVQm0yRWppb2pPSnFyTzNJelRxTnE5eFd1c2dtT1BCU1JPZzJFd3FKZkRvckNIZ3JGUzBQQWlNTHQzVXU3eDVoeUlfc3dkN3dwb3dzSnRRbFBhUW1LWEQzSFExcWpNSkl1VnJTTVpoTFM4TnVXWGdkU3dmVGcyblp6dlQyaXJQRDE0WjBjOF9WRVpQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "79e44517002e3a36d1d93793ae6c85254f9b52b8e074f874426143dbc91961cc",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central define regra para administração temporária de cooperativas de crédito em risco - MundoCoop",
+    "resumo": "Banco Central define regra para administração temporária de cooperativas de crédito em risco MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnVteHhhblk1QmtTM3QzOGhrWFFGVmJXYk1ER0VwZFdaZFl1UG5oa3c0OW14THhlaEhYd3ZZbFpSODY3RWp2TXlOYS1UMTdRU1MzMzRqQkJJR3k0X3dCWmJZTklpanliTmxkZ0w5eWZneVRTZHpuWVZBcGxyeDRUMVFyczRBcjlwLTNVb0Q3NHNSS3Y4eHhoTHdqWjdoSTlXcjV2ZkxINVlQMkRlYXRORWlhWC1mUlVBUEF0aEc3b3VWMWFsQUZDb2oyVlNTUzlwQUE?oc=5",
+    "fonte": "MundoCoop",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "af0b3f8c42199bff39d7c5c6fd69474fdd9dea62b4830f2650d670d2d6459e9a",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Analistas veem dólar mais forte e menos espaço para cortes da Selic após fala do Fed - Exame",
+    "resumo": "Analistas veem dólar mais forte e menos espaço para cortes da Selic após fala do Fed Exame",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2lBYWY4OFRDY3J1X1l1RVFSWDFOX1M3NW9aYkxqa1pnS3VzeERpQVRJSWNOUTF3bTZMMjgtZFpPaWtyZmxDX2dELUZja2VxSnRMMUlhX05ILURHV2t3Y01tTDFWT3NEZEtFNTRwVjZrVDlCeVEyS3UxQ09nd0lUSmIxTW9lVXhRcGphdzR3YkFBeVk1eF92RE5uQ2tqaTdLU2prcjFQVElaTkRYdmhMZlhaR0IzY0Q5S1VB?oc=5",
+    "fonte": "Exame",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "69e52ca60b61ab8bfb40d0234f941b4b1532778567dfff7881dda8b5e42ec5f7",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Argentina classifica EUA como ‘principal parceiro estrangeiro’ e aprova reforma do Banco Central - Estadão",
-    "resumo": "Argentina classifica EUA como ‘principal parceiro estrangeiro’ e aprova reforma do Banco Central Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbklrWTY0R1NzaHlpaUUxWHhSYnpTamIyTzVwelhLVDFMQk5xU2VlU0J2MFFCTmN0cTQ5end1N2YxSnhBdUZ1NGFUUTRmRWp2T0xoVU0zTVY3SXpLUkFaLWxqWUtFak5QOHF6REJYeVMxOVFWOVhTaEJBUTllQVowbXdDZm0zVnloVmtnSFJ2YmZIbkxTbDVsMFFvSGZORk9SWGFTbnRXRWhUM3lUQU9oT0RTSmp0NzFHV3Rxa1JwdHB6T3dKTTJQWXAtRUZQQkRQVE1BbA?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "49d46abd36de09b01c99fcb63a6123d2216a16457081156d029c38079f253189",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Milei destaca relação com EUA e avança reforma do Banco Central na Argentina - A Crítica de Campo Grande",
-    "resumo": "Milei destaca relação com EUA e avança reforma do Banco Central na Argentina A Crítica de Campo Grande",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVjZFQlE1bEpzU2ZYNVR5TTJkRHU0Uk9aVmVDN28zM2h0bGxZSVNaWEQ4azdFTF9RR1UwZGtLVDFJcUZVV2dZTEVsMFBHNGJZR3RKTmE4SjB1X0Y2TEJPNHBHdFdCc3NpZUV6Sy02Y1hFNGdJdjU2d2NFSkpJel9HZlBRdGQyNnV5aFBXdHhGY3NUTVNhRkU3bHBuWTFPRlFlUTJDaFptWmg0M0E?oc=5",
-    "fonte": "A Crítica de Campo Grande",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "420df8af0cd5d1ea32b15f1e0b14501c108ffc0f664f4c8a39263590d8a53bce",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Câmara da Argentina aprova reforma do Banco Central na tentativa de reduzir inflação - 27/08/2026 - Economia - Folha de S.Paulo",
-    "resumo": "Câmara da Argentina aprova reforma do Banco Central na tentativa de reduzir inflação - 27/08/2026 - Economia Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc1ZNQ215UFBic2FQYmtuUUNNUFRxRnU3UUtDMi00ZlpyN056c3AycjFuRFR0R1VrdEFjWGlqdWtrc3MzYlBRR0hYWTlUWTZzZ3RyRnFlZmR6QlpXMjREY2Ruc1BldFdGTmVsdkVNQ0RoMHlCNDFyUDZrVmFzTktaOE9raEVKc0lHSTlSYU5Oam9nYnFkMm9pTWpFS3BDTk5WcE4xSmhuekpCZEdGVGh6R0ZmWHZGNGdHZWE4c3lTdExFVEw3T0hKSXQxNVhEVUtXRXc?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fb3ff63583d45941d7bf59783ff0a100fd49b658d8ea3d41adc91626e135ecca",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "No Concred, Banco Central aponta desafios para o futuro do cooperativismo financeiro - Portal do Cooperativismo Financeiro",
-    "resumo": "No Concred, Banco Central aponta desafios para o futuro do cooperativismo financeiro Portal do Cooperativismo Financeiro",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR1FVXzhzNnMyUXVwTTJ6SnYzY3U3UjEtMWljSU5qS29sZjFPT21pQ282Mkt5TUNxZlEzak1EVXZLb1lGZmRBQmtxMmtHS253S1IwaHJ4YlVvRFBkYmhwR1cySGdnWlpVczFybHFBUUp6SVNkWmk4MXZyX2dpZGluUV9qNkFkZTQyajhwNVEwNFpyX2p5ZkVHa2tLQWNtTnpqLVc4dmNBVDViOVVMWDk1NUlkSHYyOXowblpMRy1USmdWcmFFT1lIbkZGcV8?oc=5",
-    "fonte": "Portal do Cooperativismo Financeiro",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "90594bc79242dd2faf1827cc4c187788d8d6341954e83dd1330a7ecf1fdf5dc3",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
