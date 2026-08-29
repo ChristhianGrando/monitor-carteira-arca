@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Corte da Selic: Impacto nas Empresas, Crédito e Investimentos - Portal Contabeis",
-    "resumo": "Corte da Selic: Impacto nas Empresas, Crédito e Investimentos Portal Contabeis",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFBzeFRJQXJwM3F3RlRIUnZROUNja2JhQjRXR3J4bWltM0tHNHBGN29WdzVfV19sYlA1REZvOGg0dEx4aDVBRmF6YlROWjNJTUljSGdoRk1QODFtSWhhQUFUdU4wd3dIaGlzSXQySXpWSWNuX3diTUdxcTFqVWpXSkxyZ0FTNjk4Nkl5czJsYjhld01OV1N1SUg0dWZhWGpuTHVjc3RB?oc=5",
-    "fonte": "Portal Contabeis",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "261159abd4558c3284007ab7ef762897e8e4d3237b194ba988b87cb807dbb2a9",
+    "titulo": "Top 3 FIIs para investir com o fim da alta da Selic no horizonte - EuQueroInvestir",
+    "resumo": "Top 3 FIIs para investir com o fim da alta da Selic no horizonte EuQueroInvestir",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnNQUFJZZEJhZUE5YndQVUNlMDlpejlSMm1GYXV4cENMVGQ0T3JHZ1hRdUFUdTk2bXVocnBFTmVwandJVk93OU5oSzU4MDNJWXAwbXF2UElmZzYwLVpoX2h4WU5COXdPT2J2d3FiVjRHMHNlTmhVX0ZRNkxuUl9kX05kT2NIU3ZEVEtCcjdqeGJHTndBTVVIYmMtYXBRS1lK?oc=5",
+    "fonte": "EuQueroInvestir",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "516427f325ca09b4e927d9c4d6439d2256e833ac5388e3b02fdec5d2884ca94f",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,81 +16,32 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "S&P 500 cai após fala de Warsh sobre inflação, mas fecha semana no positivo - Times Brasil | CNBC",
-    "resumo": "S&P 500 cai após fala de Warsh sobre inflação, mas fecha semana no positivo Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjhTaWs3RUtucWRndVpsMnh5aC0tOE5rdG55MXFhVFlnNTJQSDAyb2Qtbk5xdnYtQTNoQzJvRVc0VlJYUFE0anByNnJoai14Rk9xa0lIR2FkVlFNWnMtakkwazBjOUx3VTlyTW5uUGh0S0tjdDZfbnVUbzlzRjNCc2g1eVhTUF83SXdWUFd5aE9ZQk1rVjg1LUNoZG44elBqUXZSbVpqWFhZMzdkeF9SdE5EMGY3cWpmV09GUHJR?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "7cdd3ed932141911e227e7199e0f2330ca4cb46d33477471ca8ffcc445f247b7",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Tempo real: Ibovespa fecha estável com 'cabo de guerra' entre Petrobras (PETR4) e bancos; dólar sobe - Money Times",
-    "resumo": "Tempo real: Ibovespa fecha estável com 'cabo de guerra' entre Petrobras (PETR4) e bancos; dólar sobe Money Times",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3dsTjJLdUlNZEdJN29CYVJlMlExWFBxdkpMWVFPcEZXNU1LUUhtOUo2cHV6d3VOTkRIbXFpaVFTV1hXazJUOFd3LW0tS0doOWZjeE96WUdkZ01EMV9fOUNxRzdpZ1FibnE1cGEwUHVLd2Yzb3hTeW5kLTgtQUU4WS1rZXIwZjBOSjBlNkpqUDhzVGt4TVhYeTg0d1lxZw?oc=5",
-    "fonte": "Money Times",
-    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
-    "chave": "7e98f805916c1aeb33d2353f6f4006a79d94562460174101701cff24b15be446",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 12,
+    "score": 16,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Como funciona o Copom e qual o impacto da taxa Selic na economia - Safra",
-    "resumo": "Como funciona o Copom e qual o impacto da taxa Selic na economia Safra",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUVCeWZNR0dWMHNlSDNCR1BwNWhnUEVQdzg0X3ZDdVhST1NxdktkcDFyblRxaEVfeUhsZUFBNzhZME0zcVRqRUhQckZfS2Fvdi1WZGQwU3lNbms3MGZ0Wlh2TmxzUFNraXE1OVVBUW5peXNGb1A3dEVrZWlvSnQzdVpB?oc=5",
-    "fonte": "Safra",
+    "titulo": "Ibovespa opera estável de olho em discurso do presidente do Fed, o banco central dos EUA - VEJA",
+    "resumo": "Ibovespa opera estável de olho em discurso do presidente do Fed, o banco central dos EUA VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVFtQWw2NWU3MzNVbXVIUUJjSkJJQ0lPTWdVR25CS3BhU2xYN3pWLVhpYzdZdGpTcXNKckVEX2dDZUF4Yi13VjZIVzJydGoweFM5SXRmeXl4NnFKdlUyMkRKVHY2NGtiQUlwTGVWeUlxUFlHTFJKSDl1U3UwNHBROGRVcFgyVzdCZXN3cG11QkdCdjZZTWowREUyYk1rOHk4X09MblF3dnJ0VXR3V21BMU02ZmJPWVlWa3JubEhKLTM?oc=5",
+    "fonte": "VEJA",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "464b8f09eaedd9a62706414d941e4777b198e7fc885348b51212e64a03ee8c14",
+    "chave": "adcf0efc59eeb4217f7710c535afea144d6072092eb2130f0c6457b643d11b05",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
     "score": 12,
     "motivos": [
@@ -102,12 +53,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P e Nasdaq fecham em baixa após chair do Fed reafirmar combate à inflação - InfoMoney",
-    "resumo": "S&P e Nasdaq fecham em baixa após chair do Fed reafirmar combate à inflação InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUJ0MHgyTll4dUgyZTB0X0cxNEJFZkQzZFV6TGxxamU0bTY0VUJDc0YxWHdQX0lPYXl4TDZWUWFOQ0ViT1ZSZzd0aHg4bHJZeEd5QnVfWUpkZURmZ1hrTmVDOWV3blgzdHJwNTU5cWV2U2daRWJ5TURrYUo3SkF6TzMtdkd5eWtDQ3BEZk4xamM5NlA3eHVGV18yLS1WeVlFS1RWTzZESXFlV28tY0JXUEkzd0cza0RWeTZV0gHAAUFVX3lxTFBrRDVIMktLUHlFNjVpbnFRNHFVNnRGaS03c1hZWDk0ZVNEZURvUWwxQ1M5RUlMSG9BTXU5Tm1xaVpQTVhMYXUwQ3J0RFZyWERhUjRZZ0owTlVKYXNHOHF2MnJJYkdrYXNLd3dQc1ktenZXdzZNUWFsYzhCOHpPNXBtSUh4R2lVejNWRFAwM2dBMWc1ZXpWRDF5LWtEVkR1b1dHQTczampWdUxVQk5EenFER3RySHJ0dGtuNFlSR243Tg?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "777160ed056c7581984f69c9e6dee1bc99b867e2db506e7f014f13105afd5cba",
+    "titulo": "Presidente do Fed diz que inflação nos EUA é 'preocupante' e sinaliza que pode subir juros - Folha de S.Paulo",
+    "resumo": "Presidente do Fed diz que inflação nos EUA é 'preocupante' e sinaliza que pode subir juros Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaDB2bDdBOG9MLS1teHFqa3pZeFVuUjl0WVp1bmR0Wlgwam43bmFDOXlaN3pIMmEySFhWWmJabDdDZmItN2ZFWHpWdklacG1mRjBVQm0yRWppb2pPSnFyTzNJelRxTnE5eFd1c2dtT1BCU1JPZzJFd3FKZkRvckNIZ3JGUzBQQWlNTHQzVXU3eDVoeUlfc3dkN3dwb3dzSnRRbFBhUW1LWEQzSFExcWpNSkl1VnJTTVpoTFM4TnVXWGdkU3dmVGcyblp6dlQyaXJQRDE0WjBjOF9WRVpQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "30ef34ceeb265af84a13d36f8c4c21e4aec248450ce7750c4bc586bee8e46033",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -117,6 +68,50 @@
       "Caixa / Reserva"
     ],
     "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Bolsas de NY têm queda após discurso conservador de presidente do Fed - Valor Econômico",
+    "resumo": "Bolsas de NY têm queda após discurso conservador de presidente do Fed Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3Z4Mzl2azQ5ZTZSbUdsVVlPbE1CYWtZeW5EXzgzajhfaGJWOVRWQW9rcEJMM21fMVV0dU8wUmtBa21zcUoweFZtNGU3N2tBNWVkQUFNWkh1RUxvZFo1aVUzVHVVZk5mSlktQmxaeDYwQWw5cjJnMzJwcnVNMElaMXNfSEh5T1AtY3E2OHJ2TWM3SVJ4dWQwMFlWa052WlBzdHZvOF9MVVRKUkNPVW4zRUF3cHVOS0UtbGdwNENmeGhLcWlzdUHSAdQBQVVfeXFMTkJQTnNzcHVCOVdhWi1mVUc1NjJyWVZNSDVmd29RV09CRjNkRktfb0F6dGV6Mzk5dnEtZThESVdOTjFrWGhpSmtQWHpMelpGaG1HOUFtQ1hoWWo2MmJ2ZmJSdmtvRHNUYlJiSUdEMkkycWVGdkEyaDVpT1ZsTlBPa2xpUVZ4ZE9uNHFnTVA1eEcwNHBrbEdRYzI4MENpR2lpWjhodWR3VGJRMXljRkZfMEo1Vk5OOHFBb3J6UXR5VnlzSzllWDUzNzBvVVlnVGxWVW9KcVI?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "309d61c7cd81ac6c6a10b07da491693648eeac2b2598a2083093cdb8050e6d8e",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Wall Street fecha em baixa após fala de Warsh sobre inflação - CNN Brasil",
+    "resumo": "Wall Street fecha em baixa após fala de Warsh sobre inflação CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2UwZlU5cWlpdTUwZkFSdmxJYTRDdzBUT0JLZ3ctc1lzOU53UnlqR0ZoT1JMNWhWczRpX216b29MSFZjbnE0eWdCRGoyb2p3NmVUUjUzV2J5cThhUmdnQ2ozaWhPQ1NlaThrVHJrZDdtRkJhaWh4MktJMlVCS1lpRzhIeU5QRlFJVENnejVZbzJndnBsemhhMWpwd081ekZvR2dNaTlRQndfZlF3cVNoNDdoWQ?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "935459317b97982d7df40c35f3d885c060b38b5ddbbe3c323a7cc37acdf978db",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
