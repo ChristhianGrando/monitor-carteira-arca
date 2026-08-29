@@ -1,61 +1,38 @@
 [
   {
-    "titulo": "Inadimplência das famílias sobe e bate recorde em julho, diz Banco Central - O GLOBO",
-    "resumo": "Inadimplência das famílias sobe e bate recorde em julho, diz Banco Central O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR2V3bEJ4RW92SzZyOFZVUFFVbHhGWldhaXZaSTcyRUREdlVkWTVpbVhrazNmem1tdzBOeVF3RDN1RFkxSTVqQXFMRzVaT2FJaHVLZnJIN0N2U3JnSTM1cERudTJXWjBNMVlmcG5zdUU5cEhkN1djNm9sejNlekt0dHlBa0lsZFl4NmgxazRzOXRhZnJoNklZdEpHdkhYM1FaRV9iOTlXME5ZLXptbl8ycE4wOTdLV2QybF91QVZ2dUVHTVRhTGx0RHo0OUExMEJXRnNxR3pfWVJZb0xESzAzYnZHU0dtUlBtZFNjN2l4bG1JZGNkZG03QXRtSW_SAYsCQVVfeXFMUDZWNnlNRTZDMEd6cEdQQWE0MWt0S09XZGZfenZIQzdMNUFoaW1naGw1MGxQXzFseVJaMS1NVnVPVGxfN1lza3FrOW9RMThmekN4MGRHODUySE9maENyNnpwX1JUUzRmbEVaODdSMGJqUS1iR1ljMV9kUnJ4LUt1VXRaY1pvYjJ0YVV3M2JMbmlSVWFuZlFFcl9DbnZadGlxS1EwQzFMRklOODhlbzFRREJleG5kS3NSOHlPRzlCcTItaXVvLXdaUk9Fa19ISTdDRG8zUGxsam1xdWVnaEpaT2pPV0JyZmdSbWtwYW9MeGtJekktSHdqenRTMmFEcXk3dmg2cTFpWnNsZkVJ?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f5f0d58899459f6ac657a9d9ed284babd7d28ba38182743ea94a057e445a777a",
+    "titulo": "Corte da Selic: Impacto nas Empresas, Crédito e Investimentos - Portal Contabeis",
+    "resumo": "Corte da Selic: Impacto nas Empresas, Crédito e Investimentos Portal Contabeis",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFBzeFRJQXJwM3F3RlRIUnZROUNja2JhQjRXR3J4bWltM0tHNHBGN29WdzVfV19sYlA1REZvOGg0dEx4aDVBRmF6YlROWjNJTUljSGdoRk1QODFtSWhhQUFUdU4wd3dIaGlzSXQySXpWSWNuX3diTUdxcTFqVWpXSkxyZ0FTNjk4Nkl5czJsYjhld01OV1N1SUg0dWZhWGpuTHVjc3RB?oc=5",
+    "fonte": "Portal Contabeis",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "261159abd4558c3284007ab7ef762897e8e4d3237b194ba988b87cb807dbb2a9",
     "ativos": [
+      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
     "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Inadimplência atinge maior nível da série histórica em julho, aponta Banco Central - suno.com.br",
-    "resumo": "Inadimplência atinge maior nível da série histórica em julho, aponta Banco Central suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcjh5ZGQ4emZxNUtNU3dkX0lXd3JaNGhnc2pLVU81a1F0aTYxT0UwaXh2TzZfUnF3UENTLWYxUFhtTWFRNzJoR3F6WVo0WTZjVVE1c0JMTnRzaEN5M285a1Q4WDBKdzhZc3pxbTZNdnNib2Y1dXU1Z2hfbVp4NUE2X2pvQVhvT2ZucG9v0gGQAUFVX3lxTE1QeExWVEI4NUJMaWQ5cVhYNWdPWnUyTWZpYzJiZ01rYmF3emRIYVV5aGNkSHFvUWlZU01NYVRyWnVMa3o4S1lxYVhSNm5YRHJCSG9Ca2U3eUdiMVFrMHhuZUp3bktwMjV3d0hxY1lwMXE3OU5IeU4wMXpUWlR1QkUwOE1Fb2Q2RGtiNmNaMWtXYg?oc=5",
-    "fonte": "suno.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5f69dac8e73e4417db7d35c1afb059421c02f6595298289b7b513abbf5cb5b36",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Presidente do Fed diz que banco central americano terá trabalho a fazer se inflação não cair - Folha de S.Paulo",
-    "resumo": "Presidente do Fed diz que banco central americano terá trabalho a fazer se inflação não cair Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaDB2bDdBOG9MLS1teHFqa3pZeFVuUjl0WVp1bmR0Wlgwam43bmFDOXlaN3pIMmEySFhWWmJabDdDZmItN2ZFWHpWdklacG1mRjBVQm0yRWppb2pPSnFyTzNJelRxTnE5eFd1c2dtT1BCU1JPZzJFd3FKZkRvckNIZ3JGUzBQQWlNTHQzVXU3eDVoeUlfc3dkN3dwb3dzSnRRbFBhUW1LWEQzSFExcWpNSkl1VnJTTVpoTFM4TnVXWGdkU3dmVGcyblp6dlQyaXJQRDE0WjBjOF9WRVpQ?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "79e44517002e3a36d1d93793ae6c85254f9b52b8e074f874426143dbc91961cc",
+    "titulo": "S&P 500 cai após fala de Warsh sobre inflação, mas fecha semana no positivo - Times Brasil | CNBC",
+    "resumo": "S&P 500 cai após fala de Warsh sobre inflação, mas fecha semana no positivo Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjhTaWs3RUtucWRndVpsMnh5aC0tOE5rdG55MXFhVFlnNTJQSDAyb2Qtbk5xdnYtQTNoQzJvRVc0VlJYUFE0anByNnJoai14Rk9xa0lIR2FkVlFNWnMtakkwazBjOUx3VTlyTW5uUGh0S0tjdDZfbnVUbzlzRjNCc2g1eVhTUF83SXdWUFd5aE9ZQk1rVjg1LUNoZG44elBqUXZSbVpqWFhZMzdkeF9SdE5EMGY3cWpmV09GUHJR?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "7cdd3ed932141911e227e7199e0f2330ca4cb46d33477471ca8ffcc445f247b7",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -75,48 +52,71 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central define regra para administração temporária de cooperativas de crédito em risco - MundoCoop",
-    "resumo": "Banco Central define regra para administração temporária de cooperativas de crédito em risco MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnVteHhhblk1QmtTM3QzOGhrWFFGVmJXYk1ER0VwZFdaZFl1UG5oa3c0OW14THhlaEhYd3ZZbFpSODY3RWp2TXlOYS1UMTdRU1MzMzRqQkJJR3k0X3dCWmJZTklpanliTmxkZ0w5eWZneVRTZHpuWVZBcGxyeDRUMVFyczRBcjlwLTNVb0Q3NHNSS3Y4eHhoTHdqWjdoSTlXcjV2ZkxINVlQMkRlYXRORWlhWC1mUlVBUEF0aEc3b3VWMWFsQUZDb2oyVlNTUzlwQUE?oc=5",
-    "fonte": "MundoCoop",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "af0b3f8c42199bff39d7c5c6fd69474fdd9dea62b4830f2650d670d2d6459e9a",
+    "titulo": "Tempo real: Ibovespa fecha estável com 'cabo de guerra' entre Petrobras (PETR4) e bancos; dólar sobe - Money Times",
+    "resumo": "Tempo real: Ibovespa fecha estável com 'cabo de guerra' entre Petrobras (PETR4) e bancos; dólar sobe Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3dsTjJLdUlNZEdJN29CYVJlMlExWFBxdkpMWVFPcEZXNU1LUUhtOUo2cHV6d3VOTkRIbXFpaVFTV1hXazJUOFd3LW0tS0doOWZjeE96WUdkZ01EMV9fOUNxRzdpZ1FibnE1cGEwUHVLd2Yzb3hTeW5kLTgtQUU4WS1rZXIwZjBOSjBlNkpqUDhzVGt4TVhYeTg0d1lxZw?oc=5",
+    "fonte": "Money Times",
+    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
+    "chave": "7e98f805916c1aeb33d2353f6f4006a79d94562460174101701cff24b15be446",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 14,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Analistas veem dólar mais forte e menos espaço para cortes da Selic após fala do Fed - Exame",
-    "resumo": "Analistas veem dólar mais forte e menos espaço para cortes da Selic após fala do Fed Exame",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2lBYWY4OFRDY3J1X1l1RVFSWDFOX1M3NW9aYkxqa1pnS3VzeERpQVRJSWNOUTF3bTZMMjgtZFpPaWtyZmxDX2dELUZja2VxSnRMMUlhX05ILURHV2t3Y01tTDFWT3NEZEtFNTRwVjZrVDlCeVEyS3UxQ09nd0lUSmIxTW9lVXhRcGphdzR3YkFBeVk1eF92RE5uQ2tqaTdLU2prcjFQVElaTkRYdmhMZlhaR0IzY0Q5S1VB?oc=5",
-    "fonte": "Exame",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "69e52ca60b61ab8bfb40d0234f941b4b1532778567dfff7881dda8b5e42ec5f7",
+    "titulo": "Como funciona o Copom e qual o impacto da taxa Selic na economia - Safra",
+    "resumo": "Como funciona o Copom e qual o impacto da taxa Selic na economia Safra",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUVCeWZNR0dWMHNlSDNCR1BwNWhnUEVQdzg0X3ZDdVhST1NxdktkcDFyblRxaEVfeUhsZUFBNzhZME0zcVRqRUhQckZfS2Fvdi1WZGQwU3lNbms3MGZ0Wlh2TmxzUFNraXE1OVVBUW5peXNGb1A3dEVrZWlvSnQzdVpB?oc=5",
+    "fonte": "Safra",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "464b8f09eaedd9a62706414d941e4777b198e7fc885348b51212e64a03ee8c14",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 13,
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "S&P e Nasdaq fecham em baixa após chair do Fed reafirmar combate à inflação - InfoMoney",
+    "resumo": "S&P e Nasdaq fecham em baixa após chair do Fed reafirmar combate à inflação InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUJ0MHgyTll4dUgyZTB0X0cxNEJFZkQzZFV6TGxxamU0bTY0VUJDc0YxWHdQX0lPYXl4TDZWUWFOQ0ViT1ZSZzd0aHg4bHJZeEd5QnVfWUpkZURmZ1hrTmVDOWV3blgzdHJwNTU5cWV2U2daRWJ5TURrYUo3SkF6TzMtdkd5eWtDQ3BEZk4xamM5NlA3eHVGV18yLS1WeVlFS1RWTzZESXFlV28tY0JXUEkzd0cza0RWeTZV0gHAAUFVX3lxTFBrRDVIMktLUHlFNjVpbnFRNHFVNnRGaS03c1hZWDk0ZVNEZURvUWwxQ1M5RUlMSG9BTXU5Tm1xaVpQTVhMYXUwQ3J0RFZyWERhUjRZZ0owTlVKYXNHOHF2MnJJYkdrYXNLd3dQc1ktenZXdzZNUWFsYzhCOHpPNXBtSUh4R2lVejNWRFAwM2dBMWc1ZXpWRDF5LWtEVkR1b1dHQTczampWdUxVQk5EenFER3RySHJ0dGtuNFlSR243Tg?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "777160ed056c7581984f69c9e6dee1bc99b867e2db506e7f014f13105afd5cba",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
