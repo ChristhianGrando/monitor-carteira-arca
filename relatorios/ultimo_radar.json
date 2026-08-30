@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "titulo": "Presidente do FED, o banco central dos Estados Unidos, diz que a inflação no país está alta demais e sugere aumentar as taxas de juros nas próximas reuniões; cenário tende a tirar fôlego da Bolsa brasileira e a reduzir o espaço para cortes maiores da taxa - TV Pampa",
+    "resumo": "Presidente do FED, o banco central dos Estados Unidos, diz que a inflação no país está alta demais e sugere aumentar as taxas de juros nas próximas reuniões; cenário tende a tirar fôlego da Bolsa brasileira e a reduzir o espaço para cortes maiores da taxa TV Pampa",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPcDBTY1JYRTQwRGNuVG8zdzRmSUpOSVV1NVFIeVlXVThmQ3BiYy1HSTcyQ19mZzUxc0xxT3Iwc05YQXlBTlJSUGFmdlM3bFBhTEVFNXNKczF4ejVDRkplMkxic0kxN21sRVlzanRoMG05VFBocUJ1VXBCRzNib2hTRTg1Ukx1Vjg5X2NTNUlXSm1zaGZxRWxZM3N1dkliMWlYNi11OEZDOXNjUjJSaV8wdnRqVjNEd3ZUVjJKOWVjZFkyeTl1U1RObm1iaEpBOVZuTmhwTVROUV9JdjFoWk5Hb3RscldKRGYyYlRDY0dTajQ4TWFqRjRGdC04aFl3TXNDNmVHNEpldlVuMWxEbC1FUTlldlNoVE1wRWQxTXNfVU9iR3RQY0ZJVkQ5MDd5c1R6YzJfMFNuZ0NpUE5aUjl5TXJHeVQ0VDgz?oc=5",
+    "fonte": "TV Pampa",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "8c0a85d1f7b1b46739449d0a3ba497000526ae966da6353b895cd77ce8eae62e",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Desaceleração econômica e inflação mais baixa podem levar juros a 11,5% em 2027 - PlatôBR",
+    "resumo": "Desaceleração econômica e inflação mais baixa podem levar juros a 11,5% em 2027 PlatôBR",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1pYdldPWmhmSGprSHhZcW8tQU1jWFB4aHFfS1BtZlRhaHRNaG5WbDEyYV9rZ3RWZkhZaHJxemJhWHpLZVMtRWpRbE5mdlUxcUdHV1h6VG55Mzg2Y1h0SGNzZ1ExNmt5Zm5BTTdqdjhRR1BOQUFTYm1KeVZ0M1RRNWRHMWoxNG9NaDdOUkhieHRzOXZibldMWHRfTHhXTmZ4cDVoVWtR?oc=5",
+    "fonte": "PlatôBR",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "bea6549d2b1869ddf3f7303c37c1a32ec71d9c0bcef4563c3c80813a7fb9d936",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central preocupado com juros altos pagos pelas famílias brasileiras - Rádio Pampa",
+    "resumo": "Banco Central preocupado com juros altos pagos pelas famílias brasileiras Rádio Pampa",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWldmQ0d4ZU9IQ3FDNmVhbWc4cFQweW56b21KV1AzZEVVd2M1Ti1Ocy1hejRTaVZJN2h4Qnd3MlhwM3p5OG9ucmFYX2dUMXhTZGhfZ01zbnNCSmNBSzFHZmZCaV83UzZ4U2trWU16U0QyblFhS2ozWTFlRS1EQ25GWmVJMlZnelU1clVHQU1OUmJCbkRPMXdqUFhscjFyX2R6bXV3WFlYbw?oc=5",
+    "fonte": "Rádio Pampa",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "8ff6f4b5e52d1907b546f4e6fcd07fce8dfb7fb2172d8df89de5ae89ea395017",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
