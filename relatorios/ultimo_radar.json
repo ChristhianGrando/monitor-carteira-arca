@@ -1,20 +1,45 @@
 [
   {
-    "titulo": "Presidente do FED, o banco central dos Estados Unidos, diz que a inflação no país está alta demais e sugere aumentar as taxas de juros nas próximas reuniões; cenário tende a tirar fôlego da Bolsa brasileira e a reduzir o espaço para cortes maiores da taxa - TV Pampa",
-    "resumo": "Presidente do FED, o banco central dos Estados Unidos, diz que a inflação no país está alta demais e sugere aumentar as taxas de juros nas próximas reuniões; cenário tende a tirar fôlego da Bolsa brasileira e a reduzir o espaço para cortes maiores da taxa TV Pampa",
-    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPcDBTY1JYRTQwRGNuVG8zdzRmSUpOSVV1NVFIeVlXVThmQ3BiYy1HSTcyQ19mZzUxc0xxT3Iwc05YQXlBTlJSUGFmdlM3bFBhTEVFNXNKczF4ejVDRkplMkxic0kxN21sRVlzanRoMG05VFBocUJ1VXBCRzNib2hTRTg1Ukx1Vjg5X2NTNUlXSm1zaGZxRWxZM3N1dkliMWlYNi11OEZDOXNjUjJSaV8wdnRqVjNEd3ZUVjJKOWVjZFkyeTl1U1RObm1iaEpBOVZuTmhwTVROUV9JdjFoWk5Hb3RscldKRGYyYlRDY0dTajQ4TWFqRjRGdC04aFl3TXNDNmVHNEpldlVuMWxEbC1FUTlldlNoVE1wRWQxTXNfVU9iR3RQY0ZJVkQ5MDd5c1R6YzJfMFNuZ0NpUE5aUjl5TXJHeVQ0VDgz?oc=5",
-    "fonte": "TV Pampa",
+    "titulo": "Inadimplência das famílias sobe e bate recorde em julho, diz Banco Central - InfoMoney",
+    "resumo": "Inadimplência das famílias sobe e bate recorde em julho, diz Banco Central InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWgzbllBNGEyeFNmaUJaOTItUWNySzIyTUVjV0s2YUpzejBRYndlc19NTjYtSlBjLTRiQkdZbU5acTZHOGEyWTFTM1JfcV90c0w3aS1aSE1GYWdEWExpb2FyaTdCLXhpcnpEWlN1SUVDY0h6dzdGODBHTm1Td3hoOGRBcFo1RzZXUmMzU3NEdzViZzNKaEc5MFJiRDE5ekxvUnpoTjNtNVd6NkxsSm9ieWdR0gG3AUFVX3lxTE9aTzlWLVhIUjdhWkRVRGttRnp0RmhWWllsbkRHUFNwU2s1bnN6X2h6MXlISjRLMVlMaHBIQ3A3ZEtqNl96VEhOdHBPWmhVTldSazlBVVZLNzB4alFXeGh3eXpubzZjWWVXb2hHVGZ6Z21QeGlBUVlOZGVuMkVWVkNRNnc5NGd1WHZWcXpuNnVIZENSajRWTFBxVmMzRDFtcVlTcnd5eU15dmViQ3N5MkxFc2ZhSWJ2aw?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8c0a85d1f7b1b46739449d0a3ba497000526ae966da6353b895cd77ce8eae62e",
+    "chave": "2d2a863f76e38ba77fff25129d003a7716068a9f8012f5a2e40a09710e462ebb",
     "ativos": [
-      "IBOB11",
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Presidente do banco central dos Estados Unidos diz que a inflação no país está alta demais e sugere aumentar taxas de juros nas próximas reuniões; cenário tende a tirar fôlego da Bolsa brasileira e reduzir o espaço para cortes maiores da taxa Selic - Jornal O Sul",
+    "resumo": "Presidente do banco central dos Estados Unidos diz que a inflação no país está alta demais e sugere aumentar taxas de juros nas próximas reuniões; cenário tende a tirar fôlego da Bolsa brasileira e reduzir o espaço para cortes maiores da taxa Selic Jornal O Sul",
+    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQbFlVbF9lbXZRb2pMZDZBa29BTGkyNWhPQzROVFFYaW4zTmJSZEpEODF6VG1QZ3RrN1VEaDVsa1phYjJXQ2I5VDNCQU9jOHVzajFOWEszQjVoR0RqU3l3MEQ2dUNsa1hMeHNOWmxGNnhNSDZ5aWZJSnVFUWdVRm5SUGUzc0NFbVN5bkFrMVAyYXp3b3NRUjF4TEZMZ3FKME1IWTN3SVJkNVdKRXlUNmtyY1VhaXZhOUlqdUZvV1JRSDJtZGVDNXRsZ0xXRjlOS3VMY01ILVVfWEEtLU0xS3NxaHlQUERYZjY5d3ZOeTlBZVdqLXhCdjVSTTkzVU9RZ291SnV2Z1RGZS1OR0JxbVVoUlRsdHZSWDdQSDNwbWMtSTdLc1JkcGkybGlUTksxZGliSUJmRWdzekhOS2JVZzVod1FqQzDSAcoCQVVfeXFMTnNUUURYbXZMWGd3U0RJWmoxeC1DNHBvTVlyVnZWcTMtVVFjQTExTnh4MEJRaGF6ZE5YODRDZjZobVZQVFllQ3BpUFJ2bDhpQ0dCbWNmeFlSbDVzZWtRbzRmN1M1d0swcG5NX1JIc0puUDRHc2M4c1U1SEc5d1lIaGo3dmk2V0RFQkhpLXVSbDRpUHFoVm12bUZ6YUJPeUd3dUw0VGVWMkp0ZVF4cy04eUQ2dGRtM3VTQWNxNmpFdDFpc1p0RVdpWnlBdmFxXzBRdlN2a0RiRTR3RE5VekhCeGhOQ0sycFhuY2VnMnRfNHpJOFQ3bGJabHdiVHh6T2NoWVJvSUlzazFnbWdYOFhNWEZqTkJYbUZnLUZQTWM5bEZheUZwdEg3SklkSXFoc1UwSlotcjhBZUs2NnQ1SE05eHRxNTNoc3UzbTlR?oc=5",
+    "fonte": "Jornal O Sul",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "715e5608a3e24c09f1d3ef75174d715b83cb3e095e5efbbbea48e8176361ed60",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
     "score": 12,
     "motivos": [
@@ -26,47 +51,24 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Desaceleração econômica e inflação mais baixa podem levar juros a 11,5% em 2027 - PlatôBR",
-    "resumo": "Desaceleração econômica e inflação mais baixa podem levar juros a 11,5% em 2027 PlatôBR",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1pYdldPWmhmSGprSHhZcW8tQU1jWFB4aHFfS1BtZlRhaHRNaG5WbDEyYV9rZ3RWZkhZaHJxemJhWHpLZVMtRWpRbE5mdlUxcUdHV1h6VG55Mzg2Y1h0SGNzZ1ExNmt5Zm5BTTdqdjhRR1BOQUFTYm1KeVZ0M1RRNWRHMWoxNG9NaDdOUkhieHRzOXZibldMWHRfTHhXTmZ4cDVoVWtR?oc=5",
-    "fonte": "PlatôBR",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "bea6549d2b1869ddf3f7303c37c1a32ec71d9c0bcef4563c3c80813a7fb9d936",
+    "titulo": "OpenAI vai interromper fornecimento de IA para a SpaceX e acirra guerra com Elon Musk em 2025 - BlockTrends",
+    "resumo": "OpenAI vai interromper fornecimento de IA para a SpaceX e acirra guerra com Elon Musk em 2025 BlockTrends",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1naTJFV3Z5ZkNCWGI1bGlLT1NtcGFVODBIWGkyNHpMWElzcGtxaUNHemJyVWR5RldZT0FWanpDNXhQeG9fckRhU0V0NFdway0xOW94LWJEa0Zsc3NVWlQwazlIdkRFUlZ6M2VmeU9lRXFBRkdvb0NBZWZB?oc=5",
+    "fonte": "BlockTrends",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "eb373a451113d23488cf3499906eea37229767987c7dc3176a63effedc2b92f2",
     "ativos": [
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central preocupado com juros altos pagos pelas famílias brasileiras - Rádio Pampa",
-    "resumo": "Banco Central preocupado com juros altos pagos pelas famílias brasileiras Rádio Pampa",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWldmQ0d4ZU9IQ3FDNmVhbWc4cFQweW56b21KV1AzZEVVd2M1Ti1Ocy1hejRTaVZJN2h4Qnd3MlhwM3p5OG9ucmFYX2dUMXhTZGhfZ01zbnNCSmNBSzFHZmZCaV83UzZ4U2trWU16U0QyblFhS2ozWTFlRS1EQ25GWmVJMlZnelU1clVHQU1OUmJCbkRPMXdqUFhscjFyX2R6bXV3WFlYbw?oc=5",
-    "fonte": "Rádio Pampa",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8ff6f4b5e52d1907b546f4e6fcd07fce8dfb7fb2172d8df89de5ae89ea395017",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
