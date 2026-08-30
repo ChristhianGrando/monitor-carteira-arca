@@ -1,57 +1,6 @@
 [
   {
     "data_envio": "2026-07-29 17:38:32",
-    "chave": "95f9e0c6d063a7237054d07d83ca5cc40263de0a02347be494dc280ff6f315fb",
-    "titulo": "Risco sem recompensa: 64% dos investidores na bolsa ganham menos que a Selic - Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORXR6OFhSZHdfdGVzdDFISkNLaEVJM1hhZmtjNGdnTTlycmk4MF96TW5lUTIzTkI1d1FNUlg3VzVXTnhKM2lidEdZbDl1dGpYSWdLdmlNT0pwOXZqRmJnN0l0cTZEZEdxckMyOXU5SjhXbElybXlNc2t1a1JfUkcyNGNsTVVYRlc3N2JiTVBzRm9TZTdBM3BxQlk3NmhWMGktZkxIMldDQmwyeHYwSkw0QTFaRFRDNEx0eDJWd1lFdHZsby1CcC15QnJwVFpvQjdqOFQ2d1FKLXlzUk0wUUlTVEswWTF5aEthb19NanpKcF9FZVXSAYICQVVfeXFMT2hxNFl6Ul9fZlptTkoxQk5iUXV5S2R0Q3JBcy1lVThOTmhHdF9YbHc2OU5YMTE5ajhocG1aMjNvME9iWlFEWnhUaDhhcEFxbmtJU3IyaXNlVm9KbXVfY19tUlBqc2czUWVfQlpRU3pZQnV0cTJkUG1XTlh2VjUycXNteWt2bVM1S2hsN252cVE2MkxKSzNyVmdJUjdZU1RhR2J2MHA5cWZJZzlTcGcxU204ckZoN1lGMHNmNFlDUjd0a1RjM1k1OU15elJqa0czY3d3SU1sNjg3Q0pQOTRhVjNGaTgzdktnMGxYSXBLYnZMV1RvQ0dFOGlISFJpTklIaFZR?oc=5",
-    "fonte": "Valor Investe",
-    "score": 16,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-29 17:38:32",
-    "chave": "3bd824f6e7cb48493253cf07b3e889c6c5775c24b5971c79d78e516ec1ba9d0f",
-    "titulo": "Atuação temerária do Banco Central, a Resolução 575 e o risco de dolarização da economia - AEPET",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXh1YXNJSXExWkkwV3lwV19xRmtFdXMzLVUwSDJqV3lsck1oWlFCMkxIQXViZFpNbjZqZ0FRdG90Y19nUkJrOGgwOG1uOW90ZHNHdWc1b2ExbU5lOUtCU3Z4ck1pMHVJdXRPNXJwWXZ4RDcyQ2ZXWm5NOXplZmhrTHpwekhfbFRKaXcwNUVRbWJ6aGJFMDhnLW03cmlmX0VLcW9VZzRULUliQzVxcWlWNllYQ3hoNms?oc=5",
-    "fonte": "AEPET",
-    "score": 15,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-29 17:38:32",
-    "chave": "a3427fb70777ebce765ef0e2bac7ef1f51e5dc2ae5ff114d73bad6793dbf798d",
-    "titulo": "Banco Central atualiza manual do Pix e amplia prazo para contestar fraude - MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0twa0FQWkRGVE1wSVhTN19PRnFRY0VRejU1eHptOGcyUm5tQUQyTXUxLVlObXZmQk9sR3hnOG1SRTZrbTdpV2NhdjZGV20xZGU4dXpNa1kyWUhCVVZuMEVUbnN2cHh5S0ZNS3dIYkw2LS01Q1R6WmxDQV9aZnRzWkpGLTRWMTJiODlRaDY2dE93QmJ5ekNUVUk1UkdYajN0Y202ODFOU3VIWGUwZm1IbXZTV1o3bEFh?oc=5",
-    "fonte": "MundoCoop",
-    "score": 14,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-29 17:38:32",
     "chave": "a111577872b0b19b77234815ad73b881c60a7c4a0358010525d98825558504fd",
     "titulo": "Dólar opera em alta, com foco em decisão de juros dos EUA e novos ataques no Oriente Médio; Ibovespa cai - G1",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NS292QnJzXzRzSTlxRjdJVzM4TzNoU0czQlFZOUZPeC1laHNMOEtuSnpiak5wVTRNYmlYYUR2QU5DaEkwcXl0SVhoY3ZpX09uUHMzMEhJTWpPY0NmNGtKWlEwUW92VG1xbVpTZXF1THQtM0d6UmRBT9IBhwFBVV95cUxNTkNJWlNrOW9LVGZDeVhocVE1N01XY24yWFpfLVExQ2RUa3JLTEZQQjVQc2RWLVM5SFkwTU9FTElJMFJERWZoYktzLTVQT05VOE84QW9scmJtVVA2VE1iX0NyeTRYR1BJeTg5RUdOY1g0NzN6MXJMWG5sZTNCMW5rbUpoMms1d2s?oc=5",
@@ -17258,6 +17207,57 @@
     "tipo": "Risco / Atenção",
     "ativos": [
       "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-08-30 17:29:37",
+    "chave": "8f5dd0781ef6751f35758c3e7acd20c6aaaeb412512b9af50d7f385bc96e534d",
+    "titulo": "Banco Central registra maior inadimplência do crédito rural em 15 anos e índice chega a 8,8% - Plantão News",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGJaSEQ4cjVybDFISC1OMndNN3doMURpQmlISEF3VkhkNzV2NGlPZnZCZXg4TWVpRWJoQmV2elpfMk9hdEVtOVMwWFA3OFdWcVhnMmFUUHJsWXlJRm80Tklwdkl4SFQwcy1JcmhwajVqQ0U2M2c0dHY2bTVsWEduY0c3XzRZNDZPc0dlVmRJdmlxczhRQXR4bHhBS3YtaUZvOGpLV1JPRC1YSUNXOHhsT2hBYUxyWVkzemc?oc=5",
+    "fonte": "Plantão News",
+    "score": 15,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-30 17:29:37",
+    "chave": "80c00ea3b675c057146a9e49eb4fdb8e8e3db0153f1b1e569766ce30e5d4de27",
+    "titulo": "Notícia Selic pode ir de 9,75% a 15,5% após as eleições, diz Morgan Stanley - Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1lHRnpZM20wcXh4YXRueGE3VGtVdzkySU9iZ05ORnl6ejRkWFdTZzZWdnR0UU9YZThad3l3ZnpBNV9RMi1iYTJoSWRCc0RJc2hJUXBscjlPUF93VHBIbUk2dUM3SzI0ZV9iUDhYbnZHcm5yd3FqVGNkYzlpMXhKbTVNdlBCQ2VaR3VOdzNUaW9Ydk1zbVVwZQ?oc=5",
+    "fonte": "Kinvo",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-08-30 17:29:37",
+    "chave": "832b0d58ebab18953241381efdaff928b2cb10c2b569aedce42a42b8e904a6c2",
+    "titulo": "S&P pode cair 7,54% em 12 meses com Fed mais “hawkish”, diz Guide - trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEswcV9kTEFwN01VTE0ydERuR1pMZ19EaDF5bWJNV1EzMGQ1ZHZHdF9vaVpsSUlHSHFzLXpzWGVYdTlqTDdPalRhX1NNbG1fcjZtbzN6VzRFQS1oYzNXWDlXUGlIMWtjXzV1WlVhdDU2WWpmb0Z6RlVUZUVCOEk0WU5kRUxjOEFnX1ZhaXlkZjQ3NG1HUzJIaDA1c3dvc2pSbEhXSWg3MEdGME4tSElHeEFn?oc=5",
+    "fonte": "trademap.com.br",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais"
