@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Notícia O que precisa acontecer para a Selic cair? BTG aponta ajuste fiscal como único caminho - Kinvo",
-    "resumo": "Notícia O que precisa acontecer para a Selic cair? BTG aponta ajuste fiscal como único caminho Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmRuVlkwWXg0STczWTNZLTJJR1lxM1V3eEREVDhrVkgzM2JhMXRzc2kxNE1BME1LRk42OVlfMjA1M2dtRmxYYmxSeFFQRXFibWFwWlZib2p3XzdLMGpLOWIxMER6SElObDRudld3RGEyUGhkRGlHcFNYZGttZXY0MUhXT2doVGRSeGxSX3F3UTVZQkE2Q1JiRG1RY0ZUendCU2xTbmppUjFxVnlwU1AzZmhYMjI?oc=5",
-    "fonte": "Kinvo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "68db71fd0c26359645e2a99851d301d636207886a976160542d6f9207e85c4e4",
+    "titulo": "Campanha de Lula diz que crise fiscal é “fake news”. Banco Central mostra outra realidade - gazetadopovo.com.br",
+    "resumo": "Campanha de Lula diz que crise fiscal é “fake news”. Banco Central mostra outra realidade gazetadopovo.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2VNUlRIN1pqc2M4VFd6OFVpVG5BYXE1VmpObnNVQWw5V2J3Yk55aXF4SFFCVXl2RExMdlVpWEg0LU5xWVRMQkdpczM1b3RQZ2ZBOUtUWjU1SUdSS3NVUXE0dVUxeUp2clFKZ1NzeHBOQjktT3lqbGRacmtUa09UWXpmc2tOUDQ?oc=5",
+    "fonte": "gazetadopovo.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "df64523454bf6707d427e68b1f4b9870f250085298fa6f80fb4ea2f402773650",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,7 +16,32 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dow Jones hoje cai com petróleo disparando e temor de inflação nos EUA - Estadão",
+    "resumo": "Dow Jones hoje cai com petróleo disparando e temor de inflação nos EUA Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTlBWUGNqdm1veDdaX0llVUJaM082TnpYTzhkakN1Vm9jQXEzdmNnU0FCSjk3RWd4Y1hzQ3F6dEpINjB6TTFnY2xpcmNoUTIwSi1sMWxmYXhSSWg0aEl5RTNqRVdMZlozakZNVjJrY0Nsb0ZQWmhHVFRKTE1ONHFJWGNkVXcxRUY3YkJvekNEdkdTU2VFbWVRU1I4VTNXOTZrYllBcEs4cFlTc0FfZElodUNZYkNrVHh0WUQ5V2pudjlJVGxlOXo2SUhDMURScC1MQ0lMOXpjdlRuNnFoWEllQXZRbGRKU2NOSURRNXhB0gHzAUFVX3lxTE5KYXBxQ3V5T0ZCTm1kYWt5TGpjYzVIRWVkWmZxOXpobTlCT1Q3SkNQUnpYUG5WSFJKNHVGdmhyQTVnTTg4TTlBdXlMS1k5MEVnVXZqdVphbWNZbUZZN0ktb2N1ZnFPZXFOVXg3SUFsYkNPdV9GNlVvbG1DN1ViRl9NRUxVdjJyUXNKMGZ5NW9ya1BPXzlSTjRlRzduQ19Gc3RUNmdVUDRudTM4c1dvbjFYaEdnSkh2al8wdFl2WEx4VHNvNnZVSVJvbDhoTV96UU5DLXc1ekhHa3RZcjR2MEhrdGJkU20tTzd1aF9PXzlEclVnTQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "7775f310f10ebf22398b1a43006a94d93a1f25773bf2ffe1d3e179dc5034c421",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -27,19 +52,46 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pix MED: entenda a nova regra do Banco Central entra em vigor nesta terça-feira, 1º de setembro - VEJA",
-    "resumo": "Pix MED: entenda a nova regra do Banco Central entra em vigor nesta terça-feira, 1º de setembro VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcjRGVUkxZDd0X3lQNG1wQU1MWmRXWU9QZ3F4Ti1Gc0RnMTJjNHVERzVSTGJhWkZ5UnMyc3RPc19GS0pCaUptUlJlRWtpb04yWUFxWEN6TGhTRFNTSkNCbmx3MVhDMTRPY3paQi1HV3RCcEdvQjE1cEpkMjN4NG1hZEQwNlk3dkRUc0RPZl8xc01oSVg4MlEtc2Z1clQteGxJVlNuZkdISjY0Y21qVW1RRDhsa1R5UzN0TF9BbWd1aWcxT3JhSnlRYQ?oc=5",
-    "fonte": "VEJA",
+    "titulo": "O Banco Central (BC) disponibilizou, nesta terça-feira (1º), uma nova regra do Mecanismo Especial de Devolução (MED), usado em casos de fraudes, golpes e coerção. A atualização ajudará especialmente os comerciantes e prestadores de serviço. Detalhe - instagram.com",
+    "resumo": "O Banco Central (BC) disponibilizou, nesta terça-feira (1º), uma nova regra do Mecanismo Especial de Devolução (MED), usado em casos de fraudes, golpes e coerção. A atualização ajudará especialmente os comerciantes e prestadores de serviço. Detalhe instagram.com",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zNVVsbXF5Nlg0LUZRWEoxVnVOS2pZa3Q5cjNWS0dHNC1vbGJRblNzTjBvbFNTeGVLdjItd0tCa3EwajBUekZLZGR5TDlhNXNrRHc?oc=5",
+    "fonte": "instagram.com",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2bca5c18b2fb08b5c8241276114995650c10529a2081c49529dd0b3b45cba349",
+    "chave": "a3564a7ca8ccc5dddf8a9c5d824b100c3bb3955ad3a944edf4a1710e339320de",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "O ciclo de cortes na Selic começou. Como ficam seus FIIs? - Bora Investir",
+    "resumo": "O ciclo de cortes na Selic começou. Como ficam seus FIIs? Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0RxaXJUdko3WUI3VlJ3NXhjNGxpZXlsRTFmbUs4a0ZpM0RTdWRvZnRBY2gwNkNnZk5GaFNaVDVReHJFcFdkMjd2SWxJM3NWcUhRa0MtRWY3SnozYnNuSy1lMEFGRzZwYlJWVFdXM3VqLW43TmdPTi0zNnNiNjBaYzctOFNTOC1MUzBLUGdKdFdGcUJTbnd2ZTRrVVNOMmFzZi15QUtEdHFjTXViNDlvS19jdlB5d3NHOVpKOTBPM0JRcEVQWVphUlpMNHBGWVZyRVAxNU1mOHFKeDBzcnc?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "6cc73908bd3971cbe443b8aa7b4fda9853cf6ada14b93865c788c84032615182",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -49,25 +101,27 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pix MED: Entra em vigor nova regra do Banco Central nessa terça-feira - istoedinheiro.com.br",
-    "resumo": "Pix MED: Entra em vigor nova regra do Banco Central nessa terça-feira istoedinheiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUU1mZzFqdnlxMGxYSG9uRlE3bXpKLWd3WFRWM1pFYTN3V3Jvck5fX1pYZkNFd0R4T1dXMTJwX1JKS2N3eGxrcG5VbHpiS2NtNzNnQ0ZMc2JwNXhyeEc0ck5uWlJjV09XRW1Ra2dmQUV3SEZObDd3Mm9Qa0ZiSlRTejJLT01EcGN0?oc=5",
-    "fonte": "istoedinheiro.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0dc738acf200ff435d388968c9caa6cafecb098d42a300f48ea739e80685afde",
+    "titulo": "Ibovespa futuro começa setembro em queda com petróleo de volta a US$ 90 e PIB no radar; dólar avança - Money Times",
+    "resumo": "Ibovespa futuro começa setembro em queda com petróleo de volta a US$ 90 e PIB no radar; dólar avança Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54OHFpcVZQZFFiWjRpNHlhYUtvRDdOYi1TSlBCVXcxMUpnYUJ6YlJNeFZoSklXZWJsVDRaWk9NT293dGc0N1ZoOURnMXdKNEtRYmdVdU9TdFNHVXpnU0xUcmxuUlpDUTNQMFE?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "42854cb44011ed0f41c604966bc1773afff77e5ae2961b59b262f7475b011301",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]

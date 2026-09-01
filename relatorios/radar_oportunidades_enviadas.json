@@ -1,90 +1,5 @@
 [
   {
-    "data_envio": "2026-07-30 14:32:09",
-    "chave": "a0da02a79d52338237cd829bc0d9f0782e413b9eaba8520ec649acd54771e057",
-    "titulo": "Ibovespa acompanha alta no exterior após dado de inflação nos EUA - Exame",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1RkdTFWTXNUamZfeVhYaEZId2g2Y2dUTjh6QWVJclhzajVETVlaQnUzN2IyWERkcnRFOTE1VmJBNGtCOUg5a1R2Wnh3aU81dUxtTF9fTkR2a0RiZ09NT2g2TEliUkRXdWZSQVdEdExEMndsa0VOYlJHeG1xUnp3VnR3TFVOLWNQVlR5YjJDM3dKQVNtU0ZDY3hCeHREYjlNS3c?oc=5",
-    "fonte": "Exame",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-30 14:32:09",
-    "chave": "98780c0c2fe3fe2b289744dfd2a303c4f53c34e6bb462cf6fdd53a91b5ac1c64",
-    "titulo": "Tempo Real: Ibovespa recua e destoa de Wall Street digerindo comunicado do Copom; dólar avança a R$ 5,17 - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1U2Q1V4cXlTR2R5X2hFMkp3d2tfNFlFblBNTVpSNlY4Tk5vNDZ0YkdoWFhmbHhKNnFVUW1OTVljbm1xQ2JZUGxaTVRHUk1HZ0d5d1c5a3AyLVBtMFhxOFU4Ul82TnYtaGlwdGV0OGpCZ09Qc05ibjRHSjNUWjZyY0haU3hhTy1iR2VrcjdYZkdSX1FnWDhCZXByZ2M1UQ?oc=5",
-    "fonte": "Money Times",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-30 14:32:09",
-    "chave": "6fcdba20db02ac2011dc1612a0678f35f3bedf275e14e3b47795951db9d6736f",
-    "titulo": "Dow Jones hoje: bolsas de NY reagem a inflação, PIB e balanços após decisão de juros do Fed - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObUtSSmJud2tvMFprZjhydEdzMjVPUkEtc0NKMGpOX0dTaGlkSDVEdkROZnpkM01fcERnOHdnUzV2MHhuWkpXRFVYT0dYUFF6dGRxWWx0UkpWTG5manJUcWl3OWY4OU9mbTJjT0cwUE5WR2ZiT19EeGtUakFsU3I0U0FNNHNrbzVRWS1nM2FIQjNJbG93YlJlNVQ0bnctRmw0cXB2OHJYbldrbWtrdnppSUxZbmFHc0JHTU5qX3huc0pSeklwWWdsMXRnaWt5dlloUWZXMmljSFo5M1BIM1AxaXpR0gHnAUFVX3lxTFAtT2JHV0k1MDgxNi1zZHNzVmV6SFdCbVVmd2lmb3otRGEzUHgyVm40YmxPdk9nMmhpcEUwT1dhUS1NWFpFOXhrMXJ1bFRaQ3lFMVV6VTNjZHc3aDlySFp4bUdob0lGQ1VmZXR6ekVoZkszWHpPNVM3Nk1RWlBXZFNrOWNySTVZUzVXWlhrVDdGOG94OFRrc0RYRUZLTU1HT0FNQnNKWnk2YVlvMmpDNW9QRVdWdWEyaWNBYmZBYTVaemZQWmJxcGxrTGRBekltTnRxdUNTTm5jenM5dkk4WkRXeXF2NGZVUQ?oc=5",
-    "fonte": "Estadão",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-30 14:32:09",
-    "chave": "5fd78b4235b3001d9494832ac34492db45effd17663639d4e3659c71708dcb61",
-    "titulo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGt5WWF2NmlvdTVxQVJmVzFCX0lhYzVQcWxaRmZhdHk0VTNSMWhKVnRVdWZvbTBfbUp5dkRDYnNOQzF3RkRzbmVoUDlTOFpOeDhJNGFDMW16MWxXNlJqeXVEZXBhNWJMYjFUTmNYM0lqSm0tUTBmV1BZcWJHa1kyb1VNOVEydmZVRGgxZEJ2NDTSAZYBQVVfeXFMT1UyQTZqVkY2MTc4ak1NMURxVEl5QWVHckU4UjNPTi0zcUNydUhWcUhGenBGZ0ozMkxGX2N6d0ZmcXVhc215SzZtZHk4M2ppejVHemt5RFd3WjlKVE5VSDVSXzM3NlRVZW5adkQtakUwdDRodDVjTC1FOWNMLTRLam9RUmdkNEVhTXJTSGJvM3Rvb1FuMDdR?oc=5",
-    "fonte": "Estadão",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-30 14:32:09",
-    "chave": "c4c57ed0f903a31ad7dd05e8b924a7a5e1c14677ae5fd0aa257862e120b8656e",
-    "titulo": "Banco Central avalia cenário de liquidação do BRB após novo pedido de adiamento do balanço - Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUJ3Ti1zNVo1Rl9sbHpteG5oenhJbzZMMUtVZXMwVTlha0hXclp6WE9nVEdUNHpSazBuajlKejJWa0l2YzZQTEU2NXhPLWFBTlFDZVBHTXZTOHdLYUgwTUF1RzRXd2tZOUVqNnoxXzhFUzBLYmRmTUdKdXFyd21lamRuWFZOOTV0ZjVnVkZQSzFleVFZR3g1cFlqN2dRNl9KWUdtUG1zVkJWOU1BVGYySTNnc25nNFpkczc5aGxyUU4yekk?oc=5",
-    "fonte": "Vero Notícias",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-30 16:49:34",
     "chave": "a7c012ff9f7eea0bf0086d1533425018c948bb421f6d88ca81f27576c2740b9a",
     "titulo": "FIIs de “papel” têm retorno de até 17% em um ano; Selic pode mudar o jogo? - InfoMoney",
@@ -17306,6 +17221,93 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-01 18:30:51",
+    "chave": "df64523454bf6707d427e68b1f4b9870f250085298fa6f80fb4ea2f402773650",
+    "titulo": "Campanha de Lula diz que crise fiscal é “fake news”. Banco Central mostra outra realidade - gazetadopovo.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2VNUlRIN1pqc2M4VFd6OFVpVG5BYXE1VmpObnNVQWw5V2J3Yk55aXF4SFFCVXl2RExMdlVpWEg0LU5xWVRMQkdpczM1b3RQZ2ZBOUtUWjU1SUdSS3NVUXE0dVUxeUp2clFKZ1NzeHBOQjktT3lqbGRacmtUa09UWXpmc2tOUDQ?oc=5",
+    "fonte": "gazetadopovo.com.br",
+    "score": 16,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-01 18:30:51",
+    "chave": "7775f310f10ebf22398b1a43006a94d93a1f25773bf2ffe1d3e179dc5034c421",
+    "titulo": "Dow Jones hoje cai com petróleo disparando e temor de inflação nos EUA - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTlBWUGNqdm1veDdaX0llVUJaM082TnpYTzhkakN1Vm9jQXEzdmNnU0FCSjk3RWd4Y1hzQ3F6dEpINjB6TTFnY2xpcmNoUTIwSi1sMWxmYXhSSWg0aEl5RTNqRVdMZlozakZNVjJrY0Nsb0ZQWmhHVFRKTE1ONHFJWGNkVXcxRUY3YkJvekNEdkdTU2VFbWVRU1I4VTNXOTZrYllBcEs4cFlTc0FfZElodUNZYkNrVHh0WUQ5V2pudjlJVGxlOXo2SUhDMURScC1MQ0lMOXpjdlRuNnFoWEllQXZRbGRKU2NOSURRNXhB0gHzAUFVX3lxTE5KYXBxQ3V5T0ZCTm1kYWt5TGpjYzVIRWVkWmZxOXpobTlCT1Q3SkNQUnpYUG5WSFJKNHVGdmhyQTVnTTg4TTlBdXlMS1k5MEVnVXZqdVphbWNZbUZZN0ktb2N1ZnFPZXFOVXg3SUFsYkNPdV9GNlVvbG1DN1ViRl9NRUxVdjJyUXNKMGZ5NW9ya1BPXzlSTjRlRzduQ19Gc3RUNmdVUDRudTM4c1dvbjFYaEdnSkh2al8wdFl2WEx4VHNvNnZVSVJvbDhoTV96UU5DLXc1ekhHa3RZcjR2MEhrdGJkU20tTzd1aF9PXzlEclVnTQ?oc=5",
+    "fonte": "Estadão",
+    "score": 14,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-01 18:30:51",
+    "chave": "a3564a7ca8ccc5dddf8a9c5d824b100c3bb3955ad3a944edf4a1710e339320de",
+    "titulo": "O Banco Central (BC) disponibilizou, nesta terça-feira (1º), uma nova regra do Mecanismo Especial de Devolução (MED), usado em casos de fraudes, golpes e coerção. A atualização ajudará especialmente os comerciantes e prestadores de serviço. Detalhe - instagram.com",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zNVVsbXF5Nlg0LUZRWEoxVnVOS2pZa3Q5cjNWS0dHNC1vbGJRblNzTjBvbFNTeGVLdjItd0tCa3EwajBUekZLZGR5TDlhNXNrRHc?oc=5",
+    "fonte": "instagram.com",
+    "score": 14,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-01 18:30:51",
+    "chave": "6cc73908bd3971cbe443b8aa7b4fda9853cf6ada14b93865c788c84032615182",
+    "titulo": "O ciclo de cortes na Selic começou. Como ficam seus FIIs? - Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0RxaXJUdko3WUI3VlJ3NXhjNGxpZXlsRTFmbUs4a0ZpM0RTdWRvZnRBY2gwNkNnZk5GaFNaVDVReHJFcFdkMjd2SWxJM3NWcUhRa0MtRWY3SnozYnNuSy1lMEFGRzZwYlJWVFdXM3VqLW43TmdPTi0zNnNiNjBaYzctOFNTOC1MUzBLUGdKdFdGcUJTbnd2ZTRrVVNOMmFzZi15QUtEdHFjTXViNDlvS19jdlB5d3NHOVpKOTBPM0JRcEVQWVphUlpMNHBGWVZyRVAxNU1mOHFKeDBzcnc?oc=5",
+    "fonte": "Bora Investir",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-01 18:30:51",
+    "chave": "42854cb44011ed0f41c604966bc1773afff77e5ae2961b59b262f7475b011301",
+    "titulo": "Ibovespa futuro começa setembro em queda com petróleo de volta a US$ 90 e PIB no radar; dólar avança - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54OHFpcVZQZFFiWjRpNHlhYUtvRDdOYi1TSlBCVXcxMUpnYUJ6YlJNeFZoSklXZWJsVDRaWk9NT293dGc0N1ZoOURnMXdKNEtRYmdVdU9TdFNHVXpnU0xUcmxuUlpDUTNQMFE?oc=5",
+    "fonte": "Money Times",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
