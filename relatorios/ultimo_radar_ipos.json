@@ -1,34 +1,20 @@
 [
   {
-    "titulo": "Ações da Shein chegam a cair 10% em estreia na Bolsa - O GLOBO",
-    "resumo": "Ações da Shein chegam a cair 10% em estreia na Bolsa O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGx3b2l3X3VQOGhhMUlwdGJ5N21iWDhGeTVseW1IRHNfT3kyYTJEcldPeC10UXdSTHNoR2hwS09QaEZyelJNTElieXhGakNucmVLVTFpQXdNS19nN2NXeW9KQklKS3dFbmxMbXRuXzBSdWlWRVN5Zk9KcjhqRG9aLUtkNDhsQlpaUlN5WVRXZlJrYk1NanZPU1lmaXJTdU41dzVqdFFMbFRBa0xSY3JCMmZLMVk0a3d4?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
-    "chave": "a5969191d238967ca673b85f4fd8918ff40139d34764ad0f5774adf8e55c14a5",
-    "score": 8,
-    "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
-    ],
-    "tipo": "IPO em fase avançada",
-    "estagio": "Fase avançada / estreia ou precificação",
-    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
-  },
-  {
-    "titulo": "Mercado esfria após estreia da Compass na Bolsa e adia retomada de IPOs - InfoMoney",
-    "resumo": "Mercado esfria após estreia da Compass na Bolsa e adia retomada de IPOs InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUF6d29adzhubl80M0V5ZU1SQTVqZnd5WjU0cUFTbDBiZ3hybnlQWDZXbFVIXzh2NEZBS3ZaOW1IMTcwZWkyM3liaG5DNGg5OWo1bVp6dXgxU1pNT0g4YmJGX0c2aEJDckhmendIYTF4dkhDUWQ0Tk9xSFN4bjd0ZEFKQWpITUFSZWZvVk42UjByc1Y5UjZmVTAzR2FvZUNRUk5RbG81VW1tdURoTzVRWTBSZkJzQdIBuwFBVV95cUxNd00xcWV4MlMtVXQ4alVyaWhOWjBXblRvcmhvZkVyNkdiS0xKNXdDUlFfamVoQnVlVGJfNnRpNWNmNzBtZ3JzTVZtME9rS1hSeHA4M040ODdMZ1ZqS3poMnIxR2FzZHFkeTFSazg2bFZKSjZYWkZJWkpwYkE4SUFzZkxlRFIxT2cxSkE1eDhuVTlUeldnb1c4SDJIcUJKbmJtVmJoMERGcy1KRFhzRjQyUEhlVVZuWHNsbGEw?oc=5",
+    "titulo": "Fim do jejum de IPO na B3? BRK Ambiental protocola pedido de oferta pública de ações - InfoMoney",
+    "resumo": "Fim do jejum de IPO na B3? BRK Ambiental protocola pedido de oferta pública de ações InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHhuV1JhamtXVU94NXV0aWl6OUR5dFhFbjBHMV9fRFd3M3VTaDVITV9va0txemdIY3lfbFVvNGJIaXhPbi0ybjZkUkJZVmdjWDdmNGFWZnNpWW9xRXZvSmt6VHpWdEJlWmJnQTVqQ19tbmQ5a3BwakhaZ1VsMXhlZzlfMkh2Sm5YNUFiOFh1c2x0cjVKaFgxX0RvcWpoaWMzaFRQTtIBqgFBVV95cUxPZXp2QnQzNUI0YTRtdXlnRWtZOFZNSE1Ndk9oLWY5ZnFzVU5IZ1Zxakk2ZGdkYUkzSmN6NU1oTVVPWHB6VldObU1YS2VtN0tvUUlpX0QzZndkUk9HbUZQamNmS2ozWi1QRzZxczR1YklJN0NFMDAzYWF1NHFZQlJBQS00Ymp1dS1lZkRzZUhVcndPbm4xUlNoM0ZBRFlsMEpiZFF2LURkdzhaZw?oc=5",
     "fonte": "InfoMoney",
-    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
-    "chave": "feb850d17987a0c5a0276688ab771204ba7d6c0fe95df0d79034f93e8a634539",
-    "score": 8,
+    "consulta": "CVM IPO OR pedido de registro oferta pública inicial OR registro de oferta ações",
+    "chave": "262ae04ffe5f38ebc9913a31d540394ba6cc761615f98b0264a1d7d9df90f501",
+    "score": 14,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
     ],
-    "tipo": "IPO em fase avançada",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   }
 ]
