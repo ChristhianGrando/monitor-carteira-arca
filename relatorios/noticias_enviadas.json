@@ -1,175 +1,5 @@
 [
   {
-    "data_envio": "2026-08-13 21:31:30",
-    "titulo": "Em recorde: S&P 500 renova máxima intradia histórica com reprecificação dos juros nos EUA - Money Times",
-    "titulo_norm": "em recorde s p 500 renova máxima intradia histórica com reprecificação dos juros nos eua money times",
-    "fonte": "Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWG1fZk9oOEdPbWlSZWR1blRPdlpsN3J3U2RxSUhCTW5JblJWWWdOVkV3YTBXV3ZrcFFETVQtb1kzbnBfaG9SR2NxQnRZMmpJb1o3UFR3cDNCVlREWDdoakdIQk5JV2ZHSFpGbEVxcFFXUUxSNTdvY3ZjalN3UFNlUXNWOUhIUGhzaW1NcmVKX2Z1X2xiZUhaMTJIcjUzWmdDX0oycmE4Zi1LOEZ3cXVjZ3JBTnFJRGMzVzJnNlQ5YkY?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-13 21:31:30",
-    "titulo": "S&P 500 tem novo fechamento recorde, enquanto diminuem temores sobre aumento dos juros - TradingView",
-    "titulo_norm": "s p 500 tem novo fechamento recorde enquanto diminuem temores sobre aumento dos juros tradingview",
-    "fonte": "TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pM21EWlJob1FWSGdhdnJtTTBjLXVYNE9LWXVpSDRvYm5lcFg0enkzQ05xaDliR0Z3cWpkMFM3c3V1dkZhcms5bFhYV2w3eXgxYm9Wb254bzkwZUlVd0NhOTdoNnFqbW5STGxkUi1IekxyeS1qVkpN?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Incerteza sobre contas públicas eleva parcela da dívida atrelada à Selic ao maior patamar em 20 anos - Folha de S.Paulo",
-    "titulo_norm": "incerteza sobre contas públicas eleva parcela da dívida atrelada à selic ao maior patamar em 20 anos folha de s paulo",
-    "fonte": "Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3NEdVVJbUwxcEE3MkFpdUUxbXVmS01Bd2RiQ1M5a3I3cEQ0cTRaaFcxcjR5NDFWVnZIVEJESmpGODIxY3A4NURHOGpRVzVOcklxOVZoaHU3MFVmNGRhTURzblotUFdUbnhFaTc3V28tWmtyT3EyQ1B4bHpYZE9lLUUwamNGV0tIVWpYd0wxdURxWExZV3BBSnh0clRQWjVxS0JXNnl3RURfY1VwQmZKNTY4NE5fQ1VKZkJYcGstaG5aLUZZcHhFZWZyV0dpaUcwYWRMTFhRZlZCQnlDNGN1YjJxaEJoUDg?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Dólar sobe e Ibovespa cai com saída de investidores estrangeiros - brasilagro.com.br",
-    "titulo_norm": "dólar sobe e ibovespa cai com saída de investidores estrangeiros brasilagro com br",
-    "fonte": "brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVZXLS1xc0FqbVg5Vk5oZDR1bzNKUjlKNVF3dXhIWmdlVlZDVWZ6cTRudDFJM2haQ1dPNTNkMGczVUpBbEY2TDVHNm1QaHdncTVVNk5BbUo5bkpUNGRXRm0zelRXdGtoaE1wakRVeExndGFiR1NnMENCVVZtSW1aYzlfamF6VEFRNWlveXVMU1FLSkx4VTZPbm5PNGJMMEVlZXJhaW5uQjRyanVDR2c?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Ibovespa recua com pressão de Sabesp e BB; em Nova York, S&P 500 bate recorde - Bloomberg Línea Brasil",
-    "titulo_norm": "ibovespa recua com pressão de sabesp e bb em nova york s p 500 bate recorde bloomberg línea brasil",
-    "fonte": "Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSWxSbFphajZTMm9qdjg3ZkN0VlJqMlVjb3JaR3BDdTlIdlZxLVloTUgzT1hXMlEycE16dlpjZmFjWGxFOEZxXzI1d0tSbDBHOTJpMVNoZFJnd3RMa3dRd1lyVmN6b05HNmVHZDhzdWtsNmJra3doa01lYjYzbHFMYkNEdlREYkg5andvc1kyS3JvTXVkc0lUUExDVC10Y21BdmFHOUZLT0hZWUpCSmlHajhOaW1DNFdzd1HSAc4BQVVfeXFMTzEyVU1qOGF5SmQyWGhhUjJUQXRxMUREcEtSODlLeklJd2NDVVg2Qm9Wd0NzQVkyT0JBTjVtbjZQOWJEZ1FyU1c3aHo1bHZOUDYyUTM4MVBJb0hLdVRNUl9COXBKa0g1VlhQUDZZc2x3SW1vNWZPbWtyTjFqUGwtNzVhRWlvOGh6Zmcyc2JhRTZBR1FJblViR1h4RjFhQ0FDZlFjMHlNMU8zc1NXdFV1ZjdMcjFNM3Y1elZIWHVzYzlnQjNnYUZITTJ5ekNCWFE?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Ibovespa em baixa, S&P 500 e Nasdaq em alta: até onde os índices podem ir? - InfoMoney",
-    "titulo_norm": "ibovespa em baixa s p 500 e nasdaq em alta até onde os índices podem ir infomoney",
-    "fonte": "InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdxTmtybURUMERYY0w4YWlVU1FLc0VlTWNFOW93cVNSWmVyWGFPNDE5bThhRHRaQy1SWUVCdTQ1QlVrY2VTaFBCTmtNTWt2Nm11eDA4bTJWM1ZWeFJNVG9lZEFaZjYxbGdTbkZsblVMeWJlb1JUX3V6aFEzaGtNcXZ1dktMcWxyRVhRMWxGVDRNSVFsWlU4TmJHa1hnYnpDN0Vyc0Q2RUt6MkpFTGfSAbMBQVVfeXFMTXpVWmdVb3BzeVZuZmNwNkxtZTBYdVVSN2dXa2lrT1NKazVZWFpzaXVJT2oyYlpVeHVtZ2d3ZGNhVVJxUVA3UW9Ra0FxamgyQ0dZNlVGd0Q3V0JOd0QwTktCbHRhc1NmSXFDS2R0cTc0R2NXQUg5Q2Q2cVZYaFVGcUljRFFFM2dQS25qNHM4NTF2bi1sNllDaktaaVE3QmpueTIweFZTdk9lcXNrVXJrUTREMEk?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Ibovespa Futuro cai com impasse no Oriente Médio e nova pesquisa eleitoral no radar - InfoMoney",
-    "titulo_norm": "ibovespa futuro cai com impasse no oriente médio e nova pesquisa eleitoral no radar infomoney",
-    "fonte": "InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDhTTkNnREtrZVI0TVRoWmxSTjIwdkY3dTkzVzB5SzdkZUVxMUlXTlplaFhrcmRXOWRZRHVmRFAyMW5BeVJoeFdpeUlWWWNXemFXMzd1S3RwLWx4aTFMV2VObUFkU3NxeWp4ZExhNDBkc2c4ZTJuVTFmUU4zWWZ0QmZEVk1sS2VMWEZVcEl1WkRuYWFYdi1sdUM3QVlZZ0QxVklOczM2ZWx6Ni0yd3V2dUUtYkVJTVZROXJzWjMzTdIBxAFBVV95cUxOemhnYVowT0NiYUVsWlYtaEV1dHpFeG04UGI0S3VwR3lLeUtIaGxCaEhBRFdlc09iNFowOUV2Sy1manRkZy1aazFKd3Y2X3FSS0JTNzFvcUhyODRDSHpwVXJJZ19wTkNMVG9zX3BoUGhhMkQteFJYczNaTXFrQlNSMG1PMWdibS1CMnBWWWpybmF1c1NoTG1ldHFTd0plSGRBczNSbmxtXzc2RTJ3Y183X2kzMklKd2dRMXBJTGVtQUFZTEpj?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Eleições e saída de capital estrangeiro derrubam Ibovespa - Canal Rural",
-    "titulo_norm": "eleições e saída de capital estrangeiro derrubam ibovespa canal rural",
-    "fonte": "Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNExTV3pMYVd2Zk84LUZoT2FzQ3ZPVExxSC1HQXJkOFVIMlNMclQzZW00ajlNbjd6RlRqbE9SaTJGY0hqalZSWTV0cXBaMS1ZN3dJX3A0d3BWT0lPM2JSN05qaE53bHVHT1VTZklXSnl6ZmgzRnNMdU1obTdLaE5HVkZUSGU2UXE1NjV2UEFXekZBcllzM0J4bmdOc2d6QQ?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Ibovespa hoje busca reação após 8 quedas seguidas, com petróleo e Ormuz no radar - Estadão",
-    "titulo_norm": "ibovespa hoje busca reação após 8 quedas seguidas com petróleo e ormuz no radar estadão",
-    "fonte": "Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcGNWNkVNM1VuT0VLWkp6c3pldUFRbWFUaFJJUHQ2cHA0d0JhRnFtaloxeGtWazl1bDBxSl9fWHpsaFViV0xNQ0tqU2pRRVk5Ri0wVnpfaGJVcjRBWGxzRDZmaFA0a194VWxTX0dCLV9nclQtUzhBU25fT0c2Vjg0bVd2WS1NRHpCVHFKRlRVTzR6N3Z2cVZkN29pLUxXM0tzaUN4bkxVeXNsQWFhRXlxYWxvYkJPbTNwRVhpQTByQ0NPYlVrT2lxbXduVFp6UDlpd1NLVHRtUUhGWTZVWTJB?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Reddit entrará para o índice S&P 500 no lugar da AvalonBay e ações disparam em NY - Valor Econômico",
-    "titulo_norm": "reddit entrará para o índice s p 500 no lugar da avalonbay e ações disparam em ny valor econômico",
-    "fonte": "Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNTNZZE5mZXc2RUFpTEs3VU14M09TdHpTRnNpbUJFVHRQcVE3VmtVd2lYdXhIdFQ1c3FDQjlNRDR6R1ZjMm9qMlk3N0FIQWkyemN6UFl3X29LVmJZNUlUVEtrcjB0eWdLVmhtaDliWERBcWhLdnhxVE1SSnNudE45bEdnaTZBN3ItbGhmU2RCMll4ekNsdElMdkx2ZWg5VGowLWh4NlZNejQ3Uk5pRGJkVWJBRmY5RGpaWUY1VjI5ZkxrZEQ5OGNUa0ZuQ0dielMwZXdJY0VodjTSAecBQVVfeXFMTWltYVZ1dTRpR1VqTHlxXzI0ZTV5RWxXbmFSTEhEYmtHVFNkR29GX0p0NWxSR2FCREIxeTZtMExMVENBTWFtRVhsZzA2b3oxdm1kbjdpTndWQ0hLT0l6VXJJMG5IclM2TzRCRXpXQUdlelZtUVZ0SWVDS2g1SUlEQ1MtOVdqX1drLTRxaUpTNVhYWGdfelVSR3NOeU9aTDQ2QzZ2Z1dORlVEZTd4V0VEb0VkMjBxZ2RtZTFLUGdrVG1mUHlJaDFYdDVMa3ZKZEpSZGJMVEFOYTBrMnFVRFpVVmxSX1Rka1RF?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "S&P 500 e Nasdaq Futuro caminham para 3ª alta semanal; Dow Jones fica para trás - InfoMoney",
-    "titulo_norm": "s p 500 e nasdaq futuro caminham para 3 alta semanal dow jones fica para trás infomoney",
-    "fonte": "InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmxnVHZHVUxyeFl0UGVkVFI1N1NtODJsX2V5MHZsX2xPNTJQT29aNWhSejRQdWpvYkVTVlFLby1sa3UyUjdiTzE3VFJmUkFsa1ZKeHJETzNnLWs2QWN3WDF6cUpqWWhhajE2ZEZ2MXpZeGxiYmdyQkpnZVpITUdjcTRPVUVZUEdScnJRZkJGODd4R3lzT0ZVX3Z0eWFDajBRUENTSHpYQXl6S0FKekZUdDJiRUJQcHfSAbwBQVVfeXFMUE4zV0tsV05mZkt6emlJN0F1VW4tZURqNXB0akJXamNoUVBiNGdoM2xPclRwM1VCWkFPNEh0N0UtQWQ5Z1hJRDNiM1ptV3RWRXRRUG9YcWtnb2Z6a3J3UnpzQ0tfMHVGV2lkVWhhYVBqcE43SlhyNERTR04ta1lhQUc4RDYyZ3BMYVY1S1dtVzV3ZGd5NnFFZlF1VldfMmFzS2NOWFdGNmpxWDZnUkYzVXk1TFZDV0UtaXRXaEs?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "S&P 500 em máxima histórica; mesmo assim, estas 3 estratégias o superaram - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "titulo_norm": "s p 500 em máxima histórica mesmo assim estas 3 estratégias o superaram investing com brasil finanças câmbio e investimentos",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUpfY0xSdTRsdkxJdDA5N2oxMzJFZm9TRW9uenRpelZzd1RYNUxWVFdqVjdQbk1VQ2NTX1hlZ3dJVENRQzFHRjBQN1lxb3pNX3ZQc1c5V1BUZXVMa3poWmJyM0dMbVdFSW1KU0xwTHA3bzdhRWZiZEFvNlpxU2VkU3NBUmVlclk1QjI5dWttbVc2S0lUdVlFMGxYbS1MRTRrMjhCYnI2Q3JWWXBxVnJkTWlxUFgta3Ffb3VoaWNHZlpqanlt?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Ações do Reddit disparam no pré-mercado após anúncio de entrada no S&P 500 - ADVFN",
-    "titulo_norm": "ações do reddit disparam no pré mercado após anúncio de entrada no s p 500 advfn",
-    "fonte": "ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlljbHhpUmhfdFQ3X3NDRndwdTVfZEM2eDFZdmlUdHYtekJzUS1Fa1J4a2dWVTJCLUdjZFFBVlJYa0ctSmdEMmRtMURUSDdFOFZWR2tJUElFTGNpT2k4ZVpBdFlSQi1nX0UyTzRVX2dzQVY1V1RyZFppMFJDZFVBdUNfY0lINFRGSlVz?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Reddit vai entrar no S&P 500 e ação dispara no pré-mercado - exame.com",
-    "titulo_norm": "reddit vai entrar no s p 500 e ação dispara no pré mercado exame com",
-    "fonte": "exame.com",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVm16TTFINWhCdGZ1Umx3RUM3OGsybzVmTWtLalVxUHN3aDJlWmh4Y2F4dU1RQjNwVGNMMGhmalVGM2tCRzFWQ21EVUdPNk96MllfUlVzNkh1TEZHdjh4c2NZcWozYi1DTTRoRjkwWlJxWTZHdm1DaXhBMWlBMHJXR0Rhb0lsRUI3VGtCUmVjMGRramVTNDhz?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 12:32:21",
-    "titulo": "Reddit passará a integrar índice S&P 500 no lugar da AvalonBay - UOL Economia",
-    "titulo_norm": "reddit passará a integrar índice s p 500 no lugar da avalonbay uol economia",
-    "fonte": "UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMk5lY21EcmVLQ1JqTTBzM2RJcUhhanlURU52c0kzT0s4d2dwZk9oYXdJNEhqUUh6N3lyNkoxQ0tuU0RCNldlWnV5R2gzQWViejduR2RCZlBlS0g5cHpjd1Mxd0s4VW5Ub25RazM0d2pQQklNZGdnSnUtbmpmdGlTVDhKbVNiSTRlU1FxMjUzLWlGTmppQlpOVTc1cEphWF9FbEpBSUFncGZLNzV4UlRHQnQzMWZvWmhxeUdwNWQxLThxdVh2aGhXdmRB?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
     "data_envio": "2026-08-14 12:32:21",
     "titulo": "KNIP11, KNCR11: 7 fundos imobiliários vão distribuir dividendos nesta quinta (13) - Fiis",
     "titulo_norm": "knip11 kncr11 7 fundos imobiliários vão distribuir dividendos nesta quinta 13 fiis",
@@ -5784,6 +5614,174 @@
     "impacto": "Baixo",
     "ativos_afetados": [
       "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Ibovespa abre em alta com cenário eleitoral e petróleo no radar; dólar sobe - CNN Brasil",
+    "titulo_norm": "ibovespa abre em alta com cenário eleitoral e petróleo no radar dólar sobe cnn brasil",
+    "fonte": "CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVpzYlRvM2VrRkJibEhDTWZCeFpEVWJxOWpleGQzV0dxYU9fWk5OSXpBTDJoZVhKaC0zNWJiZ2FTWm1ILWl4OVdJTnRhdzg4VmJ0b3NpMlJBdC1yYVNYUkJKd0JkQlItVnpINVZCSE51LWlGODE4ZXJvdndkMWhlUDY0ejJpbWF1dndlQ09YOHVzZTRiTTF0aTliaXJqVjVvc1pvUw?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Ibovespa futuro cai com ruídos no STF e ‘trade eleitoral’; dólar abre próximo da estabilidade - Money Times",
+    "titulo_norm": "ibovespa futuro cai com ruídos no stf e trade eleitoral dólar abre próximo da estabilidade money times",
+    "fonte": "Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZ1JfcGt0WENZcTRDOGtpWWZvWlpEdEhHaG5PaUpVbTE3dXE4UGZKSUs1amhDa0tfbVFHWl81WmJxeXYxV1lEWkRaR2doVFNlc3AwYWhDZjZEQkE0VXc4OEJNaE1sTVpNZWc?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa dispara e chega aos 184 mil com nova pesquisa eleitoral - InfoMoney",
+    "titulo_norm": "ibovespa hoje ao vivo bolsa dispara e chega aos 184 mil com nova pesquisa eleitoral infomoney",
+    "fonte": "InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2hmTTE3ak5sUzhjYXhnbTZkWkdVZjhuUHJlSV9tdFp0WUpsWmhZSTRZV1VuTV84TGpGcHQwSEdYcHhFUi01LTVvQXV4emk1TVROUEZXYUJ4QnBUVDJKNzZfbHZMbm1BTEtrZF9rempFRlFOaWJsbGJuZ09JMWQxQ3N0dndsSDVKRjJhdkg5Yw?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Ibovespa sobe forte com Vale em disparada e novas pesquisas eleitorais - exame.com",
+    "titulo_norm": "ibovespa sobe forte com vale em disparada e novas pesquisas eleitorais exame com",
+    "fonte": "exame.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajhGY1k1R05fWDVRQ1h4MjF2UW9NeURZZEM0dG5tbGZhS0NwZXN3ak9wLTIyLTBoMjlycm83b1hldkZ4ZHMtV2dxVnVNMWNiVWk2dndqTzhSMndKUU9NYUFjV0RFTklHTy1LY05WQ3Znd2o4R1gxdkJ6N1Jma3dEb3FuSndqQ3B1b2tuZEJTeFJWbm1sLW1ESmxpRGZ0M1lBREJ5TjRsQm4?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "‘Trade eleitoral’? Ibovespa dispara 5 mil pontos após pesquisa Quaest - Money Times",
+    "titulo_norm": "trade eleitoral ibovespa dispara 5 mil pontos após pesquisa quaest money times",
+    "fonte": "Money Times",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYi0wN0JuVG9Bb204VmcxTmdTeTFEUzZnZ3ctU3dCSGc1R0N5YlcxRk03Vlo2LVptTEhqdV90bVpIVVFJSVR5b1lMZ0FDQk1qd1I1VlI0SE9NdnFiSHJ4cUQxbDhVVGYzNS1QaWZWUnJKNFdWdUJQV2pJUS1pand0X0l4TWVtR0ZwbXgyMEp3ZmdObnRBV1hnM3N3TzBBTENIUmNwZw?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Alerta Estratégia Radar | Oportunidade Swing Trade Compra iShares Ibovespa (BOVA11) – start – 2/9/2026 - InvesTalk",
+    "titulo_norm": "alerta estratégia radar oportunidade swing trade compra ishares ibovespa bova11 start 2 9 2026 investalk",
+    "fonte": "InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NVTRxQWlFLXd0SEQwTmhaUWhheTRHbllPT3FDMFQ2UGNfd2g0OVk4QTVQLUxMRVJLd1kzc2RzRzhzZFZvMmVXMmZ5UEJUUGdVcWdEV3JrT3c0d1NSQmtvbDFTUlpSMkZabTFJREJpbUdDbTA?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Ibovespa dispara 3% após dado de emprego dos EUA abaixo do esperado - VEJA",
+    "titulo_norm": "ibovespa dispara 3 após dado de emprego dos eua abaixo do esperado veja",
+    "fonte": "VEJA",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmpTYlhlNFlJWWpvcDhRN0dqeUZXNVV6d0ZEWEx4YVR2aGV2dFRFUVpNbVVTdWJEa2IzYVJLTjBqLWV4QzdXbW10SGQ0eFRCMEJjTEh4Q0tQU05EeERid05SS29XM1ppWmFNa2FLb2RxeTBMcmRYUmdjVkxzRG5WWHBRQ0x3dGVPTW1YTWN1VWJyZWJoV3RjRGNOMUJjVXhPU0Noeg?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Só uma carteira bate o Ibovespa em agosto após saída de R$ 18,5 bilhões estrangeiros - Estadão",
+    "titulo_norm": "só uma carteira bate o ibovespa em agosto após saída de r 18 5 bilhões estrangeiros estadão",
+    "fonte": "Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcFJveU9kRWxnZXdoNDkwVkc1TzNPb25vNmc4c0hCX18wSnplWkg4UUtBeGdUSU9FaU54M29zVzZVMFJKZWNqZVd3X2pGTnIxa3ZIUXFUdHdpdUx2REQzTnVfY0QtMVlSTjBuZTFTLWJySVJmeE9UNW5NZ24tNlhLOC1rN215Zmc5TlpVNHpuTWwyY0hmX2VYaXEzdW9UekxwS2xBdlNNRmsxRFEtc2thLXBnSGlScFBDbWVJMmdCQ0xmXzcxczJHcEtPSklfejJvRXlPUVdIRFpybzhC?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Ibovespa Fecha em Alta com Impulso de Petrobras e PIB - Forbes Brasil",
+    "titulo_norm": "ibovespa fecha em alta com impulso de petrobras e pib forbes brasil",
+    "fonte": "Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY1l3NFV5SG1Ncnhha2NZU01YR0pveHp0c0FVNGY4U2dyQ2hfZHJnZHhQeTlrNG9xRjZmVlZiUEliVUdWSld2cTB0NXZrYkpIdk5GX2xRVjZIMnZqQkUxT0NZeVg5cC16TXR1VGxVWGJtSFVkaWFfLV9vYmRJbEY5T1BqcVY1NE5SREJWVm8taWZ0NVR5NWFFeGZkMkRhZw?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "Ibovespa dispara 1,30% e encosta nos 180 mil pontos com Petrobras (PETR4) e eleição no radar - suno.com.br",
+    "titulo_norm": "ibovespa dispara 1 30 e encosta nos 180 mil pontos com petrobras petr4 e eleição no radar suno com br",
+    "fonte": "suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGw0SFJOb25WZWFNSi01RWFobFJHT3VJYmtmZjhJWkRzRDdCRkQxdFUtcnFocTg2cHgwSHlsekhrR2pBNjBldWdaTWFGMkRxZUtQY2Rmb001Mmlub2RUQ3V6c3ZUOGI1TTV1VG1fWkdfeWR1Q1EtY3ZLb2VucnN6SlpWanZTeWNObXpqY2d30gGTAUFVX3lxTE9wekdncC1KN29acmxxSEtQTGhIOUt3SkN2YU9PTlhkRFllR1M1enR5cHJMa1BpWDBiRXAwMnpCMVdObWVKbkxJYkw3WDlUU1NPc3BuVjVEanl5QXRoSmFPbmtVNEJNNFI5OUdxQURvMG1FcWtPTFdoM1h2am03bWMxMkVZYzdKUG5GVGFydmRXRGtKQQ?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "S&P 500 e Dow Jones avançam na abertura enquanto tensões com Irã se contrapõem a otimismo com IA - UOL Economia",
+    "titulo_norm": "s p 500 e dow jones avançam na abertura enquanto tensões com irã se contrapõem a otimismo com ia uol economia",
+    "fonte": "UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTnAySlhySW9HS1RTSC02VER4V3dzZmZ1MGltam90UXpqQ1JRblhNOC1xZ284TzB0Y3poV3pOSU9uel9uY3ZfMVIzZVRqNU1SRjFyY09zeGVoZm1qeFJfaVVTYXFpRzN0dGg0YWdpcGR0YWs0d2JRbE5hR1ZpSUphbUlzUkFqRWxmTkxXVEh0amprdmRJYWljbjZ5ZlJCcUtqOUhka1N2TUNrQWdvUW9MX2dxTURrZjlzWnZQc0ZJbnV1S2swX2lDQVJqX0VWU2JFSFVnT1llNUFyMHFXdmJ1TTlkSmx2anpqVVZR?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "S&P 500 e Dow Jones avançam na abertura enquanto tensões com Irã se contrapõem a otimismo com IA Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "titulo_norm": "s p 500 e dow jones avançam na abertura enquanto tensões com irã se contrapõem a otimismo com ia por reuters investing com brasil finanças câmbio e investimentos",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc2Y1aFhNZENtNDlXbkk5X0hKUGpKN0J6LWxIWFl4ZzJLLWdvcDR2YWNhWmxyUnlJUmk4Z0xmdzZZOWpNT3RQbmJaUUJVVjBiY2ljeG9VTmFBVTZJYXBqUHFuMFVPWWtZVjJoN0szbDk1bWxZbk11aTQ5TWhmcnpwbUlHb2c4bkI2MGJQMUNjNU4yVVhCY3FUUjE2YzFBeVZTcEtNSXJaWUUwekNmSjU2SGlHTDNEc2paemVzSXZtY18xRUgyOVlaeDRYZWVncktEVFN1S084MHRHak11eXhCMWRnZ1Azdw?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "S&P 500 e Dow devem registrar ganhos modestos na abertura, com as tensões com o Irã contrastando com o otimismo em relação à IA - TradingView",
+    "titulo_norm": "s p 500 e dow devem registrar ganhos modestos na abertura com as tensões com o irã contrastando com o otimismo em relação à ia tradingview",
+    "fonte": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04V0p1WDdqVEZlNkZDdTZ4WTRMbEE5aVZqenpUcXUwTnNZTkxWOThKcXNYejNXNWhkY2xKbnQ2bEswVXFCaDF1elMydjcta0x5eUZXY0RRWmp3cVR6U0ZwNENtbmI0aDlTWnRiSXdvRmNUZExPTktN?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "S&P 500 e Dow sobem com impulso da IA compensando tensões entre EUA e Irã Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "titulo_norm": "s p 500 e dow sobem com impulso da ia compensando tensões entre eua e irã por reuters investing com brasil finanças câmbio e investimentos",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdi1ZdnFuSVlTNmNlZGNmR3lZWF9KNnpmT3dHY1Bld2xxSTY0VGkyLUtXbUh5c04wUThJT3VaWDdQWjNuXzZxTUU0N1NPRVdKTk5yXzRTaFZWQkxyZ1lBZF9IQnAtSy1qUVV0ekIzU1pNT1J4RVozeFJNOC1yNm5ZZXZRYWEtZlp6MFlsX2ZpQnEwNHc3RFN0bDlncjdzV0VNQUdoX3pUX0RhLXN4aW9pMGJ5Vy01NVFkSWZKNkV6Z2Q?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 15:22:07",
+    "titulo": "ETF de S&P 500 em reais supera índice americano em 40%; o que explica? - InfoMoney",
+    "titulo_norm": "etf de s p 500 em reais supera índice americano em 40 o que explica infomoney",
+    "fonte": "InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQW9kcnRDaXNVZ3hreGYtX0dRR2J0czRjcEVOaktyTy1TQUJiREY0bk1wT194RG1KZmZJLUg4R0hJZGpQRTNnMmJPc2tNVk51d1BHeDVaNzdDblRlbm92MTl6ZlBkeTlBREpwbDBmaU1taFlUeWFmM2tqc1hmLS14aWZJc3R5VF9uYmlJalFKdERpLWRKaUp0cTIxbmtXRlZGaVV1Uk1RaGwwY25aa0pj0gG0AUFVX3lxTE1YdUc3QzI0VlBOYmtYYXFzeEg5YUdGU0Utd1JYbFhhMVlMc3pfbjdGSG5JNU1UMG9QdlFmNFowdmJMSjZQaFg4OUlCckg1cGJMUnNaT1R4RGw5RHNfX25uOHdjdDFXN0ZCY1RocnRnVEdEWUlmWXdId1Z4dHJwOWdhZExEa09KX283NXBzbUROVEZiM2c1WUU3QTRsZThaTGJGcVBJRWh1OVcxVWtpcHhSV3d3Ug?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
     ]
   }
 ]
