@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-07-31 09:59:27",
-    "chave": "30e4577f3c41d8168ba453e3648cf6e6666524e19f1fd47e78e7d6b9a8be6854",
-    "titulo": "Inadimplência no crédito mantém nível recorde de 4,7%, diz Banco Central - revistaoeste.com",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblhIbFZGQXlUaE5TcGdLOVNPemVpbW53NnFvN3NBRENDVlhTYzRKRW5OOTFIRGd3S0dYMVZEbGFaeEd5aTZ3R3cxbU9pUjNJU2FxX0p4YkZHa2FKbHl3dVV5WjR0aXZrTlplUi1mOUxJU0NCbDBycF9IOHdFNUx4UjJWTXJJUnk4NXlNNTJMclRsemxOeHFJOUMtUWJxMEQ1M3hhVV9QSQ?oc=5",
-    "fonte": "revistaoeste.com",
-    "score": 15,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 09:59:27",
-    "chave": "84d0de227abbe27b019fcbcb1810a5c08d2bf44748bffb6eb323097175940147",
-    "titulo": "FIIs de “papel” têm retorno de até 17% em um ano; Selic pode mudar o jogo? - infomoney.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVpqQ0ZETGJhWG9GOVprVHhGaG96UllMN3pzM2ZEcG5vQzltaE5VYkNDMGl4WWxDYVRVVjljRWowNWJVTnBobFB3Q0RUbHM4enp5UDdWeWVYaUp2Y1QyRS1PYmx1a0xtbzJYdlJibXZmRGI0R1V5cW5pS2pTcXNzb3A3U2x5X2NqbDhyMXJRY1BtSG9MZ2VGWWRSMkl5LW5GdGE2c0hmQ0dZWEMyYnh2OTVpVGhnZWdLS01mc25QVm1rYmfSAcgBQVVfeXFMTnhoNHRKNGphUEY4SW9keGRSYkpZTFpXZDF0cHJ5eDIwdVdsWHRIM3dFUG1ERngwblFvTm9BbVJnMzVlTVh1RzFENkJLMVhuNjJGY0hRWjlUSnVlNmRJeDJ5ZHRMeUFjYmJ6RTJjR0ctTUtvQXdPQ0hxUW1QZ09ZLU9TaXNMMkxkLVV0ZC1uS0gxVF80dk40LWhfQVdnVGxXZ3FYSlF2RHJpRm1LZTZkMEZuREl0R2p0OUZvMm5mZ2V4Rk5QVXN1dlM?oc=5",
-    "fonte": "infomoney.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 09:59:27",
-    "chave": "d2f739dc75b9618ec420e475c619dc4fcc446c1543e8426f264e4294854d3c0e",
-    "titulo": "Dólar fecha queda, de olho em dados econômicos; Ibovespa sobe - brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOERyMWtOTEJYTEJGbmllZ3RPNEJOSzdKZmtsamxPSWNMN21PX0hZVDFzeGk3amtLZ3N6NmEtejhMOFdUdThCS0M2TG51SXZQVWdBLVU2aEpobFI2bmFRVFBKbWZBS0JTdmxLaHJxWGZfaW9BemtnbFZvZ2piOTROOEQ4cFhnVllEemh4QkFhZWpsdldMekJjR1Voalh4S0tBNHlaOTFn?oc=5",
-    "fonte": "brasilagro.com.br",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 09:59:27",
-    "chave": "73779c98c30522baa7c165c61010a6c952a012ebf7aa3cec54b6ac7fc8828908",
-    "titulo": "Banco do Japão mantém juros inalterados e continua prevendo inflação em torno de 2% - valor.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZ1g3ckVSNUw4emt5VEJ0bjBucVFObVBOWDB3OFkycTJPZHZNeHVyd09EdV93bHJjcGdia0pmMlhlZWNHeHRwTzhyWk9tWi1UQlg3UEd5bGVyYUF1bHN1c1JHOUN4ajZmaUZCTFZJdnJlY180WW40WEQxTzhHNENuNFRLZS1WNUpHU2RlWDhyMTR1VXFQVTU4bGJGSDZXWWdua0h4SGpMd01YdkRoc3dEa0R4aEpWRS1KT09LNHpGaG80X0tPcDJvZS1QTndqNzYyZmp2Snhya1hUSWpQWTBBS1gtNFliRUlTdXVn0gH6AUFVX3lxTE15YUpQR0FQRmhoMWxTZWNpek1BVXBRQlgyUFIwQXpIVjlxbzZUQXVHLXFKOElFU2NhVUFKSkF1U2VwbG9vNFVtNXdkM0dYVE85eURmSzRBa19KcElSczREWVNkWWlRN2taUDVzZjRmWWtuZ0FOM3E4Rk9nRl94UWRLOVcxVWR0b1NCdlRPOUY0NFI5ODV0QXZzNWw2eUpjZHI4VHMwNm82a0V2b2pVTXpxazRLRUNPUDZkd1lFdmYxZFNDQzlURmJmdlFEcndwQVhTUzhmTWhTLTJWcnRCQ1dlMmkwMXFIZHV5YmxsLVNNVWhmY0NxRzZudVE?oc=5",
-    "fonte": "valor.globo.com",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 12:16:52",
-    "chave": "a6d11ca3a41e1cc8eb23156eacd465cc2fa77432e6c2e0a5e6ea69c51ca6164e",
-    "titulo": "Sob comando de Guillen, Itaú espera mais dois cortes na Selic neste ano - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYnZQeHdKUmt5cnFZNXE2d1VXTGpxRER2LThtcHhuWFJ4R1dBdnVWUml1dkFWZDJqX0NnLTdFVU5fbE1pTGhfQnBrUzB0bUQ1aFpVaWJfRzgxOXZUYUNZYUpNMVdoTkUyOGh3b2NjNmRfbGVORHpTSjdwaXZJXzNXdWN1VjlKVGpMM3ZFZ2NULVJZamw4SXNid214Tndnb2t6enROczFiLWNYd3Z6TFlpWXZRMUpjS21pS3fSAcgBQVVfeXFMTmpYaGlYZHdudFYzLVd3emNfbjJwNHRBTkh5ZXZCRXVYUVdfNVlPTUszcG9qN2RwTGxEMHZNMDJxVFU0Y0x4cVVGNnpGSnBlM1M2Z1FkQXQ1S3BBZTBuOGFxZm1Mb0NIWGlUUFNXZFRRNFBISVZQbUhGaTQwbkd4ZkdiNE5lenVMS1o0Y2N1SnhxVWc0RHRidUIwVFBwQjVsa0xWVEJ3LUs0eS1vQldUY1U0M20ySDdSSVdSWnpLVEJvSzduV2lTNHM?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-31 12:16:52",
     "chave": "8430c35ad96c4c5da0b44a39a5b8dd32dec70cc19b5f197d7c3f352224c2b4b6",
     "titulo": "STF barra execução de R$ 492 mi contra Petrobras após TJ afastar Selic - Migalhas",
@@ -17308,6 +17221,97 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 21:49:44",
+    "chave": "45cb1a219b4383570bf1e050018ad7d3c2f31b6254a438221a4e188018575fac",
+    "titulo": "Analistas mantêm projeção da Selic em 13,75% e dólar a R$ 5,20 - monitormercantil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmJ3S1dKMGkzeDdVODZUdm5YN1Z1Wk5aS2FkY1JnZXJPYU5VYnZZMHFybHJMcnJLQVltOWJDX3RpVm9vNkpoLTJ1NDdzREhidG5mZHROaW11RTVsd0UteXB0N2tLNWRtQUFVZm1hMkRNX2U3WGtlRUI4S045MzVURTBMMk9nb3JJLTdCVnBiV0xoYjYydEE?oc=5",
+    "fonte": "monitormercantil.com.br",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 21:49:44",
+    "chave": "5cc3ae6a56b069b2d79f160ace23d768c20c35b4ba6763a51f043dde4bd5f76f",
+    "titulo": "Inflação puxa renda fixa da B3: índice ligado ao IPCA sobe 1,78% em agosto; veja ranking - suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUy1FR3c1X1lfUWNhMkU1OVVWYTQ3YVRfRFV1M2EwMm81MjlTaG1HRFlkOVUxWXRMR2h0R1A1ZXU1dDZ5azgxVEppWG5KZmF0Y0FEX1hTMDJBMVA2RkItamRCVzZ3eUdJbnEzSnVKTGp3TDZTZ3h1ZEZ3SzJWejRKbmJRbDlpQ0RIcWE3OGtSUdIBlAFBVV95cUxQcVpiT2hPLTZNbWpJZV91UHhGNnFWbDkxV2J3emdSVWdjSUUtVXBoVXpsRTBJUS04elhER2h4VEo4WExZWTBEZzJaRlZsSXNBTXl1U1FmUm0zM1RPVjlfQjNvWVhyLUQwbHNLUlBJU01XWmlhUUtKeEtmeGFva2dQZ0plb3JhZ1JLVGdYV21Od3BiNHFG?oc=5",
+    "fonte": "suno.com.br",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 21:49:44",
+    "chave": "274e6532819fadf06cced0c7b70308c313e98802c663d40d1a7ac28a262ddbdc",
+    "titulo": "Ibovespa sobe mais de 3% refletindo trade eleitoral; dólar cai - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVpzYlRvM2VrRkJibEhDTWZCeFpEVWJxOWpleGQzV0dxYU9fWk5OSXpBTDJoZVhKaC0zNWJiZ2FTWm1ILWl4OVdJTnRhdzg4VmJ0b3NpMlJBdC1yYVNYUkJKd0JkQlItVnpINVZCSE51LWlGODE4ZXJvdndkMWhlUDY0ejJpbWF1dndlQ09YOHVzZTRiTTF0aTliaXJqVjVvc1pvUw?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 21:49:44",
+    "chave": "54de66d97c7dbbbf6ffa9079c785759411da7cad150431f7ec54be972d153d57",
+    "titulo": "Ibovespa sobe mais de 1% e tem 10ª alta seguida; dólar cai a R$ 5,15 - brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem5lNHJXMTB4em4tY0NXUzZxYjViUDFEQkk0M1d6MG0weUdSWU4wQ0dwczZJT2txaVhSUVFWVU54dHExZXdBRTZ1a0hOU0ZiVDRCalJvR2o4d0NiNFVBQzZ3ZzZLRUhzNnc5MndZeklFeVpEc0J0ZjhRVnhjbmk5UmQ3VkM0OE1kLUhkSnNlQlc5UTVpRGJXdWxoMVJVS0xYaG8tLTJhcHNkdGs?oc=5",
+    "fonte": "brasilagro.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 21:49:44",
+    "chave": "e160ccddafc4b51cfd805d183fedc4ca5395f3817734fc6b45c8ff60999ff4d2",
+    "titulo": "Ibovespa futuro cai com ruídos no STF e ‘trade eleitoral’; dólar abre próximo da estabilidade - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZ1JfcGt0WENZcTRDOGtpWWZvWlpEdEhHaG5PaUpVbTE3dXE4UGZKSUs1amhDa0tfbVFHWl81WmJxeXYxV1lEWkRaR2doVFNlc3AwYWhDZjZEQkE0VXc4OEJNaE1sTVpNZWc?oc=5",
+    "fonte": "Money Times",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
