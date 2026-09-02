@@ -1,67 +1,5 @@
 [
   {
-    "data_envio": "2026-07-31 07:13:48",
-    "chave": "56781ffb79066a03102959f40306ba4419e626870c7d909fbd98c33d4d37ffe1",
-    "titulo": "Dólar fecha queda, de olho em dados econômicos e conflito entre EUA e Irã; Ibovespa sobe - G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HNDBqZjBDNU5jczVNUzBaTUpxdTBTajFmcFBQendDYWNMUWkzRm1GclQ3R0ZvQW1NQkVOTzgzQWpNN1N0R3hDU1JfR2tqZTZ2MUozNHA2d2RJZHBUeGVLODVvMUk0cFZHWWl3V1VpT1Vhc0Z5eXhENNIBhwFBVV95cUxOakhqSTdDOTNob3NRQ09TX1BBRm1NdWlEX285NU04NDBKQzE4T3pTcExvLS1OUmUtbkk5a1pKbEY3TDdtU1oyZnA0OWpnVHZ2c1c4NjhLYmFGZ2IyaUJkRUg5NkUxTERqVWxsekg1Q2xtRExFeTdLdUNkck53YTJrQklmckRvUjg?oc=5",
-    "fonte": "G1",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 07:13:48",
-    "chave": "3999b842ecc2b6ca2620611b2fe1138e63bdd88efe59673b2199c0b8f67d22cd",
-    "titulo": "Banco do Japão mantém juros inalterados e continua prevendo inflação em torno de 2% - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZ1g3ckVSNUw4emt5VEJ0bjBucVFObVBOWDB3OFkycTJPZHZNeHVyd09EdV93bHJjcGdia0pmMlhlZWNHeHRwTzhyWk9tWi1UQlg3UEd5bGVyYUF1bHN1c1JHOUN4ajZmaUZCTFZJdnJlY180WW40WEQxTzhHNENuNFRLZS1WNUpHU2RlWDhyMTR1VXFQVTU4bGJGSDZXWWdua0h4SGpMd01YdkRoc3dEa0R4aEpWRS1KT09LNHpGaG80X0tPcDJvZS1QTndqNzYyZmp2Snhya1hUSWpQWTBBS1gtNFliRUlTdXVn0gH6AUFVX3lxTE15YUpQR0FQRmhoMWxTZWNpek1BVXBRQlgyUFIwQXpIVjlxbzZUQXVHLXFKOElFU2NhVUFKSkF1U2VwbG9vNFVtNXdkM0dYVE85eURmSzRBa19KcElSczREWVNkWWlRN2taUDVzZjRmWWtuZ0FOM3E4Rk9nRl94UWRLOVcxVWR0b1NCdlRPOUY0NFI5ODV0QXZzNWw2eUpjZHI4VHMwNm82a0V2b2pVTXpxazRLRUNPUDZkd1lFdmYxZFNDQzlURmJmdlFEcndwQVhTUzhmTWhTLTJWcnRCQ1dlMmkwMXFIZHV5YmxsLVNNVWhmY0NxRzZudVE?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 07:13:48",
-    "chave": "8a7885ff89f63179513402e5f5df48b9ae290b20352e54a05dd6c8df8a031954",
-    "titulo": "Concessões de empréstimos sobem 6,5% em junho, afirma Banco Central - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXBzcFhKMnFYUWNvZUFUZi1hS0ZGbUtDNXJzQTBNLWExY01IcDI2VEhlOHRxSkZOeHdwakhQVy1wMEJzMXdJZDlkUUsxcTRzMEFhUXFWY21CQzlESEtwMHdmU3VvRmpLN0s4T0FYb1NqbENmMkdoa0VUY2R4RU5iVDRjQjEzeXM0ekZ1VXNFNHkyeXZKTG5nQndlSmpQU1d1T2JnMlVnMG1memVjaVdNMnF3V1NMSTVi?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 07:13:48",
-    "chave": "ff48d2f7659a32ee1f153ae52abe9dd9e92b86f51492fcb6bea88a73d61e54af",
-    "titulo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina - UOL Notícias",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUTZPR0VFU2ZPekN3NXp1VEZXV3dtVjNnQWhyU2U1by15RkEzRFJOeGhYN2t3ampPUExVRE00a21pcnQ0cjNPSDZQQVpibEdRWmhWRko1Skl3OEhrUGNHdW1nVm5kVUV6OEVRLWxDWVFHbzJRUWItRkVvWUNxVVdpYlAyM1hRRDhTYzNLVmhBdUFKVGhjOFBZNUw1N1diRlFZdUgySkp5blVyLV9zLXd4bXYtcm01SHNlOEZoR3Y2NGVGcnlTa1VPdGI1YV83eVlOMU8yVDFkeVdTQ1BaSWJJTFZ5VERuXzZ2LXlIdmxISEx0Tzh3NEtIUW9jemh3MUpkZy1LVA?oc=5",
-    "fonte": "UOL Notícias",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-07-31 09:59:27",
     "chave": "30e4577f3c41d8168ba453e3648cf6e6666524e19f1fd47e78e7d6b9a8be6854",
     "titulo": "Inadimplência no crédito mantém nível recorde de 4,7%, diz Banco Central - revistaoeste.com",
@@ -17304,6 +17242,72 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 18:42:53",
+    "chave": "babf272420e07e703b07c0b331772e78ba8bd2f0c1d986fcdb4fd89b34dc6fa8",
+    "titulo": "QUEDA DA SELIC PODE DESTRAVAR COMPRADORES QUE AGUARDAVAM MELHOR MOMENTO PARA INVESTIR EM IMÓVEIS - - Bahia Economica",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQU9udk1YV1BmdE83WndCU0o2c0x6SFNuRl8xQzdrVG05OHQ5OW0tLW9QQVVJekZ2Z29QRDdYRUFHeVZCbDU5V0pNWnRqNjVpbzJTMUVMekZjbkRjejJaYXVmaXFyNjZhNzdFM0pvN0gtUUdYVy1hRm1CRHF5bWdibnNPSE9BeDMybXRwWWZiQ0NEY1JCMDUzYzFpUS1BeWh6YnpLWnZMTjFzeGZ5M1FYUEtXR0ZjOC1oajh1THBvdHBUYW5mZHlLYzg0VzBCRHJZQ3ZMRzVrZXg?oc=5",
+    "fonte": "- Bahia Economica",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 18:42:53",
+    "chave": "5cb4a91a9003f0e82ce154398c23349261bb9a965aa665367c0ae8f7f5cc82da",
+    "titulo": "S&P e Nasdaq fecham em baixa após chair do Fed reafirmar combate à inflação - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkk3ZHotbGFoYkxmY3YzVUNhM1FGdjR1TkdkQkE3eEE3SXlybE5kaXk0aGxlQktTYkxvcjVXRUZ2N2swZVBuSndlWTl6Rkpzak9FTFpQd084aFgwbDZtREZCNGg5SDhGcEFzU05YUWg2OGQ4eFNVMkhmSmJjMmtjQlZVUW9uQUViXzFsS2FsVHluVVAyMWVhcEJrMVhpOGlOZl8wSmVqQ21mcXZORl9jU2RvUdIBuAFBVV95cUxPNVY2dXV0X3lVYzhwaEJOQXBrNUNOMTl3c3pMN1FCSWM3ZmlZUzVreG5QVThDVUxLRXN0Sm9VMlZiSUNKdElkN1FHOXNhV0p0RWpTdmRNamxkcXM4M2M2cG03WnhMa3dQcW9OaFgtU1lROU5lYjc4Zm9KM1RSUXlyT1YxdXROdk5IUWl6WnlsNGkwdW9hbGJLVkJwdlhGRnkycTNwY2Etbzdab0N1bzUyS3BOczdsZlFB?oc=5",
+    "fonte": "InfoMoney",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 18:42:53",
+    "chave": "12b3ef8bfd42e81a22d65bebc68f2d947b5a245cce6d0da41e2990f2ec934c21",
+    "titulo": "Endividamento elevado preocupa Banco Central, que diz \"preparar medidas\" - Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0RuYThKVmxmR0VBVUFPT3RMUndGMDdGb2xJOUhhTVBucURFZHZpTUtZSDNKdW1SZVMxY3RVck9KTjFNQ25pZ01kbGFzNlE0MzBfck5CSEpNckN6MWlkVzF2amFLcGt1ckVkUXB2cW85dEd5dUdNWTJOQnhLX1c2RnFQMHRiVGxjYTBmYUViUmtqVldUZ1l5cUtuNEZITExYanlHWlF3?oc=5",
+    "fonte": "Metrópoles",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-02 18:42:53",
+    "chave": "dfa01df2e3205be867fcf75273170c9a299dbcb26e538cc32e900a4355d59002",
+    "titulo": "Banco Central vê com preocupação FIDCs - Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlExWEJvZDRBX3lGNjU5QXhONFo1TGpZbDZfUUR0bnU0YUJwTFlPMzZDNnZlYXBOVHVkMjR5cTV1YnNVYkJqU000aHZadmVBUjNEWFoxMGN0dDdLWGRsbXZGTzV1VlFQaWRCdXdrZDB5YVRrd1dUY1h0eXpfblNyai1GQTBaT051cm5GMnpjWDByOEp1YXBTME5JMGR3MGtQSndaNUE5d1FBNmV0enJr0gG-AUFVX3lxTE5wZTNfcVlBdDA0NUp5RXJsTGlXbDZSbkkzbU1rZnZCakNWeU4yNWlhRWVOR2Y5b2pzS19ULWFFcmZrSXVrbTROUDlXRy1vR2NLSDVNLWdGX1o5RzRsYi16YzMzcEd3b0hGU0U4cWJ5OG80RjdCY3hFcGlIeWpjcVpNRFNuTWJjNjVQTDVFM2d0Zmg1enNwWDQ3LXYtVXBhbTZlaTJGMTlJdEFyTXBrbk80aVlSV3E1Y19DOVRBYVE?oc=5",
+    "fonte": "Valor Investe",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
