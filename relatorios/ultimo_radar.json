@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores - moneytimes.com.br",
-    "resumo": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores moneytimes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzRJVml5N2FwOEx2MThqaThkV2ZDTXBpcFVHX19mSU9uUDNiV2pja2ZmNnh3U0ZJMXFtbWdDbjRwYzIxZGMwR3A0YWxidnJfOFEzcVJES01HNW1jTC1vdlEwdEpvblpkNXk4cXNUWmNlbmtWbUtRT2pPTjB0ZE9NV29WOVhuSXpvdDdwUE5WbVI1aTFBZktXSHJJamMwdEdTQXNra01xWFluY1NrQ1JNcXZEbmFQVktfYTZOOER0UHRPYzN0N3pPQVQ3VWtIeWpZcDRHdjBRZkFwTUVFMVNaNHRn?oc=5",
-    "fonte": "moneytimes.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2850eda55f272a66761abaf88a53a0bfc3618c957b0019983fc008ef71b72a5a",
+    "titulo": "Como ajustar preços após a deflação de agosto pelo IPCA - CartaCapital",
+    "resumo": "Como ajustar preços após a deflação de agosto pelo IPCA CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYXZHcFFKSWdoeDkwdHJrZ1hDOUc5VU4tZk5RR0NuY1BiTHlBZktKTWVoSXA2TVBscG02czRkcV90OGlOX2V4QUozQ242YTdNYXE4S2NvdGlkTWN0ZVNhSHBzbmJvNFFiTEpId25uRXdkX0VtTzhxNGZqN3hrSlZIcWNCbk03ajRKOGE4YnFOY29PTnEySUE?oc=5",
+    "fonte": "CartaCapital",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "2a90d0c11623deaa33d7627f91d46ff1d82c086785059ed8ea6fac94a7932e35",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,12 +26,62 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco central de país europeu retira ouro dos EUA após alertas sobre Trump - Gazeta do Povo",
-    "resumo": "Banco central de país europeu retira ouro dos EUA após alertas sobre Trump Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFdISVJ4WHZpcG9ZaEtUZnM3dWRWU1gyUzE5eGlGa3U5NnBLc1RnSTljcFVOdmRXR1NKTUF2eWRWWTZyMDJOZVFMZU5hZDQ0MjlXNVVOZmZrZ1FNTkYzMmc2YkhEMXgxREl1bzZDR0pRNWs4STdqSV84bmxDajV2YXdkVWF3aHVuc2JncU9iRlVyQUZfZkhfdTJmbUlhdWFxSlE?oc=5",
-    "fonte": "Gazeta do Povo",
+    "titulo": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores - Kinvo",
+    "resumo": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMlpxNThjX3FaUTdvRllLU3V1QzFxd2Z0WTJtX09HZEk2R2VRdnp0V1E3RHUzelFOME44dmItVjR2ZUZocXd6S0t1T1lLWTl6aW51aHFMMEIzenkzSEtxaURYc3UzNF9FV1NYSDI3NGhZMkk0Y2FzVGRKN0FmdkpRZ2NlMm1yU1JBdE5SRmxjbVVQQUlsak1aT0RvTXBNd0pQY3hkT3ZLeGtQT095TnRzMUg3bFdRY2huNTVvYjVQWnZmR1hKWUdPbXNGcGtOR2E1NXVicExLRDY?oc=5",
+    "fonte": "Kinvo",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7193cb258d576b4da081582a4ee455a911a3c94fa994f37dfdc3606f17b679c8",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa perde força com queda de Vale (VALE3) e Petrobras (PETR4); dólar recua - Valor Investe",
+    "resumo": "Ibovespa perde força com queda de Vale (VALE3) e Petrobras (PETR4); dólar recua Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckZ1RlNtaEg2Sm1EUTRTSU56TjEyeEI4Z0VEY01qZ0d2TWtmNnFDZlR6YlpxWlVYdDBYTzNXY2YwZDhVZm9sUV81cHJDLU4wVEhqc0FFS2hRQnh1b2w2NUdTMXJLS0pvcmZQeV9hZ1VEdWRMeFBMSmVMRzZhRzM4OEduMkVMY2ttakZYVURaUjNjTmVVZmxzSUJZaVNrTHpNcXFaWXllUFNUN0Q4QWhVY3R2SHpCTTBvN1VWLUtoWlZlTGhEX3FMQ0Q3MldneEhEdDlScHZsd9IB5gFBVV95cUxPbm9tdzMxOHZaYVlwckp5dU96R1puV2JWMklMSmV4NEEyM19OVVJHUy1wbk9VMElMX2todGhWVGl1TTdiY0c0M2JsN2pjeTdlaHRvSVNqX1h0Q1JhbU1paVUzeEtKcHBWNEh2Ry1rcFg5QWhsTjVSZVl5YkVkelhGSjNGNXh0dm10djVqckJUakZJQmlLa3RjT2owZkZtMzJyd3k1amFKWEVjYS0xMTZIWGxiOU5tbXZDcFVKN1FJWUVpMVRPTGxFWkdUU3U2MXNEdGZEQ2NHYTZsTUNaemFsZTFNX0dnQQ?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d3d2af48a17e730b5d352433d3dd5e0b2b5aef544ce52554453a000bbee7e2ee",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Tensão geopolítica faz Banco Central da Holanda retirar ouro dos EUA - veja.abril.com.br",
+    "resumo": "Tensão geopolítica faz Banco Central da Holanda retirar ouro dos EUA veja.abril.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXFoaVJTUTBqbDBXZElPdEQ0VmE2NmVoS3dsRDdmNm12Q2VFTmotQmd2WHk4N3Z5U2tfcE9uWUs3Yy1ldDFYOFJTSm1mZW5BTFlKQndQc2lGTE5YTUhTaUtJdHBKaU94N29rekM4bHRGMFVWNlQ1QWFSVjVsZGMzZVJQZnJYNjl5cW8xUW8tdTF0VlhoaktTSlpfbkJSdldWeHd2LXBqRQ?oc=5",
+    "fonte": "veja.abril.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f9ced89cfa527446c68dbd5c6aa5f18d9e1a13d5009dbb872ee78687f92d2d5d",
+    "chave": "1bd18ae1653b4a971195c6ddde0960328ce84a25223d9e796c1d548817810328",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -50,69 +100,25 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central decreta liquidação extrajudicial das distribuidoras Trustee e Banvox - InfoMoney",
-    "resumo": "Banco Central decreta liquidação extrajudicial das distribuidoras Trustee e Banvox InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDNSczd3TkRXWmN6M3l1bV9LQTNLczZxVVFUTXZVSzNOM0xKUUdoenZNNVBla2VLQjc2Z3VhMTBLUkFVcGhRZzJCTzJGYnk3UE5iWjZRN25aWmQzOTQwYWxaU3RKbWY0WjVuRzNSUE1MR25hWnNRWmdSb25PR0lBdGNCREM2NkNPMi1QSWozc1lIX08zN2FacjIzRXF5WUFxRTNsS2djNVlITGRRcDh2Y05Wb1BiM3hqbXhTLWxB0gHDAUFVX3lxTE5zRnBtTjJBbVp3dDkxcFc4WWhmWnJsaGNTeG9VRUJoZmFCeFV4MDFGR1BUMTg4M0V3b1NfU0gzSXdid0NBWU1DekQxcTBKOWZZOVJ0RTQybWxBMFpvZWVBRUdlZTlfeEVrVzZLelF3eU0xRlllLXROXzBPcC1yTnNKOXF5LUV4eE1WSlkwTDMxNU4xcVByNlRVMFRlci1ZNDIzSFV0YXZjYkI3NTFwVHVUTDJlcTJ2dU5hVWZfSWlibWMtOA?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a6c59a80325ad93739952c034e9329a5d5c9053d9dd9f826db8f84fd9bd622a7",
+    "titulo": "Mercado agora | Bolsas da Europa fecham em alta, com alívio em juros globais; Ibovespa passa a cair - InvesTalk",
+    "resumo": "Mercado agora | Bolsas da Europa fecham em alta, com alívio em juros globais; Ibovespa passa a cair InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Tc05HWTAyalh1OHFJOV9jamVIRm9HMUl5UFRFWkVKSFo2dEZ4RkEtanRoeFlwQ0Q5VXRoQnJjRzB6eUpTQ0lSX0RVX3ZUbmFlUjNNU0pJbkVoemN5VDExOEFwSGtfcmg2bmJkbXZyZFpUZDFOeEE?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "2012a9dacc6832b84ef9725477a6ebb97d7749b7b86c776883d3c97760342bda",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central decreta liquidação extrajudicial da Banvox e da Trustee - Valor Investe",
-    "resumo": "Banco Central decreta liquidação extrajudicial da Banvox e da Trustee Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGxHdnEzbGljYUtJdVBrbjdRVS1LeDRwejlBOWJNenBBZUFUaXZkbTg4WEJ2cGZPMDMyVlkyZEtmd3M1NEVjS3lIRDFiMGtRbDI2TVdaeE9oUm5qNVk3RVFNSG9yNjJFdnFVbmc2NENDTkdUckFvSXFKTHFwRTFKSXREeG55aGNzT0k3bGwyNXlyU0ZXYnVyZmE4ME1wNXJVLXQ0WHZScHMwWFM2T3JhVkIyekJXa1I0MUtIT3FVVnVxNUZLbXhtMEI2S0tPUEI3a1o0R2V2VE5YZDZRQnlLTHVsdV9iT0HSAfYBQVVfeXFMUDlSNkI1YUtZcTVXVVZaNWhWWmtYeDA2cUV5aFhwTnYtcDVzWnFMay1yaXdlcUw2SjdONGxyS3ROLUdBdkFscmRrcXA3Rm9wQmlSUHltS0RWQjhtQnVwdno3REdzbllnNlNDbWJpRkN3ZUhRNHEzeHB2UE44azY0WGFuT210ODVmQ1diQ3pORzBIY2tpWjlrWWtXbl9ScXBmbW11elhWUVJPMkpTMkpwOUtJN0dNQldMaWNsMUhINHF0RmN2Nk0tazU0eXM3TnVqemVnQml0M0hQTjZWUVNHcnl2QmxYRktiVC02ZF83MnhYdmtPUnp3?oc=5",
-    "fonte": "Valor Investe",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "666262b6966372c2f886f0ddbf93a28cc9f46cc583ce4ecff59b2eae0e522843",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central determina liquidação de duas gestoras ligadas ao Banco Master - bloomberglinea.com.br",
-    "resumo": "Banco Central determina liquidação de duas gestoras ligadas ao Banco Master bloomberglinea.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzAtTU5sVmxieEJvaVFqLXFYcGJjUGhzbXhNRzFXMzRaZ1J5WWNQcmItQlBzaVFuNzVJbm9QR0VpT3J4LUFJem0wQVdJVUtlNTNKTnNPNUpjM1V3QzRMREVnQ291UVpqTDBXTGxSSmpleTRiSkNBVjFTM0EwSzhOdDJoeHdQLXEyOW1ESmM3TzFrbTVMd0tUSHNSZmhLV0J4ZlgtSGdEU2lNaDlkaEFibHUza2lVNGRC0gHMAUFVX3lxTFBVSjdhYVAzWkQ1amZqa1ZYYXZSVHRFY1lQNWgyN2lyY0ZUR25GOTlkLWVjLV9mdnVtZEo3R05JTXdPSmlSVEpCd2hqaDE2TmUwQ2lHbHdyMWw0NC1TTlYzTGt3c3lidkota2JGLVNUQlNNa1E2REV3Sl8xdEdGUUJTZWNfeDJRU2tmQzlZMEtGQm9ZbGNlX0RlSkxIa3BiYXRrSmdCTjQtdUFiaDROR2Q5Y2tBdEVOZjdnMm1fVmoxZzd4MnhSOFRKZVB6cg?oc=5",
-    "fonte": "bloomberglinea.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7109b30fb83dfe0d2210d24fda0b32d2d2688b40f85683b9fa5b194fda4f049a",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
