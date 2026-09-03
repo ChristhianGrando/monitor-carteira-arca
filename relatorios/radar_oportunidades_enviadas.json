@@ -1,88 +1,5 @@
 [
   {
-    "data_envio": "2026-07-31 18:45:12",
-    "chave": "d3d9d4ac1b9a8ddc0f2f08ab3f3b43ca2ac8546fe7999f8fa8f4d512172cc644",
-    "titulo": "IPCA ou CDI? Veja qual faz mais sentido para cada objetivo - suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qNm1KaGZqYWJsZEpSTW5JT3lmYWxWVTB4aEZQM2x4NzFacEoyeFJqWHNUbW1kSC12WkxIOWFtYkwzTS1OUWprZTBFS2l3Y2NkTzNpNHBQbl9EX2JwZkVqX2tWbHBkanppbGN1YTVYaW9MclRQOHfSAXtBVV95cUxQREtiODlubnVBVC1XbEItbm9zOUdudk4wdUdHdHhoSU0yVHBkZGs0cmxhUkVOV2U5Z3I2Z1duNTVyTUIyT1BWMUY5VGNiRmRTRTBfOFl2QmJETTRvZjRZdGNxV25CUWNrbmkxYngxQVRJUnVwa1U3QTJGV2s?oc=5",
-    "fonte": "suno.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 18:45:12",
-    "chave": "359e764c48eaffbab3eb88ce789546c738795fdac0528d06b39247fd64430f49",
-    "titulo": "Ibovespa hoje: em dia de falha na B3, Microsoft (MSFT34) e Amazon (AMZO34) impulsionam índices nos EUA; veja destaques desta sexta (31) - Empiricus",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUEJRVXluNm5tTS1makw4bnltUTFYbVE1OVhXNEtveDU3M1VHQThoOUxZV0JjbmZHYlRVbWNjX21aQktnRW00ZTExa1JWRWlrTU1nNG1aZ25EaHIxZ0xPS2dkbVJxdWpiZzhzWHFQb2hSeWdLVjRCcjlQSU5tZjdKaGJUVG5oNmc2SUtwVXluQTF1eTZCU3haT21VNHRMckdMX0lzQ09mX3JMcTU2V0ZMMjFQMmdDaUthYThpLVdMQk9WTlhMLVB2QXlhN0pnRHhzQTlXSkhHdDFaZEFBYXdDMkFGU3dibDFNRjFKQjgtZmlnZUd0SUNrdXFTelF2b1dublJvSXdMTHJETC1xelo1bg?oc=5",
-    "fonte": "Empiricus",
-    "score": 10,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 18:45:12",
-    "chave": "58eb71019f4c3aa2f95c52cc9187f63948c8dc0a0b48c7a6326b3a70679bc0cf",
-    "titulo": "Milei propõe reforma do Banco Central para barrar financiamento do governo - InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEt6ZmJFT2N2ZEZVeTgwcDNvNTJMOEFjWFdiVC1lNHVKZmVjUHllOG9hWjBKUGFaeDJRTE5Wd2R5UzEtdE9ISkNGTHZBSUt1cXZGaDliRHp0dWhjYWhRTjRTTFZUVHV4TmsyUVlyXzVMdm9VYWJXMDktSlBOMHZqdzNsNlhlSzU4UFdsdHdIOGY4cHFnM2RMTEV0TWhnRnNGdEtCdXRHRHh4ZEVqelU00gG0AUFVX3lxTE1NOFpYVkVpcnJIMGdCV3U2OHlBMVhNNGdHRGNiaXZ0NHVKUXhURVkwU19vcXdad29YV3FMaTgzbklaVWJFajFaTTBqNi1EVE9yZlE0YkdlMk5JbTRQbUtCZllCMVhHLTJVNFQ1YXdQWVZ2bFlkb1RMOU4yQlZ6bjlJUXVoZXVVX0NpVG11ZlZDcUVKRzhKVEpYM1ZxNUxlZVRHLUtqanNJU0hrWUNHNzNGS2pNZw?oc=5",
-    "fonte": "InvestNews",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 18:45:12",
-    "chave": "4ff7049ded51203eae985ebd5f9a222d08b9ab94c5b8e8b1374ea3bfa035aab2",
-    "titulo": "Milei anuncia proposta para reformar Banco Central da Argentina - Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRrQzhDdndac2Q5VGhyaEhZN2NCM29zZmxCYTF4RzdKV0ZCWHp0amlqUzlwM2Zxb1JjRHA1X0kyTjQxaEtjLS1IRXVaV1V6ZUxnbTJGc1hBS2xpN2NQUVJsOVVpLWtjd3l6em5hU0tsVG0ydl9iLXd4Mk9ZbVZndXlnbTBYTDF2aVpudW9lNU5aUmtQQTFCZGtsLTZITEk?oc=5",
-    "fonte": "Vero Notícias",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 20:36:28",
-    "chave": "af4aebee692ec72164eceda3eb14aee3f9713504c6aa2253a582d1249624c6a3",
-    "titulo": "Ibovespa hoje opera em alta após falha na B3 e retomada do pregão; dólar sobe a R$ 5,07 - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzR6R0QxMVZCQkFqMnZNdWJ6bGx4QU00WmNJYVBnU1JZVVhsNG11VG50Zjd5R3NqbV9GYldtZ3ljWmRuakplS19icG16dWVCMTc1SnVSd1k3RTZ3OHhvcjFxY01BT2gzRVVxYkZMSDdrY0REOU92WGh0Z0t0V2RLNnVGU3lVZlFhekhiTEExV0xMQmY1eTRmMlhYRHF5aFZJWkxhbWRnUXZZT1ltSUFJMk96akJkZ0l1dHFuMlFCMkpSd3hDR2Y5c0t0ZEh2TW8zby1GUXNSenZoQVBNLWlxLdIB5gFBVV95cUxQcnpOdjd6b0tOb1dVZjdPOTZmeHBnMVZBaDQwQ3IyVjkwSzJRVklwLXlCMVN6ZTVzX0tuSVctRXRhWUQwTXJuak1RZ0NCODU3RWUwbTZmcXNicUozUVh1dGpDdHVEalRLMUgxSGZid2lDaTZuLWdkdnBXMDUtS0w4Nmw0bkM1VTR1VW5mRWxEOXA1Ui1uck1kMmxZU24wTW9TZGpsdWVQNlZMSXBSRzJDZm5jazZMbl9kRWRmNnZCLV92dkgxSUY1RDB5a3h2TDdia3B3cFJyTXFzZTYya0JieEk1NU9JQQ?oc=5",
-    "fonte": "Estadão",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-07-31 20:36:28",
     "chave": "b79f7e5d8cb0f76b521d8d050c8d498b81eb54e3c6b5e408d977bacc04c5131f",
     "titulo": "Expectativa para a próxima reunião do Copom - Monitor Mercantil",
@@ -17299,6 +17216,87 @@
     "titulo": "‘Assalto ao Banco Central’ ganha continuação, agora com mega assalto no RJ - O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbmpKZkdDN0EwZ25CNnhua0pYRmRZalNwNE1LbHc5SFdNZHVHRGdIQWVCb1dtaGgyTTkwWE1nM2c3OE9PVmhCS2R2UTRyN0pSc25qMHpZUHdlS2ZZSS1MMjY2TksxSE9ZZzVjMXpKVkdjclktY01GVFlxOVpJWWpuMlFNY0F1VGdEdGNER09zVzI1QURsU0RCc2c3dWRLdnRieGJaTUM3S1p4eTZaVDh6S29MZlUzQkZJQUQ2RHlJY0pWX3ZBWWF6TWNKaUtwek3SAd4BQVVfeXFMT0o0NExuRFVra051NGVoUXJpY0l4aE1VMTctUUpScmdjUEZjVTA0MFgxY1F5bEpoZ093Y2pzUG1kdWlSazRua285RmFrcDF0QlByekVPMklDc0JweEZFMWJkV0paUmlnVmJSczVORzNPODlmWEExbUlmMHhGSjRYSTlHb1lYY28yTjlRcVNuVzVhODZ5SW83enFsNEpDZUN5NlJ1TWdpQ0txbS1hTVdsejRBeFdVN1BrR3lLeExVVkNycnFWSG5Cb20tSWplbmJFMjkxMW9OWVJBTHN0cW93?oc=5",
     "fonte": "O GLOBO",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 14:34:48",
+    "chave": "2850eda55f272a66761abaf88a53a0bfc3618c957b0019983fc008ef71b72a5a",
+    "titulo": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores - moneytimes.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzRJVml5N2FwOEx2MThqaThkV2ZDTXBpcFVHX19mSU9uUDNiV2pja2ZmNnh3U0ZJMXFtbWdDbjRwYzIxZGMwR3A0YWxidnJfOFEzcVJES01HNW1jTC1vdlEwdEpvblpkNXk4cXNUWmNlbmtWbUtRT2pPTjB0ZE9NV29WOVhuSXpvdDdwUE5WbVI1aTFBZktXSHJJamMwdEdTQXNra01xWFluY1NrQ1JNcXZEbmFQVktfYTZOOER0UHRPYzN0N3pPQVQ3VWtIeWpZcDRHdjBRZkFwTUVFMVNaNHRn?oc=5",
+    "fonte": "moneytimes.com.br",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 14:34:48",
+    "chave": "f9ced89cfa527446c68dbd5c6aa5f18d9e1a13d5009dbb872ee78687f92d2d5d",
+    "titulo": "Banco central de país europeu retira ouro dos EUA após alertas sobre Trump - Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFdISVJ4WHZpcG9ZaEtUZnM3dWRWU1gyUzE5eGlGa3U5NnBLc1RnSTljcFVOdmRXR1NKTUF2eWRWWTZyMDJOZVFMZU5hZDQ0MjlXNVVOZmZrZ1FNTkYzMmc2YkhEMXgxREl1bzZDR0pRNWs4STdqSV84bmxDajV2YXdkVWF3aHVuc2JncU9iRlVyQUZfZkhfdTJmbUlhdWFxSlE?oc=5",
+    "fonte": "Gazeta do Povo",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 14:34:48",
+    "chave": "a6c59a80325ad93739952c034e9329a5d5c9053d9dd9f826db8f84fd9bd622a7",
+    "titulo": "Banco Central decreta liquidação extrajudicial das distribuidoras Trustee e Banvox - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDNSczd3TkRXWmN6M3l1bV9LQTNLczZxVVFUTXZVSzNOM0xKUUdoenZNNVBla2VLQjc2Z3VhMTBLUkFVcGhRZzJCTzJGYnk3UE5iWjZRN25aWmQzOTQwYWxaU3RKbWY0WjVuRzNSUE1MR25hWnNRWmdSb25PR0lBdGNCREM2NkNPMi1QSWozc1lIX08zN2FacjIzRXF5WUFxRTNsS2djNVlITGRRcDh2Y05Wb1BiM3hqbXhTLWxB0gHDAUFVX3lxTE5zRnBtTjJBbVp3dDkxcFc4WWhmWnJsaGNTeG9VRUJoZmFCeFV4MDFGR1BUMTg4M0V3b1NfU0gzSXdid0NBWU1DekQxcTBKOWZZOVJ0RTQybWxBMFpvZWVBRUdlZTlfeEVrVzZLelF3eU0xRlllLXROXzBPcC1yTnNKOXF5LUV4eE1WSlkwTDMxNU4xcVByNlRVMFRlci1ZNDIzSFV0YXZjYkI3NTFwVHVUTDJlcTJ2dU5hVWZfSWlibWMtOA?oc=5",
+    "fonte": "InfoMoney",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 14:34:48",
+    "chave": "666262b6966372c2f886f0ddbf93a28cc9f46cc583ce4ecff59b2eae0e522843",
+    "titulo": "Banco Central decreta liquidação extrajudicial da Banvox e da Trustee - Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGxHdnEzbGljYUtJdVBrbjdRVS1LeDRwejlBOWJNenBBZUFUaXZkbTg4WEJ2cGZPMDMyVlkyZEtmd3M1NEVjS3lIRDFiMGtRbDI2TVdaeE9oUm5qNVk3RVFNSG9yNjJFdnFVbmc2NENDTkdUckFvSXFKTHFwRTFKSXREeG55aGNzT0k3bGwyNXlyU0ZXYnVyZmE4ME1wNXJVLXQ0WHZScHMwWFM2T3JhVkIyekJXa1I0MUtIT3FVVnVxNUZLbXhtMEI2S0tPUEI3a1o0R2V2VE5YZDZRQnlLTHVsdV9iT0HSAfYBQVVfeXFMUDlSNkI1YUtZcTVXVVZaNWhWWmtYeDA2cUV5aFhwTnYtcDVzWnFMay1yaXdlcUw2SjdONGxyS3ROLUdBdkFscmRrcXA3Rm9wQmlSUHltS0RWQjhtQnVwdno3REdzbllnNlNDbWJpRkN3ZUhRNHEzeHB2UE44azY0WGFuT210ODVmQ1diQ3pORzBIY2tpWjlrWWtXbl9ScXBmbW11elhWUVJPMkpTMkpwOUtJN0dNQldMaWNsMUhINHF0RmN2Nk0tazU0eXM3TnVqemVnQml0M0hQTjZWUVNHcnl2QmxYRktiVC02ZF83MnhYdmtPUnp3?oc=5",
+    "fonte": "Valor Investe",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 14:34:48",
+    "chave": "7109b30fb83dfe0d2210d24fda0b32d2d2688b40f85683b9fa5b194fda4f049a",
+    "titulo": "Banco Central determina liquidação de duas gestoras ligadas ao Banco Master - bloomberglinea.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzAtTU5sVmxieEJvaVFqLXFYcGJjUGhzbXhNRzFXMzRaZ1J5WWNQcmItQlBzaVFuNzVJbm9QR0VpT3J4LUFJem0wQVdJVUtlNTNKTnNPNUpjM1V3QzRMREVnQ291UVpqTDBXTGxSSmpleTRiSkNBVjFTM0EwSzhOdDJoeHdQLXEyOW1ESmM3TzFrbTVMd0tUSHNSZmhLV0J4ZlgtSGdEU2lNaDlkaEFibHUza2lVNGRC0gHMAUFVX3lxTFBVSjdhYVAzWkQ1amZqa1ZYYXZSVHRFY1lQNWgyN2lyY0ZUR25GOTlkLWVjLV9mdnVtZEo3R05JTXdPSmlSVEpCd2hqaDE2TmUwQ2lHbHdyMWw0NC1TTlYzTGt3c3lidkota2JGLVNUQlNNa1E2REV3Sl8xdEdGUUJTZWNfeDJRU2tmQzlZMEtGQm9ZbGNlX0RlSkxIa3BiYXRrSmdCTjQtdUFiaDROR2Q5Y2tBdEVOZjdnMm1fVmoxZzd4MnhSOFRKZVB6cg?oc=5",
+    "fonte": "bloomberglinea.com.br",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [
