@@ -1,88 +1,5 @@
 [
   {
-    "data_envio": "2026-07-31 12:16:52",
-    "chave": "8430c35ad96c4c5da0b44a39a5b8dd32dec70cc19b5f197d7c3f352224c2b4b6",
-    "titulo": "STF barra execução de R$ 492 mi contra Petrobras após TJ afastar Selic - Migalhas",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWNGTkxHS0VZRWxaNkZJUjRpbmdlMW1tdDVwMk1kMmN6N0M4UGNLXzY0MjVMN2VxTXlaU3RHQjAzWGxOekxtWWN3WUFJWG5kSXZGZnljeExibWdxRVBzNzl1UWIwTXVWQzZhQ21ka0RpZjlUY2tiM1ZXMmMyNEs0a05waEFIR3RRQUdzQzg0UDJRM2FWaVNaNldPYVkzX3BRUU53aVJJZEd5RThqRFdXdWs0aWg2RmVqdzVmeTAzSGs?oc=5",
-    "fonte": "Migalhas",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 12:16:52",
-    "chave": "3fc762f0393a172bfffb33ec402945505f397f9077343c6e3a3da34e34d8ddc0",
-    "titulo": "Milei promove reforma do Banco Central e 'shutdown' em caso de déficit na Argentina - G1",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUNPd085cDV6ZnBPb2w2SG03LWE1Rk45TGxFWDNNMUxONWF3WlNjYmxZMTM3dzFpemMtbk9MQ2tFVmFpWEE3Y3ZmRnBJZm9UZUhEZG1FZmdXM0hrWkRPREJHU1hSS0hzRGpqVVRjdEpWMTE2di1KX192dG9xWEFnOWp3MmtsU29penVlcnhBWDExM3RJcE9uV3NsQlhvNDRzalNjRVhsWjJGU0lPQ0NSV2VRMmVVWE5iZFpRTDg3SnZBQmpPQ1JkaHRyZGxtOW9oSnfSAeABQVVfeXFMT1Jwa2hXMFRzbEVnT3FkdWxqODMweVU2Q1pERlhKVk9VVTFEd2hBQ0tNb0QzV25odC1jZUk5UXpqQmlocXJKc2VfWmlfN3lZd0VlRzZLUUwtbW5qT0g0YkpFYTFmNGdIdWJWbHVFVjk5R3VfYnAwOUNHb3RSXzlRN2dHdEJoNUNxenVPZzJjLWdjMnBZNWljR19NMXBYOVNiZ1hfOWJ2WmFyekYtSWszTVlpME00S3dUQ3dtMHNJTV9rRXk5bWg3emxJNGdFNTJ1WTM2cldfVTJHX3FjcFJVb0c?oc=5",
-    "fonte": "G1",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 12:16:52",
-    "chave": "8543ae1fb0745850a8e0a64ae027c905589b931f457b8ac4c4eb90b63d205761",
-    "titulo": "Dívida bruta atinge 81,9% do PIB em junho, diz Banco Central - Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGVERTZ5OWZKbWl4MnptX0FwY3J0aWFpOVNYdDFZamx6WVN2clh5QWRFNV9NYW96RzFmejByWmUyRWJWbjdJS1cwSVRvX29WMFN6Q0I4Y1BhamtQODk5dmxoWXFJVmluNzNCU2pQeXJ6bUVpZm1DTVd1NU9NcGFndTRkYkNqVW1CQXNaU0hZemo1MTJYNGYwbFFHaDFZczN2SFBB?oc=5",
-    "fonte": "Poder360",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 12:16:52",
-    "chave": "418c21acd50a1e0322f18f2083ec99ac9c0694ab3c46e2c581d3496b511b88b4",
-    "titulo": "Concessões de crédito livre sobem 6,7% em junho, aponta Banco Central - estadao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGt5WWF2NmlvdTVxQVJmVzFCX0lhYzVQcWxaRmZhdHk0VTNSMWhKVnRVdWZvbTBfbUp5dkRDYnNOQzF3RkRzbmVoUDlTOFpOeDhJNGFDMW16MWxXNlJqeXVEZXBhNWJMYjFUTmNYM0lqSm0tUTBmV1BZcWJHa1kyb1VNOVEydmZVRGgxZEJ2NDTSAZYBQVVfeXFMT1UyQTZqVkY2MTc4ak1NMURxVEl5QWVHckU4UjNPTi0zcUNydUhWcUhGenBGZ0ozMkxGX2N6d0ZmcXVhc215SzZtZHk4M2ppejVHemt5RFd3WjlKVE5VSDVSXzM3NlRVZW5adkQtakUwdDRodDVjTC1FOWNMLTRLam9RUmdkNEVhTXJTSGJvM3Rvb1FuMDdR?oc=5",
-    "fonte": "estadao.com.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-07-31 14:40:08",
-    "chave": "b61f87e787fbb82aa96ab2f06d9631ede83ecd99013ceafbd8987ab859cfbf9b",
-    "titulo": "Copom: Natalie Victal, da SulAmérica, é “voz dissonante” e defende Selic em pausa - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWlwem9qUDlVWFY2Y01nQmk2b3NMLUxyZmgwUGFYN0dzRW9PS0hJZkRraDZwc2VRNVJGaXJZSTVpNkZiQTdXRnVtN2pGeDJab0UtXy1LcE8zX0FoUTVQR25uUUJDS05fMlhKVFpFZllMbE8yXzJ4ZWp5VTZfa0ptMFF5aGt2VG8xcnhzNW1uOUd3bVVveEHSAZsBQVVfeXFMTzV0X0UwOHRxXzNPa3UtWnRDb0JzeDNqNnhQeklJODR1RUtIbUlieWZrV1FlcC1pWkFab2Y5cUZQY2dwRVAxT0Q1UloxbWxIRWZJNEpQT0diZDJHOFgwU0hsM3BlbkhUaDFtdXRocUhDNDA3eXoyQkgxYVB6YVE0LVdDeFBZSFBEZG54aEVJNTczSjR6T3JLQ1B4ZVU?oc=5",
-    "fonte": "InfoMoney",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-07-31 14:40:08",
     "chave": "483a15b1f3aad4b89519d2c7720bc529684778584814145996847379b9a031e0",
     "titulo": "Ibovespa fecha em alta de 1,88% e dólar comercial cai 0,93% - canalrural.com.br",
@@ -17302,6 +17219,91 @@
     "chave": "e160ccddafc4b51cfd805d183fedc4ca5395f3817734fc6b45c8ff60999ff4d2",
     "titulo": "Ibovespa futuro cai com ruídos no STF e ‘trade eleitoral’; dólar abre próximo da estabilidade - Money Times",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZ1JfcGt0WENZcTRDOGtpWWZvWlpEdEhHaG5PaUpVbTE3dXE4UGZKSUs1amhDa0tfbVFHWl81WmJxeXYxV1lEWkRaR2doVFNlc3AwYWhDZjZEQkE0VXc4OEJNaE1sTVpNZWc?oc=5",
+    "fonte": "Money Times",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 00:16:10",
+    "chave": "63b62ff2e89ef05c4d070e3f4ff43d69cb3b656feb9bacc1d27d94642d036db1",
+    "titulo": "Ibovespa fecha em alta de 3% com trade eleitoral; dólar cai a R$ 5,10 - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVpzYlRvM2VrRkJibEhDTWZCeFpEVWJxOWpleGQzV0dxYU9fWk5OSXpBTDJoZVhKaC0zNWJiZ2FTWm1ILWl4OVdJTnRhdzg4VmJ0b3NpMlJBdC1yYVNYUkJKd0JkQlItVnpINVZCSE51LWlGODE4ZXJvdndkMWhlUDY0ejJpbWF1dndlQ09YOHVzZTRiTTF0aTliaXJqVjVvc1pvUw?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 00:16:10",
+    "chave": "b86a9d7f529df55925be907fcdf5ab04be7b88a0061a661963011bfce48b7159",
+    "titulo": "Ibovespa Salta 3% com Expectativa sobre Eleição e Fluxo Estrangeiro; Dólar Cai - Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVUtNkhyVDB0LTF1OWpPQjhoX2RZOUFSTXJQT1FFd1J4ZVRud1AxcFM1di1GSnhfUmhFVGZZb2pJVjE3WnJkYlV1Sy0yUmdGckZORDFnTTVoeEJhY090bjBlZ0lLeGFxMmVhYV90VkE0YUdjZndmaWdvbVE0V3JtUU42eW5wZC1OZGpaa2FfZlIwd28wOWVWZUl0MHlxcFpYUU43N3ItRVNtWnMyUjE3NUlvVVpteERMS2tzRQ?oc=5",
+    "fonte": "Forbes Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 00:16:10",
+    "chave": "4b1f8604e54345a68c3e3c259e4af477515268ae7bf4e273029b1af93843436a",
+    "titulo": "Dólar cai 0,91% e Ibovespa sobe 3,06%, aos 185,2 mil pontos - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeE5DTlJrOS1aNFlDN2FUV0hfWkgtUWRxQTA2UHpfZmlKcUZHX1Z5MlZJS25ISmg0N0RhWFFmSWRlS19xQmhsbXJvN3VYMWpsZ18wWFp4aF9vOVFKcHRiQTdxX2M2SlVXVExmMlkxR3R0UWF5bUlqTmZqT1dCWXRmNW93T0Y1cnRNajRnNzNleFc0bi1ENmUxb3RpdFd3dw?oc=5",
+    "fonte": "Poder360",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 00:16:10",
+    "chave": "e3410f77bc7e27a6eefa1afc9e1d62773054e7e5024c24aa22e6e0d8db1b900f",
+    "titulo": "Ibovespa dispara e dólar e juros futuros caem após pesquisa mostrar disputa presidencial mais acirrada - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMW5xWGE5OC1xMWFER2RQQUk0TjcySXdmbnVUMXdLcmFYSXhfTklrblJNdzd5VTNaeHNyRDhkQnBwYTlOaWhJdWI4U0J4WUpYa1M1LUpRNjRxamZMZ3M3MTlDRHk3TDVWTHBpemVQU3YyQ0ZPNzZZVXN6dlkyd2g4UUtKODhPRDNCZE5RLVNabG8xRmpOcmQ0bk81U0dnVVZ0TGU4RE51eWNibnJCdVlmamtHWU5uaTRuQWJ1bVJLb1dfbEhDQlJqekczbmg2b1BxUTFSRm1hUWMxSFp5bkMxaFA4bHZTUHpDNl9DRGU3NFhJSlhaUWhMNFBOYmx4R2VH0gGAAkFVX3lxTE8xbnFYYTk4LXExYURHZFBBSTRONzJJd2ZudVQxd0tyYVhJeF9OSWtuUk13N3lVM1p4c3JEOGRCcHBhOU5paEl1YjhTQnhZSlhrUzUtSlE2NHFqZkxnczcxOUNEeTdMNVZMcGl6ZVBTdjJDRk83NllVc3p2WTJ3aDhRS0o4OE9EM0JkTlEtU1psbzFGak5yZDRuTzVTR2dVVnRMZThETnV5Y2JuckJ1WWZqa0dZTm5pNG5BYnVtUktvV19sSENCUmp6RzNuaDZvUHFRMVJGbWFRYzFIWnluQzFoUDhsdlNQekM2X0NEZTc0WElKWFpRaEw0UE5ibHhHZUc?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-03 00:16:10",
+    "chave": "ee991491e93a6fe3c29ddec6adab31e884c9fa7da45a6204f9d41100162629ff",
+    "titulo": "Tempo real: Ibovespa salta 3% após pesquisa Quaest e dólar cai a R$ 5,10; Magazine Luiza (MGLU3) dispara - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHhFWHV5TmxJbUVaWE10dkxLNlJZd0thUlBuOGFhWlF4Y3VWMk9sTXluUkZremFBQ3M1bUhLTkl5enlrRlh5Tk5IRUtBazFlSTZqX1Itcm9OYjBHRmRFakhVcnV1dGdmNXVFbXJPeWgtMmRFMEhBVGQ0WlM3YlBvUlZ2VmRMUjAzalp1R25ZbXcycklOTEM5LXllTzR6UQ?oc=5",
     "fonte": "Money Times",
     "score": 11,
     "tipo": "Oportunidade de estudo",

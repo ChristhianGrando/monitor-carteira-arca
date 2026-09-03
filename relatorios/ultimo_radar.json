@@ -1,65 +1,11 @@
 [
   {
-    "titulo": "Analistas mantêm projeção da Selic em 13,75% e dólar a R$ 5,20 - monitormercantil.com.br",
-    "resumo": "Analistas mantêm projeção da Selic em 13,75% e dólar a R$ 5,20 monitormercantil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmJ3S1dKMGkzeDdVODZUdm5YN1Z1Wk5aS2FkY1JnZXJPYU5VYnZZMHFybHJMcnJLQVltOWJDX3RpVm9vNkpoLTJ1NDdzREhidG5mZHROaW11RTVsd0UteXB0N2tLNWRtQUFVZm1hMkRNX2U3WGtlRUI4S045MzVURTBMMk9nb3JJLTdCVnBiV0xoYjYydEE?oc=5",
-    "fonte": "monitormercantil.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "45cb1a219b4383570bf1e050018ad7d3c2f31b6254a438221a4e188018575fac",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 13,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Inflação puxa renda fixa da B3: índice ligado ao IPCA sobe 1,78% em agosto; veja ranking - suno.com.br",
-    "resumo": "Inflação puxa renda fixa da B3: índice ligado ao IPCA sobe 1,78% em agosto; veja ranking suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUy1FR3c1X1lfUWNhMkU1OVVWYTQ3YVRfRFV1M2EwMm81MjlTaG1HRFlkOVUxWXRMR2h0R1A1ZXU1dDZ5azgxVEppWG5KZmF0Y0FEX1hTMDJBMVA2RkItamRCVzZ3eUdJbnEzSnVKTGp3TDZTZ3h1ZEZ3SzJWejRKbmJRbDlpQ0RIcWE3OGtSUdIBlAFBVV95cUxQcVpiT2hPLTZNbWpJZV91UHhGNnFWbDkxV2J3emdSVWdjSUUtVXBoVXpsRTBJUS04elhER2h4VEo4WExZWTBEZzJaRlZsSXNBTXl1U1FmUm0zM1RPVjlfQjNvWVhyLUQwbHNLUlBJU01XWmlhUUtKeEtmeGFva2dQZ0plb3JhZ1JLVGdYV21Od3BiNHFG?oc=5",
-    "fonte": "suno.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5cc3ae6a56b069b2d79f160ace23d768c20c35b4ba6763a51f043dde4bd5f76f",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa sobe mais de 3% refletindo trade eleitoral; dólar cai - CNN Brasil",
-    "resumo": "Ibovespa sobe mais de 3% refletindo trade eleitoral; dólar cai CNN Brasil",
+    "titulo": "Ibovespa fecha em alta de 3% com trade eleitoral; dólar cai a R$ 5,10 - CNN Brasil",
+    "resumo": "Ibovespa fecha em alta de 3% com trade eleitoral; dólar cai a R$ 5,10 CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVpzYlRvM2VrRkJibEhDTWZCeFpEVWJxOWpleGQzV0dxYU9fWk5OSXpBTDJoZVhKaC0zNWJiZ2FTWm1ILWl4OVdJTnRhdzg4VmJ0b3NpMlJBdC1yYVNYUkJKd0JkQlItVnpINVZCSE51LWlGODE4ZXJvdndkMWhlUDY0ejJpbWF1dndlQ09YOHVzZTRiTTF0aTliaXJqVjVvc1pvUw?oc=5",
     "fonte": "CNN Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "274e6532819fadf06cced0c7b70308c313e98802c663d40d1a7ac28a262ddbdc",
+    "chave": "63b62ff2e89ef05c4d070e3f4ff43d69cb3b656feb9bacc1d27d94642d036db1",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -78,12 +24,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa sobe mais de 1% e tem 10ª alta seguida; dólar cai a R$ 5,15 - brasilagro.com.br",
-    "resumo": "Ibovespa sobe mais de 1% e tem 10ª alta seguida; dólar cai a R$ 5,15 brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem5lNHJXMTB4em4tY0NXUzZxYjViUDFEQkk0M1d6MG0weUdSWU4wQ0dwczZJT2txaVhSUVFWVU54dHExZXdBRTZ1a0hOU0ZiVDRCalJvR2o4d0NiNFVBQzZ3ZzZLRUhzNnc5MndZeklFeVpEc0J0ZjhRVnhjbmk5UmQ3VkM0OE1kLUhkSnNlQlc5UTVpRGJXdWxoMVJVS0xYaG8tLTJhcHNkdGs?oc=5",
-    "fonte": "brasilagro.com.br",
+    "titulo": "Ibovespa Salta 3% com Expectativa sobre Eleição e Fluxo Estrangeiro; Dólar Cai - Forbes Brasil",
+    "resumo": "Ibovespa Salta 3% com Expectativa sobre Eleição e Fluxo Estrangeiro; Dólar Cai Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVUtNkhyVDB0LTF1OWpPQjhoX2RZOUFSTXJQT1FFd1J4ZVRud1AxcFM1di1GSnhfUmhFVGZZb2pJVjE3WnJkYlV1Sy0yUmdGckZORDFnTTVoeEJhY090bjBlZ0lLeGFxMmVhYV90VkE0YUdjZndmaWdvbVE0V3JtUU42eW5wZC1OZGpaa2FfZlIwd28wOWVWZUl0MHlxcFpYUU43N3ItRVNtWnMyUjE3NUlvVVpteERMS2tzRQ?oc=5",
+    "fonte": "Forbes Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "54de66d97c7dbbbf6ffa9079c785759411da7cad150431f7ec54be972d153d57",
+    "chave": "b86a9d7f529df55925be907fcdf5ab04be7b88a0061a661963011bfce48b7159",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -102,12 +48,60 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa futuro cai com ruídos no STF e ‘trade eleitoral’; dólar abre próximo da estabilidade - Money Times",
-    "resumo": "Ibovespa futuro cai com ruídos no STF e ‘trade eleitoral’; dólar abre próximo da estabilidade Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZ1JfcGt0WENZcTRDOGtpWWZvWlpEdEhHaG5PaUpVbTE3dXE4UGZKSUs1amhDa0tfbVFHWl81WmJxeXYxV1lEWkRaR2doVFNlc3AwYWhDZjZEQkE0VXc4OEJNaE1sTVpNZWc?oc=5",
+    "titulo": "Dólar cai 0,91% e Ibovespa sobe 3,06%, aos 185,2 mil pontos - Poder360",
+    "resumo": "Dólar cai 0,91% e Ibovespa sobe 3,06%, aos 185,2 mil pontos Poder360",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeE5DTlJrOS1aNFlDN2FUV0hfWkgtUWRxQTA2UHpfZmlKcUZHX1Z5MlZJS25ISmg0N0RhWFFmSWRlS19xQmhsbXJvN3VYMWpsZ18wWFp4aF9vOVFKcHRiQTdxX2M2SlVXVExmMlkxR3R0UWF5bUlqTmZqT1dCWXRmNW93T0Y1cnRNajRnNzNleFc0bi1ENmUxb3RpdFd3dw?oc=5",
+    "fonte": "Poder360",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4b1f8604e54345a68c3e3c259e4af477515268ae7bf4e273029b1af93843436a",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa dispara e dólar e juros futuros caem após pesquisa mostrar disputa presidencial mais acirrada - Valor Econômico",
+    "resumo": "Ibovespa dispara e dólar e juros futuros caem após pesquisa mostrar disputa presidencial mais acirrada Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMW5xWGE5OC1xMWFER2RQQUk0TjcySXdmbnVUMXdLcmFYSXhfTklrblJNdzd5VTNaeHNyRDhkQnBwYTlOaWhJdWI4U0J4WUpYa1M1LUpRNjRxamZMZ3M3MTlDRHk3TDVWTHBpemVQU3YyQ0ZPNzZZVXN6dlkyd2g4UUtKODhPRDNCZE5RLVNabG8xRmpOcmQ0bk81U0dnVVZ0TGU4RE51eWNibnJCdVlmamtHWU5uaTRuQWJ1bVJLb1dfbEhDQlJqekczbmg2b1BxUTFSRm1hUWMxSFp5bkMxaFA4bHZTUHpDNl9DRGU3NFhJSlhaUWhMNFBOYmx4R2VH0gGAAkFVX3lxTE8xbnFYYTk4LXExYURHZFBBSTRONzJJd2ZudVQxd0tyYVhJeF9OSWtuUk13N3lVM1p4c3JEOGRCcHBhOU5paEl1YjhTQnhZSlhrUzUtSlE2NHFqZkxnczcxOUNEeTdMNVZMcGl6ZVBTdjJDRk83NllVc3p2WTJ3aDhRS0o4OE9EM0JkTlEtU1psbzFGak5yZDRuTzVTR2dVVnRMZThETnV5Y2JuckJ1WWZqa0dZTm5pNG5BYnVtUktvV19sSENCUmp6RzNuaDZvUHFRMVJGbWFRYzFIWnluQzFoUDhsdlNQekM2X0NEZTc0WElKWFpRaEw0UE5ibHhHZUc?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e3410f77bc7e27a6eefa1afc9e1d62773054e7e5024c24aa22e6e0d8db1b900f",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Tempo real: Ibovespa salta 3% após pesquisa Quaest e dólar cai a R$ 5,10; Magazine Luiza (MGLU3) dispara - Money Times",
+    "resumo": "Tempo real: Ibovespa salta 3% após pesquisa Quaest e dólar cai a R$ 5,10; Magazine Luiza (MGLU3) dispara Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHhFWHV5TmxJbUVaWE10dkxLNlJZd0thUlBuOGFhWlF4Y3VWMk9sTXluUkZremFBQ3M1bUhLTkl5enlrRlh5Tk5IRUtBazFlSTZqX1Itcm9OYjBHRmRFakhVcnV1dGdmNXVFbXJPeWgtMmRFMEhBVGQ0WlM3YlBvUlZ2VmRMUjAzalp1R25ZbXcycklOTEM5LXllTzR6UQ?oc=5",
     "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "e160ccddafc4b51cfd805d183fedc4ca5395f3817734fc6b45c8ff60999ff4d2",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ee991491e93a6fe3c29ddec6adab31e884c9fa7da45a6204f9d41100162629ff",
     "ativos": [
       "IBOB11",
       "WRLD11"
