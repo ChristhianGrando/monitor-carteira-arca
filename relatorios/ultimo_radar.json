@@ -1,11 +1,63 @@
 [
   {
-    "titulo": "Ibovespa dispara 3% e dólar cai a R$ 5,10 com pesquisa Quaest no radar - G1",
-    "resumo": "Ibovespa dispara 3% e dólar cai a R$ 5,10 com pesquisa Quaest no radar G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JRlFpT0RCQ1pFWDdJaWdxcEtYblIzS1Nkck5ud3I5MG15ZEN0M3Fzajg5cFNxSzVGM1JxOWdIeG91WG9sMG1xc1dqcmdFSGw0eEx0bmRhbzVzRDdoMTE3OVhhUzI5QTItUDZadVVJMEN2UnpyX2UzR9IBhwFBVV95cUxOU240empzZHZYMF9MWGZGc0RQNVQ3V1hnVjBrc0lJbFVDT3ZoOTdiNmVTQnY2Vm56S2lZbEdHbnhnbDV2akVNdHZ5SkxTc2M0VkRRVFFTd1lWWmxhSkxINDYyT1dPU0hVUUEzY2tBVXJBY0VHeEJId2xCaHdTWlhvWTBUUzFTWVE?oc=5",
-    "fonte": "G1",
+    "titulo": "Selic menor ganha espaço nas apostas do mercado com atividade fraca e eleição apertada - Valor Econômico",
+    "resumo": "Selic menor ganha espaço nas apostas do mercado com atividade fraca e eleição apertada Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVFNKZnlQRC1EejFXTkkyMjRHdzhlczdlR3FkMmVEUllEY0FXdUxucW1TYXE3ZFk1TE11WDFEVWFFRFZMQXZldEVzcVRZdHVwNVMwVGFUbjdWMEJlZ1ZVYTVGS2JLY0Y5Y2RxdTNsVFUzSEh6Xy11TGY1LUlWOTQ2NktodlZSaF94b1V5enhodmVEUS15eUVSeWtjbEV4NHdnM3o5ZnlVRUQ2dm9jMU1NWFN4NHNrVkkwVE9HbVlEaVEzVzN4UTU1bVdDQ0k1aUJTNW5IUFl5ak5mVHE3ZnY5SdIB7wFBVV95cUxQcXFJNGRmYjBvM0VTRW1LZ0phV3hUU01xMGRNS1R5WlBjLXRDakNqV01CRUdMcGg4cGMtZ05tV0FiWnFQMlpCbVQzWkVKM0hsR0NFTlhRSHQzc3FLSlFwQnNHVmhQX055M2dneDM5RzBHNkRSYURwS2tnN1RQdjIxT2lwdVBpMURJVXZ4YmZvMlJWYi1XZGtJSlY4UXRUeUpQMHM1M2RQcnd1STAtZnZEYnptaTFlLUdqeXMxeXQ4dzVGZzlkY3NITmE1Vk0xNGhSNHpDZ0R1ZkdoTkFLX3EzUXdwZW9JTVIxSTRwb2RCcw?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ae5b31c9243d8c85e5ad7960dc4368e6d8be77397584f3e409a21802a127f0cd",
+    "chave": "2cd192a133e96c66c012e5e130f8624d9f8fbac5cf5b8a871f7b1e594664d2b2",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Tesouro IPCA+ lidera renda fixa e paga 1,58% em agosto; chegou a hora da virada? - InfoMoney",
+    "resumo": "Tesouro IPCA+ lidera renda fixa e paga 1,58% em agosto; chegou a hora da virada? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVlTVU9kdS1kUWZ5T2RUUDY3ZGhtWmFfTkdTZVM4cTlxYWl4QmxzeFJYaFMydEpVbEp2RENnQUlLLWNndXNWQk93emtYYmFRcy14QTlQWHphaXhWaHotVUVVbDhiOFZLcFo2RDI0RVFrbG95bzAzZTROcVRIQ2JrY2dmaGgzMWZNS2RmMGY0RVHSAZYBQVVfeXFMTll6STJFMkx1dUhocFM1cjhUY0tyYkhqbGRkdkxGMzIxeWxibVB6UndMM1F0Z0V4aVZCRHpBbTdDTUd0ODdHeTJTR2dMLVZBRXlXWDZoU05iMXZaQ0VxaF9tZ0NnV2RqcnI2a25wdWExcmxnOFcyYUVfTTlsLUdkOGtaVWVVRWJwS1Rxc0VhbndUR0V4NU5n?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "44e3595f6b3886f9fcb637b99f627dd5df864b7e8aa24ad6485904f12671b094",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa sobe 3%, na 11ª alta seguida, e dólar cai para R$ 5,10 - O GLOBO",
+    "resumo": "Ibovespa sobe 3%, na 11ª alta seguida, e dólar cai para R$ 5,10 O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXdEd19KQ2pZaGxkbWtld29DajdBOXliZXlWWW1nanRiNkhuS1NRMERUQUNOWkh1NGhwVEdDbGZFcG0zbFRibDFtNFZ1cHBycDlnOEF5QWFOYXptd3RQcXZMTlh3QUIzX3BlRFFmZkhwMy1lUXIxTHFLVmV0X3VZUFktZmtOb1hGTmlnakVieDd3RUJ0WUN6bWZvU2xwS0pOZGfSAbABQVVfeXFMUFJOZTN6VlRjcXk2bjJVVFFSUXc4dERNazNQS2VxQ0tBZGpuMmExb1Y0QmhXMEZaUWtENWR1QWpOdC1GR083ZzFxNmtwU2NhRThJYk5DbVlKS2RLbmoyUzZ5bnNiTTVKdzdkb2tBY0hfRl9YamJhbjNndWZNYVQ0LWw4TzB4NHBSUkRrQTM5Snhlak5nNTRoYjJiQ1BfQXd3UkZFc1Q4N2Z1MzlKRGtEeXU?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e6aca76d8fcb1651c0c2f5fe7a8d7bd8ec1f851893e82f98ff9c6f0bba6de2dc",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,12 +76,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Índices atrelados à inflação lideram valorização na renda fixa - Monitor Mercantil",
-    "resumo": "Índices atrelados à inflação lideram valorização na renda fixa Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHlZWUt4TmFKLTdCbXk2R0lJWWxJNjBzSEhIQXJtcjB4Tjh2UWxwZG9UUzRaSFpQdGhESng4NzVzbUtmaC01Z2ExVnhIVVRibUZhOGRiaFIzcUh4SDVFRG5JOFNqUks2cWl5VVhLY016dG5oYVp0LXBQaktBSE5kb0hKZmkwc0o1NVRzSkJUSk1FaFk2aDdUa0VXYw?oc=5",
-    "fonte": "Monitor Mercantil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "519e04f32ffd5c9db8a55e7598b1d1536f2e5b7f652844312e6e152520783c3e",
+    "titulo": "Agenda institucional: TRF3 recebe procurador-geral adjunto do Banco Central - trf3.jus.br",
+    "resumo": "Agenda institucional: TRF3 recebe procurador-geral adjunto do Banco Central trf3.jus.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmhQME11UmpKRk54Y2l5Q2wyamIzR2xBVVBBaTVBcmRLd2M4Uy0tY3BzTE5xLTlBQk0tMmozQUs4TFNWek1TbEtOdnh6Y3hQdmpIdlZOX05RVFJhSG1hNDlNREdLRWxXYXdzVWphS3lzcjV0ekJwUjZvbmNHQ1ZfV1ljVVFrVTYzVzA4VURiZWRBUldjVldLVFBtRmt1Y21SVExHdDFKWFh2OVJfUERsVXkwS2V6cXBWeWFF?oc=5",
+    "fonte": "trf3.jus.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "a80e3dfb168a8371db6852e93152c044ea7855bce33636555d19427f7a81d248",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -46,56 +98,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P pode cair 7,54% em 12 meses com Fed mais “hawkish”, diz Guide - trademap.com.br",
-    "resumo": "S&P pode cair 7,54% em 12 meses com Fed mais “hawkish”, diz Guide trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Iam1BckJZQU82MjEtaHAzR0xrNTBxTWlvdDhQOElmcjEwY3E5VWlObmh6VFVaUkpHMlNnVV9RN2pGT29GcV92aTdLb0EtNlBWemVUZ08xUWw?oc=5",
-    "fonte": "trademap.com.br",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "3633b9e7b3c194c7b5adf3a60f20170d7aac73b5f67544fa4a587fc4ecf906c6",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Endividamento das famílias acende alerta no Banco Central - aciara.com.br",
-    "resumo": "Endividamento das famílias acende alerta no Banco Central aciara.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORE1EajlnSFdHUERzSkNVcFpvSTZJRGc4MjBTeWZSUVpoRU5lNzNZNEQzdV9aMlRDX3pBTWhma0RULU9jUGVJeXVtMUlueXpDeFFKUlc3Q002aTJCRVExQmZvZmh2YzlSc3NMd2UtQ0FLeExibW5wYjJ3d09uajhDSGFkYWUzZlE?oc=5",
-    "fonte": "aciara.com.br",
+    "titulo": "‘Assalto ao Banco Central’ ganha continuação, agora com mega assalto no RJ - O GLOBO",
+    "resumo": "‘Assalto ao Banco Central’ ganha continuação, agora com mega assalto no RJ O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbmpKZkdDN0EwZ25CNnhua0pYRmRZalNwNE1LbHc5SFdNZHVHRGdIQWVCb1dtaGgyTTkwWE1nM2c3OE9PVmhCS2R2UTRyN0pSc25qMHpZUHdlS2ZZSS1MMjY2TksxSE9ZZzVjMXpKVkdjclktY01GVFlxOVpJWWpuMlFNY0F1VGdEdGNER09zVzI1QURsU0RCc2c3dWRLdnRieGJaTUM3S1p4eTZaVDh6S29MZlUzQkZJQUQ2RHlJY0pWX3ZBWWF6TWNKaUtwek3SAd4BQVVfeXFMT0o0NExuRFVra051NGVoUXJpY0l4aE1VMTctUUpScmdjUEZjVTA0MFgxY1F5bEpoZ093Y2pzUG1kdWlSazRua285RmFrcDF0QlByekVPMklDc0JweEZFMWJkV0paUmlnVmJSczVORzNPODlmWEExbUlmMHhGSjRYSTlHb1lYY28yTjlRcVNuVzVhODZ5SW83enFsNEpDZUN5NlJ1TWdpQ0txbS1hTVdsejRBeFdVN1BrR3lLeExVVkNycnFWSG5Cb20tSWplbmJFMjkxMW9OWVJBTHN0cW93?oc=5",
+    "fonte": "O GLOBO",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "591e5dc372628f1b2e89ff991315540c1c0032014f88d621a58764b3267a0f66",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central aponta desafios para o futuro do cooperativismo financeiro - Portal do Cooperativismo Financeiro",
-    "resumo": "Banco Central aponta desafios para o futuro do cooperativismo financeiro Portal do Cooperativismo Financeiro",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTG5HREVHSnRrSzZhczdiMGZYLV9HeFh4Sjl0dmF6WmhPcmpNV3k5VUsxTE84djA1QmVzUDVXSEM0UlJuU2ZuOGs4T0xtZ2NocHVjSWtsRkRvbnJKaEUxMXd4TnN2TXduRmVnX1doQ1liUTZoWTRXNkI5U0JWdl85OEV6ZDVYSVRmWW5OVFY1bDNrMFBkOEJ0OEhvcFVYcFo2eERYcWxYYjRneE13XzlZM1BnT0FzYVhKM0FVX2FB?oc=5",
-    "fonte": "Portal do Cooperativismo Financeiro",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1f0cc94358de6f1d619add57183e3063750b25737a41839bd309252522000592",
+    "chave": "96536acd0fac3ffe49d2775086c3738b55457ea2971faf391519379a4c8a96d2",
     "ativos": [
       "CDB 100% CDI"
     ],
