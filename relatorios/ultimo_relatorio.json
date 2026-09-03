@@ -1,123 +1,188 @@
 [
   {
-    "titulo": "S&P 500 e Nasdaq devem ter uma abertura moderada, com as tensões no Oriente Médio pesando sobre o mercado - TradingView",
-    "resumo": "S&P 500 e Nasdaq devem ter uma abertura moderada, com as tensões no Oriente Médio pesando sobre o mercado TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HN3ptanlwdFdSX1JyT1ZxRmJGVUxyeDZwZFRjN3hzTFJnSmctd3NJUEt1aHNNX2FjOGJOMjk0amdjTG05STlvUTFiajBObkpPY1pqN2dOQ2ZacEtDbTZRSTVmWk1yNjJfbG5zYkZkUTc0SVVaY3gw?oc=5",
-    "fonte": "TradingView",
+    "titulo": "Ibovespa fecha estável aos 185,1 mil pontos; dólar comercial cai a R$ 5,1045 - Canal Rural",
+    "resumo": "Ibovespa fecha estável aos 185,1 mil pontos; dólar comercial cai a R$ 5,1045 Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTVpRDZCVVZvWV93SGxqUkw5TFM0TWdReWNuWFBZWnhPSWtnWVJOQWpDTzRaYk9UY2VmSFJkUlNZRGZDWjEyN0ZSNzdhaGtpYWxETUZySUphQ0QwUURrb2tHUkp3eTVrS1NJbHY1ZXU5MGJrWlBZYllMcjBBRXJNOU5zdjJYaVYzQ3ZrZENhWVR6cFdZOGlHT2tfRnc2d3FwR0dKaFZ4OUZ0cTlrMTZfUTFB?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Como ajustar preços após a deflação de agosto pelo IPCA - CartaCapital",
+    "resumo": "Como ajustar preços após a deflação de agosto pelo IPCA CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYXZHcFFKSWdoeDkwdHJrZ1hDOUc5VU4tZk5RR0NuY1BiTHlBZktKTWVoSXA2TVBscG02czRkcV90OGlOX2V4QUozQ242YTdNYXE4S2NvdGlkTWN0ZVNhSHBzbmJvNFFiTEpId25uRXdkX0VtTzhxNGZqN3hrSlZIcWNCbk03ajRKOGE4YnFOY29PTnEySUE?oc=5",
+    "fonte": "CartaCapital",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Dólar cai 0,07% e Ibovespa fica estável aos 185,2 mil pontos - Poder360",
+    "resumo": "Dólar cai 0,07% e Ibovespa fica estável aos 185,2 mil pontos Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBCeFQ3RHJtUVhyNFE0dUdmaGZmdDNVdzUwZmN3NXNzWHpZaDNnNTFRRll3S1p4dVRzVGYzZEZneVB2SWh2R2pBYmF5dmYzYWZXalVGYzhBaDdsV1R3ZDIwaTU3RHQ5WEpXanJlWGpzclBBNWZnQ1paZEt0N1lEUUFEU2x3V1JyOS1EZlBDQ0NwUklUS1N6czNqNXVmZHBUakJF?oc=5",
+    "fonte": "Poder360",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Bolsas de NY fecham em alta com perspectivas para Fed e queda nos juros dos Treasuries - Folha PE",
+    "resumo": "Bolsas de NY fecham em alta com perspectivas para Fed e queda nos juros dos Treasuries Folha PE",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGpNeFFYRFloSnRBUlJfcTZTbVhPd1M5and2MFZGM0c3VDdJejU5ZVZTYi1sbzdfeF9tdjcxbFVfZUhlOEU0VThuS29ScFh6NUF3MWlOX2U2S0xWS1FWeUpGZXA1U2N0UXNJOFc2VEFLSHF3M2d2S1RxNU1qYWhZaFgyMkRBR1hjNnEyY1g0TVRUdXd5R2ZFMHNiUDI5Z0R2TmpodFNOOG10TUo3OHfSAbIBQVVfeXFMUFNXSmEwMlczQUVOaGotSWJGa253aDZETTl1akNtUWQtOFZIOGc5S0tCT3lWTkxhajRzMkxmeTI5Z1drTm9wTlBsdGh1VWZ0YU1IdGRVRlpFVmlDWE9GeVhuczlybmxlZkFNWUloUjlOVUJ5MVJjWl93emI4N1ZzQkVwVmhBb0RGQ3FOM0RvWG5fRXhxWHJvTE82TEZsSUdNc0FVVkE3NTdjOWJoeG1FR2ZYUQ?oc=5",
+    "fonte": "Folha PE",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
     ],
-    "impacto": "Médio",
+    "impacto": "Alto",
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "S&P 500 e Dow Jones avançam na abertura enquanto tensões com Irã se contrapõem a otimismo com IA - Terra",
-    "resumo": "S&P 500 e Dow Jones avançam na abertura enquanto tensões com Irã se contrapõem a otimismo com IA Terra",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMk53TjNRaTZTdmM1SkFORmxFSFZvSnBwMzEzeUY4RThEcjFCSTgtVTVsRTJ2X3B1LTlGNXZzTEx5eUN3c0hqa05CLWZIazZjdEFZQkFuNXlpdnJKUXExbVlfUDF2b1ZKelE0MjJ6UjJVR0pIMGExQVlsQzNBeFoxMUswa1FMOUFjT0hkVTVPYkVzclB5NWoyY0xsZk04akRSakxUa3pmeFRLVlZ5VEJxT3djTlpjVmxOVHRaWG1aRjIwLUdhcGtWTGdfU0xBSG1YYjRqRkFqWXF4NVZwcGNOUUF1YU5lemNBWTJKYzZld1hKOXlWZExNS1kzMXlmQVhpNUJfLWtB?oc=5",
-    "fonte": "Terra",
+    "titulo": "Ibovespa futuro avança com 'trade eleitoral' e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10 - Money Times",
+    "resumo": "Ibovespa futuro avança com 'trade eleitoral' e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10 Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GVEtFZDJYQTNLMzJ2QWI5aGcweV82NVBVYU1zNDUwTk1hQjczM09EVFhTdU5EMTBqY1BGRXBoVk1JcFVCSlUxb2twbmliRWMzR09YQTFPcXF5cUJyak9lZWlmNXhFT0t4TVE?oc=5",
+    "fonte": "Money Times",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
+      "IBOB11",
       "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Reddit será incluído no S&P 500 na próxima terça-feira - Monitor Mercantil",
-    "resumo": "Reddit será incluído no S&P 500 na próxima terça-feira Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNXZIMGhqako2QVZ5MThYVmpKdl9FdFYwcm9hRkY2ekZRQll4NjR5M2d3QVZYNjFEU0RwNlRhRXJWamRJY1pBdVpVU1Z5UmFYLXd4WkdBc25NX2lOTlBUOTgtaGRTcTJvV0VsNG1qMkJrX19WNVdoMXBrc25fMmFVNm03REExVGtoNDNQR1VYNA?oc=5",
-    "fonte": "Monitor Mercantil",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Banco central de país europeu retira ouro dos EUA após alertas sobre Trump - Gazeta do Povo",
-    "resumo": "Banco central de país europeu retira ouro dos EUA após alertas sobre Trump Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFdISVJ4WHZpcG9ZaEtUZnM3dWRWU1gyUzE5eGlGa3U5NnBLc1RnSTljcFVOdmRXR1NKTUF2eWRWWTZyMDJOZVFMZU5hZDQ0MjlXNVVOZmZrZ1FNTkYzMmc2YkhEMXgxREl1bzZDR0pRNWs4STdqSV84bmxDajV2YXdkVWF3aHVuc2JncU9iRlVyQUZfZkhfdTJmbUlhdWFxSlE?oc=5",
-    "fonte": "Gazeta do Povo",
+    "titulo": "Plínio Valério cobra votação de PEC que amplia autonomia do Banco Central - Senado Federal",
+    "resumo": "Plínio Valério cobra votação de PEC que amplia autonomia do Banco Central Senado Federal",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0FvV3Etc1QwODBGbXF1NVlRZi0tVU5Wd0pUVmpjY2N2OGpDYU5Zdm15aHVMZU5ZdXF1ZmxjX3BXclVtblU2Q050ekFWZjgzNjA0Mk5nRTFlLVlCelI0SmR4NW5ES0VQUnZkcnNRUHFpUnh6ZWVRY0xzWHhtZUtPd1V4TUIwQ0ZuUDZTUm9EZ3BFd2RHYXBhODhsaHpaTkIzSVBBZklkYlY0LTR2LVFwM1hWOW02QlUyY1BZbXdWLTF2M0JRZ0FrZ3V3?oc=5",
+    "fonte": "Senado Federal",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "WRLD11",
       "CDB 100% CDI"
     ],
-    "impacto": "Médio",
+    "impacto": "Alto",
     "explicacao": "pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Banco central da Polônia deve manter juros inalterados até 2026, diz Duda - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central da Polônia deve manter juros inalterados até 2026, diz Duda Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVZRZlJfSjUwVXdyZVQ1TERUTnc4QXNvME1WQmZTaVAzMmNOdlhmdFFpcXZ0eVpRQmc3bDR0N1RYekI4ckJwUzlsZ0RhY2pMd0RjdEszRk1NLWdxbFFYb1R3R0pDQXFRSlJxUm1QbXE1Mnd4eHVwTmJxMUdPWTItZmNFNVR1UmhRWENKVXVkQ1M4UWxBQk4xOXFCOVZNcF9GLUJmZTRXa3F5WVR2RDREakJ0Z3lDeXprUlVzbWRnNWpxcFZl?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Ibovespa mira 200 mil: quais ações podem pegar carona no rali? - InfoMoney",
+    "resumo": "Ibovespa mira 200 mil: quais ações podem pegar carona no rali? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDRFMi1GMVNnWGJDOTdaT3BhekNZdnNLQ0kyTER2TDdLZlFjSDZRazllY0FUV1JKaTZ1OW1UajVZT1NvTEtOZk56WWhMODhHamZSV3RHZzJVY25icnZ3WG1keFJpU3RuMWRPSTBuVnR5TGEtTWNwRUJCRU0tbW9kckgzUHdKQzBYMXlCcUZvcENSUExqbjRJc25xRDZXYm400gGmAUFVX3lxTFA1ZDI3SlZSSDVrcWhZTFJGSTBVWlUyS0cwM0U2bFF5U0JnVGVMaGpKQnVuSjlvZ2p1NmJKSG5rMFhoYkhKUjZwNXJINmdocF9FVEdJUjBIUGxyekt1ZmFpTjFZRW91eGhqMjBsUm5pMkZIZVJ2Y2F5VmlMYVg3LXlqMnBjbnJ1S1VVY0VLTWMxczRVUmltUlI0R0hHcXdQM1VNMExHNmc?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "impacto": "Médio",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master - G1",
-    "resumo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master G1",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXhsWFVKMlgwZEFrcXlRdnhJTlRqRU9vOTAtQkJMYWFnMEdCV2R1QTVwUWFhd3NXV3lZTzQ4UzFPZTlFdUwzdk1uN0N2ZXozMmQ1MWlWQndDMkhEdDZ1b2dRU3h4ak9Jdk9uSDlMek0yaUo1Nld1YVE1b3dfNENpLWZ0djJhZmZoWkZpcHdsWE5Bc1JTcHhqetIBpwFBVV95cUxNYndrNE1IQzZ3M2gtNXlwS20tMm5WNG02cE9veHhZeVNha1Q5ZC1nVXlxVW95YlltXzNVRkM4UFhkSC10NXRfaThXcVNSUm1LUkFIYzljSFZjbmtMYktVMGlOYkNxY21MZHJzZWhEaGV3RnRtbWRlMkhMNjBsX0k3NjN5a3hHaTBIS0JnSmVWTlVxYmZsaTNsMVRXQnc4RHctM3BfMzJiQQ?oc=5",
-    "fonte": "G1",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Ibovespa sobe após Flávio superar Lula em pesquisa eleitoral - VEJA",
+    "resumo": "Ibovespa sobe após Flávio superar Lula em pesquisa eleitoral VEJA",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnlMNVdNYTJkdjBnWDRtWk1XSklJM2RkRWl3TnB5Vy1mbmtnN0U3Uld1VmFlOXRYSzhyYXl6NFZ6QlY0bG90R1F1QzFHM1lOT1hoOVhzZmNFWTV0SkhMWExRUmViTDdEVzlDYUZWSnNVY2x6elQyQ0VoUV9pWlhIRWdYS1l0ZmY1NTlQT2w5b1czWHpWeldVQ2NRQS0?oc=5",
+    "fonte": "VEJA",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Banco Central decreta liquidação extrajudicial das distribuidoras Trustee e Banvox - InfoMoney",
-    "resumo": "Banco Central decreta liquidação extrajudicial das distribuidoras Trustee e Banvox InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDNSczd3TkRXWmN6M3l1bV9LQTNLczZxVVFUTXZVSzNOM0xKUUdoenZNNVBla2VLQjc2Z3VhMTBLUkFVcGhRZzJCTzJGYnk3UE5iWjZRN25aWmQzOTQwYWxaU3RKbWY0WjVuRzNSUE1MR25hWnNRWmdSb25PR0lBdGNCREM2NkNPMi1QSWozc1lIX08zN2FacjIzRXF5WUFxRTNsS2djNVlITGRRcDh2Y05Wb1BiM3hqbXhTLWxB0gHDAUFVX3lxTE5zRnBtTjJBbVp3dDkxcFc4WWhmWnJsaGNTeG9VRUJoZmFCeFV4MDFGR1BUMTg4M0V3b1NfU0gzSXdid0NBWU1DekQxcTBKOWZZOVJ0RTQybWxBMFpvZWVBRUdlZTlfeEVrVzZLelF3eU0xRlllLXROXzBPcC1yTnNKOXF5LUV4eE1WSlkwTDMxNU4xcVByNlRVMFRlci1ZNDIzSFV0YXZjYkI3NTFwVHVUTDJlcTJ2dU5hVWZfSWlibWMtOA?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Ibovespa fecha no zero a zero, mesmo com realização de lucros após 11 pregões de ganhos - Valor Investe",
+    "resumo": "Ibovespa fecha no zero a zero, mesmo com realização de lucros após 11 pregões de ganhos Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPckZ1RlNtaEg2Sm1EUTRTSU56TjEyeEI4Z0VEY01qZ0d2TWtmNnFDZlR6YlpxWlVYdDBYTzNXY2YwZDhVZm9sUV81cHJDLU4wVEhqc0FFS2hRQnh1b2w2NUdTMXJLS0pvcmZQeV9hZ1VEdWRMeFBMSmVMRzZhRzM4OEduMkVMY2ttakZYVURaUjNjTmVVZmxzSUJZaVNrTHpNcXFaWXllUFNUN0Q4QWhVY3R2SHpCTTBvN1VWLUtoWlZlTGhEX3FMQ0Q3MldneEhEdDlScHZsd9IB5gFBVV95cUxPbm9tdzMxOHZaYVlwckp5dU96R1puV2JWMklMSmV4NEEyM19OVVJHUy1wbk9VMElMX2todGhWVGl1TTdiY0c0M2JsN2pjeTdlaHRvSVNqX1h0Q1JhbU1paVUzeEtKcHBWNEh2Ry1rcFg5QWhsTjVSZVl5YkVkelhGSjNGNXh0dm10djVqckJUakZJQmlLa3RjT2owZkZtMzJyd3k1amFKWEVjYS0xMTZIWGxiOU5tbXZDcFVKN1FJWUVpMVRPTGxFWkdUU3U2MXNEdGZEQ2NHYTZsTUNaemFsZTFNX0dnQQ?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Banco Central decreta liquidação extrajudicial de duas distribuidoras ligadas ao caso Master - InvestNews",
-    "resumo": "Banco Central decreta liquidação extrajudicial de duas distribuidoras ligadas ao caso Master InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON3dKMzRsSVJnbGVadFJzUmFUZ2phQm9RNGxER2dlaEdkenNzNU1INUx3X3FTenVReXJqci11ZFFQMXVrZUZ1NnFvRko3Z3ZWWXNQYkRab0VTam9aWC1wTnEwSWRJb3d2bmxXV0Q0dGlyNklKNzZmcGpqUFI4aUlQYUdfRE1VQnFHUlYyTXpKaVp1aWhMLUdjVnhzcG9nclVMal9sVzlJS0dBZ3BUS1p0RUptMkx5TzA5S0RsYVM4cDgwa1lhSzZZ0gHMAUFVX3lxTFBlNlNZWUNERm5WLXVjODd2djl4TlppcFlGTG5uNHdqRnpReU5ueVUzSDhseFAycUFWVkxSNzE0dHdLemJXUFFQdk5Ja0thejM2LU80SldlR0U3UHdXZThTSzQwMUQtX0Q1VHQ4TGNjcG92dE94LVhXSFNkRlJqYWlTM2Qyc2czZUptam9oc0NzeV9EaG12dWtIeklvUXJDckk4dFFvOFpnM1B1dGcyc01aOVBYa2FFcW4tOWJBdUVmd1JuVm1Od25VZlFYTw?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Ibovespa fecha estável com realização de lucros após rali; CSN sobe 6,7% - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa fecha estável com realização de lucros após rali; CSN sobe 6,7% Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk9QSGxMSHB5dmIwZlRkb0RZMTVhZVpoa1JzYi14LXNMMk1qbGxRUjNhLWVTeVVfbnV2aE41dklOdFFpZnl5U0FTUkZHcHNuSFgtTThLaWhPRmszNEZPaF81bXctNU5VRDBfR2liMm1wMUkxcDF5U1A5NTVXaWhjSjNwdE01TzEzYzZUVWpLRG92SDZBMnlmLXZKUjhDUmhOejVmdlFuQUpha1Z5OWMwb1FMUdIBxwFBVV95cUxQLURiYVU0YjZpT3JBZGp3YnFUZjVLVmhXOWRrcF8wM1FUcmt2d2JQVEFyQnpVdlQ0RFFfeVJHc29LbFBMTHpHdVFtTWFwQzhZcjBabmNJMjF4RVBoYzJUbHQyTUc4bExVeVJrMTlqdUNGb3Vqem5Zakl2Z09nSDdNOHBfOUhnYUhCZVphYmVjb202bmpUM0Y0RmZLQndjd0E1TndnX0FIVE9jWFhYR3RnellXNUtpQmdKRUxncVpyalIyZnJrMVFr?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master - GZH",
-    "resumo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master GZH",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUzBwTGwxekJKZkpaMEZoWm4zSlBLR2dTUV90VEJLMzJ2YzhXdFJQbUYyMW9nSjFKV09hTFBKejY1N0FlamhfNWV4TDNINktxc2prNWdRVGNMT1dlRmVvMVVpM09ZRHBpWkF0cVl0czRMb2dVeFI1dEJnbERfc0dvWWh6RmV1akNhNEw0Q3F0QU52RUVxQ2lVTm9kZ0hyTGJ5akxUTUZyWm9sSXNiT0Y0cE9oV3EyVWhKSXRJdU9iYVlFLTFleXlWU2o5aTMwTlA2RkpqS0R6c3d0QjMxbjlQTk5oOVN3TXJVX3BoOTY4UjdOVlVaa0x5dlBzM1NuZw?oc=5",
-    "fonte": "GZH",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Prio tomba mais de 4% e lidera perdas do Ibovespa; veja maiores altas e baixas - Estadão",
+    "resumo": "Prio tomba mais de 4% e lidera perdas do Ibovespa; veja maiores altas e baixas Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnBEODloUDE5V3lIUXhpTVl1eWtvTTJrT05FR1NJRXFTTUNtZy05S1dLbmFaa0QxS2tNWE1yRDlxRjB0aURhcExKSHBZQXM0ZHZ3ZXRlcTFaaEJYV3V1dnA2RW56V1Uyby1YaDFDa29hdE5mNkxZWnlRcUgyZURlajRBQzdUMVpKN0tBYzNfMW1lcHZqUXFEamgyS0dsUUowelZlbjJGUHM3NGVoVmxKNHVhTy1uYkxRdHpSMEFtc0ZYNUZjaHMyWnlya2lTX0ZKWmtXV0kzcEtXMUU?oc=5",
+    "fonte": "Estadão",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Banco Central liquida gestoras ligadas ao caso Master por graves violações legais - Brasil 247",
-    "resumo": "Banco Central liquida gestoras ligadas ao caso Master por graves violações legais Brasil 247",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDhRN0xOT1ppdDRMekJwcWg3d0ltSEktNlFlM1RnaU1DdFhmZmFBX2ptZkNLZW9ydGQ4ODBsSE1BSjlaYnRxVnNZdHRXZXdGZTZYZFhzTUxpOFpWdThoSTNnWm9KV3NPb2lsbXVuZmVhbHFWWTcycXlCd3ZTc3JGMmRnU1Fna1JCbkRoNTFXWmluSFNJNjY0REJTLWNpMjRtcktXNUEtaXNOaFBDc05ZMGYtNnNoQQ?oc=5",
-    "fonte": "Brasil 247",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Ibovespa perde fôlego após flertar com 189 mil pontos e encerra sequência de 11 altas - suno.com.br",
+    "resumo": "Ibovespa perde fôlego após flertar com 189 mil pontos e encerra sequência de 11 altas suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXdNQXZuYzNhS0JqVHk5UF93QmhBdXUwRDYzbDV2UXo4NGJwb2Z2UE5PbXFMaG5XdWlZVUFVbTV6SWJGZFhqY3ZUM0czcGF4YnVXQzd5bG83M0ZPX2xTSWtUMl9yc25QeU1SXzk0WnZNS1h6VHVrTmJqWVRnWnd2cnh30gGHAUFVX3lxTE5FLW8tNVZvV1lhNVl2Rkp0Yl9hSExWUzVrVVhxUjVyNmJVckROTzZWTEdDanBfOXltZlpMTzREUDRGVGFXejFaeGVQMmlOejZpQTluajNoVTA0aHIyREwyMk5MNnpVbVY0RHlWQi1DUlRKYW81MWI2RkJrS3pEZlZYSTVnWjJUMA?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Ibovespa interrompe 11 altas, com realização de lucros em meio a cenário político e exterior misto - ADVFN",
+    "resumo": "Ibovespa interrompe 11 altas, com realização de lucros em meio a cenário político e exterior misto ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW15ZVRmMENNNy1XQk90bmZrdkR2c1Ribmo0eFZVMC15VzVELVlpY29JcTg5Q0tfaTVtZnNSVmVxSXRKQVhVVmZNWGZxNU9rSlp3SGhsdFJrR2x3eWg4YWN4YWktTFl3dHJlMkhVZDloYlVPZ2JUdUdtcnFEbXdyX3dVd1RQMzlZelVlRlVmS2xsYzFNT3BlZ1pmNEs3M1dKdjFiaXhEWkZCUnEtN0pCM0o1QnF2TS1zU3hNbTVkOXhvZGkxMEE4dU13Vlk4QQ?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "XSPI11: fundo busca acompanhar 1,5 vez a variação do S&P 500 e distribuir renda mensal - suno.com.br",
+    "resumo": "XSPI11: fundo busca acompanhar 1,5 vez a variação do S&P 500 e distribuir renda mensal suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNDU4bXVKZ0ZUOWNuT2ZpcloxUkZpejNkTkRBbzVOd1hGVnIycmdXM0hTdU9MeWpOQklVUVk4c1pqUW5Ba3ZzZXM0MXZ6TnRRYVhNOE5TZFo0YVNjaXFJbnJlTjY2ci1ob095aWtkLS16N2lqRFp0eVpMZVhmbVZCR3JmWdIBiAFBVV95cUxQNHd4d3lnRl9tSmRDLXl0WjhpRVJ1RENKTU9hVm80X0h5aFV6dnQ4RTFJa2x4dGlxSzFERDZIX3pmVmt5MGItbS1SSE9zQURCUWJTOWp6M2xUV3VkVmhzN2hFcl80X1AzejBNOUlFdWZPQzJKT3FBWGpXaE53Uk80X2F3ZWx6OUVJ?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Dow Jones, S&P e Nasdaq disparam impulsionados por alívio nos juros e setor de tecnologia - ADVFN",
+    "resumo": "Dow Jones, S&P e Nasdaq disparam impulsionados por alívio nos juros e setor de tecnologia ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGRhcEFua0FIYVphY3NUUERFbG1NSW91MDd1WXR4dER1QjB2Sl80eW5oaVNzdmpwV1QzOHpQUHZfR2VhcmlaRjZwU0hDWE1abVV2UzhVb0dBX0dXS0JxY3JkU2tXSFh4cGtrWWlJNTZESHRKUlV0U290YlZyenM4UHF6NDlqLVFGMWllR0JwTGtjSEpRNkJhTV9rVThoay1VTnAyVlFEYnM4c25oQVR3b3F0R1pIWUx4YUxN?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
   }
 ]
