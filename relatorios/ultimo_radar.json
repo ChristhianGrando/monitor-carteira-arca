@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? - InfoMoney",
-    "resumo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVdTTF9lQTFSd0YzY000My0yaFhBazJid0JaTDdrQ2tEb25yT05MakpaZ29LajFlR19KM0I2NVl0Vkh4c2hHRmFvS3NJeEoyUXlKWUxxeWlLVVZGN1VaRmk2RWhRZk9Md09yVURJWU1mM3hPTFllUm4ySlJ6NjY4Wl9yN3prUGNGdG4tVDUzLUxGV1RTc0FjSnphQkZ4QdIBowFBVV95cUxOTFhXNF9abFBuVkhnQ2xNUFhTcHRNOExsbFZaWVNvSlRQN2wzNE5FR2l1Tm43WF9yYWdxZUk4VHZjR21iQWtlbEx5WE5iWmJkT25HWXhlelVManhUdG1aazN6dTBETGJIa0pGX3BhbnVyeWpUejJNd3kzbTJNbFk1WV9YLVp1OXowaXAxZzhMWnNlYkxxSUlGU2dvclYyRC00Y3dV?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "c2c7448eb5696b2d9443fbf15116608238065fa08a22f5428c5da5230af5d2e4",
+    "titulo": "Queda da Selic não é sinal para esperar, é sinal para agir - Movimento Econômico",
+    "resumo": "Queda da Selic não é sinal para esperar, é sinal para agir Movimento Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVJJTmlnaVpqQ2pMN0RlNGhNV3RQUVcycy1vdlI3YUV1cmxkNHVFaW56c0I3N01rdmZWWVBlWGJFemZ2TGhvTU1MM2w3dGMxUENFcWZVTG5LcWJ4UzkzbnB6Rjg2cDBDNENxUGdOTzVUektobE8tUVlOWUZtNmp2NzVBQndzR1Y0Nlh4QXMtMGx0ajlqalpXY2hMOHhXb2NxLUZKVFJ1OHd6M1drQUVJT3JLVG5DNU44?oc=5",
+    "fonte": "Movimento Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7f0863387c1f4d07263ad4074e528ec07a7b9bfcf2a1445b534bcbfd4b0f3118",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -27,78 +27,86 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central proíbe publicidade em comprovantes do Pix - agenciabrasil.ebc.com.br",
-    "resumo": "Banco Central proíbe publicidade em comprovantes do Pix agenciabrasil.ebc.com.br",
+    "titulo": "Melhores fundos imobiliários para investir hoje com a Selic a 15% - Nord Investimentos",
+    "resumo": "Melhores fundos imobiliários para investir hoje com a Selic a 15% Nord Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRllDYVZtNzJBaVRiVENvcWQzNTY2emQ4aFZCVjg5bVRjdXJyV0d2LUtMLUVGVUMxcm16anZjTWY2YlNqaEsxRDkyQXFITzA5UGlMVXhwOGV3eXRhdTJodXpueE0zVDIxUDFTZmZNMmctTkhFZmQ2bzh6dVdQVURCOGJB0gGHAUFVX3lxTE9ZUWNlQjhnOUFRcDRBN0R1MUYyQzJ3NGIySlpQUTh6TUp5VV9FRzQ4V1pmRVhwbXdwb0NJajhmREM3TWtzZHY1SU1fcEdDNEZaWllrNzJwa3JPQ1Y2Q0d4eFB0aEYxQWNoSHhEZ0hVb1hEYjVfRWtiMy03YmFRNHJtYldPWF94QQ?oc=5",
+    "fonte": "Nord Investimentos",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "6107533d700cb5a9c95b9de083b225a73cd937924bb84ecd9d97d8bb0f80e054",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar cai e fecha a R$ 5,10; Ibovespa recua - brasilagro.com.br",
+    "resumo": "Dólar cai e fecha a R$ 5,10; Ibovespa recua brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2NhNVN0VGU3MThHdWpZQ09vTERRb3ZGS2NUOUR1R0NaNURmUmVmX2ZlYWUxSUFLdFhWNlAtZHFjVXNlR2VBc0d3Sl82UllOV2M2eHctSW12Mk9hS0JaQ25kTFZnYnBkLTVYWEVhbWlCWlpxMk1NRGRuREFKbVVOZ2lEZEVubXFWdFBJdw?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "af132520bd75045b3d9d592e7453871211dca4fc56127fceb414f087467e4f60",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa fecha estável aos 185,1 mil pontos; dólar comercial cai a R$ 5,1045 - canalrural.com.br",
+    "resumo": "Ibovespa fecha estável aos 185,1 mil pontos; dólar comercial cai a R$ 5,1045 canalrural.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTVpRDZCVVZvWV93SGxqUkw5TFM0TWdReWNuWFBZWnhPSWtnWVJOQWpDTzRaYk9UY2VmSFJkUlNZRGZDWjEyN0ZSNzdhaGtpYWxETUZySUphQ0QwUURrb2tHUkp3eTVrS1NJbHY1ZXU5MGJrWlBZYllMcjBBRXJNOU5zdjJYaVYzQ3ZrZENhWVR6cFdZOGlHT2tfRnc2d3FwR0dKaFZ4OUZ0cTlrMTZfUTFB?oc=5",
+    "fonte": "canalrural.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1c5c4b16dee5a2cbd24cb0cd3a5986efbbff09c59cdd6add6917e31a43fedf5c",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central proíbe publicidade em comprovantes do Pix - Agência Brasil",
+    "resumo": "Banco Central proíbe publicidade em comprovantes do Pix Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNVFMZkZNWkxsbUdJLTVRN3dzbWs1RDRtSlBOakdhOWNmYkFlbHdid3F6UEI1X3V1SzdMMlY2cFdpTUJFby12R0FNTXVaTWwxRFg4Rm9XdmJlaFpENE9kendlbGRxZ1NzZVJmbFp4TUR1M2gyZUctU2EwaDV2MFg4eG4wYWtmRUNoZGhHcS1UYUF5Vll3ekhZR0Y4aHc4UkphVWtCd2lhSFp6YU9ubldHTDJtdVBtVS1pdHBrS3poMDRidVF5WnBPYko0cTU4Zw?oc=5",
-    "fonte": "agenciabrasil.ebc.com.br",
+    "fonte": "Agência Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b64d0eb09dce145b20a4d7dc733dfa29fa0f0c6d7fec1af0f2e9612f1f55aa87",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central holandês retira 78 toneladas de ouro de Nova York - Folha de S.Paulo",
-    "resumo": "Banco Central holandês retira 78 toneladas de ouro de Nova York Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0xEeW5ZaVdvVVRpQW4tcldlUHFsUkJITWp1bVBLZGx0ai1MaExtSFVib243bmVLQ1p0QVZTVy1nTHlYTzJCbjI3dmtMS3ZBamt1YWJpMVA0RXViVWJmS2FyQUJFcXNncUJ1RVNNRlNtdmNKTkloVDMyR0g5MDA3TnJZSmJyb3kzMjIwMFdzNElOTERUR05aT1ZBSXRTWnFwanJIam5wYXJDZkVjSVF1alFpdHRrZw?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1f8bd2f31d62c226b606e19989bb5d84ab4ad9f3c781cfd4ef36e7fc6764e882",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central determina liquidação de duas gestoras ligadas ao Banco Master - Bloomberg Línea Brasil",
-    "resumo": "Banco Central determina liquidação de duas gestoras ligadas ao Banco Master Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzAtTU5sVmxieEJvaVFqLXFYcGJjUGhzbXhNRzFXMzRaZ1J5WWNQcmItQlBzaVFuNzVJbm9QR0VpT3J4LUFJem0wQVdJVUtlNTNKTnNPNUpjM1V3QzRMREVnQ291UVpqTDBXTGxSSmpleTRiSkNBVjFTM0EwSzhOdDJoeHdQLXEyOW1ESmM3TzFrbTVMd0tUSHNSZmhLV0J4ZlgtSGdEU2lNaDlkaEFibHUza2lVNGRC0gHMAUFVX3lxTFBVSjdhYVAzWkQ1amZqa1ZYYXZSVHRFY1lQNWgyN2lyY0ZUR25GOTlkLWVjLV9mdnVtZEo3R05JTXdPSmlSVEpCd2hqaDE2TmUwQ2lHbHdyMWw0NC1TTlYzTGt3c3lidkota2JGLVNUQlNNa1E2REV3Sl8xdEdGUUJTZWNfeDJRU2tmQzlZMEtGQm9ZbGNlX0RlSkxIa3BiYXRrSmdCTjQtdUFiaDROR2Q5Y2tBdEVOZjdnMm1fVmoxZzd4MnhSOFRKZVB6cg?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b6d426985af9eabaa1d70751969c26bcb5ca0a3bc91ffd649176b74fb9b4108f",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central proíbe propagandas e ofertas comerciais em comprovantes de pagamento do Pix - Estadão",
-    "resumo": "Banco Central proíbe propagandas e ofertas comerciais em comprovantes de pagamento do Pix Estadão",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzJ5VWtUZlNVQXNjakk0cjY4emZKYnp2cGVZZjA1anZYMXRPWHY0eUh5Y1RpVVplemp6LTBRTGlsTndGcFJvVkxqQ0hpcmhCd0diM1BLRHY1ak9nTllFNGdCczctMUdzNW5nb2tVQUdJTmZqT1l2Wlg0YjdJbzNiblZXb2hhcUJWUEMwdS1hTnJuMUUxa1Z0Um1laG1PbXo1NVpPOElhbDVubjNJN1lsLVJVZWFUVkVXUUU0S0JROGItWmVEazJLOXB3WEVwNTQ?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1da9e4b629ec2c825f26232ddc35861938cb8c57bec7a6cb6764c1f5e5f4ddbd",
+    "chave": "79e4fe5c89967912f6875661489683a375d0d879c496424c0f6cc46847615ed2",
     "ativos": [
       "CDB 100% CDI"
     ],
