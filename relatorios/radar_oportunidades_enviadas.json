@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-08-01 03:50:25",
-    "chave": "ed87667b5a1de67b3f03d154edcf3f58432b8acf16dcb6ed3b075af12b0fd9a4",
-    "titulo": "Fechamento | Ibovespa dribla falha técnica e fecha em alta de 0,47%, puxado por Santander (SANB11) - InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtMkM3aWhZcXRSeGFLYUxHeU1rVlN3NVZUUDFxZDFDRFZ2Rnd3UlZSa0pJWDFOcHRJb2lWQXBscjNOSjRhblcyN2tkeWVtcnZVSHp1Zk96MzJfRVVfLTJ6dDdaVTFlS3MyOFpVQlRiNGpxUlpMNGc?oc=5",
-    "fonte": "InvesTalk",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-01 06:40:45",
-    "chave": "c2c7448eb5696b2d9443fbf15116608238065fa08a22f5428c5da5230af5d2e4",
-    "titulo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVdTTF9lQTFSd0YzY000My0yaFhBazJid0JaTDdrQ2tEb25yT05MakpaZ29LajFlR19KM0I2NVl0Vkh4c2hHRmFvS3NJeEoyUXlKWUxxeWlLVVZGN1VaRmk2RWhRZk9Md09yVURJWU1mM3hPTFllUm4ySlJ6NjY4Wl9yN3prUGNGdG4tVDUzLUxGV1RTc0FjSnphQkZ4QdIBowFBVV95cUxOTFhXNF9abFBuVkhnQ2xNUFhTcHRNOExsbFZaWVNvSlRQN2wzNE5FR2l1Tm43WF9yYWdxZUk4VHZjR21iQWtlbEx5WE5iWmJkT25HWXhlelVManhUdG1aazN6dTBETGJIa0pGX3BhbnVyeWpUejJNd3kzbTJNbFk1WV9YLVp1OXowaXAxZzhMWnNlYkxxSUlGU2dvclYyRC00Y3dV?oc=5",
-    "fonte": "InfoMoney",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-01 09:21:11",
-    "chave": "f049128081da49ffcfdd4a64dc3d5375a7a47cee942265cb59e43d6039c0ec37",
-    "titulo": "Quando o banco central fala de mais (e de menos) - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeThrLUJsWG9OVW1IOXF3bWJreEZILWZEUDF0QXJWck9FLVFxWmZ6bF9Ld2kxWjFqSTVhRzFiSG1RTWhhV3RBdmcxWVh2WUpRNENmczdOeC1hRllVbzV2eHdxMzNDdC1qSlUxa0M3Y1kxMWhDYmFRSVJERmR3bHVXRG9ONm9jeGRhTGJrZ3JaQmpzWjZJWUtUV3R3eGxfbkZHcWVMQlNpdXVsVGdUaDVNdkpDc9IBwgFBVV95cUxQNTl0d3M4Mi1jcFNuRk1JSjg1UDJ6bTNkZUZ0V0RDYUJOSTk2Z09EMm9HZXlEbUMyLUhyNGJfblJ6NjVzMHVJbGItaS1TZE5NZWhXaTl3eDRoNnBFQ2ZlcGVUaF9JSFk0bllpVjBjNkp4VWxxUnh5Qk1QUnVLUUxoamppTDBGc214a3FzalB3bGhnUU1iMkVtLWM5aDBUVVppVXZjQXF3b0JjTzZvbVRpYS02UVdiS1RsNWRSb2w3UlZvdw?oc=5",
-    "fonte": "O GLOBO",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-01 13:55:05",
-    "chave": "b7f8e46fac2583b24937c17daccfff802dd9f479262b89ee75dea0ab0cec3e2f",
-    "titulo": "Copom deve cortar Selic para 14%, apesar de riscos para inflação, avalia Warren - BPMoney",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDY5YUxDaWl4MEhvME82UGNubUU0NG8zTXpDOU9NQlQ2bGlfWE9JVkhmRHhWOF9zWmV1dVg3RExRTWt5TlVqODJWalY5c0thdVpuUmtHWGlMUHVGMHdLcmZpMzN5RjAwZld4UTdjTThKXzZvMWNqbkkxd0lxQ2FfeGoyQ3I2OVpSM1IyNWxoSXc0V0pEY2UzM1lfY1NwYjRUWk1hN1RRblZfZnZq?oc=5",
-    "fonte": "BPMoney",
-    "score": 16,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-01 13:55:05",
-    "chave": "066c3850909681cea1978841edb66740cece39accab0fde0dc12a51f84703c61",
-    "titulo": "IPCA-15 sobe 0,06% em julho, menor taxa para o mês desde 2023 - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVd5Z3FRNnVqX1d1T1VYeEdBODlwM19kMTNWQmt2LU9YX1U4QXNIV0UxLTFURWN3MlBLRGZBVWRmblZBVjNTYVlYOGdOQlc3VkplcmowLUd6MGRWSTNNOW1qNm54VERtY1JjQk9EQ3FmcXZxcVRmcnozME9BQ0dTcE5ENEllUkxjdHd1WDdHLWlROThnR3FoaVlLZ1g2RHR0T0tkNjRwTmFGN1RIZjFBOWVuaWRGOE1DSlkxN3Fn?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-01 13:55:05",
     "chave": "093f3a77ea152ee95613ce95b2c96aa589c5c6b6919b51170d77500b9d2b83c2",
     "titulo": "Fechamento | Ibovespa dribla falha técnica e fecha em alta de 0,47%, puxado por Santander (SANB11) - investalk.bb.com.br",
@@ -17317,6 +17230,85 @@
     ],
     "classes": [
       "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-04 00:06:30",
+    "chave": "765ccada34badd8ed26ce8dcaccf7114b71e926c8b90e238d66d9b01ed05c0f5",
+    "titulo": "Ibovespa fecha estável aos 185,1 mil pontos; dólar comercial cai a R$ 5,1045 - Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTVpRDZCVVZvWV93SGxqUkw5TFM0TWdReWNuWFBZWnhPSWtnWVJOQWpDTzRaYk9UY2VmSFJkUlNZRGZDWjEyN0ZSNzdhaGtpYWxETUZySUphQ0QwUURrb2tHUkp3eTVrS1NJbHY1ZXU5MGJrWlBZYllMcjBBRXJNOU5zdjJYaVYzQ3ZrZENhWVR6cFdZOGlHT2tfRnc2d3FwR0dKaFZ4OUZ0cTlrMTZfUTFB?oc=5",
+    "fonte": "Canal Rural",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-04 00:06:30",
+    "chave": "454b78aa00c920ede7549bc45ed0405f903d9ed7fcb3c0dd7e9a94f73a167677",
+    "titulo": "Ibovespa futuro avança com 'trade eleitoral' e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10 - moneytimes.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GVEtFZDJYQTNLMzJ2QWI5aGcweV82NVBVYU1zNDUwTk1hQjczM09EVFhTdU5EMTBqY1BGRXBoVk1JcFVCSlUxb2twbmliRWMzR09YQTFPcXF5cUJyak9lZWlmNXhFT0t4TVE?oc=5",
+    "fonte": "moneytimes.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-04 00:06:30",
+    "chave": "eaffb046e4735a6009da9d6e3d0cb4231009bef285fdd7c3a5bc4ff49bfa6acc",
+    "titulo": "Bolsas de NY fecham em alta com perspectivas para Fed e queda nos juros dos Treasuries - Folha PE",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1dKYTAyVzNBRU5oai1JYkZrbndoNkRNOXVqQ21RZC04Vkg4ZzlLS0JPeVZOTGFqNHMyTGZ5MjlnV2tOb3BOUGx0aHVVZnRhTUh0ZFVGWkVWaUNYT0Z5WG5zOXJubGVmQU1ZSWhSOU5VQnkxUmNaX3d6Yjg3VnNCRXBWaEFvREZDcU4zRG9Ybl9FeHFYcm9MTzZMRmxJR01zQVVWQTc1N2M5Ymh4bUVHZlhR0gGyAUFVX3lxTFBTV0phMDJXM0FFTmhqLUliRmtud2g2RE05dWpDbVFkLThWSDhnOUtLQk95Vk5MYWo0czJMZnkyOWdXa05vcE5QbHRodVVmdGFNSHRkVUZaRVZpQ1hPRnlYbnM5cm5sZWZBTVlJaFI5TlVCeTFSY1pfd3piODdWc0JFcFZoQW9ERkNxTjNEb1huX0V4cVhyb0xPNkxGbElHTXNBVVZBNzU3YzliaHhtRUdmWFE?oc=5",
+    "fonte": "Folha PE",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-09-04 00:06:30",
+    "chave": "3e135d4dd50d5cb28c0cee87efbb6da9b8cd3f92e246bc273c5e871fe8dd1906",
+    "titulo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master - G1",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXhsWFVKMlgwZEFrcXlRdnhJTlRqRU9vOTAtQkJMYWFnMEdCV2R1QTVwUWFhd3NXV3lZTzQ4UzFPZTlFdUwzdk1uN0N2ZXozMmQ1MWlWQndDMkhEdDZ1b2dRU3h4ak9Jdk9uSDlMek0yaUo1Nld1YVE1b3dfNENpLWZ0djJhZmZoWkZpcHdsWE5Bc1JTcHhqetIBpwFBVV95cUxNYndrNE1IQzZ3M2gtNXlwS20tMm5WNG02cE9veHhZeVNha1Q5ZC1nVXlxVW95YlltXzNVRkM4UFhkSC10NXRfaThXcVNSUm1LUkFIYzljSFZjbmtMYktVMGlOYkNxY21MZHJzZWhEaGV3RnRtbWRlMkhMNjBsX0k3NjN5a3hHaTBIS0JnSmVWTlVxYmZsaTNsMVRXQnc4RHctM3BfMzJiQQ?oc=5",
+    "fonte": "G1",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-04 00:06:30",
+    "chave": "4076830804eecf01e5e9eb6893a0351d596673d8aa19273eb733fd50138433ae",
+    "titulo": "Banco Central proíbe propagandas e ofertas comerciais em comprovantes de pagamento do Pix - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcV9WTVRUT1M5UG44NGxHUS1xUkNjdU8zRmd1bTVqZGhyaGY5ZEEtT1BJUFBoSC1tYjBkenlUNGNJcjdONkdDbU9OWFItU3A4WnVPMmNSMi1wZ2lFT3lJRG9xZXo0MHZaM3BpZFJUZGxsdG5hdDAzc28wZjBEWHZlSmdQajNoUTlPSnBNaGdBWG5aMzlqSlJRVHlwcWZSdnd5azl2anpoZlZyaTZtZ0psOUw2SVZ6WHZOUXozVUU1SnJ3d3hn0gHKAUFVX3lxTE9rVW1aZ2pjN1Vwc2RzcXNDZ2tsTi05Ymc2LVJrXy1UV25CYmxqYTJmaUhHdWQxYU94U2gxLWhaTUdiazRlMWt6dzFlRE9BYldKM0lEQ1NBOEVuOFZObVp1NUl0T1JSSTZqdDc5ckxsUng1Q09ObkluTFJackVWa001c0hvbGc5Sjl6NS1hWnRKYmtITVhFODlHeDV6RDhad09Va3JOSXIydzdWekg2cVVkRUVKbGl3aUpDaXIxeWxwUVo5QU5IWFlTRmc?oc=5",
+    "fonte": "Estadão",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ]
   }

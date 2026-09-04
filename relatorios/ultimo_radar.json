@@ -1,22 +1,88 @@
 [
   {
-    "titulo": "O ciclo de cortes na Selic começou. Como ficam seus FIIs? - borainvestir.b3.com.br",
-    "resumo": "O ciclo de cortes na Selic começou. Como ficam seus FIIs? borainvestir.b3.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0RxaXJUdko3WUI3VlJ3NXhjNGxpZXlsRTFmbUs4a0ZpM0RTdWRvZnRBY2gwNkNnZk5GaFNaVDVReHJFcFdkMjd2SWxJM3NWcUhRa0MtRWY3SnozYnNuSy1lMEFGRzZwYlJWVFdXM3VqLW43TmdPTi0zNnNiNjBaYzctOFNTOC1MUzBLUGdKdFdGcUJTbnd2ZTRrVVNOMmFzZi15QUtEdHFjTXViNDlvS19jdlB5d3NHOVpKOTBPM0JRcEVQWVphUlpMNHBGWVZyRVAxNU1mOHFKeDBzcnc?oc=5",
-    "fonte": "borainvestir.b3.com.br",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "e9aafdc2db9cf220ecb834e38163cd0b2bb2bc9f93e03b2900e15e4af800fed6",
+    "titulo": "Ibovespa fecha estável aos 185,1 mil pontos; dólar comercial cai a R$ 5,1045 - Canal Rural",
+    "resumo": "Ibovespa fecha estável aos 185,1 mil pontos; dólar comercial cai a R$ 5,1045 Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTVpRDZCVVZvWV93SGxqUkw5TFM0TWdReWNuWFBZWnhPSWtnWVJOQWpDTzRaYk9UY2VmSFJkUlNZRGZDWjEyN0ZSNzdhaGtpYWxETUZySUphQ0QwUURrb2tHUkp3eTVrS1NJbHY1ZXU5MGJrWlBZYllMcjBBRXJNOU5zdjJYaVYzQ3ZrZENhWVR6cFdZOGlHT2tfRnc2d3FwR0dKaFZ4OUZ0cTlrMTZfUTFB?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "765ccada34badd8ed26ce8dcaccf7114b71e926c8b90e238d66d9b01ed05c0f5",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa futuro avança com 'trade eleitoral' e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10 - moneytimes.com.br",
+    "resumo": "Ibovespa futuro avança com 'trade eleitoral' e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10 moneytimes.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GVEtFZDJYQTNLMzJ2QWI5aGcweV82NVBVYU1zNDUwTk1hQjczM09EVFhTdU5EMTBqY1BGRXBoVk1JcFVCSlUxb2twbmliRWMzR09YQTFPcXF5cUJyak9lZWlmNXhFT0t4TVE?oc=5",
+    "fonte": "moneytimes.com.br",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "454b78aa00c920ede7549bc45ed0405f903d9ed7fcb3c0dd7e9a94f73a167677",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Bolsas de NY fecham em alta com perspectivas para Fed e queda nos juros dos Treasuries - Folha PE",
+    "resumo": "Bolsas de NY fecham em alta com perspectivas para Fed e queda nos juros dos Treasuries Folha PE",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1dKYTAyVzNBRU5oai1JYkZrbndoNkRNOXVqQ21RZC04Vkg4ZzlLS0JPeVZOTGFqNHMyTGZ5MjlnV2tOb3BOUGx0aHVVZnRhTUh0ZFVGWkVWaUNYT0Z5WG5zOXJubGVmQU1ZSWhSOU5VQnkxUmNaX3d6Yjg3VnNCRXBWaEFvREZDcU4zRG9Ybl9FeHFYcm9MTzZMRmxJR01zQVVWQTc1N2M5Ymh4bUVHZlhR0gGyAUFVX3lxTFBTV0phMDJXM0FFTmhqLUliRmtud2g2RE05dWpDbVFkLThWSDhnOUtLQk95Vk5MYWo0czJMZnkyOWdXa05vcE5QbHRodVVmdGFNSHRkVUZaRVZpQ1hPRnlYbnM5cm5sZWZBTVlJaFI5TlVCeTFSY1pfd3piODdWc0JFcFZoQW9ERkNxTjNEb1huX0V4cVhyb0xPNkxGbElHTXNBVVZBNzU3YzliaHhtRUdmWFE?oc=5",
+    "fonte": "Folha PE",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "eaffb046e4735a6009da9d6e3d0cb4231009bef285fdd7c3a5bc4ff49bfa6acc",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master - G1",
+    "resumo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master G1",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXhsWFVKMlgwZEFrcXlRdnhJTlRqRU9vOTAtQkJMYWFnMEdCV2R1QTVwUWFhd3NXV3lZTzQ4UzFPZTlFdUwzdk1uN0N2ZXozMmQ1MWlWQndDMkhEdDZ1b2dRU3h4ak9Jdk9uSDlMek0yaUo1Nld1YVE1b3dfNENpLWZ0djJhZmZoWkZpcHdsWE5Bc1JTcHhqetIBpwFBVV95cUxNYndrNE1IQzZ3M2gtNXlwS20tMm5WNG02cE9veHhZeVNha1Q5ZC1nVXlxVW95YlltXzNVRkM4UFhkSC10NXRfaThXcVNSUm1LUkFIYzljSFZjbmtMYktVMGlOYkNxY21MZHJzZWhEaGV3RnRtbWRlMkhMNjBsX0k3NjN5a3hHaTBIS0JnSmVWTlVxYmZsaTNsMVRXQnc4RHctM3BfMzJiQQ?oc=5",
+    "fonte": "G1",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3e135d4dd50d5cb28c0cee87efbb6da9b8cd3f92e246bc273c5e871fe8dd1906",
+    "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -26,93 +92,19 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dólar cai 0,07% e Ibovespa fica estável aos 185,2 mil pontos - Poder360",
-    "resumo": "Dólar cai 0,07% e Ibovespa fica estável aos 185,2 mil pontos Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBCeFQ3RHJtUVhyNFE0dUdmaGZmdDNVdzUwZmN3NXNzWHpZaDNnNTFRRll3S1p4dVRzVGYzZEZneVB2SWh2R2pBYmF5dmYzYWZXalVGYzhBaDdsV1R3ZDIwaTU3RHQ5WEpXanJlWGpzclBBNWZnQ1paZEt0N1lEUUFEU2x3V1JyOS1EZlBDQ0NwUklUS1N6czNqNXVmZHBUakJF?oc=5",
-    "fonte": "Poder360",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c138c69d9d033f889f14e67decee624da0b08632d80dcaa2104434565eae67dc",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar cai a R$ 5,09 com expectativa por pesquisa eleitoral e dados dos EUA; Ibovespa avança - g1.globo.com",
-    "resumo": "Dólar cai a R$ 5,09 com expectativa por pesquisa eleitoral e dados dos EUA; Ibovespa avança g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ENUZBbWVtb01Qck1raUdzQl9YOEVpN1hDVV9hb05WTDdQRXBuUHZIYXdDUUxOZk9uU3YxUWh4S0tCZ1lnbGhPTmxldVdndk1Vc0JIcVA3ZHJiRmUzd3VmTlVUelJycEpya3dISHFiY21RaTJvU0phVQ?oc=5",
-    "fonte": "g1.globo.com",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2faa1e2e7e331b9aab648c60b20a51f13d23f49fcf91b1be55b7d545ce764155",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa futuro avança com 'trade eleitoral' e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10 - Money Times",
-    "resumo": "Ibovespa futuro avança com 'trade eleitoral' e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10 Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GVEtFZDJYQTNLMzJ2QWI5aGcweV82NVBVYU1zNDUwTk1hQjczM09EVFhTdU5EMTBqY1BGRXBoVk1JcFVCSlUxb2twbmliRWMzR09YQTFPcXF5cUJyak9lZWlmNXhFT0t4TVE?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "155591894e807d21cd021ed4b649d0f5c6b7acde8782eac494987473645d2d0c",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Tensão geopolítica faz Banco Central da Holanda retirar ouro dos EUA - VEJA",
-    "resumo": "Tensão geopolítica faz Banco Central da Holanda retirar ouro dos EUA VEJA",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXFoaVJTUTBqbDBXZElPdEQ0VmE2NmVoS3dsRDdmNm12Q2VFTmotQmd2WHk4N3Z5U2tfcE9uWUs3Yy1ldDFYOFJTSm1mZW5BTFlKQndQc2lGTE5YTUhTaUtJdHBKaU94N29rekM4bHRGMFVWNlQ1QWFSVjVsZGMzZVJQZnJYNjl5cW8xUW8tdTF0VlhoaktTSlpfbkJSdldWeHd2LXBqRQ?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Banco Central proíbe propagandas e ofertas comerciais em comprovantes de pagamento do Pix - Estadão",
+    "resumo": "Banco Central proíbe propagandas e ofertas comerciais em comprovantes de pagamento do Pix Estadão",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcV9WTVRUT1M5UG44NGxHUS1xUkNjdU8zRmd1bTVqZGhyaGY5ZEEtT1BJUFBoSC1tYjBkenlUNGNJcjdONkdDbU9OWFItU3A4WnVPMmNSMi1wZ2lFT3lJRG9xZXo0MHZaM3BpZFJUZGxsdG5hdDAzc28wZjBEWHZlSmdQajNoUTlPSnBNaGdBWG5aMzlqSlJRVHlwcWZSdnd5azl2anpoZlZyaTZtZ0psOUw2SVZ6WHZOUXozVUU1SnJ3d3hn0gHKAUFVX3lxTE9rVW1aZ2pjN1Vwc2RzcXNDZ2tsTi05Ymc2LVJrXy1UV25CYmxqYTJmaUhHdWQxYU94U2gxLWhaTUdiazRlMWt6dzFlRE9BYldKM0lEQ1NBOEVuOFZObVp1NUl0T1JSSTZqdDc5ckxsUng1Q09ObkluTFJackVWa001c0hvbGc5Sjl6NS1hWnRKYmtITVhFODlHeDV6RDhad09Va3JOSXIydzdWekg2cVVkRUVKbGl3aUpDaXIxeWxwUVo5QU5IWFlTRmc?oc=5",
+    "fonte": "Estadão",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7945bd937286ffdb1212a42ed28c2e8fb061b0754d97c9fa624eaf2b8b4c4c14",
+    "chave": "4076830804eecf01e5e9eb6893a0351d596673d8aa19273eb733fd50138433ae",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
