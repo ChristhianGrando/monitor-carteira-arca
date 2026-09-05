@@ -1,18 +1,22 @@
 [
   {
-    "titulo": "ELEIÇÕES 2026 | Questionado sobre o trabalho do presidente do Banco Central, Gabriel Galípolo, Boulos disse: “É decepcionante”, avaliou. Para Boulos, a taxa de juros no Brasil, hoje em 14% ao ano, cai em “ritmo de tartaruga”, prejudicando o crescimento - instagram.com",
-    "resumo": "ELEIÇÕES 2026 | Questionado sobre o trabalho do presidente do Banco Central, Gabriel Galípolo, Boulos disse: “É decepcionante”, avaliou. Para Boulos, a taxa de juros no Brasil, hoje em 14% ao ano, cai em “ritmo de tartaruga”, prejudicando o crescimento instagram.com",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85dU9teHRRVngwT0Fqa3hTRE5PWjZLNzNQbTJBOGtrZVJ1cnpsb2pCcHIwZi1XNllkaEFMdEZNQnNmX2QtTWtGY2lpU2hpV2l5ZDF2Z3Rn?oc=5",
-    "fonte": "instagram.com",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f4fdb5009d50278946f70f9c430021f2248374e06e7dad3348179ee8921497f1",
+    "titulo": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic - Estadão",
+    "resumo": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORG92ZWMwczVYSkFBU2Y3WFAtQzNUTGpZUnlFZUNPQzltZ1I5Yi1abkE1WWZ3OHJra05rakVtS2Y5dmFfalRscXFvZC1MYkRsZXprTENnSTNxc2ZaV2hpNFhsMEdFSHprU0FIQUgxY1NwM21EcnhyRFNWajRJOTNEcHJWVEFlc0lFbkhUcHIyZEl0dTFNQklCWWQ5SDJLUnV4eUlGNXpGSTc1Z0V5NGRlRG9raVZ3MGYyWHJuQ19yLWxLb1h5WEJ5TnpJYTJQSm5HNG9QMmtlUW92Q0ZQRGM1X3NvNzUtOTlHY0HSAe8BQVVfeXFMUFU1aW1GelFCZ3g4Um90ZTFKTjFCYW9IbEhLU0RxMUFKM2huMU8zeFJHdW1ZUUlsaFU4eEV6SFRCRkpKUFhzUUVzVWtQYlQ1a3NEMUR5OFVCM3l5YW9MVml0WmRzS1JhQllmWll5UnlmZ1RiTGpYX2xDajBjM2s3Q2FWVlEtX2kzQ29wMWJRaG9oNXBrMVVtMU1IdHVDQ3MzVUxRX0Q3eTJOb0gwT01QTXJ5Nm1Ya1dnZGJ1MmNReVlVVGdHbno5WXZlRWxLbUx1RFoxQTg3MTB5M2MwTG81QUdva0dXczNDZ0pqYlFNdHM?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ed6c00b1a1a50952d3d214fe3dd24ce5ea93a9ab461be6972a787a2d7b0bec60",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 13,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -23,12 +27,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Wall Street fecha em queda após payroll e apostas de alta nos juros pelo Fed - Money Times",
-    "resumo": "Wall Street fecha em queda após payroll e apostas de alta nos juros pelo Fed Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkZjIzbXZFVEtCMUdRYlplMkhCVF9hX1pnVkdyYXI4dDJPTTJhdm1zZUoxOUc4enlqZThJWXJ3bUNKOU00STFLLWQ5Wk5yMkJqenV0am1EM3R2cDFaVWs0bkx2ZUZPc2M?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Wall Street fecha em queda com expectativa de aumento de juros pelo Fed - CNN Brasil",
+    "resumo": "Wall Street fecha em queda com expectativa de aumento de juros pelo Fed CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXd6TmV0Ym9IOFVCM0ptdTF4UnhkQmJLT1ZScnlTRTV1NG1kcm1TeE9YZHB1YXJMbndwN1BDVU9nekN1a0RQUk5iME5ZT3o3bmJkaWlCcEJoRFR0cnFLbFBvVExpUjN1OUlTZ2YtOGdFM2tNVjdQaHM5OXFZT2M5LUlPYjdJc2R4Ujd0Y3JuNlB1Z3dqeGZsZUdxdGNHQldqZGFvLUVOdGJQeGgyTEJVcEJJV1kyaFMtRzByQ3JseU9Edw?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "a57e09969ecabf86b39ca77231f781d09ed9700b6d7290f780c1ce7a1252af7d",
+    "chave": "b683e057abfab9c90ab32bda8f01ee432231608238b0e8bd2037a5fcb16ef81d",
     "ativos": [
       "WRLD11"
     ],
@@ -45,34 +49,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Bolsas de NY fecham em queda após payroll forte reforçar previsão de aumento de juros pelo Fed - Jornal de Brasília",
-    "resumo": "Bolsas de NY fecham em queda após payroll forte reforçar previsão de aumento de juros pelo Fed Jornal de Brasília",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNEZLWnRMRXFkZTl0UmlsUU5ZSUlEbWp3dXc3ZHNlSlVubWtFaEp3Y0NGTWZlSUZMdEJ1VGdGMWh0dXpXZF9ORTVPS09aV1owcDNzSHlnZ1oxN0Y4YzNORTc5ckUxQ0pmYzFZWUFEQjJfYlJTcnpURWZ5aGpYVk81bDFydUxxQWs5UDktTkhNVGZDNF92N1h2cV84WnNYUXh5M29oS3RkRm50SFJpQU9fRDlSS0NpUXpnS0hPbTY4WlIzZkZNVXB6dGRQaWtyd2U0R0R5cjYwTE4yZw?oc=5",
-    "fonte": "Jornal de Brasília",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "c618be4ea49d3ae8eeed39b59679983bba9c5758b631356b01a280c573528429",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central viola Constituição e gera inflação com títulos públicos - Consultor Jurídico",
-    "resumo": "Banco Central viola Constituição e gera inflação com títulos públicos Consultor Jurídico",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnNRSkRWdnhXTFFBRjBuUkktZFFkX19DYjZ5U054d0Z6U042Qlc5ZkdlX19wUHhRbFdXOGRHUE9kSjIzanBJV3ZvWlZiV0wtSWxVTHlTNFFIQ0lreU8tblE4NHhoR3B2cGN3bExBcVdjWlgtdENlZmlYcE1DWllXQktVSWctdXVHbjV2VGZoSFc?oc=5",
-    "fonte": "Consultor Jurídico",
+    "titulo": "Plínio Valério cobra votação de PEC que amplia autonomia do Banco Central - senado.leg.br",
+    "resumo": "Plínio Valério cobra votação de PEC que amplia autonomia do Banco Central senado.leg.br",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0FvV3Etc1QwODBGbXF1NVlRZi0tVU5Wd0pUVmpjY2N2OGpDYU5Zdm15aHVMZU5ZdXF1ZmxjX3BXclVtblU2Q050ekFWZjgzNjA0Mk5nRTFlLVlCelI0SmR4NW5ES0VQUnZkcnNRUHFpUnh6ZWVRY0xzWHhtZUtPd1V4TUIwQ0ZuUDZTUm9EZ3BFd2RHYXBhODhsaHpaTkIzSVBBZklkYlY0LTR2LVFwM1hWOW02QlUyY1BZbXdWLTF2M0JRZ0FrZ3V3?oc=5",
+    "fonte": "senado.leg.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8021edb60f7abc143ac399d65dee0ea485f64c4e6342950c369749765d510ac6",
+    "chave": "5cf95140fc20784da645243ddcfa114677531892bc8e07f955b6b9c49320b531",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -89,12 +71,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ant International obtém licença do Banco Central para operar no Brasil - Finsiders Brasil",
-    "resumo": "Ant International obtém licença do Banco Central para operar no Brasil Finsiders Brasil",
+    "titulo": "Ant International obtém licença do Banco Central para operar no Brasil - finsidersbrasil.com.br",
+    "resumo": "Ant International obtém licença do Banco Central para operar no Brasil finsidersbrasil.com.br",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2xzYms3Z0NycGtWQXhiZkpUMEVRcUtKZVZ6T2pMUHA3VHhObmM2WGdLd0k3dER4Q0pGSmd6SXBCa3h1cW5Tb2NmaHE4ZHVJT0dESEoxQmFQUnJqU0c0NGxTbGVkMGQ2QlVoUEl4VzBkR3RMSVh3LXRzUjYwdE15SGQ4VkxjcFh6SFotUlA1M3hWb2xzQmpQUkhnbmFZQzYxcVVhUUVtZlJSQ182Q1Q4WWJVU2tzRFZueWw0NDU4dVo?oc=5",
-    "fonte": "Finsiders Brasil",
+    "fonte": "finsidersbrasil.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "dbb033beca094cb6fa2dac4f607ac9f950479c10940a41e64f57fd318b04345d",
+    "chave": "66887cd49891019e83a25edd28a819c1dd1e0656c33361b030dc490a8da40c6b",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -108,6 +90,29 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa fecha em queda, mas acumula alta na semana marcada por payroll nos EUA e cenário político no Brasil - ADVFN",
+    "resumo": "Ibovespa fecha em queda, mas acumula alta na semana marcada por payroll nos EUA e cenário político no Brasil ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUGtSMVo3MTI0eFgyaHloeHhlT0JGSTR1SlV0ckp3T0x5X1hmQ3dXYXZuOUlTRDYwLVBOVnFmQzB1bkhXT3Z6cEcwR0VsTkQ5eXJQTHRzVzlMcmxfWmFQMncyV0x0SGo5TGFHSkluZEh0UGpzOXZod3dPVVV6ZWVQVE5qMF9VbERiSDhWSHpwSWV5MU9VbTZEMjZPYS1TN2dKV3E2dER6aDJuenNKdGpBX0l2VzFYbGdDV0Zadl9JNmdLbWh2a0dib2pFa2NuRUl5aUFVYWRYdFk1V1k?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ae09792963a315e48af0be50a6ce2958b944204964f250f74ea0a1833fb45cb3",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
