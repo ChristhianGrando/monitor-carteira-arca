@@ -1,24 +1,22 @@
 [
   {
-    "titulo": "IPCA no Brasil e inflação nos EUA fecham semana marcada por feriados e decisão do BCE - Estadão",
-    "resumo": "IPCA no Brasil e inflação nos EUA fecham semana marcada por feriados e decisão do BCE Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWm5TU0RvOFc0UGFPclY1Y0lSUzJEQmdTSDdrYWkwMWpQa1dSNHNuREZUVGhmUkI0bnlJWFhIR25BUnl6ZVRrZHJFYVotNmotT2xOWTJ3bkl3TGREaTRMT3VRLU0zMzFjN3h1aU9wbTFRUkZoZWNlSlVBWm9kbGdqWnpFUTBMcFNTenhhbXRWY3dwQV9nbVRBSWI0RmFYYjFjVFBXbUR0RWdEMGpsQzFVRXdBTGFjWFJkM0lZdmNVVVRqeTZ4ME1ZbW9zbjRBQlhLV2x2SHdYeE5QNTY5d1JRaENUMDZvWlU?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Notícia XP corta projeção do PIB e vê Selic a 13,25% no fim de 2026 - Kinvo",
+    "resumo": "Notícia XP corta projeção do PIB e vê Selic a 13,25% no fim de 2026 Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjV1eTJkangxZ0VkQzR2UEFZR0RsN0p6dWJGampaOHJMb05hbmlxZGU3ZFRqLWxPcG1la2RhaVJTTjE0MlJhbEc4R0xiWlAwT3oyR3VNV2RIUmdMUGVva1JoeHd5bDI4eXRBNTRqRWYtazFWeFk2LUFpMDFfNFJXNU1TRE01eU5WOVVFYl9HNmM?oc=5",
+    "fonte": "Kinvo",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "16d40684b43aac502e6d7d184a70408f2137e09624c19683c2ab28374edd25ac",
+    "chave": "12c67f141b413c34aa52dd1e78730e98c120e510daa8340482459c1b4a46baa5",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 13,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -28,62 +26,43 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "PEC 65 pode impactar juros e criar riscos, dizem funcionários do BC - Poder360",
-    "resumo": "PEC 65 pode impactar juros e criar riscos, dizem funcionários do BC Poder360",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1RlNVVidzhXUjZTSjRHY0l4d0pocFFTbFNmUlQzbDRmN0w0dmd1amRVRjRWbFlDZkU5NDcyN2drd1doOTRYd2pFLXdmWjNkWGx6cU1nR3R0am44S1pNVVl1YzRObTJCNFlldG1uSWx2V0xONnR5aW5SWHdmWkgyWXF1ODVFZjlvSXpVdnFaRGJUWkE4aExrUzFvd0lZU0lWWlRlU3J2NFVMX1YwV3hZ?oc=5",
-    "fonte": "Poder360",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "29d3a430f9a0ebc2e14b0cdf73e35e5f5b10adf8857b67965d9c321987af4ad4",
+    "titulo": "IPCA + 9,52% ou 120% do CDI? Veja os títulos de crédito privado escolhidos pelo Itaú BBA - Money Times",
+    "resumo": "IPCA + 9,52% ou 120% do CDI? Veja os títulos de crédito privado escolhidos pelo Itaú BBA Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekhVN0hOUWsybk5BSHFrZmFHR0VyUXNPSDNtVG5ZLVh5ME1FV0wyRmotNjVJTEthM2h4QmlEcVlHaEpFUEs3dUNJWkE3WXFVWGgwbWctNG04Q21hYU5KbjJQRUJBZUwxNTNCOFQxUzgxNXRHRzdRbThSTlNlWkdsZVk2bW4xVkUtSk1oS3RtMG42c2l0MGhCaUg5Q0dVTnhzZVFrZnJPVzRyOFN1Z0JweThCQWhHbGhOanc?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "e343fb98f3c9f0d870264096889b0f9f859f1877db1e24cf59722cf7ea2d664c",
     "ativos": [
-      "KNCR11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos - nordinvestimentos.com.br",
-    "resumo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos nordinvestimentos.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96WS1QWWVsTmhXSFRUSzJ1LWk3M2pLb2dtVFh6M3dlSUdBUGttTWNMMzRKdEUtYW5kS3hpVjRwOXFDd2hpVEFfVXZGeXViMDBVSTRfS1lpSFdRZlh1S0x0cUg2ONIBaEFVX3lxTE93cm40V0xjLTRZS0dhWmM1UnpIVDNVQ2drVHpzMWN3MXJtVVJNdGFIUGo1N0dWTEl1ZWFFSUIzeENOMU5BUGRFQWVQQWQ3bzJlZm9EUS1PV05DcUhVanh3ckR1clh3TzQw?oc=5",
-    "fonte": "nordinvestimentos.com.br",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "51ee1dd68f18369335d0daff360765e74ba5c5fd34845985b6be41c0e304f775",
+    "titulo": "O grande risco da SpaceX: não há como substituir Elon Musk - CNN Brasil",
+    "resumo": "O grande risco da SpaceX: não há como substituir Elon Musk CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGptZjFPRjlWaVk0N1Jyd1B5WG4yems1SDVwSl83cE9jcWRRY19fMHk5UmQxRHVvVnhlcGRPQy1rZ3o3cnJlWVRicWg4ajFrWHNQUGdwVnNKZmx0NDQ0UEpPcWRzYkYtck5uNXNPRWhKVUlmemhrVGwyTE1hUkN1SU9UVHoyMkhzZ3V6OS1WX0cyd3Z5TThxSmZCQ2pRYm1sSWlNMTA1UXdNcTRrcjIzSw?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "32f437424cfb97befbf787f176f1247e66efc96d299aa6e342549cfd4e56964a",
     "ativos": [
-      "IBOB11",
       "SPCX34"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Risco fiscal está no foco do \"trade eleitoral\", diz especialista - CNN Brasil",
-    "resumo": "Risco fiscal está no foco do \"trade eleitoral\", diz especialista CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVRQajFtTXJ5c245M0tKOURTMVFlVEVZak45bWVTa0MyQlotczlmNWV6VXZET05DcFJfTkp0SlotT1pFQk8wdnNsam82MDRDTVhJM2NXQWRhTGdDcVhsckRNcWQwUWdpVHFLdHR4WHZacEQ1bnFOMGpDWWJjalVKUnduLXhaOHItaGtvQUJ5ODZWNTZmbEJnTXlKLWI0Sl9CQkV0VEVjUTJKZlpneEU2MWY3ZnQ?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c7956ec544a06f9aba1bfc90695d75abc2a489fdf1d4ae2d8d9d0b7c2195b26c",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
+      "Ativos Internacionais"
     ],
     "score": 9,
     "motivos": [
