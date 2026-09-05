@@ -1,9 +1,36 @@
 [
   {
-    "titulo": "Ibovespa tem o maior ganho semanal desde janeiro; dólar sobe a R$ 5,12 - Bloomberg Línea Brasil",
-    "resumo": "Ibovespa tem o maior ganho semanal desde janeiro; dólar sobe a R$ 5,12 Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjJVV1JhVDRZS0RsamhDd2JKa1pObGZ2VmgxWXNYcExxTkRWRDJCeF9YR3J2SzFUUk5VMzFrT1AxX2piRkEtbmpCZjQtbTd5S1R4SXFvTmoyZVpPVDJuUWU4SXNTaDFvRlRiQ1RjazB4Sm1OaGZ2LXRaRWVUU1A5XzBhRktRTlJULUpndWJkaER0WWtESFFaRTBxckI4WjgtSGxEcTlxcGc3QnRYX09ZdtIBxAFBVV95cUxQU3h1eTNpMjc0RXcwNmFrWS1NblZqakIxN1R6R3dpNzdrdFI1a1VNX3J1eFlXNUJMSlZLeUhHTVlEV0NqSDJ4V3hvdVh3OTVXY3V2aVVIa010MFZmekhfdXlOR3ZaRjFEZmExY1pCd2h6UEY1STcxcWlmOUZ4enJkYXUxMTgzTmpMUm9ZeVYxWDY0Vm9uUU1vTUxVMFZxS2djdDR3NmJCVnZWZktOWHpHTFhJUVpEMXZ6b0JKLVd4bkxGWXVh?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Ibovespa fecha estável com apoio de bancos e Vale, mas tem maior alta semanal desde janeiro - Valor Econômico",
+    "resumo": "Ibovespa fecha estável com apoio de bancos e Vale, mas tem maior alta semanal desde janeiro Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNEJfRFJCcmQzak5UMlBVQ1hNbkdfdHJfdkkzZGM1ZzgtRGVSVzhBWWd5VDVZNzZkc0hZd01iYjVPRmJIaWpaaU5PM2xlSEJtRU1LNDBqUEZQZWtSYkFGMHRRUHJhdGRPWHA3ZlVxMm56SUMzVlRqcmZYUDAwUmkwalVWOWZRLVJIakpPQUpVSTRzeTN2cGRjSktVeVJoU042WmxYMDhSZk5EbFl0aElwX2gxUGV5TmxqUGd0bTlBa1dpR3otMHZ1VUhzNWs0Q1RpcjNCU25hR25ab3o0dldBa1RQSDJoV0VFRFZPSDVFUmjSAfABQVVfeXFMTTRCX0RSQnJkM2pOVDJQVUNYTW5HX3RyX3ZJM2RjNWc4LURlUlc4QVlneVQ1WTc2ZHNIWXdNYmI1T0ZiSGlqWmlOTzNsZUhCbUVNSzQwalBGUGVrUmJBRjB0UVByYXRkT1hwN2ZVcTJueklDM1ZUanJmWFAwMFJpMGpVVjlmUS1SSGpKT0FKVUk0c3kzdnBkY0pLVXlSaFNONlpsWDA4UmZORGxZdGhJcF9oMVBleU5salBndG05QWtXaUd6LTB2dVVIczVrNENUaXIzQlNuYUduWm96NHZXQWtUUEgyaFdFRURWT0g1RVJo?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "IPCA no Brasil e inflação nos EUA fecham semana marcada por feriados e decisão do BCE - Estadão",
+    "resumo": "IPCA no Brasil e inflação nos EUA fecham semana marcada por feriados e decisão do BCE Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWm5TU0RvOFc0UGFPclY1Y0lSUzJEQmdTSDdrYWkwMWpQa1dSNHNuREZUVGhmUkI0bnlJWFhIR25BUnl6ZVRrZHJFYVotNmotT2xOWTJ3bkl3TGREaTRMT3VRLU0zMzFjN3h1aU9wbTFRUkZoZWNlSlVBWm9kbGdqWnpFUTBMcFNTenhhbXRWY3dwQV9nbVRBSWI0RmFYYjFjVFBXbUR0RWdEMGpsQzFVRXdBTGFjWFJkM0lZdmNVVVRqeTZ4ME1ZbW9zbjRBQlhLV2x2SHdYeE5QNTY5d1JRaENUMDZvWlU?oc=5",
+    "fonte": "Estadão",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Ibovespa sobe mais de 1% e tem 10ª alta seguida, puxado pela Petrobras; dólar cai a R$ 5,15 - G1",
+    "resumo": "Ibovespa sobe mais de 1% e tem 10ª alta seguida, puxado pela Petrobras; dólar cai a R$ 5,15 G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95X01LcHJvQktKZUlITWtqc2hvMkd4ejVCaHN4cWJpZGIyNEtpOUFXZ0dxenpnSVkxdUdWVXg0NllVUVVER3JkV1FJLVl6cTdvYzR6c2dtU2k1YkJiQkk0QjUyT3ZzZFdFVnhwUnRROTh5ckV1WVl3dNIBhwFBVV95cUxPaWY0dGRoVXdveXFQbUpvclJGNXVJTWpyZWhKeHg0OXVDWlAxaEdONmtXODRJWVplbnhwRWktREVxNXh0MWE5WTdIRVB6UDZsSWJMMWNfLVJKU1k0bmN5TDhKUURYLWsxU3Q1UndsZm5ZQkVobldQYWxycFlOclRLNnJLWHdESnc?oc=5",
+    "fonte": "G1",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -13,10 +40,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa Tem 2ª Melhor Semana do Ano; Dólar Sobe - Forbes Brasil",
-    "resumo": "Ibovespa Tem 2ª Melhor Semana do Ano; Dólar Sobe Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHNqbExMWHdqZ0ZHaDlTTFA0eXIwT1ZtTXJDMnFNbXRrdFh2eVh5X0Eyd1lzQ3VOVzVhMmpFX2FvS01ZVGN2T29MeFJXUk1McFpuS2VYVVczX2IwNUFBeF8xaURiVFo5NENURTdHN251ZUNPU3F4VUpUQ2JnUDJ6djZKc3dLLUY4V2xzSHVDTFgxLTNoSkE?oc=5",
-    "fonte": "Forbes Brasil",
+    "titulo": "Ibovespa dispara 3% e dólar cai a R$ 5,10 com pesquisa Quaest no radar - G1",
+    "resumo": "Ibovespa dispara 3% e dólar cai a R$ 5,10 com pesquisa Quaest no radar G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JRlFpT0RCQ1pFWDdJaWdxcEtYblIzS1Nkck5ud3I5MG15ZEN0M3Fzajg5cFNxSzVGM1JxOWdIeG91WG9sMG1xc1dqcmdFSGw0eEx0bmRhbzVzRDdoMTE3OVhhUzI5QTItUDZadVVJMEN2UnpyX2UzR9IBhwFBVV95cUxOU240empzZHZYMF9MWGZGc0RQNVQ3V1hnVjBrc0lJbFVDT3ZoOTdiNmVTQnY2Vm56S2lZbEdHbnhnbDV2akVNdHZ5SkxTc2M0VkRRVFFTd1lWWmxhSkxINDYyT1dPU0hVUUEzY2tBVXJBY0VHeEJId2xCaHdTWlhvWTBUUzFTWVE?oc=5",
+    "fonte": "G1",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -26,161 +53,141 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Wall Street fecha em queda após payroll e apostas de alta nos juros pelo Fed - Money Times",
-    "resumo": "Wall Street fecha em queda após payroll e apostas de alta nos juros pelo Fed Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkZjIzbXZFVEtCMUdRYlplMkhCVF9hX1pnVkdyYXI4dDJPTTJhdm1zZUoxOUc4enlqZThJWXJ3bUNKOU00STFLLWQ5Wk5yMkJqenV0am1EM3R2cDFaVWs0bkx2ZUZPc2M?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic - Estadão",
+    "resumo": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORG92ZWMwczVYSkFBU2Y3WFAtQzNUTGpZUnlFZUNPQzltZ1I5Yi1abkE1WWZ3OHJra05rakVtS2Y5dmFfalRscXFvZC1MYkRsZXprTENnSTNxc2ZaV2hpNFhsMEdFSHprU0FIQUgxY1NwM21EcnhyRFNWajRJOTNEcHJWVEFlc0lFbkhUcHIyZEl0dTFNQklCWWQ5SDJLUnV4eUlGNXpGSTc1Z0V5NGRlRG9raVZ3MGYyWHJuQ19yLWxLb1h5WEJ5TnpJYTJQSm5HNG9QMmtlUW92Q0ZQRGM1X3NvNzUtOTlHY0HSAe8BQVVfeXFMUFU1aW1GelFCZ3g4Um90ZTFKTjFCYW9IbEhLU0RxMUFKM2huMU8zeFJHdW1ZUUlsaFU4eEV6SFRCRkpKUFhzUUVzVWtQYlQ1a3NEMUR5OFVCM3l5YW9MVml0WmRzS1JhQllmWll5UnlmZ1RiTGpYX2xDajBjM2s3Q2FWVlEtX2kzQ29wMWJRaG9oNXBrMVVtMU1IdHVDQ3MzVUxRX0Q3eTJOb0gwT01QTXJ5Nm1Ya1dnZGJ1MmNReVlVVGdHbno5WXZlRWxLbUx1RFoxQTg3MTB5M2MwTG81QUdva0dXczNDZ0pqYlFNdHM?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Relatório de empregos EUA impulsiona queda de bolsas - ISTOÉ DINHEIRO",
+    "resumo": "Relatório de empregos EUA impulsiona queda de bolsas ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HSFBvX21Od3c2VXJnaTdxT2xIc1JOcDRmNFZ1S3RrYURab0lVQWVxS0JPTGV1UG5iaFBSRkFIbTRGYkg2RFBRSFlLT1U1dENTTXNBUXAzN2FnWWg0X29ZclAxeWFOUzlwelp6eHFSUFhXa19ZeFhqRlZaNDNxUQ?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
     ],
-    "impacto": "Alto",
+    "impacto": "Médio",
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Futuros de Nasdaq e S&P 500 sobem antes de novo relatório de empregos nos EUA - Money Now News",
-    "resumo": "Futuros de Nasdaq e S&P 500 sobem antes de novo relatório de empregos nos EUA Money Now News",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1JuUHhDUGc0Rk1aUWpaYzl4bkJjcjZILWhMZTd0N0l2Sk13Wlh0TlFGbmNsQUxqc2NYWjZqTFFwLU1jU0hjckJkUkVTbURTaFdab1N5OXhtemt2RjlTOURHd1M0UmNnOUFFc2toU09RQmFyXzNWb2taZS1MSFNqQjhSMUhza25PMHpPcGhPMm5MSGJpbTQ4bE5YMjA0ZjRzcHQ5c2lZMzV0SmdSb2NvR21FeGY?oc=5",
-    "fonte": "Money Now News",
+    "titulo": "S&P 500 e Dow Jones caem após dados de emprego alimentarem apostas em alta de juros - Terra",
+    "resumo": "S&P 500 e Dow Jones caem após dados de emprego alimentarem apostas em alta de juros Terra",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMTZiNUU3Nk5DWWFKOVhfZjlwMHRlejNSRlJ0SXRDME5oZ3FvY1FpYmxJYUlzN2J4U0lRRW9SZUJHZzY2RVktWUNteENPa082bGRKY2FteTk3TG5OYnQwUmwySmFiN3RCOU9RUnRfMnU0ZDdwbTVGQV80di0walBGTzRuSm5JbURiVXplY1h1VGNMYkF1QkRyYXZGX1lUYUpPT3JESXFabmhDaFY1RktUZ3FSY3dXZkdRRlZCOVJneEhHSm54RUFWSnd1MkpOaVU3cTlfREJEXzVRTU4td0tNa0pneHFZd3hlS3BrbkxKdndJeERO?oc=5",
+    "fonte": "Terra",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
     ],
-    "impacto": "Alto",
+    "impacto": "Médio",
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Bolsas de NY fecham em queda após payroll forte reforçar previsão de aumento de juros pelo Fed - Jornal de Brasília",
-    "resumo": "Bolsas de NY fecham em queda após payroll forte reforçar previsão de aumento de juros pelo Fed Jornal de Brasília",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNEZLWnRMRXFkZTl0UmlsUU5ZSUlEbWp3dXc3ZHNlSlVubWtFaEp3Y0NGTWZlSUZMdEJ1VGdGMWh0dXpXZF9ORTVPS09aV1owcDNzSHlnZ1oxN0Y4YzNORTc5ckUxQ0pmYzFZWUFEQjJfYlJTcnpURWZ5aGpYVk81bDFydUxxQWs5UDktTkhNVGZDNF92N1h2cV84WnNYUXh5M29oS3RkRm50SFJpQU9fRDlSS0NpUXpnS0hPbTY4WlIzZkZNVXB6dGRQaWtyd2U0R0R5cjYwTE4yZw?oc=5",
-    "fonte": "Jornal de Brasília",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "titulo": "Juiz dos EUA nega pedido da xAI de Elon Musk e mantém lei de Minnesota que proíbe ‘nudes’ criados por IA - Valor Econômico",
+    "resumo": "Juiz dos EUA nega pedido da xAI de Elon Musk e mantém lei de Minnesota que proíbe ‘nudes’ criados por IA Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM2RHRVR4TXZFeW5ydGdVRmFJMml6dmZkcndoaF9oZDBhN2wwR3pqa0d2T3V4SjdTWF92elV2cUlZVUw3SzlWVVE2aDRqTlVzR3M4UndEa1NDdkNxNTVQc2F5X19IZ2Q2eE54UWZQMU1uMjBrY0RkNFJ2Q0RHSXJKZmJmOU11eElIYmRxZHM3Mi16a1RicUtxdGl4RU9SLUp2LXZhOUN3WklrMmlVLWRpRGFZck4tak52cTlxVjRaR3N6Wnh5NUg2RHpwMlo5QTJ0UHd6ZGxqbFZzTDZNUk9kSVlyRE5kbHZKbVpsZWFUd9IB_gFBVV95cUxQUzJVNzF2Si1paXMxVnhNMDhjSzVNYWxMMXpHWE43LWFENzVHQUhEV1o2REFOUXdWZWZVUkd5aDZhODBJdGZxUVhwRm5sZ0JDSHVCQjBCQnVTLV9pT2w4am5mb0sxUUFfN3RwS1dqakNqUjJVTFRQVld2QndMOC1QTm1CNXFhaVgtbnVBRXBDV0U1SjNldjBCRkx2TDBrbkpFMzQ2N3g4MHU2LVlJSnpsZmRja3J4bFdnZ0FHNVdCQVIyRTBhYUZZR0lTblR5U1VZdWVhb3NfWTRFOGlfSVZ4UzBBdl9DY2xwaV9zZnFTNUlmVXBYRXpUaTFYeEdPQQ?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
-      "WRLD11"
+      "WRLD11",
+      "SPCX34",
+      "KNCR11"
     ],
-    "impacto": "Alto",
-    "explicacao": "pode afetar exposição global e dólar"
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
   },
   {
-    "titulo": "Evercore: SpaceX se prepara para primeiro voo orbital do Starship e enfrenta crise de energia - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Evercore: SpaceX se prepara para primeiro voo orbital do Starship e enfrenta crise de energia Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRUdQc2dnbUJuR1FVUWdGMDVsZ3p6TlJjaHJKYk9XV0tfVDRDTTFoR1ZLdmFEQU1CQ0N0RXdCR1FRYzJXX0RzblByN1gzX004eDJ1SHFUd1NPN2tJY3dKYjhBZmJya0ZFLTR6eVBYRmcwQkozNWtCYzN0TUxYMUNsakExNklnUW5WMW1ndFAzODZQWjNhUDBSQUpyQmVCZXBsQnJpN1FuR2ppRG1raWJyTGM4UWxiYTRGVnBXZVMyVWxUWUl5cXBfLWs3WF9DQ0k5ZHdXNEd5ckttWW5fSXUzQUxKMVN3Ymlq?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "titulo": "Tesla Cybercab chega às ruas, mas detalhe proibido já ameaça a criação de Elon Musk - R7 Entretenimento",
+    "resumo": "Tesla Cybercab chega às ruas, mas detalhe proibido já ameaça a criação de Elon Musk R7 Entretenimento",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRThTZjZrMWJOOGZnNDhIbGh0VFlIYko0UnNSSUc2Z0lRYXN3UThUeS13aE1tbXV4a01ZT05zUzFJbmlvY2tJdktQeWl6NGdtZEE2Z0l4YnIzMnRBZF90TW9CSjVCeVVhZFBaYVNNWm02NXNFNnJXeUp0ZmNFY1VFU05odFI2TzBqek5WZngwbEhFcFJ2c0tfRVN3MjRRX0t5anNWZzJzWElFXy1RY1F2N3ZVUkhKRFlEMDRBMGV1RzFsaDVOUk9lWm9XX0pHM19sOUlGMURTdw?oc=5",
+    "fonte": "R7 Entretenimento",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34",
       "KNCR11"
     ],
-    "impacto": "Alto",
+    "impacto": "Médio",
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
   },
   {
-    "titulo": "Ibovespa carimba melhor semana do ano desde o pico histórico de janeiro - Valor Investe",
-    "resumo": "Ibovespa carimba melhor semana do ano desde o pico histórico de janeiro Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMHBYNGJLcU0zOWpaRE1vY0ljUzhhS3N6RUNYeGwwMkNMejJQOVROTVpsOGJjakxqdjZwODN3ajdfOGVuY2x3d0g3ZnN2ajc5c0pvb1JyYndHUHBxX1RUNndsQmlUZFRtQnZOTnhqT0djU0pWUjBWcDRaT0gwQWlIZWplQUJRTkVoZnhfSDBtTDl5WDAzOWxWVlc5WU1Mc1pfeVIya095S1hnbzJKNS1KNFJRX2dwOTFDcTk3MV9NR0hLcWhkNFBYRUxmQTRqc3NxeVZDakRZT2RrZUhwWWNUVnkteUpLcU1ZMHc0U2F5MURJN1V4SVBTSE5qbmzSAYsCQVVfeXFMTjVkTVctbzc5NEF1ZS1tVmR6aEpFMUh5ZXR3SnBWbUluM0J2dnA0NEo5ajdrb2x4RHRSTm9nY2xyYzJvaXJ4bmhjZUk1YWR0X2Jid2pBVmhOc3NSdmZHNF9yRGtRNTFlWFJtZVN4MjVrWC1kcExEVVBiSUFsXzJ4eVBMdGpIYk5oT2tiYW5XOGNQckRRX185ejR3TU5DazViY0gtblltLUlSay1RUm9jcE4zN01wN0xWNVRrRUZpMzVDRWpoaFh1TW5yWEhLSHJOckRjaHVXT05pVWJhM2VsQ3BLWDhsZFhsQzBlVGdxRGRrM081b3VNcTRvd0V1WjlibnVzZEFQdDNzWkZ3?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Justiça dos EUA mantém lei contra deepfakes de nudez e derrota Musk - Correio Braziliense",
+    "resumo": "Justiça dos EUA mantém lei contra deepfakes de nudez e derrota Musk Correio Braziliense",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3dOVlI1MDNVaDJyWThjRTNsYTktOEVDVVpzZEhabE5weG1LY3U4WmJyTk5YazlOMXY2cTNCb1pVOVFzWW4yT2hCMHFDT21oZFNwOVBqQlJsWlE0NjhQV3Juc3NMV2JGQjRCVEdIMjU1bDJKc19wbllLeHYtNFJ5YjVoN1c5V0taLTFnX05pU2ZGMUVTTDlkN19wQlUtUnZzbHRMRnBBalFKNGdIaWNrYzNYZDBwRE5ocXNIY05iQllPSmIyWEZlY2JhaHHSAdIBQVVfeXFMTkJ6QlVmRzhXcTk4NzVqYmVMTzlIU19PWlJGZzlCcDNsNk8zajRXd3BaNkNjTC1EdFA0dDRWY2tfU1NEQXdyNzIwaVdLMzhIam11QTBONVE4NEYzNWdSSXhRZ0E2dk1LTm8tZEMwNWlBZF9hMlhPTnEyb2hSRUtHMjlUaEt0clpxb01LTjRSVzRSMTliaGpKRm9qZHRuTXhUdmF2eGpfenV0VWNRMWRyUGZoUGMxeGVReUdWVVk0TWdmNjZteEFTQVY3Vm9UTXVUS1F3?oc=5",
+    "fonte": "Correio Braziliense",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "WRLD11",
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Banco Central viola Constituição e gera inflação com títulos públicos - Consultor Jurídico",
+    "resumo": "Banco Central viola Constituição e gera inflação com títulos públicos Consultor Jurídico",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnNRSkRWdnhXTFFBRjBuUkktZFFkX19DYjZ5U054d0Z6U042Qlc5ZkdlX19wUHhRbFdXOGRHUE9kSjIzanBJV3ZvWlZiV0wtSWxVTHlTNFFIQ0lreU8tblE4NHhoR3B2cGN3bExBcVdjWlgtdENlZmlYcE1DWllXQktVSWctdXVHbjV2VGZoSFc?oc=5",
+    "fonte": "Consultor Jurídico",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "ELEIÇÕES 2026 | Questionado sobre o trabalho do presidente do Banco Central, Gabriel Galípolo, Boulos disse: “É decepcionante”, avaliou. Para Boulos, a taxa de juros no Brasil, hoje em 14% ao ano, cai em “ritmo de tartaruga”, prejudicando o crescimento - instagram.com",
+    "resumo": "ELEIÇÕES 2026 | Questionado sobre o trabalho do presidente do Banco Central, Gabriel Galípolo, Boulos disse: “É decepcionante”, avaliou. Para Boulos, a taxa de juros no Brasil, hoje em 14% ao ano, cai em “ritmo de tartaruga”, prejudicando o crescimento instagram.com",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85dU9teHRRVngwT0Fqa3hTRE5PWjZLNzNQbTJBOGtrZVJ1cnpsb2pCcHIwZi1XNllkaEFMdEZNQnNmX2QtTWtGY2lpU2hpV2l5ZDF2Z3Rn?oc=5",
+    "fonte": "instagram.com",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Risco fiscal está no foco do \"trade eleitoral\", diz especialista - CNN Brasil",
+    "resumo": "Risco fiscal está no foco do \"trade eleitoral\", diz especialista CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVRQajFtTXJ5c245M0tKOURTMVFlVEVZak45bWVTa0MyQlotczlmNWV6VXZET05DcFJfTkp0SlotT1pFQk8wdnNsam82MDRDTVhJM2NXQWRhTGdDcVhsckRNcWQwUWdpVHFLdHR4WHZacEQ1bnFOMGpDWWJjalVKUnduLXhaOHItaGtvQUJ5ODZWNTZmbEJnTXlKLWI0Sl9CQkV0VEVjUTJKZlpneEU2MWY3ZnQ?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11"
     ],
-    "impacto": "Médio",
+    "impacto": "Baixo",
     "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Ibovespa segura pressão do payroll e fecha semana com alta de 5,40% - suno.com.br",
-    "resumo": "Ibovespa segura pressão do payroll e fecha semana com alta de 5,40% suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yTEVMRzY0MF9QZkQzR0R4Wi13OW5vVDI2bFRJdWVqbHUyUHFBbEZIT1piZGdCQXVNUkVFY0FVdmxHNFpzYjRjWnNQSk56b1BlRGsyTklZc01EUTNSMU9Tb0t3dlprX2I1bHotNERPYXZvQVBSN21zZkszSVJkR3fSAYQBQVVfeXFMTVEwbFpLaGllaFh3X1NvTVkzUEJPenNha3VnbU5Ia3p1MlFDb21ZQjFlTExQZXIzVGJJYl9aUEhXQ3Q5ZEZwRkh5MFhzYU90NlFEVnRPMUN2ZC1lVlJyQXJPdG85enVVQmVKdVlRR3dlQy1GakJNMzM5c2dFZUdMYlF3X21R?oc=5",
-    "fonte": "suno.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "titulo": "O grande risco da SpaceX: não há como substituir Elon Musk - CNN Brasil",
+    "resumo": "O grande risco da SpaceX: não há como substituir Elon Musk CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGptZjFPRjlWaVk0N1Jyd1B5WG4yems1SDVwSl83cE9jcWRRY19fMHk5UmQxRHVvVnhlcGRPQy1rZ3o3cnJlWVRicWg4ajFrWHNQUGdwVnNKZmx0NDQ0UEpPcWRzYkYtck5uNXNPRWhKVUlmemhrVGwyTE1hUkN1SU9UVHoyMkhzZ3V6OS1WX0cyd3Z5TThxSmZCQ2pRYm1sSWlNMTA1UXdNcTRrcjIzSw?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
-      "IBOB11"
+      "SPCX34"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Ibovespa fecha em queda, mas acumula alta na semana marcada por payroll nos EUA e cenário político no Brasil - ADVFN",
-    "resumo": "Ibovespa fecha em queda, mas acumula alta na semana marcada por payroll nos EUA e cenário político no Brasil ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUGtSMVo3MTI0eFgyaHloeHhlT0JGSTR1SlV0ckp3T0x5X1hmQ3dXYXZuOUlTRDYwLVBOVnFmQzB1bkhXT3Z6cEcwR0VsTkQ5eXJQTHRzVzlMcmxfWmFQMncyV0x0SGo5TGFHSkluZEh0UGpzOXZod3dPVVV6ZWVQVE5qMF9VbERiSDhWSHpwSWV5MU9VbTZEMjZPYS1TN2dKV3E2dER6aDJuenNKdGpBX0l2VzFYbGdDV0Zadl9JNmdLbWh2a0dib2pFa2NuRUl5aUFVYWRYdFk1V1k?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "titulo": "Elon Musk barra na Justiça uso do nome Twitter em nova rede social; entenda o embate - canaltech.com.br",
+    "resumo": "Elon Musk barra na Justiça uso do nome Twitter em nova rede social; entenda o embate canaltech.com.br",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQVJ0U0IxYzNCOE94bzRuRHJvbl9LN1lPNU0zRmltWUtfT0Fhb2VlOFhLRUhWRTRVMU1yWjd6dGhsNmFTeU1MRklXNUhVamVVcWIwb2N2SVRFWXRfTlRuMlBHT05LTUhMM2FnZ21YUXRqR3UzdkgwdG84ZWlKUU80aTFBaDAyTm84TUowalpPWGpnV1RNUUJYbzdJb0c0d0JmWVdDMjF4SEdvUm1WbGljMWpyUWFqSkhOVTJUNHVERFY0cmpyd2t3bUVueXVUaEE?oc=5",
+    "fonte": "canaltech.com.br",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
-      "IBOB11",
-      "WRLD11"
+      "SPCX34"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Ibovespa fecha perto da estabilidade em semana volátil devido a cenário político - veja.abril.com.br",
-    "resumo": "Ibovespa fecha perto da estabilidade em semana volátil devido a cenário político veja.abril.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOUVqNUo1eXplNHlnZkF1QS01cnQwQVc1TF9RYzNZaDdGMGtBbG5qLVl1aGthOTVHcmhkcC03U241eDNzWGlzWmJtZ0tzOWthcTI2SDZkQVNDSXYzVEZ2Y3MybnN5MW96NW1qOHpERkF2bWhjcmxMM3JjaUVtbzFYd0w0YTJOcTFSX2lJTGotdnBlempYSEQyakxoNDdHU19peVdCRmhYQmpPbVg1Z3hDUFBNRy1odnc?oc=5",
-    "fonte": "veja.abril.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Minerva dispara 4% e lidera ganhos do Ibovespa; veja maiores altas e baixas - Estadão",
-    "resumo": "Minerva dispara 4% e lidera ganhos do Ibovespa; veja maiores altas e baixas Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRabmQ0WndmSHVSOEdDU0pyX3E5TFRZcm9ILTNsU2g5eTJnU19qWWphUFFBOWtiREJjNWNlVnIxdTBmaVNrNE9yUWxtYjlnTDJNRGFBMEhYbDZzWmZYNVJraHNjbUM4UWZWanYtVTRsa0Z6ZGtLcXdTNW5XRnF4LXFlNGZxbDFlYzAwYzFfdjVhRDdkd2dOaW03c3dQejFrVTF5MzFTZ1hzYXNtRVNBanhXc2lvd1UteVlzc2tLMTNENWViZzNqcFhmZEQwc0MwR3VCQ2hrOA?oc=5",
-    "fonte": "Estadão",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Ibovespa sobe e bate os 186 mil com eleição no radar, mesmo após payroll - infomoney.com.br",
-    "resumo": "Ibovespa sobe e bate os 186 mil com eleição no radar, mesmo após payroll infomoney.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDd4eFgxYnhnVl91QlhmSUxJZ2cxUURPcGhQVmt2bEEtUFRGRHNzWllpZHZPaTRraG1TZkQ5U25UMDA4Q25MbWRfMGNtMkRkc043OHM0SmFuSVRvcktnS3BQNGgwTFdvOTA5ekc4N25qOVNJMWhmQmtKbllXOUNWQlR30gGHAUFVX3lxTE9KWnhmeU90X0ZqU3U1bHlxbF9DS2ZHZlp6S0ZOX09RWmgyX1ZjNS1VTmlwa05EVGdfaGpZVnRQRElGUGx4ZlNXNjJBbmFZcGQ3UWpVRmNHSmF1YVV0OF9ndmZRRnFTaUs4X25kOVl4RG84VThKYkNNZ0J1RzJsQVJtZC04Vl9Edw?oc=5",
-    "fonte": "infomoney.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "S&P 500: caro, mas mais caro ainda é não ter - interinvest.inter.co",
-    "resumo": "S&P 500: caro, mas mais caro ainda é não ter interinvest.inter.co",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtnQWZ4YlAtcTh3MHgyTjZLbUszVjJla0l2X0w4dF9lWUlVRHFpb2JCVkVHQ1JrLThncEZtd1g2Uk5iOHBZUDREX3hyTE1IdUxRUlpkakI4WGRhYU1qc2RwcmhWbFZ0czJ0TV9PSV9EeGJkQnRCTXRXdkdySXhXMW9acURPaUJHZjFpWWF0bDVXTk9wOHprNXRSMXU1ME9u?oc=5",
-    "fonte": "interinvest.inter.co",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "S&P 500 e Dow Jones caem após payroll alimentar apostas alta de juros - infomoney.com.br",
-    "resumo": "S&P 500 e Dow Jones caem após payroll alimentar apostas alta de juros infomoney.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTZySTVONGg0TGZWR29DRXVjTThrZzFnZEs0Z0NVQVg1bWdmM0tYTmhWRDNlWjRUV0VEdjlCSG5yYTBmOEZuTTRfOFhmblB5XzNpNnNXSW8xMG9vRHhDV3VCcFhCazdZTFZ3ZTdlX3ppWG1HQTFidHU1cTRyVnRjeTJBUW1qNXcxYlFPYUFqUjlxS3JsNENsOHFlY0UzUHFWcE5Pb2tHaVFpT1nSAbABQVVfeXFMUENrR1djUG5yNUxSUmFqZzFvOTBIWFBvejhxbW8yTzZ2VThxQXMwVnFXSzlqeEswenNBWW9fRjVBRjhiUThIcFo2VmlOWTVNUHA4bGp6Rm9qM2d3SXA1eUs0N0pmWGoyek01d2l4LTJHd0VzaTlvYTVsWGlHLWN4NHdVMnl1ZzR6bXlrTXFKMEgyWUZLb0Q4V3kweHlsdjhYN3RLMVBNT011eTRqNGcyLVc?oc=5",
-    "fonte": "infomoney.com.br",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Bloom Energy, Illumina e Everpure vão integrar o S&P 500 no rebalanceamento trimestral - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Bloom Energy, Illumina e Everpure vão integrar o S&P 500 no rebalanceamento trimestral Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQnpBZUVmQ2RBODdjRjBESGxwOGVuVy1oU2ZqRnIyM0VlUmRueHNjazdDMG5VSUtnTHZPU1lKaHN1LUhOczdtUWpkZFlBMU1jSU94XzFkdE9CZ04tUXcxMkVpZkRIa1pYbTZPWWthOFJYb2tBNUV1RTdYRGF0aFZqZzdIUFFZRGdacER3Rm1nd0ZyV0JVUXF1bjBDWVRKeWdVakJNM3EwdDRYcnlOeWQ1UF8xaTZmQkxRYjF6YXlHTUp1QTZjd0Y1bEMwbFBrZE1SeFBESVFvaw?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   }
 ]
