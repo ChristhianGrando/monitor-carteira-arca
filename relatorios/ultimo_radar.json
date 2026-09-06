@@ -1,45 +1,86 @@
 [
   {
-    "titulo": "Banco Central acende alerta com FIDCs e preocupa investidores; entenda o risco - Investidor10",
-    "resumo": "Banco Central acende alerta com FIDCs e preocupa investidores; entenda o risco Investidor10",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaElmUE8yWHQ0aEp6TmVlZ2RudE1Db1FIR3F0SWlyQTYwQkxJdGQ0cEctd3AwNVJDSVB2bVhKb24yZFA5dEI1UHUzSkNZaFk2eWZTMUpLLVBicXBiY2h5Yjl2amd0cG5CNUdUem9Ib3lWOUpBVTRwTU5KVVpacUstUFA3OHBKWnJiVDV2eWpNMTQxNjVscnpCMmlpNmF0TThxeWpYM2tUNVZZUGNKRk5nZHctTlpUdkdEcC00UFphc9IBxAFBVV95cUxPcFJXQ1hWZTVoY183QmFOUjNMRjZrU1g5dm12NTNsRll4Ym81Tk52YVNnTlo1SXJMbmc3akd4dWtKMGEyZ2d2aVVxYWExSEpTc25yaHQ1RXpmc1FtdUEzYTl0Y25qbV9iQVByT2hDZjVtY05uNllHU0NENF9FblNMVjBkZWRQM3dReHJHaWJXaEo2WHFYQkx3SEVPLVdTMjExSU9lcHNHUzg5alFDeGQ5b1VZd1hnZnRPOGgtcXJDdVdCSWVy?oc=5",
-    "fonte": "Investidor10",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4ff16389000cd6805a3a2d3bd3f3988e5be45eee32efaccb145382bc12f427a8",
+    "titulo": "Fundos imobiliários: mês de agosto ruim não é sinal de crise, mas sim de oportunidade, aponta analista; entenda - Kinvo",
+    "resumo": "Fundos imobiliários: mês de agosto ruim não é sinal de crise, mas sim de oportunidade, aponta analista; entenda Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWmFjaWZnY3ozRDhOVTVTcnZUNmphaFdhbnQ4VGozaV82eW5RR2hfdHRCWEJPLUttOWdrMWxzeTZPblRDeWdrMFRUY3F3VFlWVlB4S3ltOFltTGl5M05zamhVNEk5VGJyOXY4Y2Zfa05OYmhEYzVGTkNDVDVlQUxHczZSTS1PV1BGb2xhcEZpQ3ZwT3FWYnJ3amszYmtOcUJrR3FXLVowWnNvbmNCQThYQ0VoTDI3bkxxNUo3cTlNOVVBRm5abDdQS2Rwc0Rnc1N1RkE?oc=5",
+    "fonte": "Kinvo",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "68873a984dabf8107e1eca8c85baa2c24532b5b5b5332749d7711f3db7d85124",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Fundos imobiliários: mês de agosto ruim não é sinal de crise, mas sim de oportunidade, aponta analista; entenda - Money Times",
+    "resumo": "Fundos imobiliários: mês de agosto ruim não é sinal de crise, mas sim de oportunidade, aponta analista; entenda Money Times",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV1dvZGhrNFdYTGc0ZFRQOE0zdVVWc1NKUXkzM3BOYS0wVGlaT3lsVmktWmpMcXNfdWxxb3VTNnNNaVQweWdnT0ZubVdKdUVIUWxZTTFqUTZKdnJGRG5iNHY2MWs3ZmFya2NGNGJDSXYxNER5OEtENFNrWHdKQmItQkR3Vk45OG94VFUtdVU0bXZMZ2JZaHAyQy03MHUtdTJkeWpYcHI5M3lkS0tXX2o1eklCX296Ymlkdk1xTlBnM2xNa2F5cVYxMER4TVNrZllRcldWSXVtbEJ2c3lHNlJkU01R?oc=5",
+    "fonte": "Money Times",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "3d3918410b6735492f2fe655f2b7cce51b58ef50e13232d98c80e3744b2f76b3",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa sobe mais de 1% e tem 10ª alta seguida, puxado pela Petrobras; dólar cai a R$ 5,15 - g1.globo.com",
+    "resumo": "Ibovespa sobe mais de 1% e tem 10ª alta seguida, puxado pela Petrobras; dólar cai a R$ 5,15 g1.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95X01LcHJvQktKZUlITWtqc2hvMkd4ejVCaHN4cWJpZGIyNEtpOUFXZ0dxenpnSVkxdUdWVXg0NllVUVVER3JkV1FJLVl6cTdvYzR6c2dtU2k1YkJiQkk0QjUyT3ZzZFdFVnhwUnRROTh5ckV1WVl3dNIBhwFBVV95cUxPaWY0dGRoVXdveXFQbUpvclJGNXVJTWpyZWhKeHg0OXVDWlAxaEdONmtXODRJWVplbnhwRWktREVxNXh0MWE5WTdIRVB6UDZsSWJMMWNfLVJKU1k0bmN5TDhKUURYLWsxU3Q1UndsZm5ZQkVobldQYWxycFlOclRLNnJLWHdESnc?oc=5",
+    "fonte": "g1.globo.com",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3e44686846579bbdcc617dcb477bad8ae9bda7cf8c298dff55a28a91a7692a96",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Pressão por corte de juro “ressuscita” mudança na meta de inflação - NeoFeed",
+    "resumo": "Pressão por corte de juro “ressuscita” mudança na meta de inflação NeoFeed",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkpoaTJ0emJwZTRaWnk5SmY2NTdOekxlRW9VTkNhX3FNQnhaREVtTmhPVTkxcXJ1NE4xNThleWk1V01zdDlBX3V4YlBKRG91MUxBcm5TbVk5M2F5bnE5Nm12b3dyTGJwemxKaks0N3NjT0paOTIxb0tLX3Bpc1ZReFBOUXl0UXdvN3UzRk9md3NsdjhFa296THZXcXQ?oc=5",
+    "fonte": "NeoFeed",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cc167d5b9982610f7c9a23633b1797e0e743ecdcd89fce99fe7b2c7f0fff92c0",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Para conselheiro, Selic em dois dígitos inviabiliza negócios e pune varejo - cnnbrasil.com.br",
-    "resumo": "Para conselheiro, Selic em dois dígitos inviabiliza negócios e pune varejo cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGszSV9FNVM4ZERaXy1qSlFpUXFuVGVDLTFmYlltUTVGMVE4VVJJbE9xS2ZqZS1naVVadlotYUdUaTMtR1pKN3BsalA1OFg5Xy13cFEzYkJLVHh1dDFKNkF6XzNHY2p6TkJkcUctc1BLc2VnbVhRbVdidGJIanlNVE1INUFnOEQ1RkszajYzd1VtbzlXNERENGdrcnl6TmJSTGtLQXBSSzVPcGRjUVBQNW1mN3NKbVJkNlpOUk05QnJ1cGZfTW1NSXZSZF8?oc=5",
-    "fonte": "cnnbrasil.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "cb5569939b0caf8bdda534dc086a97cb8e08bc03a59c8506c0c5b110cb35002c",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -49,24 +90,25 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "O grande risco da SpaceX: não há como substituir Elon Musk - cnnbrasil.com.br",
-    "resumo": "O grande risco da SpaceX: não há como substituir Elon Musk cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGptZjFPRjlWaVk0N1Jyd1B5WG4yems1SDVwSl83cE9jcWRRY19fMHk5UmQxRHVvVnhlcGRPQy1rZ3o3cnJlWVRicWg4ajFrWHNQUGdwVnNKZmx0NDQ0UEpPcWRzYkYtck5uNXNPRWhKVUlmemhrVGwyTE1hUkN1SU9UVHoyMkhzZ3V6OS1WX0cyd3Z5TThxSmZCQ2pRYm1sSWlNMTA1UXdNcTRrcjIzSw?oc=5",
-    "fonte": "cnnbrasil.com.br",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "1d22edef5584f51c7de1be3ee5a8cce6bfe02a90f29526e041476cd17da2489f",
+    "titulo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master - g1.globo.com",
+    "resumo": "Banco Central decreta liquidação de corretoras ligadas a ex-sócio do Banco Master g1.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXhsWFVKMlgwZEFrcXlRdnhJTlRqRU9vOTAtQkJMYWFnMEdCV2R1QTVwUWFhd3NXV3lZTzQ4UzFPZTlFdUwzdk1uN0N2ZXozMmQ1MWlWQndDMkhEdDZ1b2dRU3h4ak9Jdk9uSDlMek0yaUo1Nld1YVE1b3dfNENpLWZ0djJhZmZoWkZpcHdsWE5Bc1JTcHhqetIBpwFBVV95cUxNYndrNE1IQzZ3M2gtNXlwS20tMm5WNG02cE9veHhZeVNha1Q5ZC1nVXlxVW95YlltXzNVRkM4UFhkSC10NXRfaThXcVNSUm1LUkFIYzljSFZjbmtMYktVMGlOYkNxY21MZHJzZWhEaGV3RnRtbWRlMkhMNjBsX0k3NjN5a3hHaTBIS0JnSmVWTlVxYmZsaTNsMVRXQnc4RHctM3BfMzJiQQ?oc=5",
+    "fonte": "g1.globo.com",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "96358e1c7ea6b699c0aff919548651252f7c7452490805f18638b232f36c27b3",
     "ativos": [
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
