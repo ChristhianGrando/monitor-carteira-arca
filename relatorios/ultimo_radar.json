@@ -1,39 +1,38 @@
 [
   {
-    "titulo": "Notícia IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores - Kinvo",
-    "resumo": "Notícia IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjJhOU9QWkRmZ3M4bGNyU09GSWpfVHZwekVJZGNMYUZXVUQtcDFjZV9YUFFIQUJaOWhBTF9Ma3ZkbDlLemVqMTJ5eFFuWkdmOV9oak42SXZsT0hBV093bFdkbmJZQkQ0Y3ZoN21acm5ER0R4YTZ3ZDNaZHpvRnZvTVh0bjZxZVY1UERaWXNhaWJ6dFpod0hYcG0waDZwamg1RWVoT2RwVzJ5bHZzWUgxcTEtVjFkWnBjSnFV?oc=5",
-    "fonte": "Kinvo",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ca5df1ee39f617e76ac2daf7c26a45da9d461dd43c9039a214b58f817728f3a0",
+    "titulo": "O varejo espera a Selic cair — mas o ponto de partida mudou - InfoMoney",
+    "resumo": "O varejo espera a Selic cair — mas o ponto de partida mudou InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JM0dlOWJLRWxGWW1rcG02azd6blFQYm9yS3hiSFlHWHZYdENsRkFESWpYTjBfYXNZZDM2c3ZQd3pUU0I2YzFhM0U5WEFOWHcwUGllNDJyaEYxRGRPR1FwLTluMFd4eEpncGx0QWxBckVHbnF0YXJsVUdBTHXSAYIBQVVfeXFMTWYydHVuTjNhTnRXbGVfZGlldzFqbFljc2ZfY3FMbU9PWFpSYXROZVM2TTd6akxiaHVwUG1jS2dWYmJfekJrRmF1TzViTjJjMkFQTjJaR1liRmIwVUo0QVl1aUoxV1FWbFlObHJtM3ZIbm95Z1paekZncXBXLW5QMVRiUQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "cf84a7f5301225cd67f28c619a35b19f25fe1bfad70f7950de3d5e86a0e09cfe",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 13,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores - Money Times",
-    "resumo": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores Money Times",
+    "titulo": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores - moneytimes.com.br",
+    "resumo": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores moneytimes.com.br",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbC0wX2U1MFhjWUpsMFJQd1hvdm5RRG1BWWNUSnFWb0ZlRS1LbjFiSjhvNmNIeUF6QVpDRG5rbDlPRjY3dTFTeEVaLWpSNTBMUkh1X2JIRUxTY2dRbVlUbEJocjlUcVBJRTdTWTFWQlVtbVYwUE5PNUNoLVhsbWFMVGhzUDFIOU5hd3V0R0M3RkZmV1I2ci11bzNnM29yZ1liTExxV2h0UklKVkxLUFJxM3Rnb004RUNDb3pmYzZfSDVRek9H?oc=5",
-    "fonte": "Money Times",
+    "fonte": "moneytimes.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ef63d14ee9217ff85ae62aa16aa39dad95fe75fb629b18657dc236317ecf5e4b",
+    "chave": "59f438ad63e691f555ed82a27d2a320a04580b24dc0825dbdea2f252d9678814",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -56,21 +55,22 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Musk lança táxi totalmente autônomo, mas estreia já enfrenta investigação - Diário da Guanabara",
-    "resumo": "Musk lança táxi totalmente autônomo, mas estreia já enfrenta investigação Diário da Guanabara",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWRPWkFQWi1EZVdydzBMVWUxUGZfWE1WMGhIWEFFc3lZYVI0eXF3T1FhZXo3amFEQkhpZWdFejJ4ckJrLUctaTI2ZmRadGJJVUtSMU5NRWpoYWdmb2lKVkY3MXZ3SjRmemNDU2FoWlJyaUs2akw0cTNTVmMwLUdNb0J4bXE2YzNTODhwWnZ3VFNzT0VTMGF1QVRoWjNIcVhJbU81RExB?oc=5",
-    "fonte": "Diário da Guanabara",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "f214f66ce58d6d7a7119d88086faaba00296fefe01992242721e66ba8f984c1c",
+    "titulo": "Fundos imobiliários: mês de agosto ruim não é sinal de crise, mas sim de oportunidade, aponta analista; entenda - moneytimes.com.br",
+    "resumo": "Fundos imobiliários: mês de agosto ruim não é sinal de crise, mas sim de oportunidade, aponta analista; entenda moneytimes.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV1dvZGhrNFdYTGc0ZFRQOE0zdVVWc1NKUXkzM3BOYS0wVGlaT3lsVmktWmpMcXNfdWxxb3VTNnNNaVQweWdnT0ZubVdKdUVIUWxZTTFqUTZKdnJGRG5iNHY2MWs3ZmFya2NGNGJDSXYxNER5OEtENFNrWHdKQmItQkR3Vk45OG94VFUtdVU0bXZMZ2JZaHAyQy03MHUtdTJkeWpYcHI5M3lkS0tXX2o1eklCX296Ymlkdk1xTlBnM2xNa2F5cVYxMER4TVNrZllRcldWSXVtbEJ2c3lHNlJkU01R?oc=5",
+    "fonte": "moneytimes.com.br",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "eb1dffb60786d40a8ff1232c4f60bae1eb2b675646ad556b1914c9660e07df01",
     "ativos": [
-      "SPCX34"
+      "KNCR11"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Real Estate / FIIs"
     ],
-    "score": 9,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
