@@ -1,22 +1,18 @@
 [
   {
-    "titulo": "TGAR11 ou Selic a 14%: o que aconteceu nos últimos 12 meses? - - Fiis",
-    "resumo": "TGAR11 ou Selic a 14%: o que aconteceu nos últimos 12 meses? - Fiis",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTE12SmthWFE3Rmt4LW01OUVfRFZaMlFzMWFZR29zemx1ZTlVUlhmdDhBRXNzZldoVFhRSjJTbDI2QkJQc2QtZmQ2cnJzLUlTNUxvTDNPbmhDcmRpbWl6QTkxMDZTTGoxRENpQW5qQW5ldDdlM3pSal9MY3NnLWdUMmh6Ml9tdTRodFRqQU13amo?oc=5",
-    "fonte": "Fiis",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "18fc565be4b2e9cd5612469994d346ab0c845dac24a91458f1a71ebf6ddbc7c3",
+    "titulo": "Grupo pede afastamento de Moraes em manifestação em frente ao Banco Central, em Brasília - G1",
+    "resumo": "Grupo pede afastamento de Moraes em manifestação em frente ao Banco Central, em Brasília G1",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWjNLWHhlcVJHd213aDVCYXFnTk5FMW9vM05CUnBCVDkzMTBTQTBUS2NfNHUyS0JHS3ZybmVITG5NRjV4TjdzZ2ViRy1SdS1xZGVVOWVjZms5dHVYWXlNMmVBdlNlNmZpUzR5aEdoOC0wdlZnSWJyUVpTVnc2dnA0RDRkRU9GTTZwNFRpeWZXUlRvZTR2ZlF5UDYwcXdWblFXd250aDlDeDR6amFOM1FBWnBTU2c3aVJXdkZzYjAyMExCNjRKWWpmQzYtZU4tQ1BwTDVFMS1wRGJ5Nk5DMjFfR0FXU3pFNGtH0gH3AUFVX3lxTFBnbGdBWnNIWjNSN1EzcW1mdmRjS3FzX0lNSkxaUU50QjNiNjhTbWpzRV94bDRXWk5BQkd6QjY3N1ktM2hIeWdHbThPZzY4VDlOS0p2M3BUWVpFNW5TVDdLM2YxVVUwTWpKNHpjZkZzNUtMT1ZjcEF0VXQxSENzUGlkelBQcmE4Ry1jc2xlb3NEejRYa1B6RW84SGFwWlduMVFQQS1LMXBuSFVuMkZCeFlmZ2NTeHl3SDN3SWo3V3pndkZ6dUhpc3hNV01UQTlwRE5FNTRxWnFXWUNIa0dfWHB3bC1hRTd2YndHOUY5WWxITVd2TFBTU1U?oc=5",
+    "fonte": "G1",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d5ff65d037507fd800b6eea84469dae7bf8d4d620359b6b68961e36e18d77ddd",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -26,38 +22,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Quem controla os juros no Brasil: entenda quem decide a Selic - Revista Oeste",
-    "resumo": "Quem controla os juros no Brasil: entenda quem decide a Selic Revista Oeste",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcm0xQnpBQk9iSl9TdzdvQUdEZXdxTmttTURraXJYMTFDSk1Xa2tiZTFpQTgwRVk4MTdRRGEtR3FqVkY2TFQ3Ql93RC15eUM0T2txbjllNmZTN2pKRW94UV9YbUlQX3NaQ1BoRU1XdGE1VmFwTTAtWDUyTkZDOUZDTUtMbE43QzE5TDZad1BQenhtbjVxZ1ZzTGRuNkxmZw?oc=5",
-    "fonte": "Revista Oeste",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5e3ec579691fc0aae2636632c6e354042d926386977209e5e6ff36c4695157e5",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Pressão por corte de juro “ressuscita” mudança na meta de inflação - neofeed.com.br",
-    "resumo": "Pressão por corte de juro “ressuscita” mudança na meta de inflação neofeed.com.br",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkpoaTJ0emJwZTRaWnk5SmY2NTdOekxlRW9VTkNhX3FNQnhaREVtTmhPVTkxcXJ1NE4xNThleWk1V01zdDlBX3V4YlBKRG91MUxBcm5TbVk5M2F5bnE5Nm12b3dyTGJwemxKaks0N3NjT0paOTIxb0tLX3Bpc1ZReFBOUXl0UXdvN3UzRk9md3NsdjhFa296THZXcXQ?oc=5",
-    "fonte": "neofeed.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "957c540d6067e090db429ba8326054f8b1e8506b3cc68e529a31f9fa6a944c06",
+    "titulo": "Ex-presidente do Banco Central revela o que virá após o sucesso do Pix no Brasil - diariodocomercio.com.br",
+    "resumo": "Ex-presidente do Banco Central revela o que virá após o sucesso do Pix no Brasil diariodocomercio.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUVGUVYtaGUyeFM0c21TaFJ3a1JxQTV4QUlyN2FjTFhFNjYwZjJOc1hLNWtpRFUtakh5cmlaVVpsbUw4ZnlJLTRUMXJmb2ZOM0xmdU05Y09sTDFVaDhHRlUtNjVBbkw2SXFwX21sUWlZVnlETU9VdVd2WjYweUdZS201T091ZWdqcVRDdEFvdmEtRVpZSzNkUG13UWlDbzhfNHVJMVQ4eDIwdEcyUmpJMUk2X1VxWEhD?oc=5",
+    "fonte": "diariodocomercio.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7de9e1e67c5fad20525e9dc17f0e07750e52d8b74f20df10469a204793aed0c4",
     "ativos": [
       "CDB 100% CDI"
     ],
