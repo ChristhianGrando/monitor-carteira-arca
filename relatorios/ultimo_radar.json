@@ -1,11 +1,62 @@
 [
   {
-    "titulo": "Top 3 FIIs para investir com o fim da alta da Selic no horizonte - euqueroinvestir.com",
-    "resumo": "Top 3 FIIs para investir com o fim da alta da Selic no horizonte euqueroinvestir.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnNQUFJZZEJhZUE5YndQVUNlMDlpejlSMm1GYXV4cENMVGQ0T3JHZ1hRdUFUdTk2bXVocnBFTmVwandJVk93OU5oSzU4MDNJWXAwbXF2UElmZzYwLVpoX2h4WU5COXdPT2J2d3FiVjRHMHNlTmhVX0ZRNkxuUl9kX05kT2NIU3ZEVEtCcjdqeGJHTndBTVVIYmMtYXBRS1lK?oc=5",
-    "fonte": "euqueroinvestir.com",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "19fded3eb41935f6e95587e85a3e16f9887d91040ac38bb787f3b6cfd7da8c31",
+    "titulo": "IPCA no Brasil e inflação nos EUA se destacam em semana marcada por feriados e decisão do BCE - Estadão",
+    "resumo": "IPCA no Brasil e inflação nos EUA se destacam em semana marcada por feriados e decisão do BCE Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGI5aVJTQzFtcHEzWVJFSHVjNEpjNkluUmtiSDdYRjA1V2RNVEJDa280U3A0MTNTV2taT0tEYVF5cDF5Nk1Gb3lBbGFSaWxqS0ZRZ3NMNUQyS3pqazZnZ0MyQ0VJdW9ra0hrR0plVTZDWVowOGZWTk9lanVhdGRjZnNVbjcyUU82NmhlSzNfOVNNWGN4RWtvU3FiTXEtUFctLV9nZWllWERJTmZLMEFuSmxLellRdXR1ZmVwX3RmMy00RjJLWmp5VWVacVBvMExFdkpnQzRfdWZLczc50gHiAUFVX3lxTE5EUU9sbHhBcGRJV191Sk9LRGd4RWZPZ3k0ajFmTjk0VE1sLUJ1YnE1dWIzcHNmbnFJVGRuTUh5ZXIyQWEyaW4xamt2M3hxV3dPM29QQU9sWXQzZnByVHBwd2tKaTR4aUpyMnR6YzVkUktfRXAwdFRnYnBISGgxXy1IOTZVZzRibTI5WGgyMTBfcHJNV2o4T2RPMF9hbTB2S2NOV256TXZNTzNKZFdPYzJab2kzc0Y1MEVCUjFUNFZKY3lac1JXU3N5NnVCSjNISEZOUTNZZkNPbEE0eWtVbXpwa3c?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cd075628a562e9cb712e3a162c8fa4765410f411180672f2d19f35495dba67ac",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central da China faz maior compra de ouro desde 2023, apesar da alta dos preços - InvestNews",
+    "resumo": "Banco central da China faz maior compra de ouro desde 2023, apesar da alta dos preços InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Od2RBZ0RjZlVndWVjX1h0UkFfcGFESUhmTENJRGtKc01kT29mLWFBU0lPT3pXRmpjQlJ4NzBPUm1qeGxkZDlCWHd6ZHNYcXdxTXpPLWlaSFdxU01FOTdwaUtFWkJYTFVVVV9STXRUa1VqanY3X1dvNmdxRGtoUdIBgwFBVV95cUxQLXRERXpaRkZ2VHhFOVNhS3dvQzJFRlVObloxRXdaZjEwM0J2U05aSkFVc1k4Wi1VME80cEMtWFAxS0xIT1QwamRQaEtyQjdFc0htVkUweHZyeHVya2lRajRnVnJNMm5BU3h3c1NYQU5BblROaE1NWXBFNE93RDhUSXQtdw?oc=5",
+    "fonte": "InvestNews",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "342e6b2e1ec5e13fc789b3073a3abd909483f4485166fdef190df2006d706f95",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Com Selic a 14%, despesas financeiras das empresas saltam 12% no 2º trimestre e somam R$ 99 bilhões - Brasil 247",
+    "resumo": "Com Selic a 14%, despesas financeiras das empresas saltam 12% no 2º trimestre e somam R$ 99 bilhões Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclpabWc2a2N4MzFjNHFMSW9rMUJxY1RjVEFDVThsa2lrdl9mU0VsTHNHSXhIZnhLTmQyN1dIOUdJWlg2LUJBRlJHSmJ4d0h5LXJPQkM2SXZudHNVNUwxaTktaWRNbkNzb1FoMFA5ZzY5M3lFd3A3QjYwbW1uNmdWT3JPd0hRaEdPWUdVSW5kT2RLZElaYTE1RjNmb0JISVE5aWtWNEFTRUpFR21uanpkN1l3NGFMaWxsOHNfRHduMzBLOWo0NzlxMg?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fe6518bc53eb3a9e47fe2dfb62e4c7caa0aed559035b744db29b6f8878e46be5",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,23 +67,22 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 16,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Rede de acordos transforma Nvidia em banco central da inteligência artificial - Folha de S.Paulo",
-    "resumo": "Rede de acordos transforma Nvidia em banco central da inteligência artificial Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTER1VEZRMEFOLXY2NTliWWxlV3NzSC1vMHJldzNXTTd3X3ZkOXNzOVBzMmhhdWZMRTNjRGRuVGgzems5RXlaSnRyb2VzN2JTeFpNWGFtTGY0UFdmWG9GSTJXaU01dm1Ua2NGdXFlVjRBSkZOa3JTTUowcHBpTzZsaG8tVmVTa2FabGw3WE41WEJpUjN1M2w2c2RHRDNLaGhuYXNUYUx0ajNvR0tDR0oyMW5qMXhzeXhvb0kzbV9tVElYSmc?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Ex-presidente do Banco Central revela o que virá após o sucesso do Pix no Brasil - Diário do Comércio",
+    "resumo": "Ex-presidente do Banco Central revela o que virá após o sucesso do Pix no Brasil Diário do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUVGUVYtaGUyeFM0c21TaFJ3a1JxQTV4QUlyN2FjTFhFNjYwZjJOc1hLNWtpRFUtakh5cmlaVVpsbUw4ZnlJLTRUMXJmb2ZOM0xmdU05Y09sTDFVaDhHRlUtNjVBbkw2SXFwX21sUWlZVnlETU9VdVd2WjYweUdZS201T091ZWdqcVRDdEFvdmEtRVpZSzNkUG13UWlDbzhfNHVJMVQ4eDIwdEcyUmpJMUk2X1VxWEhD?oc=5",
+    "fonte": "Diário do Comércio",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "70bb6497ef48c03219aebfc9ae65009b34a92fc2c83d724637d1ab57e072f088",
+    "chave": "94445232442352d942eb3b2184141f0aeacefe89e97d52ff2ed9a29d107562a2",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -46,6 +96,27 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Risco Elon Musk e sucessão ameaçam Tesla e SpaceX - istoedinheiro.com.br",
+    "resumo": "Risco Elon Musk e sucessão ameaçam Tesla e SpaceX istoedinheiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUdJVGxHRXp2ai1waFR3M290R1hfX1U3a3psNTRTbDJ6MDZPeEJ6QVhTZDhlaWt4TFNxOWdoZWJiMHpENjV5QzZDNUVoMWZUX2VWYXlKTjNVV3JVaGNfa1NOdFZaOEp0RXZKOE03b2xpYXQtb0w5cjBWaFI3dE1VQjd4NTFnSlJl?oc=5",
+    "fonte": "istoedinheiro.com.br",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "776b713f2c9e04ab80b075403bdaad2f8a714c598cc2fbd759247fef7513beec",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
