@@ -1,24 +1,20 @@
 [
   {
-    "titulo": "Focus: expectativa para IPCA 2026 cai novamente; confira as previsões para Selic e dólar - Estadão",
-    "resumo": "Focus: expectativa para IPCA 2026 cai novamente; confira as previsões para Selic e dólar Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWkxEWlcyOGxxQk96dmo3VEtDeGl6OWxab1g4NnJOVDNDVER4Q0lOTDJGSWc1WlJkbEZFT1JwYllPRTk5ZVRPenM4ZjBfdGlmUVo2OUhsOVpTekVqSXRjSkJvQ3ZjR1VBd2N3dlRSNmZjM0Z0enlYazB0d1o0MWxHOEladzkzNlhGQm1LT3MxaTdMN3BkVVlxWVVISWt3MmFoQkRQeVFlQ1ptLVUzOU93REJaT0JvbktFNFRNWHRfZElsQ3RibkZ2b1h2V0VJb0N60gHWAUFVX3lxTFBDZ012enBSY2VVTVl4V19PcnFmWVFtVWNkZk0ydDRFV244VGM1ZGdLQktmSTdmLXpSbzRhZk9EMG8xUDBpcHJVWGZwbUtJTXBLd3o0OXBWOExvQ2ZVNy1EZy1ORE02cEhRdXNUVFBGRFBDTmt1WXFtNTR3TVp1aXpIeEtOSjFJZ2hEOGdqc2h4UmM5M1A2RW8wS1EycFRaemdTZC1aY2JwbGJ6dFp4clNMU0dXdW5xV3F2d2hkQlBNRkRORklMaWVuMVd0QVl6V0paY3BleEE?oc=5",
+    "titulo": "Dow Jones hoje cai e petróleo sobe com ataques na Arábia Saudita; inflação dos EUA fica no radar - Estadão",
+    "resumo": "Dow Jones hoje cai e petróleo sobe com ataques na Arábia Saudita; inflação dos EUA fica no radar Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWkpXY1pGbmlGcjhyT1JzajhFSHJBUzNHWGRKcURNcUNOVGdCNC16bkJKWFp2ZnBkTGlaR1VoeGl4Wm9FTmNCVjZ5dFc4Y3pWOU9oU3QtRTV2T0xlNVdlOFc3SUdlamNpaWVHX0tYUVlzdlRYRHBERmhVQjY5a0VUQk1aSzZ0RlM4N21KVDYzU0dlSWZqXzZSWWhKNHNqT3p1OHJQTGg3YWNoS1VyQzlKOE5CNVdYTHFEVGhtU0F3ODQtdmNyTWJqR2lUSHlDNDgzZWdOcEFjZC1XX3k5emU0T1NfWlJuMFE0SkloTzRB0gHzAUFVX3lxTE1xWXRDNVlSdVJqRXMwNkM3TjRvQ3NQMUdsMTZVUDRTT0Z6R054TXViVTlKUWM3Zjl3OURXTEZiNTJmMEY4NXFCU3pXemo5Mk02U2ZudmtlSFNtTGlpWU5rNEwtek14Tm5iQnhncTFsbFpzWDAwNnFwQ09kU2ptRVZyMzdlZmZ4aG9FYlRGUGZ5NFExZTNWR3l3NDJLc3FZcVJ2WE5yR3VwenRpcHU1d1BydGFkNjZaX0RLcUxKSUdWTVd1a2xLNWVHeTdwM2RkYVVnQm83NkJDbFoyLWZYWjh6MEZqMXZtbnpVQk5uYmphRkJBRQ?oc=5",
     "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e8d0fa7b53a74a95096469c38dc087350e0af5ed02ff7bdd915005b7f0d87689",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "8429ad782276808728524a779a51e23a2a26b743c39f0e12c77fe12253b14be8",
     "ativos": [
-      "IBOB11",
       "WRLD11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 16,
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -29,39 +25,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Focus: projeção do IPCA cai pela 2ª semana seguida - TrendsCE",
-    "resumo": "Focus: projeção do IPCA cai pela 2ª semana seguida TrendsCE",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDV0TlR1Y1ctcWNUNHV5cUFlZENFUkJXMnpUMERtMjlTQjZ5aXctSnowRWhKTnNaUVhjcGROckZINlhFbjhsVkFrR0RiZHM2dkdNR2E4b3J1WHdHTEpnbDFxSURXVEZNMlFwRDlGemFxRmxtUzYxZ1N4djVUNG9FOVE0WVUwMzg1QWJ3NGthb19PRG8?oc=5",
-    "fonte": "TrendsCE",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "81a8fd853ef30b74764849308af3f7ce927a3fdb56831ea108d73e9f8fade4d6",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado reduz estimativa de alta do IPCA de 2026 de 5,01% para 5,00%, aponta Focus - Valor Econômico",
-    "resumo": "Mercado reduz estimativa de alta do IPCA de 2026 de 5,01% para 5,00%, aponta Focus Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNblRvRlYwYWlzRll0MnQ1MWZJY1BUNkFrX1NvOE4zMmwyOEYxSXZrY2ZscjczMkV2anlZSW5XbkdRazlzcDZuWjdPRTBwYTQ5U0dyRllpakZXd0xlVk42NTZmeXRyRG9hMWZrZnY2ZjZwcHhpVks5RmxwMWJhVFhmOHRKR2NrMjdGU1llbWFvNjM0blJtTlZVU2w1X0RMZ0JkQjV2X3V3SDRIaDZpakUwWDdxam5TSUtHNjNwaENZRy1fQS02Y01UM3AxMERpQlFPUUdKX0dJRUpaRFZhb0pqT2ZrcVpLbHZ0emo1TlVub9IB7wFBVV95cUxNblRvRlYwYWlzRll0MnQ1MWZJY1BUNkFrX1NvOE4zMmwyOEYxSXZrY2ZscjczMkV2anlZSW5XbkdRazlzcDZuWjdPRTBwYTQ5U0dyRllpakZXd0xlVk42NTZmeXRyRG9hMWZrZnY2ZjZwcHhpVks5RmxwMWJhVFhmOHRKR2NrMjdGU1llbWFvNjM0blJtTlZVU2w1X0RMZ0JkQjV2X3V3SDRIaDZpakUwWDdxam5TSUtHNjNwaENZRy1fQS02Y01UM3AxMERpQlFPUUdKX0dJRUpaRFZhb0pqT2ZrcVpLbHZ0emo1TlVubw?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Vale a pena travar juro da renda fixa agora? IPCA desta sexta vira teste de fogo - InfoMoney",
+    "resumo": "Vale a pena travar juro da renda fixa agora? IPCA desta sexta vira teste de fogo InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkVuU3JodGFCWTBheXJXT3ZJNV85d0hodjkzUkpIcExCaVNwMERCWmpyRURSNkhXSmZwMnFRRGpHOHVNWENYX1lYcVlJWG41b1JnU21SNXp1dXRScGRublh4cEdlWkJ4dnN4cVFuQ3NRcWdBM0twdFVkRU5OcmQ3NmtzcEhlRUUwZ2xNNkdnRGdtbkZiaGplR2phR2VWWFpsUFRZQdIBqgFBVV95cUxNeks0WW5zQkE3WEhfbFRReFhQeXMzUElCTzRKMU1INjhYNVlZaWplZ3BNTi1ab25CMklpbjBRZ1lvUWhDMjJielJQS0k5YTMzVFBPdHhKLUFQOHZadHVnYm51TVdGUk94Z1pHNTVlbE9CeEsxdEJzMkFUbHZmOG5POXJxc3VoR1dsenM2WnhwUjc3b2hTZW1hYm84VFRDdzFXWG1vbEZuVXRjQQ?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3c79709f3859889053a5523a308774b16a4fb736edfbd57b6f54575c54125660",
+    "chave": "754fc9dd61e78c476d57d0f279cbaa0995ecbf0511aaf79648b6bbc436230662",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -82,12 +51,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Selic no fim de 2026 continua em 13,75% pela quinta semana seguida, aponta Focus - jornaldocomercio.com",
-    "resumo": "Selic no fim de 2026 continua em 13,75% pela quinta semana seguida, aponta Focus jornaldocomercio.com",
+    "titulo": "Selic no fim de 2026 continua em 13,75% pela quinta semana seguida, aponta Focus - Jornal do Comércio",
+    "resumo": "Selic no fim de 2026 continua em 13,75% pela quinta semana seguida, aponta Focus Jornal do Comércio",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdklMOTEzMmd4Skp5MzVibjdiV0pXdFBUdVZjY3ZfNUxSY2JXM1J5TEtETkFibFRsR0pJaVVoWVVxWjR2OEZyd3VhdFdZUHZPTVQ5cmJIOVdmOGJDZjhHRmk2THQzbjVzVGJfTkRaa0JRaHJVM0hlVlRfYk1rVGpPcE1RTWpiRXFjZ0VES0w2VnRNQXM4dzl2bVluVkVZVlJCeklDZ3F5SGZOazVWOWQ0MHFpbUU3b0JfYVNIWVQzZnlHeXJ0aTdJNEQySzNneXpyak9qLTM5cw?oc=5",
-    "fonte": "jornaldocomercio.com",
+    "fonte": "Jornal do Comércio",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4410ca343657c9da3bf9a7db973827cb55bb5159c0395bd0c7468336adf878fb",
+    "chave": "b7ab98a3e20a88709c59467b8ca541d05d521c23ae958f4769f1dce840245f56",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -108,12 +77,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Mercado melhora previsão para inflação e PIB de 2026, mas mantém Selic em 13,75% - VEJA",
-    "resumo": "Mercado melhora previsão para inflação e PIB de 2026, mas mantém Selic em 13,75% VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWZCalhFaG5KVEFFcUdxOTlwY0VUOXppQ2RORlkyMGkyS3JKSTh2U0JBZTFtaUZZb2phU1RhR1BZV1dwTXhUWVdnd0MwSXRHdGVtS3pWaVJCTUFJQk1mN1Vtb21uSjNzeGtBU0h4ak9BTzNHdlBRTmxTaUlnMlo3NjJ3QnRpZnU5d004SE1OSUgxTWJoYmh3QVpnTVNBYWh3Ql9rSlkxX3hOZ0lxT0VYVHc4RQ?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Focus reduz previsão do IPCA para 5%, mas inflação segue acima da meta - OpiniãoCE",
+    "resumo": "Focus reduz previsão do IPCA para 5%, mas inflação segue acima da meta OpiniãoCE",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFQxUHpmWHQ2dkw2SVVaLTF3SWl5cFFlc2tKTG1FTzVrcWpoZ05hU2wwQkxvVldJZ1BIZTNNNmMwN1duTFNGcksxc2d5YzlCd2xhYmsycmN5Ym5Ma01tNVJ5X0hONnQwWjY4WTFaUG1FX2hfdDF0WExCT3lWTjlPVTJhRTNydVV6NU5sbFdJNVRhdVZ5WWowNnJqQ0VZMkJxZE0tVm5NRlJzQmZtLUVzZXlTZmctNUpTb1E?oc=5",
+    "fonte": "OpiniãoCE",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e9551fc463b5153af3a35d80de8ac3f0977c3ccf796318755301e320dd7ecca9",
+    "chave": "5c11638d13b7508c9fd151b1f4563ececdfb412d706b5ea16d9c875fde640949",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -131,6 +100,30 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "CPTS11 paga dividendos de 115,9% do CDI; veja resultados do mês - Fiis",
+    "resumo": "CPTS11 paga dividendos de 115,9% do CDI; veja resultados do mês Fiis",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVZITEo0R3ZJMnhFaC14MFQ5MF8wSUhaUC1JdE1LZkJtalIwRzJYRl96MmZuVUx3SWhQVVZHc2NGWlBsZ3g3aDJacV9kRTVDZ2lnUkIzOWtFUUFUUFpCVzVGTVg3MGF3cTF0c2FuOW5JX0h4RE5zcFdqQkZuek9TWG9fSmd4TjhaaGNXcVpoX2hhMkN5d3FDVndaZFpqbnRqRFZTQV9qRU9QT0tNUlE?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "e175a4527abf06336f7af9d9e742062db76f1c572b2c6e108d67260953957768",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
