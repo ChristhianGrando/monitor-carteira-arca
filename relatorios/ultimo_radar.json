@@ -1,11 +1,67 @@
 [
   {
-    "titulo": "15 papéis isentos de IR para investir agora, com taxas de até IPCA+11% - InfoMoney",
-    "resumo": "15 papéis isentos de IR para investir agora, com taxas de até IPCA+11% InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnNvOXdpLXVYQkJiYm1BaGxybjlkbXBjWUxlenlCaE9PcXpQVWZXbzEydGh3TUplWWhhVXQxdll5eEFsbUpzWXR6NDZvaVlTcHVPNlVKTy1TMExjZlVEWWNjMzMzd1FlcjctRmFXRXJMLWFpRVdBU1dEb3BIZ195UGR6LXZhRHJlNVYzalA4cVZWd2FCU3hEbXFxZ2l2Ty05NVkwRDMyZTFXNEp4eEh3NdIBtgFBVV95cUxNVDI3N01MZ244RFNhRWRLVmV5aFcwdmlzUmw2MmNIeEFwUmNYQ0tfMmxFMTlqUlRZZ1Zab1lzck44b3FjbW4zamV0Q1hjVlNnWDdtekRKVk03RjltVkRiMklUUGJDOER3Q2lCRkNUSHZyV0NQYUVJV09XV3FWWGt6bDdfaHRscGJDX2V6dzNscm5mRWdONlRBQ2Vvd05vYnJOMFRGNE9yUUJEUVVFQ0NScjlmeGlpUQ?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Focus: expectativa para IPCA 2026 cai novamente; confira as previsões para Selic e dólar - Estadão",
+    "resumo": "Focus: expectativa para IPCA 2026 cai novamente; confira as previsões para Selic e dólar Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWkxEWlcyOGxxQk96dmo3VEtDeGl6OWxab1g4NnJOVDNDVER4Q0lOTDJGSWc1WlJkbEZFT1JwYllPRTk5ZVRPenM4ZjBfdGlmUVo2OUhsOVpTekVqSXRjSkJvQ3ZjR1VBd2N3dlRSNmZjM0Z0enlYazB0d1o0MWxHOEladzkzNlhGQm1LT3MxaTdMN3BkVVlxWVVISWt3MmFoQkRQeVFlQ1ptLVUzOU93REJaT0JvbktFNFRNWHRfZElsQ3RibkZ2b1h2V0VJb0N60gHWAUFVX3lxTFBDZ012enBSY2VVTVl4V19PcnFmWVFtVWNkZk0ydDRFV244VGM1ZGdLQktmSTdmLXpSbzRhZk9EMG8xUDBpcHJVWGZwbUtJTXBLd3o0OXBWOExvQ2ZVNy1EZy1ORE02cEhRdXNUVFBGRFBDTmt1WXFtNTR3TVp1aXpIeEtOSjFJZ2hEOGdqc2h4UmM5M1A2RW8wS1EycFRaemdTZC1aY2JwbGJ6dFp4clNMU0dXdW5xV3F2d2hkQlBNRkRORklMaWVuMVd0QVl6V0paY3BleEE?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "9ae0b86183c3234de161fc7cece16fd1517d130c0b865ed0c9c539dc9d2d068a",
+    "chave": "e8d0fa7b53a74a95096469c38dc087350e0af5ed02ff7bdd915005b7f0d87689",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus: projeção do IPCA cai pela 2ª semana seguida - TrendsCE",
+    "resumo": "Focus: projeção do IPCA cai pela 2ª semana seguida TrendsCE",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDV0TlR1Y1ctcWNUNHV5cUFlZENFUkJXMnpUMERtMjlTQjZ5aXctSnowRWhKTnNaUVhjcGROckZINlhFbjhsVkFrR0RiZHM2dkdNR2E4b3J1WHdHTEpnbDFxSURXVEZNMlFwRDlGemFxRmxtUzYxZ1N4djVUNG9FOVE0WVUwMzg1QWJ3NGthb19PRG8?oc=5",
+    "fonte": "TrendsCE",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "81a8fd853ef30b74764849308af3f7ce927a3fdb56831ea108d73e9f8fade4d6",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado reduz estimativa de alta do IPCA de 2026 de 5,01% para 5,00%, aponta Focus - Valor Econômico",
+    "resumo": "Mercado reduz estimativa de alta do IPCA de 2026 de 5,01% para 5,00%, aponta Focus Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNblRvRlYwYWlzRll0MnQ1MWZJY1BUNkFrX1NvOE4zMmwyOEYxSXZrY2ZscjczMkV2anlZSW5XbkdRazlzcDZuWjdPRTBwYTQ5U0dyRllpakZXd0xlVk42NTZmeXRyRG9hMWZrZnY2ZjZwcHhpVks5RmxwMWJhVFhmOHRKR2NrMjdGU1llbWFvNjM0blJtTlZVU2w1X0RMZ0JkQjV2X3V3SDRIaDZpakUwWDdxam5TSUtHNjNwaENZRy1fQS02Y01UM3AxMERpQlFPUUdKX0dJRUpaRFZhb0pqT2ZrcVpLbHZ0emo1TlVub9IB7wFBVV95cUxNblRvRlYwYWlzRll0MnQ1MWZJY1BUNkFrX1NvOE4zMmwyOEYxSXZrY2ZscjczMkV2anlZSW5XbkdRazlzcDZuWjdPRTBwYTQ5U0dyRllpakZXd0xlVk42NTZmeXRyRG9hMWZrZnY2ZjZwcHhpVks5RmxwMWJhVFhmOHRKR2NrMjdGU1llbWFvNjM0blJtTlZVU2w1X0RMZ0JkQjV2X3V3SDRIaDZpakUwWDdxam5TSUtHNjNwaENZRy1fQS02Y01UM3AxMERpQlFPUUdKX0dJRUpaRFZhb0pqT2ZrcVpLbHZ0emo1TlVubw?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3c79709f3859889053a5523a308774b16a4fb736edfbd57b6f54575c54125660",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,21 +82,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa volta do feriado com eleição no radar; Focus e inflação movimentam agenda - Estadão",
-    "resumo": "Ibovespa volta do feriado com eleição no radar; Focus e inflação movimentam agenda Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ0Z5ZUpXVlphVTV3blRLMGpDVnhpaDBubTdmMk1KN0w0R3JMNFlGbU5DSlRvTjlleWd2d1JZRFdwdmV5ZlFwRkVtdzdXSFlLSXFRYVdoWDhaYU9QbXZ0amZDV3o5NzRqX1I5aDF3YVdkTVpndnAwa01Rd2dBVjZhcVhLYnlZcHY2RFZ0NVE1Y0NoMHpxWk1WWXRsOURhRWlyTmUybU9UY0VxZG91aFhHLWhjVnBoLUhMdTJ2ZWtuNENRcnk5NEtlQ285bi1SQ25ZUm10SFd1TnZSMEVmQk1IZERn?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Selic no fim de 2026 continua em 13,75% pela quinta semana seguida, aponta Focus - jornaldocomercio.com",
+    "resumo": "Selic no fim de 2026 continua em 13,75% pela quinta semana seguida, aponta Focus jornaldocomercio.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdklMOTEzMmd4Skp5MzVibjdiV0pXdFBUdVZjY3ZfNUxSY2JXM1J5TEtETkFibFRsR0pJaVVoWVVxWjR2OEZyd3VhdFdZUHZPTVQ5cmJIOVdmOGJDZjhHRmk2THQzbjVzVGJfTkRaa0JRaHJVM0hlVlRfYk1rVGpPcE1RTWpiRXFjZ0VES0w2VnRNQXM4dzl2bVluVkVZVlJCeklDZ3F5SGZOazVWOWQ0MHFpbUU3b0JfYVNIWVQzZnlHeXJ0aTdJNEQySzNneXpyak9qLTM5cw?oc=5",
+    "fonte": "jornaldocomercio.com",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f1a60493c4f6c35ba0326956f5f22aae5b533fe8d9f2022562b15319033e239b",
+    "chave": "4410ca343657c9da3bf9a7db973827cb55bb5159c0395bd0c7468336adf878fb",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -50,21 +108,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Tempo real: Ibovespa começa a semana de olho no Focus e na inflação no atacado - Money Times",
-    "resumo": "Tempo real: Ibovespa começa a semana de olho no Focus e na inflação no atacado Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DOGRZMUJBY1BtWENxOHUwcTctMTZpeTRhNDhzU013V2phSGFyNEpnZmpiN3hpa2loQ2kxTmI4d0Noa2U3ZlJtQ3d1d3dRZUw2aGtHVl8yRUtqNnhNV21UYUZSdFI3LTBjMGc?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Mercado melhora previsão para inflação e PIB de 2026, mas mantém Selic em 13,75% - VEJA",
+    "resumo": "Mercado melhora previsão para inflação e PIB de 2026, mas mantém Selic em 13,75% VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWZCalhFaG5KVEFFcUdxOTlwY0VUOXppQ2RORlkyMGkyS3JKSTh2U0JBZTFtaUZZb2phU1RhR1BZV1dwTXhUWVdnd0MwSXRHdGVtS3pWaVJCTUFJQk1mN1Vtb21uSjNzeGtBU0h4ak9BTzNHdlBRTmxTaUlnMlo3NjJ3QnRpZnU5d004SE1OSUgxTWJoYmh3QVpnTVNBYWh3Ql9rSlkxX3hOZ0lxT0VYVHc4RQ?oc=5",
+    "fonte": "VEJA",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ac895edaa9ee076cb49a6ca083b4cb095c4d33c5380aff0f50671b61fd4619f6",
+    "chave": "e9551fc463b5153af3a35d80de8ac3f0977c3ccf796318755301e320dd7ecca9",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
