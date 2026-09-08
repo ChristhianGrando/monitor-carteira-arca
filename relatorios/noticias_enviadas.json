@@ -1,179 +1,5 @@
 [
   {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Ibovespa sobe mais de 2% e dólar recua abaixo de R$ 5,20 - suno.com.br",
-    "titulo_norm": "ibovespa sobe mais de 2 e dólar recua abaixo de r 5 20 suno com br",
-    "fonte": "suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjRuWTVZU2JvSDhRQm9pT1hERW8xZnQyUFQtWUR4bk8wTHVYWmdPOXc0ZjBrcG9lV2FwSFhRLWZQNW8xWEZwMVVZLUY4UjI2endNQ2ZoQllYcS0wN2dDeWJvZi1yQmdlQ0phTlM2ZkZwZ0VjelJjVlVxOEtzY1dCbWQyc3VBOVUwY09fTmZoVlJrN3BaWVp0S1VwWdIBoAFBVV95cUxPZElWSWNodzhwclpVYTk3ZmlhTGZ0X0ExamhZRlpIaTJrOTJLT2lmb2JsWVIxcDFBdnJvRWx0V0VuVndsVWdRalNQX29idWVzaTJQUjcwTjNvMUZqQ0pRb190RHltX2h4UkZ1a001UWo2MzBpTGxXWHB4N1dfMHZyZ2hOWmJfRzBMSlNGVVl5bDFac3gtaTVidWplY2Z1UnNj?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Dólar opera em queda, de olho em alta do petróleo e ata do Fed; Ibovespa sobe - G1",
-    "titulo_norm": "dólar opera em queda de olho em alta do petróleo e ata do fed ibovespa sobe g1",
-    "fonte": "G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DYjdvVmdNNDRJa1N4bUtHQmNjOW1ZZy1IYWpEMjNxSkFRb0FIcnFYYnljak9zNTVNaWUtMTZXbFJBeGFYVkhud1NzZVloTFFTclREU0Ntemt6YTh6TGU1UHJNN2FqaEZNNVZva0ZnOUEyVVcwQ0t0ddIBhwFBVV95cUxNVTd3UVlKWERSMjMzeEJHRVJZckJBZS1BTi1oQURRVkVlWDdFYnlmbTM4YVpQdGVXRkZuTXR3bldIQTFYb1k4ZU9QdWdsZ1hsbXpPaFUzV1VNX3lGdEJMOHRKTU9sb05pcVJ3ZzZQbVp0NGFnb1dxUm5EYVUwUEZLaUprSHFFb0E?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Banco Central dos EUA admite elevar juros se inflação não cair, mostra ata - UOL Economia",
-    "titulo_norm": "banco central dos eua admite elevar juros se inflação não cair mostra ata uol economia",
-    "fonte": "UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pbHgyRTFhRnJWVFlEQkhzSHRMTjJjbGRBMTYxeU9QeHp0UlozcGtPbDNBbFRRUVdOMHM2UDJpRFJKUFFzOW9wLWtEWFV4b1h2NFgxbkZGTUtUNHBLc0NCTHZ6T0lyMmd1dFNaaUM1Qk9BdmVtTE55ZEt3aw?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Fed admite alta de juros se inflação continuar resistente, aponta comunicado - VEJA",
-    "titulo_norm": "fed admite alta de juros se inflação continuar resistente aponta comunicado veja",
-    "fonte": "VEJA",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlBLNUxrM2t4ejZIajdyN3o1ZmEzTFVGUWNCSk1DRTNEb0FQbXRUakp3TzBNa2NkU2duU08xcE1GQmhDVHY2X2FaQ1l1TzJzN3NSUEs5Z2VkNDU1V1MxQ1JXa29fM2U3dENWV2VJOHlfUTBHcXdGeXFsbHFWb0pjTzVMRUFJdS14TURIOE5xSmYzd2l5eW5IVVo4N3dxMzZnbW9RUjdEYVcyQjVqWTNZNw?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Após recordes, bolsa entra em queda livre: por que o Ibovespa vive sua pior sequência desde 2023? - G1",
-    "titulo_norm": "após recordes bolsa entra em queda livre por que o ibovespa vive sua pior sequência desde 2023 g1",
-    "fonte": "G1",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPelNZX2ZaeUlHYkswVDV5N2VjZXhJU0g5dkU1OEpURHJyLXJRLVZGNUhNeEhGc1oxNkNyNTBrTFEwMU1tZEhlcm9fVlBma05LRXNpRElZMnpDdWJ1c1NJSktmN2ZCUGhQbDZrVkpVZEpVNURmeEV5QlNaMVV1bGo3NVlHSW1kdGJZbkxGRi00bUZaRjRjQnRlQUlUWHJMazlkVThCSXVhVDBvUEpTQ25YTnNtNWhmVXk4NDNkWVF2UHNKT1U5N3VkMWlXQ3J1MDBTX2dWbHJtWk5vTFNyaHM2N0t5SdIB8gFBVV95cUxNcW1LXzJ0bExUZEEwbDNvUV9fUWFuR3FYclFjQ1BRQ2ZSbV9HeUFTelBNQ181aTVyUUE4Q3NISVJPTkJMSUNFckZ5bGV3OUxnVVRsT29ueVdCWlBsNmJmdDJhWGNZcE1JbnNxSXhmZTNTR2tYclBLbjZjRU5CVE1XYzlWejBVUEJIa3RuNnJxczc3cm9FN2xmTXl0Z2pLYkM2eVFEaE4weUVBMDloOUY0c0VObmw4a1VFel9BV254a3NuVFB2R0ptTjU4b1hmY3UyY3ZpX2ZVeGR0MjdsZG82MlNMT2cwcVpfUlJWb1l4OHd4QQ?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Ibovespa avança após 11 pregões em baixa; veja motivos - VEJA",
-    "titulo_norm": "ibovespa avança após 11 pregões em baixa veja motivos veja",
-    "fonte": "VEJA",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0JMekcxYkZQNi1mNnJoSWRTTzFueE9GaGdJcGszVGg2a2lNdmdSdkx0anA0eUpuOHRBVjgzVkJPSmROcS1NekpoYTZGVEc3YlZxOXd4Ri0wWTRmcEJnWHRBNUJ2NkJUaTNqdGxSTzM1TjJITXFLUnlCcGkyY3dyN3Brb3BnZmVIR3V3OVpLcVo3ekE?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Ibovespa quebra sequência de 11 quedas, com ajuda do Tesouro dos EUA e disparada de commodities - ADVFN",
-    "titulo_norm": "ibovespa quebra sequência de 11 quedas com ajuda do tesouro dos eua e disparada de commodities advfn",
-    "fonte": "ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSE85ZGRod0wyVjZTd2dFMV9lOVZFZXdQdVRJUW9rMmZJWUhmakVXRk1RRUhsTGZsRF96aDlaYlVsT2NtNmFFdUJLRUVLRDBjSFI1cklkN1pMellBWXFoeWtIdWNQcVBMaHNrenl1WWJObWNzenFWekNGNG05Nk9GMm1kNVBoS0ZFOFRYWk1iWWFHVUZpMXBpUnRLNXFIalJMWlZuTHhmUlU4RW95N1RUMXMtSXBZU2ZSalJHRjNGRHZNdExxSWZaS2lB?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Itaú se une à gigante Vanguard e muda ETF que segue o S&P 500; o que acontece com o SPXI11? - estadao.com.br",
-    "titulo_norm": "itaú se une à gigante vanguard e muda etf que segue o s p 500 o que acontece com o spxi11 estadao com br",
-    "fonte": "estadao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZERFZWp0MGZDTUhMTDlwRlJYUHdMQndRb0ZFMk1Kc185WUF3VjhHRXhTYlhyOWVuSmNGMlBIdmlBeUNWbVEtVUFlbC0tLUlCeWpGcVFzWjl5clhsY0RMSzR2RmZlbHcyYjZ3VHlyYUp0dnZ2bk5Yd3NWN1VsNFd6RDJPTUJObEYteGhGZjVVdlNVQXFtcUdhdHZyT08tbUxORmFzVjJLOGRKMFo1c0h2RzNEaXRBTGZYcFpQaDFkWW8yTUZIMkVCLTNvZFdKamtxWGhlT0lLZm02YllFWTlzMEtPa9IB6AFBVV95cUxNeVFuTkstaVU5dDhaa2ItajlsSDlxcEhObWtITDN5cm13SXlwRGxNZzZpb2RkWlM5QjdqUS1tQmo3WGVoak5rTGMyZTlob0pqSEE1dFN6WGhPN2x4eXFzeWdQSFdMQkNhdEFPRVFMWTQ1Y3NOcE1mVUpvdGZwWW9RRXYzNURVQV9sdTJiZUFxQVEzR3duRjRuVG1KUTlJUmktd08yTXpiTWVCUGFNdV9rOUhJVFZhOEhUOUlDY1hDR0VTaTBDdkZHNXBCNnY1eU1NZThYcEllcUtLeHNSWGhMRWNqZTcxdDhR?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Sonho americano cada vez maior: JBS (JBSS32) quer comprar fatia restante da Pilgrim’s Pride e ficar mais perto do S&P 500 - Seu Dinheiro",
-    "titulo_norm": "sonho americano cada vez maior jbs jbss32 quer comprar fatia restante da pilgrim s pride e ficar mais perto do s p 500 seu dinheiro",
-    "fonte": "Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdjZfM0xTVk5RbmdmeDFsQWc3NnZWRzZiNTdUTW5yb25URDhUQWVOZTBGTnhaVEtOblI1Q3ZuZTRNbldKYjhxbWJIZmx6eGZsOEJXZEUyVXUzUzVlM2dldjRTZHVsOGVUb2FweUlWQ3E2a1BwMWFoNFlUY3BLR1dVUEJmNTBQSkNoSTNneEU4MUxSUTk4LXpjX185Rndybm9MMjBZSlpwNTgyZFN6Zmp5LXRIR2tUa3B3X19WX21fMk1WdWtTOENGTS1OdVV6eloxeHdIVmRyV3hXX0ZPR0phdGlnSnlQRVczeERrUENiV0haY3NsODBJSEJmTnBjQQ?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Wall Street mostra recuperação à espera de ata do Fed, mas tech ainda pesa - Money Times",
-    "titulo_norm": "wall street mostra recuperação à espera de ata do fed mas tech ainda pesa money times",
-    "fonte": "Money Times",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTZVlFVWFHejdzMEZ1VTg4MFJqSE9FSG5WOF9zRFZVNndPTVVyV1lJSVdoQjFUOVlqNXJGUFBHNENyendfbFlGX3lINEIxcHRtbm05enU5NERPMnhlaHBiVjVVS2RNZTZyd0dfem56T2hmdw?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-19 21:13:26",
-    "titulo": "Foto da Nasa mostra cratera na Lua formada por queda de foguete da SpaceX - Folha de S.Paulo",
-    "titulo_norm": "foto da nasa mostra cratera na lua formada por queda de foguete da spacex folha de s paulo",
-    "fonte": "Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSllHOW96a2Z1ZkhGWkYtb3dINDJkcnJiWHNCTEdSci1RcEVLbVNBbEExQnd3LWxjRUc5WnMwZXVkbjVoSk1fZ29BVXRNODg0bm1kcGxsNkk1OHRWZ0RRakV6MnFyRmRocFQwaVE5dnkwV245emFWMjItNGN2SXlaR1FHZVNsTnBaUGszQ2dsVnQ3R05MaGJQRF8tdDRfbnRFWVIwNDF3cVhKeFJNcG1wWVJ0NWhCay0xdDFNenk1a1NWclU?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "SPCX34"
-    ]
-  },
-  {
-    "data_envio": "2026-08-20 12:18:16",
-    "titulo": "Ibovespa interrompe sequência de quedas e dólar recua - Canal Rural",
-    "titulo_norm": "ibovespa interrompe sequência de quedas e dólar recua canal rural",
-    "fonte": "Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUZZTDhRZHp5NDBQeEFaR2lnaDRhME9PSmRxYVhkLWJGZUF3bzRWc3dCVDlMeERtazktdms2c2JjbnktNndwOTZtcFg4OTQySEpvQWMtcUxsdzZ1RHdneHNLdU1EN0F1cXpLYWViWUFFWEMtNWhidGdzbVp3X1F4b0ZaSHlKZzk4THA2S1RXcmtkWEVaQURHWQ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-20 12:18:16",
-    "titulo": "Ibovespa sobe e consegue primeira vitória de agosto; dólar cai a R$ 5,17 - InfoMoney",
-    "titulo_norm": "ibovespa sobe e consegue primeira vitória de agosto dólar cai a r 5 17 infomoney",
-    "fonte": "InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejlNNmNYdTN2SkdZYi1jWjFIbERTSURnMkM1WGFBdlFKV29TY0Rpd2hKRVNPOEZ5M2w1Y2UwYXBnZnVSQW1Bc01xYXpFU1d6S1NTdW1JMFJkVjF3RUZLWTZtNHhuTXFyR1JiYkVrbFBUWnM5ZG54SVVLTWlWZnVua2tadlE4cG1zYnhTVV9jSQ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-20 12:18:16",
-    "titulo": "Petróleo em alta, onda de calor na Europa, dólar, Ibovespa, mais agenda e pílulas da economia 20.08 - GZH",
-    "titulo_norm": "petróleo em alta onda de calor na europa dólar ibovespa mais agenda e pílulas da economia 20 08 gzh",
-    "fonte": "GZH",
-    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNVlZtYWhzU1JmNDRpcV95WnZqM2E1ZFF5c3hfUEM4VjlPYzBreEd1Q1pseUlZMVBWbGp4XzhQeVVqVXFNQlJvRlFWVWM2SmVwLTk0MjhwYmRVaVI3NHhiVFI1QlBxV2tGbllPdmlCd3BQY3VHRkMwZVFjUzhrTGpJNUg5TnF0dGF4dHl0SjY2b0k3Q3ZXX0E5MGtrQ193OWlMOGRocjdqaEdfOFY0V0Nha25rcDhoUzV1VjVEYUwzRnh1QWllTFowei1waFhDSEZnbF9tNEtzcXc1cjU5bVU1dTNfSjBiUUZHWkhpSUxwWXdocERRWjFlN05FM1A4RE42MU00MW1nYmNLaTBjTDU0RExJbF91R2NndDhOTkJ4UnctcUJn?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-08-20 12:18:16",
-    "titulo": "Ibovespa sobe 0,9% e dólar cai a R$ 5,18 após movimento do Tesouro dos EUA - Bloomberg Línea Brasil",
-    "titulo_norm": "ibovespa sobe 0 9 e dólar cai a r 5 18 após movimento do tesouro dos eua bloomberg línea brasil",
-    "fonte": "Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZW9uWHhoQ0ctWHNndmRHb29Vamcwa20wMTFCU3VEZ1ZVWVcyRW5sY1hSNnFmMG5GejRUR2dmcWJzSVRSUnJtYUt6ckxlUXR1dzhXck9JNjBMUHBoUlItYXFlcW5acE5wT1Zuem0wT2dIcnBpR2Y5NFlnTXdmXzhHa1FYRHRFMjZCRjJBVllCS1l3RnJ1MWV1eEE4MXJQTnVhR3U5eURpTlUxV3dWemJ2UlQ4X1rSAcgBQVVfeXFMUEVIaTE3XzFyUGEzdWhmbUx6QWoyZ1VJZ25sRzhkakpNYWVFa0pyUEZkaldrMU5NcWpJb2NER3N2NGU5blQ1TmJTOGxyU0pjOWpzU3A3MjFhS2FXdDZZaXlJOEZRMXNKc0tlR3lyLUlRV2p4UTJwdjhweGlnUzJaNnRnaGd3VmxET0FVX2xWMW02SUNBNGtnam8yUzMzSVk2SVAyampKdk5GREFzcXZtQXVpVFBZaWV6NmU0M3lZRWJVUGFFeEtldTU?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
     "data_envio": "2026-08-20 12:18:16",
     "titulo": "Dólar cai fecha a R$ 5,17;Ibovespa sobe e interrompe sequência de 11 quedas - brasilagro.com.br",
     "titulo_norm": "dólar cai fecha a r 5 17 ibovespa sobe e interrompe sequência de 11 quedas brasilagro com br",
@@ -5790,6 +5616,188 @@
     "impacto": "Baixo",
     "ativos_afetados": [
       "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Mercado reduz estimativa de alta do IPCA de 2026 de 5,01% para 5,00%, aponta Focus - Valor Econômico",
+    "titulo_norm": "mercado reduz estimativa de alta do ipca de 2026 de 5 01 para 5 00 aponta focus valor econômico",
+    "fonte": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNblRvRlYwYWlzRll0MnQ1MWZJY1BUNkFrX1NvOE4zMmwyOEYxSXZrY2ZscjczMkV2anlZSW5XbkdRazlzcDZuWjdPRTBwYTQ5U0dyRllpakZXd0xlVk42NTZmeXRyRG9hMWZrZnY2ZjZwcHhpVks5RmxwMWJhVFhmOHRKR2NrMjdGU1llbWFvNjM0blJtTlZVU2w1X0RMZ0JkQjV2X3V3SDRIaDZpakUwWDdxam5TSUtHNjNwaENZRy1fQS02Y01UM3AxMERpQlFPUUdKX0dJRUpaRFZhb0pqT2ZrcVpLbHZ0emo1TlVub9IB7wFBVV95cUxNblRvRlYwYWlzRll0MnQ1MWZJY1BUNkFrX1NvOE4zMmwyOEYxSXZrY2ZscjczMkV2anlZSW5XbkdRazlzcDZuWjdPRTBwYTQ5U0dyRllpakZXd0xlVk42NTZmeXRyRG9hMWZrZnY2ZjZwcHhpVks5RmxwMWJhVFhmOHRKR2NrMjdGU1llbWFvNjM0blJtTlZVU2w1X0RMZ0JkQjV2X3V3SDRIaDZpakUwWDdxam5TSUtHNjNwaENZRy1fQS02Y01UM3AxMERpQlFPUUdKX0dJRUpaRFZhb0pqT2ZrcVpLbHZ0emo1TlVubw?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Selic no fim de 2026 continua em 13,75% pela quinta semana seguida, aponta Focus - Jornal do Comércio",
+    "titulo_norm": "selic no fim de 2026 continua em 13 75 pela quinta semana seguida aponta focus jornal do comércio",
+    "fonte": "Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdklMOTEzMmd4Skp5MzVibjdiV0pXdFBUdVZjY3ZfNUxSY2JXM1J5TEtETkFibFRsR0pJaVVoWVVxWjR2OEZyd3VhdFdZUHZPTVQ5cmJIOVdmOGJDZjhHRmk2THQzbjVzVGJfTkRaa0JRaHJVM0hlVlRfYk1rVGpPcE1RTWpiRXFjZ0VES0w2VnRNQXM4dzl2bVluVkVZVlJCeklDZ3F5SGZOazVWOWQ0MHFpbUU3b0JfYVNIWVQzZnlHeXJ0aTdJNEQySzNneXpyak9qLTM5cw?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Mercado melhora previsão para inflação e PIB de 2026, mas mantém Selic em 13,75% - VEJA",
+    "titulo_norm": "mercado melhora previsão para inflação e pib de 2026 mas mantém selic em 13 75 veja",
+    "fonte": "VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWZCalhFaG5KVEFFcUdxOTlwY0VUOXppQ2RORlkyMGkyS3JKSTh2U0JBZTFtaUZZb2phU1RhR1BZV1dwTXhUWVdnd0MwSXRHdGVtS3pWaVJCTUFJQk1mN1Vtb21uSjNzeGtBU0h4ak9BTzNHdlBRTmxTaUlnMlo3NjJ3QnRpZnU5d004SE1OSUgxTWJoYmh3QVpnTVNBYWh3Ql9rSlkxX3hOZ0lxT0VYVHc4RQ?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Focus reduz previsão do IPCA para 5%, mas inflação segue acima da meta - OpiniãoCE",
+    "titulo_norm": "focus reduz previsão do ipca para 5 mas inflação segue acima da meta opiniãoce",
+    "fonte": "OpiniãoCE",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFQxUHpmWHQ2dkw2SVVaLTF3SWl5cFFlc2tKTG1FTzVrcWpoZ05hU2wwQkxvVldJZ1BIZTNNNmMwN1duTFNGcksxc2d5YzlCd2xhYmsycmN5Ym5Ma01tNVJ5X0hONnQwWjY4WTFaUG1FX2hfdDF0WExCT3lWTjlPVTJhRTNydVV6NU5sbFdJNVRhdVZ5WWowNnJqQ0VZMkJxZE0tVm5NRlJzQmZtLUVzZXlTZmctNUpTb1E?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Focus: expectativa para IPCA 2026 cai novamente; confira as previsões para Selic e dólar - Estadão",
+    "titulo_norm": "focus expectativa para ipca 2026 cai novamente confira as previsões para selic e dólar estadão",
+    "fonte": "Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWkxEWlcyOGxxQk96dmo3VEtDeGl6OWxab1g4NnJOVDNDVER4Q0lOTDJGSWc1WlJkbEZFT1JwYllPRTk5ZVRPenM4ZjBfdGlmUVo2OUhsOVpTekVqSXRjSkJvQ3ZjR1VBd2N3dlRSNmZjM0Z0enlYazB0d1o0MWxHOEladzkzNlhGQm1LT3MxaTdMN3BkVVlxWVVISWt3MmFoQkRQeVFlQ1ptLVUzOU93REJaT0JvbktFNFRNWHRfZElsQ3RibkZ2b1h2V0VJb0N60gHWAUFVX3lxTFBDZ012enBSY2VVTVl4V19PcnFmWVFtVWNkZk0ydDRFV244VGM1ZGdLQktmSTdmLXpSbzRhZk9EMG8xUDBpcHJVWGZwbUtJTXBLd3o0OXBWOExvQ2ZVNy1EZy1ORE02cEhRdXNUVFBGRFBDTmt1WXFtNTR3TVp1aXpIeEtOSjFJZ2hEOGdqc2h4UmM5M1A2RW8wS1EycFRaemdTZC1aY2JwbGJ6dFp4clNMU0dXdW5xV3F2d2hkQlBNRkRORklMaWVuMVd0QVl6V0paY3BleEE?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Ibovespa abre em alta com disputa acirrada para eleições de 2026; dólar cai - CNN Brasil",
+    "titulo_norm": "ibovespa abre em alta com disputa acirrada para eleições de 2026 dólar cai cnn brasil",
+    "fonte": "CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGRhdFdXRUd1UXZxTlZ6cjNJMTJ6Z01YLUZ1andibGtMc0ZKanhuNW9VaEdGQlhIYU44aS1TS2xuNlVjVVh0TnFVQkNxTUtEM2xIZENORFUxbXhQREZvYV9YenVYeWpNeVBSTnNHRS0xOU5PVVd2eGRzLXFSVUp4TXplRlE1WjZUbk50MHFPd1ZSZWZ3NkRQQTFETXVHX1NkLTRSQzJHZDIyNmZ2?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "CPTS11 paga dividendos de 115,9% do CDI; veja resultados do mês - Fiis",
+    "titulo_norm": "cpts11 paga dividendos de 115 9 do cdi veja resultados do mês fiis",
+    "fonte": "Fiis",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVZITEo0R3ZJMnhFaC14MFQ5MF8wSUhaUC1JdE1LZkJtalIwRzJYRl96MmZuVUx3SWhQVVZHc2NGWlBsZ3g3aDJacV9kRTVDZ2lnUkIzOWtFUUFUUFpCVzVGTVg3MGF3cTF0c2FuOW5JX0h4RE5zcFdqQkZuek9TWG9fSmd4TjhaaGNXcVpoX2hhMkN5d3FDVndaZFpqbnRqRFZTQV9qRU9QT0tNUlE?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Mercado reduz estimativa de alta do IPCA de 2026 de 5,01% para 5,00%, aponta Focus - Valor Econômico",
+    "titulo_norm": "mercado reduz estimativa de alta do ipca de 2026 de 5 01 para 5 00 aponta focus valor econômico",
+    "fonte": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRUJHOTRCT1BtZkdMZjEtcGtBQ3lJMHFPYVlYWVNHeEJ5bHYyMzJlUlA3aHprb1dwVDh4U3ktTUx4MUNCY29ybFhNTEdMRWREbzFqcDkwOFp3bHloUnN0RVJHMEJHblUzMWxvS2hWY1ZLanpKeVhtVlNCN3dUNUJqUkM4UWVkM1RZRXNDcElteUhuREFKamF4N3hJUmtIWWFiaWdHdEFzWHZaRFVrR2c5U3ZRSWlndS00WF8xcHQ4dG8tUnNlZFJOV3VhVGd5TmFmYUE1TzNSTllxSHVRWXNWX9IB7wFBVV95cUxNblRvRlYwYWlzRll0MnQ1MWZJY1BUNkFrX1NvOE4zMmwyOEYxSXZrY2ZscjczMkV2anlZSW5XbkdRazlzcDZuWjdPRTBwYTQ5U0dyRllpakZXd0xlVk42NTZmeXRyRG9hMWZrZnY2ZjZwcHhpVks5RmxwMWJhVFhmOHRKR2NrMjdGU1llbWFvNjM0blJtTlZVU2w1X0RMZ0JkQjV2X3V3SDRIaDZpakUwWDdxam5TSUtHNjNwaENZRy1fQS02Y01UM3AxMERpQlFPUUdKX0dJRUpaRFZhb0pqT2ZrcVpLbHZ0emo1TlVubw?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Focus: projeção do IPCA cai pela 2ª semana seguida - TrendsCE",
+    "titulo_norm": "focus projeção do ipca cai pela 2 semana seguida trendsce",
+    "fonte": "TrendsCE",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDV0TlR1Y1ctcWNUNHV5cUFlZENFUkJXMnpUMERtMjlTQjZ5aXctSnowRWhKTnNaUVhjcGROckZINlhFbjhsVkFrR0RiZHM2dkdNR2E4b3J1WHdHTEpnbDFxSURXVEZNMlFwRDlGemFxRmxtUzYxZ1N4djVUNG9FOVE0WVUwMzg1QWJ3NGthb19PRG8?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 2% com eleição e Focus no radar - InfoMoney",
+    "titulo_norm": "ibovespa hoje ao vivo bolsa sobe 2 com eleição e focus no radar infomoney",
+    "fonte": "InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGpmazlhY0FDMFR6VDhPZWd1X0RUYnA4OUVCdFF0Si15ZzVyVHNKSGpYMHVRVm9jdHA4eXNFTE1rVU51bS01bVhwbUR6WUJ3cGtjb3VTWmxvUjRFdEREQlBuaHRfQUsxY0ZSNFZYYTlGVDB5cGNyMVBoTlI4TDEzRllxd3UyZ0ZNQ1VyaERybw?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Mercado financeiro reduz previsão da inflação para 5% este ano - Agência Brasil",
+    "titulo_norm": "mercado financeiro reduz previsão da inflação para 5 este ano agência brasil",
+    "fonte": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmVfTWQzbmJqRXRFZ3NvWGd0c2VqYmE2Yk5paEVVLWNQcWlJUkladGIxNUFXVjY2ZWNTNTBoV1pfVlpJUy1ORXp0R21QRHRzVDEyOENrMW8zMTdFSUdEUHFfcUZuWFlNQUR3MUxLNHdyUmdsbFhVQ1p6RXh1QlVvTUFGYmtpblhVU29ZX2QwMENtblFBQ2VSOTlSNkhmOHEyUWg3VHJsazl6Xy05d3UtYXl0cl91cUxwNks0?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Ibovespa abre em alta na volta do feriado, com Boletim Focus e petróleo no radar - trademap.com.br",
+    "titulo_norm": "ibovespa abre em alta na volta do feriado com boletim focus e petróleo no radar trademap com br",
+    "fonte": "trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OZGxfTW0tMTl3elFXY29jdlJpbXdtUTd6STRYY1hCQmNyYmdGNkg3c2FCM2FoSTR5aVl5aGN0U2dnUFhaSVhmQzJYTGJSZy1aeVBWVjhuMFE?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "B3 - Ibovespa: Nova carteira teórica para período de setembro a dezembro de 2026 - ADVFN",
+    "titulo_norm": "b3 ibovespa nova carteira teórica para período de setembro a dezembro de 2026 advfn",
+    "fonte": "ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTMwRUQ3OV96RG1PV1d0MnRsaEJUNFpCcEFOdy1Fcm81QWxoVGNpcW9DZWt2RWYxbkc2eEFWaHd6OVFadEoyWnBlLVlXTDN0WUhDM2ZaaTVza2U0bTJEZGt2VVdtNTEzY1NYUEtmdFpIN0J5bnQxendDOXhFR3hGX3hOMzFQaFpOLUNTaEdnWUdNYmIwdzhTSWtCOUpFcEJDSWhpZFBlSlhicDhVenh3T0F5Yw?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "Bloom Energy dispara no pré-mercado com entrada confirmada no S&P 500 - ADVFN",
+    "titulo_norm": "bloom energy dispara no pré mercado com entrada confirmada no s p 500 advfn",
+    "fonte": "ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlg1RERzMWhKcTFmYkk1eEVMVlJmRmhHd0hRM0RWTmh0VDI4X1M3QWFVSExwYWRBck1FQWNnZVdfZE9rTVNCMUZjdFQ3anpGTHJaV20tMzhtWEtXSFRaYlNhajZUVE5PVDVKVTluTEx3dVV6dlNYYWlSQlM0S21BcENZNlhrY2RsOUlCdA?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 15:23:22",
+    "titulo": "S&P 500 e Dow devem abrir em baixa, com as tensões no Golfo levando o petróleo a uma alta de mais de seis semanas - TradingView",
+    "titulo_norm": "s p 500 e dow devem abrir em baixa com as tensões no golfo levando o petróleo a uma alta de mais de seis semanas tradingview",
+    "fonte": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94d181X0U0emtXTlNaWFlwTV9OWjhKTGtpREpySWxyaHBxbXVVcEVjRU5saUt4LUtqNWhOY0xsNndEcUk3QzlLdVlBNUNkYTJJdVdzOXpWR19XdWhzMDhfWGpoSmVGUHp1UXUtY1FWWG9wd3VBbDRR?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
     ]
   }
 ]
