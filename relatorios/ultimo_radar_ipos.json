@@ -1,18 +1,19 @@
 [
   {
-    "titulo": "Shein perde US$ 5 bilhões em valor de mercado após estreia na Bolsa de Hong Kong - MundoBA",
-    "resumo": "Shein perde US$ 5 bilhões em valor de mercado após estreia na Bolsa de Hong Kong MundoBA",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkttUDRlSGJRc3JTZkxpVjg4NHV3VVNQUVU2Y3dzeGFoRmJiVFZCMjJJdUhQbVZMV3FLbFZvb1B1RkFpNVNCWTJpNjl6THRLZVZ6REtueDlCQnFKbVozRzZwWGtUbGh2S1ZNckgxNUY1ZWpHOU14UnpNUGxPQmx5OFlzZU83ejUtNjU3M1BaazRxVkdqMXNkWnYyRmJCcl8yVVppZ2ppcjBtZ1pMc2NuZ2Zn?oc=5",
-    "fonte": "MundoBA",
-    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
-    "chave": "c5e4ee92be4360fa6c4aa9da7093b0cfbb63784f41eec646a4098f6e60c01190",
-    "score": 8,
+    "titulo": "Vale é questionada pela B3, após notícia sobre fim de IPO da Vale Base Metals - ADVFN",
+    "resumo": "Vale é questionada pela B3, após notícia sobre fim de IPO da Vale Base Metals ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEVXTUd5V0o3eGZ3Wkl0ODB2MTNFYzVVVWFWdHBkOU5Camk0R2RPM2ZSbVA5LWlNT0MxV1k4Ukg3YkNIQUpSSUpxNjd4V1dDR1BvNFVldzlpQ29LNjlONndzLWw5d091dlp4OGFQMzN5YTE3STBtUG5fUXBFX2E5bWZibFlvSGRMY0o1QUpucllGT21vQ1NZNkMyRzhKVjUxaUg4blNYZ1UtUmlab0dtZExR?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "b567f5f095c2d268e60815feb75345af4c581845262ed57118d3ea796222bb5e",
+    "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
     ],
-    "tipo": "IPO em fase avançada",
-    "estagio": "Fase avançada / estreia ou precificação",
-    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
   }
 ]
