@@ -1,18 +1,70 @@
 [
   {
-    "titulo": "Banco Central da China amplia reservas de ouro ao maior nível desde 2023 - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco Central da China amplia reservas de ouro ao maior nível desde 2023 Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT3JKelVWM3RxS2JlUHpLeTA5WGxLU21xWV8yZFJwSlFENlV4OFZVZnVvYWE5ZlVjTFV2UWVJQk5SRHlkUnA4akFKX2RMbFlTVzBxVnUtVmFzbDdDR2JPOWNud3J1T2cwMEl4QmJobWFvY1NDbmMzSVZyZDB2am1TbldTbGlXTl80cXJMaTNtY29YYjl3RVh0MWJaZ0xXbWJMWi1oSmtncWJVbU9qZXhlcmtrMDlTRTl3UFVYMHd2N2tMU0ZYOG1NTDVpeEpIdw?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2bbb50b0152becdebe60a39c963dcf72c20672b4307e25236b7477ece1b9afe4",
+    "titulo": "15 papéis isentos de IR para investir agora, com taxas de até IPCA+11% - InfoMoney",
+    "resumo": "15 papéis isentos de IR para investir agora, com taxas de até IPCA+11% InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnNvOXdpLXVYQkJiYm1BaGxybjlkbXBjWUxlenlCaE9PcXpQVWZXbzEydGh3TUplWWhhVXQxdll5eEFsbUpzWXR6NDZvaVlTcHVPNlVKTy1TMExjZlVEWWNjMzMzd1FlcjctRmFXRXJMLWFpRVdBU1dEb3BIZ195UGR6LXZhRHJlNVYzalA4cVZWd2FCU3hEbXFxZ2l2Ty05NVkwRDMyZTFXNEp4eEh3NdIBtgFBVV95cUxNVDI3N01MZ244RFNhRWRLVmV5aFcwdmlzUmw2MmNIeEFwUmNYQ0tfMmxFMTlqUlRZZ1Zab1lzck44b3FjbW4zamV0Q1hjVlNnWDdtekRKVk03RjltVkRiMklUUGJDOER3Q2lCRkNUSHZyV0NQYUVJV09XV3FWWGt6bDdfaHRscGJDX2V6dzNscm5mRWdONlRBQ2Vvd05vYnJOMFRGNE9yUUJEUVVFQ0NScjlmeGlpUQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9ae0b86183c3234de161fc7cece16fd1517d130c0b865ed0c9c539dc9d2d068a",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa volta do feriado com eleição no radar; Focus e inflação movimentam agenda - Estadão",
+    "resumo": "Ibovespa volta do feriado com eleição no radar; Focus e inflação movimentam agenda Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ0Z5ZUpXVlphVTV3blRLMGpDVnhpaDBubTdmMk1KN0w0R3JMNFlGbU5DSlRvTjlleWd2d1JZRFdwdmV5ZlFwRkVtdzdXSFlLSXFRYVdoWDhaYU9QbXZ0amZDV3o5NzRqX1I5aDF3YVdkTVpndnAwa01Rd2dBVjZhcVhLYnlZcHY2RFZ0NVE1Y0NoMHpxWk1WWXRsOURhRWlyTmUybU9UY0VxZG91aFhHLWhjVnBoLUhMdTJ2ZWtuNENRcnk5NEtlQ285bi1SQ25ZUm10SFd1TnZSMEVmQk1IZERn?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "f1a60493c4f6c35ba0326956f5f22aae5b533fe8d9f2022562b15319033e239b",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Tempo real: Ibovespa começa a semana de olho no Focus e na inflação no atacado - Money Times",
+    "resumo": "Tempo real: Ibovespa começa a semana de olho no Focus e na inflação no atacado Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DOGRZMUJBY1BtWENxOHUwcTctMTZpeTRhNDhzU013V2phSGFyNEpnZmpiN3hpa2loQ2kxTmI4d0Noa2U3ZlJtQ3d1d3dRZUw2aGtHVl8yRUtqNnhNV21UYUZSdFI3LTBjMGc?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ac895edaa9ee076cb49a6ca083b4cb095c4d33c5380aff0f50671b61fd4619f6",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
