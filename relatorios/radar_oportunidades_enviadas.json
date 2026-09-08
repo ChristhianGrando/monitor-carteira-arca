@@ -1,98 +1,5 @@
 [
   {
-    "data_envio": "2026-08-04 21:35:54",
-    "chave": "3496bca125f934d1175cfd11d84c953a0d66871f17df7da5f5430970b5a7d2d2",
-    "titulo": "Análise: O risco de um jogo de espelhos entre o Copom e o Focus - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjRxZGNfSXlZSUVEUG0zQ3lQVFZiYTQxSmdiRHl4RHRZY2JmN1hCSklkNE11ZlJWb2stWmRORG5vNVNsNkZrTjNxSHRfQW1ud2Y4VXQ0dTBGemJWQlllYTA0Ukw3NVNRZm41d2wwQTRLUnBOdzNERTdmLTJXY3k3ZVY4cG9uWXBIVDdKWUJ6QzVERFMzZzRUYjBtaGg0NV9LZ19FdTdVNEVySDhxZWtWbVU0Mnc4SzZMYmNJd9IBywFBVV95cUxNU1R6X1gzLUxESUNLOWhjbmxfbldWd3A3c1VCV2QtNm1idGhnX3BSR1dpMUl3ZHMyaHVwSU80NmRYbFJNd3BYTFhzR1V6RWFGOGo4akMtSWFqTmFiZDdEemJVQk9RQ29QR0VjeWJWZXpjSUptd203V0Y4djUyQ3E5RFBPUjljTWRicVVBaUl3Z3RhRmcxWHM1MWhBWDE1Z1JzQkxrYXR5RkVSTUlDUVQ1T2pyWkFRRUo5eHlkMkNRYl9RREE5NlJSZE82Zw?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 15,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-04 21:35:54",
-    "chave": "09253d30e4692abb6723e9e8e9c57c9ec84daa5ffd79c8b3b693c5ddfdff1e97",
-    "titulo": "Ibovespa B3 cede perto da estabilidade, com Copom e petróleo no foco; dólar vai a R$ 5,13 - borainvestir.b3.com.br",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFRIX2VkM3lWT2M5cnZ1WDI1SUk5WFFyUzBKTEtpZXdsOEJ4dkxocXFDb3hlYlNQdzR4SEd3VmZZWG00N1pWZ2xuMTBPamU2Y1hjT3BSOGlZWWdUejZsb3ozSUp2TTV6RzNOZk82VjVBUElzNktBYjlyY0VBRVFqOEp2X2dqT0lTMGN0VGp2SkNCMzVMaGliSXFDYy15Z3ZaNzJxWGVjbzRjMEdwcDFicXpiOW9qTG4zYm9LYW5JLUpkNXBYRl9MNk9jQ0F5cm8?oc=5",
-    "fonte": "borainvestir.b3.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-04 21:35:54",
-    "chave": "b7e588417a453f93e7c610757c440a02a923c03d56404b2fb3cacec706751d4d",
-    "titulo": "Copom inicia reunião que definirá taxa Selic - borainvestir.b3.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMldiamNzcWdvNFVIakdxdUxBS0tSOEp2T2FJRXRZa3kzeTJwNGtoWXQ0MDZzaE81UERfQTRseGFwLWRhOWNRRERLakZBVlJUcWk0ZWd1ZW10X2hzajF3X1RBcHNJejBvVV9YeHVkc1pqM1ZkeXZQRWNYNFc1OENzQ0Ixd1Q4Z3VBeUQxblBB?oc=5",
-    "fonte": "borainvestir.b3.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-04 21:35:54",
-    "chave": "283ab2a4287da2704de68d04bd78fd7ab70ad80f15f66b26a9f66c01236f790d",
-    "titulo": "Boletim Focus projeta mais dois cortes de 0,25 ponto da Selic até o fim do ano - TrendsCE",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUNKdmVrbE9nd0g1NThNU2ZRcjctR3hxMDZ5QVdxZGtBd0tXY0g1dFN0b0wzbExxOUtUZnJoZHFOYUNoelkwYkQ4b3dIWjZYem9ucmtRUjVOQ3E2UW9xUHlYUDFZeVEwQ0xhWTNVZTJzNkk4SE8xTXdvMXI1ZExFcHVLV3J4Z2huWFFTRjhpdWR0dEJtUGFJUmNJTmlkMFNsZFNHOFZFbnVEejBSVHpDb3V5NmdHWGdj?oc=5",
-    "fonte": "TrendsCE",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-04 23:18:16",
-    "chave": "9f821eee5c5fca98fd46a248a58621905283d3145ee42de8972d006fcda5f14e",
-    "titulo": "Ibovespa B3 cede perto da estabilidade, com Copom e petróleo no foco; dólar vai a R$ 5,13 - Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFRIX2VkM3lWT2M5cnZ1WDI1SUk5WFFyUzBKTEtpZXdsOEJ4dkxocXFDb3hlYlNQdzR4SEd3VmZZWG00N1pWZ2xuMTBPamU2Y1hjT3BSOGlZWWdUejZsb3ozSUp2TTV6RzNOZk82VjVBUElzNktBYjlyY0VBRVFqOEp2X2dqT0lTMGN0VGp2SkNCMzVMaGliSXFDYy15Z3ZaNzJxWGVjbzRjMEdwcDFicXpiOW9qTG4zYm9LYW5JLUpkNXBYRl9MNk9jQ0F5cm8?oc=5",
-    "fonte": "Bora Investir",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-04 23:18:16",
     "chave": "66b23066d8ef386110df00889db5166d1794223882fd53f9038de8f78cf025cb",
     "titulo": "Roteiro do Copom para a Selic não inspira um compromisso firme em trazer a inflação à meta - Estadão",
@@ -17246,6 +17153,95 @@
     "classes": [
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 21:51:36",
+    "chave": "ea880caea6d8a204da522f07fab5a4ddbe5eaa0c2cbacb16f8ab60c16a88edf0",
+    "titulo": "STJ mantém IRPJ e CSLL sobre Selic de depósitos compulsórios - migalhas.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlVzME5KbWxCXzc2OVdWTXE1RW5sOWZlMThFYXZFMVZLcnhMMWpXWEo5NWZZRWlBOWpUcF9OZk02LU50M3JfZVhGVVBsek1ZbzBBNzNHRHNLeTVUbzM2ZmtxMFhfelc4T2tZVlVEMHAtVGFxRDZicTh1ZjlCemY0NXRxQzZGcWpVOVRKcW9pZ3c2ZUNGdkdaVW1IRWp3R2FycGZRTDd3?oc=5",
+    "fonte": "migalhas.com.br",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 21:51:36",
+    "chave": "f46911c07ed4b9e2fd599a235d37e9e0ca9183bc8c4522b03adc637e65967def",
+    "titulo": "Com Selic alta, Eco Invest tira projetos ‘da gaveta’, diz Itaú - Capital Reset",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWkVFaklWVzhCb1dKbElqUXJHR2pPUFpEckpYRzNRRUxmemc1RHBsN2JXRjBxb0ZhakFJR0pGYVl1VE5JRUI3UFJadXRKbHA4dXg5WTVNcEtpeUxhazYwVjZ5UFFra2pGSWdLb0R5XzFIM3BrTWhERzUwSUZ2cVFhc1picFdsa1RtQ3pOMjByVkhadUhMOU5ORGUtTzZUcWFOVVE?oc=5",
+    "fonte": "Capital Reset",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 21:51:36",
+    "chave": "c485ea13e03a3c8ec7273171dd6c852c68fbc6c2c57ee10c4eb79fe5d308fc8f",
+    "titulo": "Dólar cai a R$ 5,08 e Ibovespa sobe, com petróleo e cenário eleitoral no radar - G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3Qm1LX2RoM09udy12enpzeDRKTkdMWkxPSndpZ1hSTUFYczZSRGZjVnI0Y3hzb2tHMXlFbi1LQUwxRkJFX2ZHckFFMEpJNDBlNlp6QU5vcTZDaG5MYkloSmg0MlBIUmJCMHJzWDRnZl9Kbk0zZ2V0TdIBhwFBVV95cUxONWt4VXV3azQ3SmN1czZSdDl4STlSeWNra0p3M1BMazFzekNvZ2xIQWJ5SlBMUjgwNTNnYWVJWHY1MmdXMWRVSWU1NkFFOUFLR190SU9fT1VCSDZFamduTnJ5UHFqSDZQakdzV0V0dXNUUFVka2ViNmJHOEJOTGFCOTdicDdVenM?oc=5",
+    "fonte": "G1",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 21:51:36",
+    "chave": "75020bc57afef1c3da2a6bf2e41872dd8f50754464f684bb630730ed7c0b2b52",
+    "titulo": "Ibovespa sobe 1,2% e dólar cai com cenário eleitoral; Petrobras avança 2% - Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkRfS1hqOFplTGJIYmJRVHh0YlhDSlMtNzBGX25mZi1kbGdmdVFJejJSd2h1Rkg4ZzZTbUdfeEdMZEljVkhpY1NHN3B4eC0tMFVUWVZFVDg3dmVoZXBBUU1XeHlpamVPQTUzWFFwZ0ZZN0JlZjBjbGtRQkFxV3JjT242S2xpb2NOTlVzOVV5dEZhS0ludzJoZE43ODNpbWNxM1BQTzU1MmNZSDdjdV9JQlpTSdIBxwFBVV95cUxPMWlyU2hyOGVseGJ3WDQzUTRjamcwc1Z0M0NsNVBwdUtZX1lGbV9FeUFaWm5Pb1UwY3A3Q0lrMDZlbENWYjJka25LOEw5U1d4N3R5NmZ4UnhCVkRnenUtTUZySjZpX0ZldmpMZzl1bzBoamx1ekU3QWpZVC1LWUdYM3FoYlN4Q0NybS14cTFQRVFFYlNMRE9vQU1ad1RkXzB3WFZ6N291Q0dMZ2MyWFdVLU5XV18xQVlBcHVQbWZvR3ZIZ2xNd3hN?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-08 21:51:36",
+    "chave": "1286461a2a608adc49a7ee3e030872037d798b1f20e9094c60a07a0a3fcc8863",
+    "titulo": "Banco Central diz que R$ 5,6 bi estão esquecidos nos bancos - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGUxdEg5M0FnNDZ6TERnMW1nYkUxYUNqdEEzQVRrUmFBcTJxUnFXQmZ3VUgzcmZHVTBaYkpMSlhaTXF3Y05nWTN3YnExSnlfQ0ZKc1p2bG8xOXk2NjVjVWhKTW9QbDJyZmtlUUdEWjZIZEtXZHpqcXdsUmRGdzRTVFBTNzRnaS1jdDU5RXhCaXlvZXFMOURLUVNhanM3UGNTNlRn?oc=5",
+    "fonte": "Poder360",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
     ]
   }
 ]
