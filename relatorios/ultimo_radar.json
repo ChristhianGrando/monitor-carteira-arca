@@ -1,84 +1,37 @@
 [
   {
-    "titulo": "Banco central da Polônia mantém juros citando riscos de inflação - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central da Polônia mantém juros citando riscos de inflação Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0RWbEhyU2R3VDVmalBka1hnb2tva3Q5OF91SGJhRzJzaURsdWJQU0dTblB0MUhsUUNlVGg5VmxvbFBUQkp5dmt2dnpaWmM5cVRvTEt4QVhnM240RW14TmNhLTk5aHNvU1BZZVIySXFCQTltbjdSdmlEeXBYN2psRWVoREs4OXVXeTNzSGtQQVFhdkxGc3QtOU5WaDl3WXpwVUEtR2R6Znl6NnFMNGd4SU9ENURvQXNIVnp0cQ?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5b9219038a8e39e1860e6c1913e9e25d72f4d8ebe504e0df7e7bc9859d31edc4",
+    "titulo": "Petróleo bate US$ 100, crise no STF, dólar, Ibovespa, mais agenda e pílulas da economia 09.09 - GZH",
+    "resumo": "Petróleo bate US$ 100, crise no STF, dólar, Ibovespa, mais agenda e pílulas da economia 09.09 GZH",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPQXNuS2t2UFZjaE5aZUlaeUFCd1dJQTcycW8wU00yUmxCTEIxVVpqanBRZW1ydTdhQVNoLVIzZWIxeG42STR6NnlrN29XMGJESWtCUGJvRVh6N2NSN3N3TldXVXN4RjNYYWJ1eV9pdjNENzBla3ViXzJJZG1Dd1Z4NW9YVUdxMUZVTzlmTUFQVEpkWjJDM2t4YU9DMXV4NWpsT05rUkxOVXBNZW5uVEpVdVpOQlJWSzh3SjFIRFFlSTlYYkJORzVnLUh1NnIyakU4V2hkejRYVi1MWDdiTXZUVmFPQ2J1X0hTYVZoZGM5N1QxYmZtUlBNYU5sUUJKS1BvUjZNU2RMYUp5ZU80cHJGQWd1V1pfQmZLeGJB?oc=5",
+    "fonte": "GZH",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9b1257bf6551cc8218e64b6b7dc0ca343229067af7cab930003621b256472dce",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11",
+      "KNCR11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Real Estate / FIIs"
     ],
-    "score": 14,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco do Brasil atualiza valor por ação de JCP corrigido pela Selic; provento será pago nesta sexta-feira - ADVFN",
-    "resumo": "Banco do Brasil atualiza valor por ação de JCP corrigido pela Selic; provento será pago nesta sexta-feira ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzRHT1hsSngxV2ZPMVdGUGNuSU1ISmdTLU9lX3pWMDY3SGJUR0RRbmN5aHpNb1Eza0JIVEg5cDgxbUY1Z1NDMXJrMVdqR3hzMGNpRG9EZWwxREZNckZJc2llX1M5OEhZT2FWMDZ3Y3F4LUZMV2F1cFZUSmJsb1FDVVFlbGpGT1A3U1JPZ2pCLUZhcGtvejZKbnlaV0lZMzRpbFRsTW55Mm5UV1labTlEYVdpdTlEVG9MbTNVTVNiZjUxQzBFa3FEWkRYSnQ0TnJVQ1otaG8tQQ?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "fbad8df06f51804ac3c9343f1a9b0a00d7762b03777bcfb44bc22e7595f50765",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco central dos EUA avalia reduzir número de reuniões anuais para definir juros - Valor Econômico",
-    "resumo": "Banco central dos EUA avalia reduzir número de reuniões anuais para definir juros Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSnpLY3UtYjFrRk1iak1VUjVBUF8wdmxBVldlSzRGdzVSTno5bzQxMTlOU01aUk1yVVAyMGkweW0tZjI1dl92Y3NrLURMeGVyRU8wS1hFajY4M3FUek51TENFX1d6RDlUVTNvaW5aZWhBUEJfM3d0THFMdGRLME52M1lYQlFCSDRBb09peE1raFFQT015TVJiYUtLaDhKSFhLVjdBdEYxbHc0ekYzWktDc2wyUE9feXZzSV9fNTdB0gHMAUFVX3lxTE84Z3pSV0l0UlE2TjUwX1ltZk5JLUhVNjE0RDlqMHc1VkpIbWZlMjN0Rl9OdDJneTNJRF96TmpDeThrTExzZ1BQQ1pxVW8zUnpRUDhVUmpYa1c4QzRZTjBLNWJjTzVFZFZkc0JYd080UmdYOEJ2MU9xS1NyRUpoWHU2VGtocV9zR2piQzdzU3U1U3drX3ZfM3FCM0tqdjVoWDd0WEtkQlNuRHMwSkFTeEJ4SkZ6c2lSZXJIZUFQWlU3QVRzV2MtVVA2Nk9vcQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "29202e10300df563003ae439acea4ceac3b5b0cd12eb155022e3ca22294f5c3c",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Fed, banco central americano, avalia reduzir número de reuniões anuais - InvestNews",
-    "resumo": "Fed, banco central americano, avalia reduzir número de reuniões anuais InvestNews",
+    "titulo": "Fed, banco central americano, avalia reduzir número de reuniões anuais - investnews.com.br",
+    "resumo": "Fed, banco central americano, avalia reduzir número de reuniões anuais investnews.com.br",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2pkMGFTeXJjQ3FVZ3FOdUtOWGJiQXlFdDhyLWtOaTE3aUh6Y0lXRUFUZm1VRUJGQmNickdhaEJNeUZBU1dRYmVER2V6MkxPOFpjYzZZaWpmR1gxZnE1VkZzcW5mT25Cc0tOMzRvdFN4b2xYakFkcWlfUmE4dEtvU2NiVWVHbmI4NTBjRG0tZC1OWXFnX2VHSDc3cl85Q2RRWks5UEhPUdIBrAFBVV95cUxNUXJ1M3Q1b3p2TUNrSXFHVzRaQ080NzBiYjh6SENhZVowWjFIR2xmNVUwWkVYWmRhMTBqV0h2THgwUXAyV2V6RFJpeFJZUC1XWVpkaFdGYVhFUHB6NVVfRlY5U3JpVUZzcDVPLXVzOHY2LTdlMElfM3VMWFdBdUo1RWpIRFdEY1ZNSldMQzQ2VGRGT2ZqYVB1LVdicDFJQzFWbjNQWEVCWGlhQXVC?oc=5",
-    "fonte": "InvestNews",
+    "fonte": "investnews.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "042a13c1dde2335c7cac5468a2757bf17886cb062e097316b9b4c41d60d6db82",
+    "chave": "4120c8b6e90c24d112d61e70f5d6e5bda8e4375aa16eb17062af0c492415f43b",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -97,12 +50,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Notícia Banco Central alerta: mais de 23,5 milhões de brasileiros ainda têm dinheiro esquecido nos bancos; veja se você é um deles - Kinvo",
-    "resumo": "Notícia Banco Central alerta: mais de 23,5 milhões de brasileiros ainda têm dinheiro esquecido nos bancos; veja se você é um deles Kinvo",
+    "titulo": "Notícia Banco Central alerta: mais de 23,5 milhões de brasileiros ainda têm dinheiro esquecido nos bancos; veja se você é um deles - kinvo.com.br",
+    "resumo": "Notícia Banco Central alerta: mais de 23,5 milhões de brasileiros ainda têm dinheiro esquecido nos bancos; veja se você é um deles kinvo.com.br",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVWxDN0JTUE5lRjdfUExIV2Ezd1hwd3ZtSW5XSnhacFM2YmRJNGp4RktHWkgzaXFwUTNQMkw1T25VRnpXUEd6UmtoNE5tTHBXc0g2X04ybHhzT3BGM1VlN2ZRZGlmaERNUVV6emR0MHJrcW9EOHJrUWdidjJwbFdmS0g5Ukp4cEZnX2VLVm5WWXp5a3ZfZjEzb2hleGZSYmREZHBwQU8yN1RUV1FUX1FJM044ajYwQTY4VWU2N3FMZ09PV1RlMktWZ0taMWw4V1R4M2RqVnVIQVFwLWEzZ3hMWjU0Zw?oc=5",
-    "fonte": "Kinvo",
+    "fonte": "kinvo.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f217c1ca09255c4c90b0f97b1c036579c1511162dac80eea21a9156e29e029b6",
+    "chave": "45f7794f55cddd739434d523eaaffd15c17c4498346fc33cc959b5c2530e6690",
     "ativos": [
       "IBOB11",
       "CDB 100% CDI"
@@ -112,6 +65,50 @@
       "Caixa / Reserva"
     ],
     "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Pix internacional e mais novidades chegando, revela Banco Central - Estadão",
+    "resumo": "Pix internacional e mais novidades chegando, revela Banco Central Estadão",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUs5WHNoOVFXQ3FRV3ZwR3pNQlFJWWN2Rkcta3BiOWxIMGkwanIzT0Jzci1nQWx0cnhyTUpwZko1bTdjSEpSRkdZREJSYVRRS1NuVlh6NlRoWXZyNEpDOW83bTBQVEt0ZnVhMjhwOUJpM2NmVVFRNGZvZ0ltTDVMakFMYUtySHJKVWRsR2xheldEdHQ0SFJsaTdQM1BDemtfWkR3OEpzSVZOM09SQXVDSWZQLTl3bzFnM0tvOFJ3RHNqMkpS?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "437bf98b8c8dec5b37447a7fd59df5308242ea26f081b76817d1db8aa41fd95c",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Pix Automático passa por ajustes do Banco Central para cobranças recorrentes - contadores.cnt.br",
+    "resumo": "Pix Automático passa por ajustes do Banco Central para cobranças recorrentes contadores.cnt.br",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcDg1clM5NW16anRYOHNoVTktNTR0RHc4ZU9yTTB6OEJtSlZUQVdPam5HYjg3TlhpcWg1TVpFTUdUaHV3X19wclZvN1NQUlA1al9OMGFRYk10cjFhb0MtUlFIVTE0VGFpMENyUy1SNEg1and4UzJxTWNMcWJXa1pITU80UTVXTy1YaWgwalAwVFhMOFNVU0xPdEg0Wi1xWDNiSWdZMy1XbU45UmctLXJ0NlNwRlFpNS02d0FHT0c2dHJibU16TlNvWTdRb1paT1pRSEpvY1I4RExWWmZs?oc=5",
+    "fonte": "contadores.cnt.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e5caf6802115bbaa85b057aeafd294264e4076b66c06bac3e477fbd88f66bda1",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
