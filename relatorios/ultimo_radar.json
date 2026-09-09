@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Fechamento (08/09)| Ibovespa fecha em alta de 1,20%; dólar cai a R$ 5,0858 - InvesTalk",
-    "resumo": "Fechamento (08/09)| Ibovespa fecha em alta de 1,20%; dólar cai a R$ 5,0858 InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nay1wQzRMODRON2JNQnJSM29feVItTVpRcDFKWTB1Z3d6N3h1azBjOUptSnE2NzhGaHNSYnY3SXRWZm9rcEtEclZWRmF1bGxvRmxfeGU3cW5MOWJXV1hFNGQyZjVLb211S0dpU19fZko3RzdORGc?oc=5",
-    "fonte": "InvesTalk",
+    "titulo": "BofA eleva recomendação para ações brasileiras com aposta em Selic a 11,25% - brazileconomy.com.br",
+    "resumo": "BofA eleva recomendação para ações brasileiras com aposta em Selic a 11,25% brazileconomy.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYUpheUNIbWdySUZCaWFOMDlXcDAzQjVJR0UwelVFWjNVVEd2R25ONk5BS1BtTkR4dGo5T2ZORUV6dkxuVlZNZE04el9IWF9Qb1plQWMzX0tSR1pOSGpTV01CM2c2Rm81ZzFTNkxMOTJmeEt1cm1DbEJ2LUEzX2wxdjBTU2o0TmFwLWNIbVlVMzB2bHdwMkdNY0ZScVZUYV8tLW5DYmZSbmpYbnVQcGNlRDVZM3ViVDAtNFIxag?oc=5",
+    "fonte": "brazileconomy.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "17b3b9d8e06975d492c4ad1f4c0b3035739186cfd752aaef8ba1266e7c3ebb74",
+    "chave": "75295136e18cdf1d4f1103b7979647020da1ee3a476260570f32cee2a6e7fdaf",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar cai a R$ 5,08 e Ibovespa sobe, com cenário eleitoral no radar - brasilagro.com.br",
+    "resumo": "Dólar cai a R$ 5,08 e Ibovespa sobe, com cenário eleitoral no radar brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWsteHBTekZyVXZGdURmYjAtanJrZ1FvY1FDcC1lZUlsRTExNF81aUxYa3ZTTEo1dmp5WEJvaXpuUEVHYng5UlpEQWYzYTE4NUw0R05BWFpSblcwVW4xbFZXV3VVR1lZaFJLUTUzSnBMdzN0TnJJSFpYWWEyLThpQkdmWVYyeXZHQjlrOGtET25fSksyTG1TeUdnX1Fidk9WaG9GUUk0dTdhTHFvanc?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "54c4742ef81888b54b4f67dc79248dcfb13936c744012623b13088efed8c9a36",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,56 +50,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Mercado financeiro reduz previsão da inflação para 5% este ano - agenciabrasil.ebc.com.br",
-    "resumo": "Mercado financeiro reduz previsão da inflação para 5% este ano agenciabrasil.ebc.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmVfTWQzbmJqRXRFZ3NvWGd0c2VqYmE2Yk5paEVVLWNQcWlJUkladGIxNUFXVjY2ZWNTNTBoV1pfVlpJUy1ORXp0R21QRHRzVDEyOENrMW8zMTdFSUdEUHFfcUZuWFlNQUR3MUxLNHdyUmdsbFhVQ1p6RXh1QlVvTUFGYmtpblhVU29ZX2QwMENtblFBQ2VSOTlSNkhmOHEyUWg3VHJsazl6Xy05d3UtYXl0cl91cUxwNks0?oc=5",
-    "fonte": "agenciabrasil.ebc.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f434744cba8e183fd52d33ff1f48acafd84235fbdace237e30c583a16f9bf8df",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Wall Street cai com petróleo em alta e juros dos EUA no radar - CNN Brasil",
-    "resumo": "Wall Street cai com petróleo em alta e juros dos EUA no radar CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2MzTnhXR3dTd2tVa0JVSVVidEVmTUlRVGNSb1dTV1ozQkF3QTFVQVhMUGltTUpSNXg4Y1IzbzJtanJud0ZEaGVrUXlNd191dl85WEhoZ3MzbjBCR1M4ZmVoMGhVLU56R2g4dVh1MXd2dWp0MEJNZTROWGpyM012OXdoaG9ndnVPbzFtTlFLMV9Ycy1zb2NoOHA4SzhJRGp6S2xKSTZ6N3VfVk5ybno4cm10Tmc?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "4d61da5136c904d60b83381b4ac015e8783c5f039fe31561ed2a6ea2dd1f74fd",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "S&P 500 e Dow Jones caem após dados de emprego alimentarem apostas em alta de juros - economia.uol.com.br",
-    "resumo": "S&P 500 e Dow Jones caem após dados de emprego alimentarem apostas em alta de juros economia.uol.com.br",
+    "titulo": "S&P 500 e Dow Jones caem após dados de emprego alimentarem apostas em alta de juros - UOL Economia",
+    "resumo": "S&P 500 e Dow Jones caem após dados de emprego alimentarem apostas em alta de juros UOL Economia",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ2lpSmJEYnJNZGJMeTA3dHp1Yk5xbGtlQlpJaTU4YlZHX1hhc0pDLUg3TW1NU1JDZnN0b0xtaTlUSEJlNUJkWF9aVlY5QktVZWcwaVN5VmZDMWVjdGJ2ZHpyZzFQTFNiVDRHT0pELWZyYXdOWlhWQmpGbUQ3ZlhWb0o1dEIxckJKcHNEOEZHOTNyOElEZzhvYU5ld01yWDh1a3dleWdockV2YWZ4WGlSRi1VRzYtUElpa2oybTFXY3NqNjBGTDY4YWQ3MWM0V2o0dDhpRi1LXzctQQ?oc=5",
-    "fonte": "economia.uol.com.br",
+    "fonte": "UOL Economia",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "bfd7d356412b25ff7eb285ab40a861ac837ace0baac1a18c21e16c5239b345e1",
+    "chave": "7c72b5c31e2df768fec001fcce01aed0353aaccb5a6af5279e347a10d6ea42ea",
     "ativos": [
       "WRLD11"
     ],
@@ -90,12 +72,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central prepara normas para coibir abusos na oferta digital de crédito - Folha de S.Paulo",
-    "resumo": "Banco Central prepara normas para coibir abusos na oferta digital de crédito Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYXJPZ2l2eFFSMENyT3RrUmRmUDc2TFU4VlotSm5DVkFRek1aazRmZmJ1SkxmbURvdFFCblZBMGZ2M1V6cjZjQUFJZTd3a0NRdC1xUHJNSWxiU1VBMXJlaW5kNUZwR3A3dTY0VmF3UmNmN054bVBhM3BHRHB6YzRhZHNSWTlsVEh0VGV4UWtIYUV3WnFPeDd4S0h6dThtTnJjLUhkbS1uSkthcFg0OGY1enkxai1UbU5US0ZsS1RTMWFKek1qWjNN?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Bolsas europeias fecham sem direção única com decisão do Banco Central Europeu (BCE) no radar e petróleo em alta - ADVFN",
+    "resumo": "Bolsas europeias fecham sem direção única com decisão do Banco Central Europeu (BCE) no radar e petróleo em alta ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTEEza3hkTWpvLUtuR3lHbU5IX1puZ25EMlh5VGV4QkFYaDVaOVA2cS1OTkRoaHpULU5hMWZjaVpYV2NYNmdESFFXdUdtZTRQU2h6MTYwcWg3WVlEZHRVMlhYcDd5S0lrbHBTR0g0a1NTUnBmb2E1U01DVjR2NUxYeEZ5NXhSWEFqWWpia0JEMnhBdGdSZUtBZVR4cktaNmRJUmtoaXctUHZ3U1h6WE9PRkpJRWlXa0xtNnh6Wk1nSUdWd0M2YktSU3NKcFZJNzUweVhZVGJKT1R4b0RnM1FV?oc=5",
+    "fonte": "ADVFN",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "57aef09499bdcad619a2f8264eb4d76d853aad76a9e1a75146ab9980c7fb1f55",
+    "chave": "0749aa9e87064ae0b69dfa05cc6305e2191f63c329eb24941d73a4436975ee95",
     "ativos": [
       "CDB 100% CDI"
     ],
