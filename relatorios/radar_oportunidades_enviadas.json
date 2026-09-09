@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-08-05 03:32:31",
-    "chave": "3ec0daa6736751f39e4174bc6f079cedb6e6811677f87fe122b1756f31cc2990",
-    "titulo": "Copom inicia reunião para definir novo patamar da Selic - Rádio Peão Brasil",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1dtY3psQzhfcGNiMDIzX25mT05TVmJ5Q04xc0huMGJVYXIzX3lFeS0wYU1BbHR0X3FlSFJkbEJaMGNZVXl1dkJFdDk2WU5waWtVVHhOc2hBdlpJSk13X2Y4MjltLWgtd3RYS3hIT29tR2N5elA5UUpOTDc4N0FsSjdWd3ZMcGRiWTNxbEVCenA?oc=5",
-    "fonte": "Rádio Peão Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 03:32:31",
-    "chave": "df0669df90d6a5da66413a318b8c9a2b3507d32bf4a0140aea6cf909d53012b3",
-    "titulo": "Fechamento | Ibovespa descola de Wall Street e cai 0,06%; dólar avança 0,86% - investalk.bb.com.br",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1dFhlcGR4bFdvcVVhQlNzR1NsVDFId2lJY1pMQXM4MzkxSFpwZ285MWhSVUd3WExfd211TkxVWFVoR2xPdkdPdnZfdDV0NGVQeVR6RmEyZElaMEFaQ2plc1RsWFJ0Rnc5T2JzY0pkd25FV0NuRUE?oc=5",
-    "fonte": "investalk.bb.com.br",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 03:32:31",
-    "chave": "d28aa6b08f933901322484d98a038394cfb086ea4d601ec21fec239834484bd0",
-    "titulo": "Corte ou manutenção: o que esperar da decisão do Copom desta quarta-feira? - investalk.bb.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEdQUlFNNFhYT1VUQnpUZ3FObmhGRDhMUnNlOElYT2REVHU3dmhKeTZMMGNjSzBqREloSGhBSWFuY3Eyb1dGODNmVGpOY2p2YXJnVTFzYkJmM2w0eGt1TWFGTmtfSHdRUmc4MVp0U0NDZFhZNHdCd1RKUXhOcDFUUEk4OEozLWVOTlR5MjloNERWMEJRWmdVNndJOHZEN245VE5jdnE3WS1vMU1kUTVMZFNtaFBLcGhXUFE?oc=5",
-    "fonte": "investalk.bb.com.br",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 03:32:31",
-    "chave": "0f3a3e7805d9442f92c7cb61244362452581dd4bf656e99be166abf490f56044",
-    "titulo": "Receita da SpaceX dispara e prejuízo fica abaixo do esperado em primeiro relatório de resultados - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV3I1bTd5ZnBZQWg3b1hCTE14cUx0TEdxOHJPWFk0NDF1QVVVQmRhQzVFdGx3SHduOVBTcndkMUFCR1ZRZ1lpUmlELVRUT1V1a09Fbk53VkZoRHdqNUtObldqTE9BRXk5Q0t4SHRJVVJtOHRqdmJkbDl0Zzg1eWdYeDJ2cGl1VGVWTnFOelEzVmwyZVBHQnM0MnFvb3pGd0NmbkVnMG53YUlaVXJ2ZS11Ty1TU3NzTUJsY1JUSXRNc0QyeUFqTEwzMUFaTVRUU2J3WkdzQk5BSVFfc2g0TFhSSkNB?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 06:41:47",
-    "chave": "9b2683e42965fe51d3b1d0899cf34c157be3c43e7479333312e4690227c8ad27",
-    "titulo": "Copom deve reduzir Selic hoje, mas continuidade dos cortes depois é incerta - Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeE14Rmp2V0Y0TVNMUXJSY3JfZzFDZEZrMC1GbGR6T1VpWG1uUTNZQjFzbGFjRzFmalloYXFLbkJZMWZvSHBodWJndlhmdVZlc0pZVVlUaGZnRG1BWi1TZjZENnZkWnFqczZpaVBnVS1VWmV3RWFrbHEzMVRVSUpzU0FtdERVZkNTM0V5QnhaQVFuS0k2OVJTdGZ3eVZ0VkpoX283dDcyVFl1TUxZanR4dF9LSm1jb0Q1RnVjaFdpUkYtMWg5U3EwTHRTcWhVQ2lFV0ZNMDV6RnltZEpTRW1zQV9pbWo2V2k1RmfSAfgBQVVfeXFMTzRYVkZVRUdrTnRGYi0yZ2xRVzZDRjMyLVBrYk1KcUZkTnlfOWJZNEJKbFdWa1BXUElMZXh5Znh1V3dkdDZ1WmwzRlY5UUlnaWdfbVE2d0NCZkpXNVR3bjZLYV9rZ3Z4bmdqR1h4N190V2wxT0lLMGxXeUJTdVBxSXdPYjlKLWdZbnRTY0RtWDFtd0MySFFSRUZXVUM2QThGcGs4bGtQYWY5a2F1Q0pqbGJzVF9tRl85ZUdvS1VhMDh5OEtTZUlmQWFPX3RDakY3NURldkpqc0d3bThlRndUMmpjRllfdkR6VFVXVkhISGtJeGpOdkY2MmE?oc=5",
-    "fonte": "Valor Investe",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-05 06:41:47",
     "chave": "1c6125e3831dd8126dd8bba17673ec5e35b64ac83010215698ed816f028b8feb",
     "titulo": "Dólar sobe 0,87% e Ibovespa recua à espera do Copom - Vero Notícias",
@@ -17235,6 +17148,83 @@
     "titulo": "Mercado financeiro reduz previsão da inflação para 5% este ano - Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmVfTWQzbmJqRXRFZ3NvWGd0c2VqYmE2Yk5paEVVLWNQcWlJUkladGIxNUFXVjY2ZWNTNTBoV1pfVlpJUy1ORXp0R21QRHRzVDEyOENrMW8zMTdFSUdEUHFfcUZuWFlNQUR3MUxLNHdyUmdsbFhVQ1p6RXh1QlVvTUFGYmtpblhVU29ZX2QwMENtblFBQ2VSOTlSNkhmOHEyUWg3VHJsazl6Xy05d3UtYXl0cl91cUxwNks0?oc=5",
     "fonte": "Agência Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-09 04:47:50",
+    "chave": "17b3b9d8e06975d492c4ad1f4c0b3035739186cfd752aaef8ba1266e7c3ebb74",
+    "titulo": "Fechamento (08/09)| Ibovespa fecha em alta de 1,20%; dólar cai a R$ 5,0858 - InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nay1wQzRMODRON2JNQnJSM29feVItTVpRcDFKWTB1Z3d6N3h1azBjOUptSnE2NzhGaHNSYnY3SXRWZm9rcEtEclZWRmF1bGxvRmxfeGU3cW5MOWJXV1hFNGQyZjVLb211S0dpU19fZko3RzdORGc?oc=5",
+    "fonte": "InvesTalk",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-09 04:47:50",
+    "chave": "f434744cba8e183fd52d33ff1f48acafd84235fbdace237e30c583a16f9bf8df",
+    "titulo": "Mercado financeiro reduz previsão da inflação para 5% este ano - agenciabrasil.ebc.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmVfTWQzbmJqRXRFZ3NvWGd0c2VqYmE2Yk5paEVVLWNQcWlJUkladGIxNUFXVjY2ZWNTNTBoV1pfVlpJUy1ORXp0R21QRHRzVDEyOENrMW8zMTdFSUdEUHFfcUZuWFlNQUR3MUxLNHdyUmdsbFhVQ1p6RXh1QlVvTUFGYmtpblhVU29ZX2QwMENtblFBQ2VSOTlSNkhmOHEyUWg3VHJsazl6Xy05d3UtYXl0cl91cUxwNks0?oc=5",
+    "fonte": "agenciabrasil.ebc.com.br",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-09 04:47:50",
+    "chave": "4d61da5136c904d60b83381b4ac015e8783c5f039fe31561ed2a6ea2dd1f74fd",
+    "titulo": "Wall Street cai com petróleo em alta e juros dos EUA no radar - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2MzTnhXR3dTd2tVa0JVSVVidEVmTUlRVGNSb1dTV1ozQkF3QTFVQVhMUGltTUpSNXg4Y1IzbzJtanJud0ZEaGVrUXlNd191dl85WEhoZ3MzbjBCR1M4ZmVoMGhVLU56R2g4dVh1MXd2dWp0MEJNZTROWGpyM012OXdoaG9ndnVPbzFtTlFLMV9Ycy1zb2NoOHA4SzhJRGp6S2xKSTZ6N3VfVk5ybno4cm10Tmc?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-09-09 04:47:50",
+    "chave": "bfd7d356412b25ff7eb285ab40a861ac837ace0baac1a18c21e16c5239b345e1",
+    "titulo": "S&P 500 e Dow Jones caem após dados de emprego alimentarem apostas em alta de juros - economia.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ2lpSmJEYnJNZGJMeTA3dHp1Yk5xbGtlQlpJaTU4YlZHX1hhc0pDLUg3TW1NU1JDZnN0b0xtaTlUSEJlNUJkWF9aVlY5QktVZWcwaVN5VmZDMWVjdGJ2ZHpyZzFQTFNiVDRHT0pELWZyYXdOWlhWQmpGbUQ3ZlhWb0o1dEIxckJKcHNEOEZHOTNyOElEZzhvYU5ld01yWDh1a3dleWdockV2YWZ4WGlSRi1VRzYtUElpa2oybTFXY3NqNjBGTDY4YWQ3MWM0V2o0dDhpRi1LXzctQQ?oc=5",
+    "fonte": "economia.uol.com.br",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-09-09 04:47:50",
+    "chave": "57aef09499bdcad619a2f8264eb4d76d853aad76a9e1a75146ab9980c7fb1f55",
+    "titulo": "Banco Central prepara normas para coibir abusos na oferta digital de crédito - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYXJPZ2l2eFFSMENyT3RrUmRmUDc2TFU4VlotSm5DVkFRek1aazRmZmJ1SkxmbURvdFFCblZBMGZ2M1V6cjZjQUFJZTd3a0NRdC1xUHJNSWxiU1VBMXJlaW5kNUZwR3A3dTY0VmF3UmNmN054bVBhM3BHRHB6YzRhZHNSWTlsVEh0VGV4UWtIYUV3WnFPeDd4S0h6dThtTnJjLUhkbS1uSkthcFg0OGY1enkxai1UbU5US0ZsS1RTMWFKek1qWjNN?oc=5",
+    "fonte": "Folha de S.Paulo",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [
