@@ -1,96 +1,5 @@
 [
   {
-    "data_envio": "2026-08-05 20:39:25",
-    "chave": "7dc8a25402862ef1f2fff72f7b48c87e01790d75a9b4b2d277039d3bd75ccf55",
-    "titulo": "Banco Central e cadastros de crédito: o que o consumidor precisa saber - Demarest",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVRWTWpYSUlRRjRrT05TMjFTMmVrVGNla1dUN2JOc284NW1VN1I2MEsxT0hfSXdiQVNJY284LThLQ25VWXF4a21kWU05QllHVkRqNVdVY1lWcFFTZVNBUmFBVmVoMDMwX1pTRjZzVk1HQTFKSDhnWThieUJBNnlpdWJOc0JXTHh1MW9ZYjhTUGhPdFVRNjVoTWljZHhMVHM?oc=5",
-    "fonte": "Demarest",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 22:21:37",
-    "chave": "97215934aa1bb56e05eb24e0e47dca23b798df9af3b3bbb1673520925225bcc5",
-    "titulo": "Copom reduz taxa de juros em 0,25 ponto pela 4ª vez seguida e Selic cai a 14% ao ano - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYXRhRFY3ZlZnb3ZBbFVhdXBQTGZ2ZnNKQUhtbVlTZ0tXcExkVXdPYTV6ZG9nMmM1MlE1YmFNU2hFem5DbXFWVUdZUTRKTXN2M2ZLanN0SHd4SVhBa0NsRldnRU5ITHZfYUJsSE0yZjhrSG9BS09UemdjaDJqWjA?oc=5",
-    "fonte": "Estadão",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 22:21:37",
-    "chave": "3eea2b94a08c14edeb7f810afab4d9c529ed9ea649c3b8863177a17bf8394a5f",
-    "titulo": "Copom corta Selic em 0,25 ponto e juros caem para 14% ao ano - Poder360",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTlsYXprbF9RQXhqNmpqMktvNFFaVnJZMEEzRzE4QVhMOHY5d2pjOEhjdjNPbDcyQ2U2SGZpOXYweVZGZG91eDJ1dmFhN3Q1T29qU3dJQllxZ2lFcnBZZXhwUkt1Xzh4MWVBaWpUWk9sNWp2S3YtU2t3WWxXTW5ST2FsVG44SlNtdHdQOTI5TURBeUwtVEd6VnVFSHE3Z1cxUU1OSQ?oc=5",
-    "fonte": "Poder360",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 22:21:37",
-    "chave": "89e80dd46ff447f2bf0356f3b1af72c5caf4a3cec9b33f39f79c309c549eb18b",
-    "titulo": "Copom Mantém Cautela, Mas Mercado Espera Novo Corte da Selic - Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwVDZiNUM4b29fUTRBVUFKWWh1ZXJNLTVGRDBIOXZIdXVvdmM3Rk9USmdzNFN4M2pIYWh5WEdVNkRWSjdNQXBxZHlCQUdmdThVQ0xaMWRscHdwWEUwWjhOdGhUNnpEYVJa?oc=5",
-    "fonte": "Forbes Brasil",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 22:21:37",
-    "chave": "4ab2bf5ec2a721d82389442568f0cfd865a64dcf44953ff82e59aa0186ba1cd3",
-    "titulo": "Corte da Selic para 14% é positivo, mas juros seguem elevados para impulsionar a indústria, diz FIEMG - FIEMG",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONURldjItLVpwZ1c1UUNJOWVGdWJHaGdXUnFSRVhsTmx0T3Y5cWwtUWw4Z09iVDViX3BPUnEtbGJvbG9mcnRuX1JMOWZsVEo5OW5zZlZ2RlZGUkU4ZzRsS1JFTXpQaDc1ZGprNlBQQ00zM2FGYjhEU1BibG5YTk4wS21IRG05YkNsT080V3ZoQzVyZFRobURKLWNtcXg5OF9tbjlRTjNNRm9LaUd6V3Y1bUQ1YWNpaE0xcXoyc09rWXlETklxNV9TVktoQV9NZw?oc=5",
-    "fonte": "FIEMG",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-05 22:21:37",
     "chave": "100f48406508da9cde2aa455408e745ab2845820480020d9bc39cf5e317747b1",
     "titulo": "BC corta a Selic pela 4ª vez seguida e taxa de juros no Brasil cai para 14% - Exame",
@@ -17199,6 +17108,93 @@
     ],
     "classes": [
       "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 18:29:00",
+    "chave": "3267103d83b4113201de29c0fcbaf02c1e0b740afe84586a1881d2e687c8bb08",
+    "titulo": "Com possível revisão para baixo do IPCA, invista no ETF de prefixado LTNB11 - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUU9yZk5HMmt4WTNYRE1YNVlMdWMwb28tbTFtS2czOWEtUUd1aC1xMWJxWEdMc0NRTElrTW40cUdwSHFiblZBWUVnUVA0a0lHeDRJN3pfaGw1a3NtX0R3YmlwNUtvZHNRZ0Vick1hTzZBWVcxaXNsNWt3XzZKT1hGRUJ4eWVDWHFkdTRXbnp2aGRYdloxRERHdDFQODYzVFZuVDB0MTJQN1U?oc=5",
+    "fonte": "Money Times",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 18:29:00",
+    "chave": "e118e4f883e59fae97318e76da7abfa06c60b3cd65d634f1bacfc51439818058",
+    "titulo": "Às vésperas de Fed e Copom, BCE sobe juros na Europa citando petróleo caro - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEdYTUJXeTNCaEZNdGRkN2VQV2EwT3BBWkprN0EzWnpuQllpcld3dm4yZE8yTzAtNlFLNHBqaWx3MDZjdEhobzc3WjNtMExNemU2WXZLWXRrS0hVVVB6Z3lfaUJhekljSkFDOE1SZjQ5S1laU1hJbTBTMzJtbndfTDFnajVpb2NwSEVSa1RKSTQ0NVdIZmZQdVVvdnZMaUNKc1lWa2Y2MGtLbFB6dGFZU2RiSTI0VzJfMzA5ZHJBR0pwRFla?oc=5",
+    "fonte": "UOL Economia",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 18:29:00",
+    "chave": "c4f7c58d1fe6fd454e9c00d14c177871a6eca3bf57f4f2507bcf1be204401d1c",
+    "titulo": "Buy side já aposta em até três cortes da Selic e deixa Focus para trás - VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTRYUTBqT25NOXRXSGwwUFBTb2x1bEp3dTZXelk2UXFPN1FNc0x0SXhYTWtXeGozdHUwblQwTklRUGtXQUYtd2J0bWdhUDBZRFZ3MG9fTkF5RXYtWVEzendhM204OGN5N1E4NlRsZTU4bXFFdjBZalRrZ1NMbm12cFNUZGZEYWl1ZC1YQ3dOd3ZKZWRoaVdiNjZyTUhFRXZuMVBPQ0pJdGdsZw?oc=5",
+    "fonte": "VEJA",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 18:29:00",
+    "chave": "05aef756bdb98f2d6572ebeb8652845745437cc86aa213e4f2f08587d2788a98",
+    "titulo": "Banco central da Turquia mantém taxa de juros inalterada em 37% ao ano - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWmJiM25FQ3FTazMyQkxwRFVESE5NSVhCU2p0eUFUOW04QU1vclhrYnJsVzBZeWJYSVRHV1VOYmcyZ0ZLdnJ4NDllMlVXd1lWSkMxcUhuWlc3WS11ZGl5NkpFLVM3aGs3LUMydWVUeGl2c0g0WjZpZmpvOUJkd1paRjg2MHlCbkxKYXQ5ZzJZaWpXck50UmhjaW1xRDF6dlN0eE4zLU9oRWVWdmFXUTEyYURKd05zRjRFRk9BSzBTTHFYbC10Z040MzNVMFl4VmE5LU12WFJUNkxyV1pjUWfSAd4BQVVfeXFMUFpiYjNuRUNxU2szMkJMcERVREhOTUlYQlNqdHlBVDltOEFNb3JYa2JybFcwWXliWElUR1dVTmJnMmdGS3ZyeDQ5ZTJVV3dZVkpDMXFIblpXN1ktdWRpeTZKRS1TN2hrNy1DMnVlVHhpdnNINFo2aWZqbzlCZHdaWkY4NjB5Qm5MSmF0OWcyWWlqV3JOdFJoY2ltcUQxenZTdHhOMy1PaEVlVnZhV1ExMmFESndOc0Y0RUZPQUswU0xxWGwtdGdONDMzVTBZeFZhOS1NdlhSVDZMcldaY1Fn?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 18:29:00",
+    "chave": "0d2b105a37b19359d423a8a4eb0e0168d1f63c867adb18edc96c094db5fabae6",
+    "titulo": "O Banco Central Europeu prevê inflação mais elevada em 2027 - FashionNetwork Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkFPbThmZC01Yk9OX0dsVWlZckFhRWdLWmpNUk1nZWlQN25NMmw3aks1R3VMck9ra2FQZG1NRVFFeHhhVHNJVzdTb21KS3BwQXNIRm5hVGlPMWNPQ3hBeEg2dlAyOW5CWG1BRUdoWFNzdUd4OFhXV1NWQ0V0RlRTSHVqZUFvWF82ODRha0F6OXRFeERBU1BPZlpSYWFRTGtienZ6Y3E5MlktbE0?oc=5",
+    "fonte": "FashionNetwork Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ]
   }
