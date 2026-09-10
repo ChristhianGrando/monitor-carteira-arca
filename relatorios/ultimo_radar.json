@@ -1,87 +1,21 @@
 [
   {
-    "titulo": "Novas regras do Banco Central para bancos e fintechs: o que muda na abertura de contas? - Serasa",
-    "resumo": "Novas regras do Banco Central para bancos e fintechs: o que muda na abertura de contas? Serasa",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXpLbF9naTBXdnNwS1BMbURRMTBSTElPTlZKSVM3WjNyci12U0N0eG9SNWd3aDFlbEw5ZW1uLThwY0x0aW1iTmpSclg3NFdmU3NWM1h0Z1cxOTE5dHRqV0ZBWG5nM0VPNVdTMTAzY2dxZ29WVUxiLVdzUjVoQm16YkVQYk9wTEFa?oc=5",
-    "fonte": "Serasa",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1a6f1edbaf9ab1ecd9bdc68641932880d261b1e7707db22b6a4f8e258077cffa",
+    "titulo": "Ibovespa cai 0,93% com aversão ao risco e alta do petróleo - canalrural.com.br",
+    "resumo": "Ibovespa cai 0,93% com aversão ao risco e alta do petróleo canalrural.com.br",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjVqYTNMV3MtZzRjTTZKcDNJNVpuU2hES0tkUU85djYyTFpoa1dwVGJ4MXBKeXRseDI0WUF5dUFCY21iUDM2ckt0akNsSEJNd2hCLVoyYjRlVENuYnhTVTd3cndaVF94d1B0MjZnZDhGUUd2MVhlbnVEeGVEc2xTWWZCcVN0R1IwaUgzQlhZQzh1ejB6RFB0ZzZ3Ujg?oc=5",
+    "fonte": "canalrural.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b1aaf7e419ad920fd172673e8205b4c0ee974ffa50c6b72471f7534b5c25b569",
     "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central: IC-Br avança 3,61% em agosto com forte alta de commodities metálicas e de energia - ADVFN",
-    "resumo": "Banco Central: IC-Br avança 3,61% em agosto com forte alta de commodities metálicas e de energia ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2dKbFVQZ2EtdWprMmFxb2Y4SDZmVTB4WHNFSFJxNTNCMV9FbWFHR3FXVVpscEpqMDlzZXRGZ3RXTHFYOThqcG85NXV5bVJrUGlkWE1xUm1kMWM5Vnc2SUROZlFHaGtfcEpTeHBmR0JEYmtPLVNzQ0hvWVpNRDBaYVRRa09UdzJ2a19wc1I1YThmYll4X2dydXhZQkY3VFU2bm5LWlNYdDBLMUJ0Y2U0WmR4QXJCdzNMUVNyT1NvV2pPTy1EU3ZFVGtR?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b496fc00cf540e6ec504d65799d9dd497f6b0a2cc41f7ead9df59f3e08644445",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dow Jones hoje: guerra entre EUA e Irã leva petróleo a US$ 100 e pressiona Wall Street - Estadão",
-    "resumo": "Dow Jones hoje: guerra entre EUA e Irã leva petróleo a US$ 100 e pressiona Wall Street Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ21ub21zV05lLXdVbkVaSkI1c1hzQ0pFQUlvbTVHZ18xOWFUTV9DNXpHbmxHakN1QkNBNkhETEpka2R5SWxGSTA2ODZGSGswU21jcDBranlTZm9jZHJNY3VHamtuYmRfUjFSYnFZbV83TEFQVGphWXF6UGZyMlFOUDdxX3FxcUFKRlIycEhNcElmbF9lekFUZ0l3bVpuU24tUVp4LWx6djE4c2s0bi1EVnNBMEllUDVWM0dhblN6LVhncHpXdHJvZFVDbjRTc01SYVhDdDFB0gHbAUFVX3lxTFBrSmhtaExSU1luSUVMSTYyYzFlOERERFlqc3pxWHFQSUcyRU9rNDBGUGNlYU42MjhNdGVxX1owQUowbzRCd0s4Ti1zdG95NjhoTm9kNHJFMjg5Q2tUN1dXVk40d0ZEWHM1QVhISERGRXllRlJfUVJicmRkZENfZFkwVUphNWVzS2JwaFpfZUVUeVZDcEFQZnhJQ0dKLTZCc1pONjNrdGd1NlhPdmpuREdOUHRLMmt0UmNCZEs0ejZiVm9BZEx5eDQ0dDljRkJVMDlSXzVyUV9tM3hldw?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "333cf3b4f43b6991f5c069b708b89280c23a7360a8d7b0bbf7bc5eea382f89c4",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Inadimplência pode prejudicar ganhos dos FIIs? - CBN",
-    "resumo": "Inadimplência pode prejudicar ganhos dos FIIs? CBN",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNDItWHV0a2duVnlVUVdjV05RQnFuUkRjeEtrZ0dLSlpTaG9odGZ0UFN2UElwbGF0b2xNNFU1RFhDSUhnaW00Q3RZMVhCLXlEeWJLRjBVWjdFaHMxMFRsSGZvcDBndEE5bEhjTXRxVTdSR0RCMnBFVUY5ZzNGckthcjdEWmNycHRDakhzWVdzRldnd3NUZ1Jkb0Z2cmVTS1F5V2I5aHRON0ltcUZORm5zU1pKM0k5SkVac1BWcTMyZGdxcktqNXUzdTBB0gHYAUFVX3lxTFBSTkJtcmEwTzl2WHZ1RnJwbkY5c2dMa09Gb0NTOGNETmQ2aUs0M213UHdMelQyRkRQSk1MeTJsM2lpVzJSQVNDdVNOYnI4MzFUaFNGdHFtNlp3alhWN0lpNjhDX3ZTUlNPZXhPUUdpMEt4Y2RkSGU4cG5Db2VpQWpmMnlwSzY3UFR4YkxCMG85UzJaUmtxRXAyLVhyeVhuUHRUTzBnLWZ5dDJ6TEx0QlRLcHlYR19ZVmhfU1N5YThoSWxmTDg1TDRFMkk2aThMNnM3cXNKamJjcQ?oc=5",
-    "fonte": "CBN",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "60b48315922d463147598801635d6575cbb460d81e9540a476a47db7804486a3",
-    "ativos": [
-      "KNCR11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
