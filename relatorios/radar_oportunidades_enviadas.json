@@ -1,100 +1,5 @@
 [
   {
-    "data_envio": "2026-08-05 22:21:37",
-    "chave": "100f48406508da9cde2aa455408e745ab2845820480020d9bc39cf5e317747b1",
-    "titulo": "BC corta a Selic pela 4ª vez seguida e taxa de juros no Brasil cai para 14% - Exame",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYmlFbkNlWDNZM1BJTUVGOUh6NENsV193VUhwSEVDbER3VFgwZUpMSzJmOHdLSEJGWmV4TlJfT2UxNzhkZlBHMUxsc0JVV0NFbmpLeTlPQnBaV0NUa3dkOXZBcm1PWnl5anQxVGcyZDBDTFc4bzFFTExUVGw0WDFJdlZqYlVQbDJTSHJQVmJQUFBfNXktYU1VeTBOU0p6bkM3TFhhZA?oc=5",
-    "fonte": "Exame",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-06 00:10:09",
-    "chave": "0dc3232b2819f3cef700ce60333d9da5a384b52e8f6690a891e4fb341347884f",
-    "titulo": "Copom reduz taxa de juros em 0,25 ponto pela 4ª vez seguida e Selic cai a 14% ao ano - estadao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYXRhRFY3ZlZnb3ZBbFVhdXBQTGZ2ZnNKQUhtbVlTZ0tXcExkVXdPYTV6ZG9nMmM1MlE1YmFNU2hFem5DbXFWVUdZUTRKTXN2M2ZLanN0SHd4SVhBa0NsRldnRU5ITHZfYUJsSE0yZjhrSG9BS09UemdjaDJqWjA?oc=5",
-    "fonte": "estadao.com.br",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-06 00:10:09",
-    "chave": "6be073394113b8cd75b1b6a7ea91f76ed208ac74b7d8744373292a87eaefeb65",
-    "titulo": "Copom reduz Selic pela quarta reunião consecutiva; taxa vai a 14% ao ano - borainvestir.b3.com.br",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1M4clIyR0tUX21tM2dFcnpZOFQtYWtmM3NKR185azJCQ3JCblZybzN1ZXR5eDFwdUVnc3YxRkstU3NHVWdiOUJNczZPV19CT3prbVZEUVF4aTJWQXMtM0xQU05vXzRES2hDd09Yb1BvRVA1cjBtWHgyN0NOVm9QZXI0VFd3VnZURURDLWlwWUFUeEpxdExZalRBVnp1M2Frd2pRWE96WmlETmhYanZnTQ?oc=5",
-    "fonte": "borainvestir.b3.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-06 00:10:09",
-    "chave": "57bf33382561bba179a84c5adeca9aebd7460c8ef44b6d7802adf25700681563",
-    "titulo": "Copom reduz Selic para 14% e mantém ciclo de cortes - Safra",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VN2UxZy03aE9QbEVrcUwwN2x4UENhdzBhZ0pNM2M0S2UxWFp3R2tVeUNlejdTU09yX0Jfb0phMEU4aXQtM2tCLUhNUEZfb0Z1OEh6M3Y0eXo2VlNfUlEtUDU4ZklMYTRIRHpVdVN0U2xDYTVz?oc=5",
-    "fonte": "Safra",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-06 00:10:09",
-    "chave": "3356bdf3a3b98b96495e89d2f9810383243313e3e124a744395a60b548a882eb",
-    "titulo": "Selic: Copom reduz taxa básica de juros para 14% ao ano - G1",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUxHWkZid3ZIV2VSenhwQmlKNkpOM2R2LXYtYXVnX2ZMMXdpLVVvdzdWallWTE40NkFUYXRtYmducjVpaXo4dE1wUmlUUGJOVFBxMFpsdE9Sd0tWVlFDZFB2b3FlWEJXdFVMNVhfVm9wTWhaYWdrNGx6S3loSXNGNGwxeUIxZDBsRXJVaUxaeXNoc0psYWZSY3VwZzdhOWx6ZkwyR1dQZ1hkUloyd3ZZRkJmN1RIdw?oc=5",
-    "fonte": "G1",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-06 00:10:09",
     "chave": "18fb5217e98a7abac676d2e299e474c77815b16d49d1e8d66b50eae4a3dd7df9",
     "titulo": "Copom reduz Selic para 14,00% a.a. - InvesTalk",
@@ -17195,6 +17100,91 @@
       "CDB 100% CDI"
     ],
     "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 21:38:16",
+    "chave": "d71766c71fa7413154964338c8eea3a683609d0b6ca519daefb181daadafbf4a",
+    "titulo": "Dow Jones fecha em queda, com alta de yields de Treasuries e preocupação com inflação - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTldBcE41Q0NUNjdnNzJsZk9Na1B2RGFfNVB1cnRMcVktTHlvZE44SUJucTNQa0dfOFlCTkJpam1uWkRWSTlha29lbXE5cHkzd1lSVFp2MnRBV2tCV1A1TE41Q1A0OFBad3lJOHQtYUtWeDAySnd1bUhJX3ZpRF9Yb1Q1VzEtZ2Q3dWxjdzhrX05mdlBKa1ZlN2JMaWxfWGRXeU1KQ01xaE5VYXdURHpXc25aOEdueG1QMW0xNFFkZG_SAcYBQVVfeXFMUEdYZUJ0YWJJeVRwZi12TElWTW1mVGxRV3htRVFIVWNOa3Z5VE5pb2RmNnV1QjE4SDljSklYckpNNlVPbXZEM3VvOFhEQlhGTTRjNlQ4b3pIOHAyRUVnTm9pZDJBTXlDQUtpeENjY3hoOUh2T1p2NDNGMmVPQkgwOF9hUGUzTVBjUlhJeHNrUWZKSGsyVUNDMUF5LXFzRUI1WnBIM0hVaFVxWXFlS0xsVXlsWXdrdk1kbEk4NllGZ3RjZENnYUt3?oc=5",
+    "fonte": "InfoMoney",
+    "score": 13,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 21:38:16",
+    "chave": "dded5c7b340fd81c96d42cae0d011bb1079d13489e9db6625ed26bb7a4d913db",
+    "titulo": "Opções indicam 95% de chance de corte de 0,25 ponto na Selic no próximo Copom - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnBDWWpuWG9zVWxBeGJ3bXJRX2k5WlQ0U2RkZWhpX3Fra1pGRkxhOFMzbzRpaWltQkhGTk16Y3o4UTY3ejZqRGlMaUJfXy1FMGY0MUVWNkNSdnB2ZUxrRXgxNFAtVzJQTWhyc3I2WlI0UjB4ZkhGbWI3RWdoWWRQallpekFscE9LWndJeVR3N0FXUmU5OUtMYzVBOWxZR2VQbi1sWUVOZFN4R0ljSHZwRktFRWvSAboBQVVfeXFMTTJQaDlBSkNiS05MMk5aRzZwYVFhSWtLSWtjMmlsaFMyN05GMUZJQVhQRW5nMm1MSjdIYk54ck9Jby00N0g2bWJuVnB5NEk2S1ZHLU1yNUJmOVF1UW1tNzdFdXdIX2ppOXJ4ZmVESUpBQS05MWVoLTdtTGpsQmhzV0E2ZUJtaGdZTU41Z2ZIZndpVl94c3VDZ2hwdDV6ZE54UEdyZERwYnA2MVhVR2YwNE5nbUt1Um1qbVBB?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 21:38:16",
+    "chave": "bae2facf1fea6d41ee72137868bf7e9f249a6b9487cb09c395b63a0e459c1a7d",
+    "titulo": "Expectativa para a próxima reunião do Copom - monitormercantil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbS1FRFpLWmNoOFF3c2NfMGM4QUxreWZSRlZuZEV6cTcycjBDYnlFS21UUVNrNC1DMlV4ZGxyT0NFWDBkNTNFUHRrdlZlZTlQMVdkaTk1T3dmam1fa2NTOUNsTHB2TlU3NW5iOUxIcndwaHg3eGVpZENZWHlEQ1dnZDNhMHhVdw?oc=5",
+    "fonte": "monitormercantil.com.br",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 21:38:16",
+    "chave": "654feef60d21816ecbbb31f1b9b3a3628278f0cd3760c0c51a351f6ee57d70af",
+    "titulo": "Dólar opera em queda e Ibovespa sobe com investidores atentos à disputa eleitoral - G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xREdCVktfR1BrbEt4NHZYQS1YMXU1SVVSUUIxd0RaVmJjWFZNMnB5aW1Cbm8yRGpiZjdYWU1QUTBITHZPSmlhS0piNF9tQ1ppUXQ4OWRGOUhTSFBFaVppVTBvVWt1MU9rVEtCbWlRRjNvRXlBV2RjLdIBhwFBVV95cUxQeUg3c1N1YUtWUl9rZTgzRlNYUHJ3VGZLM1VJR3VtNk5kcFZDVlB4Qk9UalJpRnpGd1hLZmRCUkVTTVd1NWNEblpHZXhrNGtEeWJpajFvQ004UnJ6RzBWYVBrTXRCRElZRDRCcDVsOVVONGJ5b29DMWI0SFBjUmFnQy1hRDk5WDA?oc=5",
+    "fonte": "G1",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 21:38:16",
+    "chave": "e4d866f5d666f378baf9c75b99f0193ea029f180a7c708a060b97d9276ad2247",
+    "titulo": "S&P 500 fecha em baixa, com aumento dos rendimentos dos Treasuries e operadores preocupados com inflação - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RVlCb1dDZHhNYTlCZmo3QVh3c1JSUGxsWHBqRmRfLTVwQ1FqZ2tJQmZpYWpucnRFcHNXekVmUXA2R3h3Sm9tUFJxbjZOUU4yYmNRendFanJCN3VtTHRWcnk1a2hhZld5X1R5SHVacnVaek1LZzY0?oc=5",
+    "fonte": "TradingView",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Caixa / Reserva"
     ]
   }
