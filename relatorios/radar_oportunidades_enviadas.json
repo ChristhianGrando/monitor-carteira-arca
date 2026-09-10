@@ -1,40 +1,6 @@
 [
   {
     "data_envio": "2026-08-05 18:52:29",
-    "chave": "5a8c2adb1aa74bab31bc8ff33b372eb7193bd7663a4c030b34f6c5fcd74eca69",
-    "titulo": "Selic coloca FIIs mais arriscados na berlinda; veja o que derrubou alguns fundos - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3h0cHdiVWRIbEFjNXFacW96eTlGY0NlcG80LUJreTltZzVVV1ZicEpDWmN2YlV1b3cwN3A5QVhrOWVNY2VEMWxWVkcyS3g1dC11R0dUZkdQZmNIUms2SGh4YmNjUUFycFBBNEdWb2tWWUhTd0FXdHRZbXlNMWhjUU1jdGFSanhxTy1OUjRRSEUtbHJSU2djeVhBSGxHV0dSRGdnZ1hUQ3dmNWRNNUh0MTBKeHlSY181ak1rM0pnTTHSAcYBQVVfeXFMUFhmeUhIRU5DTVhQTjAyV040ektjOFZSNHNnNmhORTNCMkxpaDhuaDZnNnRzcHZfUW9BMWNGcWZMTERaT3p4VV9kUEhiMC1UcXdiVzN1Smc4M19jYTFRNzljbUxndkQ1RGtfR2ltUUdFQ0tXTlVWeDdyNG55a2J2U21XZUFUWGtETVp2YVJOT0stTU0zTlJuZ0dES3lPTGhsS0tJNmFLX1pSeFd1c29ZVmJKS21nR2FJdWNxWXE0Vll4VHY1V0tn?oc=5",
-    "fonte": "InfoMoney",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 18:52:29",
-    "chave": "1daefb6d4377f5689fabbc2793309714388329e5b34fc0dd6bf621e6612db868",
-    "titulo": "Banco Central testa Drex para automatizar operações financeiras - E-Commerce Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkFDYXhOSkZlY09CcDFJemVKU09NbERWSy05Zi1HOWNYS1JMQUcyNktNeTh3T1gtdFA1bS1wTXUxcS1fUTlMeDk3YjhYd0hHdmNVRERieC15Z1VGdVNaWmZ0SWRmRU1LY1g5cXZIVDBxb25DYVJrOFl4VmxCeTNFOGN2cE02eS1zV0EzUkhmLXRlR0syazIwQkxJOE9hQ1l0Xy1kODc3Z04wTEE?oc=5",
-    "fonte": "E-Commerce Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-05 18:52:29",
     "chave": "763a9183e6664f619a003cd14722da507d4e1a88c22ae27b2f9cf7ccc8ab2960",
     "titulo": "Ações da SpaceX despencam quase 13% após divulgação de balanço e gastos em IA - Folha de S.Paulo",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzVUZHF1dkFfNHB2bzV5RVUyTEdYLUlCVERlMEdabFk0SXpoTHhlNlhYZ0M0U0VFQmx3cWFuYUh3ZHQwMHhhWVFaakhfNmVleWJleHBwSmQ0Z0FhUTA0QnNxSVdWbGpUS0N2cEJNaS1pRWplUkhJWGpGZ3oyT1F4MWpMalhqOVR4ZnQ3REJlZF9KcGVYTm44QmcwMXN1ZGUtbDdNRTdkb0xqdTIxVzhuSlhkLThycEUyemNGS2U1WGhsQ3RpYXB3S2h3?oc=5",
@@ -17197,6 +17163,40 @@
       "IBOB11"
     ],
     "classes": [
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 09:44:33",
+    "chave": "a294ca0fcece6028c49e674c15f8a371c61d730ac65137c655258add944986be",
+    "titulo": "Dólar fecha em alta com petróleo acima de US$ 100; Ibovespa cai 0,93% - brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2NwTGZhTnE3Y2FOTmg3TmdtbmxabGlqOTZUTnNoZ2t0TUpSMV9vcUp4OGJ2RkVvVkd0QTdGQ1ZHS241T0JEbjdqOEdQY3Vtb1FJa241TGpsQWwyVklQajFLQVZCS2tacDQxLVRtM3RRVXltT1QxdGhrRTAwTjAwbjZIcEttQmZCQWYzbmR2N05JbmNHQWo3RU5iLS0xYlNyZnZfaWJXNTEwSzJXLWc?oc=5",
+    "fonte": "brasilagro.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-10 09:44:33",
+    "chave": "a9258870a4828f0e8f682b8c4e5083406896ad329b37a24c37fd28e1e4c21074",
+    "titulo": "Dólar sobe a R$ 5,11 e Ibovespa cai 0,91% com tensão externa - Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2xsVEJaRDVlbXdXV21LZkhyeE9XRTl0NGZwSFpMSlpVZWxmaHFoeG1GbGZYanRjMXNHaFk2T0VZR0lPM01sUm5iZjFSc1BKQmtMZHJHOWpoX3Ayd0paMVR0eFFBYmNsUVJPcEZXZ0V5ZjNIdUpsdEh1NU9HdURpeGx0d2FFZExSUFM2al9Rc1A0eTBxbmc?oc=5",
+    "fonte": "Vero Notícias",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Ações Brasil"
     ]
   }
