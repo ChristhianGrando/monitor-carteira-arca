@@ -1,37 +1,34 @@
 [
   {
-    "titulo": "Agribrasil desiste de IPO na B3 por “razões de mercado” - TradeMap",
-    "resumo": "Agribrasil desiste de IPO na B3 por “razões de mercado” TradeMap",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53OGkyLWEySDF1X0Z4ZFJ6cy0xVXVfSi1lQ09VazV3T3NIbnc3Q1d1RUc2WWVyM1RKZFlpTEN3SDhSM3BzdExZSTdOeUVCdkV4c1VnS3lmdkk?oc=5",
-    "fonte": "TradeMap",
-    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
-    "chave": "5d3c2043d5100f2d9f080202cf7563bb672548ca227994d85dd9441f4e99c7d1",
-    "score": 14,
+    "titulo": "IPO da Anthropic deve sair em outubro e acirrar disputa com OpenAI no mercado de IA - em.com.br",
+    "resumo": "IPO da Anthropic deve sair em outubro e acirrar disputa com OpenAI no mercado de IA em.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2tEMHIyVVN4QkpIV2FORDh2WGk4ZVpKNmtzVjVYZGVoQjR0eU96QVR6UElFYWJjcUdqUlFMTU9NX2dKMkQ3Qi1GWkY2dERKUHV5NUY0b3dmZzVLOWU4ZjNCTUJvNTdWOW8zdjlSRkJJY09SN2k0QTlQX2ktanpVcTNTRXNHWDdXaW1GOUphWkw2T085LUxlaDFHS2pOWjJFNDgtLXhZM2drVGR6aEpjaHBSMTQxM0p5TmNxZUwzd3dzVHdPeUY1TWZ0OTBGT1VD0gHWAUFVX3lxTFBObXUtVmd0Y09zTTh2YkNjY0llajN2VGZxQ1YxQm9ma1lNTUtjXy1VWlYzWUJ5SHk0c0ctZDMxRUhBNzBfdE5YdUF1bXNCX2dOUmxQOFVGQTVTcEJXRWNObVJuYUtnQWNMbXJUaEpYR2l0eFhQRVQ4MXU0Qk5pcGNIQnAxZ09zR3hpdl9SOXFickJ3NEhBTVdWRHdtTi1QeVhjaFBTWGZoTkZ1SWhDdkVTdlJ4WUxtRDdYVlRRQWRCbjZjYXlnT3V1TWhJa2Q2OC1HaHFVUmc?oc=5",
+    "fonte": "em.com.br",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "2a059cac592af4967c00585600389616a00d7d089b6dd9332bb0f9f8424f3a4a",
+    "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem sinal de risco, adiamento, cancelamento ou baixa demanda",
-      "tem relação direta com mercado financeiro/bolsa",
-      "envolve bolsa, regulador ou mercado externo"
+      "tem relação direta com mercado financeiro/bolsa"
     ],
-    "tipo": "Atenção / risco na oferta",
+    "tipo": "Radar de IPO",
     "estagio": "IPO / abertura de capital",
     "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
   },
   {
-    "titulo": "Duas ações despencaram após sua oferta pública inicial (IPO). - Vietnam.vn",
-    "resumo": "Duas ações despencaram após sua oferta pública inicial (IPO). Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDN4NkFoTlpKN19raktxU0ZWdmh5RTUwb2NXeHRBYXhZVExLakFnOTJPZmp3d2tMTzcyb3hRRXUxbkZJelpSNkRwbXBnb3hhSjB2dTNmanduOWNUeC1KeHRSRzV4WU9pZE5rYkFEc3E0WU5OSk1ZZ3JBLW5Cd0JoY2l1OF9kQQ?oc=5",
-    "fonte": "Vietnam.vn",
-    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
-    "chave": "fce2249d4cb9787582f5041cd35d4f1aac69bfaf44194dca98307ee3c962430d",
-    "score": 12,
+    "titulo": "Shein perde US$ 5 bi em valor de mercado e tem uma das piores semanas após IPO em Hong Kong - Folha de S.Paulo",
+    "resumo": "Shein perde US$ 5 bi em valor de mercado e tem uma das piores semanas após IPO em Hong Kong Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkhzOGRNRzVLS3NsMlpDR1pVc19oMFNwZFRGUy1TbVVtUVZwM0J2bFRNUnFtOG9JX2xyaF8xZVJkY2gzdTZyTThHbjczVVN5VGk3bEZLTF9DOWcxNFROSmxrZnVxbDRtTmF6dk16LVFSc2liaXdrcnBSQ1V4QURWZmh1WVFUQ3laUm4zZnFUc0p6bXlDaTBCT19jdXJGbWFrOVFYUU50M3NObldEZktzb3pkZG5ralRIY0FnTWdWbHoySUtEbXViV05fTzEtdTdvcHk0Q1pOY0taUQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "0b70018af4add02a7a1bf48283e3c7259f65109d54968545ccaff970734b8a5a",
+    "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "cita oferta pública, follow-on ou emissão de ações",
       "tem relação direta com mercado financeiro/bolsa"
     ],
-    "tipo": "Oferta / follow-on",
-    "estagio": "Oferta subsequente / follow-on",
-    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
   }
 ]
