@@ -1,42 +1,49 @@
 [
   {
-    "titulo": "Dólar cai 0,18% e fecha em R$ 5,103; Ibovespa sobe - Poder360",
-    "resumo": "Dólar cai 0,18% e fecha em R$ 5,103; Ibovespa sobe Poder360",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0d5UlQtNTREcUZUbXV4a3VaM2tjbF9XcnRPYjI2clZPcWFfT0QyVEdRenVhTU5FdEUwNTJZUjZ5ampPRjFWUFM3VnQtZnlabVRGTkY3MDdnYi1KRDhieUd0V29QX1FRYzFveU9MRzRkbnFYYUVrNmEzM3QzOEpyWEFLeEtuc1dXSmNvcnBTUlYzVjQ?oc=5",
-    "fonte": "Poder360",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2ec98f9c1e342c32320d780e2cd285babbaa5d442db1d63ebf4d4a485c7c9b6c",
+    "titulo": "Dow Jones Futuro sobe antes de inflação nos EUA; petróleo cai 2% - InfoMoney",
+    "resumo": "Dow Jones Futuro sobe antes de inflação nos EUA; petróleo cai 2% InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQekt4d0FnMUJlakNNSjdpS05yMlVFSkp5bzRyeGlhSTFCZHo1djJOTWRybmROY1BjamxVb0JoaEdmQk9fUTA4WWtjLWd1TnQ5ZFdnblk3ekpEdy0zTkdvN1lFTWxNRDBabjc3WkZLZnREeUFpVzJkRnF2QzBYUFVKblRFSHZqb2FtSjI0enRPdlE3NVowWG1hZ2RiQTFBSmNoNE4w0gGoAUFVX3lxTE82c1l3TS1teXZQNEhGdmM4T1czZ1dFeTVQRGpXTy1qYkZaaDJpOU1oSGxDVEVxbHVQQUJwTm1tMmpoNUlhMEM1cy0zRThwMmRabjZWb0JjVzJXX3k2RGRrZlc2dXpQY0FzaDlwRFd3TlJLMnBBTTZJRnVQRlFqLVU1R3lSb2xOQm10QUd6SjlrdVJiSjZBNk5pcGotbUIxQUpiOVpla0dqcA?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "b2321297b3f3c7e8c39663599365ac1e9684c17d59824e8ca5a1856a5aceb230",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "WRLD11",
+      "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Fux dá 15 dias para governo e Banco Central responderem sobre ajuda ao BRB - CNN Brasil",
-    "resumo": "Fux dá 15 dias para governo e Banco Central responderem sobre ajuda ao BRB CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3ZLQ051NHV4UnRLWjdoOUpZZjFwZlZjWU92UkZMaDBfYXdaMHl2TUtxYXRiY1kwTkN6SnBlejJqTWhydl9hX1BwZS1aYXFCODNRMklQZTVFaXhnWGVHVGlKVFZ3M1ZSSUZvT0pRUW9TLUtHTWs3bUVnWmR6MjVmdks1aFZ0WGxkLTFHblJURWZOb2tub3kzMG5iOUNzNmwzaTJfNmpvTHk0bmRKVDBOcVQxYw?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "c11056f65dcffcb8093df0e24451e19d513a0a5e766a575e4482cddce9b53be8",
+    "titulo": "Ibovespa hoje: IPCA, inflação nos EUA e nova pesquisa eleitoral movimentam o último pregão da semana - Estadão",
+    "resumo": "Ibovespa hoje: IPCA, inflação nos EUA e nova pesquisa eleitoral movimentam o último pregão da semana Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVnBfNkJZZmVTY1ctaEh4M055LVhxOHlBQ3RoaG1YZUR5dFo2RWJJVU5wajhweExsOHN4NE9URlU4TlUyU25JT3J5cnpYd0NnZlFFQnJZeldxUHFNSlJNMW9seWltVUxKNnNPVDYzZFE2X3dNajhuNlFZRlhfMzJWT2Z5SWJVX2tBLURjLTFra0I1OEZONTdUR1k3NkZ3UVEzNmNSTFFBc2NtLWtUbXUzMnVaXzNJOENodHZ2cW9MRVlQNUF0MXdMVlBlVmFMaFlxektkaVRCVEk3NFpfTWxqYzdlazIwdlVyRmtzaU5n0gHzAUFVX3lxTE1BeU9VaEEzNXlMVXAtX1NvbDh6Tk02M09Edm9pWC1KSkhxNVhKb3BrajNWS3ZYbU5kWkpiY2JmZ2JnVmFwQ1VlVXdrc1hEWFpaXzdWMUxUV2wyV0dsQkNsMDNkdjFkak1MVTVycDlHV0JjSzN5eEp5dmdlNHRzWDBqSzFHa1lsTmJMeWJud0liRGk5bXlEcU9FaW94aVhPc2duNjF1eWdFMHZPVnJ5VGRFY0FrbmVIeWlwSHNEYVJqd05mbU1meHladFJ3R1M1WVY0ZVdhc1RQRExCOUlvN0pxRVh5dld0TWNTeVloMzBWQjlhOA?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b02a3881809653b99887ecc6838f79b597e497e2d48f883495ce4f753b118833",
     "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -46,41 +53,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Paulo Gala: Keynes explica por que o Banco Central tem razão na administração dos juros básicos - CartaCapital",
-    "resumo": "Paulo Gala: Keynes explica por que o Banco Central tem razão na administração dos juros básicos CartaCapital",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yVjJyeEdGMkVUMUpGNXl3c09LNHJIN2xKRW5hZVdfNTFFYXJhT0lrTVAtLVZaZGJrNGhhWnlCWFQwNFZpVXJiVy1MU0U5cXJUY1FCTWNEYTRzWkpPX0JoTFpBZ1ZDaW9Q?oc=5",
-    "fonte": "CartaCapital",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5944288c10ebfb7c410565cd800d27be955ea7df948d6a99c1827ec271942547",
+    "titulo": "Com rali em curso, Ibovespa encara inflação no Brasil e nos EUA; veja os cenários - InfoMoney",
+    "resumo": "Com rali em curso, Ibovespa encara inflação no Brasil e nos EUA; veja os cenários InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSklIc2g4UzJvQmlkSXZmME91aHJDOG1VRzYwRk9NZHFZVFE1VHA1eUhWUnlxX0w1eWZ4N1A0QnZ5ZExYdWNidGdlTVIyUGdhQzQ0MzM2cG9QUExQNnJKUjVfN3ZJZmZtYU1ncVZSa1hGMjdJSGFBbDV2M1luZkVpNUFR0gGHAUFVX3lxTFBYMkQ0S09wNUUzNGNOcXMzY2NrNlpWQlkyaVNxUTFTT1Nfd1VwdFBnbU5RUl9Ib082dEtibmxKUGZRZkZMaEJqUjFWTUFUZ2FCRkpreENCOEFwRk4zc1ZXRVJiQVo4SHkybFJiZGR6MkJCdjE1RGsyTXhMdDlFUXF5WlNLNy1Sdw?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9b435dcf83ff60c2a7a47bac2c3d3952b35205efe7477e441f5088ba9809ff92",
     "ativos": [
+      "IBOB11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central Europeu eleva juros por pressões no Oriente Médio - Poder360",
-    "resumo": "Banco Central Europeu eleva juros por pressões no Oriente Médio Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlliR3hmcFNXNGxpX19jQl9EZHRPRm5GQlJLZUkxa1U0azZxVTQ5cUwzcFpLNmZPZXBiOWNYWkRyRWNtTlJJQWdRS1Q1OVZvUWYxOGhfV2RPUEIxVF9LQnFLZV93MVFQZURWb0pqZlB2S3FxVEUwWVFJWUdOaGZMaURqaVJBNkc4RDRPMnZLWEtmUi1nOHhCOVVNOFhVZWk0VGFiTUwteWVJMHc?oc=5",
-    "fonte": "Poder360",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b3ac2d1556ec4e523eda301a9f9d93d9acd1daeac945f9c2f3e0ef1fa85dc5bf",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
