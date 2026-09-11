@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "titulo": "Agribrasil desiste de IPO na B3 por “razões de mercado” - TradeMap",
+    "resumo": "Agribrasil desiste de IPO na B3 por “razões de mercado” TradeMap",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53OGkyLWEySDF1X0Z4ZFJ6cy0xVXVfSi1lQ09VazV3T3NIbnc3Q1d1RUc2WWVyM1RKZFlpTEN3SDhSM3BzdExZSTdOeUVCdkV4c1VnS3lmdkk?oc=5",
+    "fonte": "TradeMap",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "5d3c2043d5100f2d9f080202cf7563bb672548ca227994d85dd9441f4e99c7d1",
+    "score": 14,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem sinal de risco, adiamento, cancelamento ou baixa demanda",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Atenção / risco na oferta",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Duas ações despencaram após sua oferta pública inicial (IPO). - Vietnam.vn",
+    "resumo": "Duas ações despencaram após sua oferta pública inicial (IPO). Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDN4NkFoTlpKN19raktxU0ZWdmh5RTUwb2NXeHRBYXhZVExLakFnOTJPZmp3d2tMTzcyb3hRRXUxbkZJelpSNkRwbXBnb3hhSjB2dTNmanduOWNUeC1KeHRSRzV4WU9pZE5rYkFEc3E0WU5OSk1ZZ3JBLW5Cd0JoY2l1OF9kQQ?oc=5",
+    "fonte": "Vietnam.vn",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "fce2249d4cb9787582f5041cd35d4f1aac69bfaf44194dca98307ee3c962430d",
+    "score": 12,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+  }
+]
