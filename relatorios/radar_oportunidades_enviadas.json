@@ -1,96 +1,5 @@
 [
   {
-    "data_envio": "2026-08-07 03:18:03",
-    "chave": "4db46dcd5e92a3496679e6155fd0a532ed2a42c29389c98586e9d8272463633f",
-    "titulo": "Banco Central reduz juros a 14% em meio a riscos inflacionários - MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFhGVkZlYTV5Sjk0bFBRSzV0c1dmZThkeWNzck9acmlxallSOHRxZDQ4MTZscFp1RENPVE01eDI4YkJSXzlHUXgzSVFPN1ZNazd0dUFnclBjbnNWcHBLU0xJOWVYdzkyNVk5UUVpNHRSYmNIUVVIQ0U2UjFFU1VCRW1GMjZUZm1Zci0zSFpqOW9ESDhsQW5VR0NWZm1ubjFUSjNVUHNNWnA5UQ?oc=5",
-    "fonte": "MundoCoop",
-    "score": 14,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-07 03:18:03",
-    "chave": "bd82168ba02caece8581bebc6419b2f5e7f1b53b6384946651684f5fe6806940",
-    "titulo": "Copom reduz Selic para 14% ao ano; Humberto Costa considera taxa insuficiente - PT no Senado",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeUlNdmF0LUZXMnZUUV95YVNsemNzWE1MZ1RrOHc4aUlZdGxKRkw1V2dzVU9oUVpHOXdpYzc1RkFIbEc3RlVieU1DQ2FhRWFvSWd3V19fWWxQdHl3T1hpQ21MbUh6eDR6U0pOTWxnemlkUW9CNlQ2V1FZbGE3WEtiTVYwcmVqemZ4dmotazZIeldMSjhvVHZ5VGo2MlF4VmhmUWpOWA?oc=5",
-    "fonte": "PT no Senado",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-07 03:18:03",
-    "chave": "a265b4fec7ff24c4cb94633e82ec7deb06ddc157c9752c3882e9d07c270494ee",
-    "titulo": "Às vésperas do Copom, mercado vê IPCA acima do teto por 11 meses - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZmJGZkV6VU5WSEpsQVhfaUxJdEY1ME9XeHcyOTlwN3U4cC1icVFKOVZUcWFnOXl3VElfejU2cHA0MDc1NWhvMUU5dnVsM0tPbmoxQ3VjNlA4aTNfdC1jT0lBbUpvSkJzamtTTkZQSkk3bmk1dU5wdUloSll6cTlaMS0yeFlpMnZVUWVFU3ZpeF9uN1ZNSU8xQW9sT25yNU9yMHAyV2hEck1Mb3VpREc0aFRrWnVQOG4zMy15bllFQ25XZmZ4M2Vn?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-07 03:18:03",
-    "chave": "260d304043379f705e487bda96efcd98a0cb3c2d042d242e527c5e241d5de5c6",
-    "titulo": "Copom reduz a taxa Selic para 14,00% a.a. - Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByY3paMGtDdlFXRlJzWE5rTFlKQU5BcHZwX0ppNGNKOWJfaEwyYWw5a3BRQmpNWlRhQmFlcndxWEFmX3Z1UzhqeEJaT2dZZjB2VzcxcFdZbUdTdlht?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-07 05:50:25",
-    "chave": "1fb5743bf041c79485971c66572827fba10ec65fe0d9ded467112cc416278145",
-    "titulo": "Copom reduz Selic para 14,00% a.a. - Fecomércio RS",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcklINmJjT3djdmUzUzhaWnIzUER2TWJ6QUlTdXBtZERnZGkwX0xzVDVpRF9OTUdkU0VTM1F3V0N5N2JyVk1hWUU2OVp0bzhQTVZOQWFSNHJqSEU2R3Brb3QzYzdaTkZaMzB2WFdsRDlCeGpBNUt1OXVQLWpRN2QxYXVtdVJRQlBqaUVuRk5wWGFKSU54ajZVa2FoQ1JBRDFfbFdaeC1LLXZyOUVfRDV0cmd1RXN5MmtVTUlnRGFvRVZ4T2pFM2xOTldn?oc=5",
-    "fonte": "Fecomércio RS",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-07 05:50:25",
     "chave": "c3a5779e3c47a1e57b650343f5367bb03d96a148316d120140395d73b6107824",
     "titulo": "Ibovespa recua mais de 1%, com Copom, exterior e balanços - InfoMoney",
@@ -17178,6 +17087,93 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-12 05:47:48",
+    "chave": "8e0dc07c3911fd579076747dc40d9ecf7a2f8745617fd726d7bfcfeca89287a5",
+    "titulo": "IPCA de agosto: núcleos ainda apresentam melhora, mas inflação de serviços segue pressionada - conteudos.xpi.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWtKX3hiVWVkNHFjMmVWM2ZwRHdxT01tYjRPazljM2JPUzcyRG5vaW1yRzcxY29RLXpZdDNmYUZwNDV5NEVuaEltVldIZEJRTUduTWdNWjYxWGU3enVXQl8xZGFHM1VaaGUwOGxsUExDbG5Ed1pDbHlrQ2pHUDJ2RWMweHdvR2ROUFNqS1MyYTdheHZFb2tFRTRCdXh0TWRrNTQ3ZUpYUmgya0F4OU93NzlYY0VlTVNLNUtSWnJSYUtleGZKVTA3Qg?oc=5",
+    "fonte": "conteudos.xpi.com.br",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-12 05:47:48",
+    "chave": "80ffc6f28c2fcb58702d0fbaa76613f44aaaf8e4ce2b48816280cdab9b2456f5",
+    "titulo": "Juros futuros recuam após deflação do IPCA superar expectativas - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzdyeEpCU19OUDBLdFZvZTEyQXNhTWtlcEd5dmVaUHBPUTNzam94Ymc2d1VxYVRWLVlORUc5NVNDX2xWblVlRVRScENMeWdfRVRqbzhqcVdqNDB2cmZCcVR5WXMxQ1BNbElZbFZSNkx5NEZ2UUVlNk5lRFAxS2ZzWHhYWVpHcWtlT1JKeXlMdWJ5QmRYc1hNeU5wOWhzYTR4eDlReVFseUlKWnJITy1sX9IBvwFBVV95cUxON29uOHoyOTNOQmcxeXpkX2J5ZnpjWW1vTFZrSWd5bVVnZWtaMWRmd0ZsVWM4LWdlaVloSTdJTmN4Wkt6MHFycjU0ZEd0Z1Y1d25KTlJxVzBLNkhCRlFpWk5DaUJpaXRCdUpLMW5fQXVLZ0xPUlVrV3FDX1daYmFkeWxnUkprX19pNlRpcG9Pc1JCeFdRcXNBZXdrWUhNRWd5bEFYSnhMNHd3M2xuWmIxRGFUQ0FKY09kMU1iTzJLSQ?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-12 05:47:48",
+    "chave": "17d95abb8880a48c9c32b48251d31c428bce690c1ecd546946ec39ec398ffb91",
+    "titulo": "S&P 500 fecha em alta, com dados da inflação reforçando expectativas de aumento das taxas de juros - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WcGt6QTRDQ0V5THVPNzN2TEIxZHhUeFlINEl4RjNHTXUtNXVYOE9RbEkwcG9qTWY1WV9ZNDltbkdYV2ZxcmN1X0hCN1RjMEgydXNrV2pMOEs4VGozVGJJeGJDcUtvMkQ5QTc4Q0ZmYXRock9rcHJB?oc=5",
+    "fonte": "TradingView",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-12 05:47:48",
+    "chave": "8740385345d6b161139d558334fd8c80d9b9107e3702b76046b9093c860c0b7b",
+    "titulo": "S&P 500 fecha em alta, com dados da inflação reforçando expectativas de aumento das taxas de juros - Terra",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUEs5d2E1TnVpekxWaWJaQ2VvWTVmU2U4a2NnLVZrSTdBR0dPWlBNekxoZ3JWVlpMOHZPUXZHenVBc3VZbGVPVjRJQ2pGV1lGeU1meGlxUkZSRFBOUkFZUS1oV2ZkVnA1emUyMzg0Ynk5OVBrRl9WZkxkR0l6Q3Q2TkZpUXBnX1Y5ZjNaX0JhcHlNdkJlNDNGLWtvd3NsYUNZSEpqZWNSaE10eHVtSHQ4YzNqazlIOXY2QllKWm9pZ1RZNmJudmxGcnc1WXhiQVJ2Z0dLWGZpcHF6VFd4b1lNOXJWbE1QTzZOWnZ5UFFwREh2bVJlR1B4eDc4ZV8wNEVCRk83cVJwOA?oc=5",
+    "fonte": "Terra",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-12 05:47:48",
+    "chave": "d7fbe8ac8855b9040db7a5f68f2401ac56423d99674ea3153ddc4987579b4063",
+    "titulo": "Vorcaro tinha grupo de WhatsApp com servidores do Banco Central para pedir orientação, diz PF - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oS2J6RkdwQXFzSnRWbWRCS2FNXy1KOFpXNWNiREFfMktOVnpGb0FkbHYxdUtPcHBuSWFkV0dZaS1Qand4MU96azR1NGY3eEV1ZkpPNXZIeUNaU2RsY3BtMzRR0gFnQVVfeXFMT29JeVJNRW5RTVFwejlCTF9DWDJRc2tKcXBrQnZmbGNLLVBHOW5vblNUTUpjWDhuWEpYSUhSZ3R5RXREUWRkNG5aMnBfYjg2ZVNnblBUbUVPa185Yk9VeXhKWVlYNUwtSQ?oc=5",
+    "fonte": "BBC",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
