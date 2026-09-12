@@ -1,36 +1,50 @@
 [
   {
-    "titulo": "Ibovespa Cai 0,69% com Inflação nos EUA e Tensão Política - Forbes Brasil",
-    "resumo": "Ibovespa Cai 0,69% com Inflação nos EUA e Tensão Política Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0tlcjNDZ0U4SVFpQklOZ0JHbGpQQUhuZEVZRmNtNkhtU1kwR29BMUlUdXloOG5ReEpEaWtiZktCY0xuNmx5b1hDM1Iza1lTZXJ4NFNQOHVMLXViNkd2cWtzVS14NzNGUGpjTnNKRExYcUJQOU9pSE5kMEtTYllIXzltamVDN2VBSEt3YWFWUGhqWUJ4emMw?oc=5",
-    "fonte": "Forbes Brasil",
+    "titulo": "PIS e Cofins incidem sobre Selic em empréstimo compulsório ao Bacen - Consultor Jurídico",
+    "resumo": "PIS e Cofins incidem sobre Selic em empréstimo compulsório ao Bacen Consultor Jurídico",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE1FNDZibGhDbF9BNC1fcmxJSHFHNDNXYTdJWnRIakhGaU9xUF9aeDB2UmE0TlZCRmI3RHdqV2pHbUVOTTFoYXlLaUhTZEZkZWNPeDNCUzhCZTdwckJvYWpaY2ozVVhZU0MtVTJDY1dEbHdiTVdrTFAtSDFlV3hTWERNS013Rzl3dkdmQUtleERtUHFxZkpNWmpLN2tXd3RvMXVJ?oc=5",
+    "fonte": "Consultor Jurídico",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "B3 estreia versão do Ibovespa em dólar nesta segunda-feira - Estadão",
-    "resumo": "B3 estreia versão do Ibovespa em dólar nesta segunda-feira Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMEV0YTZhX0Q2QmdIX0E1MHBrV3RHYm01V3Ewd2lTdWNpSVA4NDc0eG1pU29nRzk3Nk1kUkp1bWk2OUdpMENZWXJ5Z1J1Q3BoUGtZY1pLRjdWMHpxcUptY2RzQnBnSEpZdTVTZFpNMWJ2a2k5T2x6alpXaDI4ZG5xazlaNElBdWZjTXo4amM0aFFXNmxFc012UHF3dkhIZEQ5NVhiaGVkdk85NllBamVDSWEwbUd1MlJO0gG-AUFVX3lxTE11bzk5VDBwbXVPQkN1NUpRd0EzUWRaZEFraGx3Qks5WHRnYV9XeFpPaHZSa2Z6ZWFsOHIxOUpQMFQ0d0JWVzNqdk5hbi1sUFJYWVRHXzh6V2l6emFQVl9Kc2E1bHpQUkc3MFZ4eHF3LWctaFVEdWFCVXNUSVZYZXlCREotd3VSUkRJdXFULWlPSG1VZ0xRV3liUkFLSmN6SE41TjVxbFM5aXkwT3VpenRDZS1qNWc4aWhIMlNRMXc?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Juros futuros recuam após deflação do IPCA superar expectativas - Valor Econômico",
+    "resumo": "Juros futuros recuam após deflação do IPCA superar expectativas Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzdyeEpCU19OUDBLdFZvZTEyQXNhTWtlcEd5dmVaUHBPUTNzam94Ymc2d1VxYVRWLVlORUc5NVNDX2xWblVlRVRScENMeWdfRVRqbzhqcVdqNDB2cmZCcVR5WXMxQ1BNbElZbFZSNkx5NEZ2UUVlNk5lRFAxS2ZzWHhYWVpHcWtlT1JKeXlMdWJ5QmRYc1hNeU5wOWhzYTR4eDlReVFseUlKWnJITy1sX9IBvwFBVV95cUxON29uOHoyOTNOQmcxeXpkX2J5ZnpjWW1vTFZrSWd5bVVnZWtaMWRmd0ZsVWM4LWdlaVloSTdJTmN4Wkt6MHFycjU0ZEd0Z1Y1d25KTlJxVzBLNkhCRlFpWk5DaUJpaXRCdUpLMW5fQXVLZ0xPUlVrV3FDX1daYmFkeWxnUkprX19pNlRpcG9Pc1JCeFdRcXNBZXdrWUhNRWd5bEFYSnhMNHd3M2xuWmIxRGFUQ0FKY09kMU1iTzJLSQ?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA - cnnbrasil.com.br",
-    "resumo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUpvOGQzal9McTFFMURyb1ZzVXdnSFUySnl3azA2TVhZYzZLVmllb0ZhRF9mejl0S2ZUbHdFQ0lUUEtscEFVcjd4Nkh1RzYzbEdfZTRuWXlYbHR2YW1WV1l6UF9NRkVNWGpLVm10dUN2S1FOWDlwWjNmLXhUVS1Cc2JuZTNGd25BcG1kNDE2cGVsb1ZnQ1lNTGJvWU5ZaWkyQThLM0JUd0RVd3JLTWVNWW9ua05ZZnFuNVE?oc=5",
-    "fonte": "cnnbrasil.com.br",
+    "titulo": "Fundo imobiliário volta a ter atraso no aluguel e CPTS11 paga dividendos de 115,9% do CDI; veja as mais lidas - Fiis",
+    "resumo": "Fundo imobiliário volta a ter atraso no aluguel e CPTS11 paga dividendos de 115,9% do CDI; veja as mais lidas Fiis",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmJBVEYxYlBTU3JhSFlxYzVHSGhMZ04xUUN2cC1vS29JRWxmZTNGSlFrZ3JZWE4xMUJvRS02aElsTEV5cUlBVTc3Mlp3eUxtcHplb1ByYnQydk51UHhhZ1BsT2FRMmc0VFN0VzJiVUxxZW9UN21UZ3pseVZTNndTdmhHX0o3WnZYTTVONVFhOXBqMUlVSTdOdHhvNFZWeTZSOXU5ZjdlZmplNlJ1dkRLbnNLWkxHQQ?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "afetados": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Juros altos: por que a Selic continua pressionada e o que o investidor deve observar - suno.com.br",
+    "resumo": "Juros altos: por que a Selic continua pressionada e o que o investidor deve observar suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmtYbVkxV01ubVozYlpkS1lyemRVUHJadGdYWUN0MUlZU0RkSF95WHVtT2hqZDZkb0s4VkVleFlNR1A5aXRTWFo4SXl5ZTc5T19uWlpfbzdGcVVjNXRtYzlWb1dneGlfYWROVnVCY19TaExtbGFralA0ZU9YQkY2Y3pYTHRMeGhPZ3dXcdIBkgFBVV95cUxOSF9ZX09oMTllR2xxb0JCM0tabS1zRmJuUjNTU0VpdEljcGJxcS1Bc0hKYzF3dVMwS0U1YU1XMS05U3Y3Unh0RTlUdVFkU2M1TEpkTHFNdXloaHpucXZqNUt4SUdyUGxzeGFhZ3hZTXBXLTRjMmpJeVBlZl93N1NCb191UEQ1QWo0ZjEtOXBWb2ltdw?oc=5",
+    "fonte": "suno.com.br",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "IBOB11",
@@ -41,34 +55,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Fechamento (11/09) | Ibovespa fecha em queda de 0,56%, aos 187.206 pontos - InvesTalk",
-    "resumo": "Fechamento (11/09) | Ibovespa fecha em queda de 0,56%, aos 187.206 pontos InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FMmZoclV3VXl3WWVkd3lvYW8zajNyUTc3M01lcEw4aFdRVnFTMnExazQ1UjFIRXctNml1ZGM4Tm90Yk9sZG5QeHFjZnlHbDl0OW02WTNFU2JVRUw1ZVI0YzNxV3poWnE4c2QwS0Q2R0ticHFGLUE?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Notícia Eleições 2026: Rali do Ibovespa ‘voltou à mesa’ com crescimento de Bolsonaro e Cury, avalia analista - Kinvo",
-    "resumo": "Notícia Eleições 2026: Rali do Ibovespa ‘voltou à mesa’ com crescimento de Bolsonaro e Cury, avalia analista Kinvo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWRFbENqQjJHS2lVTnFFSWVKd0xfWnEtX0pJTlNIOGktUE81TUtNdENmX3RvbnFtR3JLdFBqZVRBVHVXMkJHSmp1MUtlckdOeEhqYVpfNDJJa3hZTUpSa1o0Z0YycjRDZ1doQURwQ3pEMHVaUWZHVVlXbENDa1p3S2xyWEhHaGVLT01oU0xNZ3JIRnEtZXRucWg3UDVDUWlUcUJzTEduS1lYUGtDcmtLd3pMLUlJOWJMelBpV2xFYzROa1k?oc=5",
-    "fonte": "Kinvo",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Wall Street sobe, mas termina semana em baixa com Fed no radar - cnnbrasil.com.br",
-    "resumo": "Wall Street sobe, mas termina semana em baixa com Fed no radar cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHVOc3dmZ1E3R2txeWtaNExoQ1d6QmQxcWtTUFpnVVVNdDZRekJvZXVaUDBfNGlhYzBxUkVfd1hiS3AweE82dUMyLVZMZ0FYMEhnSUVaRVVYVTJMU0pna0tJUnRUY3ZMTlR0S2tSdWpUbTFiYy02VlcxeExMd05ySXBxaGthdU1VVE1ta19UdzdmSGJFQUJZbkRvWmk2MXRMR0NCUEE5eENndVFqR1RjTFBxZU4?oc=5",
-    "fonte": "cnnbrasil.com.br",
+    "titulo": "Quanto o S&P 500 paga de dividendos? - Acionista.com.br",
+    "resumo": "Quanto o S&P 500 paga de dividendos? Acionista.com.br",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iNDJTNk5GSHp3TnlIWU8zcXlRM211RkszZE5aUFZiSkZ1WW14amQ0T1JxWUZuWGMwQVFuM19UUmFWbWQ1VlBUUTNxdHUzZ1B4dm44djhmdWllRlVXaUZ4MGZoQ2U0V3N5Y0N1Zw?oc=5",
+    "fonte": "Acionista.com.br",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -77,47 +67,10 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Preço de iPath Series B S&P 500 VIX Short-Term Futures ETN (Dinari Tokenized ETF) - Bybit",
-    "resumo": "Preço de iPath Series B S&P 500 VIX Short-Term Futures ETN (Dinari Tokenized ETF) Bybit",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFp5VDhKc05SZE1jQkdLOUVSTmdwVUVmNGhqUHpQaFJvdExRNVUtV1pfUHp6SXdTWlRtLUpxSUNvOHpWRW1YZjgxRHFTTHF6Ty0weTlJaVFUaVNEVS1kM1htR3F3VDNyNmdNaG5GUkhwRXZpRmFHNFNmTk94RVY2SG5OTWViaDVtZ0hvUGRSMS1vc0dRbGhaWGdNdGVUUUFtbDd6Qkk1cDU?oc=5",
-    "fonte": "Bybit",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Elon Musk ganha documentário de 4 horas com versão do bilionário criada por IA - G1",
-    "resumo": "Elon Musk ganha documentário de 4 horas com versão do bilionário criada por IA G1",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0I5RjVJTjI5bGJEVnZtampQODlVR2JYR01IMV8xSFB3MS1IVFY3MGdUNFJtb2VieDE0SkJkeVpvaXpVWGZzeTJ6Zk1FWFFCM0JqNkFmekRGSkVub1UwZk9jQkhPcjVTY1RlV0E1bnYzMU9DTkFrWGoxUG5XeFlreWthbEw0TjZlVDJMaDRR0gGcAUFVX3lxTE4zV2ZWZ3BkbWdwUW1iQklnaVlmZHItcXh1NGZ5NUkzMlVXeDFZSXlWX0lQNUhZaGN1VWszbHRSU3BBOEhkbHptMDROV2xZZkU0Vm9VOGhBTVJ1b2VBMW04c05UMTRDeDhIQzFSaWVlUG9VN01YZjNublNFNFgtWFV6c01BTUx5WW9WNjY1SGZzVi1IWFJWU0R4MUhtbQ?oc=5",
-    "fonte": "G1",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34",
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "A eterna discussão sobre a Bolsa americana ‘estar cara’: o que os números dizem - Estadão",
-    "resumo": "A eterna discussão sobre a Bolsa americana ‘estar cara’: o que os números dizem Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2NpdFZNTTBFb1c0aFJJUDNFTy1Qck9FVXdqNUV2SHlid05vZWFhaHdkN3RwbVNqWU9tX3FVYnhVdkVGRFlBV2R1ZU5Pam9TeG9aUnN4S1dBdXM2eFlpZUdOdHgtVDhpU0VlX2xjMU1YXzhPM2V6SjVqUW51UVRoaGhvUzFlQl9SNnZ0dlZnbEl5Y3NtOVkweWw1UlFCYVNMNG9PQkhBbWFRM2NlUTNrdWE4cHBHRTdRSTQ3SUhqWk1ybmtNQWJFMUZaUdIB0AFBVV95cUxNUW5DdVVPZnFiQWZ4WlExcnZScjdwMFpCeWd1eEpteGp4Z1d3MUhwcU9Db2VaLWp2Z2tPV0wzZlJMUjJOTzdLSk1SemZ1WU5qbUhRMVhmNmxqUzVQbHp5c2QxU25GeVpVdWw2Mm1rdmtiTi1xLVRiTjlBTG5uR0ptWHozTnRyYURuVHNwN2owRVVFTlJacTVWX19tSks0SkxwQXpldEp2ZzVvVktua1E5T0FLYk84VzNjWGc1akJPaXhvMktSOTQzSzVjWWt1TFM1?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Elon Musk tentou se afastar de documentário sobre sua vida, mas produção ouviu ex-parceira e críticos - abcmais.com",
-    "resumo": "Elon Musk tentou se afastar de documentário sobre sua vida, mas produção ouviu ex-parceira e críticos abcmais.com",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMzB1dEc3cVJ1UE9fUjY2Qm0wcC1fN29wQU9ZbnFubjlnWUVMTFo0anRxcU9NZEdJYk1acDhBbE9FRFh0YjM3WnZWdGN4Sk5wanhMekZZaFBGMEcxa2FlUHphUmt4X2lpUDF1UkRKTjBNRExmS19iRFNGM3U1VGw3R1JrTENoRWxPNXRxZkRQVkVNa1lZaVl2QWRlOFFDOUQtYy1jSktlMEZQUUpYaldjcEI0TzRVeG11T2JRR1l4S01ZdDl5Ym9PTmRhN0E?oc=5",
-    "fonte": "abcmais.com",
+    "titulo": "Boring Company de Elon Musk recebe US$ 3 bi e é avaliada em US$ 23 bilhões, mas tecnologia ainda decepciona - BlockTrends",
+    "resumo": "Boring Company de Elon Musk recebe US$ 3 bi e é avaliada em US$ 23 bilhões, mas tecnologia ainda decepciona BlockTrends",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2lnTXlCOGE4X2hodkFZQVM4V015ak9kYU9TY1pWSXoxLUthTUt5ZUpjZ1REbEN4OXBwUHpTNU1DcF9tTlY4WEZHME5TeTMtSVA2LWR5LW1PSTVDM3JZVDVkVmlsUm91UWRqdkttTlZOZ01URDNTcGFMSldpWkxzNlU1VTRsdw?oc=5",
+    "fonte": "BlockTrends",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -126,10 +79,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Documentário que expõe poder de Elon Musk é ovacionado em Veneza - vermelho.org.br",
-    "resumo": "Documentário que expõe poder de Elon Musk é ovacionado em Veneza vermelho.org.br",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemVwMG90Mzk1Uk9SaEdsR0NONFFfWlJhS1pOdWZCSmxtY3pyZ2xsbFlFNEdFaXNNRXdXd2MtSURpWURsdEp4cUFuNlV6RWJKYVJiTHF1eHVxUjFWVC1Bb3RzSnJjUk5McVZ2ZzBPbHFjNXZQNXEtUEhfUDZpZmp6R0dxOHZoM0tMT2dyeHRBcW9yVThxSHlidGNFN0FJQjBFcHc?oc=5",
-    "fonte": "vermelho.org.br",
+    "titulo": "Musk e líderes de tecnologia defendem desaceleração de avanços em IA - Metrópoles",
+    "resumo": "Musk e líderes de tecnologia defendem desaceleração de avanços em IA Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xZ2JFMG1LM1BYVUEtNjJDWmN5WG9vZGNVNVByMGd4cEJwTnNVRmEtT19SNTM0d3h1NWhiR1Q0Y1BWUmItWlJVbV9keTdVZWJERWVBak13QS15QzRwZE9jZHpFWDFWbk5pamFJM1FHSHVBeFh0czNXZEZvWk0?oc=5",
+    "fonte": "Metrópoles",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -138,10 +91,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Elon Musk ameaça ir para Justiça contra documentário exibido no Festival de Veneza - Folha de S.Paulo",
-    "resumo": "Elon Musk ameaça ir para Justiça contra documentário exibido no Festival de Veneza Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT3ZHRGVkVUYxYjFnQ1ZWdHNUeFY4a0NLS0c2X3NqWk1BTHRwZ01IMWRNa2FUU0JFSC1qVnB2Ri1SN0pVSllnU3lWTC03bTNfRmk2bXBTTWJQQ1RWRThOdmNlaHhscEZSazloU2h6QmJjR1hadFd5OWVwQ1NObWMyUUFvUDJIRks3N2VjYWxLLXJpNS1yQXA1VENlQnhNQ3R0eklWV1VXajdGM3FjVTNjTDFNVm91ckhTZk1LRE1lNWRfOWVXUXhVTzlNcDJQVEZtSlE?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Rivais, Altman e Musk concordam com apelo da Anthropic para que IA desacelere ritmo - Folha PE",
+    "resumo": "Rivais, Altman e Musk concordam com apelo da Anthropic para que IA desacelere ritmo Folha PE",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3h3S1k0aE9JMkhMR1BpX0RtOGxCLUdCYmU1bVJMN2w3U3BNNUhzbnhTME9KNnBLaWhtY3JYUXlQclRGMjhWRzVmb3puOUI4NWtkcFZkVGw2T3R3QXNjSDEwUkQ3NWlVNlRDUnFVOVZhTGpTd0RteDBuaTRTZ1FKZUpncWtXM3hFLTNsOVBuTlV1am9KY1duMVo0eEFvMnhyNEJlU3BONXlrV0ZHMFlj0gGzAUFVX3lxTE5iajJPckp4eGh5anhiTjMtRkJHWG9hVmU5Z0ZUdHhma0RoSFU1TWZ5YnVxTUVOUFJOd0JKc0htN1dSZk9SMFZObnZBelE2YW5NT2F5TGYyVVBjY3NuZ2w1aTFER2xWVGVZdUU0ZTRaT2lfWHdYcWh1VlpSYUxBRmw3T2lYXzRzZDA0TFd1OXN2NVJiLUxQMUlLS1ZsZmdFV0dRQ1JMUUJDc2VXSmNpX1VnUW5v?oc=5",
+    "fonte": "Folha PE",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -150,39 +103,27 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Elon Musk tem um problema: precisa de mais eletricidade para a IA, e as turbinas a gás estão esgotadas até 2030 - Terra",
-    "resumo": "Elon Musk tem um problema: precisa de mais eletricidade para a IA, e as turbinas a gás estão esgotadas até 2030 Terra",
-    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQV1A3cGZQYV9tOVhveWh5djZLR2I2LV81dVBEZzRZVEhsaDVQbXAwYXRTeGYxdzVoamdaYmJnRmJpdExuMXc4U2RoWlFTVkhlc2JzLS0xWk5ZbnRHazJIV2RmMjVHQmZqbElCTTNXNnZIbnVPSnkwNVplMG9tazExNnozMDFRU25zMEQ2WlptVUwxZVFhZU1pSTdfbHYzdXNybERHUmRXNE92aXFfaTlWVW1LM2o3YW5laVpVendWVDM0VmhNUXVfWVlDLVdJaVNycmZvV0ZXUFlBdGlZMWtqNDdRa2YyVW9ac2EzNXNseXNQcnNSV0E2YnZyTUVPM0t4VHpzcXRjQm52RlU1N1g5ZzlvMkozNl9FWVlIdk5B?oc=5",
-    "fonte": "Terra",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "titulo": "Funcionários do Banco Central informaram a Vorcaro nomes de policiais que o investigavam, diz PF - O GLOBO",
+    "resumo": "Funcionários do Banco Central informaram a Vorcaro nomes de policiais que o investigavam, diz PF O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT2lXWldrbElRdnQzY2tKN2EzMU8yZGp4RUs2Qk5tMWkwNnhWT2FGT3hqX0dNVTZVcVc2SnRQLVJ0T2xlQWtsTlZjc1NnNUQ2RGJfNjZSUjBPUUlYWEZ5dkJyZXFtaWJtbU5WR1Q1QXB5Q0JseHgtWVR6am9TcXUwNkFLUHF0Z2lSbDdOcEZmN01rRHBIQ0lkQi1TZnczWktNNW42bDJLWVZ2ZEFYSWl5ZkVhdi1DUkZCV1BXZFlBMlFWS0RPN05jWXNpZG54SWJEbWdKYVNrMHN6S20yNFpMdXhjOFJIazFvdEHSAfgBQVVfeXFMTXFWME8xeFFwdXFWWVRST3BLdzg4V1VkUmRUT29CeElEMGg0Z1dPaTJMejVyTnVRQWtCRE5FVVF6WW5zcjMxSDNkdkctcTVoOUZpcnZjUmxNOTY3VV9GUVM3V0wyY1o4NnMtQXpMQkRrU05RM1RvdEJIMGZCaXRwa0dUUHM0YjM3TWV6SDZGZm5JQW1BbGhiNjFWdUY3MWczaFRVcjVtRWdiRld1RUdoMnVYdnNqeERXakgxcUtlSEdOX0U5RHBfaDJtdUtySVRWUThXa1ZVWVhzRTZNMkJjSVQxU210MzlZM2RfU3hESUZsendPVmowalo?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Boring Company, de Elon Musk, recebe US$ 3 bilhões e é avaliada em US$ 23 bilhões - InfoMoney",
-    "resumo": "Boring Company, de Elon Musk, recebe US$ 3 bilhões e é avaliada em US$ 23 bilhões InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTk2WTh2Q0thTllzbElLakhfSmcxXzVVTzROcGNBSUoxaC1SamtRa3U3STJvZ2Y2Q2FaQmJ0SUtvR0xhSDlmLU9yT1J0eWVOMTU3NlhLeVFxOFhLTWdRTXgxRHdTWkhpakpOQTFzOFRIYzI0dzRKYnJkNFIzYUd5X1RuYnJrX3ZiajNWNVFiaHVpT3U0OHVaZGNXM3Y5X0MxVWlEM3lndWJOLTlNS1F6dTRfd1NETE3SAbwBQVVfeXFMTlVVUXlBOUhUUnlXVkNiaDFIQ25TS0VNNThhalNEMDNsSkJ4djNzelhZWlpuVUtJNkhZZmRWcTVBdmZYcU80aWU3MUhBbmppZUJpSW9uN3hCUW5EWGdTZDlRUTZBVnhsNXNMSDRvbExfSGY4dTFLQ0JBTXV3dmhCbmRNZ2tyZ3BTNnNhS3ZfOHBUWEw2M2JPbnJjcFBMblFFZXItTU42R0tLZ3M5M21Ua3Z2N2RyNHk2dXNqVFU?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "titulo": "Vorcaro tinha grupo de WhatsApp com servidores do Banco Central para pedir orientação, diz PF - BBC",
+    "resumo": "Vorcaro tinha grupo de WhatsApp com servidores do Banco Central para pedir orientação, diz PF BBC",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oS2J6RkdwQXFzSnRWbWRCS2FNXy1KOFpXNWNiREFfMktOVnpGb0FkbHYxdUtPcHBuSWFkV0dZaS1Qand4MU96azR1NGY3eEV1ZkpPNXZIeUNaU2RsY3BtMzRR0gFnQVVfeXFMT29JeVJNRW5RTVFwejlCTF9DWDJRc2tKcXBrQnZmbGNLLVBHOW5vblNUTUpjWDhuWEpYSUhSZ3R5RXREUWRkNG5aMnBfYjg2ZVNnblBUbUVPa185Yk9VeXhKWVlYNUwtSQ?oc=5",
+    "fonte": "BBC",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Empresa 'sem graça' de Elon Musk passa a ser avaliada em R$ 116 bilhões e recebe aporte bilionário de fundo árabe - Money Times",
-    "resumo": "Empresa 'sem graça' de Elon Musk passa a ser avaliada em R$ 116 bilhões e recebe aporte bilionário de fundo árabe Money Times",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTRSbTAxMUFuVmM2VlN6SnVNTGNKQzd1U0tiQWxvQ2FRNzlYcWRFVHZXTGlkVDFjQmxMSHBDUTJZZm9BclhnMFlRd294REIyRzl2d01QMUFpNHVqc1B1S1k3bERZbjBNWmpzMExGNW1VLXBpOUpWREJaMkZxUGxMNVptSnE2TUt4YTc5LXJQMEpnVkpzMDFnMHc0OHBnZTJTTks1bUp1cw?oc=5",
-    "fonte": "Money Times",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   }
 ]
