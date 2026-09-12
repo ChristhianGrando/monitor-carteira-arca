@@ -1,38 +1,35 @@
 [
   {
-    "titulo": "IPCA cai 0,32% em agosto e tem maior deflação em quatro anos - g1.globo.com",
-    "resumo": "IPCA cai 0,32% em agosto e tem maior deflação em quatro anos g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQU4wczJxRUxwamNSenRfVUJ4VGd6V21Fb3lHR3B5SDNOaU9hVkgzSDF0WkFLOUtCWkp1Q2RvQ3ZzNWR3TEFVTldIN2lFbE5aSWhUaXpKaFNpZ0hQNkFPRmRacGs4TThsdm1hQWh0Sm1sWmVE0gGDAUFVX3lxTE1JcjFBMWRIU0xBUTlVS0JYWEljeEplTms1YzFJRUtYcnp4WVJIUFhOcWFTOUVDdk9xakdzY2Yxc3BLOWk1M2FVRURBUE4xWWhqaERyRnpWQnREMXY1QjBJeFlBV0I1SElCX0ZlYjVyeVppR2FTd2EyRThKbkVXaU05dTZN?oc=5",
-    "fonte": "g1.globo.com",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "86ca20f13177a9064e6407c6e8391dd22a9abede9edade65e9cf5dfaee165f10",
+    "titulo": "Fundo imobiliário volta a ter atraso no aluguel e CPTS11 paga dividendos de 115,9% do CDI; veja as mais lidas - Fiis",
+    "resumo": "Fundo imobiliário volta a ter atraso no aluguel e CPTS11 paga dividendos de 115,9% do CDI; veja as mais lidas Fiis",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmJBVEYxYlBTU3JhSFlxYzVHSGhMZ04xUUN2cC1vS29JRWxmZTNGSlFrZ3JZWE4xMUJvRS02aElsTEV5cUlBVTc3Mlp3eUxtcHplb1ByYnQydk51UHhhZ1BsT2FRMmc0VFN0VzJiVUxxZW9UN21UZ3pseVZTNndTdmhHX0o3WnZYTTVONVFhOXBqMUlVSTdOdHhvNFZWeTZSOXU5ZjdlZmplNlJ1dkRLbnNLWkxHQQ?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "18fe62a8ce1f83349a7d95089f92ae9b6448a2b7ec4558a71cea5e9f2122e69a",
     "ativos": [
-      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA - cnnbrasil.com.br",
-    "resumo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUpvOGQzal9McTFFMURyb1ZzVXdnSFUySnl3azA2TVhZYzZLVmllb0ZhRF9mejl0S2ZUbHdFQ0lUUEtscEFVcjd4Nkh1RzYzbEdfZTRuWXlYbHR2YW1WV1l6UF9NRkVNWGpLVm10dUN2S1FOWDlwWjNmLXhUVS1Cc2JuZTNGd25BcG1kNDE2cGVsb1ZnQ1lNTGJvWU5ZaWkyQThLM0JUd0RVd3JLTWVNWW9ua05ZZnFuNVE?oc=5",
-    "fonte": "cnnbrasil.com.br",
+    "titulo": "Juros altos: por que a Selic continua pressionada e o que o investidor deve observar - suno.com.br",
+    "resumo": "Juros altos: por que a Selic continua pressionada e o que o investidor deve observar suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmtYbVkxV01ubVozYlpkS1lyemRVUHJadGdYWUN0MUlZU0RkSF95WHVtT2hqZDZkb0s4VkVleFlNR1A5aXRTWFo4SXl5ZTc5T19uWlpfbzdGcVVjNXRtYzlWb1dneGlfYWROVnVCY19TaExtbGFralA0ZU9YQkY2Y3pYTHRMeGhPZ3dXcdIBkgFBVV95cUxOSF9ZX09oMTllR2xxb0JCM0tabS1zRmJuUjNTU0VpdEljcGJxcS1Bc0hKYzF3dVMwS0U1YU1XMS05U3Y3Unh0RTlUdVFkU2M1TEpkTHFNdXloaHpucXZqNUt4SUdyUGxzeGFhZ3hZTXBXLTRjMmpJeVBlZl93N1NCb191UEQ1QWo0ZjEtOXBWb2ltdw?oc=5",
+    "fonte": "suno.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "80175b396079615711bedff89f8b54c0c2dbcd8c6e97dbf53ba84f97a6a00e52",
+    "chave": "0225167893da2f18d06873c6c1e58686a909a03ea53d27db0e01d017c56bc2ce",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -53,12 +50,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pagaleve, fintech de parcelamento Pix, é autorizada pelo Banco Central - Finsiders Brasil",
-    "resumo": "Pagaleve, fintech de parcelamento Pix, é autorizada pelo Banco Central Finsiders Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYy11d1U3bWNKODZZaVZCX1pkSTl0eWpycVM0VXhOTlhwbXNiQkVVOTExekh4N3B2VU5xV2FENGstWDBMbW1QVk05czQ5ajMxSzNoMTQ1b092dVRmSjNNRHlxczhPVUFQcTNBTFpTZEZ2RTVfZW5iTnRLMk9tNGI1aHhkT1phSkQyQmE0TmYtVGw5Y0w0ZTdPdU5UTXNjUU1Icm5JN19UOW9kRTlmNkNZSnJyNA?oc=5",
-    "fonte": "Finsiders Brasil",
+    "titulo": "Funcionários do Banco Central informaram a Vorcaro nomes de policiais que o investigavam, diz PF - O GLOBO",
+    "resumo": "Funcionários do Banco Central informaram a Vorcaro nomes de policiais que o investigavam, diz PF O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT2lXWldrbElRdnQzY2tKN2EzMU8yZGp4RUs2Qk5tMWkwNnhWT2FGT3hqX0dNVTZVcVc2SnRQLVJ0T2xlQWtsTlZjc1NnNUQ2RGJfNjZSUjBPUUlYWEZ5dkJyZXFtaWJtbU5WR1Q1QXB5Q0JseHgtWVR6am9TcXUwNkFLUHF0Z2lSbDdOcEZmN01rRHBIQ0lkQi1TZnczWktNNW42bDJLWVZ2ZEFYSWl5ZkVhdi1DUkZCV1BXZFlBMlFWS0RPN05jWXNpZG54SWJEbWdKYVNrMHN6S20yNFpMdXhjOFJIazFvdEHSAfgBQVVfeXFMTXFWME8xeFFwdXFWWVRST3BLdzg4V1VkUmRUT29CeElEMGg0Z1dPaTJMejVyTnVRQWtCRE5FVVF6WW5zcjMxSDNkdkctcTVoOUZpcnZjUmxNOTY3VV9GUVM3V0wyY1o4NnMtQXpMQkRrU05RM1RvdEJIMGZCaXRwa0dUUHM0YjM3TWV6SDZGZm5JQW1BbGhiNjFWdUY3MWczaFRVcjVtRWdiRld1RUdoMnVYdnNqeERXakgxcUtlSEdOX0U5RHBfaDJtdUtySVRWUThXa1ZVWVhzRTZNMkJjSVQxU210MzlZM2RfU3hESUZsendPVmowalo?oc=5",
+    "fonte": "O GLOBO",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4cb33358dab41ca8be6ee61b119073afc5d3cd76a115aa99f63374d10e0e2503",
+    "chave": "6fa3e4619585e6e22611827af4ef9a6953574df3d9c0f63944fd733c14affde0",
     "ativos": [
       "CDB 100% CDI"
     ],
