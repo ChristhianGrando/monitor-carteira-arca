@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "IPCA cai 0,32% com bônus de Itaipu em agosto e tem maior deflação em quatro anos - folha.uol.com.br",
-    "resumo": "IPCA cai 0,32% com bônus de Itaipu em agosto e tem maior deflação em quatro anos folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUI5QzR0TkhSY1VqVmwwZzNnVEdMUE5NLVQybF8wS3o0ZUlBT1JJQlZ4UXZJT1VkVEJxT2FhS3VOUmg1SXM2T1VGcU55WkNtRjNJQVlZZExFVnM3SlhGR2hTZDA3YXplNC1zZmNSV1ZRVlpXZ0dPQkgtNDJLTVd4Y2pNY1c2bEs3WVNVZHphczBPRFB2VEhHRmJaNlA0eEVrX2p3S3JzU2NFSFJsU2xtVTltVldEQ2psTkFHdDlVNDhuNlBFMlY4?oc=5",
-    "fonte": "folha.uol.com.br",
+    "titulo": "IPCA cai 0,32% em agosto e tem maior deflação em quatro anos - g1.globo.com",
+    "resumo": "IPCA cai 0,32% em agosto e tem maior deflação em quatro anos g1.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQU4wczJxRUxwamNSenRfVUJ4VGd6V21Fb3lHR3B5SDNOaU9hVkgzSDF0WkFLOUtCWkp1Q2RvQ3ZzNWR3TEFVTldIN2lFbE5aSWhUaXpKaFNpZ0hQNkFPRmRacGs4TThsdm1hQWh0Sm1sWmVE0gGDAUFVX3lxTE1JcjFBMWRIU0xBUTlVS0JYWEljeEplTms1YzFJRUtYcnp4WVJIUFhOcWFTOUVDdk9xakdzY2Yxc3BLOWk1M2FVRURBUE4xWWhqaERyRnpWQnREMXY1QjBJeFlBV0I1SElCX0ZlYjVyeVppR2FTd2EyRThKbkVXaU05dTZN?oc=5",
+    "fonte": "g1.globo.com",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "59a4baf2a4cb119f83408ee98c5f6ad6a0073d9e3f1452fde430d1f1944811da",
+    "chave": "86ca20f13177a9064e6407c6e8391dd22a9abede9edade65e9cf5dfaee165f10",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -27,102 +27,45 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa Cai 0,69% com Inflação nos EUA e Tensão Política - Forbes Brasil",
-    "resumo": "Ibovespa Cai 0,69% com Inflação nos EUA e Tensão Política Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0tlcjNDZ0U4SVFpQklOZ0JHbGpQQUhuZEVZRmNtNkhtU1kwR29BMUlUdXloOG5ReEpEaWtiZktCY0xuNmx5b1hDM1Iza1lTZXJ4NFNQOHVMLXViNkd2cWtzVS14NzNGUGpjTnNKRExYcUJQOU9pSE5kMEtTYllIXzltamVDN2VBSEt3YWFWUGhqWUJ4emMw?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2d53758c5d306fc83e94f50d8aed68f08b7a8cb3fc0172d7cdbb857bf89afd67",
+    "titulo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA - cnnbrasil.com.br",
+    "resumo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUpvOGQzal9McTFFMURyb1ZzVXdnSFUySnl3azA2TVhZYzZLVmllb0ZhRF9mejl0S2ZUbHdFQ0lUUEtscEFVcjd4Nkh1RzYzbEdfZTRuWXlYbHR2YW1WV1l6UF9NRkVNWGpLVm10dUN2S1FOWDlwWjNmLXhUVS1Cc2JuZTNGd25BcG1kNDE2cGVsb1ZnQ1lNTGJvWU5ZaWkyQThLM0JUd0RVd3JLTWVNWW9ua05ZZnFuNVE?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "80175b396079615711bedff89f8b54c0c2dbcd8c6e97dbf53ba84f97a6a00e52",
     "ativos": [
       "IBOB11",
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Pagaleve, fintech de parcelamento Pix, é autorizada pelo Banco Central - Finsiders Brasil",
+    "resumo": "Pagaleve, fintech de parcelamento Pix, é autorizada pelo Banco Central Finsiders Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYy11d1U3bWNKODZZaVZCX1pkSTl0eWpycVM0VXhOTlhwbXNiQkVVOTExekh4N3B2VU5xV2FENGstWDBMbW1QVk05czQ5ajMxSzNoMTQ1b092dVRmSjNNRHlxczhPVUFQcTNBTFpTZEZ2RTVfZW5iTnRLMk9tNGI1aHhkT1phSkQyQmE0TmYtVGw5Y0w0ZTdPdU5UTXNjUU1Icm5JN19UOW9kRTlmNkNZSnJyNA?oc=5",
+    "fonte": "Finsiders Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4cb33358dab41ca8be6ee61b119073afc5d3cd76a115aa99f63374d10e0e2503",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Deflação do IPCA reforça expectativa de novo corte de juros na próxima reunião do Copom - folha.uol.com.br",
-    "resumo": "Deflação do IPCA reforça expectativa de novo corte de juros na próxima reunião do Copom folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVhFWlpIdF94MDkxQmNtNkREamRVRUMwbl94MEM3Q3lkU1BfMUloU1JKczk3dVVmUGRTU1dXQmkxQkVMQVJzVVVGUXdjNUdEODdCV3NLYjU4QTRHVlNJaFpnRmNKTVYyVkwxR1kyQ1F5b1E4bWkyY1BRcWQ4cTJQRWpxb29OcDFKQ3JNMEhlWmwzaV9wY3U2T3RzVVo2V1ExckU3Z05sZ2NtUUZPTEloSlE1X21KLXJweVoyZXUxRXV3SktHeGNKcGJUZFlXeTVtSDNEQzdR?oc=5",
-    "fonte": "folha.uol.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4fc6b89de12356da2b597e487a3d62f02907c84a7a5eae9cd0cc35936cdcc314",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA - CNN Brasil",
-    "resumo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUpvOGQzal9McTFFMURyb1ZzVXdnSFUySnl3azA2TVhZYzZLVmllb0ZhRF9mejl0S2ZUbHdFQ0lUUEtscEFVcjd4Nkh1RzYzbEdfZTRuWXlYbHR2YW1WV1l6UF9NRkVNWGpLVm10dUN2S1FOWDlwWjNmLXhUVS1Cc2JuZTNGd25BcG1kNDE2cGVsb1ZnQ1lNTGJvWU5ZaWkyQThLM0JUd0RVd3JLTWVNWW9ua05ZZnFuNVE?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1b6b69661dc3e1a87eccad4386fdf0a39997afe45ee4c34303392bc4e54b5ea8",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Opções de Copom da B3 indicam 95% de chance de corte de 0,25 p.p. na Selic em setembro - borainvestir.b3.com.br",
-    "resumo": "Opções de Copom da B3 indicam 95% de chance de corte de 0,25 p.p. na Selic em setembro borainvestir.b3.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONzdyYUNzUU5hY3RUSVdSRmZ5V1M5OXE5MlJ2WXM3SXB2UGRrbHJaRDVXamxqQmRxNjlTTE1Cb1oxRy16TjhNbmdOX2FHN2l2NmxMVVMwRXM3aWQwaVNOZWJoenRJVnNFdjBNTll0NnBHZDlRVElvOXNSUGEwRTJvNHBfaUtST1Rsc2JWVjd4RklDWWVhVkVTd1NoTWdMTDBEVGxhZlNFWndpRGpua2NBeHp4eEw3NUhkOEprMWlUOEltLVI4UkxMMTRNUTZBVHoyOGkzZ3BETWZ0U1RrWGQ4YWN6YzcybUMySEpIMnBOcE1nVjNMcElhWQ?oc=5",
-    "fonte": "borainvestir.b3.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ef2ee1b31f86b08de7173611190a340aa5a95f984af2db7fff088d471fb8610b",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",

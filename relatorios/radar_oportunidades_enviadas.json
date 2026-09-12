@@ -1,58 +1,5 @@
 [
   {
-    "data_envio": "2026-08-07 07:41:07",
-    "chave": "42f1acdb5a4206830df86d73f62b537e888967581f5e95cdd0da8903a40ea0c4",
-    "titulo": "Modo ‘data dependent’ do Copom alimenta aposta em Selic mais baixa - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU9CNUF4Wmx5YUVOWVZVX0lwS0x6N3owcVUwdHhWWlpFYkNRWnl0ZG9RbUhzaGlibGl6R1h4Yi1vYl9Kc0NpVWk2eU9LbHBWY3NlTDFMdl9mYklSdWtDQlF0RDZaTzFoa3RiWWt1Vm55dUx1RlJDYXladm9Uc1FuMjY3Rnl4TXlCczhqOVZZLWRyWG0xMGtQTGRMeHRhOUxuV0xCLWJkSmZRZmhDdXMxaW42X2xmcXo2M2FoREdVelBmVGPSAdIBQVVfeXFMTXJxVDNGSExCbmdsLXVpT0prY05FRHktdEVIZEl3b1plQkdJbzNYY2NyM3NmY1BzNzdJU3JvNnQ0bFdNSDFJaU9kMkVBWEFiaWttdmt6UUtQT2gzcnFUekxNckZGaDlONHFuZnBoOXNMeWY0R3NsVW5CbEdkTmRSdm96UUVqSWl5bzZXSmd2M1FNTC1lb0c0REZESDJ2Y20zR1NyaHJIWWRzckhjRGM1bGlwVW8wTFpiMGVyMTAxMUpOWHdxSHc2VE1SWENKc3oxUzdB?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-07 07:41:07",
-    "chave": "6c474a1a088ca9620a83f0b684d14d9602515c4070e24cecc40e17f9b3f53c0c",
-    "titulo": "Ações da SpaceX Despencam 13% e Fortuna de Elon Musk Encolhe US$ 80 Bilhões - Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SWDI1UHJUOHhQaF8zOTNRQ2RUVDNhT0NNRHVyMkt2UjNtNHVwYmVQeFpVMlRJT2pDY1JoV3hwNHVESGxDcHQ5ZDViUlhQVzNIRHFycnNNSDRPdW43RjBCbjVVckVxajBJZVppbDMySnlYdw?oc=5",
-    "fonte": "Forbes Brasil",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-08-07 09:15:18",
-    "chave": "9c59a822b18b23005467d0148c9c0cd2cd1ea5967318d5d2013038f604cff8fb",
-    "titulo": "Quais FIIs comprar em agosto? Veja os escolhidos por bancos e corretoras após corte da Selic - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTHVRRnZoRnkzSGZXWkhDYUR0bUZmbW9ncnBFaXRsNDQ2UG9XSWozMms3aExDVHlWT1Zac1QwVzJzd1dWZWRUamdzVXFKZ3M4aFBLa1B4SlM2U3kxYnVOaW1BNmRWVFdrTW1RS3UzMFozRFR6UVZzaVJIZUQ4a1lUcXFYRGI0cHIta0lsdjZ1TWtodVJleFFXRlhuZ1pkVXJOUnRVQlFYNmk1Sl9GaXRGbjVTeDB4ejZFbHBfd2lDYTcyclpPbVJWYlhxWFF1SDFoNnZuZ1JzM1ZMblhhLVE?oc=5",
-    "fonte": "Estadão",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-07 09:15:18",
     "chave": "93e18c4bc935e00ed4825541a100ad8721fb400dbfb509c898ec1591155f65ab",
     "titulo": "Banco Central reduz Selic a 14% ao ano sem antecipar próximos passos - Folha de S.Paulo",
@@ -17186,6 +17133,59 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-12 14:08:33",
+    "chave": "86ca20f13177a9064e6407c6e8391dd22a9abede9edade65e9cf5dfaee165f10",
+    "titulo": "IPCA cai 0,32% em agosto e tem maior deflação em quatro anos - g1.globo.com",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQU4wczJxRUxwamNSenRfVUJ4VGd6V21Fb3lHR3B5SDNOaU9hVkgzSDF0WkFLOUtCWkp1Q2RvQ3ZzNWR3TEFVTldIN2lFbE5aSWhUaXpKaFNpZ0hQNkFPRmRacGs4TThsdm1hQWh0Sm1sWmVE0gGDAUFVX3lxTE1JcjFBMWRIU0xBUTlVS0JYWEljeEplTms1YzFJRUtYcnp4WVJIUFhOcWFTOUVDdk9xakdzY2Yxc3BLOWk1M2FVRURBUE4xWWhqaERyRnpWQnREMXY1QjBJeFlBV0I1SElCX0ZlYjVyeVppR2FTd2EyRThKbkVXaU05dTZN?oc=5",
+    "fonte": "g1.globo.com",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-12 14:08:33",
+    "chave": "80175b396079615711bedff89f8b54c0c2dbcd8c6e97dbf53ba84f97a6a00e52",
+    "titulo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA - cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUpvOGQzal9McTFFMURyb1ZzVXdnSFUySnl3azA2TVhZYzZLVmllb0ZhRF9mejl0S2ZUbHdFQ0lUUEtscEFVcjd4Nkh1RzYzbEdfZTRuWXlYbHR2YW1WV1l6UF9NRkVNWGpLVm10dUN2S1FOWDlwWjNmLXhUVS1Cc2JuZTNGd25BcG1kNDE2cGVsb1ZnQ1lNTGJvWU5ZaWkyQThLM0JUd0RVd3JLTWVNWW9ua05ZZnFuNVE?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-12 14:08:33",
+    "chave": "4cb33358dab41ca8be6ee61b119073afc5d3cd76a115aa99f63374d10e0e2503",
+    "titulo": "Pagaleve, fintech de parcelamento Pix, é autorizada pelo Banco Central - Finsiders Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYy11d1U3bWNKODZZaVZCX1pkSTl0eWpycVM0VXhOTlhwbXNiQkVVOTExekh4N3B2VU5xV2FENGstWDBMbW1QVk05czQ5ajMxSzNoMTQ1b092dVRmSjNNRHlxczhPVUFQcTNBTFpTZEZ2RTVfZW5iTnRLMk9tNGI1aHhkT1phSkQyQmE0TmYtVGw5Y0w0ZTdPdU5UTXNjUU1Icm5JN19UOW9kRTlmNkNZSnJyNA?oc=5",
+    "fonte": "Finsiders Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
