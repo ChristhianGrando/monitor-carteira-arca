@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "Fux dá 15 dias para governo e Banco Central responderem sobre ajuda ao BRB - cnnbrasil.com.br",
+    "resumo": "Fux dá 15 dias para governo e Banco Central responderem sobre ajuda ao BRB cnnbrasil.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3ZLQ051NHV4UnRLWjdoOUpZZjFwZlZjWU92UkZMaDBfYXdaMHl2TUtxYXRiY1kwTkN6SnBlejJqTWhydl9hX1BwZS1aYXFCODNRMklQZTVFaXhnWGVHVGlKVFZ3M1ZSSUZvT0pRUW9TLUtHTWs3bUVnWmR6MjVmdks1aFZ0WGxkLTFHblJURWZOb2tub3kzMG5iOUNzNmwzaTJfNmpvTHk0bmRKVDBOcVQxYw?oc=5",
+    "fonte": "cnnbrasil.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "cf52cd02a16e23467345d26501e78751151fe13a70b65f6d6a2f3bbcc288e732",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
