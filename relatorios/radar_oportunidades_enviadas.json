@@ -1,22 +1,5 @@
 [
   {
-    "data_envio": "2026-08-07 18:01:38",
-    "chave": "3daa50da673cf14430a2c183ababb618d327cf2127ac523265687ed2f404fc96",
-    "titulo": "Ibovespa recua forte com Lojas Renner entre maiores quedas; dólar cai - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamNlckJxZkNKVU0wSUVCOS1CbTlzaHo3bU1OZk9ua2M4ZFIxWGtfVGIybktDMkkzQll5ZXNsajZldUJxZEpDbWtkakh2am02SU9EZTEwQUlhZjlQSld1SHdsS2ZaRGlkaXQyckxUdXJrQWR5TkRHdm9QSDhUQXItNEczcUxVbXhVaFJ3Q3J1ak9JVXk4MjlIa3UydGdVT2lj?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-08-07 19:15:16",
     "chave": "c6c15a2d16fe9f2358c51e50595f2a78823b41b1018e87c889bcbbe4a864c26e",
     "titulo": "Inflação perde força e Bradesco vê espaço para Selic terminar ano abaixo de 13,75% - Estadão",
@@ -17178,6 +17161,23 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-13 19:27:30",
+    "chave": "03e07e32f886e294af31db44676291d9dd1c0aedb96a479c40b25b16ac975936",
+    "titulo": "Criptomoeda do “banco central” do DeFi pode saltar 5 vezes até 2028; entenda a aposta do Standard Chartered - Portal do Bitcoin",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGtkT1BYR0N2V3NhQ2pjcEtCZXp4SWJaSHI1QUVTUE1abXNqYzRzaE41NG9uVnBkclVIUUNtV2VQcGI5SjBwOG9ucEQ5WHl3c3g5RjNReW1DVmsyc0Rkb2R5LWQxSC1KYllZQjJIRlFqQmFNSXh5blZFSW1BSGZiQmVPUGpmUnJab0ZSMU5yaElHaV9oMlFwZF9Xd2VMTG1xQ2dxOC13MlF5X1c3YmZmcXpzNXpZZXF3cUdTcGhES2VBMllIUW00MmI1ZjFIMUU1X2FDYUNrWdIB3AFBVV95cUxQQjhzZ09fazdHS2QzVE9WU2NnaU1sVko5X2RHQzBXWERkVVVNWWVyYS1haW1NVWIzT3A2TjFTNGpYOE12VE1jSjA5MHRnUDBVSm95YmU0eGpJTURhQ2MxTkxQRmxERnJTSXE5QV9fVzA2ZXlUQ01NZWhaekx1WnVNU2xqdzV3NHV3aldiX0dlV3dpM1JwZ0xmbm9CYnhmendIR3lUX2lMRXRMLTE1NkFKdF9feVJUbW1HTnBadkdvbUozOHFzYkkwOTR2cFQyOW52RWtyY2V3VTh3a19I?oc=5",
+    "fonte": "Portal do Bitcoin",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
