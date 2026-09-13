@@ -1,15 +1,50 @@
 [
   {
-    "titulo": "Shein perde US$ 5 bi em valor de mercado e tem uma das piores semanas após IPO em Hong Kong - folha.uol.com.br",
-    "resumo": "Shein perde US$ 5 bi em valor de mercado e tem uma das piores semanas após IPO em Hong Kong folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkhzOGRNRzVLS3NsMlpDR1pVc19oMFNwZFRGUy1TbVVtUVZwM0J2bFRNUnFtOG9JX2xyaF8xZVJkY2gzdTZyTThHbjczVVN5VGk3bEZLTF9DOWcxNFROSmxrZnVxbDRtTmF6dk16LVFSc2liaXdrcnBSQ1V4QURWZmh1WVFUQ3laUm4zZnFUc0p6bXlDaTBCT19jdXJGbWFrOVFYUU50M3NObldEZktzb3pkZG5ralRIY0FnTWdWbHoySUtEbXViV05fTzEtdTdvcHk0Q1pOY0taUQ?oc=5",
-    "fonte": "folha.uol.com.br",
-    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "95d835482023a4c96ae9dcdffe781b0ade84c2a07917a9404f2cda07ab98efcc",
-    "score": 8,
+    "titulo": "SB Energy protocola pedido de IPO na Nasdaq - br.investing.com",
+    "resumo": "SB Energy protocola pedido de IPO na Nasdaq br.investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVd6X1JGWlpDMUNlN1FxNTRxSE03bGdrLTlyVjllNzZqYnlIckdrV2ZDQTIyc1JVTGFUUkRQT2lJQWhLZlNyeTZpcm9BT2FpTVA3aTdmQ3cxbmhwOWhVYV9ScUxYaTJnSEJ0SEhmWFVnZC1CdHJWS0xwQ2dhUXBtYzhoc1NXWUE0OU1GZHRtMEd5XzM3dWZ3NlJNTFlFQXBRZWp6bmR5bUM?oc=5",
+    "fonte": "br.investing.com",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "d7334755c194ed8aab36ee373c8567fcbc4bcc3ac925016da9eff15236f1626e",
+    "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "IPO da SpaceX na Nasdaq previsto para início às 10h50 - br.investing.com",
+    "resumo": "IPO da SpaceX na Nasdaq previsto para início às 10h50 br.investing.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEJTSTAzTElwOUNMWmpranktMEx5UjdaZS1QTmxlRllEZUpUYWlDZ3c2SXBNWDdDM2czV1dLMEV2SU5odzZyM0RVelltcGJzUUJYQks4Z1Y0VU9MWW5zeVpuWTdJcTFIcGVhaWs5NGdybm5mZ19wZGJXd3VvN01pelItT0FydHYxdjkzaG9QZGFIVFNxeDVZRWNEeFE5UWE5QkQtbU1HV3hJbTlIYkNsVk9qZ1ZjZw?oc=5",
+    "fonte": "br.investing.com",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "d85c3838783e49e25e743d1ca66a1f89cb6d94634ddc386fec8b36ab12854852",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "SK Hynix solicita registro para IPO na Nasdaq - br.investing.com",
+    "resumo": "SK Hynix solicita registro para IPO na Nasdaq br.investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3ZXbS1oeGdKVDBodEVOd2pUV0NuM0gwTlFXMF9LMGNKWl92N01HdVJ0YjhtNUIxZHlTLS1nTDRRTklZRlZ0dG04VlRLdGwzSUxfaHYtMkRiZ3JxSTAwZ1BqRHE3SU1FakNLZlp6c1BYNENDdmZSdUQ3SVhmMExOdzdtZWNIZ2NVLWw5X3l0Q0lteV8tbW1yTkE1UHUzNXpKN2E3RW5hUUFnZlE?oc=5",
+    "fonte": "br.investing.com",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "817f508adce2b0ccf93c8a6dbebf1f9bcd3050538de53c40b428c91cc477f3dd",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
     ],
     "tipo": "Radar de IPO",
     "estagio": "IPO / abertura de capital",
