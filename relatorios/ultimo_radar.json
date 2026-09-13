@@ -1,18 +1,120 @@
 [
   {
-    "titulo": "Criptomoeda do “banco central” do DeFi pode saltar 5 vezes até 2028; entenda a aposta do Standard Chartered - Portal do Bitcoin",
-    "resumo": "Criptomoeda do “banco central” do DeFi pode saltar 5 vezes até 2028; entenda a aposta do Standard Chartered Portal do Bitcoin",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGtkT1BYR0N2V3NhQ2pjcEtCZXp4SWJaSHI1QUVTUE1abXNqYzRzaE41NG9uVnBkclVIUUNtV2VQcGI5SjBwOG9ucEQ5WHl3c3g5RjNReW1DVmsyc0Rkb2R5LWQxSC1KYllZQjJIRlFqQmFNSXh5blZFSW1BSGZiQmVPUGpmUnJab0ZSMU5yaElHaV9oMlFwZF9Xd2VMTG1xQ2dxOC13MlF5X1c3YmZmcXpzNXpZZXF3cUdTcGhES2VBMllIUW00MmI1ZjFIMUU1X2FDYUNrWdIB3AFBVV95cUxQQjhzZ09fazdHS2QzVE9WU2NnaU1sVko5X2RHQzBXWERkVVVNWWVyYS1haW1NVWIzT3A2TjFTNGpYOE12VE1jSjA5MHRnUDBVSm95YmU0eGpJTURhQ2MxTkxQRmxERnJTSXE5QV9fVzA2ZXlUQ01NZWhaekx1WnVNU2xqdzV3NHV3aldiX0dlV3dpM1JwZ0xmbm9CYnhmendIR3lUX2lMRXRMLTE1NkFKdF9feVJUbW1HTnBadkdvbUozOHFzYkkwOTR2cFQyOW52RWtyY2V3VTh3a19I?oc=5",
-    "fonte": "Portal do Bitcoin",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "03e07e32f886e294af31db44676291d9dd1c0aedb96a479c40b25b16ac975936",
+    "titulo": "PIS e Cofins incidem sobre Selic em empréstimo compulsório ao Bacen - conjur.com.br",
+    "resumo": "PIS e Cofins incidem sobre Selic em empréstimo compulsório ao Bacen conjur.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE1FNDZibGhDbF9BNC1fcmxJSHFHNDNXYTdJWnRIakhGaU9xUF9aeDB2UmE0TlZCRmI3RHdqV2pHbUVOTTFoYXlLaUhTZEZkZWNPeDNCUzhCZTdwckJvYWpaY2ozVVhZU0MtVTJDY1dEbHdiTVdrTFAtSDFlV3hTWERNS013Rzl3dkdmQUtleERtUHFxZkpNWmpLN2tXd3RvMXVJ?oc=5",
+    "fonte": "conjur.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fb85aff1584693bd15db76eec61db79b770a7c32026c56aacf764042a80a3453",
     "ativos": [
+      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA registra deflação de 0,32% em agosto, mais intensa do que o esperado - infomoney.com.br",
+    "resumo": "IPCA registra deflação de 0,32% em agosto, mais intensa do que o esperado infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWGRlSm1UaUdLd1k4WVVaTWdHYTBvR1pOX1gwSXRkRjFsRmxsZ3Rfd0Z3SlJMWHJFbHdRcWxIT1FaZDdKMVgxQ2I2b25NU2swaU9sa1I5TV83UHQ5dENERnBtd1JFYWVpOVh2OENaRW1CSGdLWXdCQW5xcWxGU20zc9IBhgFBVV95cUxQUDNfaFRFYnpMdF9aUzZfdW1xSVFwTjVfYWxNUEhGZVpKUXJFdjM5SWNwUmg0ZG1HSVNfTmtPNUN5M3hkVjQyT2NqQUQ1SUctMVNHQU1OQkhjTTR1LWtYSmVmX2pOTjNETkI2czNVNlVPQWtZbFdPdjc0Qk4ybk90RUhmMWFZQQ?oc=5",
+    "fonte": "infomoney.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "f08247254c0ea9f3840899807381a2df41befde39a6e2f8aa287ca1a940bc301",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA, CPI, nova pesquisa Datafolha e mais destaques desta sexta-feira - infomoney.com.br",
+    "resumo": "IPCA, CPI, nova pesquisa Datafolha e mais destaques desta sexta-feira infomoney.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHBnNFphVmpsa0VpTld0SzBLMEdYZFdCbUlsaUhQQlFDOHZBTXZQTE9kaUhHbjlMQ2pTUXpOYzE4OGJ1Wk1ZTUkwRWtmZzhQSGlGRmtSWERXR3ltSzQ5dWxMUmFJS0NxLUdHaTJzTTRJR1IwTnZHeWVOTTJJY0Z5VXhYV1hoQlNjd1BQM2dMMmV5RW9XUy1vaNIBngFBVV95cUxQZkktdEpINWRsaWl2QTd4eHlqdHp5X1Q5ZTgxWGhZOXAwSnhEX1Jod2ZoUFphSzNDMC1KMlpndUp0dEhGMzlFdkVUazJ6OFFIMHljV3A0T2JCcFpqWHFES3JnY0FzbW1FX21UVmhfMldTWjY3U053Wk9YLUFVYlhDSnhvbjJGc0tOdVNpMHZVNFpIY1o0RWdPU3haYmk2dw?oc=5",
+    "fonte": "infomoney.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "227ad260344248f0057953371a1ad17faabaa2c41d8e9f4cd8172d4204a6f06b",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Juros: o Copom ainda tem de lidar com uma política fiscal expansionista que alimenta a inflação - Estadão",
+    "resumo": "Juros: o Copom ainda tem de lidar com uma política fiscal expansionista que alimenta a inflação Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPblZHcXZwSzVvTl9OR3A0SjRPZjJ3NC1SR1hHSzJSWVluNGFVVVk1dVdNb0dVUWpoaHBIWjNwTUt5emN5enFiamdMbjBRYnY2cjByaEtRLXhUTjlmTGdUTWlsUEVybmFoUG04TjZIMGtzQ3FQR0J3R211V0pkWk9zSTVzSk1kdU41UUxUVFVwazh1dGZzQ0xTNkQxaVAyVUdpM25WQVA2QWZ4TWNTTTV3NVRhYk4yUERTdGZTVVl6YjhfakkyT2lZd0JXQWdoeTVoMnpEc0RxZGZnZE9vajQzUGpvem94WV9oMzBHN3ZTTQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1fa306b7f142f0c7f7082185c9b561ffa33fa915f9e59ce58689ece899868a3c",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Juros: o Copom ainda tem de lidar com uma política fiscal expansionista que alimenta a inflação - Estadão",
+    "resumo": "Juros: o Copom ainda tem de lidar com uma política fiscal expansionista que alimenta a inflação Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYVRLM0hsS2xTNEM5emR6eVZUeHlmNVQ1VUtNUDFZbVMydjl3TWFpSFRDVV9TYmJvQlo2UlVwSmlYOWFMVDlPanNRWU5Ic2tMM2pTREZJUC1GMl9xWDZTQlNQVm1lSDk1c1RyYWdVUFphbEdWVmlLc3ZmLThBbjlDcktSRlh6aV9LR3hVRGhmNWpGaVlZTmJuamlFSjk1YzgtQ2ZST1lCd2hhXzc0OHc4YmdFV1l4RE9VUHhXM1ZzdURuSjRvV0p5dWpRTmYwc1RYX2haYjZQaVNhYUFLeHRJUDNYZVbSAeoBQVVfeXFMT252ZnVGb0FDMFlOc3ZqWUhSUVhIMWlveFJlbW02cTdmOFRpdGRsUDRlOEVJSDdoVmRhZnVNX3B5M1hNd1RXbUNKaUszUlRQbjJBaklveC1tZ2JmaDExSE9BUlhSU2xLV0FNcXg4RVRHdXRFaFpYSi0tM0VHckNhcThmbWZ2R1VZZl9CZ2lRWjRTQXF2Q0pwZzI1dXIyVUNiYmpMbll0SXNuQmNpUjAwaGl1UG9BWWRFU0xCMmxuQlh5U2xPdE9hTnYxMmlqYmdiSnBJZTBFMWppeE4teVA1THA1MlNuTXJzd1RB?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "97403b5545345e3b032c840be6f2d47c33b72d4f5c76b53b523909625fc6c27b",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
     ],
     "score": 11,
     "motivos": [
