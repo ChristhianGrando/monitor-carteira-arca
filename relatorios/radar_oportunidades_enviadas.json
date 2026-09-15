@@ -1,90 +1,5 @@
 [
   {
-    "data_envio": "2026-08-08 07:15:12",
-    "chave": "796ffcbfd9155e0fb3739571f3a3003f379102ec1c546752e1223278a1e21ff9",
-    "titulo": "Banco Central endurece medidas de prevenção de fraudes em serviços como stablecoins e ativos virtuais - convergenciadigital.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOelk0SDVPTExmN2FjRnNfWXlEczBpOHdfZE5OWWs1Q2RvY04wNzVYb00xLVYxajMxbGFvbF94cDFZSHlxaWs3am1rT1lNaFA2SXVmZ0lmLXAtNGcxSE9Na3RNalFtZUMwSEV1M1k4SXpvak1MUnFQUjRLcEV4Z2lmQTRNWURmSHAxeW8yNF9oNGIwSVYzSTEtbllwNk9DMlltRFJEcnI2N0FTUXpuUjdjN3pZdjFjc3dpU3B6UUp0QWt3ZlpBWW9MTTRwamNvQ3VVU3k4Q0UxWFp3MEQ2a1E?oc=5",
-    "fonte": "convergenciadigital.com.br",
-    "score": 14,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-08 08:01:26",
-    "chave": "9a809d74ad2b112978604954ae46c71fa5235cdf6417b6b3fdefc1e420d85b58",
-    "titulo": "Selic cai para 14%: o que muda no crédito rural e no agro - agrolink.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeW1rc3QwTkZsYnlQeUFNS1VtenZJQzNkbFNuam5SMm0xd2VmVHR0YXByNkxqRldnVEdoUXBGRWpnemViV29zSzJVTk9xdkZuV3E4eHdxWXg3QS1Oc0NaOGJ2ZzZCS3ZlazZrOE9wekNjc0lhbURoQjN5anBSZk52WFJpaHY3SHpfQlRWWEZTNXdlZDZib0tsYS1PWHlfWEZUY0pGYngyc1Bldw?oc=5",
-    "fonte": "agrolink.com.br",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-08 08:01:26",
-    "chave": "60eee7a458aad83c645114f598631e4c5beffda3424a5500d5f4c3b38eca4bf5",
-    "titulo": "Ibovespa fecha em queda com balanços em foco; dólar cai - cnnbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamNlckJxZkNKVU0wSUVCOS1CbTlzaHo3bU1OZk9ua2M4ZFIxWGtfVGIybktDMkkzQll5ZXNsajZldUJxZEpDbWtkakh2am02SU9EZTEwQUlhZjlQSld1SHdsS2ZaRGlkaXQyckxUdXJrQWR5TkRHdm9QSDhUQXItNEczcUxVbXhVaFJ3Q3J1ak9JVXk4MjlIa3UydGdVT2lj?oc=5",
-    "fonte": "cnnbrasil.com.br",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-08 09:00:05",
-    "chave": "3a0e9017d3935c78d822c9e1aab9a55a4ba2c8c45f427835dc707b3299f810b6",
-    "titulo": "Os juros da Selic precisam cair mais - mais.opovo.com.br",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcERNb1lEQ09hY1ViVkVscUhBNTEzVGEyTjJmRGtwWmw4c3Y2WVRMa0o4bDE2T2xFWWNnSTZvYkd4LXdKNXRHbTNWZmlTdW9fXzV4emlwYk5pVEtnaWNjcFNYMHFYdFhFbDJTSVFCRUZSUENudU1lMUJWSllFUUxTRVgtRVQxNkRuUnkxOXRjLXNDLUpDQnR6OXJJdno2WXBM?oc=5",
-    "fonte": "mais.opovo.com.br",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-08 09:00:05",
-    "chave": "7ce6c6c38d165e7dde1c0bd11b444bde75a43a0ab73fd766fc93678f5317c621",
-    "titulo": "Com fortuna estimada em US$ 690 bilhões, prejuízo de Elon Musk após colisão de foguete na Lua surpreende - diariodocomercio.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTjdNMk5hRjhmWUIwdGRCMm1BQVlTYXdJQzk3U0x2cFlaR0dnR3NlaUd6REI0dS1GRVVtRzZ4S25jQXhtcFc0RV82d1RxMVNJY0dFTVYyRmJ2R2pyLVBfTC15aFBOQml6ODVpN1plSW05WXJtNU1pVGhjTTdfaUN0c3lRbGV3ZE5tNU5IRlNPcEUycWtURjM4SG02NFhHallrQllqZ1hnM3hLOGtzLU1EQVpSWjNkQTNvZ3pGNXVqMVVJTmdFQVNkTHM2Z1VfR0hDYzB4MW13?oc=5",
-    "fonte": "diariodocomercio.com.br",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
     "data_envio": "2026-08-08 09:00:05",
     "chave": "95d49e442f7f41bb6811a48c20d3112e8669a00b78455746bb846cc62671fb9f",
     "titulo": "A SpaceX registra prejuízo de mais de US$ 5 bilhões, enquanto Elon Musk promete mais investimentos em IA e data centers espaciais - ihu.unisinos.br",
@@ -17187,6 +17102,97 @@
       "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-15 07:44:38",
+    "chave": "e12d9ce662c3483bb982676bfdda8a45a0e11d0d20e0413d0eb404e222cc2843",
+    "titulo": "11 papéis que pagam mais de 1% ao mês mesmo que Selic volte a cair - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWg1ZXJ3M3IyOE5fNXA1R05qVk1QWmJXMjVidWo5T28tTTA0YXV1dmRuamsweGpCSDVULUZlN1g2YWpMWlVJSDc4eU14a2k2MjZ2NmtKNFdZbkRjS191bll2VWNlNUdFWTRUQWRKTjNUSS1YbDNFYWRlQzM2OFNlZTVEUW10bTdTTUNkZzdhZzcxMjFZYUZlNlg0amdMT3hXYUF5NnVtM2JlMnU3eVIzMHJB0gG3AUFVX3lxTE5fUVZxLUo2Slc0QVk2M2VsRDJTQ1psSFNsanVrcGVlUEstZXJPTmdHVXVNNnVHVmRxM3o2THBFQVd4M1NVb3AxX1dtM1o2ZTU3WGNWZm9pM3BmdHhQc3lXNUVFMlY0YUZEVTZERmVXc1Y1ckFlSFgzX3BVU3hEZHFIMDFPWUI3OWFPdW1KZktLd3FmQ2VfZHdsTm90MGVJU1BfNTYwRURZQTFVTmpUUEZIbEd4NTdPRQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-15 07:44:38",
+    "chave": "b34f8643b05ef686ef27eb0a6a6e65912d2ddb07b0c724727767ae2894ce68ec",
+    "titulo": "Ibovespa hoje: petróleo acima de US$ 100 divide atenções com espera por Copom e Fed - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3k1MWJydTY1TS1Tc212NXFXSFc2dGNTdk5JWl9xTUlyZi12V0JZZ05RVTR4aE9lZ1RTSTAtbWlVMkZUVHVCLVlmOW1HY3J1OVN4eV9TN2VFLTA1MUU2TkE2Umx2RFN0TWlFT3dUM3lQUVpjUEltLXNuWFBsVG83X0E1QTREeExzSGZEMVo4eXhFYW85R3kwaEFyUFI0bXhham9xVU5GU0Q3NWpwWXU2ZUl0T3VTOWtZM3NtWGdIcFBDS1I4bWMtMjlqSnVnUURrMFFJNzFqaTNGbHNWcHNPZXV3?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-15 07:44:38",
+    "chave": "b70022e2b46916732222eeb311294f78f7d6281b722c386af78e544c56dd81eb",
+    "titulo": "Ibovespa hoje: Bolsa cai mais de 1,5% com petróleo, guerra e eleições; veja os destaques - suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjlNNzE1eWoyVElsS1E3QnhIOHVNRU55eW5jbThBOGt3ZGVQTVBZcjlOWkF0U3RCRS1QMDR6d1Y5eFlFb3NBY29hS3RYd0lEVFAzT21IdHBaQjl2UUpXVXVFNUdtZVlWRkZRNDEzaG1odmdoMkNHVmk4VUNpMS1FXzlMVEYyQdIBiwFBVV95cUxNZHFJeHRIVGY3VTZ6Y0ZoLUV4SUp6bENER2lBQVhyX3NmWWp2Z1NqRlRHUWlDTFp3dWxUUDFlcHY3THp1WU5FOGJpMHpZYU5peVdCdERLOWFyYkZYLWJxMFdUYVo4WXQyb09Ha0NfeHU2T3BvUVYyU0FNU0hOc2FCbi1faWVzZTNTVXVN?oc=5",
+    "fonte": "suno.com.br",
+    "score": 12,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-15 07:44:38",
+    "chave": "de11e068983d4669a686a583a9d91b0071f1afff5afa750180588d60ed22e5c5",
+    "titulo": "Copom deve cortar taxa Selic a 13,75%, mas manter tom cauteloso e ciclo em aberto - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUF95VUdaT00wZFpGWUVneDY4TVBzQjllbkhXdlNzNGdmaF84OFNkVG1rMmUwMmg4cWNrd0ppYTZGOVhnQkZabE90bUFuN2FONldhbnIyWV82ZFdISFlabEUwRzd3VU1RZW0wZEZJOVBTV1ZGeUxPTTlXT1d1bmNiTjFJem1WaTNXRWRnQlR3RUZvM3hOYzlTQmNodzBnV01KUGN2YldtQjdoMTZCOEFFLURDNjItek9JSEEyLUhtN1N6ZHhkWW0weU1XaENjbzNpRGc?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-15 07:44:38",
+    "chave": "111c1296c7631d723094cb07c1420e1b62dec554110470ae3eb3fe5db9a34643",
+    "titulo": "STJ mantém cobrança de PIS/Cofins sobre Selic de recolhimentos compulsórios - JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDFWcUU3VnUzaWMzanRaVi1yV2N5ME9vZkhQMk4xTC1va3duSXdjYk1rN0MweTF6bFowYnV5c3dfSEQxZlVLclhRNDB4SUZfVFEtYUhuWS0wV1BhYXFhUGhoLWNuNHh5dThQZ1JyTm5fRnRJcVAxNmpJSFN2dU5lb1BVd1JTcGdCUTlOMDlrT3B6ZnRTUXY2TFJFNERlU0NQSlgwMXJEODc2Zw?oc=5",
+    "fonte": "JOTA Info",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
