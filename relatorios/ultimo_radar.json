@@ -1,75 +1,22 @@
 [
   {
-    "titulo": "Ibovespa cai com Petrobras, de olho em crise no STF e à espera de Fed e Copom - InfoMoney",
-    "resumo": "Ibovespa cai com Petrobras, de olho em crise no STF e à espera de Fed e Copom InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3RqZHFDV25haWdPMmpfNXp4TXc4ZkRxWUFucTlyeHJVTVJuX0RlT2IyUmp1WVp2UDFUOGhYRl9XTDhNaHhuTFcxaGdhSDBwMGpVNEJ4SjdsMTNiaUZSaFl2LUhnRUxhbk8yQ2htdGlIRGItZmJvMUJZM052RFk2UEttLWRIdmF0X2xleDZ5bmIyUU8z?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Copom: Selic deve cair para 13,75% ao ano - EBC - Empresa Brasil de Comunicação",
+    "resumo": "Copom: Selic deve cair para 13,75% ao ano EBC - Empresa Brasil de Comunicação",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcUxkTTVyOXlYUVlMYVBsS1ZZQVlSSlhGQ1VrNjNvbGxiaTlscWxsbkgzUk1MdzJWNHg4VHUtMnJGTVhLYTRabXNQVlNLTmVrSTJ4Vk45U3BqVGpsaFk2MU14bXQzb25YcFl3SjVjdzBHUHMzaGlDaUhOc0N3OVhRYnNyNnJBenBHMTQwaHk4N1EzQ3M5cjlmRC1pVjRnU1I3am5uRUhEa1dyOXdwS1NxSjBXZ3g0anY1S3h0ajU5VjI1S0JDNm05X2YwUmU0UWJkVkJGN3pMNVJHQnpId1Fn?oc=5",
+    "fonte": "EBC - Empresa Brasil de Comunicação",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "41bd5b204934b7ae754a9afaf1323df942fd55eb79dd62b9958f56fee2880047",
+    "chave": "cc02f177a1076f6336addb94e2588186ef249719134b8f8545e851b288ba01cb",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 20,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "A tempestade sobre o Banco Central e o Fed, a crise no STF e o que mais move os mercados hoje - seudinheiro.com",
-    "resumo": "A tempestade sobre o Banco Central e o Fed, a crise no STF e o que mais move os mercados hoje seudinheiro.com",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDRZYVM2Vjdjai1aV0VaZlFHT2RKVmVvQ2FrdElraXl1TTVXT3c0dE5jVXRXM0w1ZGhaWnh0bWk1QXdweWpTcTctV01GLUVkUDFxeGM0RlA5Y1JaVGFwYVFVMWlMV1lNdFpjMk5ueXhpR0VoMkI2RVpKLVl0Z1VJM3A2UmZqM2F4TlB2Y2s4MnBHYkdjZ1RmV0J4WmI2UXlrUy1oUE16V3daOTNSWnNpSkNVWmpERDFzVGVPV3J6TTR2U0U2ZF9IXzdiQmtnWHJsVGQwNU9ESHpvU2RocEpydA?oc=5",
-    "fonte": "seudinheiro.com",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "44134aa597e029fbd1962c70d5375dd8f935e2dad8885f953262d00be6780c73",
-    "ativos": [
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "IBC-Br, prévia do PIB do Banco Central, cai 0,22% em julho, acima do esperado - Estadão",
-    "resumo": "IBC-Br, prévia do PIB do Banco Central, cai 0,22% em julho, acima do esperado Estadão",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnNTUWVwZDZ1eTE0YUhadEVaV3VqNXZxSHNPWmtacFpNbXJNSGJudll1bkRnUWNPaTI0dGtMRWVpZ3ltRDBrZ2xoU1c2M19WaWVhNXVKZ3A4ZVF2cENHT180N093NDNFUk55Ymh3MmFFdERFbXVrZHctNUptNl9iODdrcGVHY3cyU2FRQXZYZVQ?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "94a9695cb1aa5b43cd81a4a22af381b7e30bd0b06731660b83e037f72c1b2559",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 13,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -80,12 +27,39 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Corte na Selic ajuda União e grandes empresas, mas não chega às famílias - UOL Economia",
-    "resumo": "Corte na Selic ajuda União e grandes empresas, mas não chega às famílias UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0tkclQ3V2U1c3BISDlpb0hEbkR0Z2NmN2M2Z2RKSWVHanhKRFpiWGNiWlM1bWM5blkxb2pPdkJGVjZkU1JGSnhtX2dxMWdrU244bmdUWVlycjlCY25sZW1ka3BwRy1kYkh3SEFrRTdBR2UwbW5xekk5cE9zYlIwT1VQUDFIWkVDM19CeUV5bFktMWJoQXJZUTUtOU9qRkFvcVdMWnZILW1KZzliZ0xhemhhNnJuUzUxTGZrU1NnYVdvdlF4ZlE?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "Ibovespa cai com mercado à esperada de Fed e Copom - VEJA",
+    "resumo": "Ibovespa cai com mercado à esperada de Fed e Copom VEJA",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlZRV1RleGtmUXNrLWEwN0thRDZLQWJhZ3BvalFMckVuYmJQNmd5aDMxWlIzc0hFbkg2Q3NtZHpQaVRyV3hHV1JScXZ2YVdtSHJlaG9lX3FSZzctcWN1eVg1ZkRORzh3RTRHSmx4enNtZ1Fza0hjTktvbEs5eHg4YzRnX0p0dmhDaXlMYklfbw?oc=5",
+    "fonte": "VEJA",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "0749f6f6fb0257904c005d2b18e97c3b007a30982f90ab7600d0494fa6cbbe75",
+    "chave": "c2f68caef9747fa0a3fdf92f2b9dc47967cde77e208f47fef0b656a5ce584e9f",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Corte da Selic pode vir antes de inflação projetada chegar aos 3% - Economic News Brasil",
+    "resumo": "Corte da Selic pode vir antes de inflação projetada chegar aos 3% Economic News Brasil",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iaFljVUl5TTQ5MkRRbkhFcWlnMGhRVm1FdFJJUGJMcjdSdGlDUm5BcDVFMkZIby16cnh0Um55aTVxeG84ZTJ1UlM0allfY1BYdk1JNTNLSHdkZDkxZnpKcGhtRjhNclc4d1JlSHl1VHJfaE5nbFFTNzlQYTFFNXM?oc=5",
+    "fonte": "Economic News Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "28c6b9ffef91d8067973b1ed3736a238d0dad3a9d9fd8b3277666700b9cc3c5b",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -96,22 +70,46 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Taxas do Tesouro Direto recuam em dia de Copom anunciar nova Selic - Valor Investe",
-    "resumo": "Taxas do Tesouro Direto recuam em dia de Copom anunciar nova Selic Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTUZ5UmpEX1NkV2daTzM2bmlFajFKR2l4NXZvRllRSm5fa21fVmlQRFIwaVF4bXZ4QVJwajVPTHM3R1dybkpjbkJaLThMNWJHWExwVVRVQ2VLN2NuS2tIaDJvM1B1aktzUUNHNEc3SDlWWVFxZnMwcWxackdyWnNVbUFndlF4Y1MxeW9zcTcxbUt6WUhCZ0tWd3pFcENLeEI4bnhJTGU1MW1nc3BOWHBEXzhzTjVwSkJ5Y2JBZXdtMnZxUHJlcEQ2TjBCWDIyOGllS056bXB5d3JWcGtaSE9jQTMxenprTHpUbFNGNlBB0gH8AUFVX3lxTE4teEMwMVBGaTA4ZGowZkVLOTlZMWVVbDhPaDBSd09kazJITlBaSUctSGVDUWRWNjFJaHVDdXZnSE1ia2wwTl9oWFhNTXl6VGZhZlAweVZYQ090T21WR01odlJuUXl3NEY1T196M29BN2c1ZzZ1LVNWa0lSbEhqTlhwc0ZHSjJWdS1JYXlXRGJ1cEhmbXhLMFRyWTlQN0pRSEl6UHFQZDJ0UFZ3QmtMeklnWldGVHRKYm1LRFpQSDR5a25CQXNRNUNXOWRoajRXdXRwZTJlanYya0lad0t2anVCc2pWVThPdTV1MTVXZXRZQXVrUGhHMDFtWndHbA?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Sem solução antes das urnas, BRB vê aumentar o risco de intervenção do Banco Central - NeoFeed",
+    "resumo": "Sem solução antes das urnas, BRB vê aumentar o risco de intervenção do Banco Central NeoFeed",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFVJVlN4SUdjYWJEOHVqZi1adDBSQ1pOQ0VMd0NrcTlDMExXVU5tZnVfRUFaSGdPejRTZlF5UUYyb0k5QnZyVVhYSnV4Nk1MZDd5T0lkRUMzNXcyOTdlMmJCZkJzeVJSQjVObDVyU250QWpVRV9hSUFxcEFsYUMyb2t1SlRkTnJ5UDh2UExKQWxESFNoamhEYUJHd0Y5TWt1NUZKRWhxYzF3SnJMMGhRd0tyUQ?oc=5",
+    "fonte": "NeoFeed",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "6007ba50ad8ef04ff9526ce5b52d038e49b1f9de1ce11c3664ab5aa4c1185cdc",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Selic a 13,75%: quais setores podem ganhar força na Bolsa, segundo analistas? - suno.com.br",
+    "resumo": "Selic a 13,75%: quais setores podem ganhar força na Bolsa, segundo analistas? suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDdNeHdxSlRHMEdCNURBYjBvNlBpY3hFZnk4RGxYMFBjOW1ZLTZXRlBIWkVWT3h2M0F1OVR4dzJoWDNlZTJfYmtteU1fY1AwRjlrVnpkTWZ6YUU0SGdLX2RFenoyZ3hGbWVOX0JpTEZTajAwbXNtaVBRN0JhdGViM2RQU0pZZDFPaDkzZzNVTjZ6akJQaGV2c1htQXBPQdIBowFBVV95cUxNakVFX052N2l3Z0dXTUVyZVdSVDV0aXNiaDFFdXY4RHNFaU1MbkltMDhBWW9MNUFwTGRKSUdneEhBZUV2VUMxcC1VNmpmWXBDX1FlVXFnVURTQi1WMU11R3Vlc3R0VmV4OVdMSG1uQ0tJdDhfVng5WDh5cFpqSnhFQXpPQW9acmt0c3BQLUx6ZEJCR2gxYXhfUno1blMtVjd3SjBZ?oc=5",
+    "fonte": "suno.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7761eab5a0df0c2196274f89c0a2227f83bbaa9f94e4edff52190062ceadde4a",
+    "chave": "eeb451f7019b0409b5212086977959d82b0dae5bfb8c574aeb6d7cf9e67e527f",
     "ativos": [
       "IBOB11",
       "KNCR11",
