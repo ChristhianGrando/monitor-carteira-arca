@@ -1,11 +1,27 @@
 [
   {
-    "titulo": "Em meio a dúvidas sobre crescimento, Shein estreia na Bolsa de Hong Kong com queda inicial das ações - Terra",
-    "resumo": "Em meio a dúvidas sobre crescimento, Shein estreia na Bolsa de Hong Kong com queda inicial das ações Terra",
-    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbE1GVkk4a1Y2d21ybGhFM0dVNnl4QXFaZ2IwZlhGNm5tdGlFUWM3NzVWODRVb1JOR2wxWGlqai1SNExyVk1TY0tyNGpBS1VzYUgzT3dCWlluMGwxUjYtZFM5ZTBJM29VR3V3MEo1MUlzakpERUZES2NxRnRfMXFQc0J6RzJzUkZjd21rOWpPSENPQ3Bxa004ODR3MlZTSlE2OEJ0eU1nZXVFbkp5RE1mWEpyODNlb1hfTGExN3V2a1lyWktmRWJHRVQ1U2FsMGZfVExDM3Y0WnlmX0ZyZXlQYUlianFKZGNzcGQ3dTE5SDhtLTdZMi1vRFFHNGN2c2NQOTFXeEdJSFRoM09mUEk5TGtzaw?oc=5",
-    "fonte": "Terra",
+    "titulo": "Shein estreia na bolsa com ações em queda. Agora, precisa provar que pode voltar a crescer - exame.com",
+    "resumo": "Shein estreia na bolsa com ações em queda. Agora, precisa provar que pode voltar a crescer exame.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkIwZUlsR1NSSzA4VVh2Q0VtdEVxcUlHX0xuVjJkS3UzTFlid1FYOU1RZlBvaXRFSlNJbU9VSDJHRnFEVHZLblhrbmwwWklIT0poc1ZjbnpvQzFmeDNaLVl5TFNTODE1NjZRMWJyblFMMVFpdzBtOE5mT0hfamtBQzYzU3lXMHZwanJXYm1nbEUxNGJOV01uMkFqa1hPc2RLcU1pQkhIYXlTUXByX2xPdUFwVW5LNGtfLTAtcEt1dDY?oc=5",
+    "fonte": "exame.com",
     "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
-    "chave": "58d7503d890c57f54240b34b8b5a91f63f56279b5ba0b711af1894449c383439",
+    "chave": "e2e58b328aaf64272d8a9142d5af6c395dba57cc6a7cc99d442ab2e7a0ab1307",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "IPO em fase avançada",
+    "estagio": "Fase avançada / estreia ou precificação",
+    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
+  },
+  {
+    "titulo": "Em meio a dúvidas sobre crescimento, Shein estreia na Bolsa de Hong Kong com queda inicial das ações - terra.com.br",
+    "resumo": "Em meio a dúvidas sobre crescimento, Shein estreia na Bolsa de Hong Kong com queda inicial das ações terra.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbE1GVkk4a1Y2d21ybGhFM0dVNnl4QXFaZ2IwZlhGNm5tdGlFUWM3NzVWODRVb1JOR2wxWGlqai1SNExyVk1TY0tyNGpBS1VzYUgzT3dCWlluMGwxUjYtZFM5ZTBJM29VR3V3MEo1MUlzakpERUZES2NxRnRfMXFQc0J6RzJzUkZjd21rOWpPSENPQ3Bxa004ODR3MlZTSlE2OEJ0eU1nZXVFbkp5RE1mWEpyODNlb1hfTGExN3V2a1lyWktmRWJHRVQ1U2FsMGZfVExDM3Y0WnlmX0ZyZXlQYUlianFKZGNzcGQ3dTE5SDhtLTdZMi1vRFFHNGN2c2NQOTFXeEdJSFRoM09mUEk5TGtzaw?oc=5",
+    "fonte": "terra.com.br",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "7f85090651d3e60ea2142273f66a85816981f6bdd5b2193cca46212c58c98140",
     "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
