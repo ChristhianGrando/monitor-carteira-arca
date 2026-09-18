@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "titulo": "Decepção com as ações da oferta pública inicial (IPO). - Vietnam.vn",
+    "resumo": "Decepção com as ações da oferta pública inicial (IPO). Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42d2ZDZUFQNWhkQzdERGFpRVRwbzhMSDZuT2ZSUGpveUx4RUJTR3RRd2REZldXd3A2RDluRGJGQlBEUHhBLVVscXllX3owT0JkTjJKdUZGS1cwekJG?oc=5",
+    "fonte": "Vietnam.vn",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "170e36a1658d46d079e9090faad5ef3dd7eef5ab22c37b126bc4308439b8f624",
+    "score": 12,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+  },
+  {
+    "titulo": "Ações da Viant Tecnologia disparam após cancelamento de oferta de ações - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Ações da Viant Tecnologia disparam após cancelamento de oferta de ações Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMTA2RmY4bWJBTlZsdFVyOTROd0kwaTd1V3BxOUtDbWxjdWxjRGpTc1lqekc2cXpGbng0UC1fRlRpTFltOGNxNmpFaGw0M2U3TXZXdzBLZW9GVXJVcGhDWUg5OE9Gd1FKOE0xeFZPNk0ydFlHdmRKSm5BaUxKTTlMYWNUdHhYaFdpQlR0WV95QS1NWXc4NURBV0ZMb3o1NERLZUpLdkE2NHlCYnNxMXpKWEp2cWRIVFBYY2o5MTIxSU04bURpY0x4TlhDTXY?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "02cc616ba8e8e64882e82225066a092fc8649c572bf89f4f101bf63a51462fcf",
+    "score": 10,
+    "motivos": [
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem sinal de risco, adiamento, cancelamento ou baixa demanda",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Atenção / risco na oferta",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+  },
+  {
+    "titulo": "Orion180 precifica IPO a US$ 12 por ação na Nasdaq - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Orion180 precifica IPO a US$ 12 por ação na Nasdaq Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3hVMnotdnYyNmY1S2E1WUxQb1k2RDQ4SHpwSzY4LTNlQnR5ZklTTHVtcG1tUFhiWEI1X3FxTTZ0ZVljLTZGN1JRU3I3cG5JOGZSRS1mM09VeVFjTmtaTmU5NWJLdWtyczBrZjhUVk04RWtCLUdDXzRENmxwZzhZbGxuQjJ5dE80VVBrM2d5WUw5eEdDakk5R2dZMG5WczViTFZQYm03MG9hV2pEMVlMaQ?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
+    "chave": "26ec6fcaba0fc99c7fa26994a612c786f6144007ccffa86054713f9403873560",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  }
+]
