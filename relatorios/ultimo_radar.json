@@ -1,34 +1,38 @@
 [
   {
-    "titulo": "Banco Central anuncia novas regras para o Pix, incluindo combate a fraudes e Pix Automático em contas-salário - Finsiders Brasil",
-    "resumo": "Banco Central anuncia novas regras para o Pix, incluindo combate a fraudes e Pix Automático em contas-salário Finsiders Brasil",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RGT2RuWHkwZ2RLMjRtUkhkaTl6T3lRdTRNNDZIblRwdEFfZWtlTzNUSUkya29URGtrbmFybW4tNGNMSnlQYWJBM2xQZEgyREQ3ZHp1TC1za2NzT3hIRzNNc2toVWNqZ0E2aVJiRC13UHBBRUlLY3J5b01nSVJ5U2J6R0NvWkczWlFpUzBKazc2UndkeThEUXY5LWJSMWNX?oc=5",
-    "fonte": "Finsiders Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6e055b8a2d270645b857661292d51c5bc4ad466eb3a4b0eb17ee3c56b9f5cdce",
+    "titulo": "Selic em 13,75%: especialistas destacam melhores oportunidades de investimento no novo cenário de juros - Bora Investir",
+    "resumo": "Selic em 13,75%: especialistas destacam melhores oportunidades de investimento no novo cenário de juros Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeHRpRnBTOE95ZDJEWW5SQlk5M3NCSXpOVjVQd1FqZmZqZ1R5LXZGSUQ1aGN4ZmJEdmtLeTE5MTZSV0FvbzJDQTM5bmxURnBwbkNTNWpGWmdvOVc4Z0xrTFRfU3dfdlo3OE1XSlBZUVpGSHdUcVI3YTdITmlwdERYQ3lWbEFYZDVZb283dWtJR0xRaVlxcTg5c2ZPVlpHY2t3VDNXUkhzYXRzN3UyUFd0cHRESkEtUVZEY0dUMk9DRkk3a1RFbjNiQmVyOW9nMUgwWDBTMkxYdWM3UjlZYzZkZXBKRzYxQ1o1WHZEdmI1eUNiZ0lPYkFYVFpiZFlmRG8?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "01619679f3af1424c7e5e2d6cd7c94800d3d537e411155a593d39a42ee400e54",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 14,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Reunião do Copom começa com expectativa de nova redução da Selic - contee.org.br",
-    "resumo": "Reunião do Copom começa com expectativa de nova redução da Selic contee.org.br",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlVXT1JqSEdpXzRvQUJlbXc3NVJGNzdEZ1hqUU9hN1lLVmM3elhMNkFYT0lpdXkwenBwRU00Z3R3UnpMT29zM1FoeHNud2hUSWYyNmVBUEtOWlJWOExpaXVZWl9VaU1MeFJCelV5OTQ4YURfRUl6OFdoc2xGTGlHTmdCY29IMFktaDBvbkwyQi0?oc=5",
-    "fonte": "contee.org.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f979b8fc984179a2669648c540a382bec295e0174467d896de04a7b84f85b3c1",
+    "titulo": "BC corta Selic pela quinta vez seguida em meio a inflação controlada e redução do déficit primário - Sindicato dos Bancários",
+    "resumo": "BC corta Selic pela quinta vez seguida em meio a inflação controlada e redução do déficit primário Sindicato dos Bancários",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdldIeklFdnhtemNWYTNHTzZOeDFIOTc3d3lxVF9majhTd1dEeXY2RVVmMXZ2T2tOWjlMQWM2Y1RKUmhFdVJDN3B3LW91SDN0R0ZVaFIxellxRHdUakRCYkRHdmVtemhiRkpwSGdoMVRmRzQ4aDRNNHVNc1g5TXNOMnViNTByZFhMVFJHbXlCdERQSURUYUgxRUtDcHBYWWJRNzdjNXJaaVFqakRWOE5sbmRDY2NEOFFDZ0x1aDlSTQ?oc=5",
+    "fonte": "Sindicato dos Bancários",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ce28e41ff9a496be24c3cb977e0c5c84c06d733964dcc9833b4a8fb4a9efbf54",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -49,36 +53,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom: como o corte dos juros afeta o mercado de FIIs - Fiis",
-    "resumo": "Copom: como o corte dos juros afeta o mercado de FIIs Fiis",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkNENG8xNm9CeExLN0JDUE85Q0UwaFdZOU4yS2lNTWU0NUZtS1dXOXNVTWxlQnNKWWtCSGpnWWpVWHJ1Tk90aGJYdW1BSUhfS2ZHMGJndXVxV1VTOHk4MllfU0prTmRGdjNoVm5YbzMzVlRWd2ZtN0JNcHppNkVfUDRTN1Q3VWM1b2Z3RElrRm55YUkzX2ZPVENySWM4Zk45RWJfT0ctNWM?oc=5",
-    "fonte": "Fiis",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6fb37bc266d4346cb31ba4baddd95fcdeffd7d3789c5b7f944036950d2569462",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central do Japão eleva taxa básica de juros para 1,25%, a maior em 31 anos - Estadão",
-    "resumo": "Banco Central do Japão eleva taxa básica de juros para 1,25%, a maior em 31 anos Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVRBZlVWZ3FIOGdzcUR2ZnNPMEhLcVBZdUt6TDVrdC1QS2tnSGFjOTNCN3lCbkgtUE14TVREQjRWQkJ4LXUzOVhhb1VKU2NQZzFvWEVCRkh5ZnZjRXdyNnk3SEFtTHhrM3lFN003Z01vdDdpcDBCUE1YcjNRaGFJRG00RVV3RzhtQzFobWNpdWlIWnFJcS1IMC0zeFZnUHdqT3F2RE5kTzI?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Banco Central anuncia mudanças nas regras do Pix - Governo do Estado do Rio de Janeiro",
+    "resumo": "Banco Central anuncia mudanças nas regras do Pix Governo do Estado do Rio de Janeiro",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xYmU1RGp4dGRpbWg4aDBLdWR0ZVZuRkp6SW03NTMzeGdtTmxQOXBNMk9NT3N3aG5IbFdxSUd1bmtTbGxST092dklLdmlINUMtRUluZ1pJNFZnMVNNeEFSbQ?oc=5",
+    "fonte": "Governo do Estado do Rio de Janeiro",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a53ea0bc173ef218addfbb2aba604411ee5c9422e5e14f54eda54bf6620ea9d0",
+    "chave": "f96f2b62a26a610717484d38d8bf70fa177b4b9c11d991b92ecc8d8c904c6155",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -95,12 +75,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Entenda as mudanças no Pix anunciadas pelo Banco Central - VEJA",
-    "resumo": "Entenda as mudanças no Pix anunciadas pelo Banco Central VEJA",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVNHb0plMXN3QVRfeng1aUQwQUNCLThWR2Y1T2tYTzdyRkRfLWowVXRxOGlLV3UzNUZhSUJFQVRuck44REFjLW96aTNRMTBCTVRCcUg0cU9zNnI0aU1JcF80WVV6aWV0N3ZPMVhrbHk0YTVtcU9rR0VINm9kaG9vd1U3ejE1RURzWEpRRjdSSHlKWVd6?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Banco Central define novas regras para o Pix e autoriza uso em contas-salário - CartaCapital",
+    "resumo": "Banco Central define novas regras para o Pix e autoriza uso em contas-salário CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmVQTm5NWmNRX1VXREtHMmdlcmFHejhkQ3A1dm5QTm1fdUxDc3l2QkFwZ015RHlpXzNWckpSdVFFY0JDTDhCS0tvODYyZGp2QTBZc0kyNmFpM2VRbFozbFp6aDdrOWZlSE10WjJ0SldtYU5pVmZLUDlGd0tlRVYtUzlMWDg5M1lOQTlUQ094MGxRSXNJaGlUOE0tb25TUllmRi1hWUFIVEJmbjV4VjNXTk95QURzVmJXVDE1NkkxdkV5Zw?oc=5",
+    "fonte": "CartaCapital",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7eac1130f99a316d5963f9b0f0422e4f01f683f8f80e87e95240018a4021d4db",
+    "chave": "093b65d1de06e6ec8510dfd65e4b1d547ffd790999c66eea4ca967810415dae6",
     "ativos": [
       "CDB 100% CDI"
     ],
