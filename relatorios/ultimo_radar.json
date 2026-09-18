@@ -1,22 +1,24 @@
 [
   {
-    "titulo": "Taxa Selic cai a 13,75% ao ano. É hora de mexer nos investimentos? - InvesTalk",
-    "resumo": "Taxa Selic cai a 13,75% ao ano. É hora de mexer nos investimentos? InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDJ0bGZJUlVkc1ZaZzFQeUZLRkEydlVrMmY1Qk5reXRpM2R4bk5HYmpFcFd3VFZXSnk2ckN6R3hyeFRodzhGNE9XUEdfLWczR2tEYkxnT0ZldjVRY2dCNkEyenliZGNTWFZZUXpfSVZmWmw2MzFZVTYzZHdvdmhscUxyd1JXd0d6blZrSG4wRE9pUmE2czMzSXpsVG5YT29hVEFZb1VJNGJzZlFL?oc=5",
-    "fonte": "InvesTalk",
+    "titulo": "Ibovespa B3 sobe 0,24%, após queda da Selic e com alta da Vale; dólar cai a R$ 5,13 - Bora Investir",
+    "resumo": "Ibovespa B3 sobe 0,24%, após queda da Selic e com alta da Vale; dólar cai a R$ 5,13 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTVPVDk0YUZmWmtaS3pHdzhCLTNPVDU2cjlyMXhDb0IyTGhFRGV2LUlSSm9DbHdqTWZyMTYtUFNfT2VIbEhOSGI1QV9DWVprM2prVmtQSzhUa25uNTBJQ3JXNXBjWlQtbkYwQkxpOFh1Vk45bkhNLWk3Z1I3WVBkMmNhU1dVbTFVVGNVZHhaSnRFdGw2UnNIRHRMdTZCVFloVlFjbC1HbEJ6NVpCVFdKR0NmbjVpdGwtR011dE01MGJPYi1y?oc=5",
+    "fonte": "Bora Investir",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2b4a0faeba36237e611bf44fc2632a6fa7631d5cb91b872fa6a8cfb954551ee6",
+    "chave": "14fea12eec9cf4340615bf0a58475a04b1320737397072fcc247069318f9e159",
     "ativos": [
       "IBOB11",
+      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
+    "score": 16,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -27,12 +29,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dividendos de 33 FIIs superam CDI após nova queda da Selic, mas cotas decepcionam - infomoney.com.br",
-    "resumo": "Dividendos de 33 FIIs superam CDI após nova queda da Selic, mas cotas decepcionam infomoney.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFpnaExMM3VrU01RaEh4VnVzZDhmelVPQlM3UHJXM0hDQjR1ajhabmdkRnJpUVRiZDduTWM2R1p4eVBIY0dCWnUyRFUzb2szMEE2OTdzbFlsS245WXBxRWVsQ2NQOFdrZ09JclhjdGZ2RzAyVFVEbWFpcVNHRUZadlV5TWo4dUdyRDNlRHhYSW55cmdTZjl2TXVLZlRFQVdJSWVKNy1fUWhFUVNYaU9GVExlNmJtSEIzMWlZ0gHAAUFVX3lxTE9BQnM3RkotQUcxZkVBX04tNkpaRnRmRmJmaVlza19xTzd6MVFnV1A1cklGN2hRZWtzNVh5alVoLVhneWpuVFZmdW56dmhIckZxRldleHFaRjZmMXRhUmpCTXJuRzNCTW1QaGRoOFdfVVNmN29ZMlQ5R1J4RThIdXNlVVgyTFlWYVh5N2pWcXl5X3RrYUg1cHNUUzRsOWVwWjlNSW9SMDN5ZXExdzl0VWVuRHdPdmdabEVmaTRKdXJGdQ?oc=5",
-    "fonte": "infomoney.com.br",
+    "titulo": "Dividendos de 33 FIIs superam CDI após nova queda da Selic, mas cotas decepcionam - InfoMoney",
+    "resumo": "Dividendos de 33 FIIs superam CDI após nova queda da Selic, mas cotas decepcionam InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3MtOENhUU9wYU9zcTJnRTBVTzJSRmxrMDJROFhIR3c3TFQ2aHVMaXFNbldPa1BteWFneE5WcHJKMlN3NXNLRWZmYVd6UXR1VkY3aDF6WXUzSlg5VE5fM3ozU3IxZ193ZHdoSFFZZDN1MVozRTEwcXk2UXRQYm1jc2U3WHpPNFZJeHJNZnZrOXR6YV9WYjE3Tmw1RzYwdkQ2Y2s2Y3Z5a1lVWHZUS0twX0ZZN0FtekhYVGo3MTRGbDBjd9IBxwFBVV95cUxObXczWlM5bnVtVGlFVGZ3V2NESHNGazktbFNheFFvdFB5Q1V6N0dmajFBNUpiZWpLeWpZeGRaSzdpSjItbjhycjJxcFBxUDNxbXI0a1MzZlpNYkZWVHB5Q3A0RGxPRHJIa2ljbG1DcGNDZkRHajhnelpCSGJuXzdIYmo1R3Q0OFBJVmhwYk4tOGpSM0dNR3UtTEZabEVZTDR1NjYtbFlheUQ1RzVOY3FBN3dTTjhRNWN5VDJuRFRVc2F0ODVScFU4?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "dda22b6f115ef2e0972d5c026c26ca32946bf1d06ed2a754a29c4dc9207004f6",
+    "chave": "7327d57f8bd2af61470f072ed0dcc8f2b7eb3ab20cd5fdece80df5126f07660f",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -54,12 +56,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Selic cai pela 5ª vez, mas corte não garante alta do IFIX; veja por quê - infomoney.com.br",
-    "resumo": "Selic cai pela 5ª vez, mas corte não garante alta do IFIX; veja por quê infomoney.com.br",
+    "titulo": "Selic cai pela 5ª vez, mas corte não garante alta do IFIX; veja por quê - InfoMoney",
+    "resumo": "Selic cai pela 5ª vez, mas corte não garante alta do IFIX; veja por quê InfoMoney",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVi12aW1Gbll6UzZiYW9PUml2d1A2dUQyQ01hRlhNeGdHTVJQYjJaUmVjTXN1SzdyMmlqVlhFWl9RTU94d3poZWZlaHlOTWx3Yzg1T0I2cDFZNG51dDVFRGtWV0JHNFZWZGt6RmlBVV81cEVUcGJuUjlQZFc3Q3BpNWRZY3ZHTnlWVjQxMkxZX0dmblQ1ak15dzl1bFVUdlY5cXZsSmtteDZmUDNqWjltYjJ2VVHSAboBQVVfeXFMTnJJa3BlTVFkYWNmT0dkMG56Tlo0RWxobW8zaU43ZE5iVnVWWmhVMWlWaFg1VHNPdVBaTHc1NDZsODQ1dG5GaDl6TFlZVXZleEdLUkZKdmpKWDdQLXhoOUxsc1JTRDFUelh5Q1NmSnRWZ21oaXBOVmdqQUhMNFdHb01PTlpGSlozLVc1YTRvUDhkNE1raUJFX0VKOTNBRmtpT1pQU3NFbUNIYi03OThISDZ6dzVXampxVllB?oc=5",
-    "fonte": "infomoney.com.br",
+    "fonte": "InfoMoney",
     "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "08ed1dd717b5d3b1e7c7b6c33a58ffce489d0ade4e10070c1c460502e45f74d3",
+    "chave": "f59078857a5065079453086a69f4805e1ef5d55728435db720c33eb79620a4a4",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -81,12 +83,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Selic a 13,75% e Juros nos EUA em Alta: Por Que Brasil e Estados Unidos Caminham em Direções Opostas - Forbes Brasil",
-    "resumo": "Selic a 13,75% e Juros nos EUA em Alta: Por Que Brasil e Estados Unidos Caminham em Direções Opostas Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZXhhdG85RjlUS2VNY0JVUnBKRkVlY21XX2hYeTJ4UGpVcVNXWnhtZnZ1eWlhcU04TERvXzZoMUt3bmlqT05EQ0FJOFFsbGxQV0VnMm93TGNEMzRaTUJvM1YtcDhYcDAzTnNOQjdhT1FqVzlUWjd2TDFRNksyaW5nM1dmbWxheWFJcTZvNDRpNHlTWTUyM1B1dUo1c2RIb3R4RkRWZWI0RkdxWGpiZHFVbXRTd2IwNkszeVhaVkstbGVyVmhtSWxpaEJkSkEydEdFaFp6YVlINWU?oc=5",
-    "fonte": "Forbes Brasil",
+    "titulo": "Selic reduzida para 13,75% enquanto Fed aumenta juros nos EUA - canalrural.com.br",
+    "resumo": "Selic reduzida para 13,75% enquanto Fed aumenta juros nos EUA canalrural.com.br",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeW56TE5tUVN2TUtPUjBTeEJyRUJDT0RndzJhOEdGa0Jta1Ribm1pWmZCSHV6d1lZcXJybk42b3h3ZTJ1RDVWOHhJOU5NT05LZ3RTUFZpTzJ4X0pra2tkdnF1bmdQZG9PMFMxZ0ZwZTkySUdTMFdIX2QwdHhoR3doaGpxYTlrdFFsd3J5M2tDck1ZVVVLR0dDRWRCQzViZw?oc=5",
+    "fonte": "canalrural.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6ac2128a062d172ad31587667b75823259ed6c437e6fddeedb9aae225ef771b4",
+    "chave": "d3c6dac9b2fd4f8bd2652bdc7438275cdb9698bcdebc97f06b2a3def04fd7aab",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -109,25 +111,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central corta Selic para 13,75% pela quinta vez seguida, na contramão do aperto sinalizado pelo Fed nos EUA - Estadão Blue Studio",
-    "resumo": "Banco Central corta Selic para 13,75% pela quinta vez seguida, na contramão do aperto sinalizado pelo Fed nos EUA Estadão Blue Studio",
-    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTEFFNU9ETWRxQjlLa2JtaUJIMURGQjh5Q00xQzd4VnV5dDRjcGFfY0htd0d1ZzZWbWNoaWVPX3ZCSTF5X2hsbWtPc0tWR3lQNFVCajcwZlN3V0VSTDVUVUgxcVV5Y251NEpQNmZBemUxQjV2QVdLR2tfM2gzU0JsNDhucU5Mc29IRGFWc1FOOXVXSVRnUEY3ZlM5VXhMZ2Y0QURxZGk3NnpwX2FVWVlNNHhnc2xoZHFmZ1lvMWFsRjNSVnh2M3R4bWl3SEwwbmwxUjVFVGUzNzJRTnh2d2dnUm1KNkhLa3Y3R0Z5eXVlRTVxcnJNb1lqM2ZyM3dCN2RRbnp1VXZfYlNkLWNFYmJONF9wRjI5dTB3N1YzNHZZSkF5VXN3WE85U0hB?oc=5",
-    "fonte": "Estadão Blue Studio",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "59659e185a16e5c07f91c6757a816e692fd8a8efe23e71ca5eb85d39ef8041b9",
+    "titulo": "STJ valida PIS e Cofins sobre Selic de depósitos compulsórios de bancos - Migalhas",
+    "resumo": "STJ valida PIS e Cofins sobre Selic de depósitos compulsórios de bancos Migalhas",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGVVLTlmdTJnU0pjTzFEMDZ1YkZoOXBsUUI4amU3Q3hvTFpmOV93QTNaZGZLMm5TTUJhSzQzRjZ2U21pYkx1LThuVFgtbWNoNFRzM3NZeTZSWS1Sdmtta2NJRXRVM05sbFdYTFFBR2FSOFZoVG15OTY5cHEyZEV3UjR6YS1nSk9Xc2xWcnViQjA4RWItSGNWaXRRZTM1MXdTS2VJQnJjMmZybUl4aVdLYw?oc=5",
+    "fonte": "Migalhas",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "ad91e1fff41e89d72e3920fa0883dd32d0356acad26bbdc3f391f8716f285981",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 13,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
