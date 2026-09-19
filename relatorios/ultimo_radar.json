@@ -1,38 +1,11 @@
 [
   {
-    "titulo": "Copom leva Selic a 13,75%: eleições e riscos globais vão travar mais cortes? - infomoney.com.br",
-    "resumo": "Copom leva Selic a 13,75%: eleições e riscos globais vão travar mais cortes? infomoney.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZG8yX0UyTHFSMWtRa1BhaHM5X3hMcnRVRWNjY21LSGNTTGQxQjhHcFljNFN4ZmNJdHN4OUpKa0l5dVQ4RHBSR2VBT1VSM1RjcWJZVWMzendYdmxRcE9xRnNzbjJubHdNV29IbzZwUTNaTUR0UmdXcjZPTmxnVF9IYktQZ0F5Q3FhSGfSAY8BQVVfeXFMTlB2cXZ1NmJLRXI5Ui1XbnNpY0tzRDd6WktuRVVUY1BKLTNfcnpPU3d0WUs0MW96RU5WdEUwamRHcV8tWGZobHk0eG1VemNBYUUyZUZsYWJWWnRDenNiaUwxcnVOTGoyd2lKMk5ySGF5eVRxVFdZeFl0cmlSRkx6N2VoMURrNnVtQ0d4Y19LYkU?oc=5",
-    "fonte": "infomoney.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6c79c978e25a3bb6bc3ec49bd03e063792896820d084cfdc6bd5129209c52acf",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "BC mantém cautela enquanto inflação recua devagar - Estadão",
-    "resumo": "BC mantém cautela enquanto inflação recua devagar Estadão",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkFXYjZlUk82NndGeElXTXRCdUFPS1hsSWVlTzcweGMwVlQxczdad21pNDNTSVo1NVcxandKU3JjOXBPdVdUN1Q3ajJLMXVESXJaZkpyMXFnNmwyVEd4eDdDRloyVmY0Y1owd3JucGdlQlpaRHVYVU9GQkpGRWZiWGVqci1uSXZUTkVsQVliUdIBlAFBVV95cUxQaUhEU1FuOHlMY056bjVOSktnSkpyWWxzTThLMEZhTV9ZQWV1bzFqRDFIYVpYVWk2b2N2Z01nNG1aUjVldi1Wbk5XUG9wTml4OXhDU2NfejdoVzN2Wnc2UXBfSk8zZDgyRGVhUnptUHlXeUhvLWd5TXEwNXdOLXNCYV9TR0tsLXlYYm1rSVR1TkVZQXJU?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Diretoria do Banco Central mantém Brasil com maior taxa básica de juros real do mundo - Auditoria Cidadã da Dívida",
+    "resumo": "Diretoria do Banco Central mantém Brasil com maior taxa básica de juros real do mundo Auditoria Cidadã da Dívida",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMldRRnZ4VHgzQmJNend3OFFfd0pRX2hYZmxtVkpSOGZveTBaeXpGYzFfTnVFdE5hX2xMTWg4YXhlbWFuWWdleEN5MWlseWk2NWlvWWhZSmt0TjBuUXRDZTI3X3ZSUlNiRnlCRUxtbXduekk2S01kQm1qY2xpcTNPQ04zVTA5VWN4RGNUVFM1M2hsQ2RaUkwxQnFfU0kzc0trOEVJQjZ3XzlFRklDeFVSU1JodHplTnVpTGJNT1dsY2tTUE03?oc=5",
+    "fonte": "Auditoria Cidadã da Dívida",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5cabf0277855d632e4e0efeb29df770af9bb6ca26302e3215634bd141be32694",
+    "chave": "7c56fcb1e5741d7910bb1bf539a37259fcb0e316db8d31d3f047ccccca5d5186",
     "ativos": [
       "CDB 100% CDI"
     ],
