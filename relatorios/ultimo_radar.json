@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Copom (Set/26): Selic a 13,75%, com viés dovish apesar da assimetria altista dos riscos - Genial Analisa",
-    "resumo": "Copom (Set/26): Selic a 13,75%, com viés dovish apesar da assimetria altista dos riscos Genial Analisa",
+    "titulo": "Copom (Set/26): Selic a 13,75%, com viés dovish apesar da assimetria altista dos riscos - analisa.genialinvestimentos.com.br",
+    "resumo": "Copom (Set/26): Selic a 13,75%, com viés dovish apesar da assimetria altista dos riscos analisa.genialinvestimentos.com.br",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmhqUVdjRzN0RzRJN25rTk1DNHh1b1RubEo1RExUSGs2Y2k0YVE1ckZVd2pXXzNrOFc1S3QyRnN0dENpeWV6bk1YTE51LTdrWGpOSDNQcVBPVjg2a0xkWWdocGhaa1FyYzI2SzlVOUF1SmFNVm0yajdmdEdHVHRjS0sta0Y4ZHhKMGZrWFZHd1UwQlFiZ29MQTlGS2xodnNLMmRXU00ySlRISWVJU3ZfWHhMb0p5V2Rfa3c1WHFGMVpPZHppWnZPWWhpaXppYkVYT2Z5anVrLVFCTURK?oc=5",
-    "fonte": "Genial Analisa",
+    "fonte": "analisa.genialinvestimentos.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6ed40dd65a9d913fac21a3b0b50496622ab330f50df43575446c133b0a484b36",
+    "chave": "5a75850a5f45f41e88048dc2fbaa9111ef3774812a0314b36181ab0fc4cb56a3",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -27,100 +27,72 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "STJ valida PIS e Cofins sobre Selic de depósitos compulsórios de bancos - migalhas.com.br",
-    "resumo": "STJ valida PIS e Cofins sobre Selic de depósitos compulsórios de bancos migalhas.com.br",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGVVLTlmdTJnU0pjTzFEMDZ1YkZoOXBsUUI4amU3Q3hvTFpmOV93QTNaZGZLMm5TTUJhSzQzRjZ2U21pYkx1LThuVFgtbWNoNFRzM3NZeTZSWS1Sdmtta2NJRXRVM05sbFdYTFFBR2FSOFZoVG15OTY5cHEyZEV3UjR6YS1nSk9Xc2xWcnViQjA4RWItSGNWaXRRZTM1MXdTS2VJQnJjMmZybUl4aVdLYw?oc=5",
-    "fonte": "migalhas.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4ef7b2f3d410f95de2c605beef78170859b931b3e1fdf0eead7d461f438bbca7",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "BC corta Selic pela quinta vez seguida em meio a inflação controlada e redução do déficit primário - spbancarios.com.br",
-    "resumo": "BC corta Selic pela quinta vez seguida em meio a inflação controlada e redução do déficit primário spbancarios.com.br",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdldIeklFdnhtemNWYTNHTzZOeDFIOTc3d3lxVF9majhTd1dEeXY2RVVmMXZ2T2tOWjlMQWM2Y1RKUmhFdVJDN3B3LW91SDN0R0ZVaFIxellxRHdUakRCYkRHdmVtemhiRkpwSGdoMVRmRzQ4aDRNNHVNc1g5TXNOMnViNTByZFhMVFJHbXlCdERQSURUYUgxRUtDcHBYWWJRNzdjNXJaaVFqakRWOE5sbmRDY2NEOFFDZ0x1aDlSTQ?oc=5",
-    "fonte": "spbancarios.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "90ea3bab8c2fa62ce5f7ae5537cc5adfd53d6a909c5dacfb42245b71615c5615",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "CDI tem volatilidade maior que S&P 500 em 21 mil janelas temporais, aponta estudo da FGV - Estadão",
-    "resumo": "CDI tem volatilidade maior que S&P 500 em 21 mil janelas temporais, aponta estudo da FGV Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWDhnMndHWU44TzhmQklBdFdKVTVNenVIZEs2M3lHel9JZEE1M0FLZnFqMlE3MElXRmo5U09DcGE5QUxaYlg5YjJZb3dCeGRnWElXMm1mUHhXVDdtelNxM2JvdVdfSVMwZ1dEaEdZTl9EZ0dCcFRHNVFfYW9YYV9xRl93VzZTQVdvVC1lV3QtOXAweVJVODJrOWs5eTRMbWJkcHAwem0zSEZzbVN2NjBuMk8yUGdxVlpabExWVlkzTjE1TXlHRHNzbHpJZ2NXOUI0cmdVTnZWQ0dYMm5lbFpJTS1R?oc=5",
+    "titulo": "Selic, El Niño, FIIs e ETFs: os assuntos que chamaram a atenção dos investidores na semana - Estadão",
+    "resumo": "Selic, El Niño, FIIs e ETFs: os assuntos que chamaram a atenção dos investidores na semana Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNanhsUUtzNG5JR0VKU0FxZnNnU1dHMy04YjRMa29uZmlIU3pyeFlleFRIdl9QZEg2WjBWSGdMTmZLM2pIUVZidXBrT2R4QmxEaEVma2I0WUdMa3d3djBZV2xzM3NmeEE2aGdlMXZJUzBsWGgwbEd0eWhSWjRKUnhrbzFmMDR5OEs1ajBCNlpUVV9EYS1vRVVldmFzVkRKb0MtU3lMOTlxX3pWVkRNVlpwRm9iNDdjWGVrMzlZdHNXaXZwTllURWo5TzRaU3dVRHFJYlZGeHJPdnBWTm04ckFlX1Ntb2h5THZmOUE?oc=5",
     "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "1eff65a8d1de309235f40bbb58f3e8202d24df74d148e275442792e4e5e10761",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c902a374a792262b921690dbf6c8b7419b99f00ade38bea3e6fc194b8eaeaa1a",
     "ativos": [
-      "WRLD11",
+      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
+      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "EUA hoje: Nasdaq avança com rali de chips; petróleo cai e juros dos EUA voltam a subir - ADVFN",
-    "resumo": "EUA hoje: Nasdaq avança com rali de chips; petróleo cai e juros dos EUA voltam a subir ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1FBVzBHR0ZTMHpyMEs5N0VyUUh5SjhKNXJndW52SDNfYXdyaFZsVnB1SmN0UWZOeVFTWmRVYXB0Y0Vld2dkZU9sSDBtVGQtQUVGcjJzUlRZLWZHaGJPRjRoUW1aUmdGVHBXejFURm5VWWtLb2VyU3BaWXR0QktTdmlabUhjenNSdmotTE8zN3NWdG9yalZkVGJEd29VTXBndnJtUVlGWkhhUQ?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "67362af467ad91daebc670183db05049aaaaf1d1d079c5ce4402549516c91d49",
+    "titulo": "Banco Central define novas regras para o Pix e autoriza uso em contas-salário - CartaCapital",
+    "resumo": "Banco Central define novas regras para o Pix e autoriza uso em contas-salário CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1NaX1Jmbk1JUFZqLXpvRkRBNFNqWlcxeU9tNnc5c1J3Q3M5eFRIeU5rR1dyVWZEZ0o0UmZEck5QanVONHM2cVJia1dzUG1qak02RDBzMDRmbFJ4MW01d0pRRndlaGdsMURvdktwVVNUNWRVMEFBV1ZKelhXRHhVMFF4U2pNU1hBMFdTbnNPWXQ4TkFDQ1JFSml3c0FBOEJERVFybmNOaW5jc2I1Sk9xM3BsOW1hczh3c3pXaUJHTQ?oc=5",
+    "fonte": "CartaCapital",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "1e08891d9ae810cafd9d5ef2ae5b0b287bf55bee92415cae06aeb6b169445517",
     "ativos": [
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Gringos impulsionam o Ibovespa, small caps ficam para trás e criam oportunidade - Estadão",
+    "resumo": "Gringos impulsionam o Ibovespa, small caps ficam para trás e criam oportunidade Estadão",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmphejBLMktUQmE4dGlaNVl6Zmg4VDd3d1E2OVRIbXd1bnBPREc0TWZ3eDdSX1loU3VkUkdjU2duc1NCbS1wdGlLcUV6SU5zU1ZIX2VKekJZREFpakNoTUdDcmVVM0VzV0NBVG9nTVQtZ1pMWW5LdGhUaUsxYmthZHNOQi1RdTZMVXU0T2prM2VQczBsZkdydzVYdXRRT2RCN0VOaEEzSmlRU2s0MTdCalFCQ2ZCRmJuaUZhb3VhSmh0WnNVcGNNeFRiWC3SAdIBQVVfeXFMTlhidEpudnc0ZDl5dmkyeTBIZXNSZnFxOE44czZfRS1iNGpCTUs2ZElRdjNLNnJUZ3VFS0pfUjNSSi00dndGNEQ1Y01NWmhCdFR3RU5zeklKcE01aVFqeTI1aHhNNG4xMVZhcmdVMUZockRCOGl6YkZNek9UU01fY3M1SC1Jd2E1RjQ4UTQ2dDZXN2R3UGJmeklDN3Y3V2hFZ2RoTDZpempILU10N0lzNUNGVS0zN2ZrZHM3bldHLW5MY0RfYW9HY3Y4UVE1Q1JFaHdR?oc=5",
+    "fonte": "Estadão",
+    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
+    "chave": "e27c7e67b28e4454cef3d60dc7b9e0cbc69175d188c792ad6b67aaeea73c494b",
+    "ativos": [
+      "IBOB11",
+      "KNCR11"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Real Estate / FIIs"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
