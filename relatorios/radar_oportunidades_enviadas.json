@@ -1,35 +1,5 @@
 [
   {
-    "data_envio": "2026-08-11 18:06:43",
-    "chave": "5532752cd90b80ff5840a852d45520c6fa9f898271003eec363dd08cf0b1a28d",
-    "titulo": "CNJ e Banco Central se unem para propor normas ao mercado de precatórios - JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaF9Tb1BJa3lERmNvWFlubnhxSGRpaEZWUkM5Z043ZTVOeFdFY2dzWVBHSUVLT3VYWFYwUm8tTjBGWG9tZXVvelFhYVd6aHNCUUFDM3R0azZYV1VOMlJ4UGp5TVphcjBsRE93bzJLMXE2WXlGS2dVcTg4dTNSUjdwQklEY3UyMmpQQ09kZFRTZldOMFRDY3llUU1fS2I5ZmdlZkhDZw?oc=5",
-    "fonte": "JOTA Info",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-11 18:06:43",
-    "chave": "8866704040e808991be2862369424451e0866fb06ef2b586d3fe33e96866976f",
-    "titulo": "Banco Central Quer Barrar Mensagens Ofensivas e Intimidatórias Enviadas pelo Pix - Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVNtcWtTcjVoaENFbzZ0eG9jOHRwdEJ1STBya1JvTTRfTTJvVkhySm9PZUZTcjQ5c3hubTdGMDhlWnpBeWJSSEF0V2pLZnBVdzlPaXFuR1BPT3hRa0gwS0dSSThDNmloUnFRYm9OVkNfNFZGYktTbjkyZzI4M1lMUWVkNW1vaTQ2Mm9wNTNXQnVwYWhlOUZmUXhKVjVoWWM4QVZZQzBOdTF0aVhjaDlSalRyQ3RFWHhN?oc=5",
-    "fonte": "Forbes Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-11 19:20:04",
     "chave": "2b407a83e5c08b759ef5fbccaa5ccb8af5ea1e5e92f0946b34eaf648e96c26b2",
     "titulo": "Tesouro Direto: taxas sobem após Banco Central dar maior peso para risco de alta na inflação - Valor Investe",
@@ -17287,6 +17257,44 @@
     "classes": [
       "Ativos Internacionais",
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-20 11:34:01",
+    "chave": "1076ed422334605a1a7668d7882511a2c6cd09f1651920e469e217600c1affbe",
+    "titulo": "Agenda de mercados: ata do Copom e IPCA-15 são destaque na semana - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNGU1ZVBpMzdFYkxhWW4zU2p2X0tZYWhBZVl1czhzVXdhTUhyUG5zeFlVeTZ4cDRuNkZTRy1LNEZnby1qeHMzVWJOVldzNGhfTEEySk9QUjlZd01uNVlFYWdodTdJdC1HanV3M1dRMFRMTGxnN3BMei11UTJiV0h5bmQxMkVqNHZTcmlyQ2xaZG5pLUc4eDRkcTAwLVdxRkJPYV9LT2V0N2NzZS1xVWNaR3A3ZDZiU2pGYkJIdTl2b9IBzgFBVV95cUxOdW1ZY3FwRUV1b1N5RUtIZVlCUHp1cG1WSTRLejFHRGdvQjQ4V1VoWWsweEZPUGxOR1U5QnJpZFhYVF9yQlc3djBBaGV1cWQ0elg1aHZiWmt2anQ4MjkzeVdxbVdCRmw2Rko5RGRlc25MRng0U3FVaU02SHQ4RlJIWGhhdWdXQVJITWhHR0Nac3pRLU42Y2RaNlpqZXlaMzREdlR4N2d0d3Zpb3VPNkVVdXpzYTk2S0VLVUpkNldpWGJiXzlpeGFGb0F2QzJpZw?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-20 11:34:01",
+    "chave": "343cd033ffde378de4b9b9f6c0c4e300b84df19037b689c2a2f5926c566e28fc",
+    "titulo": "Calendário Econômico: ata do Copom e IPCA-15 dão novas pistas sobre os juros - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVluV1RmclNZWE5SWHphemJ1YUhjSExNaVBEblNHMmFWdXRtbUxXR3gycFZhb0M5cTR4ZWMyZXQtTWhNRVdLVzBzSkx5dDlwTi1mbHg4cDk5RUppc1A5ZWhIRGNyb29wWmFjVzlxcm5ZU3Q1MHh0cjhvci1TclFQSi1veVpwdW1LUGVwYkI1aExjOFZVZENfY2x1LWY3eGNialVsYmpIdTNyRy1VNDlYOTdaekdFZUxTWGRXUThyWGhrSThZZ1BCUHR2Q3dSV0XSAdQBQVVfeXFMUEtTdkQ0aEJKem9YMU1LWktUWmgxSFlSZ0hHYXJuX3pwel9oWE1ReE1Nc3pFNW0tb004SWNnMU0tT2p0ZUN6SUtadi1fTHVrampPWW1sa1N6cDFjY1lSUTRIWnhYWEo5cUhZX2wyOWUweDJJNks0Qm9WSWFZcmdBNndCcTdITjJXS05lVXFsUUJtSnpPU2lLSjZPY09MU0tMX1JJSTBhbWNDMFpMZzVEWlJGV3p2TFZWN29qcnpUYzBuc1Z6ZzNTUGdvS29fUVRZTzJRaWM?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
