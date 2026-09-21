@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Calendário econômico: ata do Copom, IPCA-15, Relatório de Política Monetária no radar - InfoMoney",
-    "resumo": "Calendário econômico: ata do Copom, IPCA-15, Relatório de Política Monetária no radar InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmlES29ScEJOcWd5a1NLY0dndThWNUFrWU9qRm5sLVg5REdfQVBEZk9QdFBxTjRkWUZqMjd0eUd1Zkx3VkoycUxQRF9qdXhtMlp5QTg0Y19mbTY4T29KYjkwbGhwcWt3RlljTVBRblg4TFpVLUY1d3F1RFhGTmRiQkhYdnNCMHE0OVVhTmhBYlRsYXpNT1M5d1VEQ0lQMHlHaUtRaWkzNDNyajJNS3ZIenV0YTNmTkJvaWJTal9B0gHDAUFVX3lxTE9UMjFka0FaeFp3bFZrMzl6T3hPck1PcnVkOXpzY3QyS253RUxNWEtzbmQ1VjJ0aHUtWmM0dHdmeHhpVjlTeG85OEVlUmhsZDhGZ0tjbzYtMlVFTjROcFFFbzJ6QzRyaHc1eHhjN1BoSGtIUC1ZSWl6M3VSVC1MNmpmVXU0RGI2Vm9McEJPSXBRT1B0REpGS1BET2tZU3lKRUlHa2FiaDBTTXNzR3pvYTBxWXVYbzZKaDVGeV93Y0QtZF9mZw?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Copom reduz Selic e mantém cautela sobre próximos passos - Agrolink",
+    "resumo": "Copom reduz Selic e mantém cautela sobre próximos passos Agrolink",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnJ4T2hxaEhxbERrVW9qOWNnaGFXdGkwZmh2MUFZMG55X2JiSFNDeWszWldKVDVvWXVVZXF6N3NRdG9KbmlmR1ByZXJfblFpUTJEZ3BKNFQwenp0NVdCYnMwV0xLcHZsQXEtdlNGRlNwUFhlZks0VFlKaTNEMEF1VzNOa0hDZ2xzQ3JPM19zRmcwdUR3cWRFeGZaWGFjelZTcEpDMDdWUjc?oc=5",
+    "fonte": "Agrolink",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1889d67e754d68dfed6ab48f2af5ff4fcac315c856959c87023bdd086ec98fd4",
+    "chave": "92f271ee1ef664aea696dfbf4e0a44a522b449d47f98aa19dcfdaa55a81807f8",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -17,28 +17,6 @@
       "Real Estate / FIIs"
     ],
     "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central anuncia mudanças nas regras do Pix - rj.gov.br",
-    "resumo": "Banco Central anuncia mudanças nas regras do Pix rj.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xYmU1RGp4dGRpbWg4aDBLdWR0ZVZuRkp6SW03NTMzeGdtTmxQOXBNMk9NT3N3aG5IbFdxSUd1bmtTbGxST092dklLdmlINUMtRUluZ1pJNFZnMVNNeEFSbQ?oc=5",
-    "fonte": "rj.gov.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "bc48148249e9e0a64d6dbe4d813e1dc2bedbc2a6a6b5e561fb736d7d8bfe61c9",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
