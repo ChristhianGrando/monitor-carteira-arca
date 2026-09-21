@@ -1,35 +1,5 @@
 [
   {
-    "data_envio": "2026-08-11 21:04:10",
-    "chave": "376ba45d1212779fbfc27115cb7aac056b71dd08a6a2a35217621d846acf7051",
-    "titulo": "Inflação perde ritmo, mas ainda preocupa BC e investidores, dizem analistas - folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVDJnWV9sRlduVVl3Y2wzZUMxNEZQU1gwbl90VjB6bnZ2bXQ4XzdtMGZnX1JsMEcyaVN2NDhIeWJqT0xIM3V1Y2hnMDNxd1o1OXA3ZHhZeTZzX1R6RHM1U3F4WlduVXVWNmhZc0NZNFJZcGpiWGdPTE8wQXZDVzZnSDFyTXZERDV5WDZac1ZKNFhiQ21iUkZybV95UUY3cnItcGtUYkI0enR2czNWQWZzekVjdXpsSkJmcmRMM19PTzczMTQ?oc=5",
-    "fonte": "folha.uol.com.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-11 22:04:36",
-    "chave": "6f2edd549d188d88273e6c22dc0c2ccd12edfeb68eb07b9038cac232a0b3c832",
-    "titulo": "Inflação perde ritmo, mas ainda preocupa BC e investidores, dizem analistas - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVDJnWV9sRlduVVl3Y2wzZUMxNEZQU1gwbl90VjB6bnZ2bXQ4XzdtMGZnX1JsMEcyaVN2NDhIeWJqT0xIM3V1Y2hnMDNxd1o1OXA3ZHhZeTZzX1R6RHM1U3F4WlduVXVWNmhZc0NZNFJZcGpiWGdPTE8wQXZDVzZnSDFyTXZERDV5WDZac1ZKNFhiQ21iUkZybV95UUY3cnItcGtUYkI0enR2czNWQWZzekVjdXpsSkJmcmRMM19PTzczMTQ?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-11 22:04:36",
     "chave": "951f6a67479eda263953e4433f3f57644a1ba62f26a58bab2d8e45c1ee523e2f",
     "titulo": "Banco Central estuda Pix internacional e novas funções para o sistema - E-Commerce Brasil",
@@ -17304,6 +17274,40 @@
     ],
     "classes": [
       "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-21 00:16:58",
+    "chave": "1889d67e754d68dfed6ab48f2af5ff4fcac315c856959c87023bdd086ec98fd4",
+    "titulo": "Calendário econômico: ata do Copom, IPCA-15, Relatório de Política Monetária no radar - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmlES29ScEJOcWd5a1NLY0dndThWNUFrWU9qRm5sLVg5REdfQVBEZk9QdFBxTjRkWUZqMjd0eUd1Zkx3VkoycUxQRF9qdXhtMlp5QTg0Y19mbTY4T29KYjkwbGhwcWt3RlljTVBRblg4TFpVLUY1d3F1RFhGTmRiQkhYdnNCMHE0OVVhTmhBYlRsYXpNT1M5d1VEQ0lQMHlHaUtRaWkzNDNyajJNS3ZIenV0YTNmTkJvaWJTal9B0gHDAUFVX3lxTE9UMjFka0FaeFp3bFZrMzl6T3hPck1PcnVkOXpzY3QyS253RUxNWEtzbmQ1VjJ0aHUtWmM0dHdmeHhpVjlTeG85OEVlUmhsZDhGZ0tjbzYtMlVFTjROcFFFbzJ6QzRyaHc1eHhjN1BoSGtIUC1ZSWl6M3VSVC1MNmpmVXU0RGI2Vm9McEJPSXBRT1B0REpGS1BET2tZU3lKRUlHa2FiaDBTTXNzR3pvYTBxWXVYbzZKaDVGeV93Y0QtZF9mZw?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-21 00:16:58",
+    "chave": "bc48148249e9e0a64d6dbe4d813e1dc2bedbc2a6a6b5e561fb736d7d8bfe61c9",
+    "titulo": "Banco Central anuncia mudanças nas regras do Pix - rj.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xYmU1RGp4dGRpbWg4aDBLdWR0ZVZuRkp6SW03NTMzeGdtTmxQOXBNMk9NT3N3aG5IbFdxSUd1bmtTbGxST092dklLdmlINUMtRUluZ1pJNFZnMVNNeEFSbQ?oc=5",
+    "fonte": "rj.gov.br",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ]
   }
