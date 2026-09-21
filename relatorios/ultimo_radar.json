@@ -1,11 +1,112 @@
 [
   {
-    "titulo": "Copom reduz Selic e mantém cautela sobre próximos passos - Agrolink",
-    "resumo": "Copom reduz Selic e mantém cautela sobre próximos passos Agrolink",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnJ4T2hxaEhxbERrVW9qOWNnaGFXdGkwZmh2MUFZMG55X2JiSFNDeWszWldKVDVvWXVVZXF6N3NRdG9KbmlmR1ByZXJfblFpUTJEZ3BKNFQwenp0NVdCYnMwV0xLcHZsQXEtdlNGRlNwUFhlZks0VFlKaTNEMEF1VzNOa0hDZ2xzQ3JPM19zRmcwdUR3cWRFeGZaWGFjelZTcEpDMDdWUjc?oc=5",
-    "fonte": "Agrolink",
+    "titulo": "Morgan Stanley vê risco de queda de 7% no S&P 500 com petróleo e juros em alta - Bloomberg Línea Brasil",
+    "resumo": "Morgan Stanley vê risco de queda de 7% no S&P 500 com petróleo e juros em alta Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXJjT2s5S3NzZ1JpVW8zLTJDdFpNam15ekZRTzhEaWxTS3NLZTVqakZlUDV1Ql9xLWNVdDkzZkxYcFl2em5XcDdmdTcwMWdmNDNPUmx0Snl6Z0Z6bHZjY2JSWUhHS3VIRWI4M0J4bTQ5eVN0VkVjSEttaUhuS2R2VU1qRXdsMXpxYklJa1d5VGZtSWVpaDZ4UXR3U0lfdGJXNGZteUZXSDBOWnlsdGxuR2wtdk02NnlkUFlVRtIB0AFBVV95cUxPYXZmNE5VQ0t0aGFlOEZlYjMxb1M4ZlNnSnNndTIwV0oxdVJYVV9FZW5FczF0ejRqODdQNTR3T2RMVWZzMUxyT2E4OEROWlVOMmNmVXRndHNRWDNzWDRRMkM1cHhZclZXN25fTWg1TWFyaG4zaGpEQ2cxeXdBMFVMeWdrdE1xdGxzM0l4Qlo2ajMwaUpyMk1lZU1oaUhvaHdxbHlzSmtNZWZvR0lzZ3R5cFFBTHdPN1VUYUhiS1BuUFVRSWZJdnY4SFNnd2JTSWpm?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "7f19312ed06ccc0c717c1c691513ce406b6320ba9d8241bc0f64a03b882c4c46",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Calendário econômico: ata do Copom e IPCA-15 no radar - Acia Araçatuba",
+    "resumo": "Calendário econômico: ata do Copom e IPCA-15 no radar Acia Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wMmhXdW1pRjZidHowX29IWDlaV19mUTVJejktSm83WXo3TXh2WnNWNWlPV3lUVmUtYkdaUGlfNTdjZlZHbE9fUnlwei1EdGZNVXM5OV9wV0RESWN2MVNHZThGSDJpRlZuS1I2elVGMjZGSmtDLVE0TnNuRkUxQQ?oc=5",
+    "fonte": "Acia Araçatuba",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "92f271ee1ef664aea696dfbf4e0a44a522b449d47f98aa19dcfdaa55a81807f8",
+    "chave": "31e2044d28620347c086360071a9de9f07840abbbddb53d9e5dc2214c918b89a",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Notícia Economistas recalibram projeções para Selic e inflação no Boletim Focus, nesta segunda-feira (21); confira horários dos indicadores - Kinvo",
+    "resumo": "Notícia Economistas recalibram projeções para Selic e inflação no Boletim Focus, nesta segunda-feira (21); confira horários dos indicadores Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPazhUSENmUHlmVHp0eTMyWTRaVHgzdFRiOEZZWW55WENPNzhSS0loMmxiY0wxQllVdjRtXzVaOHNhM2hmQW1yTl92WmFlbThkU3Vic2NZTGh4My1ZQTZBeE9SbUJFS0Jnc3hQTGFwUkdCR2d6NUpYcnp1dHl5dXh1bE94azZhTi1KLTFrYzh5Y2poUlpGLUs2dWlLMHlfMDYtTi12bnlxZjV4QTkyb04wV0ozWUNTOWx0ZFZnTVU4QlFDRHp0cnN3eUNSRHNCMl9RaWszOHdKWFo5SzNkdkNlc014T3F5Mmo3NHpySg?oc=5",
+    "fonte": "Kinvo",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a9299635906c7629bc454e67e33ca767846911f6759ce18ea4f752d737b5928d",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Economistas recalibram projeções para Selic e inflação no Boletim Focus, nesta segunda-feira (21); confira horários dos indicadores - Money Times",
+    "resumo": "Economistas recalibram projeções para Selic e inflação no Boletim Focus, nesta segunda-feira (21); confira horários dos indicadores Money Times",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0ZpQ05LNlNjNXZpUzhJYkZ0Qk9vZ1lWLXQxaGtRVWVYN0pNbk9zYnlsYng4ZVJKOENFaHphVUVpWGFneGFjbWFQRGQ0dFQtS0Nka0VaM01tREdMUlpoY0MxUTlvcGhQTFZOSlFkTjFOeGt6cWloYzV3Y2padG9STXFfLWtZRDdha1dRNXJBa1pzNjhfRFhHZTlraE9jd1hCLXNMOXdWa1dLRS0tbTVxRWcxOU9RN1pCNG9CaVVpMXdCSkFSRFVkRGJiR3R2ZUtYVzZaVkh0WU1ZWnJxalV4aW1jd2NMMVBxeHlKV0JKOTRVZlZ5M0E?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "78dfc80124693499404dafe6ccc5c4c2afb379686c426dc9a03887120e9ca0f1",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Nu Tesouro Ipca B3 Prazo 2 Anos Fundo De Indice (NB0211) - ADVFN",
+    "resumo": "Nu Tesouro Ipca B3 Prazo 2 Anos Fundo De Indice (NB0211) ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTZsOUhOVkswZ1p0U01tUFF6NDFmaE12Nkw5dXZYaGVmUmJ5M2F3WWdZVksxYnBxSzFTRjlCTDBfUG14WDdlR3Jadm5pU09CVG9UbXlDTGtpblhXVTkyeE94b1FLYXU0OG10LUJPbE9fbXZDeWc2VTFIdjd5TFpmS1RfV0ZLWmpqQzhnVEx3?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "339b4dd669abd793af8656af81f1ab706d2301c3f0aa5921e14c0d47cf435142",
     "ativos": [
       "IBOB11",
       "KNCR11",
