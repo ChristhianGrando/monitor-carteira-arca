@@ -1,94 +1,5 @@
 [
   {
-    "data_envio": "2026-08-12 13:47:09",
-    "chave": "11054dba8ba09dc3bab923f1162e193891761bd566af07bd108b4cf911a8ab4b",
-    "titulo": "S&P 500 e Nasdaq abrem em alta após dados de inflação e com impulso de balanços Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMVRlUVlQUjdlZkVaTW9PUHdvTHRvLVZ5U2ZDekxVWUh5TU9wZnRMYkxrX1ZBS1B0RFdaQkdBQTllUzNxVTZzQzVQaDJsX2VFcFVEck9adV9mTFJJa0s1LS03TkM2QmQxMmlTNVV3THIxSU1TZUpKRkIyd21feDFCZzZiRF8yaWx5aVZPSjBtektqUmlVQkg3S3ZrSjRMYVcxVGFCekM5a0E5UnF6Ym1hWWx5eDl2MFNoQzJBeUFpYnl2SzNzUGVUZWJHUDUxZHM?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-12 13:47:09",
-    "chave": "9da39c5d77084010ee9fe1cc0ed5312ac8b182ee467a2e3131bb172400b703f0",
-    "titulo": "S&P 500 e Nasdaq abrem em alta após dados de inflação e com impulso de balanços - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvZVVwWUxuMkV1R3czamFHLVZuQmVMdWhoNXZ2MVRPUFA2RmZnWll3Qkh5aURyQ2VrLXItdkRRTlJyUjIwNDhDWHZFWkloaU5XVDc0QVBmVjFjaGhnLThFSnNlMW9VbUZWdUlxb25qNFE0dnpCQ3NN?oc=5",
-    "fonte": "TradingView",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-12 15:14:31",
-    "chave": "d427f99a83a1027e98a266d1d313e36438235804f5aea91283636953ac55d4b5",
-    "titulo": "Ibovespa Futuro cai com dados de inflação nos EUA e risco geopolítico no radar - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc05KcVZlNWp0Ui1NUzJvTUZBcnI4UEo0WnUwMF9NVTk5bXJjSGs5NUZYZlg4R0VWUHNTRDJ4MzdYdHcxNWh1Ml85bk5neVU5SkNPV1A1c01JeG9WbzNGSktLcE1mX1pGQUpKTmxwcTlvblpjWnVvaV9ZV3pvdW1aWFFmWE5DMDZtX1g0eWR5S0kzbnI0YWkxYUpIaDdnR1VfX1R3cjNubmwxMmJLOGFUVWZNcGZhd0xY0gG-AUFVX3lxTE1PVnBrb0lpQkFBNWRRMHo1Wmc5NXF5amx3ZGZqd2J5WndHOEhsTlk5TVlhSkszaHZCdTlDZ3BVUzRBdEdaRlB6WXVPVFozMXpEZE5hZDNkS1ljZ1JsWm1PYl9rNG1YLWFzbEVRRGthWExxWkxNZGZKcmRkZHZMOTJoZVFJbEpVZ3dvSnFqZFBrOS00WDRyN01Oc1d4d1QxVFg0S3ptcU5fUFRTOEx6VjhzZ2VIZzMwYU5UQ2NZNEE?oc=5",
-    "fonte": "InfoMoney",
-    "score": 19,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-12 15:14:31",
-    "chave": "8937d6b7ce6cd7928640a4b75d71631aa0dc6e11bebf5f6a19f96aba5efd48f1",
-    "titulo": "Meio-Dia Mercado: Ibovespa operava em queda com risco fiscal-político e nos EUA a inflação veio dentro do esperado - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3c4UklWV1FscU1HR3NPcF9VcUVkbWpERm1ZZjJkOExzcU1QbE90SFN3c3phRWxHUGdDNHFGckpMdzdwZXl1NVBvUUtRY1N3enUxSkZXalVuVHVITDdiVngwN2p3TE9FdmVaOFV1bjE2amRadDNlNldzbm85YTh4YTZQNXZ2dXNHcFN1aDFna19Ma04zN0NjZE5Sb0N6eGdDYnFZanRiQ05vanp3ZWJ5aUhXVVZsX0p3RGo4WmdQbmk1MkN6ZWU1Vlc5YkVUeVRBaVRhUUJjYVZCMmVrd1pzdUg1Yw?oc=5",
-    "fonte": "ADVFN",
-    "score": 19,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-12 15:14:31",
-    "chave": "1fc0a99f9070ce751b24cb6e273ceb68829728d1754f6561159edc99d70053c3",
-    "titulo": "Copom reduz juros, mas segue alertando para risco fiscal - gazetadopovo.com.br",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0IzQ1VzRVd5OHh1TUFPRWV4bzNVQnZfOF9oWGo4U181S1BLTHRZUVlLRnBDMjNiaGdjZm9KbnRZMDJfSkQ4cFRxcjBCc2hlM2hsV2x4LVMtRHNnMlJWS3A2TUVzekV6Wlk0UUpJVEh0ZlhyaXZqRjdSeWpsejNGMjFNSUxOcTQzdDVmQ2k4MkFJX3Fv?oc=5",
-    "fonte": "gazetadopovo.com.br",
-    "score": 15,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-12 15:14:31",
     "chave": "7844cb86be30036e3fdf75d52db2f43f2f9afd94430483aeb0123c13a357b15b",
     "titulo": "Instituições mantêm projeções de impacto do El Niño para 2026 e 2027, mostra Questionário Pré-Copom - Valor Econômico",
@@ -17353,6 +17264,95 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-22 09:57:48",
+    "chave": "50fd9a69baf9d41fb7f075614bde47c7ebc8afd3b0eedb465a910fc3b1d2c628",
+    "titulo": "Fundo imobiliário ou renda fixa? Compare rendimentos após a Selic cair para 14% - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHRtTzlydHBvZWxXdlJXdFBGSFJVNndqRy1VYk4xbldfQTBkT0g3S2ljT1oteEpFLXhXMnhfNElWVTd6NzE3NDJtLThkQ01TYVVsOWpnS3V2dUlfcl9lSEVrOXJLNlYxN1B2SE44Ums2bHBUdXhWbk12cTBxSnVDUEhub0lLbWJ6LWc1cUF0bmJ2UDQxdGFaN014cmdPN1FObFVSeWViMWFFb0JjdmlrLVFrd1JMV1Q2ZzdZNEF30gHDAUFVX3lxTE5wQi1MQVdYNlZjN1Q3YXJYd1lMOGdBazBOSDFZQTNNX3VfTjQxd2p0cGpSdmxtVVgzS2wyYWt0dXRfOFU1cktqOGdKdnlYNUhaOEdReUo3MFpfRjJvd2toUkFqcEEydTBtQ0hVQ1g1MjNaWkxVYnpXVGswYjFCcW5qSU5fOEUzUmdPejM5R2h3UGpHV3VlaUd6V3M3b1hqR0FUcHpscElkd1VHbTJ6dHp6VEVSMl9JMlI3Ukd2ck9XZUNFWQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-22 09:57:48",
+    "chave": "0afe7e007d84a03377f1626517ccfcba81359d43800f23b305629e894e2c9042",
+    "titulo": "Queda do petróleo, juros longos e ata do Copom: comece o dia bem informado - Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTJXcC02SU1RaHRVX0prM3VUb3dOVTFGeWhtRVdlWkY5NjJ6SmVVNjZGNk96VHlPMWJHajR4S3haVzMyeVdWdUNMSFNDc1B1VlhVUzc2ZVVsc2pJLWJXOVhrUDE5c3pQci1sek9OVmVzMUVIQXExV05abWlaWXU3c3RxMG92SFpTTWhfT3JKSGtsVFpJN1VUaENXelZ1Y1NCSF9nRXhlSUhEaDlqS2dzTk93?oc=5",
+    "fonte": "Canal Rural",
+    "score": 14,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-22 09:57:48",
+    "chave": "9ef7ca278e428079e343a8972c6990225eba846bbd5b526e91fb15905fcdfceb",
+    "titulo": "Governadora do banco central da Austrália alerta para riscos de inflação antes de decisão sobre juros - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNW9xZFctS1RCQVNSWDdqT1FRRzlkeW9vTmV4MkJ0UnpCRXROSTF6NmUxS2pzRjl3VGVyeFdtQmFFLXFjRXk5SUVqZjF5RmluOXd1b2JvNnhjNUlPQ1lnS1YzQXFoUHZONnNJRWVPb3NMR25UTU52YUJRMEgxTGlRMmJ1b3FYUlFaa1c1YncyeDhlTzVEMF84dndILU54VE5YLTNoLUFId2JOZUFodk44SVNRZFlSaVBmVmlHaEpLTmlvekN4ek1GTjhsY2hKRTlTMEF3dWhVdFRNSlh2NXJqSnZwWEhveWtuV2lsT04tQW1tV21q?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "score": 14,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-22 09:57:48",
+    "chave": "860227ed786e180800c3e30aa9d0958d9a5f24671f1468f2fdbc673134356fc0",
+    "titulo": "Ata do Copom, arrecadação federal, Trump na ONU e mais destaques desta terça-feira - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkpYVFlLV3lGYU5HbVhyd2VaZnhWcnBwQ2dYZDV3QlFodXNEZGZtcUx3bHQ4dTVyTXYtV1ltMFNhYTBwRTFPeHhkdm9ZWjRSUWFFOHNidnhhclh1dUNCUmx5ODJVTWlxSU15UG0wN1pLZUtaU2EwdW1RSW1CNlFDaNIBhgFBVV95cUxQR2RwaXpyOU12dDVUc2lDYktfZjI4ZkVsYzRZVTFfVGRxc3NITTExd3hvU1hLcEpCRG9QWVNZZVpjM0wxNkJYeEd6WGM0NkpSTk5rWnZFeGZnTm5GTlVxdm9ESzBtTjdjcndNckYwWV9QOXhSYkpxczh4elJYcUlRNGVLbkhKQQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-22 09:57:48",
+    "chave": "901e5a317aa50656bbd602ff0c073da78607ec8324fef9ba257a168e891fb4b8",
+    "titulo": "Ata do Copom, Lula na ONU e falas do Fed: o que move os mercados - Exame",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONVlMRnR4RWt1ZTlNZVV3UWktUGlWMW1Eak5UMk9QU3VxSThHbmVmSmtRYnJXWlZ6M3Z0NThOd2hBYUl4YW15N3Z3STd6aFhmNmx1QmRRYW1jS1lxSzF3MVUtaUJ2aS1hbmxyVEtzTXp6YnFYbWF6NnVSNTlGdU1TaHg0bl9hLVNOUjluOFhhSzd1X19ma2F6cV9LaDMwdw?oc=5",
+    "fonte": "Exame",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
     ]
   }
 ]
