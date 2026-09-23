@@ -1,89 +1,87 @@
 [
   {
-    "titulo": "BC Defende Cautela nos Juros e Diz Que Selic Seguirá em Nível Contracionista - forbes.com.br",
-    "resumo": "BC Defende Cautela nos Juros e Diz Que Selic Seguirá em Nível Contracionista forbes.com.br",
+    "titulo": "Ibovespa Cai Contaminado Pelo Risco; Petróleo e Dólar Sobem - Forbes Brasil",
+    "resumo": "Ibovespa Cai Contaminado Pelo Risco; Petróleo e Dólar Sobem Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFVoOXdfbldISE5DVk9hLXlhV21BcXdxWTk4QngwNUZQaGxsa0x1YVpFMDdib2xqT25RR2JuOHRJT2VQZmpKVFh6WFF6dndEb2tsbmdFcmNTd1ZfNmJSTTluM1IzTkF2SzJLNHlMSS12WGpXZGEwWlVhUnJ2MVEtRlZtdTBLeVUzNTdOUDlfaWlxQk16UWRzLVZJZw?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "11a69a097caf57541822c6f86cfea2fcb1cb1aa321ca30d74907c88f6b651cd5",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai 0,86% com temor de inflação nos Estados Unidos; dólar sobe a R$ 5,17 - Bloomberg Línea Brasil",
+    "resumo": "Ibovespa cai 0,86% com temor de inflação nos Estados Unidos; dólar sobe a R$ 5,17 Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3Z6a3dnOF9qaGlDbTQ2RG05TDJmYzNkSTFObm5Lamh5b2lBZktBQU5TUXFhcngzN19Zc1ZNX0N6QkROc2ZZWVhpODAtaTJDbG0xWXlobTEtVkp2RGVWTE9tN0VCUUFMWThCU0RDckNEVGpnc19iVHhqVlRNQnBDaWt3SmVCZThOMjI5Q2dIUk9EeXlIaHBnbkZEYktXeml1UkRXQ05HMFZPajNKeEoyWmtmRktRQzFDVFhXMtIB0AFBVV95cUxNUU1yTVJsZFFyZkh5ZkFaTWdKeVZBZFdxMUdlNTRpNnJpTlp0N0FvOE83U0VybFFPMFZ3VWRLQkFta3VJanRob3FmOFp3QzFlZ3VubTRTemU2clNEUElfOWEtaDlocEhIbnliaG13SzZHVjV6NkhqRGh3MTRKdkRZMDgyYU5hdGd6M2MtbUw2cmcwRnBiNDcyRTRtVHcybUgzVU1TV09faFVkRF83bWNPbkNMaHl6WGNPcHNJYmpLbExYZER0OFFiUHlGLTdUTkJL?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "38d63f111cb9b3c5dec235cc4da4f1931057513b9f59f8d4461f277bb2f3b9cc",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa B3 fecha em queda de 0,86%, com maior aversão a risco no mercado global - Bora Investir",
+    "resumo": "Ibovespa B3 fecha em queda de 0,86%, com maior aversão a risco no mercado global Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGpuSllvcGNJcGVvTDNUU2RoeERSZm5ZNWdmQ0R6Z3FTV21CdE1ITVZGVjl1YzBWZVBSUTVfZUdNZEtydkxDZ0VMM1dueTBVN3FUa19Tek91OTZUZ0U2U1B2LVBkNGdPYzQ4ZndEVUVPVFFyQjMtZ3BxV0dHRGpPWV9xVW44b2IxYkQ2aGZVbE5CQ25OcmVmOFIwMEVWWXlDMUl5b0UzaXNKdy1UUkR5TVVTUzlkcU15WXVZSnVfSmoxeDND?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b94e905cc3fa0b0a25b908c30c0e16ad36cd57b16756e0790c2e25a84ca712e4",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "BC Defende Cautela nos Juros e Diz Que Selic Seguirá em Nível Contracionista - Forbes Brasil",
+    "resumo": "BC Defende Cautela nos Juros e Diz Que Selic Seguirá em Nível Contracionista Forbes Brasil",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVdRUTVfUkIwOGRNcHFpTEtBWkh3YmJxeV9MRElNMHRETGRWWDEzTGJGcHpORkR6U0NZQzlCTEtoUjBua2FNRTdKazE5VTF5dTFDN3NqRHZxQWpYWFAwSmdjMFo1TlhoV1RtR1NKSFpWbnFpU2hzYi1UWUFTUXRBdjc3aUFIQnYyQ1M1ZURjOXlDUkRaLXBzY3RXX3VnenNWWWtiTWZBTDlkWVlIZVJubngzSUxKTzlNeW1INg?oc=5",
-    "fonte": "forbes.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "52e7614b9a7c29c61f7a5fab8b73eb327400161fd941c4507c8785758bb8a7cc",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 - Estadão",
-    "resumo": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGNiTnVBV0s0dWNzQ1hHWUNFTWVtTDkyc1Q5QS1Nd2tGN0daSWpfZURDNERQQW9WQ0dPaDdzNXBydzlXZExTQ0lVdnhrOUFscUdDelpYTWMzQi1BbE41a3loMk01aVI5RXY3UkdoSlZRM3lBVEgyS3g2cHhTbTdoLWlKRTBSb0U1aF9CZFpEQVN6Y3NjSGM0aTAwdU50WTRKTks3aGpXeGd4aFlsMk95b1ptVVhuM2l5MFhHdTM5VGJ1MVptUUZuOVN1STVZN3pTVGQ1Vg?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a9f9834b1fec1d3169cd0e5f834445064126c0809d87357eef0e750950d44fb0",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Cenário de incerteza demanda ação cautelosa na Selic, diz David, do BC - CNN Brasil",
-    "resumo": "Cenário de incerteza demanda ação cautelosa na Selic, diz David, do BC CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1VFWXhvVnpYMXdnZ1lGZmNpM3FzLVJ0Q1pPdWRMSThRcFhIQXgyTGRVSnBJTXB0M0NmUHM0dWxOX29mbV9TOG85am1hT0JWUkJvaVlfMWw4LTd5UDc1akJJQ0pYWDZoaXo0ZGxNeEt1WnpsT3BGWmtVTWhYSWhybV91ZUJFbXhwVTZ5TVAwbnVvMmN3LU0zNXVLdDFEMkgxOENjUUlnYTNGSUpRRC1kTjRRbVdoLWVCejhTaEFwZDhIMV9mS2c?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "92115e7c1d94d5fac13ae58122ae8fdf7170b30d83847052d6acb981e6c2f1c0",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 - Estadão",
-    "resumo": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQnItMjByU3hoT1VGNTA2clRhbXZpeUszZjBiVXByQU5SZFpVRi1KSkJocXBHNlVYQVZOdmxRMVc5SFFrd0hyNFJsckgzSXBzM3VjN3dXOW9kQTZnemxvMk4yamhKd2lJN0ltODVCeTJNZGJIeVhEYUpCSVc3cnhqUG4xVGN2Z1BDRUhHRjQ0aXV1dVV1YmZFeTJsMXIydUktX2hJRmctODRMLWlCSmxOVTZ1dDJzNWV6MHVfakw2UkMzb0gtdWthU25n0gHPAUFVX3lxTE4tWTJIRWxwOFVzQ1JwcEFabldRZnQtSUFEX1VhSEtOSVFEMktSVkxHV3JHb0NnaFhDdmxBZjY1aWx3a1otZXBXaFNRd0tUZEFWTGVhVl9vNGlvSUVtV0ZzcHp0ZnUyRVdXeVVTenZra3RoWXd2VE9ieURWMktUandoZ3JEeENqTmxrMmlFaWxsa3RVSWNfaGFFMWx4SU5mam5NQjFhNk9vb0pmR0RYanhZTHZyMFRXaFZDU09xWTJ2blBja1lzNEh5aDNPV0RLUQ?oc=5",
-    "fonte": "Estadão",
+    "fonte": "Forbes Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "c695135fb3560704cf7c06abb73ea809d3a59841923121adf1f16b8e1cc81632",
+    "chave": "465ecec9ef71b6985c1426ee67cbebfd628e469fc4c2b9c7056668c4db34b6bd",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -104,29 +102,27 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "BC dá ênfase à atividade e deixa viva chance de corte na Selic - Valor Econômico",
-    "resumo": "BC dá ênfase à atividade e deixa viva chance de corte na Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaVNnSm42SG1CN1lxTWVTZ3MzWUJIS1pRMTNiS3RrYTNXLVllU0c3OV9FU2tTZVBBOV9Uc3I2TnJjcGRreUZfYi1pc2p4XzUtOHl4Q3g5dUtlM1ZFTWEyM0kzNi1KN3otcFhiZm9BZHhyeUY1ZnhfYjdUZEl1dUt3b1VZLWh5ZEJVR1ctSlo2b3E1cjFGc3pzeWpHdDdSYTN3QXRUbktlUXc4NEdDX2lDbDhpZXlJY0NUdGtIddIBywFBVV95cUxQeEtwX3l0NW9uS25ZaVBNU1BYMTViYndXMmlhUzhaY1p0R2poVG9UTU9LOUVNdl9TM3RTTXEyOVVweXRrQWVyV0xscC1ua1VESXpuZXpvMWg5RmlwV050NS01QVIxNkk1eUd0cUdwUjF1dU1fa3RWbWE4MmZ6WG80RkpXc3M4OVI1b3E5RlVqeDd0TlVWZlJjN2VFM1FTaWdxbnNReHpvSFhLUXdhYzVDQVBxbldNelZrS1lSUkdMTk9qQkg3bUFMR2hoTQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "55db4e944b9aa99e8b71723649b29b12458105c6109cf926f3e92cdf9cd8e050",
+    "titulo": "Fechamento (23/09) | Cautela externa repercute no Ibovespa, que cai 0,86%; dólar sobe 1,28% - InvesTalk",
+    "resumo": "Fechamento (23/09) | Cautela externa repercute no Ibovespa, que cai 0,86%; dólar sobe 1,28% InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04NWQteTZieDJ6MzhldEJSalBKT2tlbHJrMTI5cmcxdGI3d1NVNEZEOTg0WHcyeExDa2RkLVdtelVGa1lYTTJjX0V5YVJXS1Bzc3lBN3ZRbF8xMlBRUWYzdDBuMWk2V2R6TTRWbHFaRWpKb1kxWVE?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d72db390771a5a63e97121d367e07ea8f78068662457d0659debe28d4a535100",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
