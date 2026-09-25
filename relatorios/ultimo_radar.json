@@ -1,55 +1,11 @@
 [
   {
-    "titulo": "Ibovespa cai em movimento de aversão ao risco e de olho em preço do petróleo - VEJA",
-    "resumo": "Ibovespa cai em movimento de aversão ao risco e de olho em preço do petróleo VEJA",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlRtajlKa2NaOXh1WnB4T3UyZVB2bU1rTFlxa2RhZTVkR2FuelJHQzNMbUltdzZpQ3BsODF5VkRmV2FQSFdyQUVSVTlLTHZIX2FxOHB4bU55ajNEMmVFTm5JLXVrNlF0LU1zemdaYU1Kb3hUYjF0M0tuWktNQ3ktaWUyQ0RqQjZVa0FWTndvZF8wZFg2RXJhQ3QyWXFfV0xVNGw3SGp1RDRfZndleTc3a1NR?oc=5",
-    "fonte": "VEJA",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "dfa7a5cd37dfaa544c11514ded3cfb84b73a529ac020be0dffc8a7aefec25188",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa cai aos 183 mil pontos com saída de ativos de risco no exterior - Jornal do Comércio",
-    "resumo": "Ibovespa cai aos 183 mil pontos com saída de ativos de risco no exterior Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2dWME5UQ2ZqcWxtLTlMdGlqZXhKQ3hadVQ0U2QwM0hUWU0xbkY2WHdkN3lrcnp0ZE9PM0RCaTRlUUJtdVlYbHF1RFJiOVJVLURUS01QUkZCRGc4YXZlVmZOeHRrTDNpdWJadmNCRnAtbmNyY1drcTMtUHRYUjJKOUtOVUM0a1kyRHB2OUtMeUF2d3J3ekV3aXJpVDZ2b01QTFU1a0NKR1EwaFlmalNzZnlvTXdmQUJvSXhSdnBZa0ZETldaQXJaOTRzSGxKbDVi?oc=5",
-    "fonte": "Jornal do Comércio",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b444505787d2a7ec2debbaf8aeeb8fac1aa7f7667f6e7145c109bb9422e2dd81",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã Por Reuters Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWXJYODByMko1c0tXemotajNxcmwwVVM3dlpzQmJTSzZvRWlQOF9vWWpSell6a01KNGJBcW9ocVVjWHZLR2xaRnU0dlVhNnczZ3JBaXgzLURxeW42amhRZGo5RDBDeURMVl9aMzVLcXV3ek9MSW4zNzVNbTl3bFNLenExU29IdVY2MTZOS3hNS0tkd29LSnVqR2FJekNvYmplVUJIWGhDSkthSGM0c1RSUVVGemxvYnpMYmtqVjR6d2h1M3J5ekhhdXRtODBESkU?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "titulo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã - Terra",
+    "resumo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã Terra",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm9mOEpRLThneWRsd1YtaEw2SHQzVV9udWREZGRVUDNOVFU4NkRlNVgxSkdaQ2JQYS1xcmNYMDVYRm5wR05tMUhSajdScG91cmNiNjJrSkwxUzlIMkJwOGZGNDZXUEJvVG9IcWxtZi1JUjM3MjA5ZFB5ZXlXS2lhMHJJZEsweVVNRWt0cDZNSHNHNWZ4aWtXcUpXRy1CXzVRMUJqUFRvem52dy1UcE4zYjRiTHFka01vNVBIbmhPTER3aG9VSkRlSUhMb2lFN0d0UjBZZGpKTUxBUUxmQkdVeVRyVXJQWlhNLWNLVzNHdkh3dXZvOGtTSTA2WG5CRUNxdURFZ01n?oc=5",
+    "fonte": "Terra",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "7098352e2424a5c469636ec067a7f5a76f00ff196e5701d6d1feb05011bd8c25",
+    "chave": "b793822aab41f8b043b197bb2ee9e4ce48847449aefc31c81cccde9d9f3be79a",
     "ativos": [
       "WRLD11"
     ],
@@ -66,34 +22,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã - TradingView",
-    "resumo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hampfd00zZW0tX1c4TXJ3N1FabU9EWDdaZ1AyYkJJWTMtbEF4eUQ5a21ocE1kSmJGNHNKdDdkdGlSdm9uWWRtN0tRVnQ2blJlaXZHYzE0bWxCcUZjeGNLVWt5U2MydzIzZUVYWVhtekpsVy1nVnJv?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "15a2d0aaecf77253827a30f434ae603138546468f322e2008a571d5d82403b38",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar opera em alta e bate R$ 5,20, com reunião entre Trump e Xi Jinping no foco; Ibovespa cai - G1",
-    "resumo": "Dólar opera em alta e bate R$ 5,20, com reunião entre Trump e Xi Jinping no foco; Ibovespa cai G1",
+    "titulo": "Dólar sobe e fecha a R$ 5,19 com petróleo em alta e reunião entre Trump e Xi Jinping; Ibovespa cai - G1",
+    "resumo": "Dólar sobe e fecha a R$ 5,19 com petróleo em alta e reunião entre Trump e Xi Jinping; Ibovespa cai G1",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LVDcwNnowekFURDFVYkdrRjJJTU1SVVBBNzVzRnFoc2tFWGJka213bFlncUZtUWpkRF9tOFMxbFBmYlFCNXBkS3lyb2FkNnMyWGc4V3Q0WHlNMnRFRkNmdkFrdmNYTC14aWY4Ui1vd0FoQUI3cG9Fc9IBhwFBVV95cUxPOU5TV0hSaThlQUtNRlU2ZFIydnpuR2xJSmt3bFVKRmdJMXRvRi1sZzNUaWgzNU9xY3lvcDR4d2VNWUh5czBQb2tlTWlydnpBcFdiZjRFUkRYRlB4RlMzSDZVcjFOamVLTDFWWEQwVVFKRUMxR3BmQ0NDenlLbFFCQUZSMWJKRnM?oc=5",
     "fonte": "G1",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3ed373d313e2e98cc64677d24e4bf819b7cf2829fd47410b1e172ed99e969492",
+    "chave": "7e4d979ab3d868dadd91d17bd1161569fc642e993cdc8eea942380b29af67be1",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -103,6 +37,76 @@
       "Ações Brasil"
     ],
     "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai 1% e perde os 184 mil pontos com recuo de blue chips e dólar sobe a R$ 5,19 - Exame",
+    "resumo": "Ibovespa cai 1% e perde os 184 mil pontos com recuo de blue chips e dólar sobe a R$ 5,19 Exame",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDh2SnRXNVJMYU1aamVvU0QycmRwa3owX1VnU0V3NjdXZzV5djlWWlZCYThYOUlRSXRtTzVxMF80YjJJajM2T2ZYR2VOYTJadndHY1JrWW8yT0daSU9CeURzQm5ZbVljZmZUanhLRGpCcHVjLTBMS2xuaVVfa0E0T0xnV3M1ZjRiMWtQYXVjU2ZTR19tejNJc0lIbEUyWkFVcWJjQmdrS3Bza0Y2dUdYajV5aC1UQVloTTl1NQ?oc=5",
+    "fonte": "Exame",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a2d9a317ce58d61d04f5c803017a07c6f2c24977120ee2682c85befa02cb8567",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central endurece regras para criptoativos e exige aviso ao Coaf para transferências acima de US$ 10 mil - convergenciadigital.com.br",
+    "resumo": "Banco Central endurece regras para criptoativos e exige aviso ao Coaf para transferências acima de US$ 10 mil convergenciadigital.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT2s0MGdkZ2VlNGxMTzkzRG9PQjdGSUxabGplUFJfUXZRZmRsSGs5ZVRlS0NhTDVaMi1mcHNtSjd1ZkVGMm9wSHQ1dl92NDh0Zi01enNRQ2JaV0thWUFfdTFSeDI1NGdlS1plWHZMZ3hhdnduNl9LcnRDdGpWRUphTFRuMzMxSnN2c2t6T1UxWXp6NlBIWTh3LWR4UHpVSWhUQkg0Q1dqMm02ZWJ0czBSazZqOUdvQml3Qlg3ZjNHZk5xMXd3a0ozczNFbTVEN0RaLWZ5RWF6U3VQbTVwSEUtTVBKTmg5LUU?oc=5",
+    "fonte": "convergenciadigital.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "c21096a115df033ead40d3ae10ed1fef212cca8ad86e8a83bdc286f00641fe83",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Em NY, Dow Jones cai com pressão de juros e petróleo; S&P 500 e Nasdaq ficam estáveis - Valor Econômico",
+    "resumo": "Em NY, Dow Jones cai com pressão de juros e petróleo; S&P 500 e Nasdaq ficam estáveis Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc2F2Nm95cDRYeHlWYjRINWNObktVTFdwNklQTHFxRFBfRk1yU2k0Z3lrNHdpN3pHRkloUldGUHVWd014ZmNXeUdzWW9pMnlOa3pwSy1lOVBUaUktV0ludXczVTc4LTNTZ3ZmNWFQakFTN2FuNmdtTmdXandaTldkRm9HcE1SMGZ3VkZGdFRoMUxjdEJWM2JxR2FiQ0p3SmZxQjF2VE1BaWhpM3FBQkhsUFRlRWZKeW5QSXNHOHYtUkRWdEEwcElfVURIVGhQeDJVTTNJS1Blc2xyM1nSAeoBQVVfeXFMTWlUV2t2MnRwV2pnN1RUQXRidTYzVmR1azg5OHppeng5R1oxYWlQNTZreEo5RXdCbENVbkN1aEtIWTlab3lFQmlkejF1aWJiZXFYOVpYQWxxbGhSOEVmQVR0QndXT3FMNWROZVVQN2VMbVk2bXYzU1dpN3hKa1luNHBPbG5KMzI5TGl2UGdGQzZFVEFhVEtzdVBTLVBFbDlXaGxOSkE5bkRrb2ZEcm1QaVJ4aVI0Z2xYNkNZS3dZSHVtTUJRc2lGTUZoVnNsT3NpV3lPTnE0Mm5oR3A3U3N5RHhYemNtSzFmSVFn?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "a3ca86456856b2dae3096743b8962231d836256862b0e383f86e1d234a06896a",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
