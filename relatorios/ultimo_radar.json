@@ -1,90 +1,22 @@
 [
   {
-    "titulo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã - Terra",
-    "resumo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã Terra",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm9mOEpRLThneWRsd1YtaEw2SHQzVV9udWREZGRVUDNOVFU4NkRlNVgxSkdaQ2JQYS1xcmNYMDVYRm5wR05tMUhSajdScG91cmNiNjJrSkwxUzlIMkJwOGZGNDZXUEJvVG9IcWxtZi1JUjM3MjA5ZFB5ZXlXS2lhMHJJZEsweVVNRWt0cDZNSHNHNWZ4aWtXcUpXRy1CXzVRMUJqUFRvem52dy1UcE4zYjRiTHFka01vNVBIbmhPTER3aG9VSkRlSUhMb2lFN0d0UjBZZGpKTUxBUUxmQkdVeVRyVXJQWlhNLWNLVzNHdkh3dXZvOGtTSTA2WG5CRUNxdURFZ01n?oc=5",
-    "fonte": "Terra",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "b793822aab41f8b043b197bb2ee9e4ce48847449aefc31c81cccde9d9f3be79a",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar sobe e fecha a R$ 5,19 com petróleo em alta e reunião entre Trump e Xi Jinping; Ibovespa cai - G1",
-    "resumo": "Dólar sobe e fecha a R$ 5,19 com petróleo em alta e reunião entre Trump e Xi Jinping; Ibovespa cai G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LVDcwNnowekFURDFVYkdrRjJJTU1SVVBBNzVzRnFoc2tFWGJka213bFlncUZtUWpkRF9tOFMxbFBmYlFCNXBkS3lyb2FkNnMyWGc4V3Q0WHlNMnRFRkNmdkFrdmNYTC14aWY4Ui1vd0FoQUI3cG9Fc9IBhwFBVV95cUxPOU5TV0hSaThlQUtNRlU2ZFIydnpuR2xJSmt3bFVKRmdJMXRvRi1sZzNUaWgzNU9xY3lvcDR4d2VNWUh5czBQb2tlTWlydnpBcFdiZjRFUkRYRlB4RlMzSDZVcjFOamVLTDFWWEQwVVFKRUMxR3BmQ0NDenlLbFFCQUZSMWJKRnM?oc=5",
-    "fonte": "G1",
+    "titulo": "Ibovespa hoje: IPCA-15 e pesquisa eleitoral dividem atenções nesta sexta-feira - Estadão",
+    "resumo": "Ibovespa hoje: IPCA-15 e pesquisa eleitoral dividem atenções nesta sexta-feira Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY1V5NzRLbnkwTHZISWZjd250ZGFCVUs2WFRUS2pXUnNEdDZ6dnhUTmY0VTg1UzhkVm5MY0dvQjVPSk1Bc01kc3pzejRRMFZRYUVvUEpyX2Y2MzNkTXladEtlUGEtOG5DZnF0bFBrNzBORGM1NHRpR2stRHZvd19qVmFveHRubGcxRmZVdmI2MjNSWTRWTzlvdk9uNWp2YWJQUGp2djZVU0ZfTVlVZFdMcnR1b25NNmp2MGtyT3Mtem1icnRHMV9odDBYSzhUUWtOM0kzS0pZM293U1ky?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7e4d979ab3d868dadd91d17bd1161569fc642e993cdc8eea942380b29af67be1",
+    "chave": "e152c0bc8e3e4782a7bd6b45a7fae63b14353b8e34697c97b1622606e3adf7e6",
     "ativos": [
       "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa cai 1% e perde os 184 mil pontos com recuo de blue chips e dólar sobe a R$ 5,19 - Exame",
-    "resumo": "Ibovespa cai 1% e perde os 184 mil pontos com recuo de blue chips e dólar sobe a R$ 5,19 Exame",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDh2SnRXNVJMYU1aamVvU0QycmRwa3owX1VnU0V3NjdXZzV5djlWWlZCYThYOUlRSXRtTzVxMF80YjJJajM2T2ZYR2VOYTJadndHY1JrWW8yT0daSU9CeURzQm5ZbVljZmZUanhLRGpCcHVjLTBMS2xuaVVfa0E0T0xnV3M1ZjRiMWtQYXVjU2ZTR19tejNJc0lIbEUyWkFVcWJjQmdrS3Bza0Y2dUdYajV5aC1UQVloTTl1NQ?oc=5",
-    "fonte": "Exame",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a2d9a317ce58d61d04f5c803017a07c6f2c24977120ee2682c85befa02cb8567",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central endurece regras para criptoativos e exige aviso ao Coaf para transferências acima de US$ 10 mil - convergenciadigital.com.br",
-    "resumo": "Banco Central endurece regras para criptoativos e exige aviso ao Coaf para transferências acima de US$ 10 mil convergenciadigital.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT2s0MGdkZ2VlNGxMTzkzRG9PQjdGSUxabGplUFJfUXZRZmRsSGs5ZVRlS0NhTDVaMi1mcHNtSjd1ZkVGMm9wSHQ1dl92NDh0Zi01enNRQ2JaV0thWUFfdTFSeDI1NGdlS1plWHZMZ3hhdnduNl9LcnRDdGpWRUphTFRuMzMxSnN2c2t6T1UxWXp6NlBIWTh3LWR4UHpVSWhUQkg0Q1dqMm02ZWJ0czBSazZqOUdvQml3Qlg3ZjNHZk5xMXd3a0ozczNFbTVEN0RaLWZ5RWF6U3VQbTVwSEUtTVBKTmg5LUU?oc=5",
-    "fonte": "convergenciadigital.com.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "c21096a115df033ead40d3ae10ed1fef212cca8ad86e8a83bdc286f00641fe83",
-    "ativos": [
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -94,17 +26,43 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Em NY, Dow Jones cai com pressão de juros e petróleo; S&P 500 e Nasdaq ficam estáveis - Valor Econômico",
-    "resumo": "Em NY, Dow Jones cai com pressão de juros e petróleo; S&P 500 e Nasdaq ficam estáveis Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc2F2Nm95cDRYeHlWYjRINWNObktVTFdwNklQTHFxRFBfRk1yU2k0Z3lrNHdpN3pHRkloUldGUHVWd014ZmNXeUdzWW9pMnlOa3pwSy1lOVBUaUktV0ludXczVTc4LTNTZ3ZmNWFQakFTN2FuNmdtTmdXandaTldkRm9HcE1SMGZ3VkZGdFRoMUxjdEJWM2JxR2FiQ0p3SmZxQjF2VE1BaWhpM3FBQkhsUFRlRWZKeW5QSXNHOHYtUkRWdEEwcElfVURIVGhQeDJVTTNJS1Blc2xyM1nSAeoBQVVfeXFMTWlUV2t2MnRwV2pnN1RUQXRidTYzVmR1azg5OHppeng5R1oxYWlQNTZreEo5RXdCbENVbkN1aEtIWTlab3lFQmlkejF1aWJiZXFYOVpYQWxxbGhSOEVmQVR0QndXT3FMNWROZVVQN2VMbVk2bXYzU1dpN3hKa1luNHBPbG5KMzI5TGl2UGdGQzZFVEFhVEtzdVBTLVBFbDlXaGxOSkE5bkRrb2ZEcm1QaVJ4aVI0Z2xYNkNZS3dZSHVtTUJRc2lGTUZoVnNsT3NpV3lPTnE0Mm5oR3A3U3N5RHhYemNtSzFmSVFn?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "a3ca86456856b2dae3096743b8962231d836256862b0e383f86e1d234a06896a",
+    "titulo": "Selic: quanto a economia precisa desacelerar para os juros caírem? - CNN Brasil",
+    "resumo": "Selic: quanto a economia precisa desacelerar para os juros caírem? CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU054UE5qZmtPNGtjdWJQUVBCRlFockx6VWlUdGVvQmZoMFBWN2Z4NF9tekF3SDNIM2FpeWcydVFMdmVSMEk0QkxLUmsxRnEzWHF3bXNEVFFjdndJRFgtX2dKVzgyVmxtdERDRG1KbHJfeHZNOE5Pa0dFNlp2VFp5dEJOdUd2YnFDNkhxdjdadzhsbGdOTERWcFRIV21YRGxYNWhkb2l1YUZmVGE3OXFuZkVlS25uVmVaS25nMTNaQkFjY3N0LTZleXlFeUhnUWhoRWZUVkVURGFaNVJKa3c?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4290106d94045a01cedb0f3e0c6e2f5b26b1820669b3f04deecc7a41f5ab1a35",
     "ativos": [
-      "WRLD11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Com queda dos juros longos, EQI reforça KNRI11 e HFOF11 na Carteira 200 de FII - EuQueroInvestir",
+    "resumo": "Com queda dos juros longos, EQI reforça KNRI11 e HFOF11 na Carteira 200 de FII EuQueroInvestir",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUtxME1vZlotYWlnNWhERVo1RmliN2ZEQmhXbHNfRGlVTXFxN3U0TDFxOVlXZ0hSeXFrZzFVNXk3R09neUFRX2hNNGZSVk1qemd1OTZOMS1tbjVfWkJVdjNmb3pKZGExSDVzdXdXQ1FhdE1zaXk2RzJPWjFuSG9MYWQ5eEUtRm9UMWFmUGtYUFFJVlEyRXRmeG5RRDdIVHBTN29sTzA1NGEydmo3VUlYSTczMEZXdlNZLUhUY01JXy15RWs?oc=5",
+    "fonte": "EuQueroInvestir",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "bbb5b0169bcf0abcd242b997e71468e4127b9647fd3f3234a0c9c2943572955c",
+    "ativos": [
+      "KNRI11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
     ],
     "score": 10,
     "motivos": [
@@ -113,6 +71,50 @@
       "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "BCB e Banco Central Europeu avaliam integrar sistemas de pagamento instantâneo - Mobile Time",
+    "resumo": "BCB e Banco Central Europeu avaliam integrar sistemas de pagamento instantâneo Mobile Time",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXJBUzZmQXRqN3hDMTJTLTc1TzdYQWZKdG82YnhYbWRkVm56X3NHcEk4YWc1dnhkYkFtM0lfU0RBSjZxaG5hMldLeWJWemEzSVF4UTZjZm4xTFhNeGVHemdhUExRU1Q3Mm56ak5IQkY5NzNVU1E3RHM1SGQtSVRDekhOczk1S2VIMFRjMmgyQzV4T0xVSWdjODhqUjh2UUdydi14TUN4WFNZby1WYmNyWENXMjVDSUtwRnNVdFM1WUJLZkdXU3RQSg?oc=5",
+    "fonte": "Mobile Time",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e2d4aca696463e4998684ac24ef1ffbed123fdf29f3e5f58cbebbed41b15fef3",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central reduz estimativa de crescimento do PIB de 2026 para 1,8% - Sapicuá",
+    "resumo": "Banco Central reduz estimativa de crescimento do PIB de 2026 para 1,8% Sapicuá",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlFNNzlVaUFMWGtFUVVqTzRiLWFvN2F5TmMzWnFzdHFYclhTYXZVY1lpYWVCQzhkbFVQYV9tNWVpZ0JXRGlZTGVnUU9VWjdvQ0NiVUZwUG1DU3VHQU5VQzM5aUlfd3k4dmJUeWhkQWxFUng1NlRtRHRuMV9MSW1IR01BWnRHZDVuQ0Jjb3gzTlZjOTU4ZzJJQU9WSQ?oc=5",
+    "fonte": "Sapicuá",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0e03fb5fbce9a515166111754cb4a24da7916eb4d378e3df0c91f94c814f2c0d",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]

@@ -1,86 +1,5 @@
 [
   {
-    "data_envio": "2026-08-13 21:03:20",
-    "chave": "0895ca2d7c2454c65608c91ffd6a29b6e029aab0d6f5d489c41078ea10e878d5",
-    "titulo": "Pix pago? Entenda as regras do Banco Central para cobrança de juros e tarifas - istoedinheiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUVZQUEt3NzFTak1KSVJxMENFMTMtLUJKRmJ6Q0U0a01sMnNMSTJxbTJ1bTNVV2lyempSOGIyYmpKQzNibmk0UUxaRWFsV3ZGdHBVY1AyUUlVOTJqQXROdjNrUERkQXRnbE43cjVmN05zYkZSRm45ejU4V18?oc=5",
-    "fonte": "istoedinheiro.com.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-13 22:03:03",
-    "chave": "78d1e459b2e84ac5b3b4d9368d3020b02b4207afb0e207122997d1e29c628cf1",
-    "titulo": "Ibovespa fecha em queda com Hapvida despencando, PPI dos EUA e tensões em Ormuz - trademap.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmVZRS01SlFoZHpFclRkNWxTeGMyVHVlMVB3RTNOVFYtOWV5OXJNd3d0TjlNcU1tRDFPTWxrb08xUjhucG5ZSE5pa3FteWVKUmdMdGoyUzNHalZmUVlRTW9xMEFBR3pSbnB1LTVDMTk5cmYxRVRsc3JBOWxrdkVybFpzNkc1UFRVb09BN1FQai12WmhLMEgwOHNJYXo5Wk5XVnI5YWx5MjlFTHZzRzBZ?oc=5",
-    "fonte": "trademap.com.br",
-    "score": 13,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-13 22:03:03",
-    "chave": "6d262d12f775be0e8f0421f89daa8ee9eaf711befbe66d338f5bfe4d0cf6673a",
-    "titulo": "Plínio cobra votação de PEC que amplia autonomia do Banco Central e protege Pix - senado.leg.br",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFhlS0FhM0Zsc0Q5NXJBbS03dEdCSTVRNWdZQzVnQkZhUFdJaUFCQ1B0SEpJVlROamNaX2JnckR6Y1VKcGVTaks2RkNNbXRXd2FnS1VUWTV3OXpSei1FY0NBb1lnajZ5NEJnYlhPZmdGYVFTU1lVSi12OEtwWmJFYmYzald4SmducHNqVU13SWtvb0tBVjBiNjVfdUZFaXFJamFjYlpKV1h0eWZSRGFIcVVDQXJ0YkNJeDlDRWdndmkxb19TdjdueW52NF9OSzV6bnc?oc=5",
-    "fonte": "senado.leg.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-13 23:58:41",
-    "chave": "4738d0bff849568638e6be0056a977721d27deaedd302710d5208699c2856004",
-    "titulo": "S&P 500 fecha em novo recorde, impulsionado por dados de inflação mais fracos e queda nos preços do petróleo - Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc08wMVllNkRoY0dKdzNZLTdpRTl3b05CbnlBc1pUU3FnNnlwbjNNN0FIZ3pPZ2liMkZCMkY4M3V1Tm51Qk5MN3hfT19lQ01oRHlWejRFMXQ5WlpnbVhMaUtRY20tS2JaTTlCd0NNd0ZkRElVVEliRmpmTUVVUHJaMGp1U2JFSzNOckNlQ2RrYmZFRTlUUVVSX2pXaDJlSjg3a3NYdnhSVVVpeHJhcXZmMTJqYUJkQzRieWpBLUNKc2VTVFUtTWk0M0hTbHk1cnl1NlplTlROdk1XZlRaM3UwdFBCemRpWnpudnVJQi1PdVo?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "score": 14,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 02:45:58",
-    "chave": "10a68f521a776ba30b7f2dcff1a9706f624217d197edcc0a8e0cb03a42631bb7",
-    "titulo": "Dólar sobe e Ibovespa cai com investidores estrangeiros retirando dinheiro do Brasil - G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrLUs1UkYzZGU1RkI0d1A3OVIzOWhNdDFNT1I1anZBTkpOOXY2VjlSLUhpM0VsUVdIZG5PYVZjSTNDZFdPMUxZUXktTW8xWDFyR1ZIU2sxREUtY3A0ZmF2V0JWc1VFV0s5V1JKYkdyRFVrbmJfMHVfRdIBhwFBVV95cUxQSzN4RkNNdGkyVVdneVVFQld5SVJYbE9nOHc1MVI5MTd6MUN6ajl0V1JHaF82VHFvUEh0cU9LeUtoUGlRZnZfVnlKSHE0dTl4ZXc4OVpILXZaS3BLQXZCNVZpMnhmVDF2N2tlamlfU0tNeWJEM08yLWJQS1RqUVRIZzdxTmgyVlU?oc=5",
-    "fonte": "G1",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-08-14 02:45:58",
     "chave": "a84159388069432c2d2025871f7fee86e7433063b9e4e0685308400c809b0ad0",
     "titulo": "Wall Street sobe com inflação ‘branda’ e alívio do petróleo; S&P 500 renova recorde - Money Times",
@@ -17401,6 +17320,89 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-09-25 07:48:54",
+    "chave": "e152c0bc8e3e4782a7bd6b45a7fae63b14353b8e34697c97b1622606e3adf7e6",
+    "titulo": "Ibovespa hoje: IPCA-15 e pesquisa eleitoral dividem atenções nesta sexta-feira - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY1V5NzRLbnkwTHZISWZjd250ZGFCVUs2WFRUS2pXUnNEdDZ6dnhUTmY0VTg1UzhkVm5MY0dvQjVPSk1Bc01kc3pzejRRMFZRYUVvUEpyX2Y2MzNkTXladEtlUGEtOG5DZnF0bFBrNzBORGM1NHRpR2stRHZvd19qVmFveHRubGcxRmZVdmI2MjNSWTRWTzlvdk9uNWp2YWJQUGp2djZVU0ZfTVlVZFdMcnR1b25NNmp2MGtyT3Mtem1icnRHMV9odDBYSzhUUWtOM0kzS0pZM293U1ky?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-25 07:48:54",
+    "chave": "4290106d94045a01cedb0f3e0c6e2f5b26b1820669b3f04deecc7a41f5ab1a35",
+    "titulo": "Selic: quanto a economia precisa desacelerar para os juros caírem? - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU054UE5qZmtPNGtjdWJQUVBCRlFockx6VWlUdGVvQmZoMFBWN2Z4NF9tekF3SDNIM2FpeWcydVFMdmVSMEk0QkxLUmsxRnEzWHF3bXNEVFFjdndJRFgtX2dKVzgyVmxtdERDRG1KbHJfeHZNOE5Pa0dFNlp2VFp5dEJOdUd2YnFDNkhxdjdadzhsbGdOTERWcFRIV21YRGxYNWhkb2l1YUZmVGE3OXFuZkVlS25uVmVaS25nMTNaQkFjY3N0LTZleXlFeUhnUWhoRWZUVkVURGFaNVJKa3c?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-25 07:48:54",
+    "chave": "bbb5b0169bcf0abcd242b997e71468e4127b9647fd3f3234a0c9c2943572955c",
+    "titulo": "Com queda dos juros longos, EQI reforça KNRI11 e HFOF11 na Carteira 200 de FII - EuQueroInvestir",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUtxME1vZlotYWlnNWhERVo1RmliN2ZEQmhXbHNfRGlVTXFxN3U0TDFxOVlXZ0hSeXFrZzFVNXk3R09neUFRX2hNNGZSVk1qemd1OTZOMS1tbjVfWkJVdjNmb3pKZGExSDVzdXdXQ1FhdE1zaXk2RzJPWjFuSG9MYWQ5eEUtRm9UMWFmUGtYUFFJVlEyRXRmeG5RRDdIVHBTN29sTzA1NGEydmo3VUlYSTczMEZXdlNZLUhUY01JXy15RWs?oc=5",
+    "fonte": "EuQueroInvestir",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "KNRI11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-25 07:48:54",
+    "chave": "e2d4aca696463e4998684ac24ef1ffbed123fdf29f3e5f58cbebbed41b15fef3",
+    "titulo": "BCB e Banco Central Europeu avaliam integrar sistemas de pagamento instantâneo - Mobile Time",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXJBUzZmQXRqN3hDMTJTLTc1TzdYQWZKdG82YnhYbWRkVm56X3NHcEk4YWc1dnhkYkFtM0lfU0RBSjZxaG5hMldLeWJWemEzSVF4UTZjZm4xTFhNeGVHemdhUExRU1Q3Mm56ak5IQkY5NzNVU1E3RHM1SGQtSVRDekhOczk1S2VIMFRjMmgyQzV4T0xVSWdjODhqUjh2UUdydi14TUN4WFNZby1WYmNyWENXMjVDSUtwRnNVdFM1WUJLZkdXU3RQSg?oc=5",
+    "fonte": "Mobile Time",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-25 07:48:54",
+    "chave": "0e03fb5fbce9a515166111754cb4a24da7916eb4d378e3df0c91f94c814f2c0d",
+    "titulo": "Banco Central reduz estimativa de crescimento do PIB de 2026 para 1,8% - Sapicuá",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlFNNzlVaUFMWGtFUVVqTzRiLWFvN2F5TmMzWnFzdHFYclhTYXZVY1lpYWVCQzhkbFVQYV9tNWVpZ0JXRGlZTGVnUU9VWjdvQ0NiVUZwUG1DU3VHQU5VQzM5aUlfd3k4dmJUeWhkQWxFUng1NlRtRHRuMV9MSW1IR01BWnRHZDVuQ0Jjb3gzTlZjOTU4ZzJJQU9WSQ?oc=5",
+    "fonte": "Sapicuá",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
