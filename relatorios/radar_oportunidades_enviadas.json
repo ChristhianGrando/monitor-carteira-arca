@@ -1,84 +1,5 @@
 [
   {
-    "data_envio": "2026-08-14 15:06:57",
-    "chave": "ecbb777ce7b1a9c2d53f28172a6a71df0dee05f1f90ffeafd0d1923856966162",
-    "titulo": "Ibovespa cede forte com queda do petróleo e dados do exterior; dólar sobe - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaVl2ZGdxdlRfRDBnamE1VWZrcHhtUVZFa2ZCb3Z0bUwzT0x1Z2VnWlppWkNkRkFqWFUyZ3B0NkdYRlZPaFZNdU9QUjQ4SU8tRWotcTdqNlB3OFZMSUZET21iLV9ROGxhazhaWWp4YlhpcFZuc05YNlhtUUhJQ0xROXdhaTc5SnpjS1J5N2FseDJjNExvVnpuYS1WTS1sSmc5ZlNz?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 15:06:57",
-    "chave": "138cc9cbd0552fccc42d39d570b1c351d8076ded1ac2d2dc2b36d57c0e0599ce",
-    "titulo": "Banco Central estuda conectar Pix a sistemas de pagamentos internacionais - A Tribuna RJ",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUhsVmdXS0ZNZGRHWF9ZamhZemltb1JuTzRrbXBncXJ4N1dsOWtnWnZDWWQ3a3dpWDZlUy00N2NUcHc5TkRUTF9fRUpLcFZuUlVwd3hJSWNzejZ5eTRkM1BPbkdHNncxVUJWZWVvTUFFc083ek4ydG9hbG9GMXJzXzA4cGlFMEJDSXVIYWJHakg1cjNLbHBaVzlBa21LTzVqajdwN1NGOE80NXFJSmExMA?oc=5",
-    "fonte": "A Tribuna RJ",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 16:05:58",
-    "chave": "48b2e9aa073f8dba4eec90a402a8ac699989cb0203c5a1fbe6e6a4274b9ded24",
-    "titulo": "Dólar opera em alta e vai a R$ 5,23, de olho em dados dos EUA e à espera de nova pesquisa eleitoral; Ibovespa cai - G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84M2pjU3huVEZIVUpNMk41MWItYTJJc2hJb1NGbjZvdnhhbFJBeHQ1YTQ2UlNheFpWc0JyOEl2UFVTZFJZd0NfTHVCNXZhNFUxNTc2U1pVSDhZRjY0UEFOMkJVS1VvVS1PWTRHSkY2cVpoR3J5aElBRtIBhwFBVV95cUxQS0gybFMyRjVmcmhnQmF2Zjk1QW5lYVBPT000eGYyYmNnbmhWU2dxM1Nna19FRzJGbXl1ZWNOdmJ5dEFpd19QcnQ2MDNFcEphVndLeUlYQ0I1ZmxyejJJQ3ZVNTdxRzJTYWNVcFpHelRlU2hQbFpzdDhNUXhMNXpiX2VQbkJJX1E?oc=5",
-    "fonte": "G1",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 16:05:58",
-    "chave": "465e95cf61ae6d1bbd17827c6dadd451666f1e4bbac4705d9be42d4d92c6ad58",
-    "titulo": "Banco Central decreta liquidação extrajudicial de duas empresas do grupo Simpala - Finsiders Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVERFSy01NXpMSk9tbnEySmQ0c0tPNWd6WWszdV9SdW04NkpRYkVNQ3NzNjdOV21xUHcwc1lJVnBHVFNMaUlRRTBxV0RqSkpMSmdpams5aVhyUEpoRWFnUmxCc3VlZUNTdXJOVkt3NGpESzU1UU5PNVRrQy1QX3V4TEZNQ2RZRnVPYmRKMFBUQWhOaVlsaExMT1oweVRoYldmRGpIQjgzZw?oc=5",
-    "fonte": "Finsiders Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-14 16:05:58",
-    "chave": "47e1611dc2d3a39cdf21e660b034ee1d8e351650a6da616f3735999969b547b2",
-    "titulo": "Banco Central liquida Simpala e bloqueia bens de controladores; clientes têm proteção do FGC - VEJA",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0ozTFhPT0ZfVVZoWE5tV0RQVXhJbmZOZE9RTE1aTG56TDNNTDlZV190Vm5tX3FjcE43YkZyU1M4QVpabUgzcjlPc2FNLTh6M1Nxb2J3RGl6MHlHNm5ZNkpBYVRnY2R2T2hiT2txTUVjQ0pSWE15M0d6MlJsYkxnTkZtUFdNcl9vaGlZcUhlSHQ2a3JTdjhvX1lkWF9UM1FsVnZKR1lwMzR1bVhwTnZvU25IYUZRV0RLd1JvdndWaC1FQXR0UVE?oc=5",
-    "fonte": "VEJA",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-14 16:05:58",
     "chave": "2998cc448e68981cd9737f4315a4147c1294897ced815fe5b4244049866dd911",
     "titulo": "Banco Central liquida financeira e empresa de consórcios de Porto Alegre: \"graves violações\" - GZH",
@@ -17437,6 +17358,95 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-26 01:34:37",
+    "chave": "31f8ad96e1c5070d636b0361ae022be3272c9adabb229b057618a19384f2966b",
+    "titulo": "Fechamento (25/09) | Pressionada pela baixa no petróleo e IPCA-15 acima do esperado, Bolsa cede 0,27% - InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NYkJLOVZBR3VUSDlFcl9OMkpPeHV4ckVfOEpIM3F3VUJ6ZXhnN0w0elR0YzJHbmEwTERCOWRCSFZnTDlUVUpvQXkzRkpOUlB4eFRQQW1KYTdjOWx6bWNncUN6X2d1Z20xNmlNUUtJQl9PTXhwcGc?oc=5",
+    "fonte": "InvesTalk",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-26 01:34:37",
+    "chave": "1c56a55fe4c651f366a1b80ca43d14d78d33bada9de70e2d41cd1322a45a83e8",
+    "titulo": "IPCA-15 de setembro: acima do esperado, com alimentação e serviços de volta ao centro das atenções - XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOczJKQXpvVksxNkZRajNURW9pMVJ4NUtnU0JtZWx4SFRoN3lUT2V3NUxGZDVxZGw4aVRUTS1qME1UU2w3U0VBanB2OU9scFlKdll6VUVnZExVclFhbG1NVk1lSUpyaVl1THpiOGc4WEMtLW4zaGpBa2tpQUlhV1ZVVE1qNFczdmt0a29NclRTcV9EVEFCWkpseS1Fdl9aN3lTSHZPbTJXX09oZXJXQzJmZ3ozWVN0RTlGSFo3TnFrS3FuNkVPUndvNXQ3NXl5MFVz?oc=5",
+    "fonte": "XP Investimentos",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-26 01:34:37",
+    "chave": "d7f9f363818d34f4c9099b0d59a83f5cbdceb1b1b9d9ed46ac3fb7f0d3c3276f",
+    "titulo": "IPCA-15 avança 0,70% em setembro e supera projeções do mercado - suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmlUelItV21FYTJodmdQU1Jxb3Z4YzBXZ21sZzRpdVNHQUdsRUQ0OWdaT1NyYzRqSGZoSjBmaXZpZWFWeUFON1BFOWxaSnJtcWMwSkp0cmJ0eWxyN0tmZjZ2YnpxZG1JMGNQYmpwN0oxVDdUOGx3QU5EWkk3clpPMUpDOHd3NTVfTjZubjFNMTZwRHpsbVVsU2d3Z9IBoAFBVV95cUxPRWpJYU5CYWphWk53OXpMT0daMmRWbFFwUjhMajZIWHN3dHlzYlNaYS04aDBsZm95YVhzbHdnYlhYUzdPS2ctU0lJeXlCMjBPQWVzc29taXptRVZoN0xlNF9ReXNjbGFZWS1fT0NKcmhhYVE2aGFES2hielJRVGo0Vnc4LThlS0EyWlRpSHZSSUhTRHM0bFNvVTktbEc3WGc5?oc=5",
+    "fonte": "suno.com.br",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-26 01:34:37",
+    "chave": "510e855be4aa2b5ef384aea7871dbab9773d43957dc1e3ddb3917100314b8c54",
+    "titulo": "Bolsas de NY sobem no dia e na semana, apesar de temores com inflação e Fed - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2tWZG1fS3FMdFMxYUxWLVYySmlZcXFXdnZBa1pyNWp1UUdWcGp1WFJRU0lhbEdkVV9XN2tLUURmbllMemlLN0JkRHZ5NWp0aFFPT0NhYjJtczVHZElqRW1aZWhHTV9WRUcwdGpSblFlUER4RmJyakpLVHRNWjdxN1hPR1JpanpDZHRwc1VUOFFkU3NfcWZ2ems3WjFVM3NKa0VwN3dmeFd3YlNacUoxTTBIYw?oc=5",
+    "fonte": "InfoMoney",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-26 01:34:37",
+    "chave": "624631f9e9f696b6cfbc9495b4d13168fb8aa92b8b14acd4f5c6a075f50d1c9c",
+    "titulo": "Banco Central propõe atualização de regras contábeis para reforçar convergência aos padrões internacionais - Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3o2XzhiNm1qanJfV1A1Z1BXT09aZWRhVFZaazc0X2VKQXJfVzZpdENOTWwtcEtySjdJeUtGVmxUS1BtUVBQd1hFeVFxaC1za2N6OFFZbzMwZnpWeENIVw?oc=5",
+    "fonte": "Banco Central do Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
