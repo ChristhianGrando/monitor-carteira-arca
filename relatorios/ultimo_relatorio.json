@@ -1,36 +1,8 @@
 [
   {
-    "titulo": "IPCA-15 volta a acelerar e afasta inflação da meta, apontam economistas - Valor Econômico",
-    "resumo": "IPCA-15 volta a acelerar e afasta inflação da meta, apontam economistas Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGFUbGZ5MExKRHNTejhsTDJIN2tNZHBCRFZmRkxkZ2t6bFUtUjQ4ZWYxOE10NFh6X3gwdmMzMk9rXzVQYkhKb1kyN1NYeG5DSlc4UUhQaEZNRW5NZ0xETDcwYy1HQ3p6TnlxU1gtd3V0RHB1RW9SMl9RSnU4cnJLWVNmX0wwSUIxVGRHRXM0OVJVUDlNMG51dGpOQWdWb2tJaGxkZjdTRkFhdHRqOXpjM3dQazJOS3dMUnFTN3owdGNnZ9IB0AFBVV95cUxNTlczX3RfSFFPeHZ5STVkM3gwMXRmYjhkQ1N6cVduYzB0ZjRiRHh6UlhEandmd1djMXRtNDFmakxNLXFXOUwwaFBqQjgzeGw4dk1oUjNVV0NKMmF0cXV1eDhDUjZRQ0ltWEV0WE1fekF2ZWdXUm5ENkRYMDMweWRIRVgtY19GczVmUExQdjNTMEp1TlZxUV9JeWRFRjdLS0dwdUJObFlBMDVyU2JpNVNySmc1RFZsVERmTTBmS1dDdmtLa0hoX1A0YU13MWVFRG9y?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Onde buscar oportunidades para 'travar' ganhos muito acima da inflação com a Selic a 13,75%? - Seu Dinheiro",
-    "resumo": "Onde buscar oportunidades para 'travar' ganhos muito acima da inflação com a Selic a 13,75%? Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRnlGRy1vcW9ISDFlTWZZZXR4VTJReXZlTUNqNDQ3NVNWUFdHVUhHeGhIbWlRUE8wT3JOMUhaNkY2cDY2SDNBQmQ1b0dCNEJxRFF4Mmhudy15R3RyWFJyWUpJY1NBVmsxOHgyTjE4bE1HN25FZjNCdHhCSmVNUUpSVlZuOXlLMmVTUElSenJJSFBFLXRXRzlfQ1ZXMEVhMzktRnZGeVNrdEkyd0p0OHhiTmtKbmNuMFpSNF9hTFRPdF9UVFhqOG1IQ3QydmlQRFhvbEZISXp6ZEZGUQ?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Uma possível saia justa no Copom de novembro | Intraday - Valor Econômico",
-    "resumo": "Uma possível saia justa no Copom de novembro | Intraday Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1BteEFJNEpiTUVsY1czVFpiVFpDWWl3SmxpLW5ZVUdhc1NsVW1adndIUDJSVHgwcm9jUzU3b1ZlZVJIb2xRc3g5U1NZUVNmSzM5UTExVzJoTHdEQUk5cFp4dFBxbVAwcmZ2bkx4YnJKWTJMTkNoTC0xcjRUZThMWUtBcEFmalhoaWVSVzQ2RVNtUGhVWkhBdXFYNXJVLThPMjk0TXJ5OXc?oc=5",
+    "titulo": "Uma possível saia justa no Copom de novembro - Valor Econômico",
+    "resumo": "Uma possível saia justa no Copom de novembro Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1BteEFJNEpiTUVsY1czVFpiVFpDWWl3SmxpLW5ZVUdhc1NsVW1adndIUDJSVHgwcm9jUzU3b1ZlZVJIb2xRc3g5U1NZUVNmSzM5UTExVzJoTHdEQUk5cFp4dFBxbVAwcmZ2bkx4YnJKWTJMTkNoTC0xcjRUZThMWUtBcEFmalhoaWVSVzQ2RVNtUGhVWkhBdXFYNXJVLThPMjk0TXJ5OXfSAbcBQVVfeXFMTjZzSEgtZTkwbUhIeGdwNVY2eVIzR3pRNU1IUzA1bWUyQ21JeUxYa0lGMDdlY1A5QWJ2RklqVTlFSzRfbElFWjMycXZlbG4wU1p5RmdqdGZQRXI3U3l2UWVDeEd6dDFRdVZndzBscGxzdFAwYnFNZ0R1QndFa2ZVc2F6SXQzZWZudmU5RU0zSVgtSGZveEpmSFNKcUNGdHJoblkwcklMUUNrU2ZoWEYyaFBKVDZVR3Vz?oc=5",
     "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
@@ -41,24 +13,46 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ata do Copom atribui corte da Selic à desaceleração da economia - Agência Brasil",
-    "resumo": "Ata do Copom atribui corte da Selic à desaceleração da economia Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDRQa2hQZmYzTm5PV0QzN0p1WHJXRi1IVFFmS09vUDNra2VGOC1WRkhUTzJhSUxjQXM2YzlCUjJlVTA2X0RfUmtUenBrUFhkNXhvQWNqLWxvaHMxS1VhLVpuMGExay1va1VmMU8xdEN1UHJCUmhXS2hKeHJqOEZDLW1WOHVCZkVlRlMtMVM1cFZDTTVtR3VkN2xkbklfWE9IZTk4ZVM4cTBiMjlveUhQWUZHSVVaRWk3bjNz?oc=5",
-    "fonte": "Agência Brasil",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Às vésperas do 1º turno, Ibovespa perde força e chega à eleição sob pressão - InfoMoney",
+    "resumo": "Às vésperas do 1º turno, Ibovespa perde força e chega à eleição sob pressão InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON0N0aDFVemZHT1kxLXJKWk5Pei0ySU53aFBSaWk3eWcxbk1IM3ZfZUl0UzlzMkszRGh3TGlCemtKZ01zVC1YZ3NZd20xRlJvaGFMOHVnOEl1TGRlOHFkQXlRZGpDaTVtRHVLZi11VUZRT2FTbXpLdnZHemFBVnltNkprV1Y1UlV0WlJxZHBIUGrSAZYBQVVfeXFMTUZXOU94WDdFVnZubUExOEMyUWszSU44N201bC10LVJGQmZ3bC1ETmlCRk02U2tQRzF0d1pqeWxFMnhaY1JHd2VkTTA2SHRjX1lOcnI0WVZkNnZRSmw4RUhiTkd0REt2MDN4Vm5RNi1yYzRMZVpIY1dSemhCVDBrM0tmZmF0Nm4yZkRZQzR6cGxKZV9GZHNn?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "IBOB11"
     ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "TSE deve usar Starlink de Musk para transmitir resultados das eleições - TudoCelular.com",
-    "resumo": "TSE deve usar Starlink de Musk para transmitir resultados das eleições TudoCelular.com",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamZoNXFITzJpbWNmQ2lhbHlBNDBwR2xBRWZwYmtnTi1WU1h4MWU3dDBRRTVWM1RVbDBuRnJqMjlUZlZhRVdZaHJleXZMX084VDhiWGNTM1FyUzF3VWdqajJqcGFyZGhzLWd4OXVVYmxhb0kwN0NpV3B4NnhuTXBkWnBUTllfdFdhRGFXRTgtTG03OThMcmNONUY3cmJ1SV9aSkxkd1BWOVhUZw?oc=5",
-    "fonte": "TudoCelular.com",
+    "titulo": "Meta e ações de tecnologia levam S&P 500 ao melhor dia desde agosto - investnews.com.br",
+    "resumo": "Meta e ações de tecnologia levam S&P 500 ao melhor dia desde agosto investnews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEFvNlRRei1seEh0TzhEZllBTXpaLUVLWl81c2lGcjNhZ2FQLUZsYUVmWlRZWnJaeWk0Ml9jSnBOV284LUJZOUU1ZS05d0t6MlNFZXp3alNZMEtkQXVrUzIydXZaanp1RlBZTGN2ckdNbXpTeWRLM0pJcVJGYTVUYWFpVXdsLTFIMmpxd2hIUndaU2k0QnEzME92LXUxWVJfU2ZSX9IBqgFBVV95cUxNU1czZXh1Y1lOdGFyaDFxVWxLd3B0TGdMVnpCdkFULUwtTzd4RG54MFIzUVRhaHZRYzBCU0IxQW9KcVEyWThwRG9JMG5zVk1SS091TldKeEFrOXJ6TEVLbzR6emV4a1NmNkM0UHk1S2dSemYweS13cDc3ZlFFR1NWMURTSlJYNUNweHlwV0tSb3FzQ21fTEg2bWpTUFJyNHhITmtWYy1xanBrZw?oc=5",
+    "fonte": "investnews.com.br",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "De olho em Wall Street: S&P 500 é compra para a XP por três motivos - Money Times",
+    "resumo": "De olho em Wall Street: S&P 500 é compra para a XP por três motivos Money Times",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdFJ6Q3l4TWJDbFFOTHZRcWxaSnVVQUpLWm9wNW1QOHJjSHk5QUtLX0k1NUxnMWZpSGxnWms0RHVCN0tFMkNuMVVKTElmSE5feDRwUUxoeU9uQ040OXMtdXd2NjJkNXE4TTFtb0tPX2taQ05zZkdfdms0Tmh6NUhMUE1nb1RuSGY5b2h1bUl5LWdicXNMZ0dkaEM2aTBjUkxaX2hxOTkzNnlhNmVBTHlF?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "A gigantesca Starship da SpaceX finalmente entrará em órbita — e os efeitos poderão ser sísmicos - CNN Brasil",
+    "resumo": "A gigantesca Starship da SpaceX finalmente entrará em órbita — e os efeitos poderão ser sísmicos CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQi04STRBM1ZaUGVza1k5T2M1YWxjLUxGLTMtTXZ0cjNLaWRDQ2RyaU5aVEEzdXZvdS1vOEs3VE9Zb0pxejR1N0FKRW05ejJHOVQ5WnVPc2tPb09rS19nbFBKcC04Z09JNEZkbjA2MkhhNkNWV2FfUmt4NTA2VGMtY2xkeTdqSVJQbE5QT3k2QXNYa0NXRE54bmhFaFNZYTlJTlhVY1MxUGRWN2t4aHE3Mm9uLWNxdGZIZ0NKYnowR2NmcEZidEJmN3hKMXM?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -67,27 +61,39 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Banco Central do Brasil e Banco Central Europeu iniciam fase de avaliação para interligação entre Pix e TIPS, sistema europeu de pagamentos instantâneos - Banco Central do Brasil",
-    "resumo": "Banco Central do Brasil e Banco Central Europeu iniciam fase de avaliação para interligação entre Pix e TIPS, sistema europeu de pagamentos instantâneos Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRkN2YVZJUnNrWDQwVmFvQWxMckZ2Zk1UbUc3dTdmQndqdUd0LV9XaS1jZUZVb20wYnNSZUhhaXJnMDFyUEtYTEpmZk5hOEhqOTBTckNqeHY3S0M3?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Petróleo sobe e futuros de ações dos EUA recuam após rejeição de oferta do Irã - InfoMoney",
+    "resumo": "Petróleo sobe e futuros de ações dos EUA recuam após rejeição de oferta do Irã InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWR0Y0lFRG1vTTNJVFljT0FpWU1rek9QVDJMc3h3aTVMSHNiNUU2YlEtY095blVKdldTSE1JZy1fZVR4MmtTRk1ISVpwclN2V3JBaDROM1RoMlZlY3BvTDFSd0JoelZVcE9uZEhmZWF4U1h5c284TG9Vc1p1RWs5VmJnNGs0dEk5Z0kyU295QzdhNlZzbGV6Q2tQcGFoZ3VIZG1kM1lUdUlSSVhOSXRaRmFvTmpUV0k00gG-AUFVX3lxTE9XWGhzZXUybS1LeDd0NUgtN1g2RkhKQjhwMDR0Q3NoVkRnXy0zS1N1eTNhWjZRdjFnM204WXNiZmVpZTFlclUxZTNmY0ZtWHRnRlFtX3ptX1V4bU5IZjJad2Y2MVNNcnotdGdIS0I1UkY4N2x2ajFiU2RWN05UakRpREJiSUU4NmY4Um1lVzF2bGM1bGUwTlRNVzRSVnhtaTk3YTV6Zko1VU9hTnZPSjBDbzJLVkxLQkZEbWx6akE?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Banco Central propõe atualização de regras contábeis para reforçar convergência aos padrões internacionais - Banco Central do Brasil",
-    "resumo": "Banco Central propõe atualização de regras contábeis para reforçar convergência aos padrões internacionais Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3o2XzhiNm1qanJfV1A1Z1BXT09aZWRhVFZaazc0X2VKQXJfVzZpdENOTWwtcEtySjdJeUtGVmxUS1BtUVBQd1hFeVFxaC1za2N6OFFZbzMwZnpWeENIVw?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "TSE usará rede de satélites Starlink para transmitir dados das urnas em áreas remotas - Brasil 247",
+    "resumo": "TSE usará rede de satélites Starlink para transmitir dados das urnas em áreas remotas Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzhDRGc3Q0RlR3Y1aExrV2R6NW96SU9WakIzYXpCclY3cXhnRlRwd1Zka0VabDBvcWNVcUNBTUotVy1Jd1UxLVBLNFFPT3Q1YS1UR2hBbzJVbDNXbGRJSENWRVZHeUZLejVpUGY4VFB6X25jWDRRaHNqUjlkY0VEeTNHVlNfVFBiU0QyakM0NzZIMXpFRkI1LW9XSUdFakNBd2o4X0lQRjFwMjQ1R040V0RYME1COEwteldz?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Enquanto Cristiano Ronaldo soma R$ 7,5 bilhões, jogador mais rico do mundo tem fortuna de R$ 110 bilhões - jornalcruzeiro.com.br",
+    "resumo": "Enquanto Cristiano Ronaldo soma R$ 7,5 bilhões, jogador mais rico do mundo tem fortuna de R$ 110 bilhões jornalcruzeiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOelpkS1lIVzA3OTRRZVFuREtMaGk3NXVncE91R3Rlam9CaTNnNlBGRmNmTXJPSDFNdm13eEdQWnBMYVBYbFVRWUFFaTFPMlRqWXhLRlZHQ3BlN2M0ZWY4ZjVacTN0a0VWMUJXanQ0N21hcTBkSTl0MW5WUjRUUnM1WFRwbWJZWXpua0VwWERZQUs1YUt6b3dJa3RsOUM5c29DRTM5ZWEzVnRCUC1IUmRfa1o4bWJBTWdUb2p0ZW9hNnVnZ2dpRXM5U0FtQ3hmOWxqRFFSSWtDbkdkZGotdmh3?oc=5",
+    "fonte": "jornalcruzeiro.com.br",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "KNCR11"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
   }
 ]
