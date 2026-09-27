@@ -1,49 +1,18 @@
 [
   {
-    "titulo": "Selic em queda pode destravar o PVBI11: fundo negocia abaixo do valor patrimonial - arevista.com.br",
-    "resumo": "Selic em queda pode destravar o PVBI11: fundo negocia abaixo do valor patrimonial arevista.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjBMWnRZTjhFWEE4WVpXVTkxc0k0R2tqdWphNDNkYWl2WHh2VmNMbDdIVThJLWhpajNUcnRYM010SkluSm9XckxmTDJuMFA5bVB1MUpzWUFvZHRwWnNEb2QweXZiRG5uUzNlTENlZ2FmMjV1Z0NPTngxSEhnWVhnTnVlY2UwS2RodXRLWnhvWXB2cWh5VWdnVzhncGlMZ1N2bVZOSFRMTl9FZFF4QXln?oc=5",
-    "fonte": "arevista.com.br",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "2b0c130ab075c09bebf17407d3ba0ec343771cd6b408ff8553cf9df107b15da9",
+    "titulo": "Banco Central reduz projeção do PIB de 2026 para 1,8% e prevê desaceleração em 2027 - O GLOBO",
+    "resumo": "Banco Central reduz projeção do PIB de 2026 para 1,8% e prevê desaceleração em 2027 O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUJnYXZYX2MtVW1oUENmWnpSMFBIalgtZUZWbVplQTNIaVdQR2djbTI4c0tPY08xbXNCMUR0bzJJS18yQVloYk40Zm05Rk1KUFNoS2tRZTh4RHhSaWd0Sm56cXpFdmN4QVFsdjM3NnZVUElxUktGb05VSlQ0VU9QLWFWUUx5UEN5SV9rNHAxSjlVOUY0Mk9tRDBzRWc3SEJTRDQ3NlJzc0RSTjNOYXVaclA3Z1htMkJRQUZ6OUVCai1VZnZpRldadNIB1wFBVV95cUxPZHBYaGJ6WVozVlNvVUpjSzdxLXp1X1N3UER1OTZVRG9OY0ZHN1AxbExuX3RhdEFxZXl2WGNqaWJTU19IMDRWbHo3SlIySXhONXU0ckMwVkRuZlpQWkRQTHQtVGdLVlFRSFNqSFdZN0VRVEdVNzNHQjBYNjdPT3c4XzF2Mmd1Z0hVeXNiNlZSWjNCVkstMGxaR2I4TmtBQXY3Snlpb3pyMXIxVEtPQjJJZW5wQ3Y4M3FhS3FyRGVpOUNpU0NPcUZwclpRcFVXUWpzSjduamR2WQ?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ed708331ac02130c7788b8eeeb6e9b90415162c640dda521f171d4272f43dc78",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Zanin leva ao plenário físico ação sobre IPCA em depósitos judiciais - Migalhas",
-    "resumo": "Zanin leva ao plenário físico ação sobre IPCA em depósitos judiciais Migalhas",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHUzVnlYLVN4S2VGT0JkWVBLWTVmY0tjejVBYjdUZmZXNUl6ZzFTMGpGQ0pob0plWTgxdkVjWXVTRkluNzd6Um1mRlZfaW10c0ZNUk5wOUZ6TmpCSkVrdDMyTmtaVUVRRjdmR1Z0WjY2WnZoaG1pMGIxR0VjR1VSV0lfcDU3VEtqT0NSV0w0N2lzcXRRbVc5LWFvVTRWaFp3czNsQ05uckQzdmpNVGlPUQ?oc=5",
-    "fonte": "Migalhas",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "22024d87f7605328bed82eb70f9f1fe3cf466bc043e317506778df1ca3024ed4",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -53,19 +22,22 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Juros sobem mais rápido do que cai ao consumidor, aponta estudo - CNN Brasil",
-    "resumo": "Juros sobem mais rápido do que cai ao consumidor, aponta estudo CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3Z5M0hGek1Nd3I4a3VDTjZpTmxCWDA0Q2ZIVHJvVVJFbjF2Ny1aZmRCNF9kdHBEQ2ZmMzdMcU9jZkR2QmNhSGZSS2lKY3V5eXFXTzM4S204b0lJX1FFNEVqV2pnMzA0NHFvMG1uWmVoYmZkeVpxRjllTkFvWDVIN3R4Tk0tYnQ4UWFsY3pPeFFvSHdGQmVjeVhpZ2x6STF1RXY5X3N6cHRDWnpEeTNrWHFyUjhSbVFuejRiVDN3?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Metodologia para reserva de capital em períodos de crise é tema de debate online - Fundação Getulio Vargas",
+    "resumo": "Metodologia para reserva de capital em períodos de crise é tema de debate online Fundação Getulio Vargas",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkxoZ043WFNuNG51NVI3X3djcUZsenVZQ2FUVXByeGllTEo3bTBvSnBtR00wVXR2aUp2SVZrZXFKWXVfRVUwaFIxdC1XZ1pURmt0U0c1by1ISG0zQnRLeVpzOWdRODhCRVd4cmoxZlNha2kzZzlBRTF5Y3h6YzJCcHRQNjNmOE13Mm1TcnZBSk5tc21KRnVlMGxQVUc2MG1VZ2p6M3dmaUQxMXVvSkFSdw?oc=5",
+    "fonte": "Fundação Getulio Vargas",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fe1f829eff5a0266456b807362c3a3666583581cd8be48f254d20266248cf340",
-    "ativos": [],
-    "classes": [],
+    "chave": "05173216c94d5e52ed650043d92398ef34a441f3c96eb9541266f147211f55f1",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
     "score": 9,
     "motivos": [
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar"
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
