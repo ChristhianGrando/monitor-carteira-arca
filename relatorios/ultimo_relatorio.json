@@ -1,81 +1,76 @@
 [
   {
-    "titulo": "Carteira recomendada: 5 ações para bater o desempenho do Ibovespa (IBOV) no curto prazo, segundo Terra - Money Times",
-    "resumo": "Carteira recomendada: 5 ações para bater o desempenho do Ibovespa (IBOV) no curto prazo, segundo Terra Money Times",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWMtR3ZHZTd3YVdaRGNaV3JLcTJqME9la21FNDgwajB1azFpRUplV3p1RUdYZUdOblp3RUxxNjBBNnNaY25rZ2piMDktbmN3c2FsVjY1eWJtY2IwRm5LXzUxNWF4Y3N3a0pzNXVGSUxqN2lqRHV1TTA0OXE0OXhvNVdFQWY4cHpPMHpFcllJRk5YWVo1cWNHcTVsQnFsd2dYZlZrbkh2SUM4cXZzREhrckxCaWRFSGU4Q0p3Ql9Vd3FYek01WXgyRi1INkcxMkU?oc=5",
-    "fonte": "Money Times",
+    "titulo": "IPCA-15 volta a acelerar e afasta inflação da meta, apontam economistas - Valor Econômico",
+    "resumo": "IPCA-15 volta a acelerar e afasta inflação da meta, apontam economistas Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGFUbGZ5MExKRHNTejhsTDJIN2tNZHBCRFZmRkxkZ2t6bFUtUjQ4ZWYxOE10NFh6X3gwdmMzMk9rXzVQYkhKb1kyN1NYeG5DSlc4UUhQaEZNRW5NZ0xETDcwYy1HQ3p6TnlxU1gtd3V0RHB1RW9SMl9RSnU4cnJLWVNmX0wwSUIxVGRHRXM0OVJVUDlNMG51dGpOQWdWb2tJaGxkZjdTRkFhdHRqOXpjM3dQazJOS3dMUnFTN3owdGNnZ9IB0AFBVV95cUxNTlczX3RfSFFPeHZ5STVkM3gwMXRmYjhkQ1N6cVduYzB0ZjRiRHh6UlhEandmd1djMXRtNDFmakxNLXFXOUwwaFBqQjgzeGw4dk1oUjNVV0NKMmF0cXV1eDhDUjZRQ0ltWEV0WE1fekF2ZWdXUm5ENkRYMDMweWRIRVgtY19GczVmUExQdjNTMEp1TlZxUV9JeWRFRjdLS0dwdUJObFlBMDVyU2JpNVNySmc1RFZsVERmTTBmS1dDdmtLa0hoX1A0YU13MWVFRG9y?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Rede de Elon Musk é contratada para transmitir dados das eleições - correiodobrasil.com.br",
-    "resumo": "Rede de Elon Musk é contratada para transmitir dados das eleições correiodobrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDlkODB6dVQxVjNMbWoxcVp3R09xU1djMjZYWU5rRlZPRGdyZFZjQzI1OEpwUk1JZ3FqWjlmcThGX2lWczIxUGlfUEI3aWJrN1I4NlRRQTIwWmR3MVpQSVdNUGFOLWIwRl8waUh4Zi1mMmdBZ1FLZUVMaWE2czU2UDFqbTAwUTlaNXFuSg?oc=5",
-    "fonte": "correiodobrasil.com.br",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "titulo": "Onde buscar oportunidades para 'travar' ganhos muito acima da inflação com a Selic a 13,75%? - Seu Dinheiro",
+    "resumo": "Onde buscar oportunidades para 'travar' ganhos muito acima da inflação com a Selic a 13,75%? Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRnlGRy1vcW9ISDFlTWZZZXR4VTJReXZlTUNqNDQ3NVNWUFdHVUhHeGhIbWlRUE8wT3JOMUhaNkY2cDY2SDNBQmQ1b0dCNEJxRFF4Mmhudy15R3RyWFJyWUpJY1NBVmsxOHgyTjE4bE1HN25FZjNCdHhCSmVNUUpSVlZuOXlLMmVTUElSenJJSFBFLXRXRzlfQ1ZXMEVhMzktRnZGeVNrdEkyd0p0OHhiTmtKbmNuMFpSNF9hTFRPdF9UVFhqOG1IQ3QydmlQRFhvbEZISXp6ZEZGUQ?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "SPCX34"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Meta diz que vai veicular anúncios para documentário sobre Elon Musk - Boa Informação",
-    "resumo": "Meta diz que vai veicular anúncios para documentário sobre Elon Musk Boa Informação",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDIzRFZDSlh5QW92emI1OVZueXpoenBfU0t1VWIyMkYwdzBEREZvQ3ZsZ2F0TTRQUFJDbzR6dV9xakJDRFpCZjMwTVl0RmJkc0IwSTg0R0wxUDZNdFREbFlLUkxfdm82NVpOdWFjNl9sdi1FTk5WVFdJUDJzSjlRYlRBU2RESDZuRXVIeHVnT01wTDRCdmt3RjVzNTZjdE5jeUZCODVwekpNdw?oc=5",
-    "fonte": "Boa Informação",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "titulo": "Uma possível saia justa no Copom de novembro | Intraday - Valor Econômico",
+    "resumo": "Uma possível saia justa no Copom de novembro | Intraday Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1BteEFJNEpiTUVsY1czVFpiVFpDWWl3SmxpLW5ZVUdhc1NsVW1adndIUDJSVHgwcm9jUzU3b1ZlZVJIb2xRc3g5U1NZUVNmSzM5UTExVzJoTHdEQUk5cFp4dFBxbVAwcmZ2bkx4YnJKWTJMTkNoTC0xcjRUZThMWUtBcEFmalhoaWVSVzQ2RVNtUGhVWkhBdXFYNXJVLThPMjk0TXJ5OXc?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "SPCX34"
+      "IBOB11",
+      "CDB 100% CDI"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "TSE usará Starlink de Musk em eleição sob alerta de interferência externa - Diário do Centro do Mundo",
-    "resumo": "TSE usará Starlink de Musk em eleição sob alerta de interferência externa Diário do Centro do Mundo",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNallZZnp0dUlrdHVKZmo2d0k2YVVObE9sTHQ0X1Nqc0FNVk5DdWtDUUtJM0ZWb1QxR0V4Y2dBUnZhbDJ5Q1k0bEgycks1R2cxSnNMbjczNG9PX05yWGEwZHN2b0dVZ1Y3OEI0bjhBXzBaQ2pQT1JaczVlMjNaQ2NPdzVEblBnNy1rWmdyOGVKelJ0QkhZMlA5cjVLZ2hudWlNUXF3eHNiWmRwOXRDVmItWjdQbmZSQQ?oc=5",
-    "fonte": "Diário do Centro do Mundo",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "FIIs na Semana | IFIX recua e fundos de escritórios em destaque - XP Investimentos",
-    "resumo": "FIIs na Semana | IFIX recua e fundos de escritórios em destaque XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjMxX1h2NGJlbUl1cmxZMTJoRW1ZQWIwb2xXUk9zTmRJay1pcEpNQ3R0d25XN1lwVHZvODU5Z0daSTVzZmE5R29STzBsSVdEYmtfS3l5WEZ3SmQ0aGY0eFpZc3hkMG5Va2E5MFo5TGpqR3ZRcy10eWh2aklzb1pLMHZSQ3NQa1ZtTVBUTHNrdk1sVm55RGVyMzUxdjBQMzdZTmI0QkhiVnY2bnhaVVM2bUN2TFNoTGkwbkRtbU5UWQ?oc=5",
-    "fonte": "XP Investimentos",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Banco Central reduz estimativa de crescimento do PIB de 2026 para 1,8% - Agência Brasil",
-    "resumo": "Banco Central reduz estimativa de crescimento do PIB de 2026 para 1,8% Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOGkwMXFYTWVmN0QwUU5lYVBRMEtESm5iU3NhWGY3bmR4bzRrUjVtblZsYmxTSVMtZG1qWDhnVVY2Tzk4WU9CQ0FhaWtNVms1MUt4VkF0ZkF1ZGF4cjNLT0diaHFTUXZlMl9IRnVNNC1sT09uR2hVc3pOMkRNenJkZUlLaDV1TThwQnZ5U1VlTFBwckQ0N2F6N0FnUlVjR25faVZfb1ZSWnVGeVhhZmRBcno4WXRBdXNiX0NxM093eTVFXzYtX1FwQ25JYXRCTTV2aXBvWEMteG4zMk1BSTlF?oc=5",
+    "titulo": "Ata do Copom atribui corte da Selic à desaceleração da economia - Agência Brasil",
+    "resumo": "Ata do Copom atribui corte da Selic à desaceleração da economia Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDRQa2hQZmYzTm5PV0QzN0p1WHJXRi1IVFFmS09vUDNra2VGOC1WRkhUTzJhSUxjQXM2YzlCUjJlVTA2X0RfUmtUenBrUFhkNXhvQWNqLWxvaHMxS1VhLVpuMGExay1va1VmMU8xdEN1UHJCUmhXS2hKeHJqOEZDLW1WOHVCZkVlRlMtMVM1cFZDTTVtR3VkN2xkbklfWE9IZTk4ZVM4cTBiMjlveUhQWUZHSVVaRWk3bjNz?oc=5",
     "fonte": "Agência Brasil",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Vinicius Torres Freire: Além de avançar sobre Supremo e PF, novo presidente pode refazer Banco Central em um ano - Folha de S.Paulo",
-    "resumo": "Vinicius Torres Freire: Além de avançar sobre Supremo e PF, novo presidente pode refazer Banco Central em um ano Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb1FrZDBzRDM3UzlOd1EweDVvN1pIVXR0OGtISzBNRTRtby1MVlZDOF9lVko1V21LV2FSaG9RanI0OUZSOV9sQnpYdTlwUmhqSk5oUUQwZXZDTVpfUzBBcUVHTWxfZzByLUhPUHVzX0JmMU9pWWM5YnhKdHV4dUFHaHhOemJsZ1pKQURTUjV0YzlyY2dhMmhZVHNNemlXS2lYOWR3dDlCUE0xM1gyS0g0VEZzdm9sQVYwdF8wRmZ0dUNfbjRjTzEzRERJUXhqcW5nLTluMmtfSXpzSkFEMlJrNkhzMUFDdVZ1aXc?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "TSE deve usar Starlink de Musk para transmitir resultados das eleições - TudoCelular.com",
+    "resumo": "TSE deve usar Starlink de Musk para transmitir resultados das eleições TudoCelular.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamZoNXFITzJpbWNmQ2lhbHlBNDBwR2xBRWZwYmtnTi1WU1h4MWU3dDBRRTVWM1RVbDBuRnJqMjlUZlZhRVdZaHJleXZMX084VDhiWGNTM1FyUzF3VWdqajJqcGFyZGhzLWd4OXVVYmxhb0kwN0NpV3B4NnhuTXBkWnBUTllfdFdhRGFXRTgtTG03OThMcmNONUY3cmJ1SV9aSkxkd1BWOVhUZw?oc=5",
+    "fonte": "TudoCelular.com",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Banco Central do Brasil e Banco Central Europeu iniciam fase de avaliação para interligação entre Pix e TIPS, sistema europeu de pagamentos instantâneos - Banco Central do Brasil",
+    "resumo": "Banco Central do Brasil e Banco Central Europeu iniciam fase de avaliação para interligação entre Pix e TIPS, sistema europeu de pagamentos instantâneos Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRkN2YVZJUnNrWDQwVmFvQWxMckZ2Zk1UbUc3dTdmQndqdUd0LV9XaS1jZUZVb20wYnNSZUhhaXJnMDFyUEtYTEpmZk5hOEhqOTBTckNqeHY3S0M3?oc=5",
+    "fonte": "Banco Central do Brasil",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
@@ -84,34 +79,10 @@
     "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Banco Central reduz projeção de crescimento do PIB para 1,8% em 2026 - CNN Brasil",
-    "resumo": "Banco Central reduz projeção de crescimento do PIB para 1,8% em 2026 CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1FlNy1YVy1yWVhqenB5U3lOVEppMkdzU3V3MnNHSWdkbGhYSXR4M3dEUTNKQW5XZTdsc1c0cFpoVXdSWmRmX2NQQWRCRmJ3UlNqai1BdFc0bzRqR0NyRzc3N0N1eUptZGZLZVRFbUhFa1Y1cm16Ty1qNHNoWElzUkNLQXczbS1IRml3aHo4d2FQa3hnUGpVd3JFWGw3eFViVjBBVDBHYzk?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "BCB e Banco Central Europeu avaliam integrar sistemas de pagamento instantâneo - Mobile Time",
-    "resumo": "BCB e Banco Central Europeu avaliam integrar sistemas de pagamento instantâneo Mobile Time",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXJBUzZmQXRqN3hDMTJTLTc1TzdYQWZKdG82YnhYbWRkVm56X3NHcEk4YWc1dnhkYkFtM0lfU0RBSjZxaG5hMldLeWJWemEzSVF4UTZjZm4xTFhNeGVHemdhUExRU1Q3Mm56ak5IQkY5NzNVU1E3RHM1SGQtSVRDekhOczk1S2VIMFRjMmgyQzV4T0xVSWdjODhqUjh2UUdydi14TUN4WFNZby1WYmNyWENXMjVDSUtwRnNVdFM1WUJLZkdXU3RQSg?oc=5",
-    "fonte": "Mobile Time",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Banco Central reduz projeção do PIB de 2026 para 1,8% e prevê desaceleração em 2027 - O GLOBO",
-    "resumo": "Banco Central reduz projeção do PIB de 2026 para 1,8% e prevê desaceleração em 2027 O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUJnYXZYX2MtVW1oUENmWnpSMFBIalgtZUZWbVplQTNIaVdQR2djbTI4c0tPY08xbXNCMUR0bzJJS18yQVloYk40Zm05Rk1KUFNoS2tRZTh4RHhSaWd0Sm56cXpFdmN4QVFsdjM3NnZVUElxUktGb05VSlQ0VU9QLWFWUUx5UEN5SV9rNHAxSjlVOUY0Mk9tRDBzRWc3SEJTRDQ3NlJzc0RSTjNOYXVaclA3Z1htMkJRQUZ6OUVCai1VZnZpRldadNIB1wFBVV95cUxPZHBYaGJ6WVozVlNvVUpjSzdxLXp1X1N3UER1OTZVRG9OY0ZHN1AxbExuX3RhdEFxZXl2WGNqaWJTU19IMDRWbHo3SlIySXhONXU0ckMwVkRuZlpQWkRQTHQtVGdLVlFRSFNqSFdZN0VRVEdVNzNHQjBYNjdPT3c4XzF2Mmd1Z0hVeXNiNlZSWjNCVkstMGxaR2I4TmtBQXY3Snlpb3pyMXIxVEtPQjJJZW5wQ3Y4M3FhS3FyRGVpOUNpU0NPcUZwclpRcFVXUWpzSjduamR2WQ?oc=5",
-    "fonte": "O GLOBO",
+    "titulo": "Banco Central propõe atualização de regras contábeis para reforçar convergência aos padrões internacionais - Banco Central do Brasil",
+    "resumo": "Banco Central propõe atualização de regras contábeis para reforçar convergência aos padrões internacionais Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3o2XzhiNm1qanJfV1A1Z1BXT09aZWRhVFZaazc0X2VKQXJfVzZpdENOTWwtcEtySjdJeUtGVmxUS1BtUVBQd1hFeVFxaC1za2N6OFFZbzMwZnpWeENIVw?oc=5",
+    "fonte": "Banco Central do Brasil",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
