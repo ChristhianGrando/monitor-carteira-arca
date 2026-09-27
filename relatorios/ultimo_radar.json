@@ -1,11 +1,62 @@
 [
   {
-    "titulo": "Banco Central reduz projeção do PIB de 2026 para 1,8% e prevê desaceleração em 2027 - O GLOBO",
-    "resumo": "Banco Central reduz projeção do PIB de 2026 para 1,8% e prevê desaceleração em 2027 O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUJnYXZYX2MtVW1oUENmWnpSMFBIalgtZUZWbVplQTNIaVdQR2djbTI4c0tPY08xbXNCMUR0bzJJS18yQVloYk40Zm05Rk1KUFNoS2tRZTh4RHhSaWd0Sm56cXpFdmN4QVFsdjM3NnZVUElxUktGb05VSlQ0VU9QLWFWUUx5UEN5SV9rNHAxSjlVOUY0Mk9tRDBzRWc3SEJTRDQ3NlJzc0RSTjNOYXVaclA3Z1htMkJRQUZ6OUVCai1VZnZpRldadNIB1wFBVV95cUxPZHBYaGJ6WVozVlNvVUpjSzdxLXp1X1N3UER1OTZVRG9OY0ZHN1AxbExuX3RhdEFxZXl2WGNqaWJTU19IMDRWbHo3SlIySXhONXU0ckMwVkRuZlpQWkRQTHQtVGdLVlFRSFNqSFdZN0VRVEdVNzNHQjBYNjdPT3c4XzF2Mmd1Z0hVeXNiNlZSWjNCVkstMGxaR2I4TmtBQXY3Snlpb3pyMXIxVEtPQjJJZW5wQ3Y4M3FhS3FyRGVpOUNpU0NPcUZwclpRcFVXUWpzSjduamR2WQ?oc=5",
-    "fonte": "O GLOBO",
+    "titulo": "Onde buscar oportunidades para 'travar' ganhos muito acima da inflação com a Selic a 13,75%? - seudinheiro.com",
+    "resumo": "Onde buscar oportunidades para 'travar' ganhos muito acima da inflação com a Selic a 13,75%? seudinheiro.com",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRnlGRy1vcW9ISDFlTWZZZXR4VTJReXZlTUNqNDQ3NVNWUFdHVUhHeGhIbWlRUE8wT3JOMUhaNkY2cDY2SDNBQmQ1b0dCNEJxRFF4Mmhudy15R3RyWFJyWUpJY1NBVmsxOHgyTjE4bE1HN25FZjNCdHhCSmVNUUpSVlZuOXlLMmVTUElSenJJSFBFLXRXRzlfQ1ZXMEVhMzktRnZGeVNrdEkyd0p0OHhiTmtKbmNuMFpSNF9hTFRPdF9UVFhqOG1IQ3QydmlQRFhvbEZISXp6ZEZGUQ?oc=5",
+    "fonte": "seudinheiro.com",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "f35c32ef61a7593e6d4ffd6efb7758745fd18da94c7c50e498a538fdd5e22327",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Uma possível saia justa no Copom de novembro | Intraday - Valor Econômico",
+    "resumo": "Uma possível saia justa no Copom de novembro | Intraday Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1BteEFJNEpiTUVsY1czVFpiVFpDWWl3SmxpLW5ZVUdhc1NsVW1adndIUDJSVHgwcm9jUzU3b1ZlZVJIb2xRc3g5U1NZUVNmSzM5UTExVzJoTHdEQUk5cFp4dFBxbVAwcmZ2bkx4YnJKWTJMTkNoTC0xcjRUZThMWUtBcEFmalhoaWVSVzQ2RVNtUGhVWkhBdXFYNXJVLThPMjk0TXJ5OXc?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ed708331ac02130c7788b8eeeb6e9b90415162c640dda521f171d4272f43dc78",
+    "chave": "86ebafde8a60125e97033812bde4743e638f681da517c7031f197230cf1088cb",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central do Brasil e Banco Central Europeu iniciam fase de avaliação para interligação entre Pix e TIPS, sistema europeu de pagamentos instantâneos - Banco Central do Brasil",
+    "resumo": "Banco Central do Brasil e Banco Central Europeu iniciam fase de avaliação para interligação entre Pix e TIPS, sistema europeu de pagamentos instantâneos Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRkN2YVZJUnNrWDQwVmFvQWxMckZ2Zk1UbUc3dTdmQndqdUd0LV9XaS1jZUZVb20wYnNSZUhhaXJnMDFyUEtYTEpmZk5hOEhqOTBTckNqeHY3S0M3?oc=5",
+    "fonte": "Banco Central do Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "49f170c183aaebe0de8e51abe2c50c8d0abe0e146d326bb3108004f22286e542",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -19,27 +70,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Metodologia para reserva de capital em períodos de crise é tema de debate online - Fundação Getulio Vargas",
-    "resumo": "Metodologia para reserva de capital em períodos de crise é tema de debate online Fundação Getulio Vargas",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkxoZ043WFNuNG51NVI3X3djcUZsenVZQ2FUVXByeGllTEo3bTBvSnBtR00wVXR2aUp2SVZrZXFKWXVfRVUwaFIxdC1XZ1pURmt0U0c1by1ISG0zQnRLeVpzOWdRODhCRVd4cmoxZlNha2kzZzlBRTF5Y3h6YzJCcHRQNjNmOE13Mm1TcnZBSk5tc21KRnVlMGxQVUc2MG1VZ2p6M3dmaUQxMXVvSkFSdw?oc=5",
-    "fonte": "Fundação Getulio Vargas",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "05173216c94d5e52ed650043d92398ef34a441f3c96eb9541266f147211f55f1",
-    "ativos": [
-      "KNCR11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
