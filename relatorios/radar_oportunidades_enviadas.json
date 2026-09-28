@@ -1,22 +1,5 @@
 [
   {
-    "data_envio": "2026-08-16 07:45:06",
-    "chave": "04b9eda78d7c82463efd275ec472670fb11d9b5e67bb4873027eed58a74cb14a",
-    "titulo": "Coren-SP faz visita instucional ao COPOM em São Paulo - Coren-SP",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JLU9yNklOSG5teVg5X2xoNWJYSHVKckVKRlBnNVFGZnNaUnhJSzJDMlVEU0VhM3puUnJxbzByM2l5c0w5VHVQcHo0bFFSdTJRYkQxcm44aG1YWFU?oc=5",
-    "fonte": "Coren-SP",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-16 13:00:26",
     "chave": "9f3f5ab3bf1ed5ba7f80ed910dd75d91502b34a89a0afb53971d01e3eb61bca2",
     "titulo": "Bolsas europeias superam mitos de crise e Stoxx 600 acumula 10% de ganhos, pouco abaixo do S&P 500, aponta Goldman Sachs - Times Brasil | CNBC",
@@ -17477,6 +17460,25 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-09-28 00:46:38",
+    "chave": "0cfc9b881f702c37e6e98c531701cca7e4db62be074f1ad434c5b53d7febbc80",
+    "titulo": "Fundos imobiliários rendem menos que a Selic, mas queda abre oportunidade - A Tribuna",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjZqX2xmbndIVl9RTUpGSXVLb3Ffc3hBbHNhUGJMSHNmblBJMlBSNFVZUF9KN3RmSFhGWTRRTmhFbERLRTNNRVVxR0RBcE5CZWlDWF8zV2xWTkRkdHVrSzBZM19UYjdvSkwtb0ZuN3FFZUprWS1nazFkd1JHTjU3TnU5SEwwRDN1LW1tVDNrNW1XQm5rVnJjWlphd2ItdTZPTUdjV2VYdUNsVS1ZckJocmxLNTdRRVR0MVN5cUJRVWs3eS0yN2xXLU1fQWRSV0c1ZnlXYU1IRmRfQQ?oc=5",
+    "fonte": "A Tribuna",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
