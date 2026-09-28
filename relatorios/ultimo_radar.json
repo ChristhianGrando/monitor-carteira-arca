@@ -1,65 +1,11 @@
 [
   {
-    "titulo": "Ibovespa cai com petróleo, inflação e eleições no radar; dólar supera R$ 5,20 - VEJA",
-    "resumo": "Ibovespa cai com petróleo, inflação e eleições no radar; dólar supera R$ 5,20 VEJA",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVprX2xkLUhUblZxMEtlWGtRVHJrZkVDdjdVd2paSHJKRk13eTU3YThxaHJOQmFmRnoxN1FuSG9VZU1rNTkyemtnQjlwQzNFRjEyNHJPektodlIzNDZqX1hmY1p6X3lnZHIySzByaTdjc0QzdDRRNDl5Y3l3UmdSTVNUaG4zODkzVjl5Zm45RU9mRC1UR0ttSjRKdzVkdXo2MFJwY01rN05zN2JhMXc?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Dívida pública total atinge R$ 9,29 tri em agosto, e parcela atrelada à Selic tem novo recorde - Folha de S.Paulo",
+    "resumo": "Dívida pública total atinge R$ 9,29 tri em agosto, e parcela atrelada à Selic tem novo recorde Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOFotejdzeEotZDc0Sl9pd2oyRlR3OGR3dldSdHkzVVF1OU9ZU1FadU82SWE0OGpNWVpKckthSE5fWnU0emczbmVPRDYyYTNPdlltX0tiNHBWdlZJenVKeXhxMXJ0bzl4Qm1SazN4VDl0QlY4TXRjX3VvZVFLZkZXSVo2QnZOR3RTeHlaSGlxSHkwTG1GNUUyV0EwTlpOR3lZLU94NHlKT01vNUVXWkZ4MTJsMUVvV3VLdlpfRmwtUWtsZDREMTJINnlFVUhHcTFEY3lpOGo1QmdJSzg?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1912074c29b02d6b5202c98ec30b14f7f6f45426ad2dc7f164687b8cedac5bdb",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar e Ibovespa fecham em queda, após prévia da inflação - brasilagro.com.br",
-    "resumo": "Dólar e Ibovespa fecham em queda, após prévia da inflação brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXV3ajF6SGRxbkhMMWdLUWpGcUR1SlpOczJYSm1mcFk2Y1ZUNVBVby1HcnV0N0hkNTVET0d4TWx2MjBBQkJoYmNoMmxUZjJHUFBGejk3ZUhHamF6VmlRTTR2TnJSYUdROEF4ZkNJR3NKbjd6cTktZWdjRmRzTWVDenBzX2JVeWtWSE96MU5ROFFPLVJMeEFNVHJNZ2Z5dDUwRDI4?oc=5",
-    "fonte": "brasilagro.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a874a1eda8aca263f491b26d45512865ccb81dc6f1de0d4b8dbe2fd073f3aa12",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado eleva projeções do IPCA de 2026 para 4,99% e de 2027 para 4,31%, aponta Focus - Valor Econômico",
-    "resumo": "Mercado eleva projeções do IPCA de 2026 para 4,99% e de 2027 para 4,31%, aponta Focus Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNTZDZWZfMEQyWXgyZlBXQ29UYVluMDdGeHpRWHBFTk1EVHRLMXl1enM4dEtKeUNHOFFGOHNHdVg3VnFnU3VlN1JwVmpKQlBSS2VNU0l2VS1nOTZZaE1PaERIa3gzY3BpeFBCWm5XRGR4Sk1vcG9KUlVycnJ1a0I4c0VVSEQwNUFDcGZVNjduMG0wcGFESDlOeXMwbmNyaHF2Ny1OUy1uQ05ZcHhUci03al9uZk5pNjl6Nl9TRHZpbGlUUUFpbmlCd3RmRkFGeGFBdkkxdnpTQjBnUFZ5cXBqSnNPRE7SAfMBQVVfeXFMUDRjRWVsUDZGS2huaWF4TkM3aXA4S29GcHpDcWViZ2VjUXN3aWlXTWtpUFdvZFNhMU81QkYzWVhmVmc5X2VMd2J3S3VLdVgxWTJZMFpNZE0tZURlMXc0MFhGb1dWVTVIYzk0R05oaGM5bk9JYWI5bTZDMnZRY19jZVcwQ00tQzlSdUc2dFlTUHRoMzYzWlVTTVRZMU4zemRRMzJOamV3a1dvTklYM2JaTk9lSXZjMWJxS3JBSW94NVVDSHRPSUdRRTVqY2NSNU1CTU82QkwzRC1saGVGblQzaDZzMjNTR3NUWjZmZHdzaTBxUElv?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f1275d922ceb5eb41f1ec6e0cc3e2a0de4c63745ab16333f99049cc813556979",
+    "chave": "db87589c424849fa7c0e6903d4d7123a1f624ec3f41dd739699dbad3c29b0ea6",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -80,12 +26,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Focus eleva projeção para inflação 2026 e estimativas mais recentes já passam de 5%; Selic estaciona - Estadão",
-    "resumo": "Focus eleva projeção para inflação 2026 e estimativas mais recentes já passam de 5%; Selic estaciona Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNG83NTFmT1VZdDdONzUtVmRHUE9RcFRvMlZEOGJBaGZyVXNRWGFtYVlNRllna0YwTlNVMm5pcnVfLUdnUGRPTUFZVXhRQ1IwS1FUeWlTWkxqM2prai1uUVZKdkxfX1cwWGZNaHBBc09hOG4wUnYxU3RyMjJhMU5TbFR5ZkJDRVgyYU5mbzZhcG5CczhZX1lTN1kwdzVQZUsyZWRTUXpGQWFOVmlDc2NwOXdIT0RXM29XVUk4UFZtYnk5SEpJMFNWdm04Vkg0cC1tLVFzazdvTi1qbXAy0gHiAUFVX3lxTE1wNTUxVm54ZHpvbHhGV3dET1I1SFJpMzZ0V1ZQWjZWa2Q2LTF0X1hqOHhneVNkWkd6YW5GVVZwcUFROEJiT3BIMjBrd2RmbXp6YjFXN0FTTi1XZXNBTTAzWllPVDNScnAyYWctMEFqMHdhS3R3RTAyeW5temo2dzZJX1lXU0ZyVEswWnhLZktGcFNCQ29tU09sU0ZQMUdtaC1fUzU2NVRKZ2V6djMwM3N3cEpVMlJTRkZPY2pzY2Jzenp1c0VRU29MM2NNMkg2bHVpWEd1OU1xdmcxRDczdlhvTFE?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Renda fixa paga até IPCA + 7,68%, mas inflação volta ao radar; veja os destaques - suno.com.br",
+    "resumo": "Renda fixa paga até IPCA + 7,68%, mas inflação volta ao radar; veja os destaques suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mZ3E0YzgzRHBpM1h4ZG1Ca1FEcXNvNUZQemJaU1V6SXZFY1FPNDRlb1ZuUjkxTXpiOF81WFBpM25rNUlRQ1FBd0cwZ280RWdJNWZ2anl4cmNHSEh2VnNOelNkMGNRTDF2bXpjU2p4ZVdFZXdqX0t2UmFiSdIBgAFBVV95cUxPbndNcHRHc0dNR2NQWGItTjhZeVlqSV9lbnJ1aEVsblJwc25DdlJ4WFpHX3Q3bHltWU9DV0dTY3B4VXM3clQ1YzMzUjI5dUo5ZmZjVkF2eTdreFppbjJacUhYUkhrU2NSWW5rUW1VZFNXQks2TUtSZ3o1dXFnTmpVVA?oc=5",
+    "fonte": "suno.com.br",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "035eed11c988150c457fa390a5c4a4f56e93c39d30b0b55d20fca25e81b26cb5",
+    "chave": "059436e60595f4de7a47cc9555a48a78a0591f7c7688ae29319789b2d24131ac",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -106,12 +52,60 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pesquisa Firmus mantém mediana do IPCA de 2026 em 5,00% - Canal Rural",
-    "resumo": "Pesquisa Firmus mantém mediana do IPCA de 2026 em 5,00% Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRldHanhfZm9RWG55ZklCajZXOEZCZnB5dk1fZjloUHkxNV95SWRJc1BWMVl6WXpDeXhSZVBKT3NOSlFldmRMN1VVRm1vWW05TTlvY29HRHZ2Q01fZ2JIN05DbDF4SjVyOHUzSEN1VUg3ZEplb1dGb3oybnRXMGVsdXFyX05zSkJTb2FLa2gwQVBNOUlCUlJ2Nw?oc=5",
-    "fonte": "Canal Rural",
+    "titulo": "Empresas veem IPCA de 2027 em 4,5% e PIB de 2027 em 1,5%, diz BC - Poder360",
+    "resumo": "Empresas veem IPCA de 2027 em 4,5% e PIB de 2027 em 1,5%, diz BC Poder360",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTlwYUtoRVRvRzlfclQ3Z2V1WV82aHlJR3R3ZmJoeFRneFNDWDdhMmZ0QmJtdXdwVHpFc3l4M3E4N09oVzZiV2xxQ2p4STUzUEpNUk5zLU03clFacVFSNXdvU3RPUjFTNzBTT0M4R3ZrWE1tUmJTMWl1UnVoN2xvTWF1aGtzeU9IRG05eGJET3dWZXpvdVpuYjhQUlJaMUVacWhvNGVB?oc=5",
+    "fonte": "Poder360",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "808d5af93e5bc1473fddebba4045070aea7d7d6d6118b1b90039bc33b6a9dd07",
+    "chave": "46d72cd2aa0f7461eefa319abc84f77e5983c3f0df4af47ef4ee159169be82b2",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã - UOL Economia",
+    "resumo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU0dOQ1pNZTliQl94amgwZElMUkdsR2NrbDJ5VWwzUUhaOU9LQ1ZVdHFLcmdfUXhxNHRRMHZfeXNmcGdNVWpFVUx1c1NYaENGb0ItdTBNa0h3cjh3M19kSjExa1BPN0tBWXJsSGZ4RlpfaWR5eXVHYVJCeThxRy16a1VXMG0yUFhqUVZJT3AxVWJFTElhdEliR1hPcXZTdDg5ZUJOaVI2ZmdCd3FsZ09pYWtCeGN4eDI4UVJQZTBJbnJXOUJRdEpHYnN0dHZkUWtVcHRJZzVJS2F3RENrLUE?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "dedd0e588a780e0496bbd1bd5a7d9c75b9d87e53005c47ddea3ec9244e46dfb3",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central: Pesquisa Firmus eleva projeção do IPCA de 2027 para 4,50% e reduz expectativa de PIB - ADVFN",
+    "resumo": "Banco Central: Pesquisa Firmus eleva projeção do IPCA de 2027 para 4,50% e reduz expectativa de PIB ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXhweVFWY2JmbU94c0d2clY5WEJZdlVoMkExeDQzVmpWSEFwam1nbW1YaDhzRkdmU3MtU1lpNDhNRjBvUy15WnpqRElWX1VmZGQ0MU5MQV9uLTU5anVLeEQ1ZXlkSnJhQlpSanFUN3BRSTMwT1JHQmI2RGVMYUlTOFFBX0ZuT2pXTXNaaDhuQWp4WS1FaTVyQ1RqbURRc0hCVklDM1hGY1kzWWM3M2pTLVVya3NIMjF1QmtEN3c3M214ZE93Q19WRUZKblZBUQ?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "364320f237c88cddc7a4aa39408450ed714163fa50a89e8bf6dea66579384a4f",
     "ativos": [
       "IBOB11",
       "KNCR11",
