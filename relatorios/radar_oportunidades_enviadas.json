@@ -1,22 +1,5 @@
 [
   {
-    "data_envio": "2026-08-16 13:00:26",
-    "chave": "9f3f5ab3bf1ed5ba7f80ed910dd75d91502b34a89a0afb53971d01e3eb61bca2",
-    "titulo": "Bolsas europeias superam mitos de crise e Stoxx 600 acumula 10% de ganhos, pouco abaixo do S&P 500, aponta Goldman Sachs - Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHZzTldHMnJkSlROY1NraHk5M3JEbjZ1TFd0NGlmeDlZMDFoenA2enUyTVN5QmRQekIyY3A2V3ZvOUNCcmRUOEh4ZldlMUswc0VFbmVHZE4tdExJQkxXSGVxLXkyUjVjYlBpR3Nvb3NOWlpyUXFtdklVNEc1SGdMaWZDTlJ6TGR4MnhLdGwyNFVPdE8tVG1V?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "score": 10,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11",
-      "KNCR11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-16 14:39:02",
     "chave": "31350171f8005c017c37f57a46d497c4987c6ac050a8b04c9380fb8e9e712529",
     "titulo": "Trilionário por dois meses: entenda como a SpaceX fez fortuna de Elon Musk despencar - Francês News",
@@ -17479,6 +17462,21 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-28 06:54:33",
+    "chave": "f18096114cd13ea51fbe56e01299fe99b17c94f67e286c8144c411256179461e",
+    "titulo": "Banco Central reduz projeção de crescimento do PIB de 2% para 1,8% - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2FUekFlU2tjVnFIYnJVVVpWV19SMUhFTU5ldmhkUzdKMHZvYWE5VXliWTN6LUF3YjZIS2YwSVdXSGxUb0dwSXVUWlJnS0tYM2NYY2V4Nlh3MGhLOVFudnRKWmdoU0tBZkJuMUlKa3FXUnc4Zk1WaENGWlhFOE04RmtDaDB6SXPSAYwBQVVfeXFMTk1peXNJQ2FLNEhIeE4wY2pWZi0ybTdLbzdRcXhxTVhwSmNyaU5Vdk4zTHlHVVBtU21wVGNheF9WaWY0c2VtcXZDTVk4NzJwWGdQVjVkMVlwWnpIUVRIY29NSkY4RzVtblpVMmNhLThRTnctMHF4blh4dWpSTW5WTjg0SHEyeGMxXzJkcm0?oc=5",
+    "fonte": "Estadão",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]

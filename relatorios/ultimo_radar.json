@@ -1,29 +1,24 @@
 [
   {
-    "titulo": "Fundos imobiliários rendem menos que a Selic, mas queda abre oportunidade - A Tribuna",
-    "resumo": "Fundos imobiliários rendem menos que a Selic, mas queda abre oportunidade A Tribuna",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjZqX2xmbndIVl9RTUpGSXVLb3Ffc3hBbHNhUGJMSHNmblBJMlBSNFVZUF9KN3RmSFhGWTRRTmhFbERLRTNNRVVxR0RBcE5CZWlDWF8zV2xWTkRkdHVrSzBZM19UYjdvSkwtb0ZuN3FFZUprWS1nazFkd1JHTjU3TnU5SEwwRDN1LW1tVDNrNW1XQm5rVnJjWlphd2ItdTZPTUdjV2VYdUNsVS1ZckJocmxLNTdRRVR0MVN5cUJRVWs3eS0yN2xXLU1fQWRSV0c1ZnlXYU1IRmRfQQ?oc=5",
-    "fonte": "A Tribuna",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "0cfc9b881f702c37e6e98c531701cca7e4db62be074f1ad434c5b53d7febbc80",
+    "titulo": "Banco Central reduz projeção de crescimento do PIB de 2% para 1,8% - Estadão",
+    "resumo": "Banco Central reduz projeção de crescimento do PIB de 2% para 1,8% Estadão",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2FUekFlU2tjVnFIYnJVVVpWV19SMUhFTU5ldmhkUzdKMHZvYWE5VXliWTN6LUF3YjZIS2YwSVdXSGxUb0dwSXVUWlJnS0tYM2NYY2V4Nlh3MGhLOVFudnRKWmdoU0tBZkJuMUlKa3FXUnc4Zk1WaENGWlhFOE04RmtDaDB6SXPSAYwBQVVfeXFMTk1peXNJQ2FLNEhIeE4wY2pWZi0ybTdLbzdRcXhxTVhwSmNyaU5Vdk4zTHlHVVBtU21wVGNheF9WaWY0c2VtcXZDTVk4NzJwWGdQVjVkMVlwWnpIUVRIY29NSkY4RzVtblpVMmNhLThRTnctMHF4blh4dWpSTW5WTjg0SHEyeGMxXzJkcm0?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "f18096114cd13ea51fbe56e01299fe99b17c94f67e286c8144c411256179461e",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 15,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
