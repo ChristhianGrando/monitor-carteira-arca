@@ -1,63 +1,111 @@
 [
   {
-    "titulo": "Selic Preocupa, Mas Parcelamento e Mounjaro Animam a Espaçolaser (ESPA3) - Forbes Brasil",
-    "resumo": "Selic Preocupa, Mas Parcelamento e Mounjaro Animam a Espaçolaser (ESPA3) Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalRxQWJpU0NyUm9hZl9BOXFMLUY4czdZc0N0QUg3TWlHSjJTQ25BZEJWVWFnX0pnRTBhWkN4ckdpaDVzQjFUSTJLTkVENUdIRllRRVJWek4xWk1PbXhDRVYyZzBMUy13dUdZeHE1ZnVBQUFaZFl5UDh2TUdSUjNZR3VzSmN2SVBCdFJuQ3lONA?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a4d9ec0a24e8b6df5238a22561d7add86ee07b122a536e0a9acea7a72b22dcad",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado projeta IPCA em 4,99% e PIB para o ano - aciara.com.br",
-    "resumo": "Mercado projeta IPCA em 4,99% e PIB para o ano aciara.com.br",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Ri0wT2pRTzZ2dUlNM1pkYmsxQVBpX2Z5bmZOalhsWUZJLWhSMUFJbGVURXR3SmJqQUFOakYzMUdlMks3bUlWMThsX1ljMDV5TmFNN0JBZ3FsNXk2aEkzVzN2QW9JMHZmNHNR?oc=5",
-    "fonte": "aciara.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c2cd4c26084e6908534ff4289040e7672c93f6b27d1bc4482d91236e81ae14ea",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Focus eleva projeção para inflação 2026 e estimativas mais recentes já passam de 5%; Selic estaciona - estadao.com.br",
-    "resumo": "Focus eleva projeção para inflação 2026 e estimativas mais recentes já passam de 5%; Selic estaciona estadao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNG83NTFmT1VZdDdONzUtVmRHUE9RcFRvMlZEOGJBaGZyVXNRWGFtYVlNRllna0YwTlNVMm5pcnVfLUdnUGRPTUFZVXhRQ1IwS1FUeWlTWkxqM2prai1uUVZKdkxfX1cwWGZNaHBBc09hOG4wUnYxU3RyMjJhMU5TbFR5ZkJDRVgyYU5mbzZhcG5CczhZX1lTN1kwdzVQZUsyZWRTUXpGQWFOVmlDc2NwOXdIT0RXM29XVUk4UFZtYnk5SEpJMFNWdm04Vkg0cC1tLVFzazdvTi1qbXAy0gHiAUFVX3lxTE1wNTUxVm54ZHpvbHhGV3dET1I1SFJpMzZ0V1ZQWjZWa2Q2LTF0X1hqOHhneVNkWkd6YW5GVVZwcUFROEJiT3BIMjBrd2RmbXp6YjFXN0FTTi1XZXNBTTAzWllPVDNScnAyYWctMEFqMHdhS3R3RTAyeW5temo2dzZJX1lXU0ZyVEswWnhLZktGcFNCQ29tU09sU0ZQMUdtaC1fUzU2NVRKZ2V6djMwM3N3cEpVMlJTRkZPY2pzY2Jzenp1c0VRU29MM2NNMkg2bHVpWEd1OU1xdmcxRDczdlhvTFE?oc=5",
-    "fonte": "estadao.com.br",
+    "titulo": "Inadimplência das famílias sobe e renova recorde em agosto, diz Banco Central - O GLOBO",
+    "resumo": "Inadimplência das famílias sobe e renova recorde em agosto, diz Banco Central O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVWFoZHd6OTMzbnZ1QzU3djlsaTgtZlRiVklJWUJCbEQ5SnlDTFd1eXpRS250VXJmR05MLVo2cERjNmNUQldIb2ZWdE9LNUtvMXo5a3YzRnN6ellLNEVFelpQM1I3cHJGYXpTQ1psZEdGdWxQY1VUbmQ5YVJ5UWJQcDQ2Wno2cUR4SV9MOXV0Q3FQd3hWcWgwQlkwRDcxbTljNkxHNUk0ZFNNRVlZRlk2c3llQ3E1U3RxcjF0RnpLYURxcEE2eDlDeDdfb1YxalFQ0gHfAUFVX3lxTE5sWFpzcnoxREM1UlF1X0pPdFk0eDN1RWVVT3o0dFlpeXdMckt5NmpMUzZ4OHhMQ2J0cHRJajNtUWFTd3FUVHladE1DVzU0bFBVcF9kdTJaemdTNlMtRVl5MngzM1piTTQ3Y2NzVVUzNUNUYzR2Qm9TYWY4ZVVOUzlHbk9ZaDhlQVoyRklLRmxMUjlQUjl1TEJQeV96MkRYZDg5TEppeWQ0WEVTNE1XUzdtMkd3LXVadUtLR0M2ODlaWkg3NFNsR0wwWmdBNmI1UnN6MUNheFloSnJDSjMwQUE?oc=5",
+    "fonte": "O GLOBO",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "145f8acce43e4835848a44a70efb76fd828368c88af8bc9446ef5804ba604112",
+    "chave": "9279e7440aeed292dd64a0242c1f3310186a31c4c30f2a3e536a53a9fc17a60d",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inadimplência bate novo recorde em agosto, segundo Banco Central - CNN Brasil",
+    "resumo": "Inadimplência bate novo recorde em agosto, segundo Banco Central CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMS1pVlZiZ2VzNHlNTmdIRm1UMnZmaWZlREQ5TUxCNUVtd2ZrWk1sNUE4VWpUQ2UwTjN0Nkp0dzNFaUxSZ2NUR0dMLTZXbE91R0hWWFVlUThlUE9WTHp5MjhKZ1VvdzRzdmJOUWhuSDlqcDFWeXQtdEt4VkxPWTNzdFg5VkliRTUxWC1xbmxQb3VySlVHY0NTTGs3elhYb1Jia0wtb3NiU3ZrQUFyX2FaNXFVZkh5amFBbDhvMEFkQQ?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e772e8a3cae71b5cc6418978d222827a2e432aadf680ad2e28f3ff4368b500c2",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inadimplência bate novo recorde em agosto, segundo Banco Central - Brasil 247",
+    "resumo": "Inadimplência bate novo recorde em agosto, segundo Banco Central Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkNSSkVIendJQnZxSWhCMHJpZXVyLUR3WGZKOWd5alluUW50bUppbmkwM3daOWVhUml1N2xFVEIxcDhFdDVfd1pCcHlhM0h6UUg4RmV0WnRWT1hIaTJaSTBLUVdmS1hpNl9McjluRnM5V3pMRGhCeDFpbTNKUnpiaVkycFNKa0dDSHZUbE1ZUG1WNlVqdnBjeDJTZVlheW1W?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7c8af7b31aa4a4460dffe7ea13a401a5a42b45ece252fad90455786793102713",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inadimplência sobe a 8% e juros para famílias também avançam, afirma Banco Central - Times Brasil | CNBC",
+    "resumo": "Inadimplência sobe a 8% e juros para famílias também avançam, afirma Banco Central Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVRQZFZWa3BpbXV4dGF3WWZZcURpRnI5d1pMZ2ZHMjZZYkdmbDQzNWpmemdtME0xWWprbWdZR2JnY1dSU0FvTXZCYTEzalRzV0RIRldkTTBpWHh6TTgxeXNIMzRyWnVQNDZ4bVhUUzg2ZUxJUHgwbDhzSzhKdHdUT3hkWjdxYkpqVGdOX25zb2ZUeW9xMjU4NVY2bWJFenNWeGoydTROTmJidjY4SHBqV3E5ajBvQQ?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "aa2af992c824fd08d7167b5cfd7f9463b2cbf63de1dd26c47401600dd78db9d0",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ganhos acima da inflação: por que investir em ETFs de IPCA+? - suno.com.br",
+    "resumo": "Ganhos acima da inflação: por que investir em ETFs de IPCA+? suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tUGVvTzVwaEVQb1VZQUhYbWlwN0p3Q3BqMmhLQ0xJcFlKX3V4VTRlWFJxTUd1VldlSnhUTnBPdEIySHFIYVg5bUVJaWNlc090YWM4Y05PT1ZHTGFCcG50ajlqZXRpVzc4OUNybXJVU2F2czktMXVVdEVjS1DSAYIBQVVfeXFMTldYRDdmcUJNVEpvSDRYd3NaXzRINDE4QmpjN2xCZ3pDTDhsU3QyX3dmWVZmZHNqNTR0Nm1UMUdMajNRT0F6dXAwamVzZldnQ3dudERxX2RqeWhYNVNLWFI2d19lZ2ZkdG04cDJsSTJqTHNDLTNGQU02d2I3ckd2RDBlUQ?oc=5",
+    "fonte": "suno.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b3d07a653c8b50f1cbd9362b2079e28344866848781dce0ef3d1dc26d868d60e",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -69,52 +117,6 @@
       "Real Estate / FIIs"
     ],
     "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar sobe a R$ 5,22; Ibovespa cai 0,26% - brasilagro.com.br",
-    "resumo": "Dólar sobe a R$ 5,22; Ibovespa cai 0,26% brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjZ0bGJMQVc5b2NINGJRbmpQRFgybjVCZy1Zc21fVWhMZTBtZzRmSXdGcERDR2l6cnhpbXBVYkRHRVlEUzNWUDYyMHBXT0JlYlFrbWJ0YktsdnRpUE5lSW01X1FfclNDZS1YNDFiMjc1cjZTc3hDWDg1X2VET0ctWVVhakJZZw?oc=5",
-    "fonte": "brasilagro.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "456b63a9feb27c1fb4122c2b373154cdc62888853314fba285c70297b74a03b9",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado eleva projeção de inflação para 4,99% e reduz PIB - Agência Brasil",
-    "resumo": "Mercado eleva projeção de inflação para 4,99% e reduz PIB Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0ZQRnZ4Vm1vQ3RFYW9VUnF1X3JfZWVaUG5nTGFZQ2M1Y3VUV1FhUWUxdEFVMk5PN3c2NVRuSzhMR0xQdFlDbktRa0RIU0dnQkxzZGpwRmhTN0lJbGdFajRaU1NIT0w2cHYzNzdRUWNONXc1MFJwV3J6U0dZV2t4aDVSWWlWNnlXZUpTUDZCU214NUNDSzFuaHlhdlg1RFNvWTdnZndNOXRRQ0ZWNEZKSHkxeWs4dw?oc=5",
-    "fonte": "Agência Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e94d7a2ad638bd763b07fd1c1a596391541529463319d7cdcbb95df69e216a7c",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
