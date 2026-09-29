@@ -1,37 +1,9 @@
 [
   {
-    "titulo": "Mercado eleva projeções do IPCA de 2026 para 4,99% e de 2027 para 4,31%, aponta Focus - Valor Econômico",
-    "resumo": "Mercado eleva projeções do IPCA de 2026 para 4,99% e de 2027 para 4,31%, aponta Focus Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNTZDZWZfMEQyWXgyZlBXQ29UYVluMDdGeHpRWHBFTk1EVHRLMXl1enM4dEtKeUNHOFFGOHNHdVg3VnFnU3VlN1JwVmpKQlBSS2VNU0l2VS1nOTZZaE1PaERIa3gzY3BpeFBCWm5XRGR4Sk1vcG9KUlVycnJ1a0I4c0VVSEQwNUFDcGZVNjduMG0wcGFESDlOeXMwbmNyaHF2Ny1OUy1uQ05ZcHhUci03al9uZk5pNjl6Nl9TRHZpbGlUUUFpbmlCd3RmRkFGeGFBdkkxdnpTQjBnUFZ5cXBqSnNPRE7SAfMBQVVfeXFMUDRjRWVsUDZGS2huaWF4TkM3aXA4S29GcHpDcWViZ2VjUXN3aWlXTWtpUFdvZFNhMU81QkYzWVhmVmc5X2VMd2J3S3VLdVgxWTJZMFpNZE0tZURlMXc0MFhGb1dWVTVIYzk0R05oaGM5bk9JYWI5bTZDMnZRY19jZVcwQ00tQzlSdUc2dFlTUHRoMzYzWlVTTVRZMU4zemRRMzJOamV3a1dvTklYM2JaTk9lSXZjMWJxS3JBSW94NVVDSHRPSUdRRTVqY2NSNU1CTU82QkwzRC1saGVGblQzaDZzMjNTR3NUWjZmZHdzaTBxUElv?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Pesquisa Firmus mantém mediana do IPCA de 2026 em 5,00% - canalrural.com.br",
-    "resumo": "Pesquisa Firmus mantém mediana do IPCA de 2026 em 5,00% canalrural.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRldHanhfZm9RWG55ZklCajZXOEZCZnB5dk1fZjloUHkxNV95SWRJc1BWMVl6WXpDeXhSZVBKT3NOSlFldmRMN1VVRm1vWW05TTlvY29HRHZ2Q01fZ2JIN05DbDF4SjVyOHUzSEN1VUg3ZEplb1dGb3oybnRXMGVsdXFyX05zSkJTb2FLa2gwQVBNOUlCUlJ2Nw?oc=5",
-    "fonte": "canalrural.com.br",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Dólar supera R$ 5,20 com petróleo e eleições no radar; Ibovespa oscila - CNN Brasil",
-    "resumo": "Dólar supera R$ 5,20 com petróleo e eleições no radar; Ibovespa oscila CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWF5QmdSTjZDRXFJYkhzSU8wckJvbGg2UlgtbS1jYjl3M1pxRW83VDV1MDY4UWVaVEMxazd6dDl5TEhMWWNjaGs3Tm1LQlJWeC00a0tUa3ZvWDFBaGZjVUlhUVV0SG5nZ3VDZUVxOWsxVjhPb0lKQUFOaUxZNzFvRWhUV0I4QV9HdDY5RFZwbDVobUZoVzNOcTBuQVR1T3J4V3pvRFRR?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Ibovespa fecha com leve queda, com exterior e bancos; dólar sobe a R$ 5,22 - InfoMoney",
+    "resumo": "Ibovespa fecha com leve queda, com exterior e bancos; dólar sobe a R$ 5,22 InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVZ5VkRSQnVBNjh6R1hrZHR2bXhTc01SYXczR083dk03aDMyMndhaWZVdzFLRlR6dG1mUm5kSjROZDEybkdqbjh6czk5SHBIb1Z1V1Foc0o0TDJQbmgwNGtOb0pzZnJwZDFubDNOTDF1TFJScUhSLXp1YmhYWFNWMGFHdEJHT3djcDFzdUYtMA?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -41,10 +13,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Empresas veem IPCA de 2027 em 4,5% e PIB de 2027 em 1,5%, diz BC - Poder360",
-    "resumo": "Empresas veem IPCA de 2027 em 4,5% e PIB de 2027 em 1,5%, diz BC Poder360",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTlwYUtoRVRvRzlfclQ3Z2V1WV82aHlJR3R3ZmJoeFRneFNDWDdhMmZ0QmJtdXdwVHpFc3l4M3E4N09oVzZiV2xxQ2p4STUzUEpNUk5zLU03clFacVFSNXdvU3RPUjFTNzBTT0M4R3ZrWE1tUmJTMWl1UnVoN2xvTWF1aGtzeU9IRG05eGJET3dWZXpvdVpuYjhQUlJaMUVacWhvNGVB?oc=5",
-    "fonte": "Poder360",
+    "titulo": "Dívida pública total atinge R$ 9,29 tri em agosto, e parcela atrelada à Selic tem novo recorde - Folha de S.Paulo",
+    "resumo": "Dívida pública total atinge R$ 9,29 tri em agosto, e parcela atrelada à Selic tem novo recorde Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOFotejdzeEotZDc0Sl9pd2oyRlR3OGR3dldSdHkzVVF1OU9ZU1FadU82SWE0OGpNWVpKckthSE5fWnU0emczbmVPRDYyYTNPdlltX0tiNHBWdlZJenVKeXhxMXJ0bzl4Qm1SazN4VDl0QlY4TXRjX3VvZVFLZkZXSVo2QnZOR3RTeHlaSGlxSHkwTG1GNUUyV0EwTlpOR3lZLU94NHlKT01vNUVXWkZ4MTJsMUVvV3VLdlpfRmwtUWtsZDREMTJINnlFVUhHcTFEY3lpOGo1QmdJSzg?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -55,10 +27,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Banco Central: Pesquisa Firmus eleva projeção do IPCA de 2027 para 4,50% e reduz expectativa de PIB - ADVFN",
-    "resumo": "Banco Central: Pesquisa Firmus eleva projeção do IPCA de 2027 para 4,50% e reduz expectativa de PIB ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXhweVFWY2JmbU94c0d2clY5WEJZdlVoMkExeDQzVmpWSEFwam1nbW1YaDhzRkdmU3MtU1lpNDhNRjBvUy15WnpqRElWX1VmZGQ0MU5MQV9uLTU5anVLeEQ1ZXlkSnJhQlpSanFUN3BRSTMwT1JHQmI2RGVMYUlTOFFBX0ZuT2pXTXNaaDhuQWp4WS1FaTVyQ1RqbURRc0hCVklDM1hGY1kzWWM3M2pTLVVya3NIMjF1QmtEN3c3M214ZE93Q19WRUZKblZBUQ?oc=5",
-    "fonte": "ADVFN",
+    "titulo": "Renda fixa paga até IPCA + 7,68%, mas inflação volta ao radar; veja os destaques - suno.com.br",
+    "resumo": "Renda fixa paga até IPCA + 7,68%, mas inflação volta ao radar; veja os destaques suno.com.br",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mZ3E0YzgzRHBpM1h4ZG1Ca1FEcXNvNUZQemJaU1V6SXZFY1FPNDRlb1ZuUjkxTXpiOF81WFBpM25rNUlRQ1FBd0cwZ280RWdJNWZ2anl4cmNHSEh2VnNOelNkMGNRTDF2bXpjU2p4ZVdFZXdqX0t2UmFiSdIBgAFBVV95cUxPbndNcHRHc0dNR2NQWGItTjhZeVlqSV9lbnJ1aEVsblJwc25DdlJ4WFpHX3Q3bHltWU9DV0dTY3B4VXM3clQ1YzMzUjI5dUo5ZmZjVkF2eTdreFppbjJacUhYUkhrU2NSWW5rUW1VZFNXQks2TUtSZ3o1dXFnTmpVVA?oc=5",
+    "fonte": "suno.com.br",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -69,61 +41,22 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Dólar e Ibovespa fecham em queda, após prévia da inflação - brasilagro.com.br",
-    "resumo": "Dólar e Ibovespa fecham em queda, após prévia da inflação brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXV3ajF6SGRxbkhMMWdLUWpGcUR1SlpOczJYSm1mcFk2Y1ZUNVBVby1HcnV0N0hkNTVET0d4TWx2MjBBQkJoYmNoMmxUZjJHUFBGejk3ZUhHamF6VmlRTTR2TnJSYUdROEF4ZkNJR3NKbjd6cTktZWdjRmRzTWVDenBzX2JVeWtWSE96MU5ROFFPLVJMeEFNVHJNZ2Z5dDUwRDI4?oc=5",
-    "fonte": "brasilagro.com.br",
+    "titulo": "Ibovespa perde 183 mil pontos com eleição no radar; dólar vai a R$ 5,22 - Exame",
+    "resumo": "Ibovespa perde 183 mil pontos com eleição no radar; dólar vai a R$ 5,22 Exame",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUlRSnUwYzlsUTFzajFFbngwQVF4Tm1vRk1sVWdZQUIyQUR6SjJ4dlA3N0FlOWgyeTlUdlpwemR2TnZvTFJvOElZU0VxVDJKbi1IZF9taE4wWEFrQnFmVTVrVDdZY29vYmZqMW9wX0ktSmdyeVliT1dtT241MGhDMkNyRE8tVjR1dXF1Y3RjcnpPY2tWVVZIX3VLckdBVTR3U0YtRHZn?oc=5",
+    "fonte": "Exame",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Tesouro Direto: IPCA+ devolve queda de sexta e volta a pagar 7,69% de juro real - InvestNews",
-    "resumo": "Tesouro Direto: IPCA+ devolve queda de sexta e volta a pagar 7,69% de juro real InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHdmNDNZajgzV0FYUGF5cGJKTlVaOXRIc081RGpycG9CREV3VGFWLW1XN2k2N0xVSVJBeDVMNU5UZWFsSUdxMi1LQ2VKN05kS0tlZjJCZXBOQW9iak82UXdQNGFMaVFpMUlhaktrblZ3WlRLNkFkaXpMVkNiMHUxeERWUk03Q2Jic1doUGxjbGhDN0R5YkJKdnNpc3EzS3Ric3fSAacBQVVfeXFMTUVuSndJWXdwTW4xcmUwclVzeER4c1c5cDdEVWluOU1jUXVtaEVrd1doMjRPeXZUcFJ5YzhEOUc1Tk9ELUxLa3pKY1RYWWdQQ1ItWEZESDdQcjNyUWU0Sng3cjZ5WnNTZGhVckxTaDZKUDdabmlaZXpoX1NHdmptVjFwQXRaaXdZc2Rwd2ZTSHFxdEI3UFM2REg4M19ETDNrTXE2UWN1dTA?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã - UOL Economia",
-    "resumo": "S&P 500 encerra com queda marginal, enquanto investidores se concentram na guerra entre EUA e Irã UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU0dOQ1pNZTliQl94amgwZElMUkdsR2NrbDJ5VWwzUUhaOU9LQ1ZVdHFLcmdfUXhxNHRRMHZfeXNmcGdNVWpFVUx1c1NYaENGb0ItdTBNa0h3cjh3M19kSjExa1BPN0tBWXJsSGZ4RlpfaWR5eXVHYVJCeThxRy16a1VXMG0yUFhqUVZJT3AxVWJFTElhdEliR1hPcXZTdDg5ZUJOaVI2ZmdCd3FsZ09pYWtCeGN4eDI4UVJQZTBJbnJXOUJRdEpHYnN0dHZkUWtVcHRJZzVJS2F3RENrLUE?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
       "WRLD11"
     ],
     "impacto": "Alto",
-    "explicacao": "pode afetar exposição global e dólar"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Mercado eleva projeção de inflação para 4,99% e reduz PIB - Agência Brasil",
-    "resumo": "Mercado eleva projeção de inflação para 4,99% e reduz PIB Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0ZQRnZ4Vm1vQ3RFYW9VUnF1X3JfZWVaUG5nTGFZQ2M1Y3VUV1FhUWUxdEFVMk5PN3c2NVRuSzhMR0xQdFlDbktRa0RIU0dnQkxzZGpwRmhTN0lJbGdFajRaU1NIT0w2cHYzNzdRUWNONXc1MFJwV3J6U0dZV2t4aDVSWWlWNnlXZUpTUDZCU214NUNDSzFuaHlhdlg1RFNvWTdnZndNOXRRQ0ZWNEZKSHkxeWs4dw?oc=5",
-    "fonte": "Agência Brasil",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "CDB 100% CDI"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Ibovespa hoje contraria NY e sobe com ações de petroleiras em alta - Estadão",
-    "resumo": "Ibovespa hoje contraria NY e sobe com ações de petroleiras em alta Estadão",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQnZjRTVXWkMyY1FUeEJNRF8yMUZYUHQ1VnQxNUlWZ01Ca25yR2hoVG03MEN6UGZEaWlGbjloX3ZkY0M3MUtjd0pQbVR5SWFELUhzbWltRTFZc2ZxMmx6NWVQN3U2YUx5YzZUVzluRnRSNjdlaktYWUFjR2V0WTE1ZnlDdFdPSENqNndQZWQ5U1J2RjBoVVN2LXE5dndLSExuQ0JHTUdlNkhBVF9YZnRJU2QyLS1tMTl0cDU4Z25ENNIBxAFBVV95cUxPRFBjTjdIVFM0SF8zZFJ5OXlqTzV4aGNBa09rVDhndEI2ZGRaR05yNXU5b002NmVoS2I0QUEwdUo5VXJuYkdfOVB6bmRVQjNpNll0d1NwUWRBZmJWR2F4NENpcFdUT0xBZTRxa3JOVVFVMTdJdGN3aVpRWGpnODZZTDBkaUFSc25HUUxhaU1GLVItREFWRFVRU2VDTDN2amZ3cFdHZ09uMmJqeTVqb2tUUjN6YVYxNldndENmdkJ3OGV5dHhE?oc=5",
+    "titulo": "As maiores altas e baixas do Ibovespa hoje: Natura tomba mais de 5% e lidera quedas - Estadão",
+    "resumo": "As maiores altas e baixas do Ibovespa hoje: Natura tomba mais de 5% e lidera quedas Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOXzNZQ1RDdnEyZE5CakhLaVpLYWdqMjZGeGFqWlR3a3haYlMzMkxvZ3VWTm1MZjZqZFNoaUZHenVLOVZyTWNYOVh2cFA2eXJhVGdFbG5FSFVxQnQ2WDJObnBiWXBXaUJMYVhkcmxHZWc3NWVkd05yUEdTM2JxWnpCaTdqMm1NbFJSTFlDNDVGUTdDV0stNFlBUzNUZzktZk1aUnplTXRnT2JXVU9SbVhFaTNFZTBEVk9oUGVIRkJEcnZwWEI1b0trUnJTUGR5SjRBbkxqc01B?oc=5",
     "fonte": "Estadão",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
@@ -133,22 +66,10 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "O que as quedas históricas do S&P 500 revelam sobre o mercado atual - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "O que as quedas históricas do S&P 500 revelam sobre o mercado atual Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUF9Ba1JOYldLd010ajUtSkI1ejM0ZXppSDd4WXNXSzFzNUF2VjdheWRLZnhBeEFYel9RVS1kS2JIYVJUTWRkSEYwNEt3RUdWMHVIYkZxQTQ4dmtyM0prc3NFbFlSTmc2aGlsSjNjQzYtd1lhOHpZb0YyNWd6ZlRpOWtWbGFHd0ZacWo0QWJVMFhjbk44SHQ2NTNUc2dCQnV6MFh4OWVNNVN6N1pCY2Y3VERMS2xnYXVaSDhXSDVUbw?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "SpaceX lança Starship em missão que coloca nave em órbita da Terra pela 1ª vez - G1",
-    "resumo": "SpaceX lança Starship em missão que coloca nave em órbita da Terra pela 1ª vez G1",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2dGWE5CVXVxSUFTSkNoWF8wVnRzOTB0bjhPcjBTUXdOMkRGQmFQMHFWTzRRZ1FYQ2JSUUdBMGoyTlFXMXhuVlhmc0U0TVp6Z0pmdW1yV3lYSmdKR0JDRmZvVE01THgzRlktRG1ZWllydlJrQlhodDNob2JPS1ZQblFaeE1rQ1llTkl6RE5JVUJCYmfSAaIBQVVfeXFMT1NCT1N2WVI4M3VhdEpJWnFrR0ZKTW5jYk9BbS1OejJIYzRyRGJpeDVwcnlUU1g3NHhxSVRMXzZTUGdJU2NMQzVxUkdlQlk3eG5Da0hmRnlTSURZOXRJb1E1VzluYUJiWWgwRkhYOUdHWWF2NWZmOHlfXzhBSzdiTzNJLXZnNk5fQnVsLXM3dXpjOWw5YWF6QnVwLUpOeVhiQVV3?oc=5",
-    "fonte": "G1",
+    "titulo": "Starship, foguete da SpaceX, chega à órbita pela primeira vez - InvestNews",
+    "resumo": "Starship, foguete da SpaceX, chega à órbita pela primeira vez InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1dwamd0aW5FRENNaUF4NVpITFBqdGNtLUtwbVNsRmRfaklGVmcwSHR1aGZJRlE4VGdrVHpNWFVDOFlXQVRyMmE4TUFyMm5CbGVVcnlodmYzYlpEb0FTNmE1cWhLN1B0di1Iam1ieGJPWGhoS0FFNlZuczV0STZRXy02VHVIWFNsSTdyVDRYYzBuNTM2YXRRR3lqMNIBoAFBVV95cUxNbXNoaU5BamJaQ1Q4bmdjLUZtOEpzb3FYNUhHbE91ZXlFeXNxX2l5UzFoMmpNRHRuT2JrWDhhX25xZlNEZGVUYzgwbWkzUXp6RkhybVg2dnRTYkFmZmdVd0gzWVFycUlPNHBDUHNyZTFvSV9RcGR3emRHZVBXVmxmQ050SzZQNmVxaVJydzVpdy1DcjZMUzJyV3pMek5IQng3?oc=5",
+    "fonte": "InvestNews",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -157,10 +78,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Starship testa hoje 1º voo para alcançar órbita terrestre - Agência Brasil",
-    "resumo": "Starship testa hoje 1º voo para alcançar órbita terrestre Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3Zqb2RwdXE4WGlHX2tzUXpRNjNGRU1Mci1aU2VfSm5iSmlYVTFJOHlxcnRGQkZBVF9NMWhndmlmYmV0SDJBTVJGZ3VGdlRmaEZuTl9ZU3Rva3oxbUdMVnVKOUlBUXA5ZlBkdXk1R090Qk5EbS1UbGdYMlRlNWdqekNrUk5WckppOEEyLS12YXJxQmRBN21jQU12QXR0U1VHOWY1MGpqNWNRRG54VVI4cUthSlVkNHl2MU1Ocg?oc=5",
-    "fonte": "Agência Brasil",
+    "titulo": "SpaceX alcança órbita pela primeira vez com o foguete Starship em voo histórico no Texas - VEJA",
+    "resumo": "SpaceX alcança órbita pela primeira vez com o foguete Starship em voo histórico no Texas VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGdzTUVvR0dwT1FTR2FQbG8wMHR1UHJWWlJLbkJzY1h6eWs5X1BLejdaNHdIeXFtaW5MVWhyUjA4eEJWYnNqbVZpZS11MUtLQkdfMXFNdWt3YUdfbHV1Sk0zcFNPRGxiWkk1aVFacTJsclhBYW5Xb204NnZ1MFJ2aUZSYWtUZ25ZZ3c4MW9xRmRIZFJrTDNrcDNuc1VtdWh6Y2V1R1lfRU1fWENpbTlHNWU0MGpId2swUzFpZWR5di0?oc=5",
+    "fonte": "VEJA",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -169,10 +90,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Megafoguete Starship, da SpaceX, faz primeiro voo orbital e lança satélites - folha.uol.com.br",
-    "resumo": "Megafoguete Starship, da SpaceX, faz primeiro voo orbital e lança satélites folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGNBWkVya0NtQWRza0tSSTBSeHhiS25yZ1AwanZHWmxKc1BRUFNFcDlabVl0UUtHdlNrME53MmE3RXMzQWlWZEFFUXFiX1hSLV9ENmYtV3pUY0V4b252blgwSXFaaDg5Mzd2eG9sLWczbGJQc2paOEowZ2x4MlpXcHdmbmhaRGhQQ0ZGYy02Sm1OWHhzWHRGcFBfQ0tUUldvNzNTWURMVHBzbnVtbmJoQ1FYTnlxQTNhbXVHb0JNcmtmMGM?oc=5",
-    "fonte": "folha.uol.com.br",
+    "titulo": "SpaceX coloca foguete Starship em órbita pela primeira vez no 14º voo de teste; veja o vídeo - Exame",
+    "resumo": "SpaceX coloca foguete Starship em órbita pela primeira vez no 14º voo de teste; veja o vídeo Exame",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVhSLVE3aExtSHF2S1lrMHBYZWdiYWFXWnd3NjRzMFpiRXJ0aDBxQnhyRktvSnBPVGNSbDAweExEU2c3WWtpNHE3ZzBrNzFqNG1TcFlUZE5TeXN3T2J2RnJlSldQcmVacFZMTUJrX2N4S3QwTDFDdEpPQ0U1LVRrSVNFWUhrWDRhanNEY2w4TDhWUERDY29sbUcxY2kwSDdKdzFrT21iMTg?oc=5",
+    "fonte": "Exame",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -181,15 +102,87 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "SpaceX consegue colocar Starship em órbita pela primeira vez - Gazeta do Povo",
-    "resumo": "SpaceX consegue colocar Starship em órbita pela primeira vez Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUFN5TXVrUXhKMnZ1ZldNS3JWdnY3ZUNoaXpkbXhhdW5WaEF0aGlSMjhVMkhyeWdJSUl1U0NueElSLW1BaGs2WHZERGhuM1c4Rm5IZTdFQm10LVNqNjVRb2N6RDFCVl9qWlZaVEFHVGJ4QVAtODNrYzZKNm01YUZ1eWJUUnlqYXk1ejNQbTNadzJWLWRaNGhwOFp6SXlnR2pN?oc=5",
-    "fonte": "Gazeta do Povo",
+    "titulo": "Megafoguete Starship do trilionário Elon Musk alcança a órbita terrestre pela primeira vez - Terra",
+    "resumo": "Megafoguete Starship do trilionário Elon Musk alcança a órbita terrestre pela primeira vez Terra",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcXJNZlpCcjZqbnlrRVd0TG1qWEFIc21HSWxBaHdGY0hBWUJaVWFpOERVamR0MFc3OS1mMjJ0RGRWSi1EUXRxTmN2YjdjaGlKbTVqTG0wcG5aNUEwSDE4SDgyWUE0RUR6V045OUl4TTdEWXRQbllFUHNuV0pLYjNadHJMOXJvMmtPcDdUR2l6c2ZpbHV6T2FOODlZTXprSXBwa1JaMTl2WWZLenNpbm5vdHM0RzJzNjBEdVNKbGp5ZlVHYTJPVDVlQ2p5QkdsQkpPZ3ViV3ktdEpuSkZEeGlEN3EtaXVvZk13RG91c0JIZkhfRHoybU9HYzdtRjZRa3VEa3ExaXJQYw?oc=5",
+    "fonte": "Terra",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
     ],
     "impacto": "Médio",
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "SpaceX lança megafoguete Starship em primeiro voo orbital - Aventuras na História",
+    "resumo": "SpaceX lança megafoguete Starship em primeiro voo orbital Aventuras na História",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3JiTHpUS0xGSXNVRnBPQ1ZFTHRURGJGckhqVUFVOXozeVFPYU9XOE9OSUdBaE5zMWYzQTkwdVk1SGdPQVI2TDNMRHRmWEVXZGRMbEJHNGROcUtLbElSYW9zTXg2ZEdpZU1LV3R5MVAtVThkZnVmNFlLRVVqZ25pSF9LdXItUHpoNG9HaUY1WTdQSHZaTjd6bFFKQlBiWXExWV9uTU9aaUVzNnhSNjJ1M2F3TGV0UGJlVnpKQUh3?oc=5",
+    "fonte": "Aventuras na História",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Economistas aumentam previsão da inflação e reduzem a do PIB neste ano - Folha de S.Paulo",
+    "resumo": "Economistas aumentam previsão da inflação e reduzem a do PIB neste ano Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVM0MmsyaUNLM2dwT2Q5YnM2cWY1YlZGY2d0Y0gzV05YMmhXempmYmpxVTZBS3Jaa25jNlFhTVhFUkJ5STZZbjdyOTBYUGNWVzJfUlk3aUlWUHc1VmVnZF90elVnTk55bW1ueUZUTHdtRnpIMXIwUTN1WDBWdVVmempYbjIzSF93VDM1VlF0UmxGQ2hIWWVsN1JoUno5NXRjWXBhQ3pKY3d3aWstRHNpVEtwMkRfeERmTmRvZVZsRQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Mercado eleva projeção para inflação e espera PIB menor em 2026 - Estadão",
+    "resumo": "Mercado eleva projeção para inflação e espera PIB menor em 2026 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWlvM2gwYXZsbVFtc2dIZEV2cGhRc3lWZk80SWhEdXQ3em5sNTdlaFVMUzBEaHBHc3B4dmxpZ2lHM0JLY0gybWxRbnFRMUlMa0N2a2dCTHA4eUo0UmxCWDc2VmplRkpMWHp0NmxvSHp1MjY1bmNqd1R6SkRhWnJoNnkwRTdJSkFtb3FvNmxZLXJIeVHSAZgBQVVfeXFMUFRUckdiZHZGSklkcDNISXZWQU1ncDVXdDBxNF9qZDlmLXR3TGZSUzE3VjVZUVU3UTdjcUpZaml1cXUxZVBkd2FwcjlOb0VLOF9QcHdoM0VybDRiQkxJdzF4Y2MtdkxvR0h0NXFOLUZXUzNlTlJ1U0k1RGZ5MUlDX3FBajR5cUxfMHVqX2xiLTdnRF94dFBuTGY?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Empresários veem inflação maior e pessimismo com economia cresce, aponta BC - CNN Brasil",
+    "resumo": "Empresários veem inflação maior e pessimismo com economia cresce, aponta BC CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeFp0MlpRTEhHdUNuSTZhWWE5Tnlxd0JReG13ZDlwZ2VyUEhGc1VvSHM5QUJhemN5QTY4NXRlMzcxczNESmpCSDkwS2RQNmVES2U1UEJybko1V2RnWmxuVTUzeTlPaUtCRXBNM0JMeXBaLTRHQXhOUWhSUXVGOUZEVkJaSkZMVFdmTlJ1d1c2YVg4WlJNVm9ldExfVkowSnZOanYzcU4xMVJHVS1JNU5FRUhBSkJuTTNZb2paWGVmNEZLNVBZaC1HSDV1Vm1CUQ?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Startship, o megafoguete da SpaceX, atinge a órbita - Brazil Journal",
+    "resumo": "Startship, o megafoguete da SpaceX, atinge a órbita Brazil Journal",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjdSaW84ajZNMU43SXZncGNWMHRnYUJKdXRsVE1OcnF6MXdPbEFxRFl4T0hjd1o4VXdGdjB0TXZ3VTR2VlRDN0dPS2w2S0ZtVGkzNzAxU2tCSTVGa2hLLURqWWg4eVJPOEZJVTV2OTdIb2hvMzlpajdyaTB6TFJQM2dR?oc=5",
+    "fonte": "Brazil Journal",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "KNCR11, VRTA11, ALZC11 e CCME11 são destaques do Bom Dia FIIs (28/9) - Fiis",
+    "resumo": "KNCR11, VRTA11, ALZC11 e CCME11 são destaques do Bom Dia FIIs (28/9) Fiis",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xLWZNUklmSnl6RDdOU0hJbTBhdnFyV2V6TEh0X0dPTEtZY3paUTdMdXp1aG1UNjRVMGpXbVJqRHlIUXNMUlZsYzZsR1U4S1NuZjVBYUMzUGZBOXVQVEE?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "afetados": [
+      "KNCR11"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
   }
 ]
