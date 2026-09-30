@@ -1,20 +1,45 @@
 [
   {
-    "titulo": "Fundos imobiliários: inflação e Selic a 13,75% pressionam o IFIX - A Revista",
-    "resumo": "Fundos imobiliários: inflação e Selic a 13,75% pressionam o IFIX A Revista",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlValkwSHdBYzVTQlhUb2NhLXlEMkpiTjdjQlBWdE5vWnZhQV8zcTI3UEhSTTN6NG5QWHZzQXJNRENEbHlPRDFpREU2Q05TdEdMd19xWGFuVFlwY294cW1lbWg3QlhBaExQSVhaS1VJWjkwcUlnYy1XY3NyaHgxdG1uUng0dVhJdWxTU19sdVZxa1RTR3c?oc=5",
-    "fonte": "A Revista",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "ff6fbeaf94013a06a01eb1fed102bd0b7808d3ee8cc75836d9d3ab41a28ddf86",
+    "titulo": "Inadimplência das famílias sobe e renova recorde em agosto, diz Banco Central - O GLOBO",
+    "resumo": "Inadimplência das famílias sobe e renova recorde em agosto, diz Banco Central O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVWFoZHd6OTMzbnZ1QzU3djlsaTgtZlRiVklJWUJCbEQ5SnlDTFd1eXpRS250VXJmR05MLVo2cERjNmNUQldIb2ZWdE9LNUtvMXo5a3YzRnN6ellLNEVFelpQM1I3cHJGYXpTQ1psZEdGdWxQY1VUbmQ5YVJ5UWJQcDQ2Wno2cUR4SV9MOXV0Q3FQd3hWcWgwQlkwRDcxbTljNkxHNUk0ZFNNRVlZRlk2c3llQ3E1U3RxcjF0RnpLYURxcEE2eDlDeDdfb1YxalFQ?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e2e0c193749d27255f538269cf66d787b65d2445bd7604d2e729ef07a1cb1176",
     "ativos": [
-      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje: inflação dos EUA e nova pesquisa eleitoral movimentam a quarta-feira - Estadão",
+    "resumo": "Ibovespa hoje: inflação dos EUA e nova pesquisa eleitoral movimentam a quarta-feira Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGFhTS1KQUhHLU5NV2tycG5UT2ZaOENGNXZKc3N1ZDQybkJZZjVacjQ1T0pzOXRIbmxvbFNUUEJTWUQzQ0Z0eGJZcTRLNzVvVHFzSlFZb1lmaVRzdlVma1V0Tk9LeTc5VWpvemd0SVoyWlBDZEJ6TUpkdFRZeGdMWE8taS13VU1xZW9hNVdXRXdOWFFUMmJzZF9QQmZpSE5KT1lneEItRERGcjEzaV9lcDU3cUlxN3g3WGdWeTBxcUl3YVF3ZWkyamxmcFJORHRX0gHWAUFVX3lxTFAxTXVVZlpUWFh0WEZkS2N0UjRBX0dVaGJWVkxiOGlKQk1CRnVYWThRckdJRDR2b2xjRTg3WEZhbG5xVmNFVU5LbVd1Sk44aXN0WFl6YmJkZW15R3ZyZ2dXa3U0NENqczZzZEFqck8tOW9vdmlOeGJKcGxsUFZab28wdktKQzR1RndCZjFWMTM4MHJKLTdkaWdCUXNEUklvNWZzV3luN3BHUVRBanlUMjdIRXhUMHpneXFLWXVqcG44bWtabGZUSGhWWUFRQjZQdzZQZHNwMWc?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7d49d4c96aa611064677e9615105e29e6a1d2d69a7eea8b8250aa2c9c341a5ba",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
     ],
     "score": 12,
     "motivos": [
@@ -26,90 +51,75 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "CBIC leva à Fazenda e ao Banco Central propostas de aprimoramento do SBPE - cbic.org.br",
-    "resumo": "CBIC leva à Fazenda e ao Banco Central propostas de aprimoramento do SBPE cbic.org.br",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOam1zNkhoZ2lfWEduMjlqYjQ5NlpQTFpHRUVWT3JVT2VldlZ3Ul8tdjFyWUlNS1E0Y1hySmc1UlhqZTFjVUpSQW5QYnQxN3BIbU5zc1B2Mk4xdTRIVFZJbExyenVCWGZOY2hpTDhTYXU2d0Y4eHI4ZzdHc0t2X2Y5Z0VQaXE5ZDhzUmxROHhJa1ZoRGU1eWFpOTFR?oc=5",
-    "fonte": "cbic.org.br",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "37503eaac236da87a4c5cb66cebcdcac6917502c721fdf9b14dc1a92a82d52d3",
+    "titulo": "Petróleo cai, Ibovespa sobe e dólar recua - Canal Rural",
+    "resumo": "Petróleo cai, Ibovespa sobe e dólar recua Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2xDYXlHczBMdDI5VjRENkhFdS1ES1U5ZTd5cVlnLUFUaGdsdTdwUmhBMWo2ZXhRNkxQa0lDalJCUWtsVW9Ub3JxakJucmlUYnBZLW5QVG5xWFpYcUlWazZ6ck0ySmpETzloaDVjXzRYTDI3NTRGXzdoa0JOWGZab0hlQWhNaTQ?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "56a0d0758672b1d16768bfa9a8a7ebf46823ac038477fbc6e6df298787c8246e",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central estuda conectar Pix ao sistema europeu de pagamentos - MundoCoop",
-    "resumo": "Banco Central estuda conectar Pix ao sistema europeu de pagamentos MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGthU2xDb0hYeERNVWNtX25BS3c0RjNsRXpqTFFQWHVrMno0ZUN2WjdGTmxnOHRiTHp1YTAyMHJrRmVQX3FlWHNfZ05hRFFMYlFmcjlsRExTbklYdkFONzNSNGptenVRcWtMS0N2QzFYbExtWk5oYWZFMFAxckU4TDVmcnZrWGxTcko0ZzF2eDVjc0NmOXlnekZRaHVaS0Q2THNsVjloMkhGcVFxVlRJ?oc=5",
-    "fonte": "MundoCoop",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4a4b7e7d591e71b8564f7c4a53ed6ee3e4251ba10225eca95cbcd82e8acce4b7",
+    "titulo": "Dólar cai e fecha a R$ 5,21; Ibovespa sobe 0,46% - brasilagro.com.br",
+    "resumo": "Dólar cai e fecha a R$ 5,21; Ibovespa sobe 0,46% brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGg2bVd3UEpEWHJacm5QNzRvTnMtemkxczRKNjdVY0tqRlZJVGZVdWVKLVk5b3phNFBGVEdSLV9HenQ2ZEFhRjBaT1I5SkVwY3h4NTZsYnBxYVJHcTZJeXBRS3RTaWM3TG50YUw3dU9OMEJjZ0JoRHhLclhOS2lEWG05NU9SMVpjRmhvcjZ6MzM?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "016c2a42407d05ddd106b2b014866e68a743576962c5584299a72d3b4b5048e7",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "(Multimídia) Banco Central da China anuncia reforço do apoio financeiro à economia - XINHUA Português",
-    "resumo": "(Multimídia) Banco Central da China anuncia reforço do apoio financeiro à economia XINHUA Português",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFlfNEV4YXZlajEtN2ZHMlU5Y21QVWNaVTFzOVdVdHVlRjNjeWVBdF8xdEZuZjc1MUh0bVhPaVphemxseDN6eTlrYS1uRXRCa3NqUXZnOUZTZlA0ZW9FNndKQTVNNm5uUkxnYVZBejdJaS1VTmtaNWFCSWg5RmprY3VyZDljN3M?oc=5",
-    "fonte": "XINHUA Português",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a1b92f0c83dd2ff7907f2d0b5fdc5d222b8b1b1999232b0e43be2f4c64415316",
+    "titulo": "Ibovespa futuro cai com eleições em foco; dólar cede à pressão externa e recua - Money Times",
+    "resumo": "Ibovespa futuro cai com eleições em foco; dólar cede à pressão externa e recua Money Times",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVZ09nVVZqS21VS0lLLWFfSzBxLTNiUjVxRWUzbGpHMXZrWFVlbE1IbkYyVmpyVXJtZ20xVWlEYVNzODdGQXhXMFRjM0ZsMFlmMGJ0Q3RrcFY0RTJBNWJVVE9TT2RPWHd1Q0M0?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "626e9784f205467ba40c3a75969fe69282dcfe038460e3cf7cca51520fe554a3",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Falha em motor da Starship, da SpaceX, pode afetar objetivos da missão lunar da Nasa - Terra",
-    "resumo": "Falha em motor da Starship, da SpaceX, pode afetar objetivos da missão lunar da Nasa Terra",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSjl5MnBHVU1ZczBYR1QtMml4RnZSM0hBQjFkZmZqVUx5U2U4eXM3NTJwWHNRNnRQZDNhNDdqb0xVNFlmbWMwRGZHdVIzSExGbWI3SFNuNWFlemM3RHdSNzdTSzNCSDMwSFBtTmtsc0xHN0s0RTM2LWstb283MWh6M0tTUHBBaEp5c1dCVi05N09ienE0dHRhaWZhT3RyY2pDOWRINno3RHZoaTdEMHlGbEQ5TGFjRENkTkRJdWt2TTgwdTdVcmFVSUZNVFNhXzNWY3JkUjEtaFBVbTF1Ym1JaENpZzF4UjZUWXZsOUJ2T0ZoUXB6NWNRT253a1A?oc=5",
-    "fonte": "Terra",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "5a3d100100914b6f873124355e960aa947c6e3f7266708d578b408fb9acc826a",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
