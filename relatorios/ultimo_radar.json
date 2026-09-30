@@ -1,61 +1,63 @@
 [
   {
-    "titulo": "Inadimplência das famílias sobe em agosto, diz Banco Central - Agência Brasil",
-    "resumo": "Inadimplência das famílias sobe em agosto, diz Banco Central Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORXlPVHB6b3lHdi1Bb2h4cmlQeUtYYlJzSkl1cXhJQXhnVFJfZ3pnajd4cDFFREJwZEhiU0QxaTJTNFlEX3pQWk5ITmlYeXNHUEpFWlZ5MUNHdTNrRnR4VEppWU5vSHFNYzVJQ0pMQXFOZFFoMUh0TEtzUjdHN3g0bmJFN25RYW9zTDBuc3h2d1M0aWpHYS1udkl1VmFuU1Y5Z0pqVTUtNmtJRTBOZVpoWDNwMWptWVVJX2VEYVR3dWVET1NyZ1FwZEc1ZVpKZmVNc2JF?oc=5",
-    "fonte": "Agência Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "62216e23083cb38f6b0e07ff134caa916467829c39e2cc9737ab10098b42c41f",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Inadimplência sobe a 5% e juros para famílias também avançam, afirma Banco Central - Times Brasil | CNBC",
-    "resumo": "Inadimplência sobe a 5% e juros para famílias também avançam, afirma Banco Central Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVRQZFZWa3BpbXV4dGF3WWZZcURpRnI5d1pMZ2ZHMjZZYkdmbDQzNWpmemdtME0xWWprbWdZR2JnY1dSU0FvTXZCYTEzalRzV0RIRldkTTBpWHh6TTgxeXNIMzRyWnVQNDZ4bVhUUzg2ZUxJUHgwbDhzSzhKdHdUT3hkWjdxYkpqVGdOX25zb2ZUeW9xMjU4NVY2bWJFenNWeGoydTROTmJidjY4SHBqV3E5ajBvQQ?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e6b6e5879305b5aeefe185f029186c9a6f26bcbede3a9ce0ed6e25bc61bee821",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa vira para leve alta após quatro sessões de queda; dólar segue acima de R$ 5,20 - Exame",
-    "resumo": "Ibovespa vira para leve alta após quatro sessões de queda; dólar segue acima de R$ 5,20 Exame",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnY1QzZCTndUckxlTGVyMU9ydTRoMFRqMXNqMzZ4NGVDSWk4RUJ2ZDJuMURaX3pZVmdKLTZFbEE1XzZ3c0tQTjM5aVpqX1F4Y3hWRHgtOVlTWGZCWmMtblRsYTFXMVR2R3hoWTB1QUxydzYzU0ZnWVlqS3EwMUgxWlBVblI4UFQyb2JJcjlrSjM1eXN4WVdEc1JPdGtRdw?oc=5",
-    "fonte": "Exame",
+    "titulo": "IPCA-15 surpreende e expõe fim da trégua dos alimentos - Estadão",
+    "resumo": "IPCA-15 surpreende e expõe fim da trégua dos alimentos Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTFNTkVINVk4TFVPT0FkX2MxbElCaEhhSzZhTy1zSnhmcUozVHNrbDYxa050Rk1zbFVoUnZFMXZOdUNud3ozR3VPNHhBN3JpVVVSVUhoUktrVXpWMFRPRlFQY0VSeG5XS2Z5cTVqY2hZMlFCUnJvN2pLdjM1MnJBWkk4ZWs0YU5yWV90VnpQWlpleTdiMi1ZZmMxLXRKdXF1REFsNlFGMm0tdjTSAbABQVVfeXFMTXFKNk8xY1F4LVFEOFFxRldkV2g3Q1VlN0lBRVAzaVVOdC1vTl9lc2V2VXFPUlBhNmprUUJ2ZmxLeDNGQkVHV0lremdnWjFuTHdlNGhlX2R0a2hXY0h1SjVfMHFUZmZ5RThJRHNGbS1SY0o5MHZLWXAxSTN2aE9FV0trVVc1MzBNVHQ1TmczV3JUZFE3TzZrZjJpdHFEaTliaXJXYTRjQUlHd1FJUFhTNEg?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b36e5b5fb30f22afb20109f6d936b46482c91764cdbd50aec22788f8bf8f467c",
+    "chave": "0dde68583954ef01f7249cd38d7edc3c52f03e83b09b8caef4832ac9d29c986e",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Fundos imobiliários: inflação e Selic a 13,75% pressionam o IFIX - arevista.com.br",
+    "resumo": "Fundos imobiliários: inflação e Selic a 13,75% pressionam o IFIX arevista.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlValkwSHdBYzVTQlhUb2NhLXlEMkpiTjdjQlBWdE5vWnZhQV8zcTI3UEhSTTN6NG5QWHZzQXJNRENEbHlPRDFpREU2Q05TdEdMd19xWGFuVFlwY294cW1lbWg3QlhBaExQSVhaS1VJWjkwcUlnYy1XY3NyaHgxdG1uUng0dVhJdWxTU19sdVZxa1RTR3c?oc=5",
+    "fonte": "arevista.com.br",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "66908bd89b83e620f5735fd6c3e51b3524faf4693a1826e3f959163bd7c267d6",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa Fecha em Alta após Quatro Quedas com Itaú e BB entre Suportes; Dólar e Petróleo Caem - Forbes Brasil",
+    "resumo": "Ibovespa Fecha em Alta após Quatro Quedas com Itaú e BB entre Suportes; Dólar e Petróleo Caem Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1ppdDhQcU1FMDRmZHExSWwydFUxcV9CZnJRZ3hhd1NjdEpBb1lhNlFxdVVyYnpoY1hmT2MxTjFqOTdJQm4zU0VkTXdOS2ZxS24tUmpyb0w3WjZJVnFxMXJiUkVDclE4a0dIVXJVTWpDVEZ1cllPV05KRzNvNE5BZ2E0WXl1bHkzRzFXRUx0Z3N5M3AxTTMyYkR0LVNRSzVISVJuQjNxSWJhbzRlLVkxZUdVRG1IMmFkYWlxNWFfMWMzMmFSN2JHUm1UZGk4aS01d1E?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c09ecb190bc37d5968fa4752bd2f84e109ebfe33672759b2f354417339f2292f",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -74,41 +76,45 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Juros para famílias sobem em agosto e inadimplência chega a 6% - Agência Brasil",
-    "resumo": "Juros para famílias sobem em agosto e inadimplência chega a 6% Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmExd19yc1hfUVdSZUZrOFVSZUdQaV9PdFU5amJCMk5jRFNUTEpub1Y2SVNBMEQtaXN0WHZzQk42bFVkM1J2d0hfZlhib1Z0ZjRjbUVfcktfVzhaUFNSeFNwQWZaOUlIdUlZd18zeVBuakFZMWZSczZzQjFybG4wWE9qZUxyalVhbjlGMFpneElEbEhRRFNoQTVoTFhvMl9heFFRam9QNzQwQVNXZFZhN3h2dzgxeWxt?oc=5",
-    "fonte": "Agência Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "cd9aa787f34b20410a2e2a6c5c910788dcb89623ae28dce1fffefea79be629f4",
+    "titulo": "Ibovespa fecha em alta de 0,46% e dólar comercial cai para R$ 5,2170 - Canal Rural",
+    "resumo": "Ibovespa fecha em alta de 0,46% e dólar comercial cai para R$ 5,2170 Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTZCdGpCOXpMNkZSVkgwREZud2lFRGppS3p1WDItcnowdURXdmdGVTJ0enNfU2cteUotOFc5NVJJSUZXVXk3U09JUzI5d0xyYnlTMlR4MWdEaThiRTdnWmlIUm5tLXl4b3BsS1l4NHlNeHNkV0x0RGNxYkNad1FmUU5XRkYzMzQ3RmFkQzh5RlFnU1E2eVlWcWptcThQcjlWNHNIbzdyVQ?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c5212e315112e8e31943035ca6cb9bc3f0f680e246fc69aadadcbb2aa0f7902a",
     "ativos": [
-      "KNCR11"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central estuda conectar Pix ao sistema europeu de pagamentos - mundocoop.com.br",
-    "resumo": "Banco Central estuda conectar Pix ao sistema europeu de pagamentos mundocoop.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGthU2xDb0hYeERNVWNtX25BS3c0RjNsRXpqTFFQWHVrMno0ZUN2WjdGTmxnOHRiTHp1YTAyMHJrRmVQX3FlWHNfZ05hRFFMYlFmcjlsRExTbklYdkFONzNSNGptenVRcWtMS0N2QzFYbExtWk5oYWZFMFAxckU4TDVmcnZrWGxTcko0ZzF2eDVjc0NmOXlnekZRaHVaS0Q2THNsVjloMkhGcVFxVlRJ?oc=5",
-    "fonte": "mundocoop.com.br",
+    "titulo": "Musalem, do Fed, alerta contra o silêncio do banco central em tempos de volatilidade - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Musalem, do Fed, alerta contra o silêncio do banco central em tempos de volatilidade Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTER3RHgwRzA0U2k1aTdTc1diLU5YWk5yR1RFUExfXzhTZENWSHc1MDRRZGJROFI3aHZrd0ZLVGV5bFJUdHdtTXMtbEUzMXE0VDJKQ3FVcHJqakFXTGIzMXlaSTl6SFFrUXA1dVZiLW9zM3JXN0N6UEt4dVE4TTI2bVRfLVBEZnh0eGtlaU41TTdVZEFSMDZ3V3N0R180MVdHOVE5S1VxU1RibWJHeGZuUUp0RzFUYUZyakxQVWstZTlHZzZ3WHFRaXlPSUhqUQ?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1229111d2ef93083a1a220f188c34736969a3e793b94fce73447119b330bbb7a",
+    "chave": "96ee247f5ba0ecba21e20cc412f8e153550d37efcbb9f9d64e26f87f7d2c5f0a",
     "ativos": [
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",

@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-08-17 15:39:54",
-    "chave": "6d9b1b365fb92ca8158ea69ff8c9777baa3891934f79be48e5739c06e5ef6147",
-    "titulo": "IBC-Br recuou 0,6% em junho, diz Banco Central - Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDFsaWZoYWdEVmFsRC1FNzRGeTdleHA2WGZfaTZKXzdFbjF4ZnAtMk1XS2RxdnpRU21PSjJ4Z3Q3MWJQekdnUDlqTlN2NGlrNlpnVk5OYXlPWnpHWUQxUEdJeHd1UHRBMXF0bHQ0Zm1qWXlvRlEyXzFpOTM5UFAxazNB?oc=5",
-    "fonte": "Monitor Mercantil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-17 16:45:30",
-    "chave": "09f63a822fad70416f75d122e4d595d6cb587b5287d47fbef0b275a32844ffe2",
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0JnV2E4MUUyTV9OWkk4UGczcUdxdV9YcHA0RjBSUUEtUEcyZXozTFBkSUZwcnZMcUVFRVJsbEEyVm0yY0t4R3pYem9ybVppWmdGbG5FdUpsVFBJZHJTenQ4aXA0WWw0WDFCcklGU3czRmNWV2tQT3NPREdhdnVTTG9qOXFqNVdIZjJEdk9VZw?oc=5",
-    "fonte": "InfoMoney",
-    "score": 9,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-17 17:44:56",
-    "chave": "c3048416a7ad7b87226f23fac3d8af443c8ef1624c58810233400a2766d3bf88",
-    "titulo": "Mercado mantém projeção do IPCA para 2026 e eleva estimativa para 2027, aponta Focus | Brasil - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dxcjRRR0dYTnZXNnFRZE5mY0JNNHJGV2pLVzc3U0ZELU9IeE1ITlpWNC1xdmlYQjA4aEl5b0xKYjhGNmlyRVVpSTZXdkNWeVdRUjM4dTNZUVpmdXFDYjV6QmIwQjI5blJ1MWY4S2YyRHNRbDI4bE50MnRweTBkb0pteVF5ZGNKd0RwbmFqRlN0TmlVZE94c2hHNVk4Ulljc01XUGVXbFVMTTdSNWJOc2s3YkZXN3ZULWJZanN4TU5sbm1yd2tVYnFwdWk5dU9uVDJCSzJB?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-17 17:44:56",
-    "chave": "e15cd409cd539a12f6afdfc7c536e5c015b45de68b69f2bb091b325d4e888429",
-    "titulo": "Ibiuna Credit IPCA+FIF CI RF Incentivado de Investimento em: Cotação e Indicadores - XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZDZac1cyLXBnVkJaU1F3Q3QyUXF4bXM1ekk1RldfcXByc3ZySGVfSHZfcXQxM3NlSzV1dVJyQXQtc25GM0hKOENDQ1dUUWdjQjgxVVZaVEw0N2lfdXc4LTRjYkJXODQyOEN5T2Vpak54R19kNWNPVW9LRXJpeTNGZ09yb1dWMlpteUxQZmppakdDdmFjOS0xR0ZLRmNDbF9sdjJWOTlRYndzZF9ncUR2aQ?oc=5",
-    "fonte": "XP Investimentos",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-17 17:44:56",
-    "chave": "a227c25d96cc117de3124185c7c72faafdc6050871d55e0cd415a21a1c92491c",
-    "titulo": "Tesouro IPCA+ 2026 vence hoje, e R$ 258 bi voltarão para investidores. Saiba como reaplicar o dinheiro - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaEdXVEVTRGhNV284VnJSbnc5a2ZMeUYyZ2hGdHNVdjQ0X2t2MXdPY3RiT0FXUUUtMzE3QmpOVC1WQzEyVFlLazVTeWRXc1lrbzJQZEtYd1JVTUlZdXk5eDlkYlJYWkNtR25uM1Y2cFNTeDVVdDZXbjRfYWQ3VVRsbFlCUDJiazJlcjV4MmN0RmFuanJGQ2RVTlR0NncxOU5sMzVUZDZmZmVZSjF2R3NWNHdGZEVEbWJYa0c3clMwQkFkMVV1Mktyb3NwTEZjY2RZRzF0SGpGdXd6ODhsZlFVSXVUM1l4dTMyVXZRVlVyV3hVRFltV3p2UmxB0gGIAkFVX3lxTE5NdmtCaWw4YjZTUkpCMmpoSENIa3pYTWpNTFFtR1kwWlJVMmVyN2ZPVkdLN21FX2cxWGpGQy1ORVZnd2VwcE9kMDhleWI3N0I3Ul9FelI4RnpWZ2xoUlQ0TFl4cFU3UXVJSlVUN1lwR0poR244c2tyRmR1aEt0MEFHS2VkOXlaSHhGQmdfamRBVGFFWGtSNzk1UDJiVmljZW52VkNUTktQNDRzenBWRVZiMHItMjZfWVQzd1pxNXQyNTdHX1pkQVVtSzFLSERLV3ZvdGthYWpkRmhwREdfT2pFSUpwbnJuSXVxbk43cjZYYXdWNktrVXlkc2V6em1TMHBuOUNmb2cyRg?oc=5",
-    "fonte": "O GLOBO",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-17 17:44:56",
     "chave": "9025ed8a84d1af8b864d2ce783ae6a98428ad9d6a5106e0628c6ad0584e2d74c",
     "titulo": "Banco Central decreta liquidação extrajudicial de duas empresas do Grupo Simpala - Jornal do Comércio",
@@ -17476,6 +17389,95 @@
       "CDB 100% CDI"
     ],
     "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-09-30 00:27:39",
+    "chave": "0dde68583954ef01f7249cd38d7edc3c52f03e83b09b8caef4832ac9d29c986e",
+    "titulo": "IPCA-15 surpreende e expõe fim da trégua dos alimentos - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTFNTkVINVk4TFVPT0FkX2MxbElCaEhhSzZhTy1zSnhmcUozVHNrbDYxa050Rk1zbFVoUnZFMXZOdUNud3ozR3VPNHhBN3JpVVVSVUhoUktrVXpWMFRPRlFQY0VSeG5XS2Z5cTVqY2hZMlFCUnJvN2pLdjM1MnJBWkk4ZWs0YU5yWV90VnpQWlpleTdiMi1ZZmMxLXRKdXF1REFsNlFGMm0tdjTSAbABQVVfeXFMTXFKNk8xY1F4LVFEOFFxRldkV2g3Q1VlN0lBRVAzaVVOdC1vTl9lc2V2VXFPUlBhNmprUUJ2ZmxLeDNGQkVHV0lremdnWjFuTHdlNGhlX2R0a2hXY0h1SjVfMHFUZmZ5RThJRHNGbS1SY0o5MHZLWXAxSTN2aE9FV0trVVc1MzBNVHQ1TmczV3JUZFE3TzZrZjJpdHFEaTliaXJXYTRjQUlHd1FJUFhTNEg?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-30 00:27:39",
+    "chave": "66908bd89b83e620f5735fd6c3e51b3524faf4693a1826e3f959163bd7c267d6",
+    "titulo": "Fundos imobiliários: inflação e Selic a 13,75% pressionam o IFIX - arevista.com.br",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlValkwSHdBYzVTQlhUb2NhLXlEMkpiTjdjQlBWdE5vWnZhQV8zcTI3UEhSTTN6NG5QWHZzQXJNRENEbHlPRDFpREU2Q05TdEdMd19xWGFuVFlwY294cW1lbWg3QlhBaExQSVhaS1VJWjkwcUlnYy1XY3NyaHgxdG1uUng0dVhJdWxTU19sdVZxa1RTR3c?oc=5",
+    "fonte": "arevista.com.br",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-09-30 00:27:39",
+    "chave": "c09ecb190bc37d5968fa4752bd2f84e109ebfe33672759b2f354417339f2292f",
+    "titulo": "Ibovespa Fecha em Alta após Quatro Quedas com Itaú e BB entre Suportes; Dólar e Petróleo Caem - Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1ppdDhQcU1FMDRmZHExSWwydFUxcV9CZnJRZ3hhd1NjdEpBb1lhNlFxdVVyYnpoY1hmT2MxTjFqOTdJQm4zU0VkTXdOS2ZxS24tUmpyb0w3WjZJVnFxMXJiUkVDclE4a0dIVXJVTWpDVEZ1cllPV05KRzNvNE5BZ2E0WXl1bHkzRzFXRUx0Z3N5M3AxTTMyYkR0LVNRSzVISVJuQjNxSWJhbzRlLVkxZUdVRG1IMmFkYWlxNWFfMWMzMmFSN2JHUm1UZGk4aS01d1E?oc=5",
+    "fonte": "Forbes Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-30 00:27:39",
+    "chave": "c5212e315112e8e31943035ca6cb9bc3f0f680e246fc69aadadcbb2aa0f7902a",
+    "titulo": "Ibovespa fecha em alta de 0,46% e dólar comercial cai para R$ 5,2170 - Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTZCdGpCOXpMNkZSVkgwREZud2lFRGppS3p1WDItcnowdURXdmdGVTJ0enNfU2cteUotOFc5NVJJSUZXVXk3U09JUzI5d0xyYnlTMlR4MWdEaThiRTdnWmlIUm5tLXl4b3BsS1l4NHlNeHNkV0x0RGNxYkNad1FmUU5XRkYzMzQ3RmFkQzh5RlFnU1E2eVlWcWptcThQcjlWNHNIbzdyVQ?oc=5",
+    "fonte": "Canal Rural",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-09-30 00:27:39",
+    "chave": "96ee247f5ba0ecba21e20cc412f8e153550d37efcbb9f9d64e26f87f7d2c5f0a",
+    "titulo": "Musalem, do Fed, alerta contra o silêncio do banco central em tempos de volatilidade - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTER3RHgwRzA0U2k1aTdTc1diLU5YWk5yR1RFUExfXzhTZENWSHc1MDRRZGJROFI3aHZrd0ZLVGV5bFJUdHdtTXMtbEUzMXE0VDJKQ3FVcHJqakFXTGIzMXlaSTl6SFFrUXA1dVZiLW9zM3JXN0N6UEt4dVE4TTI2bVRfLVBEZnh0eGtlaU41TTdVZEFSMDZ3V3N0R180MVdHOVE5S1VxU1RibWJHeGZuUUp0RzFUYUZyakxQVWstZTlHZzZ3WHFRaXlPSUhqUQ?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Caixa / Reserva"
     ]
   }
