@@ -1,20 +1,22 @@
 [
   {
-    "titulo": "S&P 500 cai nesta quarta-feira, apesar de inflação abaixo do esperado, e encerra setembro no vermelho - Times Brasil | CNBC",
-    "resumo": "S&P 500 cai nesta quarta-feira, apesar de inflação abaixo do esperado, e encerra setembro no vermelho Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3Y1eERkSmdDUW5ndWZ3UXhpSTVxX3VqcEJNNWJaeFpUbWlXeWpTcHJ5S1lRNUFGVGNKMHlyanRoWkc1VWpNQ3dyTG1wWFpXRWJablpWckFSUzRiTEJ4UERXbnpKcWpLakF2V2JXUmJzeTV4YU1CMF9oZi1xVk5zU2thY19UcUFiM3Jwb2lXTjBqa3VJQXZxYTJlTU5oT0dpSVlESjBJRUJxOXhYWUtNZHpIYndYTlZwekRpazV3V0J0MFJwNVhjcVhuNk15QURnMEJyekJMZVJRYm94NUZN?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "c349bde2f6789175ef1cdbba3153ef60ba6b3191031bd3dc3af233aaa0a3cb7f",
+    "titulo": "Selic em queda: Quais ações investir - Genial Analisa",
+    "resumo": "Selic em queda: Quais ações investir Genial Analisa",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkhHWTdnelphYzd1QlRZZ0o1b2ZGMkdRZ3VZR1M2MmJSZ0NaaFNrVVZMeFFpekpiUUdiM2hfU1RXc2JCQ1pXZ0lnMThwSjJpZGg2Rklhcjl2Yks3UUJEMUFNQnBxUTZoMDEwSk9PQ0FuemZQRTJ1R3NFUEItNkZIUmlmWEhiWFpaVGVzLXNMMkRVcjlqN19RMEJXNFlVR3dyNzNGZQ?oc=5",
+    "fonte": "Genial Analisa",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b70c027162e976c8d2354b6ad310233b6b8f47148b568cbb7f2c4889b79606b7",
     "ativos": [
-      "WRLD11",
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 14,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -25,64 +27,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa sobe 1,37% nesta 4ª e supera 186 mil com bancos e dados de inflação nos EUA - InfoMoney",
-    "resumo": "Ibovespa sobe 1,37% nesta 4ª e supera 186 mil com bancos e dados de inflação nos EUA InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXdJVTEwS2NySlhaREpVRmExVGJtSW05UUpzZ2tMRVN4cFhkck5EMkF2RXB1c0Uxa0lvUV9HTk1Bc3NJSXpZNVk5UUtGQklmd0ZyVnJJcFhzRWNrNVNZTXZ2bzZUTl94cF9MbFVPaWZhZUlnOXQtUVpOOWFBT2szQ3QwTkpUQWQ2Q0VVOGNzMm54UElLdDNHRGpBVDZDOXlvNTVEUEhuUU9Nd2pLd3N5dkRaWllVRWpoT2N3UTRaXzdoRVnSAcgBQVVfeXFMTV9Vc0EwLUlaZ0FhUHJqRjQxaDRwRk9JOHlUbkd4WkNYVWtIeUlqUWtHZ2w5R1RSOWJmeW1JOXFDb1Q5SlJEYlR4UE10dGlpa0tpa1NSQ0RlTmVsX3c4RWdJbUpzMC1oNzYwbkdpVkdBSkVhX29VdUJwSEtLUUFoTXFRZ3RYbS15dTdMNEFia05Cd2tKUnlWbUNDUjg3dGRrMXByMjZfQldROGZ6ZVlFSVVqdmgxbXY5ZGhPbkg1OWRsWldUZVl5Q2E?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "430a654c49fa4b6dbc5ffbd91a833ee2a04eb2aacea178c8a3e1a29d2e302105",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha em alta com bancos e inflação abaixo do esperado nos EUA - Notícias Agrícolas",
-    "resumo": "Ibovespa fecha em alta com bancos e inflação abaixo do esperado nos EUA Notícias Agrícolas",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONF9vN25XZEh3eTRPSU1SSXFJa3NaVG05QWY1R3BuZnZPSi1ySUNjRVpNdjVMcU9wS2cyN1VSVjJKVnFobnM0SnVQR2F2VlExSEVnVERzNVZNanlINlByaEZ2NUNPa0hlbG1pWXV6MVhJSDJud093UFFPX3Nja0VPSGtjSld2Wkg2Zk5OZFp2TFhjajhJUmVHZkZtc3ZfcE9YblFaazJVNUlheGl1ckRVdmd1UFlFamQ3NTc1S1RHaXg5RS1rRV94dUtCVEh0QjRJTmpMNnNMLV96SjdkclpIMdIB5gFBVV95cUxPRC04cFRCYWZXWDJLY3VKMTVBVlJjNjhRWlBvYmtIdUxHNWZWV0huUEp4eU9TRTBBeGRJWE9PcHZVa3ZyVGpOQ2VWSk85ZkJzSWI2c1JrandYOUxjYkFRblZINVBfQjJHRFdqRkRFUVE3V1RaUjlsMzNnbW9uZEZXSHlGLXhwNWY1WVlCVURCa2J6dWVsTGRGQzhkZFhkNklfWTRudlplQzJfT00xMktJcHFseDRlcFZCSEpXRHphSUhHVWN2aEs0b3BRZHRnNU9NcGFLX01VRnJMNGRmSHdaaS1LSlJ1Zw?oc=5",
-    "fonte": "Notícias Agrícolas",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f4a67703fea8d8ab7f71df695787d529221cd5fed25075fc51163e44dde14a77",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "S&P 500 recua, enquanto Nasdaq sobe após dados indicarem aumento moderado da inflação - TradingView",
-    "resumo": "S&P 500 recua, enquanto Nasdaq sobe após dados indicarem aumento moderado da inflação TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZFRxSTJfN05FUTlnVWlMdGVNZjdEanJoR1RlLWdWYmN1dElmUUtSNjZla3VnUjdyOTFlTC1sZzl6eFZuQzQ4T09aZTNuMXdxdjNrWFBJNHdRUVdmZnlZa2JYYlBGcFBoLVY4emE5Mll0Q1dMUHVF?oc=5",
-    "fonte": "TradingView",
+    "titulo": "Fed mantém juros: inflação desacelera e Wall Street sobe - ISTOÉ DINHEIRO",
+    "resumo": "Fed mantém juros: inflação desacelera e Wall Street sobe ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdnlBZnRWRnRoOTBfU2dsTm5KRmxsMDdqMFJJX0Y5RDNaU2hzUmx5QnBGWXNiMjlLWXJrRy1NRW1DNGUwa1pBMW9PRFBDNDVDSXZrVkhscUpXdnZYRTdIYnp2bEtjbnZBUlFV?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "cd8eca27afb40b023404126eb1d4497bce802a0af16ee6c1185044275209c8da",
+    "chave": "019d996cd96fa72d17ad053609d5f703d53920c59d5cc528090dbd9674c48819",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -101,21 +51,63 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "S&P 500 recua, enquanto Nasdaq sobe após dados indicarem aumento moderado da inflação - Terra",
-    "resumo": "S&P 500 recua, enquanto Nasdaq sobe após dados indicarem aumento moderado da inflação Terra",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaWs3TnBCRnRBeUtMNlRleG0tNERvbkhfTS1OUG1Oc0VlWnhtclRuaEdlSlMwVWpnMWpmQnRlMlMtbEdOTmNCVUZrQWRIT2lJaEhSQ1VTaThMYzRnSGFZQVViUXl2YnpNVjNWZHVkeUlEai1KeFlQM29vYXJyeWpxRDFrR0U1LS1OcVExZC1lbXlzOFE5QVQ1bzdkWE5mS2NBRHdtTlZLX0tuZnNxZkdyaXU0eUg4MllZaTRMZ3otay1jYTA5OXlwY2dEbXRsQzR2SmowZ1BvUXoyTUFCS3lacnhyQy1OcTlCX3FLektDdExJYVpkTmc?oc=5",
-    "fonte": "Terra",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "8216afd0ff6c34c6cdebaf7921f76a364474d0cb08cd06ee2e9f39b3c9309953",
+    "titulo": "Banco Central: contas públicas têm déficit de R$ 10 bilhões em agosto - Agência Brasil",
+    "resumo": "Banco Central: contas públicas têm déficit de R$ 10 bilhões em agosto Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeXhCTi0ybk5QNDJNYjAzWUc4ZUdpLVhhdmw0QXRmU3J5SnJKRzVUT0plcmh0alBublRDUGR4YmFfcDcyLUN4aW9BTm5TeDh0NEJqVktpMFhxRzc0cnYwcG5QNkdNem41VzVFeFpmak1HR2s1OFcxMmVpRVVreHUzSFdmVHZUcnFSS3NmZl9heGhZOHNFRHpDQlZSbUtMNDV3T2tuSDBKdDZ6VDJoZGhSVG5IVlgyZDdjVi1MVFJ3NmZQd21qWlF0cHdsRUxlQV91TnJjRHJ5aUZZMkhlakE?oc=5",
+    "fonte": "Agência Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "1d06acd5e5f86cd93f9403373c2893f322cf85fc58d99278761bf8a798cf327f",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dívida bruta atinge 82,9% do PIB em agosto, diz Banco Central - Poder360",
+    "resumo": "Dívida bruta atinge 82,9% do PIB em agosto, diz Banco Central Poder360",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlhSV2YxSERCVXh1ZHQ5eDljNkFBS2lHMV9wbnFCT1RiY0h5Vll1ckF5dXhQUzdMeEZQb2FYUmhVbktRTl95c21VWkdkSzNhY29XbUU3cnd2UUlZVkZBLXRZN0pVMnR6OTdhcTNRellWTWNtcGNJRzN3V0UyeWFia0hLd1pRX3FYaUo0b2pEMUpsdGh4OVBIcmVxbXZfRGpIUldRbA?oc=5",
+    "fonte": "Poder360",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "bdeb3715a0f14ae45ecc6d834b043f36a65b83e625da9efb1d3fb3e9f5b9f263",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dívida bruta do governo chega a 82,9% do PIB em agosto, aponta Banco Central - Estadão",
+    "resumo": "Dívida bruta do governo chega a 82,9% do PIB em agosto, aponta Banco Central Estadão",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3lvcFVwWU5JdDRxY1ZlZkU1VFpQSTFHV1NPX3BQTTE3cHZBS3pRenJ2N2l1bTlwODF4YkFZS0ozMlVRdkduY2NxZlg2U2hSeTZ0Q05XZkdad0p2MHBhWmhNZkVBMzdvbC1NYXM0ZG9DY3NCTVJocXpRbHNDS1RnNUNDTFd3bWNrVDBXVkh5Mk5WM3I3Y2dBSVU2bw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4b506a8b9626e0dcace668cd12a138f214805dfc8914b6d214c1db89d39e377c",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",

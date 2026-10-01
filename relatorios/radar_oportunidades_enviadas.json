@@ -1,94 +1,5 @@
 [
   {
-    "data_envio": "2026-08-18 11:41:18",
-    "chave": "8b5e50be3f91d0263ebb6c1c52b3606163f242620eb70253fe6e44f7f2cbdc82",
-    "titulo": "BTG pediu aval ao Banco Central para compra de ativos do Master, diz diretor à PF - Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkI3THExVEk4ZFZUTzhud2wxZGVDOVNwdmtCNXpjYVdCSFd6UHdNYUJ1dmpyVV9EYkNUcG5Yazl2R0hzc0ZYWVotWV9kSWtpNHg0MW9hZk51VGg5eUJtZ3hjNTJBNk01TzNQU29GV0V6SDhBcERBMFRrb3Jjc3d5Y0JQLVN2dVhvMHVqdXNjYjRSZUN5anc0NF9DeS1zRzZnM0gzblA1VWh1Y2FtRml2N1NFZkpCZw?oc=5",
-    "fonte": "Vero Notícias",
-    "score": 13,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-18 11:41:18",
-    "chave": "8e57eed884f7ef175df631fec5366d29fc5ae4c051944f33deff82f4b81a5e0a",
-    "titulo": "Tesouro IPCA com rendimento menor; entenda - CBN",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDVEVUdhWllmTTYyQ0JQN1lJY2NuVFVZU0RXa1BpdVNOcFBSTTdzNUtfZlFPRkRTQ3M0STVWdjNMNzFyb2d6WXRBMWZld2V1LThHeGgyeTlTQWUybjhScFRfRVVnMWJSYi1EUEpIbzlRZHEyNHd3V0haT0JSbThReTBFWmNMSnluUUlVR2hVeUNVUm5uYVJReXd1aXBJMlcxQjVpR2pLOU1vUzk4N3hMQWdLVTNtV3Q1RExETm1taU5ERGRS0gHTAUFVX3lxTE5yOHNGcmtSUHIxMEVFU2g5REs3MW9rY19wanI5NzJDVUI0OGVYQmZKa3Q2LW0ySVJyRzgyV01nbThwN19XZUQ4VFREeWk3YmhwZ0UxWXRiTEcwdUdkNG5oZzV5el9wNFZJMTlWSnBrTTVYb3dka0JIdkVqMHhxQVlrZnNORzNJVjJSQkh3Ql9kVVJTbEJJQXZNS2kwUGRjY2EyUkxWbUpmQnBiMkZubkU4cmh6Rjc2bHpzdk95YmVNQ0NPOWx2NXU1V1p4R3Z4dHVhanc?oc=5",
-    "fonte": "CBN",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-18 11:41:18",
-    "chave": "0d352e5f2e74a82cccaa77a27fc57cfe60c8f2aae0dde6746eb71fabfcdf82d9",
-    "titulo": "Estratégia de Renda: As ações que pagam mais de 14% e superam a barreira da Selic - ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVV2bmJtMlZLWGhxZGJ0N0tSdHl0ZnVhdk5qbm9CbnI5M3NkR210UWZNU1V0UFlNN21jZ3JtZkJxT0JaanpPbWhYYlB0Zl9vR0xCbGZ2SlNWRUp3NzRRa3VyWlZ3Zm5MdkNjSjVNa2lNemlCcG8yaGIyYVZ6XzRjRkhfalZFMkJLdUItUA?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-18 11:41:18",
-    "chave": "4adac88da3e5bff203d00c688bb784710e60f49034df381fbce3e9b8ee008f62",
-    "titulo": "Descontos em imóveis, petróleo a US$ 90, dólar, Ibovespa, mais agenda e pílulas da economia 18.08 - GZH",
-    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPbjNIdmh6TC1YOWZwYjhWV2RtYTdqeXVHMHNDeG5wYjN3SGx3UjBXc0FHRTd6Y1ZwX3Z6VWpLTFQyU09WYVZ1c1FTMnJzQ0hLWUdIa0tWNFNpdy1mdm1mWWRVZE5MbUZGb2djc00yQjU5bWJyTVljV1NCUDJ5ZGlNZVhudktqZnh2UkRKdm5TdnYtTHBVbld5T3l4UVctb0dYc2NIeVlzd05yMjBPRDMwOGl3SkhUcFo4ajFzVDNTMmktU09NV2dXeTY2VUZmSTF2eVNhUXo0VHNpU3U2QU1WQzIzOG8zR1YyazRhX3IyMjRuU3paZXAySjZWa1FWZHp2eFJiWWduVFNXd0FidkF6cENkYmlzYk5FU0ZlM2pBTGc?oc=5",
-    "fonte": "GZH",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-18 13:07:22",
-    "chave": "9e8d224ff631059e3c2dffa3f9bd4b6d5f2619c4bede23dc2462124218947571",
-    "titulo": "Tesouro IPCA com rendimento menor; entenda - cbn.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDVEVUdhWllmTTYyQ0JQN1lJY2NuVFVZU0RXa1BpdVNOcFBSTTdzNUtfZlFPRkRTQ3M0STVWdjNMNzFyb2d6WXRBMWZld2V1LThHeGgyeTlTQWUybjhScFRfRVVnMWJSYi1EUEpIbzlRZHEyNHd3V0haT0JSbThReTBFWmNMSnluUUlVR2hVeUNVUm5uYVJReXd1aXBJMlcxQjVpR2pLOU1vUzk4N3hMQWdLVTNtV3Q1RExETm1taU5ERGRS0gHTAUFVX3lxTE5yOHNGcmtSUHIxMEVFU2g5REs3MW9rY19wanI5NzJDVUI0OGVYQmZKa3Q2LW0ySVJyRzgyV01nbThwN19XZUQ4VFREeWk3YmhwZ0UxWXRiTEcwdUdkNG5oZzV5el9wNFZJMTlWSnBrTTVYb3dka0JIdkVqMHhxQVlrZnNORzNJVjJSQkh3Ql9kVVJTbEJJQXZNS2kwUGRjY2EyUkxWbUpmQnBiMkZubkU4cmh6Rjc2bHpzdk95YmVNQ0NPOWx2NXU1V1p4R3Z4dHVhanc?oc=5",
-    "fonte": "cbn.globo.com",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-18 14:52:17",
     "chave": "e5972ee854918047da2f4d0527c1d955026b7e43a07d11e369015607f7587afa",
     "titulo": "Atividade mais fraca abre espaço para corte da Selic: ouça o Diário Econômico - Canal Rural",
@@ -17482,6 +17393,87 @@
     ],
     "classes": [
       "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-01 05:54:10",
+    "chave": "b70c027162e976c8d2354b6ad310233b6b8f47148b568cbb7f2c4889b79606b7",
+    "titulo": "Selic em queda: Quais ações investir - Genial Analisa",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkhHWTdnelphYzd1QlRZZ0o1b2ZGMkdRZ3VZR1M2MmJSZ0NaaFNrVVZMeFFpekpiUUdiM2hfU1RXc2JCQ1pXZ0lnMThwSjJpZGg2Rklhcjl2Yks3UUJEMUFNQnBxUTZoMDEwSk9PQ0FuemZQRTJ1R3NFUEItNkZIUmlmWEhiWFpaVGVzLXNMMkRVcjlqN19RMEJXNFlVR3dyNzNGZQ?oc=5",
+    "fonte": "Genial Analisa",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-01 05:54:10",
+    "chave": "019d996cd96fa72d17ad053609d5f703d53920c59d5cc528090dbd9674c48819",
+    "titulo": "Fed mantém juros: inflação desacelera e Wall Street sobe - ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdnlBZnRWRnRoOTBfU2dsTm5KRmxsMDdqMFJJX0Y5RDNaU2hzUmx5QnBGWXNiMjlLWXJrRy1NRW1DNGUwa1pBMW9PRFBDNDVDSXZrVkhscUpXdnZYRTdIYnp2bEtjbnZBUlFV?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-01 05:54:10",
+    "chave": "1d06acd5e5f86cd93f9403373c2893f322cf85fc58d99278761bf8a798cf327f",
+    "titulo": "Banco Central: contas públicas têm déficit de R$ 10 bilhões em agosto - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeXhCTi0ybk5QNDJNYjAzWUc4ZUdpLVhhdmw0QXRmU3J5SnJKRzVUT0plcmh0alBublRDUGR4YmFfcDcyLUN4aW9BTm5TeDh0NEJqVktpMFhxRzc0cnYwcG5QNkdNem41VzVFeFpmak1HR2s1OFcxMmVpRVVreHUzSFdmVHZUcnFSS3NmZl9heGhZOHNFRHpDQlZSbUtMNDV3T2tuSDBKdDZ6VDJoZGhSVG5IVlgyZDdjVi1MVFJ3NmZQd21qWlF0cHdsRUxlQV91TnJjRHJ5aUZZMkhlakE?oc=5",
+    "fonte": "Agência Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-01 05:54:10",
+    "chave": "bdeb3715a0f14ae45ecc6d834b043f36a65b83e625da9efb1d3fb3e9f5b9f263",
+    "titulo": "Dívida bruta atinge 82,9% do PIB em agosto, diz Banco Central - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlhSV2YxSERCVXh1ZHQ5eDljNkFBS2lHMV9wbnFCT1RiY0h5Vll1ckF5dXhQUzdMeEZQb2FYUmhVbktRTl95c21VWkdkSzNhY29XbUU3cnd2UUlZVkZBLXRZN0pVMnR6OTdhcTNRellWTWNtcGNJRzN3V0UyeWFia0hLd1pRX3FYaUo0b2pEMUpsdGh4OVBIcmVxbXZfRGpIUldRbA?oc=5",
+    "fonte": "Poder360",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-01 05:54:10",
+    "chave": "4b506a8b9626e0dcace668cd12a138f214805dfc8914b6d214c1db89d39e377c",
+    "titulo": "Dívida bruta do governo chega a 82,9% do PIB em agosto, aponta Banco Central - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3lvcFVwWU5JdDRxY1ZlZkU1VFpQSTFHV1NPX3BQTTE3cHZBS3pRenJ2N2l1bTlwODF4YkFZS0ozMlVRdkduY2NxZlg2U2hSeTZ0Q05XZkdad0p2MHBhWmhNZkVBMzdvbC1NYXM0ZG9DY3NCTVJocXpRbHNDS1RnNUNDTFd3bWNrVDBXVkh5Mk5WM3I3Y2dBSVU2bw?oc=5",
+    "fonte": "Estadão",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
       "Caixa / Reserva"
     ]
   }
