@@ -1,63 +1,11 @@
 [
   {
-    "titulo": "Nota técnica orienta municípios a adequar cobranças ao teto da Taxa Selic - AMA - Associação dos Municípios Alagoanos",
-    "resumo": "Nota técnica orienta municípios a adequar cobranças ao teto da Taxa Selic AMA - Associação dos Municípios Alagoanos",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEZYT0xIRG5wR1JYX0FMb1pqMVlXQVpwMUpfaV9CczZ1UjJhblVNcVhtRGpmS1VnSV9HR2RYWjFCMWtwZEhkc09jMVRyVWJrcDBtZ1hZOVF4b1MyUXZPak12Nnp4dFFCVXRCNzZGU29TVzZ6NnBsWm9tVVlHdmNtdzAzNzBHVENhYTBZQlc2Z3VYN0RSZ2FZcXNJWXA?oc=5",
-    "fonte": "AMA - Associação dos Municípios Alagoanos",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "58505238d8acbbd485ba0a753d9aa854b6470569b79fe33c584743aa096eafbc",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Criptomoedas: Essas duas regras do Banco Central passam a valer hoje; veja - moneytimes.com.br",
-    "resumo": "Criptomoedas: Essas duas regras do Banco Central passam a valer hoje; veja moneytimes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjRtYzhoVHc3SGpocElnZHNDWlRaYUhrel9xT3p6QlFJM24zaXdTTF9GaVdnaGhPZ1J6Q0h6S3l4UG0xZzhmblpuUXVJcmRiYkEzRjV5a3Q4M2lzM2drU1d3VGFoXzdZYmtkYkl6UTNpZzVlMC13NTlMdDJXdUxuY0RFc081aU9CVG1odWRDOG04dGNXb21oMFhiSW1qbzRKZVpnRzdvTGJvT0Jk?oc=5",
-    "fonte": "moneytimes.com.br",
+    "titulo": "Pix por aproximação: nova regra do Banco Central - cryptoid.com.br",
+    "resumo": "Pix por aproximação: nova regra do Banco Central cryptoid.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMGktVDFLenphNUtaWjZsZ1VCUk05V0pVRkQzYVFoRXBrSk54X1hTdkdTZFlBRFFwcTVaZk1EOWo5SlJZTTE3N3FtV1NZZTFpdGhqVWhzREp2THhRWGNQdFZkWVdCRGxpZnFvMG5fejZpeWhqX2ZVSGpmY0djc2Q3SlJxd05JdGJmVHlIOW9IWWJvZFVoRTJmRHl0V21DdGhiTVZPSjJKbVd2WERseGJySXdlZ0lHdkh1akJiZDUxM0tWRi1RMHhQdWpvS08tZGpGSnRqazNyRWxKRUNhWW82YnpJdmttajA2ZFRQZ2xidw?oc=5",
+    "fonte": "cryptoid.com.br",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "d5dad69dc302c51c1ab4100285022f96cb419b3d7c6de2037c8621574ddb14bc",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central elimina limite de R$ 500 para transações via Pix por aproximação - O Imparcial",
-    "resumo": "Banco Central elimina limite de R$ 500 para transações via Pix por aproximação O Imparcial",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWlIT0JSa3R5dkQyTXBFVVhGeXNZbVB5dFFpUXdBM19ROUV2NHdzRkZralhnT3NwdFNZTFcxM2JXcGZySUV5WnlMU3RpYm5YS19sVVZmUTBCWTVsWElCMTNtendtd0ViamNieEd5dGJNUWZuSFdMdmZNazdyZVJWWWZzT2tRYXYzb3hOVnF3OXloQksyeVpUV2JxTXNrSlhPLXA1RnBKQjlJNmtkUElUaEtkZTZ3QkwyZHFZLWdB?oc=5",
-    "fonte": "O Imparcial",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "539bfbcb6b966696a292ae5a3b28a4e2ffaf17afa043a6f78d7a6c0bc397517e",
+    "chave": "031f2876f19a4ab2a4086c1e700cc7fedb299b81b93845df77687c71e3c0577e",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -74,12 +22,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Elon Musk volta a assessorar governo Trump em projeto sobre \"guerra do futuro\" - Vero Notícias",
-    "resumo": "Elon Musk volta a assessorar governo Trump em projeto sobre \"guerra do futuro\" Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkhJMVNlemsyWTMyZV9XQVQweTRTWU5QOGdoTV9MbU1BX1BNcWN3N2pYLVBTWmNJaFZDdzFBVV8wTlpva2trbUhqa1J6Rkkta08wVUkxeTAxMGNRQ2xZVXFSUEJIOUJTaU1jMk4yQU9PWHRwaTZQRHdqLWpOTzFvVE16NEhBVUNhQ3dQMmgzUDkzLTU5aDM4NUlfc00tWjVPRGNYRzMtcHdSNk5z?oc=5",
-    "fonte": "Vero Notícias",
+    "titulo": "Musk volta a assessorar o governo Trump em projeto sobre a 'guerra do futuro' - Folha de S.Paulo",
+    "resumo": "Musk volta a assessorar o governo Trump em projeto sobre a 'guerra do futuro' Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObnFBRGQxeGU0dHM5eXg3UkpDSm1wOTZ5TkIteFZHczB4NTVkQVFwbUktTHVKSEgtdTZqOHlUNlpWMGNfNUxZOHowWlZrRkJmbHZKRTVRZXlxbndlQzhMelQ2Y1hseWVTeEI3emRFT2FzSU9rdGRpSTNsSUgwRTktQ1NMQS1ZbHpSeGp4amVPLUZicWQ1ZUtyb1Z2cWZvdVIxNlUyQnFBRVRidmExZmF0MzJwX3VDeEd6TmVlYW1nU2N1cUE?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "052c5ebefbe3a5207d26d8f54c1c42f8a429c9ff4e01df031a32a66d7d8c4397",
+    "chave": "e9267805153e89b0d85751c0242db179367db097439d2836033b89ef7a24b3ae",
     "ativos": [
       "SPCX34"
     ],
@@ -95,12 +43,54 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pentágono escolhe Elon Musk para projeto sobre o futuro da guerra - jb.com.br",
-    "resumo": "Pentágono escolhe Elon Musk para projeto sobre o futuro da guerra jb.com.br",
+    "titulo": "Pentágono escolhe Elon Musk para projeto sobre o futuro da guerra - Jornal do Brasil",
+    "resumo": "Pentágono escolhe Elon Musk para projeto sobre o futuro da guerra Jornal do Brasil",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnNFUVB1QUxSWGFNRzBJZDN0MWEzN2FJR1hUbXRHWGNhQTNxaTRleXh1SVIxTFphenZ6a0s2dmUwZTJGdFlpeFotUUtIeHl2SjRuQjRTYUhoS1hjcTBNNGh4eVhWbnpLZXl1ZXluZmMyTmdXRGxpc09mZEN2NzhMRFpCM241dGl3aXUwaElHSllYNHJjN0J0S3FkVTVHeU1wTkFxTThKTmhOakpjdjRMNzF30gG3AUFVX3lxTE5BY05ERDYwMkxSa01ualBUQVVULTN6TGZlM09TODR0Mkt2ZXFwTWZWcTcyajk0UFRMZ09uNzFrb1FCbTVHZFhGTWVhZm9ISVVjenlrSzBTY0pBaFNBZW1ZYzByeTZHbktkd2RqOWZyLXM0YUs3QUE3NUxGYk1iNE9qemRRdFVJTzVmNGdFV3RSeGl0eDhQS0wxaTY4N1lIRWpSc2FxOXpfZXBybDVXX2gzYTVnQWJ0SQ?oc=5",
-    "fonte": "jb.com.br",
+    "fonte": "Jornal do Brasil",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "d0ed2c0f85afeabdc1a8b7d060dc6fdfa59d95d5da079e1e221c8867d395a238",
+    "chave": "2459d5349fb361271a8714de2a84851e4143ada136bfa578bb6efc59e49677ed",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Elon Musk volta ao governo Trump em projeto do Pentágono sobre futuro da guerra - Brasil 247",
+    "resumo": "Elon Musk volta ao governo Trump em projeto do Pentágono sobre futuro da guerra Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEFDR19YZDNtYUlaZlhKU0ZXMHdKRURWdWRBeVA5Y3RYSGVMSl85dHBhMkJZZnhfZXZWcndfVExLMDM1eG1fODlNdHREUTJsdWQzczJyNzdObmdUVk85ZzJ0alRsWV9PeThMV1ZHSnF3MFpSVGRwZERZNzZLZGMySXpHYTJaaWF1dEo4a3VId05aVjJIcnRyeFFhTktNRHc0WUFNblFSYlFWNGNRSUVOTHdn?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "a297aac2e55008b275411901aab6c6fb3709956b9e01864977e16531381b18b3",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Elon Musk ajudará Pentágono a definir armas das próximas guerras - Olhar Digital",
+    "resumo": "Elon Musk ajudará Pentágono a definir armas das próximas guerras Olhar Digital",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPektwWnd6WWpLREVOdS12ZmxHMkFxcThMa3F0NjRfdUVZd2pvTnFCNWxzb2FLcmRXd2s1bG1pei1OTW1CWGpCSzEyTUE3ZjZrT1hlU2pKSGo3UGNJVWJMdVZFZThQdXgtZm5IaFFUSy1DYW4zWFBWdjZZWXpvOHdRZmRndDk0Qk1TWEc2SzVJcll5U0RYVl9GNWc0dEo2TVItNk9pam84VTZ5cHUw?oc=5",
+    "fonte": "Olhar Digital",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "c8ecdb4f41da46b8b88d62c2ddb42f01e73e5c37a99702dd49189b38b3019a5c",
     "ativos": [
       "SPCX34"
     ],
