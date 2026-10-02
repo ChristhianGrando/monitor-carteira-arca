@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Pix por aproximação: nova regra do Banco Central - cryptoid.com.br",
-    "resumo": "Pix por aproximação: nova regra do Banco Central cryptoid.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMGktVDFLenphNUtaWjZsZ1VCUk05V0pVRkQzYVFoRXBrSk54X1hTdkdTZFlBRFFwcTVaZk1EOWo5SlJZTTE3N3FtV1NZZTFpdGhqVWhzREp2THhRWGNQdFZkWVdCRGxpZnFvMG5fejZpeWhqX2ZVSGpmY0djc2Q3SlJxd05JdGJmVHlIOW9IWWJvZFVoRTJmRHl0V21DdGhiTVZPSjJKbVd2WERseGJySXdlZ0lHdkh1akJiZDUxM0tWRi1RMHhQdWpvS08tZGpGSnRqazNyRWxKRUNhWW82YnpJdmttajA2ZFRQZ2xidw?oc=5",
-    "fonte": "cryptoid.com.br",
+    "titulo": "Tesouro IPCA+ e prefixados são destaques de setembro; vale investir? - UOL Economia",
+    "resumo": "Tesouro IPCA+ e prefixados são destaques de setembro; vale investir? UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV0h2ZEZBWHlhMmVjeGpKSDFiOXNsODQwc1gyN3draENBM21hdzFGSEZ1N0RXMnkzdXpjcUZXQVRleVFmcklHMk1vTEZDN2NLV3BMOTktc2ZBbUtlRy1neVpvV1VtUjBsdGtxYzVXWUNwNkQzek5NaE0tcDRiNi1rMG42Ui1QSEFHMFNWSVh6VWRnUzJXbGRFdUl0d3JPdnBpd005XzBzMzJWX3c0d3BBb0NjX2VFWFdjdXdEOTJqb1JqRGM?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "03158238471ade20dddcf2e001d6352c45626806959799bd4a91f7272f583666",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central autoriza expansão da Educredi no RS - Rádio Pampa",
+    "resumo": "Banco Central autoriza expansão da Educredi no RS Rádio Pampa",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1YtbE1ManFlOWZYWnM0eDRqNUFvaHc4dDRFX19xbjAwWjRHc1BBS2tVcWFJN0RkMlVUZlRLUWZ3cXFpTFZ4WkdkTElUSlB2QU1vb1ozeldmOFhTRlhfZWc1VkRUS3UydG9SZVlSRExVeW8xeVlKWmx1RGE1RE9TcV85RjdYMGs?oc=5",
+    "fonte": "Rádio Pampa",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "031f2876f19a4ab2a4086c1e700cc7fedb299b81b93845df77687c71e3c0577e",
+    "chave": "e77111e3df0ea17f55257781e83a425a21a0b1022840142f5e77128082b793e0",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -19,90 +45,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Musk volta a assessorar o governo Trump em projeto sobre a 'guerra do futuro' - Folha de S.Paulo",
-    "resumo": "Musk volta a assessorar o governo Trump em projeto sobre a 'guerra do futuro' Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObnFBRGQxeGU0dHM5eXg3UkpDSm1wOTZ5TkIteFZHczB4NTVkQVFwbUktTHVKSEgtdTZqOHlUNlpWMGNfNUxZOHowWlZrRkJmbHZKRTVRZXlxbndlQzhMelQ2Y1hseWVTeEI3emRFT2FzSU9rdGRpSTNsSUgwRTktQ1NMQS1ZbHpSeGp4amVPLUZicWQ1ZUtyb1Z2cWZvdVIxNlUyQnFBRVRidmExZmF0MzJwX3VDeEd6TmVlYW1nU2N1cUE?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "e9267805153e89b0d85751c0242db179367db097439d2836033b89ef7a24b3ae",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Pentágono escolhe Elon Musk para projeto sobre o futuro da guerra - Jornal do Brasil",
-    "resumo": "Pentágono escolhe Elon Musk para projeto sobre o futuro da guerra Jornal do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnNFUVB1QUxSWGFNRzBJZDN0MWEzN2FJR1hUbXRHWGNhQTNxaTRleXh1SVIxTFphenZ6a0s2dmUwZTJGdFlpeFotUUtIeHl2SjRuQjRTYUhoS1hjcTBNNGh4eVhWbnpLZXl1ZXluZmMyTmdXRGxpc09mZEN2NzhMRFpCM241dGl3aXUwaElHSllYNHJjN0J0S3FkVTVHeU1wTkFxTThKTmhOakpjdjRMNzF30gG3AUFVX3lxTE5BY05ERDYwMkxSa01ualBUQVVULTN6TGZlM09TODR0Mkt2ZXFwTWZWcTcyajk0UFRMZ09uNzFrb1FCbTVHZFhGTWVhZm9ISVVjenlrSzBTY0pBaFNBZW1ZYzByeTZHbktkd2RqOWZyLXM0YUs3QUE3NUxGYk1iNE9qemRRdFVJTzVmNGdFV3RSeGl0eDhQS0wxaTY4N1lIRWpSc2FxOXpfZXBybDVXX2gzYTVnQWJ0SQ?oc=5",
-    "fonte": "Jornal do Brasil",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "2459d5349fb361271a8714de2a84851e4143ada136bfa578bb6efc59e49677ed",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Elon Musk volta ao governo Trump em projeto do Pentágono sobre futuro da guerra - Brasil 247",
-    "resumo": "Elon Musk volta ao governo Trump em projeto do Pentágono sobre futuro da guerra Brasil 247",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEFDR19YZDNtYUlaZlhKU0ZXMHdKRURWdWRBeVA5Y3RYSGVMSl85dHBhMkJZZnhfZXZWcndfVExLMDM1eG1fODlNdHREUTJsdWQzczJyNzdObmdUVk85ZzJ0alRsWV9PeThMV1ZHSnF3MFpSVGRwZERZNzZLZGMySXpHYTJaaWF1dEo4a3VId05aVjJIcnRyeFFhTktNRHc0WUFNblFSYlFWNGNRSUVOTHdn?oc=5",
-    "fonte": "Brasil 247",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "a297aac2e55008b275411901aab6c6fb3709956b9e01864977e16531381b18b3",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Elon Musk ajudará Pentágono a definir armas das próximas guerras - Olhar Digital",
-    "resumo": "Elon Musk ajudará Pentágono a definir armas das próximas guerras Olhar Digital",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPektwWnd6WWpLREVOdS12ZmxHMkFxcThMa3F0NjRfdUVZd2pvTnFCNWxzb2FLcmRXd2s1bG1pei1OTW1CWGpCSzEyTUE3ZjZrT1hlU2pKSGo3UGNJVWJMdVZFZThQdXgtZm5IaFFUSy1DYW4zWFBWdjZZWXpvOHdRZmRndDk0Qk1TWEc2SzVJcll5U0RYVl9GNWc0dEo2TVItNk9pam84VTZ5cHUw?oc=5",
-    "fonte": "Olhar Digital",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "c8ecdb4f41da46b8b88d62c2ddb42f01e73e5c37a99702dd49189b38b3019a5c",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
