@@ -1,67 +1,50 @@
 [
   {
-    "titulo": "Banco Central retira limite diário de 500 reais para Pix por aproximação. - REDE BRASIL DE TELEVISÃO",
-    "resumo": "Banco Central retira limite diário de 500 reais para Pix por aproximação. REDE BRASIL DE TELEVISÃO",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajZCNHptSlRNQVM1UjEzb0w4SHFnTFo0Rnk0akJRanY4eVNVdjFVUmNRTUdOTTBZeVh6My1NZTd0Wk4tNXpoM0wxN3kxaFRUVFZ0WTI2bThoRDNtUm5BMEdRNURLY0V0dmpJOHQtYVlGaElCZkZCMEhzVE03RWQwRXlKcVkzcTZmWnlsTmplM3lVVUlpb1FIdGQ1QU1zcU5UajZhNzBkMS1odw?oc=5",
-    "fonte": "REDE BRASIL DE TELEVISÃO",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7415ce1ff88d56c3c5fd0a54314417a782b615a532cac3414664620d5fa218f8",
+    "titulo": "Ibovespa fecha em alta de 2,63% e dólar comercial cai para R$ 5,2165 - Canal Rural",
+    "resumo": "Ibovespa fecha em alta de 2,63% e dólar comercial cai para R$ 5,2165 Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ012S1pHakhzRjRuTGRwaXB0ODJzSGFOQ2JVWDAyOU1HZHhKRjVha1d6R0pGTVFPbnhlazAzTnlDa1VuRkYweWRZdWw5aUlGbW92VVh4RmxxZHJzbGdaS05yV3dSMlVLS1FLSHUwMHYtVm8zcGxZSzF3V1JxdmxBNk5EaEpYMmJhbEhDRDlMYjgxQkNpNVowZ3lkWWhmdDZIUW40YmtoZw?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "45b55be8d403b7a5ecc989e7b9eff32185bcb57d6da567a5d31e22277c0215b5",
     "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Por que grandes empresas cripto ainda não pediram autorização ao Banco Central - Portal do Bitcoin",
+    "resumo": "Por que grandes empresas cripto ainda não pediram autorização ao Banco Central Portal do Bitcoin",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNazNXMnk1NEZQRGJmWWxLNDd4Vm16eTF6c3RZRGRkdXBNcEI5SlJSc2FqODRsYXBFazNvVl9zSXJkbW9wM3RvaFJUMmVUYkdGeXBqc0JuVldVWVBFQmx1UTdmcG0wMlhpNE8ybGhQWnpHVmR2SnhuZWdaR3c0QlpNWWdwQWdORHR3VFFzSHF2V2N0d3RBTWFQRTZNTW8wR3J3d3hfbmpLN0xaWVAtSkxvUlEybGrSAboBQVVfeXFMUDJobHRnekkxbjFKdGVhQWExSlhTS0JsRlR2enhjMTdJS3VwdngzTVVBdUJGODBtVlFXMEVweDhCUEtsQWtMMFNTMEdlVE90VHJTSXVEUkpOYWdGWXkzOWZfSTlVVkFQLWNDelFQR0E1OXRtQ0xqeTFYMHFqRjZ0R08xZE4xb1I3Vko5d0tqS1Qwcm9KV0pUWkhjODgtbU5LRk1JMFBDLVhfRndjN1ZpcU41VEtSMi0yNEtB?oc=5",
+    "fonte": "Portal do Bitcoin",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d4c394a12275c8f4b2cb2ceb57612cedb99deda33d2538177e0a7ad035dfa4bf",
+    "ativos": [
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "LULA DIZ DISCUTIR COM BANCO CENTRAL LIMITE DE UM CARTÃO DE CRÉDITO POR PESSOA - - Bahia Economica",
-    "resumo": "LULA DIZ DISCUTIR COM BANCO CENTRAL LIMITE DE UM CARTÃO DE CRÉDITO POR PESSOA - Bahia Economica",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHB1VXdGZkJqQ1VWOUpZZE9lQWZJajRlRUtoUGZjRmtzNFpGenZoUG1NLXhzZnotS0Mtck5CeXc0WklyTmpHbU91T0pFSGE2ejFNRWxsdGZHaFJQUTh3LS14Z1AzT0lWNXcwM0h1bEp5dmRobEdVUmp2VC02aGllQWg4U3ZBSlBsLVJWLUlESTRLN1FQYzdoQ09iemxwOHlhQXJvMHFxYnNyclJlOU5HZExPbjQ5N0wxYkhxbDdRWQ?oc=5",
-    "fonte": "- Bahia Economica",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "41a3ee1bc774143e4e5bf10e61a4586a6d05c94d456b3d42c0d19ab887e512fa",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Pentágono chama Elon Musk para estudar as guerras do futuro - Defesa em Foco",
-    "resumo": "Pentágono chama Elon Musk para estudar as guerras do futuro Defesa em Foco",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONDRKMENYYnAtM0F6bnZ2NFZFWlItNGFqRXpPQ0w4RG15c0FyUGMzNDUwbjBzNE9oWmVZcUtObGhQaHM4QldYcEI0RjRfWTB0ZkxrRWV4Rk9RN3RTWDNrS04zYVRYcUJ0UWNqc0kyT1N4LVJmSjN2UlJqdTZlWHN0WHBGeXRCWjJ1YXE0SFJZTWx5OWZOenIw?oc=5",
-    "fonte": "Defesa em Foco",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "acc480a653814cdf9b10bd2042e6b813bd00e1604d2e96204684007932054c82",
-    "ativos": [
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
