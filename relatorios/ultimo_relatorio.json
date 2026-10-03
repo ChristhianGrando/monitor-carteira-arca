@@ -1,1 +1,187 @@
-[]
+[
+  {
+    "titulo": "Ibovespa B3 sobe 0,46%, com apoio de ações de petroleiras; dólar vai a R$ 5,22 - borainvestir.b3.com.br",
+    "resumo": "Ibovespa B3 sobe 0,46%, com apoio de ações de petroleiras; dólar vai a R$ 5,22 borainvestir.b3.com.br",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGZYZU8wVXpnaXMxd1lqZkY2Wi1iREtmVGZkMzZzT0pkbUQtRHFCaWNZMUY4bkxOU1F5aXZ5Q0IxNlFOSFJod2swaFJsQnNmUThlTlRNN01sYnF6Y3lBNHBIRzdQN2N1ck9OZmdFT24ySTVhbkdMaFhqLXVpT3o3WUtJVmQ1X3BRNWFyV1FtQ2p6ekJaS1dzWHNJS3ZxX1kydjZ5U3FaeUstOWp3cVJuTkR3RWV0TXVtU2VtN0h3?oc=5",
+    "fonte": "borainvestir.b3.com.br",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Trend S&P 500 Dolar FIF em Ações RL (31.874.833) - trademap.com.br",
+    "resumo": "Trend S&P 500 Dolar FIF em Ações RL (31.874.833) trademap.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNXV2bEQwMTZrX3ctNVg1bnBTSkRqbU5IaklOeWZaRWpCVjI2MkwwcnpUUUtHM2dhRzNiQVVhSXU3dk1WSng3VUNTZUxmc1JFTlVwdUtoM1c?oc=5",
+    "fonte": "trademap.com.br",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Calendário econômico da semana: IPCA no Brasil e ata do Fomc são destaques - InfoMoney",
+    "resumo": "Calendário econômico da semana: IPCA no Brasil e ata do Fomc são destaques InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEhxWFpDSmN6VjNWT1BxdVA3UGpJaDREWkZkU21YTDN2ZElka20yQWE1eDRtc1FwbG1ETVJxajZZcXhhc1gtMkRpR2xWNU04VjgwQXdtSVRLY1RpZk54UjlqYVhvT0NtczlvMmNReVNfeHRoUnpNeXRpam90d0hoLWxyMXpKNmZrNzhrWWptV3NzLVNmQUMtelRPWEhDa0tucjRiOHNDck5CZGd4QWxXdDB30gG3AUFVX3lxTE0wMmtEZXF5ZkhKVjFJOTR3TE92RDMtcU5YWDR4NVhYZkl3SzBnMG1xazMxYXQxUkRBVmoybXBaRXc3ZGl2VUh1YWhhN1NKbFgxLXdsQ0hka3JBTGpsYndfQUIyN0VsUDlLUjlqN3A0ckRTRy0weEV3RGUwalNEMHJrajVsaUEycERScTVQNEI0V0hDeUVpRmZuOXVKTGpzMTFTVENyYXNOQzR4bEVGYmJBMVdYRWdROA?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Eleição eleva risco, e Ibovespa chega às urnas sem prêmio histórico de retorno - UOL Economia",
+    "resumo": "Eleição eleva risco, e Ibovespa chega às urnas sem prêmio histórico de retorno UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN3lqdDZfeFpGX1oxREZHeG1sekd1eE5PVFRUVzRwVWNUOEpEdU9ZT1ZuRTI4OGNrYi1ESUQ0T3BoanB6UzhjUFhPTktTN0Rvd1RGLVVSZ2ltVVQtdGxHR2FVR0phY3JzNm4yM1dnM2NYZ1RjZWVRTmlUZ3k1dG9yaVhJRWZVOHQ1ek92SzA1emFoY0Z3TlUwTV94Zm1LNHFENEJzbDRMdUVJNGQtaXNSeURELVoyVmluNms5NTdWeE12c1BQSmZTOHlBbVZZMXVtTmFQb3BOWHJKb0xQOG5n?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Ibovespa sobe 15,65% em 2026, mas 16 papéis atingem mínimas do ano em setembro - Money Times",
+    "resumo": "Ibovespa sobe 15,65% em 2026, mas 16 papéis atingem mínimas do ano em setembro Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlpqSEJsci1Va0RtRnExcUg3WkJYWGNReWxuQTBpRU9XcDdJTzRmZ2dQNjV6UldxTi1CVWFlT1U1Um5RTVV2bi13NmFxQkdYMXhyWXNlMndBUkpaR2Y2a0d2dkxsTVNCb1JQeGlEcVo3X1VyZzdxNkpuMlFQSUM5ZlYxTDBmNjdXb3pYLUUwQUNIX3hkcTVBWG1CS2F3bXFabm5za2w5bFVCUQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Fechamento (02/10) | Ibovespa marca a 4ª alta seguida e avança 2,63%, aos 192.114 pontos - InvesTalk",
+    "resumo": "Fechamento (02/10) | Ibovespa marca a 4ª alta seguida e avança 2,63%, aos 192.114 pontos InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iT0ZraW0wdkJ0ekRKZlp0ZFpZUmx3eHNOQnJIb3d3cmlBVkdpWm5kTjNJLXNRdnZldk82azdtTzNnV2huN010cURGZU1tYlYwVlhMQjgwUTNLWmlzNWR3bERDeVNFVU1vZHZyS3o0NFoxcmJ4c3c?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Ibovespa Acelera no Final do Pregão e Fecha Acima de 190 Mil Pontos - Forbes Brasil",
+    "resumo": "Ibovespa Acelera no Final do Pregão e Fecha Acima de 190 Mil Pontos Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcE1pV1FkS3ZuR2hQNHdEcG4tNVM5QW5PQzRBS1RfRXpqb3E0cUF5QW9CblJTRmE2N012NnR0QTlrM1BjYjBXTXZmVDliVFUtcTV2cjlJelNtVFIyZHlrMUVxTll5RjFyRjQyQnBGWTVGVGxaajlVd0Z4UlRsczZwZnA5NHcwcHNKRmc1UWFyQ2tqQW1DaGNYMUNMd0RqYTllLXV3VDNyeGZYbzdBMmQ4VQ?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "S&P 500 e juros dos EUA: o consenso está mudando a leitura - Acionista.com.br",
+    "resumo": "S&P 500 e juros dos EUA: o consenso está mudando a leitura Acionista.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdTFpbFkydUxSbnF4UXc4cG82MF9QQnEtc3ZIeGs5WHV4NlpvU1FRWnVtZUxpaFgzYTk5NjVfMG5fTHNoNVJycm9sM2p0WjA2YjFuMldmQVA5N3ZFcjhJSEpOc3N6TU5KQm5WdDVaX08yQkxGYmtDRGF1cmVtNlZEMm93cHdsRklWemc?oc=5",
+    "fonte": "Acionista.com.br",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Florianópolis foi palco de decisão que \"mudou vida\" de Elon Musk para investir em foguetes em parceria com a Nasa - NSC Total",
+    "resumo": "Florianópolis foi palco de decisão que \"mudou vida\" de Elon Musk para investir em foguetes em parceria com a Nasa NSC Total",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTjhXWUczWjY4eGlTSWhLSjNNRnN2cmNJNmVfV2NRNVBjTk5SWUtoR191MWRDbXE0UlpNT3dhNW0xckU2YkUtZ1Exa3NzLXV2UmxHSHU2N2tSbjlhNWFUSU5tZ21jMHhWWFBtYnl6aVNGQTFkaTVITENsWUJYRXBrNERfVHNhNzQtWnFuRHFneW1USjVDLVFENGVqaF93NGprT2VNUVluaWF0QXRYWUVNNDh2VTBxaTlkbjNhbDZ2NExmeTRmQXVRVE5HbzEzaFVWemJRb0t0STRQMVAtODU0ZmV2Ny04ZU14M2c?oc=5",
+    "fonte": "NSC Total",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "TSE usará Starlink, de Elon Musk, para transmitir resultados das urnas nas eleições de 2026 - CompreRural",
+    "resumo": "TSE usará Starlink, de Elon Musk, para transmitir resultados das urnas nas eleições de 2026 CompreRural",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmFYTnZ6VHQzODdVTnBJWGNXTlhZQnJmdURwVllDZnFlNEdnUWY2Q1B3RllrVmZjSHAyYkowTFZpYVdGQ0JlaFpWNVhqeDRfeVppNFIwMWlHelZraXByVVp6Mk4wVEszcE53eGVOaWl1NFFZMUltektsODZxaUxUQTE0eHJ1c0tLUGhESEVwT3I1bGZUaTl3MFRkOC1WSjJHZC1tQzUyckZDZ1VYOXNDeF81V0l5WlBmRVE?oc=5",
+    "fonte": "CompreRural",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Regulação cripto: veja a situação de cada exchange no processo de autorização do Banco Central - Portal do Bitcoin",
+    "resumo": "Regulação cripto: veja a situação de cada exchange no processo de autorização do Banco Central Portal do Bitcoin",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVVFFbEdHSkxrV051Sko2YzJ1WW55dEYtQV9ac3ZJV3VCbDFNeTVVaDhlS3VOZlA2eWs1a3Z4aDRUTlNISFdrYlN0d2J5MmtZbElWTkpjaHJHdEkxSkNDaXRGRWZObEdUaUZnR3YzaHJFYThrcThTQmpyRFJWX2ppRVNPYzcyN1g0Qm9QV1BCX1RyOENLN1dobEVHNmZDUEswa3lDbGJ3RkIyLXUtUF9JaklOWEtVSDIyLWxHam5KVkFZMHgtcm9tRdIBzgFBVV95cUxQaXNhRGdVaS1tSXdUc01IYVJvRm5mX1lSSEtFalZKX3RvYWxscGRhRF96WWkxZ1pUS2RPN1J0THRfMlJ5eXdBRW16bXlEcTVoaVRYZUIxcWRhQ1JGZzhvWFM3M3RVcEc2NU9nN3FhM1NFeTRyR3N2bnQyaFBHQmhwSmdmdnhyaW5RYi1zbmdfNVc4dXBzcmtRMDBFd0ZJOWhkQjJSMnY0RXRWYk5pS2c4Nm5fYWlTT00yQ1ZHbTI3MmNrZ3Z4V1M0SEFHU2tFUQ?oc=5",
+    "fonte": "Portal do Bitcoin",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Executiva Shivon Zilis diz que seu relacionamento com Elon Musk terminou: 'Vou sentir falta dele' - G1",
+    "resumo": "Executiva Shivon Zilis diz que seu relacionamento com Elon Musk terminou: 'Vou sentir falta dele' G1",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQW94clF4dkhxSVRRRUJYZFg5RERCWmRaYnZvLWhFaHFCNjV5WEw5Q2N3ZjFZUXhVM0lEX3oteXhFai0tZjNGTzRZa2RvMnBCejVDV1MyejVHR3FDWkh6RW5NWVprTEVCb3BhYVBvRHFiTkpQam5IM0NKWmhZWjlLT2E4Si1pMGh40gGXAUFVX3lxTE9kQWwwT0lkZ3BMSGNIa2hBOWFtTDRQSmJzb0FSTTEzWHVoYWRYT2RGaERwRzhUTGtzeXVzTk02YUIwaXNLd3VHN1lrOEhvcGhqaC1PYzJidlBFRDJ1NWJldVUyVGVyZlFYaFY4cGFhLV9oZWdTWUwzTERoRzFXbXJxSklDVzFLQkdya0MxSUxBYkM2Q3R5aXM?oc=5",
+    "fonte": "G1",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Mãe de quatro filhos de Elon Musk diz que bilionário terminou relação sem aviso - Folha de S.Paulo",
+    "resumo": "Mãe de quatro filhos de Elon Musk diz que bilionário terminou relação sem aviso Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0lQOWhlZW14ZXVjeDh6Uk1wYnpRNFdNUHlvTXJDNEtNUUVsVXJQdlV3MUlLWFJrei1TeHpLUXloLUdxR0ZlZlgwS2lrN1JHV3RBV05iamNXVjg1d1NlR01oUFAxb1JtS2VyblJQdVpsSkI4OUMyQjVyNnVkejdIZUdKVF9kMXY1VXB5SFRoeHlLRXlrUHlpSGdsVmNmaWRMaVhWb3FhUmk5WEpEWXdkOUJUckpXQXdzQnJueHdNM3U2SDF0T2c?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Aos 68 anos, o bilionário Mark Cuban acaba de contradizer frontalmente Elon Musk: \"Em 10 anos, não haverá mais nenhum\" - Terra",
+    "resumo": "Aos 68 anos, o bilionário Mark Cuban acaba de contradizer frontalmente Elon Musk: \"Em 10 anos, não haverá mais nenhum\" Terra",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTlp6UEhfNjAzT0NUcXIzZnNCZHZhMWhvbWZ5UXMyYXJnZFpTeVFxR2xHdFk0TFQ4eGpXb0NCZzZmSVNJY2J2R05YVTNwOFdadzFZLWU1NjV4WlBvMjdNUmhzejJJa05vZzdybGRjS01VMHVvbWFmZFFNQ2RyMXlXaHo3c29xTWlQaGs3SGRuRnZJd01JUHk2OUwzaU9YSVNXWlowcWhzUmxRUWpXV2tETGFnRmVyRktEVzhwZmEtcmNmWnV0Yy00enpHSVg3Y2haM1RtSUpuY0hrZl9jNkh4VEkzcHZiTmVxVlVzRWl4Q1dhNnducFBqZjJrTXplMEhGMUlTem4wMmI5ZzUzQ2xlOFVhYmdTRy01?oc=5",
+    "fonte": "Terra",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Elon Musk quer levar IA PARA O ESPAÇO com uma fábrica de US$ 119 bilhões - Mundo Conectado",
+    "resumo": "Elon Musk quer levar IA PARA O ESPAÇO com uma fábrica de US$ 119 bilhões Mundo Conectado",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92Q1J1cUlLY1ljdEtMLVhNRHlmRGdlRHloNG9EeVlKRlJlV25NMm0zTk93anZra1ZRdVVpbHJuNGwzbnZOZU9qU2NpQkgzT1ZqXzRMa2xvQkRZaXVFTThnUWVFRV9MRlYyTzhuTWFwOUhEQXhMVGRHY2FXOA?oc=5",
+    "fonte": "Mundo Conectado",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  }
+]
