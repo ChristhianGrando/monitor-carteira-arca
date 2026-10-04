@@ -1,1 +1,133 @@
-[]
+[
+  {
+    "titulo": "Banco Central registra maior nível de inadimplência das famílias desde o fim de 2023 - Jornal Panorama Minas",
+    "resumo": "Banco Central registra maior nível de inadimplência das famílias desde o fim de 2023 Jornal Panorama Minas",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWJSUkRLQW82ay10RVBkYWtnUmZZXzRnbDNkbkw1cWF0cFdfVUxrZlgtZGV6RXlSekNpVkF3V2hURl9CVWRnRVFBX1hkMG92NHlFWS1mNjc5dVFhcXQzTVlBV3FWeURSLW93MkF1aUdSc2s5WnFKX3hUbUhKbnRRdWF6VFAyMDFET2szRDdSaEJFd0RIeGR3YWJSb2d0Z3JYQ2VyelNuenlzc0FtSlItRDZEUnI0N3hKTU9faw?oc=5",
+    "fonte": "Jornal Panorama Minas",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "41c8b082b06e5273098a747e68ff82918bc5a97bee351aab092d6cc5b8409da3",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Agenda de mercados: IPCA e ata do Fed são destaque - Valor Econômico",
+    "resumo": "Agenda de mercados: IPCA e ata do Fed são destaque Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUHVodnBqY3NqZzhnc3ozc0ozMHBMQTNjZW9hMkJlSHB5TFZSVmppaU85cml1c2lwbWliQzM0djhoMER4alJOSk45Q2x4NHJrckRJSmNrdkh2RFdtU1JoSUMwNUEwZDU3NDhudGVBOFVYb3dVNHkyWFY4cUs2OGFmakgtY2VZYTJGdjhfWkJoWHVpVVZNU1V6aEk5Mm5pbXJvXzBTU29vc3BPMFhvU1FaOFRIQnNFS3JuZ2fSAboBQVVfeXFMT1B1aHZwamNzamc4Z3N6M3NKMzBwTEEzY2VvYTJCZUhweUxWUlZqaWlPOXJpdXNpcG1pYkMzNHY4aDBEeGpSTkpOOUNseDRya3JESUpja3ZIdkRXbVNSaElDMDVBMGQ1NzQ4bnRlQThVWG93VTR5MlhWOHFLNjhhZmpILWNlWWEyRnY4X1pCaFh1aVVWTVNVemhJOTJuaW1yb18wU1Nvb3NwTzBYb1NRWjhUSEJzRUtybmdn?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "0d9a6f26da0de44c24de2f23b64411202bf7361cfec8aa9a3f19b5c8590a2dd4",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA de setembro e ata do Fed agitam a semana pós-eleição; veja a agenda completa - Investidor10",
+    "resumo": "IPCA de setembro e ata do Fed agitam a semana pós-eleição; veja a agenda completa Investidor10",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFhiejlKdkI1TC1taV9SNXpGdW9KLURTZTU4WEp4dEVxSUFJWUdkM09sa0ZzbEs3bzNBcWV5MDF0SFFUbEk3ekF6LXk4TU9MOU1kUGg4MC1MNlpwcHdmQUNWb2FTQ3Rna1BxUHhVMXdMazI5MlhMWFFESktzS05KY3IwcnNLbkZOVjVVcWJrMkFzY3YxZzBmMTQ1NVVDVkNFLW1RbWR0cTA0dUVVeUN3aklncEFheTVwZzkyVk9yWEZjVVnSAcgBQVVfeXFMT3lPdkpBYWFSczRQdGNrTEJubWFJSWhKVjRQWHVrX0RGODI2Y3VXQUFPdDVsMEdyMGFZWV9UVGFMQV9zRDhzZ0xQdUpuSkt2QkxiUTN0NUdESk9yUEkwUHVzYURsS2RmZWNqcXhhSEVGcERfdFFuSzVLdV9ZaUFud1JjQkI4cEgxQ3pzeXN2VHlEZXBoNWcxdktKRUJFRVNqWWhCd280LUh5dk1iWVRqQTIzSU1FTzR1MVlPMUdUWFhKSUVOUk82ZEs?oc=5",
+    "fonte": "Investidor10",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3ceed815d18b9e24dd6f2eb8e0d7ef7c24f7338ab0038c098faee1b2a4373257",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Eleição abre semana decisiva para os mercados, que termina com IPCA; veja o calendário - Estadão",
+    "resumo": "Eleição abre semana decisiva para os mercados, que termina com IPCA; veja o calendário Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPelh2WG54SGtId2trTUpYblIyWXdKV2YtajFrbkUyRy1nOVhTZWU1UEZXTFFlbXhTQVBaUC1xbVI4MXVIX3EzTmxNYlQ3WG5qLV9HQ28zQkdVN1puRE9DQjlhQUZqSGFrWkNaeWtXcDZwdDZwN1ZJeW5GZDlEUTBmeURsT3NlZktCVk95LXh1VHdhR3ZEN1E2LU5uUkh5bkZwMWhHRjlNQThYY0ZWYnN3QU9NejhnZ2VOb19DMEQwZFBqN3JhTW1SWUljZXVtRVh0bWRnQWE2X1pQOW9kZ2dLY3BVREFnZw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "b887554b483349d630e093c93dd5dc21c325851d79b0b07bce6b6a2e4e4630eb",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inflação e ata do Fed são destaques da semana para os investidores; confira a agenda - Money Times",
+    "resumo": "Inflação e ata do Fed são destaques da semana para os investidores; confira a agenda Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0VuN25pN2prb3V5TGpkOUVHbHlzNVJnbUhRSzdvYXpmbTFsV0FvSGVDazVwZTNTRHFEUXgxQkxqWEZzQWxMNVlxQV91T25yMnE0UG1FZ2Jrc3EwYW9IakpGZ0FyRkZmdlZiZTlMbVFxa0tRT2IzQm5fS0tUUl9FV19UX1BxLWpsLXZJX3h4aXZ6Tk4zRk1GQ1F2NkNvQ2duZE96bmRRTnVZMDFFUjR5NHl3aUtkOVFVM2VV?oc=5",
+    "fonte": "Money Times",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "85dabf73dd275a0bd26b5c78e216a108f0e79cbc1a403e492e66754742507a8e",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
