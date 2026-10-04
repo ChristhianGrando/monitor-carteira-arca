@@ -1,102 +1,6 @@
 [
   {
     "data_envio": "2026-09-15 23:12:55",
-    "titulo": "Copom inicia reunião com expectativa de novo corte da taxa básica de juros - Jornal do Comércio",
-    "titulo_norm": "copom inicia reunião com expectativa de novo corte da taxa básica de juros jornal do comércio",
-    "fonte": "Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0tFUEpkM25uRjhFM3RnXzN1enByRmpPSWlJeUxSVS0xaElhSncyc0tpYm9nRE8tb2FJamlHVmNqbm5oWTdCVlV1SDFwTmNaSW9vT3BwdzBUOGJYZXBMdjVtaUdBTXRic0NpSTAxb1FpZXhkb3VXRjNFZTlnV0o2WlhIQi1vRFpac1hLRnIyVzJCZ2lEUUw5VEFWS0R5QkY1M1dubGJLT3U1TUxiMGRHWXc4eld3R1lkb012RGZJOF9nU1pOakJKYTIyTGlTU1VxY2ZF?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-15 23:12:55",
-    "titulo": "Copom deve cortar Selic para 13,75%, mas manter cautela; veja o que está no radar - suno.com.br",
-    "titulo_norm": "copom deve cortar selic para 13 75 mas manter cautela veja o que está no radar suno com br",
-    "fonte": "suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnFFS2pnQXdHMUJxYndQTE5OYjk0cFVRZ3ItekdZRGJERlo0cWFwUjdwbndaZVRIVndleWFjT0Nwdkwzc0xENmRlSWRYeC1ZblB5c1doTFRoZ1kzZGFBNXZWWXoycG9EcDNSRU9OcWVlNFFEZDJndkZOY2dPdGRfMTBWcFRacmpEUExN0gGQAUFVX3lxTE4zVzhwcGEydlN3T29nSkhEeHl3REZTLXBSNTBiRk9ra0t1TE5FT3N3Ml91YkwyTWI0MmVUSF9QMWpuWURYU004MjFGNFZpNmNnR2EyS0ZWVnZSd2x5R1JTWGdYdVl1dldJRURLSzFlVG42LXhBSEswMUhEQzlPTjk4UnlsSFQ1THp6cmd4dkFuaw?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-15 23:12:55",
-    "titulo": "Na montanha-russa dos juros, Tesouro IPCA+ 2040 rende 460% do CDI em 6 semanas - InvestNews",
-    "titulo_norm": "na montanha russa dos juros tesouro ipca 2040 rende 460 do cdi em 6 semanas investnews",
-    "fonte": "InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkhjejF4bkNuYlRaZHFiVHV6YW1ucGxhaWE5eWo1NlRCNkMxSDlJLWtpcVVMYllWdXpMMURoeHVKbzBNZHJhUXdkUmVBeDFaSE1ZWDIyb3BkMUZzVHI3ODNBbUtuM1BiMV9VVWp0NkI3MUstN3hvc2k3X1BzT3hObzdPUC1ReC1HMFBKWFM3TlJCSHhGUkJJQ2FRMzdBVHM3UVc4aW52Z3Fva2F5R1gzRklneUxDcknSAbwBQVVfeXFMTjBBQ20xNWJleWpmYVdrTWRUWVQ4cU11VnlZNmJ5U0pLWjhDbUJPZVJlNDVpOXY1U0sxWnkybjdCQko5YnUtcFE5SHVSSHBmZ1d1Z0N1eDc1UklWd1htY2Jwc2FicXVWdFAyejRESlJKZVFmMzhDaFhweU51OGJwQUxoZXc3amxXZlZqbkwyUlZVZFhCWVFOZ0ttd1JDNExzY0ZydU94WGliOHJUVVJPOFdNcE8wUHhjR1lzcXI?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-15 23:12:55",
-    "titulo": "Fechamento EUA: S&P 500 atinge menor nível em um mês antes de decisão sobre juros do Fed - ADVFN",
-    "titulo_norm": "fechamento eua s p 500 atinge menor nível em um mês antes de decisão sobre juros do fed advfn",
-    "fonte": "ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ290RHpJcUF3bzkxMXZNa2x1MUVjVlhtYjlZeF8zZl93dmdOdEN2Ulp3M09LRkN4TDI1VHl1cGlaYnoxOGJCZkZTUWRFb2VRbnRyTUVubEVRVnBIc3U4Sk5pWlBoZFpQTlhoRmZNSnFxak0tdllfSkZEUG9yeUs4UF9MZFE1ZlB3MG9pVjdnS2FkV3NqYXE4Mk04M2w5MDFHbGxrVjRHTmQ5YUJVODBUaHF6LVVUR2NudkE?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-09-15 23:12:55",
-    "titulo": "BofA melhora projeção para o S&P 500, mas alerta para inflação, Fed e crédito - Estadão",
-    "titulo_norm": "bofa melhora projeção para o s p 500 mas alerta para inflação fed e crédito estadão",
-    "fonte": "Estadão",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUxWVzlObUU4R1U3UDBVQXY0Y0NtZEZyaHhnY1VhRE1yWlJEb3o5cFR3NjhuMTl3cElvQ2pRcXFKbnAweFpiN3VfaU1Jbnl3aTdfUTJVQTAySW1zdzZqU1FsbktlWF9kOFNXWW1DYzdOaHQtRS15dHRTUm1oVGJ2anF2cjJVTkhIMG1CdzdUaDdjdXpqLVVUVkZUNFNZZ0ZpUVQxXzNJZUxENC1XbDdKeDVVRVR4eHAwbjY5RHJUd1lUbmRmNmVtdXFHLVI2Z9IB0wFBVV95cUxQWDZqa1FieVZidmZXT3ZycHFKT1gta0wzNHZJcFJNUExoY3ZzQ2xHYkNfekE0TDdwLW52amE1MFBMN1dyOGV3ZjFtaF9EdTNzN1FlTTVLb1RkYmpVV2d1ejBobm5UQS1lVHQwTVlZb3ZtdG1ob1NySFRMNFpZVFVXb203MkltdFUtR3poTjBVNFdReDNGVERMSkg1OTFfV2FiS2ZQQzdpUGRPLXQtckU2b3hCc2dEcmhFX0FoSXVqTk5IMEw2TmNPVnpVTVpDSlRwT3lz?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-15 23:12:55",
-    "titulo": "S&P 500 fecha em baixa, com aumento dos rendimentos dos Treasuries e operadores preocupados com inflação - UOL Economia",
-    "titulo_norm": "s p 500 fecha em baixa com aumento dos rendimentos dos treasuries e operadores preocupados com inflação uol economia",
-    "fonte": "UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONE4zbTRVNC1FLS0zRXNZZ2NwZWZQRG9SNERMeXRrMkxpVXFIRkc5UmNoTEdSVDlYeUFYcjR1ZTd4dU9PS2szbzFYQ01BQzVPeU53SDNidkZwN25DczRzRzNCaE55Qy02cVRiU2JsLUgtNDFxUVdWMi1Xampjci03eDNsaFpfSmxDT0ZaeHV3dmMwNnBGWlhGQWhHZ1BtRVJfdjNlVTdDaXFtZ3hVMEdpVmdRVWdhcEt2RVlTdnhtUWIyUGRPZkVWNGF3T2pkRDJ5LS1ucV8waEV0UDU5VDhvaWd5ck80cFFvcFdDZEMzX19mUVFq?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-15 23:12:55",
-    "titulo": "Opinião - De Grão em Grão: Copom deve cortar os juros nesta quarta, mas o próximo passo ficou mais difícil - Folha de S.Paulo",
-    "titulo_norm": "opinião de grão em grão copom deve cortar os juros nesta quarta mas o próximo passo ficou mais difícil folha de s paulo",
-    "fonte": "Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3Rkb3RIZDVmd294WmFUS09yWmR4ZGZUeEs1M1lnRDRZWGZOWFJyZ3lDSXVLd3VIbTNaWkNNa3pqLWkwQUdtaU9Kb0JHVVVfc0hkN21WclJ0dnU0TXhBNEtfd0VmcUR6cE9kaXVwMTVsdThHYmpXSGk1dF8tamkzSkFfNEhIa2N4ZVk0bnRvLVF4NllESW9MSWxiNVkwR0lZaFpRb0RlTUVxeGpWYzhRcGZ5dktsSXhtNE5QbGh2UnRZZy1NeGNVQmhlQ3BPcGFiS1UzaEdaUGRqeTZ3?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-15 23:12:55",
-    "titulo": "Ibovespa fecha em alta com disparada do petróleo e Brasília no radar - Estadão",
-    "titulo_norm": "ibovespa fecha em alta com disparada do petróleo e brasília no radar estadão",
-    "fonte": "Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQazRrLVBUUDNUSkF0cllaWHlidnk2cnhSalptZ25qSm9yeGVONVZVSTMyR09CSUg3N3o1MWRrclA5emljTGlZNG1DSG5NbnJhOXNtaDF5Znp1Mm1xeGVMcEhmRUVjenRKaS03alNKU3NsaWYyZkdVUDRnaFZMZUNHLW1vWk9GTFpoT2Z5X2hRdzVlaEI3ZXZLVGdvV3o4a2V0M3FxVDRGR2x6a1hKR2oyZU9qR2p4SnhsNGZxMWJ0NUtkbVlyZ01aSXk2c2pnSTdqS3dCTi1UNNIB3AFBVV95cUxPSHl3LTctX3psU1hRbk5nRm5iOFZPamlDWXpxaEY3eUZ6WDdfXy02bHF3WlNncDh5b2YwZkxlZXFSWUR0emY4MU1rcEFxQWFudHBzV2N1bThmRVQ0Znp5X1VWNno1aVBVSnZ4cTV6d0t0UFY1Q2Zwb0NBX2g4NmNQOEJwdG5nN2NKcjhOdkZqdWxmcUpxSUI3cE1iTG1CYUctdFkxMGlrb1ppVUN5bVd4dGQ3d2JMWGczTVUxWTZVVFZJd2YyTkRNUDdoVENVUFI1RDI5d09ZSDgwenNn?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-09-15 23:12:55",
     "titulo": "Starship em órtiba: SpaceX fará primeira tentativa no final de setembro; veja data - TudoCelular.com",
     "titulo_norm": "starship em órtiba spacex fará primeira tentativa no final de setembro veja data tudocelular com",
     "fonte": "TudoCelular.com",
@@ -5897,6 +5801,94 @@
     "titulo_norm": "banco central contas públicas têm déficit de r 10 bilhões em agosto agência brasil",
     "fonte": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeXhCTi0ybk5QNDJNYjAzWUc4ZUdpLVhhdmw0QXRmU3J5SnJKRzVUT0plcmh0alBublRDUGR4YmFfcDcyLUN4aW9BTm5TeDh0NEJqVktpMFhxRzc0cnYwcG5QNkdNem41VzVFeFpmak1HR2s1OFcxMmVpRVVreHUzSFdmVHZUcnFSS3NmZl9heGhZOHNFRHpDQlZSbUtMNDV3T2tuSDBKdDZ6VDJoZGhSVG5IVlgyZDdjVi1MVFJ3NmZQd21qWlF0cHdsRUxlQV91TnJjRHJ5aUZZMkhlakE?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-10-04 23:37:52",
+    "titulo": "Ibovespa saltou 4% após 1º turnos e pode bater 200 mil pontos nesta segunda se história se repetir - estadao.com.br",
+    "titulo_norm": "ibovespa saltou 4 após 1 turnos e pode bater 200 mil pontos nesta segunda se história se repetir estadao com br",
+    "fonte": "estadao.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVEwtSUM4Y3JWZ2p6VkFidXU5akYzVFhKWnNsV3pVUUp1MVFITl9sVjhXZkNkeEVjVktKYWxrRkFsR29YakllRERiZWVqOHVGTGdCcUprOEZzbHpiWlVieHZ0Z0RiX2FldmtlUENjZkxKakxyUHoxWE81NWtTSW1rbkRGSEF5b1hCc3JkaGpvemhsZzhDU2RSTE1EdkFqdnlNdjFQbUMwTnhJc3ItbkdzMmpRbFl1NG5kc3dpTlM1d2xjVXROS2xsX3pfNllEWDlJLXhFaXUtM1U5WWQ0ZVNCT2ZYekVyRFhJZl9NRWI2WFQxeXpEVnc?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-10-04 23:37:52",
+    "titulo": "Após fechar em 192 mil pontos, Ibovespa encara pós-eleição com histórico de altas - A Crítica de Campo Grande",
+    "titulo_norm": "após fechar em 192 mil pontos ibovespa encara pós eleição com histórico de altas a crítica de campo grande",
+    "fonte": "A Crítica de Campo Grande",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXk3a2tBSTB5TmxHTW5CYXZZVGg3RkNERVZfSjNVLWxzd3RLbExvMU83Zk9ZSFYweHFIek5tWXhrNk8xei1kU2JSSDI4U0ZPUFdhLUZidFpMeXdUYkVueWdOSHBydlprNV9TWnJKT0h6QUVZa3QtaFhHcWtpQ0d5c3Jadm5EOExwNFRLWG44V0RTZ095U19PcGxDcmh6cDZXZ3pxeXhYOTRsOXFuLXlLbw?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-10-04 23:37:52",
+    "titulo": "DECISÃO 2026: TSE usará Starlink, de Elon Musk, para transmitir resultados das eleições - Times Brasil | CNBC",
+    "titulo_norm": "decisão 2026 tse usará starlink de elon musk para transmitir resultados das eleições times brasil cnbc",
+    "fonte": "Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmc1eFhrZ3dOaXpuYWNUUHV4WXZ3a3JQMF83MVYtUVhCYnBnWHI1d3VmNDB2Y2Vabjg0dVI5ZDkwSndQNGJMbGcxZWVKM0dfN1I1N2lGNG9EX25pODluSnNNR1RKSVp5bkhlTUN0U0VoTkd3SHJXOFBTLWJETzdad2pad2RSYUlpd29temVuUU9NVGktU1YzOGdzcnZHVDNFSVRnX29QUlBjX1ptREhsaw?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-04 23:37:52",
+    "titulo": "Musk anuncia mudança de nome da SpaceX para ’SpaceXSI’ - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "titulo_norm": "musk anuncia mudança de nome da spacex para spacexsi investing com brasil finanças câmbio e investimentos",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0NWb2FISVJVNzZTbXJ0T2x3aUI2bkREZHVSOGVNampPazNheDU1eGpnanJEZHZkNzVSbU1MQVNXanNrOXhqRDd2SVNyMm8zZFBUNVBvQ2dXclBya2lWWmdXWFU3Yy1RaWt6QVc0Z2Z4ZUY5SmRNQ1NPb3U3UVRabEtoa0t0eWY4aWtUVlFLSVppa190ZlhNbWFST0FtSnJGLWtJR1NfN3hZQUdB?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-04 23:37:52",
+    "titulo": "Musk diz que vai renomear SpacexAI para SpacexSI após Trump adotar termo 'Superinteligência' - Notícias ao Minuto Brasil",
+    "titulo_norm": "musk diz que vai renomear spacexai para spacexsi após trump adotar termo superinteligência notícias ao minuto brasil",
+    "fonte": "Notícias ao Minuto Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOV2V1amRLUlIyS3BYdVNBbWNCN0Vpb0o5V3E5UDNkcjhDQ29Ta1ZnMEN3TF9peWlTZ2ZSeTFpcmxucndwQm14YzZCX2szSy16cVNUWklXZHd3T21HRDZhOTNaaUo5ZGVXeTE2b2pudUZ2WUEtbHlGSUNLNmtITlpPNkdnYlZhV3dxQmR5U1J3WmJwM0VNcS1JcUNxNThsZENLYzZLc2ZZU2IxeGR2SDBOR2FtRUcxa1VNRVBad0VENUcyZUJNT2paNWpZVm1jN3ljaDZjVHhVXzBtM2pCMlozUjFSaGVkNDBCWUZmMHQ1bk5RSzNJd1FzTU8yMjJWeVVpYlh1amZBeTJOMWk0eVZJT3c0NXROa0kyRTgwQzkxZXRZOXJ0VE9xYVFlOA?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-04 23:37:52",
+    "titulo": "Musk diz que vai renomear SpacexAI para SpacexSI após Trump adotar termo Superinteligência - Terra",
+    "titulo_norm": "musk diz que vai renomear spacexai para spacexsi após trump adotar termo superinteligência terra",
+    "fonte": "Terra",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUTJyRWhhQzdleElyRWc5bHlwTm1fVy1VYXNDOG16X1A0bWlhYm5uN3B6WDlDWUNIYTRNV09FOFFaVVpoOWp2eWIyN1FOMDZYVU94aVNPQWR1SlRLaTBPdWJGQVFRUUhjYURoM0tqb04xcHJqbmZfTFlFWVFRMUh6UWxuU3VOTGpFUEN0dWQxR09IVFpzcGgwemJzU2pFY0xPcXpURnFrVDdaQ0pfV2hyTVRfTFhoWnZ4ZVNadENiSXlJZzloZEV3WFNUWlZESTFWU2V4MEgzWFp1c1FyNFZzTFlVWU1fZi1LSExtT1EzelJ2YnEtOWpPY0lwU2swMEE?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-04 23:37:52",
+    "titulo": "A menção aleatória de Vorcaro a Jair Bolsonaro em mensagens com ex-diretor do Banco Central - VEJA",
+    "titulo_norm": "a menção aleatória de vorcaro a jair bolsonaro em mensagens com ex diretor do banco central veja",
+    "fonte": "VEJA",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU2psOFVNbXA2c25xRkxhTjkzZ2pTdVYtTG9MVUNmVGszcWI0dnh4aXFKY2RUaGdoOW1RbHNmLWZUVGtNRGZBblV3Y19RdUFWQzJKVktqdEtUdVMwWF9BQ0VYSUNmX2NGNXU3cWZZcjFXY3ZRaE1SUE1YTzJOMVFOSGtZSUhyaGdFVjZfLW5KYmhsS3pTcnZiTFJkYWNlVGhfSlB5akJ6ekZwNHJtRXRMczRJMklTRUUxVWJxYkYxeW1WQUdqdlE?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-10-04 23:37:52",
+    "titulo": "PF mapeia 22 perfis influentes em apuração sobre campanha coordenada pró-Vorcaro e ataques ao Banco Central - Pinga Fogo Notícias",
+    "titulo_norm": "pf mapeia 22 perfis influentes em apuração sobre campanha coordenada pró vorcaro e ataques ao banco central pinga fogo notícias",
+    "fonte": "Pinga Fogo Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWHBKWU8tTjFWVmdGRGFiRFlDQ0xjVzR0VzNpS1dnMDliZ2tiY05tWHhCTUJvYnIzb2p3a18zRUwzb0Z0QnV6MDZocHA1QW1vZ2xZVGFWbV9HSm1rSHdXU2MyNm5GVVQyZ3M1dDgzNVJxNjBIenNyQmlseUJCS2c1aGdzUlVDQnB6cVdFMU85V1h0aTAyZm5CaGE5TlRZTnc2SmwwMFY2aVpUc3dUYVdCNmNHVEVlMS1KdkVsNDJYOFpaSHlQRWtMdVNrX2plbHVHZ0JDSVYzZFZqUjk0RzJHaEk4WHg?oc=5",
     "impacto": "Baixo",
     "ativos_afetados": [
       "CDB 100% CDI"
