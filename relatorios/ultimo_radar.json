@@ -1,35 +1,37 @@
 [
   {
-    "titulo": "Ibovespa sobe aos 192 mil pontos; dólar cai, mas fecha a R$ 5,21 - brasilagro.com.br",
-    "resumo": "Ibovespa sobe aos 192 mil pontos; dólar cai, mas fecha a R$ 5,21 brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRy1qVjEzSnhFb180bDVVNkVJM3QtMkw4VW9HUGxxdmNWLWVDbEZXeDBfaVliT2JVdWtwcS1URkpENEd4UHFvNXBzMGdEVWhvYzRMZzFpMDBQTnNPMU1McEdUdVFoaUE5UnJyNkVnSkJhOG9fd3Q2SjBCWGFPVTBHdk9IZDdxeDJvNklvODVTU0d3Wld3Y3lnZjNoQzJHSEVEMmxrVXFoTQ?oc=5",
-    "fonte": "brasilagro.com.br",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1401eee90eabda688cb5167f2e53e00d5e7ddca065a2a0232b49886992bdacc7",
+    "titulo": "Boletim Focus: Mercado projeta IPCA acima de 5% em 2026 e segue reduzindo as projeções de PIB | 05/10/2026 - XP Investimentos",
+    "resumo": "Boletim Focus: Mercado projeta IPCA acima de 5% em 2026 e segue reduzindo as projeções de PIB | 05/10/2026 XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHNCMkZQVWNaanROLWtMaFBZeHBNUlJJcGEyenBmd1pZOHRydlg3NEt1Tk5LREJYSmdMbEZJWTR4a2Z5UDhSckpzT1FUNzBEcTVFSVJTSjBrUWlfaW1LajMwTkNlMW9xNWZpcXRYQ2ZKcGRmRUZ3ZFc0bnhvM1pXYlg1NVJhMk41YWNITUFjSGExbnpEa1ZnTzJhb0d0elZZekwwU05ZT0ZXZVlUM29GSE1YSnJiTTV6OFhQWHJWZHREWkpYNmJSaGlxSTN2eUNSZEY2T2RrYVE?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "5572512cc544d404b1e31920e359e866fb73b0198e1bbab89c158f49259f4120",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Inflação sobe e pressiona Banco Central - CNN Brasil",
-    "resumo": "Inflação sobe e pressiona Banco Central CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDNveWpDZ2MtdUJjcG54Nk1WMy1ZbDU2bUFhWDd2dGNqaEw4NTRENTFYT3AtdkQ5STZHWDNhOVpvWUZvTVEzR0ZqNDZxWWdDTzM0WHFVWEtoRFpCQ3d1SmNGVFpIUkJBeVducUN1eV9aLUliVGRaZ216RDN5bk41VEFqbWhqSWRuendTQ1dyVXBBRmtvUFhR?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Focus: mercado eleva previsão da inflação para 5,01% em 2026 - Agência Brasil",
+    "resumo": "Focus: mercado eleva previsão da inflação para 5,01% em 2026 Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUZMMk1taFcyYjVzdTlLaWVPNEJqTVJEaW1qYV9JZUt1dmtHSlZjUU9uc1ZKSjVvU09rWUdvbFlzUmVuSFVVTWpnT0M3YTZZcHl0VXJ5OElUX1Vnd2hkcF9yS3RyRFpRelNCei1xNWxoUkhYRmJtVW1jYlRRZGl3V3l6QjZzZy1aRURHaVZqX3FLY21QUU5SMDAtUE9hN3RReWtNNURWSXRkc2t6N1ZlbEU4Q0ZPZw?oc=5",
+    "fonte": "Agência Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ebcc4ed6a6bff70ccd47641134f681fbaab3d629289a6b1777773db245712767",
+    "chave": "5a615ec00283e10d8dd4225cd9abd2a69ac908048b760eda64442fce424e4913",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -46,12 +48,56 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "“Poder do Congresso” cresce com vagas em aberto no STF e Banco Central - istoedinheiro.com.br",
-    "resumo": "“Poder do Congresso” cresce com vagas em aberto no STF e Banco Central istoedinheiro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3B3aHE4R1llNmtGR3VIZEhVRnZFVTFpZ1ZBMkhYbUMxc3d3Y0J6OFU0aGtzYVBGNHRSUElwUjZPMGxvRXg3ZUFRNmVYbnJkNXB3dHkwM1RlWXVJTDJLSnhoalhEeUhpWUsySEN0RUVTY3VGckZUQkp6dXVhRDJ2UQ?oc=5",
-    "fonte": "istoedinheiro.com.br",
+    "titulo": "Focus: mercado reduz projeção para PIB de 2026 e eleva estimativa para inflação - InfoMoney",
+    "resumo": "Focus: mercado reduz projeção para PIB de 2026 e eleva estimativa para inflação InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sa3BfQ1hyMnlGWUlzbDY1bUFPUDlfZHFQY0NncS1mSTVYeThUV1hiSFdFeWlrdk44cHBZTFJrX3hESWpkMExqZVQyR25QQ1J4Wkg2TWVSY1RnZ1k5elphWURhZGRHS0w2bWR5SnF5ajkycGlzS2FqSWlnUdIBgAFBVV95cUxPbTFrNHJTWjdQZUhla0NmYkNkTmlaN25GTUN4WXNORS1CNkcyWmJxTE5zbUV6aEI0dFZ2MnVRZUdIWmZ5TEszV0Z0ZVA2MlZ3LXhUR3U2cWtBQ1d4cS1STm9Ea05TVVJQdUlRWk02bnJoaUJUaDlUNldEblYtM3V4cA?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "42bb103023930b55515d4099b9053dd299127528a6c458e24ab664c1f378338e",
+    "chave": "99c357defad28712905b8ea4a9f7737f8af61f1cd931dec2a1c7e56f42cf7a33",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado eleva projeção da inflação para 5,01% em 2026, aponta Focus - CartaCapital",
+    "resumo": "Mercado eleva projeção da inflação para 5,01% em 2026, aponta Focus CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkVNeHBKRWRYUzI0UkoyS0VMM2tsWURnZmZmelYyOVdfb1BMYUc3NmEtVW8tZTA0RjJTVmxUTEFCcldDSUUzOENLUnVld0lxZGVnS2JPYlZZV0VBX3F6X1hybVVXMVRkMmRIUURqd3RDaFN3aXBUYVB2T05ndWdtVTFzNm93clhvOEtjeHNNV01LT1E4S1hRQWlMLTUzLW5iem5wLVl5U1JNWl80TFE?oc=5",
+    "fonte": "CartaCapital",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "55aac6d73e5f027dfcbf995624d690aa50fe893b379df7d2837eb3727fe0438f",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Economistas elevam a previsão da inflação para acima de 5% e reduzem a do PIB - Folha de S.Paulo",
+    "resumo": "Economistas elevam a previsão da inflação para acima de 5% e reduzem a do PIB Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ3lBOXg5TmMxcjlkQXlBQm1lNVFoNGNiMVJhWHQ2N25NT213bDFZek5wYjRUWmRkUzIyM2pfSXZCMjlBZFVxSGxHQ002cXFWZmk0c05VeTFIcHdBY21rNjQ5VG1hWXZwMjZYMEVRTVE5NldUbE50LWlPQmp5MG53anRJcWNLZC1IS3E1cTJyd0JPc0pXaTUwMGl6VGZVZUVnd1Q5Nk1MVDBCT21tRkRTVFBPU2xXQ3Ixd3B3dzVsNWRWY3FfV3E4?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "2fc1244e85aca44fd91c40c82e724c0cbf81c103a0944ddcf30558909ff1a0a8",
     "ativos": [
       "CDB 100% CDI"
     ],
