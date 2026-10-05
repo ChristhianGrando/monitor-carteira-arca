@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "titulo": "Ibovespa sobe aos 192 mil pontos; dólar cai, mas fecha a R$ 5,21 - brasilagro.com.br",
+    "resumo": "Ibovespa sobe aos 192 mil pontos; dólar cai, mas fecha a R$ 5,21 brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRy1qVjEzSnhFb180bDVVNkVJM3QtMkw4VW9HUGxxdmNWLWVDbEZXeDBfaVliT2JVdWtwcS1URkpENEd4UHFvNXBzMGdEVWhvYzRMZzFpMDBQTnNPMU1McEdUdVFoaUE5UnJyNkVnSkJhOG9fd3Q2SjBCWGFPVTBHdk9IZDdxeDJvNklvODVTU0d3Wld3Y3lnZjNoQzJHSEVEMmxrVXFoTQ?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1401eee90eabda688cb5167f2e53e00d5e7ddca065a2a0232b49886992bdacc7",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Inflação sobe e pressiona Banco Central - CNN Brasil",
+    "resumo": "Inflação sobe e pressiona Banco Central CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDNveWpDZ2MtdUJjcG54Nk1WMy1ZbDU2bUFhWDd2dGNqaEw4NTRENTFYT3AtdkQ5STZHWDNhOVpvWUZvTVEzR0ZqNDZxWWdDTzM0WHFVWEtoRFpCQ3d1SmNGVFpIUkJBeVducUN1eV9aLUliVGRaZ216RDN5bk41VEFqbWhqSWRuendTQ1dyVXBBRmtvUFhR?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ebcc4ed6a6bff70ccd47641134f681fbaab3d629289a6b1777773db245712767",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "“Poder do Congresso” cresce com vagas em aberto no STF e Banco Central - istoedinheiro.com.br",
+    "resumo": "“Poder do Congresso” cresce com vagas em aberto no STF e Banco Central istoedinheiro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3B3aHE4R1llNmtGR3VIZEhVRnZFVTFpZ1ZBMkhYbUMxc3d3Y0J6OFU0aGtzYVBGNHRSUElwUjZPMGxvRXg3ZUFRNmVYbnJkNXB3dHkwM1RlWXVJTDJLSnhoalhEeUhpWUsySEN0RUVTY3VGckZUQkp6dXVhRDJ2UQ?oc=5",
+    "fonte": "istoedinheiro.com.br",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "42bb103023930b55515d4099b9053dd299127528a6c458e24ab664c1f378338e",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
