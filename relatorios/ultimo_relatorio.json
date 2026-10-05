@@ -1,98 +1,185 @@
 [
   {
-    "titulo": "Ibovespa saltou 4% após 1º turnos e pode bater 200 mil pontos nesta segunda se história se repetir - estadao.com.br",
-    "resumo": "Ibovespa saltou 4% após 1º turnos e pode bater 200 mil pontos nesta segunda se história se repetir estadao.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVEwtSUM4Y3JWZ2p6VkFidXU5akYzVFhKWnNsV3pVUUp1MVFITl9sVjhXZkNkeEVjVktKYWxrRkFsR29YakllRERiZWVqOHVGTGdCcUprOEZzbHpiWlVieHZ0Z0RiX2FldmtlUENjZkxKakxyUHoxWE81NWtTSW1rbkRGSEF5b1hCc3JkaGpvemhsZzhDU2RSTE1EdkFqdnlNdjFQbUMwTnhJc3ItbkdzMmpRbFl1NG5kc3dpTlM1d2xjVXROS2xsX3pfNllEWDlJLXhFaXUtM1U5WWQ0ZVNCT2ZYekVyRFhJZl9NRWI2WFQxeXpEVnc?oc=5",
-    "fonte": "estadao.com.br",
+    "titulo": "Dólar cai abaixo de R$ 5 e Ibovespa sobe 8% a 207 mil pontos após 1º turno - economia.uol.com.br",
+    "resumo": "Dólar cai abaixo de R$ 5 e Ibovespa sobe 8% a 207 mil pontos após 1º turno economia.uol.com.br",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjNrczZJZjlUYWtTZjhKUmRJanBwRkdiZk9FUlZTUjk2NFFRYXoyYVp3bDJXelVmYUVXcVlCVllnbnlWLWJFVnBrU2pOalJMbk9lcFlfZURhbDNlS3lfMTVaek56Rm40b080SXlKLWV6M05KODJFdjFGbWNoRS1qSmhkMldYS0dOY3hLTXlHQ0Zqa2szLVpDNTZrbkNTdU1lZHNGMFgtS2F3Zk1FSDhaRUVn?oc=5",
+    "fonte": "economia.uol.com.br",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Após fechar em 192 mil pontos, Ibovespa encara pós-eleição com histórico de altas - A Crítica de Campo Grande",
-    "resumo": "Após fechar em 192 mil pontos, Ibovespa encara pós-eleição com histórico de altas A Crítica de Campo Grande",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXk3a2tBSTB5TmxHTW5CYXZZVGg3RkNERVZfSjNVLWxzd3RLbExvMU83Zk9ZSFYweHFIek5tWXhrNk8xei1kU2JSSDI4U0ZPUFdhLUZidFpMeXdUYkVueWdOSHBydlprNV9TWnJKT0h6QUVZa3QtaFhHcWtpQ0d5c3Jadm5EOExwNFRLWG44V0RTZ095U19PcGxDcmh6cDZXZ3pxeXhYOTRsOXFuLXlLbw?oc=5",
-    "fonte": "A Crítica de Campo Grande",
+    "titulo": "Boletim Focus: Mercado projeta IPCA acima de 5% em 2026 e segue reduzindo as projeções de PIB | 05/10/2026 - XP Investimentos",
+    "resumo": "Boletim Focus: Mercado projeta IPCA acima de 5% em 2026 e segue reduzindo as projeções de PIB | 05/10/2026 XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHNCMkZQVWNaanROLWtMaFBZeHBNUlJJcGEyenBmd1pZOHRydlg3NEt1Tk5LREJYSmdMbEZJWTR4a2Z5UDhSckpzT1FUNzBEcTVFSVJTSjBrUWlfaW1LajMwTkNlMW9xNWZpcXRYQ2ZKcGRmRUZ3ZFc0bnhvM1pXYlg1NVJhMk41YWNITUFjSGExbnpEa1ZnTzJhb0d0elZZekwwU05ZT0ZXZVlUM29GSE1YSnJiTTV6OFhQWHJWZHREWkpYNmJSaGlxSTN2eUNSZEY2T2RrYVE?oc=5",
+    "fonte": "XP Investimentos",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "DECISÃO 2026: TSE usará Starlink, de Elon Musk, para transmitir resultados das eleições - Times Brasil | CNBC",
-    "resumo": "DECISÃO 2026: TSE usará Starlink, de Elon Musk, para transmitir resultados das eleições Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmc1eFhrZ3dOaXpuYWNUUHV4WXZ3a3JQMF83MVYtUVhCYnBnWHI1d3VmNDB2Y2Vabjg0dVI5ZDkwSndQNGJMbGcxZWVKM0dfN1I1N2lGNG9EX25pODluSnNNR1RKSVp5bkhlTUN0U0VoTkd3SHJXOFBTLWJETzdad2pad2RSYUlpd29temVuUU9NVGktU1YzOGdzcnZHVDNFSVRnX29QUlBjX1ptREhsaw?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Musk anuncia mudança de nome da SpaceX para ’SpaceXSI’ - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Musk anuncia mudança de nome da SpaceX para ’SpaceXSI’ Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0NWb2FISVJVNzZTbXJ0T2x3aUI2bkREZHVSOGVNampPazNheDU1eGpnanJEZHZkNzVSbU1MQVNXanNrOXhqRDd2SVNyMm8zZFBUNVBvQ2dXclBya2lWWmdXWFU3Yy1RaWt6QVc0Z2Z4ZUY5SmRNQ1NPb3U3UVRabEtoa0t0eWY4aWtUVlFLSVppa190ZlhNbWFST0FtSnJGLWtJR1NfN3hZQUdB?oc=5",
+    "titulo": "Dow Jones, Nasdaq, S&P 500: prévia semanal com início da temporada de balanços do 3º tri - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Dow Jones, Nasdaq, S&P 500: prévia semanal com início da temporada de balanços do 3º tri Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR0dTUjE4TWFuZ20yajVZSld2eGw1czR1Q2hPUWdyNm9SRHBXTF9MZGFHODQ5M3o0ellDQVcyRV9YVHVCM2VhYUlqVldFT0NLM0diNjNBU0IwWDEtcUZCcVVxYlU4VzBUd2E0UWFET1RYX1h5MFFSZzJlYlNiZjdfWElkUHR5NFo0bG5nTG5iUTd4VWRicmd3LUV2LXpXRXNJNHVfNWxlSjM3bVdQQWpSWXI5ZGdxMUUyTm1abVVRUnFJRmptUERTSGt3SXpmdEdJOTAzNUNNbw?oc=5",
     "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
-      "SPCX34"
+      "WRLD11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "impacto": "Alto",
+    "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Musk diz que vai renomear SpacexAI para SpacexSI após Trump adotar termo 'Superinteligência' - Notícias ao Minuto Brasil",
-    "resumo": "Musk diz que vai renomear SpacexAI para SpacexSI após Trump adotar termo 'Superinteligência' Notícias ao Minuto Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOV2V1amRLUlIyS3BYdVNBbWNCN0Vpb0o5V3E5UDNkcjhDQ29Ta1ZnMEN3TF9peWlTZ2ZSeTFpcmxucndwQm14YzZCX2szSy16cVNUWklXZHd3T21HRDZhOTNaaUo5ZGVXeTE2b2pudUZ2WUEtbHlGSUNLNmtITlpPNkdnYlZhV3dxQmR5U1J3WmJwM0VNcS1JcUNxNThsZENLYzZLc2ZZU2IxeGR2SDBOR2FtRUcxa1VNRVBad0VENUcyZUJNT2paNWpZVm1jN3ljaDZjVHhVXzBtM2pCMlozUjFSaGVkNDBCWUZmMHQ1bk5RSzNJd1FzTU8yMjJWeVVpYlh1amZBeTJOMWk0eVZJT3c0NXROa0kyRTgwQzkxZXRZOXJ0VE9xYVFlOA?oc=5",
-    "fonte": "Notícias ao Minuto Brasil",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "titulo": "Mercado agora | Bolsas europeias fecham sem direção única; Ibovespa segue em forte alta - InvesTalk",
+    "resumo": "Mercado agora | Bolsas europeias fecham sem direção única; Ibovespa segue em forte alta InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kMmJ3REdSWnZVdWRXS01XRGNYZjBvbFkwWk1SSVZIcmlDcmFUdEhxSDRBSFpQcUhlUlpUajNfY2RVQ2VpRmZqNnpSYWszQldZbjZnbFpUZXR3eWFxaFVZeVlKdHQ3b1Ffc08weVVXTWE1QThhbWc?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "SPCX34"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Musk diz que vai renomear SpacexAI para SpacexSI após Trump adotar termo Superinteligência - Terra",
-    "resumo": "Musk diz que vai renomear SpacexAI para SpacexSI após Trump adotar termo Superinteligência Terra",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUTJyRWhhQzdleElyRWc5bHlwTm1fVy1VYXNDOG16X1A0bWlhYm5uN3B6WDlDWUNIYTRNV09FOFFaVVpoOWp2eWIyN1FOMDZYVU94aVNPQWR1SlRLaTBPdWJGQVFRUUhjYURoM0tqb04xcHJqbmZfTFlFWVFRMUh6UWxuU3VOTGpFUEN0dWQxR09IVFpzcGgwemJzU2pFY0xPcXpURnFrVDdaQ0pfV2hyTVRfTFhoWnZ4ZVNadENiSXlJZzloZEV3WFNUWlZESTFWU2V4MEgzWFp1c1FyNFZzTFlVWU1fZi1LSExtT1EzelJ2YnEtOWpPY0lwU2swMEE?oc=5",
-    "fonte": "Terra",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "titulo": "Ibovespa supera os 200 mil pontos e BTG já enxerga alta de 45% na Bolsa com vitória de Flávio Bolsonaro - NeoFeed",
+    "resumo": "Ibovespa supera os 200 mil pontos e BTG já enxerga alta de 45% na Bolsa com vitória de Flávio Bolsonaro NeoFeed",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXYwWDlXWnVPUEVSSEJMMG9OSG05bHpvaWFtR0RDelNRRmRVeGJQeWFBWmtuVjhNenJpZzRhYmhOZ3Jhci1tenNhY1o0UEtOVkxFNklIVlJxcHl1eUZ4ZWd2bEdmTkRCLUpaVndxUkNNR19xQS1kODh3RkZYejdCV2ljUkJSd084dzFkeHhRS0w3SVNxM1M1aGhQTEN2SXAwZGEzdWlZTDVZUk9yeUlyVllvX0VzNVZETVZmVG16cEYwdENDNms2M2ZPNmh5S2dR?oc=5",
+    "fonte": "NeoFeed",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "SPCX34"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "A menção aleatória de Vorcaro a Jair Bolsonaro em mensagens com ex-diretor do Banco Central - VEJA",
-    "resumo": "A menção aleatória de Vorcaro a Jair Bolsonaro em mensagens com ex-diretor do Banco Central VEJA",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU2psOFVNbXA2c25xRkxhTjkzZ2pTdVYtTG9MVUNmVGszcWI0dnh4aXFKY2RUaGdoOW1RbHNmLWZUVGtNRGZBblV3Y19RdUFWQzJKVktqdEtUdVMwWF9BQ0VYSUNmX2NGNXU3cWZZcjFXY3ZRaE1SUE1YTzJOMVFOSGtZSUhyaGdFVjZfLW5KYmhsS3pTcnZiTFJkYWNlVGhfSlB5akJ6ekZwNHJtRXRMczRJMklTRUUxVWJxYkYxeW1WQUdqdlE?oc=5",
+    "titulo": "Ibovespa dispara e bate recorde no primeiro pregão após o primeiro turno - VEJA",
+    "resumo": "Ibovespa dispara e bate recorde no primeiro pregão após o primeiro turno VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0VWSWJhb1E5aXdQZ2k1ZDNIZnJVQXRwbE1nanFmX2xqS2N3MGFKTTAtS3V6X3VXUTJkZjl1WGYtd05XV0c0aWUtbTRJV2lqV3RMUDVoWnhvMFJwWmFsWm5IbmhXVUllRjFLTjBTbjVBc0ppUi12M2xjOE4zc2RFTmNiSFF1MWpiRXhTR1hvZkR5d0FoUXVhUWI4RU5fVEF4U3k2TFdqRlp1OGc?oc=5",
     "fonte": "VEJA",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "PF mapeia 22 perfis influentes em apuração sobre campanha coordenada pró-Vorcaro e ataques ao Banco Central - Pinga Fogo Notícias",
-    "resumo": "PF mapeia 22 perfis influentes em apuração sobre campanha coordenada pró-Vorcaro e ataques ao Banco Central Pinga Fogo Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWHBKWU8tTjFWVmdGRGFiRFlDQ0xjVzR0VzNpS1dnMDliZ2tiY05tWHhCTUJvYnIzb2p3a18zRUwzb0Z0QnV6MDZocHA1QW1vZ2xZVGFWbV9HSm1rSHdXU2MyNm5GVVQyZ3M1dDgzNVJxNjBIenNyQmlseUJCS2c1aGdzUlVDQnB6cVdFMU85V1h0aTAyZm5CaGE5TlRZTnc2SmwwMFY2aVpUc3dUYVdCNmNHVEVlMS1KdkVsNDJYOFpaSHlQRWtMdVNrX2plbHVHZ0JDSVYzZFZqUjk0RzJHaEk4WHg?oc=5",
-    "fonte": "Pinga Fogo Notícias",
+    "titulo": "Ibovespa sobe mais de 7% e fica acima dos 200 mil pontos após eleição - Poder360",
+    "resumo": "Ibovespa sobe mais de 7% e fica acima dos 200 mil pontos após eleição Poder360",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2RTb1kzU0UyMS1iM0JmUHpiM0NsTHVhQjlNWDZfdXg5N3JyUmoxYVRpRHNBMHphU1pYZHc4RVhIY0ptOHVIQi05S0otbUVrQUdMNTE4X1JzY043bnVzdVo4NVBkY2ZZOUdwRk5DMWthSGc5cHpMSnQ2WE1ERGFSbEc2cS13QjVuM19sb2ZISG94YTBvcF9FcnZ4YUtMQWpmVXgzY2FrWkN3Qk8tQTNvQm13?oc=5",
+    "fonte": "Poder360",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Ibovespa salta 8% e supera 207 mil pontos com Flávio à frente no 1º turno - InfoMoney",
+    "resumo": "Ibovespa salta 8% e supera 207 mil pontos com Flávio à frente no 1º turno InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHY2cWFxMzZlZ0FqRmhmNVZTMzZzUEtxVUY3YlJVZXVMZkdqOGFVZHppYU9DaHBPZHM1VEkyZ2VqM3dIMXBjUTZ0RUktNVNGMmxOYzhvemtkcHgxOTZhb1IwNDBwMENFYlNEcmo2N0RxSmU4UnpLSVMtdmpMRDZfaTVSNDg2UlBpLV90MWRpMHY2dGI4Q1lSai1UQVVVcU1SemZOUGNMMDBxVWo3NUMtcnkwMHJsNmh0bzNYUU5wUDjSAcYBQVVfeXFMTnF4UzBieFJkeVBRYV8xaHRlRS1MajdFR09Wa291RlVhNWNOVG9jaUxtV05DVGtwcEF3dmNDSlZydW9yd3N2NmN6dnRGeVVlUDkwTGM3VGZjRFBhTmFxVEhfeWdmSEVVWVRSUU9Idkt5TkFWZzYzalc4MUVGZG8yXzRiWmZVanVtX3FJTjJzWUZGM0tHZzFfb1hBcDluaElfRnVNZ0x2VmFTdVZTUFZFd1QtVTB2YXRYUHM2Vm44NmhMMGdUaXRB?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Em menos de uma hora, Ibovespa sobe mais de 9% e chega perto dos 210 mil pontos - Exame",
+    "resumo": "Em menos de uma hora, Ibovespa sobe mais de 9% e chega perto dos 210 mil pontos Exame",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxRHNIeVlJNHdOZ0lnMV9aS2hucXpxcG9iUGVDb0ZKeHpTTmZwYmtCTS1jcV9sLVBFdUtrOWdMSXprQjRKYlpxSlJzLTlUeWhGcHRzNko4MFdYOTh2d0lyTnZrU0Fmb3d0Y1hXYlc0U2Rydw?oc=5",
+    "fonte": "Exame",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Liderança de Flávio Bolsonaro faz fundo de Ibovespa disparar quase 10% em Tóquio - G1",
+    "resumo": "Liderança de Flávio Bolsonaro faz fundo de Ibovespa disparar quase 10% em Tóquio G1",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUm5HWGNwMFNydkxnbUJxc2pUekZMYXEzdWtKRUJWVUM4UENVTTVDYW9mWnBueEt6NVdDLW5OWEVUUTBTdkZXNTFJb3FEbGIxcUV6T1VyQmI1UDVZQ3pKcmtRalJXTWVrZnZCa0Zqdk9OdmVMcWRZN0dYeFd1UkZKSG5EalBvOXhTcVJCQ050eGNjQTVhMGZNMG9BRExwQ1RiajFOazBzMHRWbkduVC1YeHVnN0FSWEJraGlJN0hmZ0ozM1JJSGhJTTBkMzlhR0RmeEpvRjVqVE7SAecBQVVfeXFMTk9sX1VJU2hzeXhhWHNma0VjamJwdFNlQmR5R19LS3g5N1p3SUJHVEdkajZuUzlzaU04cUdySWdGWU5OcGJUdUR0M3BwU2hHVFdYRGpOeWVlRGVCdG53X0hQc1d0QkpLVUg1MnpFb3BnT3BkWkt4SmdPcWI2MXpVdlJlVzQzYzRSMmZNcWpEczFUZExDbUpJaml1V2lLZUYxcEViNUt0Y3U3bkJHMUJJTVIyYzlSVGNYb2RPTnV0VjM5Z1FpUDVrWENhZmIxNnp0OFNob1Q0d2ZwX3FpbkdubXpFcDA3Vjdz?oc=5",
+    "fonte": "G1",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Ibovespa Futuro: Impacto da eleição no mercado, após primeiro turno - ISTOÉ DINHEIRO",
+    "resumo": "Ibovespa Futuro: Impacto da eleição no mercado, após primeiro turno ISTOÉ DINHEIRO",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWowNGdjaVQ2eVJIM2hMenByVFMzcmdiNVgyY0xlVTVPZEhFVG04MU43akdUTzh5QlZqdlRtQVYwMndwa3FscTNHWDhqNEJnOGNaUm9lcG5VV3JTSkZycnJBUXhjSzdQWGtQc05LTHYwajdFdWhSWVJmNXNBZjIyTl9fRWYyVkNnYjFDY2s0RDNNWUoxUkdTeXVB?oc=5",
+    "fonte": "ISTOÉ DINHEIRO",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "S&P 500 sobe, Nasdaq atinge recorde com alta das ações de empresas de tecnologia de grande capitalização - TradingView",
+    "resumo": "S&P 500 sobe, Nasdaq atinge recorde com alta das ações de empresas de tecnologia de grande capitalização TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXbFlKb2k5THBQNEZBMk5peXBtc2xpallndnRlZnd1Z2g1cnhONEhEVlhwTHBYOGV1SDAwZXRfa0t3aU0zMk9ubVM4MFNOQUJ5anNMaDJ5N2xKSHM1YTlvRmJjZTlidHBZcGd6RzkzZWU4clNxdTZz?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Ibovespa futuro salta mais de 9% e vai para os 211 mil pontos em reação ao primeiro turno das eleições - Money Times",
+    "resumo": "Ibovespa futuro salta mais de 9% e vai para os 211 mil pontos em reação ao primeiro turno das eleições Money Times",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80eWhSZk51Y3o2VUhVV1c5aHdHVEV3bnVidnR5LXlnMEJPM0dNbjZ4TzBuTi1jVVdGaGt2eDlabUZzV2NIOFpCWFRBQVVIZ2xUUFNycmMzWWE1YnR5Tno1WnZEZWdWWmU1ck5N?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "S&P 500 sobe, Nasdaq atinge máxima recorde com alta de ações de tecnologia - TradingView",
+    "resumo": "S&P 500 sobe, Nasdaq atinge máxima recorde com alta de ações de tecnologia TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Dcm1FcDVqaHp1NDdlckdPcHBRZml1M2JsN3BHaTVndWxyV3JYTWR0T3RlRTlmSHJkazlORjIybVpqYi1aVzVsTDcwSDd0Q2s2YThJS0ptUDZSb1ZUMTkwdV90cXNxaGM3ZERMNlEzM0xndmJPaUpB?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Focus: mercado eleva previsão da inflação para 5,01% em 2026 - Agência Brasil",
+    "resumo": "Focus: mercado eleva previsão da inflação para 5,01% em 2026 Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUZMMk1taFcyYjVzdTlLaWVPNEJqTVJEaW1qYV9JZUt1dmtHSlZjUU9uc1ZKSjVvU09rWUdvbFlzUmVuSFVVTWpnT0M3YTZZcHl0VXJ5OElUX1Vnd2hkcF9yS3RyRFpRelNCei1xNWxoUkhYRmJtVW1jYlRRZGl3V3l6QjZzZy1aRURHaVZqX3FLY21QUU5SMDAtUE9hN3RReWtNNURWSXRkc2t6N1ZlbEU4Q0ZPZw?oc=5",
+    "fonte": "Agência Brasil",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
     ],
-    "impacto": "Baixo",
+    "impacto": "Médio",
     "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   }
 ]
