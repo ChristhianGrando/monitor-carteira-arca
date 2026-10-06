@@ -1,38 +1,59 @@
 [
   {
-    "titulo": "Selic Vai Cair? Veja o Que o Mercado Prevê para os Juros e Como as Eleições Podem Mudar o Cenário - Forbes Brasil",
-    "resumo": "Selic Vai Cair? Veja o Que o Mercado Prevê para os Juros e Como as Eleições Podem Mudar o Cenário Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WYWhfVDB6M0J6Y3ktUnVGZ0MxYl91VjhCV3MtZUJqaUVSODllZC1ESDlPM05RWi1Oa3R1N2JsTHJxcXZBS0x4aWxkR2NYUlotMEpqUDFGdEkyTTY5M2lrV2lnN09tNTlHUVpvSkxCLTVnRHVEUEk0Tw?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a8c30bf7b2ba58cdc55139ef96b02afbb61765622460a54bb83cae4c77d2d950",
+    "titulo": "Dólar opera em queda, com cenário político e balança comercial no radar; Ibovespa recua - G1",
+    "resumo": "Dólar opera em queda, com cenário político e balança comercial no radar; Ibovespa recua G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44N0lESXlXc1lfdml1Sk9aM2dKMFRDU2FzQllETXRYdkZ4NFRlNVRlbWNYdmFjLS1EZ1hfX0FYVmlfNE5mR3FvRl9ZVjhkc1VneFI4VmQ5YTlGVE9fanRDTW5JVTJfUE5icWNGWFljbV9LdmVnTVRPZNIBhwFBVV95cUxPNW80UHpBYUxUUnNhOGVTOER4X29VTHI4MGtSTm8yUkVCT0I5RWlTbjFkaEpMSjRMQXpLaldFcmRIdDduZTRvNHVjcElLWERDazNOR0VDNWpFWFZWRFNsSFdQVVl5MFNrVFZGVGxoMlQ5QVhpQWRNSmZlVktCZy1UbGNIbVlTU2s?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "61e35c8532f603e637506dfce24c39362c483c49e41347509d363bd95a2a0791",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 15,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "ABBC anuncia ex-diretor do Banco Central como novo CEO - Valor Econômico",
-    "resumo": "ABBC anuncia ex-diretor do Banco Central como novo CEO Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXNiNFhyczVwOUZSMzcycXRCdUJPQjI3YmY3NXVUN2kwQ2dNZ2ZfTXpzTFREVDJpXzhkTGxSSE9SRkZvY3dHMDJuTmczMGJ5QUpFODczcnN4bDFpTF81eEZhVE94VFMzbVFFR1FHQUlVb1ZVM09oQWJORkg2aTdabmdldldDa0Fhcy1DbHIxdTZYWTBMYkZaX0VtQURselV1WFhaTEl1S1A3TWR6MGFnaFFR0gHAAUFVX3lxTE5JRUMxOEFNQVZwMmZQeVdLOHp6OUl3b2FVNkE4ZFFxYWRlVG9FT2UzT285ZWxKaHBTc1UzTjFWMERUaVBwbXktSUlsdGt4Ukp0bG94UHI1cjk1eHJDREhuNEREX0Rrd3N1SzFhTGxYX29hdEFYOVdmN1VLLWhmcGFYXzlYSldYT01wVUM0Z1lXVTZESE96ajlqclU4V2otaXFlOHRERUNZS1lqSWZtekxUU3BsV25tcG1saHdKdzhhTQ?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Ibovespa passa por realização de lucros após rali eleitoral; dólar cai - CNN Brasil",
+    "resumo": "Ibovespa passa por realização de lucros após rali eleitoral; dólar cai CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFY4WHRSUEM3Qm5FYWdDZ0Y0bUpRVlUzQnZLc3pJSFluaTJiZXNRU3QtTjlHenZXazI3elRSc1hNVUd3Ymo1aUNreVRiNm9NcmowZkowSFg3d1JpQ2JLSFdpSGIxa2JVRVozcjVwV1NRcGRSY1RhVFJXZ2lDRnZ0cW9ZSmZWOXJ2R05aZWVrYmtnRk1aRkVKaTRvcUNZajRSM1Zn?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "096110db58e56b2fe343f42ffdd32cb2ab21a027d216ad51114ba843e299b3b8",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "CNJ e Banco Central propõem novas regras para negociar precatórios - Poder360",
+    "resumo": "CNJ e Banco Central propõem novas regras para negociar precatórios Poder360",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWpmVmktaHl1X2wtVTZCaFYyZVBRNkhQc1g3QmlWMkw2czNfNUhGNE5XVFBjQU5YNU9Pd0VGVFZid1NTYzRaNEtmU3dzZXJFTnF0WktlNkRQZmRVQ1RCc09lSTdyVWtpYWplbXpjSUY4ZGZoLWNCaHlZWW0yRWJ1dXlqZTA5cW9qb0toTl9jM0xkZnZVRkdQd1VlZ0ZjY2JqaVhKQ2M3N3huREl4UlE?oc=5",
+    "fonte": "Poder360",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "2465abbc0dd4aeee52adfa2ce9a138307fdad535ad9fd4828f819caaed22fb43",
+    "chave": "f893b815e4a40ea8acf9612170a8d9453e7ae2df4d035aada279d129bbff6dee",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -49,69 +70,26 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Sicredi apresenta experiência de atendimento ao produtor rural ao Banco Central - MundoCoop",
-    "resumo": "Sicredi apresenta experiência de atendimento ao produtor rural ao Banco Central MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamZTem5vV0FuVERIVFRMNnItSDF0M3ViRGdnQWM5VE9lNkt2M250NTUwZnBVblAtM1dSRXpqUGJNY2oydXNialMwMTNKaWJKOUEtZzh6RVdRQnVVRXdJb2lOZE1uQUowMFpkbUQ4b2U1MFBPM0tMNGVTaFlkb0RzS0o0aDNXd3JXQzRPTVJLVnRvclNwVnA5VzhzaFh0RFZUSEw5SkNfMmpWS3pzUVp4N21wUEFrY0hzRHhpcDBWZjc?oc=5",
-    "fonte": "MundoCoop",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e46174a05db159655aae35c2cd8327271630e9cfbcb73335b4c59a018df7b68a",
+    "titulo": "Meio-Dia Mercado: Ibovespa operava em queda com correção, nos EUA o S&P 500 renova recorde - ADVFN",
+    "resumo": "Meio-Dia Mercado: Ibovespa operava em queda com correção, nos EUA o S&P 500 renova recorde ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXVQQWxWZ3JLalptRHdRb3NEaXFSeDdqNFBDT2d6aDg5TkhVb3J0eWpXTDJ5RTQ3eDhNMjhaS3ZVcF9RczZBcU5heUtEaVRoSlBJc0dON2ZjZWxrcTZYaEpmSTVaaml4dXJ4dVhRNVd6Tk03REtMWVhyaWF6QTZXVFlzWS1jQWlOOUpVS2xaUEJuWS1qVEtBdUYwdU8wUWdUUnhuTGNwMFhkQzlUREgzYXBoa1M3aERmOGNvZFpPcURCOVkyTXI4?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "57b1c9541bf5b82e6857bbacdda89630b68894901ba20d3a0d1cdb3b7ef199ec",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ex-diretor do Banco Central assume comando da ABBC - UOL Economia",
-    "resumo": "Ex-diretor do Banco Central assume comando da ABBC UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUxwMzl5M0hrOGZhSm5sYXZvTGU1bDRsSlJFajZpUzFVLUJSb0p3MmpCWE1EbDQtYXFXanRqUWZvb1haeFdJc2EtM25aNVhUeEdsM3V3dUJpOGl1SWpEQThHWFJabWo4QWo4ZWxYSEtNOS1LVkxIWXRXa0JPb0FyVGtubWsxRDRzY3d6VVdBcUdWWkhlVUstXzF2NHlhZW1UWWQtVDBETEczeWpXM3hnMA?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "bc112791b18b51127abd17aa2945dd3f3cf79c65005ab18fa6ade0392594b876",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ex-diretor do Banco Central, Renato Gomes assume presidência da ABBC - Vero Notícias",
-    "resumo": "Ex-diretor do Banco Central, Renato Gomes assume presidência da ABBC Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1hxWFBKeFVwdlBDLTctRzZtLW90YzZBWlRTd3l0ejB2d2NMR3dVd2s5X2RCQXJVMTRtQWtZTmpYN0lQbS1VbWNaQzY2NXpqUll4RndfM3k0UDh3aWw1SU1RYjFLTnN3Vl96S3FBWnBhdkhNVlFwOU1EOVJ1b3pvVmNETDl2OWZaQ0xrelhvS0lVTFFLUXlJNWFXdU1RUkRxanZIbg?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1e8b2351419dee31a424727f7c3f4dc0514b0d2260270b43f9d5a33f8ee568bf",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]

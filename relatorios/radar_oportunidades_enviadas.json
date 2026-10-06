@@ -1,67 +1,5 @@
 [
   {
-    "data_envio": "2026-08-19 23:36:16",
-    "chave": "d75aa1add25552ae0ddb102efb694ed3012a56cb8c5d21a13de3efb101e1f4e8",
-    "titulo": "Ibovespa sobe e consegue primeira vitória de agosto; dólar cai a R$ 5,17 - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejlNNmNYdTN2SkdZYi1jWjFIbERTSURnMkM1WGFBdlFKV29TY0Rpd2hKRVNPOEZ5M2w1Y2UwYXBnZnVSQW1Bc01xYXpFU1d6S1NTdW1JMFJkVjF3RUZLWTZtNHhuTXFyR1JiYkVrbFBUWnM5ZG54SVVLTWlWZnVua2tadlE4cG1zYnhTVV9jSQ?oc=5",
-    "fonte": "InfoMoney",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-20 03:10:07",
-    "chave": "675fdb2f7c251fec5950e8a0009a5a32cf1cd6ed7dc77c77bcddaabe61b88d25",
-    "titulo": "China: Banco central mantém taxas básicas de juros inalteradas - valor.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem5yYkZCTURDc25HcVpZdzVFZEtTMS1zaWloOGdPdnRBYXpnRE52RGhIbnpRaTROOThlUGhBSUZLVC1IRzVjU1N1UjBLaVJxR2lCUFd2TktVcUx5MkRjZ0JnY3U2MHN0OXNiTnB3ZTc0ampjQ2RNWmV0ZnZhMTBIcWplaWNpVmVwRUhkR19CRUNKWDdQekN2SVlSZVVNVHZVTFBvWnVTT0NiV25JUWN3YXdJOFFoQ0RS0gHHAUFVX3lxTE44SFVJSzJ6ZURrWGYxYnhpTENKN2I3SV9xZmh4aGpUd0ZWbzktT0hsb192TzI1WXZfVElXRnZKRVZBM0dXWUVlREp5aDR5dUhvX3BXR1RWTGVUdlZUMkJIbFRmaE40LVdFN0VZSjlUdTBoTEhnd2FXd19BeW9iazNDR1dRUmRScEZZWTZMR2NjSkN3eEtucHh5N2ttRDBDUk9zeHpDMVN1WS1KdXZnUDIxbjFwVEhkRnRwVzA2MDRlMUpmSkZvbFE?oc=5",
-    "fonte": "valor.globo.com",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-20 03:58:16",
-    "chave": "a2b1411fe3bc3b1b45c365b019ab2230f4800af8c00f69762bdbd4c391f5a919",
-    "titulo": "Ibovespa rompe sequência de quedas e sobe com fluxo global para ativos de risco - Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOUJzVmlQNUNQNUNHcGxZZDZmaG1YLUlsQjJwQUNTZURRcHI1TGZxS0FlbEZCbTVWMG02clFjeTNsUGtvS2hGVWFOUXdLb2hEb3FGOHZQY1RwemhoYVcwR2FfWUxLU3daLUFXODNyYnU5c2YzV2pQRV9tU2xVaXpWU1Vya2MwMHljQ1l3RkVyRDhKNFZZSFBwMWljcWtlb3hQalB0NWJ2MzEwalZxdHJRSHlTc2FTMjVXRWNuazY3ejRpWU9JLWJ4a0w4bFdrdldUTUdHMnpHRlZhQQ?oc=5",
-    "fonte": "Jornal do Comércio",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-08-20 03:58:16",
-    "chave": "1d651b32fbed7f36209550770154943350c7468abd4a8a8ef6eeba3e45ab48ac",
-    "titulo": "China: Banco central mantém taxas básicas de juros inalteradas - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem5yYkZCTURDc25HcVpZdzVFZEtTMS1zaWloOGdPdnRBYXpnRE52RGhIbnpRaTROOThlUGhBSUZLVC1IRzVjU1N1UjBLaVJxR2lCUFd2TktVcUx5MkRjZ0JnY3U2MHN0OXNiTnB3ZTc0ampjQ2RNWmV0ZnZhMTBIcWplaWNpVmVwRUhkR19CRUNKWDdQekN2SVlSZVVNVHZVTFBvWnVTT0NiV25JUWN3YXdJOFFoQ0RS0gHHAUFVX3lxTE44SFVJSzJ6ZURrWGYxYnhpTENKN2I3SV9xZmh4aGpUd0ZWbzktT0hsb192TzI1WXZfVElXRnZKRVZBM0dXWUVlREp5aDR5dUhvX3BXR1RWTGVUdlZUMkJIbFRmaE40LVdFN0VZSjlUdTBoTEhnd2FXd19BeW9iazNDR1dRUmRScEZZWTZMR2NjSkN3eEtucHh5N2ttRDBDUk9zeHpDMVN1WS1KdXZnUDIxbjFwVEhkRnRwVzA2MDRlMUpmSkZvbFE?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-20 05:46:10",
     "chave": "b78b707460efcf6963562a8f4fa1dc81a668a5d879636015a992781d6b7994c8",
     "titulo": "Ibovespa sobe 0,9% e dólar cai a R$ 5,18 após movimento do Tesouro dos EUA - bloomberglinea.com.br",
@@ -17442,6 +17380,72 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-06 20:21:13",
+    "chave": "61e35c8532f603e637506dfce24c39362c483c49e41347509d363bd95a2a0791",
+    "titulo": "Dólar opera em queda, com cenário político e balança comercial no radar; Ibovespa recua - G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44N0lESXlXc1lfdml1Sk9aM2dKMFRDU2FzQllETXRYdkZ4NFRlNVRlbWNYdmFjLS1EZ1hfX0FYVmlfNE5mR3FvRl9ZVjhkc1VneFI4VmQ5YTlGVE9fanRDTW5JVTJfUE5icWNGWFljbV9LdmVnTVRPZNIBhwFBVV95cUxPNW80UHpBYUxUUnNhOGVTOER4X29VTHI4MGtSTm8yUkVCT0I5RWlTbjFkaEpMSjRMQXpLaldFcmRIdDduZTRvNHVjcElLWERDazNOR0VDNWpFWFZWRFNsSFdQVVl5MFNrVFZGVGxoMlQ5QVhpQWRNSmZlVktCZy1UbGNIbVlTU2s?oc=5",
+    "fonte": "G1",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-06 20:21:13",
+    "chave": "096110db58e56b2fe343f42ffdd32cb2ab21a027d216ad51114ba843e299b3b8",
+    "titulo": "Ibovespa passa por realização de lucros após rali eleitoral; dólar cai - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFY4WHRSUEM3Qm5FYWdDZ0Y0bUpRVlUzQnZLc3pJSFluaTJiZXNRU3QtTjlHenZXazI3elRSc1hNVUd3Ymo1aUNreVRiNm9NcmowZkowSFg3d1JpQ2JLSFdpSGIxa2JVRVozcjVwV1NRcGRSY1RhVFJXZ2lDRnZ0cW9ZSmZWOXJ2R05aZWVrYmtnRk1aRkVKaTRvcUNZajRSM1Zn?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-06 20:21:13",
+    "chave": "f893b815e4a40ea8acf9612170a8d9453e7ae2df4d035aada279d129bbff6dee",
+    "titulo": "CNJ e Banco Central propõem novas regras para negociar precatórios - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWpmVmktaHl1X2wtVTZCaFYyZVBRNkhQc1g3QmlWMkw2czNfNUhGNE5XVFBjQU5YNU9Pd0VGVFZid1NTYzRaNEtmU3dzZXJFTnF0WktlNkRQZmRVQ1RCc09lSTdyVWtpYWplbXpjSUY4ZGZoLWNCaHlZWW0yRWJ1dXlqZTA5cW9qb0toTl9jM0xkZnZVRkdQd1VlZ0ZjY2JqaVhKQ2M3N3huREl4UlE?oc=5",
+    "fonte": "Poder360",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-06 20:21:13",
+    "chave": "57b1c9541bf5b82e6857bbacdda89630b68894901ba20d3a0d1cdb3b7ef199ec",
+    "titulo": "Meio-Dia Mercado: Ibovespa operava em queda com correção, nos EUA o S&P 500 renova recorde - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXVQQWxWZ3JLalptRHdRb3NEaXFSeDdqNFBDT2d6aDg5TkhVb3J0eWpXTDJ5RTQ3eDhNMjhaS3ZVcF9RczZBcU5heUtEaVRoSlBJc0dON2ZjZWxrcTZYaEpmSTVaaml4dXJ4dVhRNVd6Tk03REtMWVhyaWF6QTZXVFlzWS1jQWlOOUpVS2xaUEJuWS1qVEtBdUYwdU8wUWdUUnhuTGNwMFhkQzlUREgzYXBoa1M3aERmOGNvZFpPcURCOVkyTXI4?oc=5",
+    "fonte": "ADVFN",
+    "score": 9,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
