@@ -1,35 +1,104 @@
 [
   {
-    "titulo": "Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado - G1",
-    "resumo": "Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado G1",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHJuOVBldFVGVnlrbFgxd1g4VHUwMGNybkZTb2xZOTJjUFl1VjBmVXhNQ3ZrNG1Eb1NkUnk1U2J0cHZMWFRCUDJkSVhRemhqZjJMeTB2a3NiLW1UTHRURmpDbjBvbi1yaFpuMWJKYm1WUTZRWFJQMkVMdHB5VHQ2QWNNQjVoS25rWFk2WGZXdncxVlhrMk5mVk05YWJpcy1yTmcwVkxWcE9jWlZtZ285em4xR0lQVGl5QXc2Z0xPcE9peUN2T24ybTZldDZ5ajdQN2ZBSWt2aFJRaXpQOE1HZ3F4QmdDWFBBSkHSAfgBQVVfeXFMT3ByVHRWMkgtTkRJTFoxRXQ4WU1NMjVDRDFNZEl6OGpBdjZhNzU0c0RpTFBMNGNUX1I0cnU2Ync2bFV5dUFqMXlMNExnWW5jVEY2a1AzeVFuRWJzOGEyUFUtOUh1X2NFOHpYdGxPUE1jeUJrenJ6T2VMV3VlYnphOFBvM2IzVkF0Z3A2cXJSY2FSQW4tY21BQk5WcUJXeTBoZTQ2RkNWSU9TUVhoRzFwSlB5dkozRnZtd3AyMmEyQXBxY0xkZW5KUUZYYWtVazB1TUN4TmljdGFMT3E0bVlSWnZfWGF2MVJ2S2FIcjlCdXRseW93ckxKTzI?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "86936ef9746decf894696babbdee9f7c095a05098af12c16f8f840b737526975",
+    "titulo": "Selic Vai Cair? Veja o Que o Mercado Prevê para os Juros e Como as Eleições Podem Mudar o Cenário - Forbes Brasil",
+    "resumo": "Selic Vai Cair? Veja o Que o Mercado Prevê para os Juros e Como as Eleições Podem Mudar o Cenário Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WYWhfVDB6M0J6Y3ktUnVGZ0MxYl91VjhCV3MtZUJqaUVSODllZC1ESDlPM05RWi1Oa3R1N2JsTHJxcXZBS0x4aWxkR2NYUlotMEpqUDFGdEkyTTY5M2lrV2lnN09tNTlHUVpvSkxCLTVnRHVEUEk0Tw?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "a8c30bf7b2ba58cdc55139ef96b02afbb61765622460a54bb83cae4c77d2d950",
     "ativos": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central reforça mecanismos de segurança do Pix - Grupo AMANHÃ",
-    "resumo": "Banco Central reforça mecanismos de segurança do Pix Grupo AMANHÃ",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTBQb25jQ0ZjbEI4Y2J5cVF6ZkRubExkZzljZGVEeXFZLWtiRnBIYWJYak8xdm9OdDVjRmxVY2dldDV4dmpMLXoxQUpjT2RsLU80dThiQUtDbk5TTDhBdjVkbmtVbUlZeWJYSU9ZWVRVS1RYd1ZWcGcxdzJsVTNEMjdJZHZZOFp6THdkN0lR?oc=5",
-    "fonte": "Grupo AMANHÃ",
+    "titulo": "ABBC anuncia ex-diretor do Banco Central como novo CEO - Valor Econômico",
+    "resumo": "ABBC anuncia ex-diretor do Banco Central como novo CEO Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXNiNFhyczVwOUZSMzcycXRCdUJPQjI3YmY3NXVUN2kwQ2dNZ2ZfTXpzTFREVDJpXzhkTGxSSE9SRkZvY3dHMDJuTmczMGJ5QUpFODczcnN4bDFpTF81eEZhVE94VFMzbVFFR1FHQUlVb1ZVM09oQWJORkg2aTdabmdldldDa0Fhcy1DbHIxdTZYWTBMYkZaX0VtQURselV1WFhaTEl1S1A3TWR6MGFnaFFR0gHAAUFVX3lxTE5JRUMxOEFNQVZwMmZQeVdLOHp6OUl3b2FVNkE4ZFFxYWRlVG9FT2UzT285ZWxKaHBTc1UzTjFWMERUaVBwbXktSUlsdGt4Ukp0bG94UHI1cjk1eHJDREhuNEREX0Rrd3N1SzFhTGxYX29hdEFYOVdmN1VLLWhmcGFYXzlYSldYT01wVUM0Z1lXVTZESE96ajlqclU4V2otaXFlOHRERUNZS1lqSWZtekxUU3BsV25tcG1saHdKdzhhTQ?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e04047dfd2a90580ffeae933f22f9d6f7bb80036e8fcec1e11e75d4dff32e74b",
+    "chave": "2465abbc0dd4aeee52adfa2ce9a138307fdad535ad9fd4828f819caaed22fb43",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Sicredi apresenta experiência de atendimento ao produtor rural ao Banco Central - MundoCoop",
+    "resumo": "Sicredi apresenta experiência de atendimento ao produtor rural ao Banco Central MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamZTem5vV0FuVERIVFRMNnItSDF0M3ViRGdnQWM5VE9lNkt2M250NTUwZnBVblAtM1dSRXpqUGJNY2oydXNialMwMTNKaWJKOUEtZzh6RVdRQnVVRXdJb2lOZE1uQUowMFpkbUQ4b2U1MFBPM0tMNGVTaFlkb0RzS0o0aDNXd3JXQzRPTVJLVnRvclNwVnA5VzhzaFh0RFZUSEw5SkNfMmpWS3pzUVp4N21wUEFrY0hzRHhpcDBWZjc?oc=5",
+    "fonte": "MundoCoop",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "e46174a05db159655aae35c2cd8327271630e9cfbcb73335b4c59a018df7b68a",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ex-diretor do Banco Central assume comando da ABBC - UOL Economia",
+    "resumo": "Ex-diretor do Banco Central assume comando da ABBC UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUxwMzl5M0hrOGZhSm5sYXZvTGU1bDRsSlJFajZpUzFVLUJSb0p3MmpCWE1EbDQtYXFXanRqUWZvb1haeFdJc2EtM25aNVhUeEdsM3V3dUJpOGl1SWpEQThHWFJabWo4QWo4ZWxYSEtNOS1LVkxIWXRXa0JPb0FyVGtubWsxRDRzY3d6VVdBcUdWWkhlVUstXzF2NHlhZW1UWWQtVDBETEczeWpXM3hnMA?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "bc112791b18b51127abd17aa2945dd3f3cf79c65005ab18fa6ade0392594b876",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ex-diretor do Banco Central, Renato Gomes assume presidência da ABBC - Vero Notícias",
+    "resumo": "Ex-diretor do Banco Central, Renato Gomes assume presidência da ABBC Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1hxWFBKeFVwdlBDLTctRzZtLW90YzZBWlRTd3l0ejB2d2NMR3dVd2s5X2RCQXJVMTRtQWtZTmpYN0lQbS1VbWNaQzY2NXpqUll4RndfM3k0UDh3aWw1SU1RYjFLTnN3Vl96S3FBWnBhdkhNVlFwOU1EOVJ1b3pvVmNETDl2OWZaQ0xrelhvS0lVTFFLUXlJNWFXdU1RUkRxanZIbg?oc=5",
+    "fonte": "Vero Notícias",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "1e8b2351419dee31a424727f7c3f4dc0514b0d2260270b43f9d5a33f8ee568bf",
     "ativos": [
       "CDB 100% CDI"
     ],
