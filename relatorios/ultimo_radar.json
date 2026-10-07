@@ -1,92 +1,11 @@
 [
   {
-    "titulo": "Carro chinês avança no país, e guerra de descontos chega ao IPCA - Valor Econômico",
-    "resumo": "Carro chinês avança no país, e guerra de descontos chega ao IPCA Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ0pHSW5LM25FLVBpLTlrU2tYRzUwaXh2b3NJdV8zQWNJM3pZQkxHYU9DNWtRdDBYVHRiVzJ6anNWS0ItSm9qdmtIT3B6cjJBZ2JoM1I4amVkdTZpczlVd1JUVUtxcEJ6eGJXa09qVGlPdF8yc0dqZHhTS29hRlVibXVOMjdkZVJIY05mbmpyNVNMRVBITERHUmhwYm42WVpmbEJWX3ZUSDhlZEVzMm8zcHVBNng3X0NySEhYQW1pOXVDMW1MRnhoanhR0gHKAUFVX3lxTFBDSkdJbkszbkUtUGktOWtTa1hHNTBpeHZvc0l1XzNBY0kzellCTEdhT0M1a1F0MFhUdGJXMnpqc1ZLQi1Kb2p2a0hPcHpyMkFnYmgzUjhqZWR1NmlzOVV3UlRVS3FwQnp4YldrT2pUaU90XzJzR2pkeFNLb2FGVWJtdU4yN2RlUkhjTmZuanI1U0xFUEhMREdSaHBibjZZWmZsQlZfdlRIOGVkRXMybzNwdUE2eDdfQ3JISFhBbWk5dUMxbUxGeGhqeFE?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Dólar sobe e Ibovespa cai após euforia com 1º turno; mercados globais recuam - G1",
+    "resumo": "Dólar sobe e Ibovespa cai após euforia com 1º turno; mercados globais recuam G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45WUFUNFB2TG1ySVNaZXN3TXlRWE56WUF3NXpFb09NNUU1dkJkR3NGZWpCNmV1ZjlVRFBuM1BTakpTUy1lV0VRcWV6bHFEcGtsTndHdVFWdDFTczgyQWoweVpyd3hDeTlWbzY4RzhUbGVNTEt0a296V9IBhwFBVV95cUxOWGRUWFJfb3cxLUF4bm00bC1PQ3pIS01aMFh0VGFjdFI1OEV4Mnd4T2pBR2Jtb19Da2kyUldqa3BMU2I3UWh3bWxJcmhMNlktM1U4SmZKdTIwOWMxaGNGTXgtOXo5Q012VVFyT3lySTZ4V0pZNHMyekxmMFY0WEhmbnJlNFlFY0k?oc=5",
+    "fonte": "G1",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6057431ad8c4478ca0cf390b0275c4950d7330d0a3b5c0afe6747e69c04ca731",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 19,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Os juros vão cair? Estes são os FIIs que os analistas indicam para aproveitar a virada da Selic - Seu Dinheiro",
-    "resumo": "Os juros vão cair? Estes são os FIIs que os analistas indicam para aproveitar a virada da Selic Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFg2c0M0Yl8xMkVvbjVDbHZrQThjc1kza2NPRTg3YS1mbWpFc2FyTHowaDFSbi1uNXJLWkc5U1NSVGFET05yeHIyYjM5M2Eyc2NKX0pzREw4clJnN2R5YnJlY2lTeFo5VXV5Q1VBdnppcWJNT1lHVnRocEZFQ0FMeFVjbkpPSVNWV2lJYTlYQWFXRnpwZlVORkM1aEs5dF9ObVRHMEFvMF9Ud3dweW1paWprZXpkak9mY0lXdnJoMGpnQUNHWlZxMGJWa3FCWnBmSzJ1YU0waXBFazFVSFE?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "5ad981f46c5b75aebb29a14200ad303a1b3d2db3348f0c47efcf807d04239a36",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Inflação do Dia das Crianças, de 32% desde 2021, supera IPCA, mostra estudo - UOL Economia",
-    "resumo": "Inflação do Dia das Crianças, de 32% desde 2021, supera IPCA, mostra estudo UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY2RzLVdacWhZOU5nSlh1UVkza3RPUWRkZElxc2t2ZnBNVmp5Q2FvRXl6cFlOMEwza2I0aEkta3NlRDVQLXk2Y0xMSm5yMWxqYS1ZX3pjR0dyaGRUQnM5S3Q3X0dxUEdDanR6RzY3NUFIUDNYTjV0Q01vbmRrWEVrS3FtenpUY2lnMTZqOUFtclFwZmtlUTdmRXhVbk1QZ3BOTXZ0VWRaWHhQLWpybjdyekk1cThsVGE0ZUlVejVnNy1QYUkwb09wVzlpTmJCQQ?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1f1eb60171663ac855fa4b5009ca315cd28e9b541f41a661835792500c2a3bf7",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa Futuro cai 0,68% com pressão externa e expectativa pelo Fed - ISTOÉ DINHEIRO",
-    "resumo": "Ibovespa Futuro cai 0,68% com pressão externa e expectativa pelo Fed ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tV21XOTd2T0l4VUlmLUdWbWM1RTFNdHhIamZFSjY4THViM09lME5JdnRQR2pwVC1fSlBDN3dkQ2dUd25TcWZpLVloNDJVNmdTblpZQTZmRFpnbzdGcllQR3Q3cWhwS0lhTU9VWWJ6OXhPZw?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ed6f41c592381d8eb27f2ad24bc100815f3873fa488f7de06dabdb9c298c8705",
+    "chave": "40a7e68848506e5e3a79b54997d151c1094bc908fbc3c0d82b19ddfe8a78a0d9",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -105,12 +24,78 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Pix amplia funcionalidades e reforça segurança com nova rodada de aperfeiçoamentos regulatórios - Banco Central do Brasil",
-    "resumo": "Pix amplia funcionalidades e reforça segurança com nova rodada de aperfeiçoamentos regulatórios Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fYmFsVmJVU3F4NXNJZWZZTl9aLTE4bWl0LWxUR2JaZDYycGhZemJvN1JFOFZrZ21XdWFtMVNsUDBIMzkybktKRE9BaE9iRHBaVXZXR1RoTGV1RTJuTzItVg?oc=5",
-    "fonte": "Banco Central do Brasil",
+    "titulo": "Operações de crédito com securitizadoras ou FIDCs devem ser reportadas ao Banco Central - Martinelli Advogados",
+    "resumo": "Operações de crédito com securitizadoras ou FIDCs devem ser reportadas ao Banco Central Martinelli Advogados",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHF0WFRmWlFIN1VOSzlSbFlPUnJ1X3liT0U5aE9pbHhzZS1oV3J0djVnMXZHUWtIbnFJQ09XWFpBZjJJMXRjM2FkUG1IeHFGcDhiS0FTSjNNVFZEcjhOeHZVM2FGVmVNUlpNWHBocThoNGpoNloyVF9zRVdWZXlnRzFrWXdYUzZEcEFfUnhlNFB1R0RZMGVVc3F0bVp4SDJrS1dWa2o1SnBTd3VYRGRPZ2J4MnAwLXRFM2c?oc=5",
+    "fonte": "Martinelli Advogados",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0bcd7a252324e2d427dfe636212a4678cd700214e49ce6433e16b26db6302752",
+    "chave": "e748f3ac27572a99d3c1546dbf0d9c5c38c8a1fb9e9238644b827e04b519a561",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Maioria no Banco Central americano prevê novo aumento de juros este ano - UOL Economia",
+    "resumo": "Maioria no Banco Central americano prevê novo aumento de juros este ano UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdGQjJ6RDU1TXFSMkJqdHMwcUlZaU9pMUp1WVdwdG5uSGF0MWFhNXNfNFRfNE1aOTFPQ0ZIY2lKMHBTSWE2WlRzT3gtaDNoQ3EyaWJTRl8yQUYzaEJ0a1NLZ0lmTzdSbS1IektrNU9kbDZud05RN2tYZ2ZraTN6VkczN3RXaElCLU1aZG5hZmZpcmtCdDZCM2dST3lMOU1yaXpQaFg3OU1sX0wzdFYtWUlaRWd4SEx4aENTTUxJYnZ3dHR4b3I3OUFpNA?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "cd9ddd0cbe8e1eed9aa9f8dd5fd95476334878bcca9dab7c69c71ea4ab8807bf",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ata do banco central americano sinaliza nova alta dos juros ainda neste ano - VEJA",
+    "resumo": "Ata do banco central americano sinaliza nova alta dos juros ainda neste ano VEJA",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkhNejQ0UFZPT1RjY2MwMGpiTS1vdmsyODBySG5rYjRHXzlETEdqZlBkX1VYVkwzUnBqcmNjNXJTZFF6VUxqNXgtUU1Jdl9mZ3YwVmNTV2Y0UGM4d0p1UElXNlpwQXhyS3pJQTBXeXZ1MVdJVmpzQmJVNmV4Ui1EbVhWNVE2LU91T0FEXzh0clh1c3BJUnhkcnNDWW1Qd0QwR0ZRQ29NSnhXV3QtaUd6eQ?oc=5",
+    "fonte": "VEJA",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b962a48b2bf2577edbb1d1a9d9e9a9a625b80cd28f742ca696363a97aa8cecb2",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central da Índia eleva juros pela primeira vez desde 2023 - Vero Notícias",
+    "resumo": "Banco Central da Índia eleva juros pela primeira vez desde 2023 Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNi1VQ3V6N01wZms3MXhaalJLTXBwNFVKT2pFMmtFcjZrUldQNzRYZzlvcW1JQ3hEcGhMOXU4T0ZUOU03Mmg2Uk9SLW1DNHUzaWZJWU5KeXVxT2RLdG0zYlg5aTJsSFJ3cjJwYW9CaldMNTc5T0NwaXQ0aUtOUnFOMHdDZnU0X1dlY243VlVlZFE3djlBU004eEw0SWxxV3M?oc=5",
+    "fonte": "Vero Notícias",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "01cfe03465676fb02061d3d4f1255f75189cfaba14baca52debfe5f4949842d3",
     "ativos": [
       "CDB 100% CDI"
     ],
