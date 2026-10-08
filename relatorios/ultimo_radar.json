@@ -1,11 +1,61 @@
 [
   {
-    "titulo": "Dólar sobe a R$ 5,0105 e Ibovespa cai 0,74% após euforia com 1º turno - brasilagro.com.br",
-    "resumo": "Dólar sobe a R$ 5,0105 e Ibovespa cai 0,74% após euforia com 1º turno brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVl9xbk8yV2FNblBBQzNPeFFmbDdsVkFUbk9CWGRPRUZyTXpuZEhnbzQ4WTZZcW00OEJjNG5SZGlzRnFpbXJPT1lyX2J5Ylc3aXhjT1NIRzhvOExhYnlKN0RULS1GRVNwSW5md3hRMkJYeXhYUmFKOHdCWGdtUnpObFpHcm5TZDRjcVFRT2FObUM1eTZqTDlIU3F4MTZ6OWhXNk1GNWlGVnJQc05n?oc=5",
-    "fonte": "brasilagro.com.br",
+    "titulo": "Itaú propõe núcleo ‘alternativo’ que mostra mais pressão no IPCA - Valor Econômico",
+    "resumo": "Itaú propõe núcleo ‘alternativo’ que mostra mais pressão no IPCA Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3ZSekVoaDhWc3lIdXZoeEhHM1hycl9RMmtvcW9XenVWSnFPRFhqT3dSQTZDRXpSZzJFb2lWWlRuZHlKU2Npd0xuTnRYS0h0U2RJbmZjRTRKcWpZSTRiOGNJWFI4ZlNkYjdpbjVxTVBqN29qNkdHc0xzNVBoUnlFNjRkd0gxLU1iY3Utcl8zeFNaeDhWWF9VNmhPNEF5QU9EWkRRVWpQMVFOcFl2WDhsS3J2cnVzYlNRNVHSAcgBQVVfeXFMTzVSbDlzUDd4SFI3NmJrWXl2MnVwcWloY0E3bW56NGNEWmo1M25odEVsY2U4ZF9GYU5ueVZGQUJmc2VYTHBPNjB6VEZxQVBLNmRpSkM0MkNSYTRHYjR2TXpxdE1qeTRhd3BZaEpURXFLaHZ1OVhOWkJPbkpqZ25UVlNzVDZtVGJmaThUYmZqUmhYY2QyNDhuc0NFSF9mYkdrR1FUeUI4XzI0cWxDRjVNQ2dDdm1XRGw2X1FPMnU2aE1QbDJtSC1HdUU?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "4020b5cc4b476d25a429106f033831855537fc31c3fac9a4249f696dc7ec39cf",
+    "chave": "e3dd766739f122eac7a6711984c6109bfd6a61764c72023aec835156402a1221",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa futuro opera estável e dólar sobe com 'cabo de guerra' entre humor externo e 'trade Flávio' - Money Times",
+    "resumo": "Ibovespa futuro opera estável e dólar sobe com 'cabo de guerra' entre humor externo e 'trade Flávio' Money Times",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjb2xqSVUxbC02eExWTVY4MnZDNkxwdWFNa0RVY0JVT3NXU2d3NjQwTGc2OHNreXhqbnRKRkdqajd6NXF5eXp1WmVwWkZENDhlaEJWZklRV21tamRTRF9UU1ppRnZDUU5Nc3RR?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "e5f748f0b9d9c3da4b34f4c9aff3a01e67c0ea1f1a0d47089e741312b3fc6e82",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Após euforia do início da semana, dólar sobe e Ibovespa cai - Canal Rural",
+    "resumo": "Após euforia do início da semana, dólar sobe e Ibovespa cai Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlBIVzJmd1FmUnVCVFNVMVJFZ3ZzRzBfb2RMbUE3aW96eGNmOHNiYk9sN3BhMmo3bHVwX3RNSGNnTGo1Y3I1ZURfQ1RaV0JfY0NGM1IxM1ctT2QxU2RzbWhLX0dha0QxV2FyRFBTazFYWDhyZWZjU2g3UE5EN243Y1pnQUJSN0lvX3FtZ19HSjdkWDlKdElCYjVrMldOTW8?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "a55b1618311d6f9e87008c03be34e60dd28a95a9fa941bdc0383ecb535e8ad12",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,12 +74,34 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IBGE, Banco Central, CGU e mais: veja concursos com editais previstos para os próximos meses - G1",
-    "resumo": "IBGE, Banco Central, CGU e mais: veja concursos com editais previstos para os próximos meses G1",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJFUVlDV3JHRFhTaXU1d2xGUXkxMUZUNlFiOGZJaGY5SnlEUl9fR3AwZTZlcm1UMlVIa01rRndGU1F1R2VzTlV0NFMwbFJpQ1doWmJ0MmhQVHFtMHNHS3ZfM3RFTE1ySXhvd3ZNdmFBZDNJTE9qOWNHZWJmR1laWHdiZFNWVFdnSHo1NERCampYMUQ5Z2xHSEcxZ3F1a0NaWnppOXBFclB6ZUF6UE1xVGw4c3lzQkMyb1k3azhOc2FwVXJXT2E4RXgzNTBrV3RSS0lOdlo0VlktQS1PWDFwZHc2R3hyV0laNDRDaTRNVUNXTEQ1ckw5V9IBhwJBVV95cUxOTUNzZ1N2MS1YVUZQQTVla1RUS3A5UWY5ckZZS0g3WmJEYUhuSTlsdVFhUzVKM0ZjLTZ0YVJtbzRLd3hGbElZM0pUeHhOUzVQaUduS2x0NndjZ0hLSFM5cGx2V2szcGUtSHR0Sk8ycmp1azRYNlR4NlhLWHVpN3ZVSGRFWkhDSEtuNWI3Mkl6aXVaUkljbDVjTHBXRzA1Snpxbll6ZUtUUGJQbXlrR004LTRkaTVkQUZmV01rdlB4WEhUU2JfR1V4SHZocHZUUFluN1NuQS1JcUpJbW01Tm1wekdvLVYxSUtWOFZSYi1SZC13QV9kZ1ZvakJhblRHSlJ5Q1Z3bU1JWQ?oc=5",
-    "fonte": "G1",
+    "titulo": "Fundo imobiliário tem administradora liquidada extrajudicialmente pelo Banco Central; entenda - Money Times",
+    "resumo": "Fundo imobiliário tem administradora liquidada extrajudicialmente pelo Banco Central; entenda Money Times",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVjhITzZ5UkxtN1pGYjZnY0kwYlI3bnRZTFBhaDhpSWlnS0ZwclNtdkc0aHpHMURGTUtnV3BaUG5DYy1aN3AyZDBhdmRPLUpyUy1oLXFFN0lMOVlWUlJIQzg1OVViNjJMRzdoLVBRcVdZTkpxZGM2MzBnWm1DS2M5TTB6cVlvR0JZbi01clRyaGNzS2ZhTl9LMHEtUHdGVkVNbUVVaUVUci1KQVBxYWplM2pBOUVieGdBczRYbHpLS2dpbHI0cjJV?oc=5",
+    "fonte": "Money Times",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "5c2cdfd4f4f2855dd54200ac47c17c7538978199420b707dff01a5dccb6be015",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Notícia Fundo imobiliário tem administradora liquidada extrajudicialmente pelo Banco Central; entenda - Kinvo",
+    "resumo": "Notícia Fundo imobiliário tem administradora liquidada extrajudicialmente pelo Banco Central; entenda Kinvo",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXVDUUF0LUVYTDk1elc4TDNteVlCUG1sbjhSTVg4Z3JMZ3FiWUFEVFNqeXQxNHY2U3RTVkltNVJJalNkQzN5ZmVXazRFdmpMTFpPdFA1a0hrVUExdlZSc2NUdGRlYjRxQk4xRWNhT3YzdU02YzBFYXZrNzZSWXRLX2dMRjBLTVM1Q3lKUjZ5bWc5U3luWHhYdnpSQTY4eTdKV2tTaGJqYzZkSms3d2RGd2lYaUlDUjJPYmpPRS1n?oc=5",
+    "fonte": "Kinvo",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e40acbeacec3953a447ff9b91d5ded2689917198d021c79391c03771de2389d7",
+    "chave": "3e48a79721493d0557ece061b0059e1536ce362bdb47e7597a4261b059d2fd7c",
     "ativos": [
       "CDB 100% CDI"
     ],
