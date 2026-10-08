@@ -1,38 +1,5 @@
 [
   {
-    "data_envio": "2026-08-20 20:46:19",
-    "chave": "8a28dd5606f871619b5a9d9d2fd47cd031e616ae6de37e0ebc00a482e974588e",
-    "titulo": "Com galpões cheios e cotas descontadas, FIIs de logística desafiam juros altos; vale a pena investir? - Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNejBHem94RmNIdFRIYXhDSFM3OXpBTG15ekE5d25ScjdSZG5BSHVjamJkNVlaSHZ5Vm1GR2ktR0pzQmlJaFBSa053anV6NUE2ZXpxWUpDZ1JYSW53cWpFZDgtWlpIbWdLdkJnamJGT3dGTjRqbmVOcnJTZl92R1ktWnI3RUFrX1dyMWQ2aWptR3dVOVpCMmxTWGdjdUtLN3VPNDVMUkR0ZzdTZWw3OV9FRktHTEw1ZDVBMmc3Z2NrNGFnUHh0UjVMUXVrOURoZGxNUDM3V29RVUpjX0szMlFRVGZ5UlRTY3luTVFmUzdvX2RWOHN5dl9jN0prdHR0eEpUM3ZZeEFmbElPM3U0anVLNEZUQ3ZFcjQ?oc=5",
-    "fonte": "Bora Investir",
-    "score": 9,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "HGLG11",
-      "KNRI11"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-20 21:43:27",
-    "chave": "2e5d8a24a71ef3578e9a3417aa8ed381aae39c2d7287b48cb195dd616c9ac7df",
-    "titulo": "Dow Jones despenca 700 pontos e S&P 500 cai após plano do Tesouro para conter os rendimentos fracassar - Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZUpObmFKMDM4WUxqMWpaU0dlbTByb1JCSEJ5Slgxb1NMUWwwWGkzSS1mSTFLMGNyLUNmRmxscm1ZcHVQTmNuOWhmUEp6cTU0SkcwUDhrWDlKZ3JtS2JNZ1N2OE1WUG5Xbk9VVU5rLUtUMGJ4cEczZ1ltclVldldzbHZYa2NoRFdtZ3JYcjNhRGdhTFFMTGRvVG9EM05ZdG5SUS1iTmMyNFJ0dmxyYnBza00zMU9zYlp6RHhZRlo1c0xHQk9WdU42aExmZVI2eV9KRUlEY0ZYSnZWQm92TXBlRmtqQQ?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
     "data_envio": "2026-08-20 21:43:27",
     "chave": "7856f4f4bd686fa32f891159f68f620a7b80dcabb7ff1ab9a934d32b5382c008",
     "titulo": "Entre Despejos e Tombo de FIIs, Crise das Casas Bahia Põe sob Pressão 2,5 Milhões de M² - Forbes Brasil",
@@ -17454,6 +17421,40 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-08 01:00:54",
+    "chave": "b0668e1ed1061fc83b614ed4afee563d0019ff8b1636c3bbd15cf49622055e57",
+    "titulo": "Ibovespa cai pelo 2º pregão consecutivo de olho em ata do Fed e eleições no Brasil - VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOURicGlTcDlGUlNIOTZxcUpaYTFIS1dibVY4eEF1c0pPVzZXcVNtQVd4OG9tRzJ1aXZLX1VBQzhPcVlQN2FCRGxOM041SkdmNDVxclo4SFM3Ny00WnotN19OSGQwNnk5d1JYY0VNYlBpQl9jbWhPVjB6N0w1SUxNbTN5aW9HcWl3eTZUcTdMWW9Td1RvVTlnTG5MOE9VYWdBSHU2UlN2TnJkOWRJc2tvYWRSLThjYWoxYlE?oc=5",
+    "fonte": "VEJA",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-08 01:00:54",
+    "chave": "f9e520e34259059b0fb046524aba211d710ef347b749eb75aa51b5f533f79a60",
+    "titulo": "Ibovespa cai 0,74% e fecha em 204.302 pontos; dólar sobe a R$ 5,011 - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcm1hZ19aMk9kek9rOVpxQjg4bjg5ZmdlM044WXBUTFo2dTZKbUd3OXBhZjRZSnpYNG9rR3pkSGtnTTN4NDNVamlaQTF1NGhVYTN2ZG5HTWRiUHJXS2l4N25ZSmVqYm1xdzJLZnFzc1dyTVFBb0laTHVzQ3BacUR0NnFoc3VSZVJvSHVSc1V4SFhsdFdfOG9lM1M3QkNaRDB6ZUs5VUNQVlFCQQ?oc=5",
+    "fonte": "Poder360",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
