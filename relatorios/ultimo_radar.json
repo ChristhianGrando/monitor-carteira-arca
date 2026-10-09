@@ -1,67 +1,36 @@
 [
   {
-    "titulo": "Ibovespa futuro sobe com ‘trade Flávio’ e IPCA acima do esperado no radar; dólar cai - Money Times",
-    "resumo": "Ibovespa futuro sobe com ‘trade Flávio’ e IPCA acima do esperado no radar; dólar cai Money Times",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90SjA4SGsxakthT2N0d0o0WDMyRGlpRFFWcFN6bkM1RUNUNmtocE1EbGp0SFUyd0I3VVEwQ1YzcUJLQUR5T3pzWi02ZXQ2SUhSSllnbldvYVgtUU1Rc2ViaFRmc0FsaHk1LXVj?oc=5",
-    "fonte": "Money Times",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b2877ee84531da0cc5131d10baa993f0c22d86b9f2439beaa1e572a1fcef0feb",
+    "titulo": "Trump anuncia investigação da Casa Branca sobre Lisa Cook, diretora do banco central dos EUA - O GLOBO",
+    "resumo": "Trump anuncia investigação da Casa Branca sobre Lisa Cook, diretora do banco central dos EUA O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONlhHOHdRYWN3NWFyUS1IQ2p6NVpjb3JXZ3haeTZhV2JITk92Z2RJVnpKRUg1SFltRUEtTWpFeU5hVW5SUEo1Um82dUFocWcxeFpESHpKMDV2YjRIVmxBODV6dHhDbEZKM3ZsVGdNS2V2blZHYV9tUEM4MlBQa2tBMTNXS2c1RzV5U3NVcUpHMnBiNjhDNWdIdXZodmNtZHZlVm0zRXg4OWxnMkNoVnRjMGlzdGVZQk5MR3JvOGZIaTBWUE5VZlFBN2JZWkFoNmptblFqa24tM2p5ZXgtXzZFbzVRTl_SAfMBQVVfeXFMUHpYZ1ZibW11QXpaNXBLM2RKM2IwYzBqa1JqWEJsRmlCNlQzc3RLaEN3S01La0k1cEVJcEpJdjBDNjJVeVdaTWdWYmMtVHZzYjZ4amx3Y3BnOWZPZzM3aVpUYm9yZy02WGk4d29zTnIwMEhBU0dzZlUtZno4d0wwdHV5NVp3RVAtVHM3c25Hc0d4Skl2WWNPdVQ2cDNlUkt3aE9uc0hwTkFjVVBzc2hUNE9oSlNzRVVVOVlYSGo4elJyU1EzMUdQQlJ2ZTBJTDVVdlpmQ1g5bjByVkl0NnlHa195djdYT0N6dGdYNzFES3RzbkI0?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "350e151bd920ce4ad5c6848df9d4d5db9107c0d96b93d8a06f3ad5da905bb3ed",
     "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa opera em alta e vai aos 209 mil pontos, com inflação e eleições no foco; dólar cai - G1",
-    "resumo": "Ibovespa opera em alta e vai aos 209 mil pontos, com inflação e eleições no foco; dólar cai G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xT0ppejctRktTZGE3MmJ3VlZjNlIxVW1uVlF6Nzc5VUpMM1dGWmR1eEhDQWZsNVdqaG45eU1sbFlySGJ3MVhRVWk5b3hzZ1ZJSk1IRzRwN2djTzViczF6LVF1SGtQWFcxamhVSFFBWHNYeVVmdzBSc9IBhwFBVV95cUxON2R0Zk1BSWY1RW5peTIwSEdSQ08zRDVNcUNpNEFlRmRxZ0FzZ09GOXd4TVZWX1pDUnl0SzA3dF81a3A0UUN0N185REJLRHktZS1aTlhZQWZHa29ZTC1PMWw4bE56SlJKZnp1U2RkdUs2UHdNM2FRNzZkaEhxN1ZtSzNEbE5qcXM?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a16a5951a94b12ea38812f3da4a25d0cfe1b524c73b87287ea0ac5eefb960092",
-    "ativos": [
-      "IBOB11",
       "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
     "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
     "titulo": "Após deflação em agosto, IPCA sobe 0,82% em setembro e volta a superar o teto da meta - G1",
     "resumo": "Após deflação em agosto, IPCA sobe 0,82% em setembro e volta a superar o teto da meta G1",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1RlNNTlVkb3BNTjlyYmVyTzFMWkxFcGxzM0MxMklVb2taYnZOcklwLXU4M0FHNGRNZHJzTGVvcktFVDZNdEJ1cm1LQjZRY0JJOTUtNFNpRTNzQlUzRDE2TGpISG9uLVRXYXJDTUN0OTRSR1VhNzZJ0gGGAUFVX3lxTE5mRTNFOWpFOUx3RTZlY3RLdTlPUWN4Z255QVJzOXJyUDVpRDdmTmdjTFNhRmVpdmd2dDh6d2lIVkdDVkRzT2c4UTFRclNGSnJmUThXdnRqaGE2Z0hnWFlFWVJKenFPeE5mcTBlcTZlemw3VWVuSERsLVd1TjhldmdULWJSQmFn?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1RlNNTlVkb3BNTjlyYmVyTzFMWkxFcGxzM0MxMklVb2taYnZOcklwLXU4M0FHNGRNZHJzTGVvcktFVDZNdEJ1cm1LQjZRY0JJOTUtNFNpRTNzQlUzRDE2TGpISG9uLVRXYXJDTUN0OTRSR1VhNzZJ?oc=5",
     "fonte": "G1",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7d4820e0f08218d58d1b66b067f4b731e9b5cebfbf27a4a80426d48c4d135ad3",
+    "chave": "c4987a64246633a492298fd9fb19073a578eebd7762c71070ccc531aa38f2bba",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -82,12 +51,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA: Inflação sobe 0,82% em setembro, com alta da energia elétrica - CNN Brasil",
-    "resumo": "IPCA: Inflação sobe 0,82% em setembro, com alta da energia elétrica CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFRaS2dFZzEySE9obUlucFR4dVRCSWtIWU93UDl4X0UyNEpKNlhaT3drVVFPdkVHNmJxQmNWWlNnalpiY2dqSjR0M3lVWTRIQjlpdk1wQnFLUjdtNmJhS25vQ3hvMlo4ZHpxTGZ4LTRONlNvb1pxenRuWHNSN3pmTU1pNnZFb2FzaWluX2xWQUc?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "IPCA reacelera e tem a maior taxa para setembro desde 2021 - FIEMG",
+    "resumo": "IPCA reacelera e tem a maior taxa para setembro desde 2021 FIEMG",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmU0YlRTdXNQajBSa2JmM2VGUDJoRndyODlkajJ1QTNxUi1xUnk3UlBZbzNRa1JwRG5IMkxIUkd0b0RYLUhCZ3E3aXhfWER4eS0yVFBNVGFmZkU3Z2RnaHZxMDlKQzlORzZLVnN0S2xHQi1DdlNNLUpFZFFvOXMzbERPMXd1YWRTTHUycjhyRXdJZTJnVzJWUg?oc=5",
+    "fonte": "FIEMG",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3d2ede4fbad1beace9c5c3ddf91ad96dd7f1eb585feceaa40276386434759f39",
+    "chave": "6b6cbfff45c7c7116a2f6f8ac897b62f0bbec716fea148d4025a8d3e8525a5cb",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -108,12 +77,38 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA sobe mais do que o esperado em setembro e fica acima da meta de inflação - Folha de S.Paulo",
-    "resumo": "IPCA sobe mais do que o esperado em setembro e fica acima da meta de inflação Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVZCS1YwcUFLUUJTRkl4aHkzQWZHTTNzT0ZwN3VHZkJVUHVYYnFtX1FGYW8zNjNJLUxmLVFFTzUyV29PU2dpWHY2ZFY5ZEpMZWRGUXgtdjA5eHZjbVFVLVhYbWhLb0RIbFpQYkZOU3BCNUExSjBscVJ2TWlYNVYwc19xVHNqWHJKTnUwcnJSLTJPVG8wTlZwMWYyd2FTUk4xLTlrbk52VjM3NXRoNDFydkpHYU9oalI0d0JESmh0bHpkQQ?oc=5",
-    "fonte": "Folha de S.Paulo",
+    "titulo": "Análises econômicas – IPCA - Portal do Comércio",
+    "resumo": "Análises econômicas – IPCA Portal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTZGZUdUcXJBa2JWRDJkTXRhckZJOWtzREdUdnFRd1BWZDUtTzgwbWxxZVJuSDczcnJRdFBXSllVMm8zX1NJVVpKeWlac1NmV2g4bWY0Sks0cUg4SXUzdEE4QzJ6V1Jjd0ZJeTRWcG9jMnhOV1dnVUN6cHBTMVFGRXRDaw?oc=5",
+    "fonte": "Portal do Comércio",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a2555ba724e9820de64b4f156abbf70eb7bf71749a697c70e83f475cead71804",
+    "chave": "a186e84f7f94542d1ca9ad7fee71e117b28d7cd50a0016600853a138efbff3b0",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "IPCA de setembro: núcleos ultrapassam o limite superior da meta - XP Investimentos",
+    "resumo": "IPCA de setembro: núcleos ultrapassam o limite superior da meta XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEtIWkcxVlNqb2lENUhvb284ZXUzUFlkR2JsT3N2amI0bUNpV3p2eXZOM1d1ZjEzdGxPbFlWMndodTk2MG82Z2JLa3VkanBMeTkxaURtVzB6emx2RC1OYWZoaU92dlo0X2ItTWNfWjBCS0ZoLW5wSV9rMkg2VjJGV3NRN05MczhOY2ppMnVMZllnVFdaUm1XdTVVMmpiUWM0cEpV?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "64d9824fb2cc6476cd6311999ada6f89eae60efd77aa4cc056432a7f57810814",
     "ativos": [
       "IBOB11",
       "KNCR11",
