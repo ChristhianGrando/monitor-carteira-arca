@@ -1,36 +1,9 @@
 [
   {
-    "titulo": "IPCA reacelera e tem a maior taxa para setembro desde 2021 - FIEMG",
-    "resumo": "IPCA reacelera e tem a maior taxa para setembro desde 2021 FIEMG",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmU0YlRTdXNQajBSa2JmM2VGUDJoRndyODlkajJ1QTNxUi1xUnk3UlBZbzNRa1JwRG5IMkxIUkd0b0RYLUhCZ3E3aXhfWER4eS0yVFBNVGFmZkU3Z2RnaHZxMDlKQzlORzZLVnN0S2xHQi1DdlNNLUpFZFFvOXMzbERPMXd1YWRTTHUycjhyRXdJZTJnVzJWUg?oc=5",
-    "fonte": "FIEMG",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Inflação em setembro cresce 0,82% no mês e registra alta de 4,58% no acumulado de 12 meses - Confederação Nacional de Municípios",
-    "resumo": "Inflação em setembro cresce 0,82% no mês e registra alta de 4,58% no acumulado de 12 meses Confederação Nacional de Municípios",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT25mWC1ZS2RHWUlWTXBIczRSQkV2LVBGLUc3X0pjcGRlM3V0QWEtS2JyRm1hdmFWT1ZlaXZoalJLLVZEMlJaVHB3clBBZVFzdFpYa2JUN2lvZ3ZXenc4NUU3XzlUWTlkc2sxZHNEcklSc3ZaeHI2M2l6VE5zRVAtN0ZiY0NyNy10RHRNOTFCZERJNUI1LTZ4bTRyeXBxMC1JcDAwS1lzcGRqTEJEM2JFdnluZW9pQmhDTVNiVXNtUnpWRlRYX0Nv?oc=5",
-    "fonte": "Confederação Nacional de Municípios",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Ibovespa B3 bate novo recorde e fecha em 209 mil pontos; dólar cai a R$ 4,98 - Bora Investir",
-    "resumo": "Ibovespa B3 bate novo recorde e fecha em 209 mil pontos; dólar cai a R$ 4,98 Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHlRRmtnMnFkUlh6ejZLZTBZa2F1ZFNHRWFCOTU5bHdqbXNVaGVZSUd2c3NJcHR5Umxpb0oxeFczMkpjWVE1X0pjYUhLUDgyR2t1QjBsNjE2aGExLTcyZjZmWmJlRjh0bGdVa25XVGpKa3VleU5UamhiaGNaOTVvVTl1eHpUN3E2UUdjUF9EVTkxcTZuM3RPaU5kdTRFYU5QaVlRQ0NVMnN4UDNwcmctajF5QndxS043cEhlNWdGTQ?oc=5",
-    "fonte": "Bora Investir",
+    "titulo": "Eleições fazem Ibovespa disparar e dólar cair; veja as notícias mais lidas da semana - Estadão",
+    "resumo": "Eleições fazem Ibovespa disparar e dólar cair; veja as notícias mais lidas da semana Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOEpZU2tZaUlfX2hsSFNPN1NaZkR6SWVmN3lVMFp6VDhGTi1iTERYVmd2U1lmaE1KSDd0aFVZamViLUEwVGFlTTZ0c1VMUmdxNG1ydHAxZlNQZlF4M0pqa3BTenF3Y01oWmNybkhvWjM5dERFcXNjaGNWc1dYQkdZR0lPNDFWUko1Q1pYLWlGZW4tUHZhcWJzQ0tPV0hDNzgxdG5BX0Q4bzh3TmpLdGo5LTVwbDNfTWJEY1ZuNnBnNUNaaXU2VVJOM2xEel9PTEpUMmpSSWpRS0s5alJoakpPVU9jR1c?oc=5",
+    "fonte": "Estadão",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -40,113 +13,114 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Análises econômicas – IPCA - Portal do Comércio",
-    "resumo": "Análises econômicas – IPCA Portal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTZGZUdUcXJBa2JWRDJkTXRhckZJOWtzREdUdnFRd1BWZDUtTzgwbWxxZVJuSDczcnJRdFBXSllVMm8zX1NJVVpKeWlac1NmV2g4bWY0Sks0cUg4SXUzdEE4QzJ6V1Jjd0ZJeTRWcG9jMnhOV1dnVUN6cHBTMVFGRXRDaw?oc=5",
-    "fonte": "Portal do Comércio",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "IPCA de setembro: núcleos ultrapassam o limite superior da meta - XP Investimentos",
-    "resumo": "IPCA de setembro: núcleos ultrapassam o limite superior da meta XP Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEtIWkcxVlNqb2lENUhvb284ZXUzUFlkR2JsT3N2amI0bUNpV3p2eXZOM1d1ZjEzdGxPbFlWMndodTk2MG82Z2JLa3VkanBMeTkxaURtVzB6emx2RC1OYWZoaU92dlo0X2ItTWNfWjBCS0ZoLW5wSV9rMkg2VjJGV3NRN05MczhOY2ppMnVMZllnVFdaUm1XdTVVMmpiUWM0cEpV?oc=5",
-    "fonte": "XP Investimentos",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Resultados dos bancos e o IPC são os destaques de uma semana agitada nos mercados, enquanto o S&P 500 oscila próximo a níveis recordes - TradingView",
-    "resumo": "Resultados dos bancos e o IPC são os destaques de uma semana agitada nos mercados, enquanto o S&P 500 oscila próximo a níveis recordes TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QUTVJYW1lV0NFSnR0ZEFLRmRhVnM4OEItdEh1czh5THdYQloxMzlFdmJrUnBhdE1lQ3pzakExREtSNzM5X1E0SVg4aVVjOHQ5dWMySGdSM1FfbHNOTEZXU1o1QThmQ1F5Sm5MUFNENDlMdW1EWTZv?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "S&P 500 pode dar um sprint final até dezembro — mas investidor não deve ignorar uma pedra no caminho - Seu Dinheiro",
-    "resumo": "S&P 500 pode dar um sprint final até dezembro — mas investidor não deve ignorar uma pedra no caminho Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYU4wMkd1NjZKRFI0T0ZZMTZXQm9GUE9oeHY1N1dGNHpmTG5NWEYyWHdPczVjUUljd3YyQWYtNUlpajVreWJpWk1MRndJT3VBZ083MERCZHNNTmZXMFdQTngyelZGNS1YNEhtNmNnRTlJUzJlR05ZOUxaNndnSWlBdkQ2bV9rZXFzajlsTndvNk1oelNYZkIyVHp5R3ZsMW5DcmhpVFI4U3hJcUNyZGtieElFWWxLLXdJV3Y1TE9EbDVhLVZzVHBXQkQtdlRWaXNkcGlheC16VktPT0dtbDJ0RmhDTHM?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Nasdaq e S&P 500 batem recordes com recuo do petróleo e impulso da inteligência artificial - Revista Empreende",
-    "resumo": "Nasdaq e S&P 500 batem recordes com recuo do petróleo e impulso da inteligência artificial Revista Empreende",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNczYxcUtzY25MUjM5c0R2Nk8tZ2dHUjZaLURlbUxBYlBZdDdsRjdGdFVwbnJKbF9GMWdDTTNxaW9GcFB3MDBEbDVWWDl6TmgybldmQnk5bHNpOWRIMTUzSUdySlBLc3VGVXRXYzZabXpjWTFUbEVXbEVOdXhvTUQ4bzNpcEt0b2tkUnVPMmk2eEhWWjJFdHlEX1AyYXFwUWZwMlNZeUpaRjJqSm5lUnBwQ2VWeHEtdUx0dlBuaUhlY3A5WkVCa0pyYlhmRjNnSTJVYl95U1dGM242MEs4NXFhMlFwcjRvc3lXSlZndGN5a0IyM3FMTTBoLQ?oc=5",
+    "titulo": "Fundos quantitativos superam S&P 500 com apostas em títulos, dólar e petróleo - Revista Empreende",
+    "resumo": "Fundos quantitativos superam S&P 500 com apostas em títulos, dólar e petróleo Revista Empreende",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWGYxZGtxLXg2NU1TMFVjVWlFaGpTQjhoVmlBbUVlVGZCbzRiV2YwLWNFQTNiWlVsRzZwN0Jjc0hSMzBJWmxBeE5zRng3bk1lUk1YTjVkckVTXzE2bk4xREpTX3RlNER4SUFxTWkxYWg4a1NEbVhDZHpUSXEteWVqal9JZzRGdGpPZ2FWX1VMWlBNNkUyUWlhRVZyb2wtQzNDbzNVTDZTbndleXhMMktwVlZrbWRzSFNEdDNCRGZJRUIwNVpuMzUxcUotYXJoeUtXdmdhSDZqM19XUVJYV3VtNTJfRHJBdw?oc=5",
     "fonte": "Revista Empreende",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
+      "IBOB11",
       "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Setor de IA deve impulsionar maior parte dos ganhos nos balanços dos EUA no 3º tri - InfoMoney",
-    "resumo": "Setor de IA deve impulsionar maior parte dos ganhos nos balanços dos EUA no 3º tri InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS1hwQWpVdmhGQ3JEVTFkbjRzb250VXNfeXJCc0RGNjJCelZ5MkU3R2hEVFlyUlhNYVYzM2VjTE43OFo4RHZpUVRHQXdpU0xPYXE4YUpsYlI0ai16eVhXcFduamwwczQ5Z0wyYnpnSXJlZk9FQ1E0ZVZXd09SVDFfT09oWGhNRzEzRjBtMmFoVTVWcV9NSmNmcWFfS09aSm1CTGRVUk80R21FUUJLeGcyVVRhenBMaEkwZFhPTEt30gHDAUFVX3lxTE0wZEdRMnphQUVFbHlUV3k2TG1HNzRZdm55cmNXWkFXTlEwZlN4RndOem45em0wTkpXaUh2R0NHRWRKUUpnMzd5T1pKQldiTklqZURUZFdqaWFaOXVqODkway1QMkFSdDRHUmhLMVNxemZqTktaMDYwRlRkUVNjNUV5R2xQbW81aGR2WjhCcUtTMDk0bDU1SDM4ODI0TkhjWjU3ZEJNWWpPbDZCVk5VTGEzYkx2eXBRZTFTV1Q4NlFTYTYxdw?oc=5",
+    "titulo": "Apesar da euforia no mercado, paciência do BC pode render Selic menor à frente - Valor Econômico",
+    "resumo": "Apesar da euforia no mercado, paciência do BC pode render Selic menor à frente Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc29tY0xyeUEyX1NCemFRZ0JmVEJIT0JZdU5rUTR1THk4V0t6U1gxUzgyVUVIMlZMWW9GV2JSbVpEck5KcGVuSnhUUndIcGFoMjNOX3QyLVY2UHZlckZyc3VBaFc0VnRzXzd3Z1lGX255dWxMbG9CWlV3Ry1NNUxwYXEzUWxBOGNFcWpYVmJBc3I5YkRqZkcwdExvelBoNV8tbzM2aUpNWkVkUnZ0djhqdzdaMENkY1NXZlVSdXdoaXg5STFkdUF3VXdtNWp5MF81Sy1OcdIB4wFBVV95cUxQOG9wWmZKNFBqY1FCZG0xby1oWHpLZmNlam9ZMV9VZnRQZlJyMlpab0pLSXRjVGNOd2UzV1A0ZnV6c0tFMktpQy1pUkZ4RzRtZ2VGSGNFb0pPQVBRTk5FUlQ0MUprSEczOF9ZZmVSeEI1VTJqRVpEZ253RzBzRFJGQ1hCd1ZacE4zX2gtY1JBLUNWdVhkVmdkOGM3Y3diYzBlODFjSkR1TURWQlU1N2VlY2gwTk1RQmFOV2lmdjBVLWJsS1FiLXdSdVMwLVFWc2dmVUxRYkRWWjBNZHpvdlI0VFVYNA?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Selic: Opções de Copom da B3 indicam corte de 0,25% no juro em agosto - CNN Brasil",
+    "resumo": "Selic: Opções de Copom da B3 indicam corte de 0,25% no juro em agosto CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWnNfdGktWG0zaFU3U2pQYUtWUlprTWVDb0ktbHN4dGxsUjk3QmhuNm5VM29kSkdIUmdpM0xLeXUxRzRqbU4wbWU0eUJLTkVCS2ZvRl9RSEplVTZXbWNNcmRUR1ZmdVhKc3NlSEtvTUQ2RFVQUUc1NFdsNzhXY0JzSVBMU1ZIdWdNS3NTYWNxRVdSSGtQaXhFeS04TmlWd3pCYTJDVXRQZkJVT0lUX1lVanZDQ1ZYSDhEdlg4?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Títulos do Tesouro disparam até 13% em uma semana e batem Ibovespa - InfoMoney",
+    "resumo": "Títulos do Tesouro disparam até 13% em uma semana e batem Ibovespa InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHdPOUtMSTd5YkItM0tXeTdIdXZtVFJYSUktTFEzdjZhdWZtNFIxa2JOSl9xNm80Wm1TWVJ4bndNbHkwMVVSMEZYU2lEQnpFb1dPejdNR2FneF82LUJCdXl2MUE5cUVCLV9pUHlYVUlUVkpvVnh5djU4ZTh0cFVHS0ZUTFhGTS1VQzVVS2NCOWlNbnFwZkRJZVlrZnk4LXlMS0lPckIwMlE4WkdsZmfSAbMBQVVfeXFMTmVvMWJZYWk1YlVla05WSnMyZGlkYThOdFlybVVBckZleTBsMmdjREhidWJRNDNaOGZyTDRvTURvRnVMcW40N2dvSTcyU21KX2FkMHRpcVNrRWsyOWs1M0JJSWRtS3JkTExTbFc3NVB6dmlob3dic2JMSE53T3NFOVhNSHB4bnFoaThGQzl3azNIMG5nRU5jZFo3YWlwT0lvelhaNk1uREtNdU5oMVpGeUE1ZTA?oc=5",
     "fonte": "InfoMoney",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "WRLD11"
+      "IBOB11"
     ],
     "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Trump anuncia investigação da Casa Branca sobre Lisa Cook, diretora do banco central dos EUA - O GLOBO",
-    "resumo": "Trump anuncia investigação da Casa Branca sobre Lisa Cook, diretora do banco central dos EUA O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONlhHOHdRYWN3NWFyUS1IQ2p6NVpjb3JXZ3haeTZhV2JITk92Z2RJVnpKRUg1SFltRUEtTWpFeU5hVW5SUEo1Um82dUFocWcxeFpESHpKMDV2YjRIVmxBODV6dHhDbEZKM3ZsVGdNS2V2blZHYV9tUEM4MlBQa2tBMTNXS2c1RzV5U3NVcUpHMnBiNjhDNWdIdXZodmNtZHZlVm0zRXg4OWxnMkNoVnRjMGlzdGVZQk5MR3JvOGZIaTBWUE5VZlFBN2JZWkFoNmptblFqa24tM2p5ZXgtXzZFbzVRTl_SAfMBQVVfeXFMUHpYZ1ZibW11QXpaNXBLM2RKM2IwYzBqa1JqWEJsRmlCNlQzc3RLaEN3S01La0k1cEVJcEpJdjBDNjJVeVdaTWdWYmMtVHZzYjZ4amx3Y3BnOWZPZzM3aVpUYm9yZy02WGk4d29zTnIwMEhBU0dzZlUtZno4d0wwdHV5NVp3RVAtVHM3c25Hc0d4Skl2WWNPdVQ2cDNlUkt3aE9uc0hwTkFjVVBzc2hUNE9oSlNzRVVVOVlYSGo4elJyU1EzMUdQQlJ2ZTBJTDVVdlpmQ1g5bjByVkl0NnlHa195djdYT0N6dGdYNzFES3RzbkI0?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "Ibovespa 209 mil pontos: otimismo eleitoral impulsiona - Acia Araçatuba",
+    "resumo": "Ibovespa 209 mil pontos: otimismo eleitoral impulsiona Acia Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVvUEpqcWhZakRmdGptLWJTRl9wREE3MGZMMElYcnptX1lLd1hUbUFyRWlXTTRwNVdMWUJ0VFlVek41a0ZVM2s1anl2LVBHWU5mVGRWZzNwaTBYMjBhWmprTDFpTGdEdk55NjJOVElpZ2hrTXEzcGlDVWdHeXpwNGtn?oc=5",
+    "fonte": "Acia Araçatuba",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Elon Musk Investe R$ 40 Bilhões para Desafiar Gigantes da Telefonia nos EUA - Forbes Brasil",
+    "resumo": "Elon Musk Investe R$ 40 Bilhões para Desafiar Gigantes da Telefonia nos EUA Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlZUTkdBdkJtY0Q4TzlRTFNWQjlYM1NvY3VSX0NsY0hpMUNEMkhydWxrMGRtN1JXZ0d1SWp2cU9VXzRVT2Rka1lDT3hMNzZwd3BHcnNPQ244RENIXzBWZm1OT0UxTlZLVzRyNERuWEhzTS1Nc2JVQU9HblR5cWV2eENnUzNkX0dKMHc?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "WRLD11",
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Trump abre nova investigação para tentar afastar diretora do Banco Central dos EUA - Gazeta do Povo",
-    "resumo": "Trump abre nova investigação para tentar afastar diretora do Banco Central dos EUA Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFAwSE9IRU5GNHhnSEpsaV9za2ZaWk1IeHl5QW9CVFM0S2RuYjZfRFJQTHUyX1NxTHNZXy1nOW5pMXNadWVKOU1GWVB0UmFLNnYxTnFjM1daeV9jeXRRZUFXOGJGTGVzT2cteGRZZnNDZGVVUjl0eFZpajFOME5KQW9nNE81RUs2T0RiX25CSkVhU3BURl9RNVRYRVVfUGZiUkoxbWNYNTA4dVZHbm9ib2FzcEI3Ym9HeXE1bU1n?oc=5",
-    "fonte": "Gazeta do Povo",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "titulo": "SpaceX está perto de transformar a Starlink na primeira operadora de celular via satélite nos EUA - InvestNews",
+    "resumo": "SpaceX está perto de transformar a Starlink na primeira operadora de celular via satélite nos EUA InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmsxOG5VU2VxdzYxZEk4QlZNWjM3X0lwazVVVVBqV0J1OVZsTGxhZm43Zk5EZjlWdXpfbjc5SjdPR1U0cVVQc3ExZG51ZXRIc2VObVZVb0M1SmplX2lIT2R5RUZCc21Bdy00aThkeHRmakZfbGFRZVctV1hxcFVta0xYNzItMVZWSmlUdWF3eUFnTFoxT1A3S3ZkZ1VkWTZPeVhVR2otOUNuTThzSVlTNTl0eU0td1owakRldlJVemdobVFOMFBQdFdBQTZ1UdIB0wFBVV95cUxORm9hRktwU3E0WXN5dkVjZGFCdVJ4akhxZ2tFeVJOTGFpbjBVLUZLMDFCczAyaHpMd3VaUF8tcm9rX3pWVjYxSDJUd19mbUNjTVZMUFhVNFVzUnFmblFNZFpZcEhuZENQeU5ZaHhmOE1DUDlNMzNvcDVPd0hhV0NteHhSel9fanExOEpLWXBRa2FKdVE4cHdSYkl2UE1HakpUR3JldUMtdjhRdU1lMEM1V2hrUlljS2d5WThwQTljQktCckZzMjZGY0lHeExLRDZFdDlZ?oc=5",
+    "fonte": "InvestNews",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "WRLD11",
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "SpaceX, de Elon Musk, negocia espectro para se tornar operadora de celular nos Estados Unidos - O GLOBO",
-    "resumo": "SpaceX, de Elon Musk, negocia espectro para se tornar operadora de celular nos Estados Unidos O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQTBwUFJjMElFZFcyRFdWRXlqUkhWSUtJZjY4ck9GaW53TVR5cjNDdW92a1dsZ3l0cU16dDRpd25jRmpWMWlEakhQQkJnREFOc2NPVTB2WTN2TF9mSmtpUWJBa2ZpQkV5TkZtXzBrelhYM1Ztb3A0S1dCNHR3dW9GeU9Zdmd6R2c1ZzZjblV2MTFacjBrWnZCSDlZTmpPRzZXLUYzNVlUZWFodEpfU1lyU3RxWXZVZi1zS2RtOGREdkJBbDJhOFlzeDZoaHFWQ3BleWxaMzZiTHlmZnJPSThYUVZ4Zk5TRjZ3RnhpUllBMkhPdmN1QjNrMDJxZldPVTI0c2fSAYICQVVfeXFMUEEwcFBSYzBJRWRXMkRXVkV5alJIVklLSWY2OHJPRmlud01UeXIzQ3VvdmtXbGd5dHFNenQ0aXduY0ZqVjFpRGpIUEJCZ0RBTnNjT1UwdlkzdkxfZkpraVFiQWtmaUJFeU5GbV8wa3pYWDNWbW9wNEtXQjR0d3VvRnlPWXZnekdnNWc2Y25VdjExWnIwa1p2Qkg5WU5qT0c2Vy1GMzVZVGVhaHRKX1NZclN0cVl2VWYtc0tkbThkRHZCQWwyYThZc3g2aGhxVkNwZXlsWjM2Ykx5ZmZyT0k4WFFWeGZOU0Y2d0Z4aVJZQTJIT3ZjdUIzazAycWZXT1UyNHNn?oc=5",
-    "fonte": "O GLOBO",
+    "titulo": "Elon Musk diz que SpaceX pode valer US$ 12 quatrilhões no futuro - Olhar Digital",
+    "resumo": "Elon Musk diz que SpaceX pode valer US$ 12 quatrilhões no futuro Olhar Digital",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlRIZjRHTk4wMDB5MUhxOGt6SThxekJUeGNEb3huYkZXUks1dEJaM3JVQm9tNjNfMFZGMXBwQWtuUlRwLXYyazBCUUwyOXctMURrakhvY2JnWndzR2tIM1lUYTZuT0RlQ0FqUnNMNk1nV0RqR2pGOUx4V1pRSGh3TWx5d1o1azM2UThYRU8zWVVxU21YVTVXYTJKOXRCMmt1d3BjbHlWUDNzUkE?oc=5",
+    "fonte": "Olhar Digital",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "IBOB11",
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Venezuela autoriza operação da Starlink, de Elon Musk, no país - Poder360",
+    "resumo": "Venezuela autoriza operação da Starlink, de Elon Musk, no país Poder360",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXNYTFY2NUNNX0lDZVZ5Q3E4SnVpS1lUQnhZbi1nR1daQUFWSHhCbjU0YVEwZWxYSDdodVkzV1l2ekFMbXFaZW9ZSkNmdTVhYzFPRDNkTlc4VTZEN0pxTjViY0thdFlsY2s2OWtwV2p1bkVGM25veDI2c29ESWttUWlFLU5FbWwwUzVZYjMyXzlWQjE4aHNaMWdoR2draXh1TjZVWkpNOEdGZGxseGc?oc=5",
+    "fonte": "Poder360",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -155,9 +129,9 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "CEO da Delta nega briga com Musk: 'Dirijo uma Tesla' - UOL Economia",
-    "resumo": "CEO da Delta nega briga com Musk: 'Dirijo uma Tesla' UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjM4cFYyRTFQVjBxSGd0NUpTQXVycjAzQWFnNDVsZ3FNZ3haOExxbUY5QW5fb0NZT1pwZVVUWWItbGFQcnczcjJMYVgtQk1GY0tQck45Q0tBUmxFUWpyWlZOM3lCdS1SVjdRYXVlaHJ5QnA5UEs1OFo2VnBwc0o0eXdOOXFMZDVzV3BZWmRXMW9UOUJBb1FuTHM1WDV5MEt4WWRTVUdYNkkzZGZ3RkNJ?oc=5",
+    "titulo": "Musk vê SpaceX maior que economia da Terra e fala em US$ 12 quatrilhões - UOL Economia",
+    "resumo": "Musk vê SpaceX maior que economia da Terra e fala em US$ 12 quatrilhões UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXlnZU93ZFh1T0w2RDM2UHkzY2hTNGJXMUVNOHFFZHlfaXM0eFF5N3RRR3pUWHBlWVRvaUkycElZdHQtcFloRUI2TzdlMjJyV0p1ZXRwMWk5WGV4WXFJd2Y5NHE3YXFVQ0VsMWxpUlNsWUcta1ZudjhWdi14UXlMbk1LNTExbjNNYjI2cFhEX0VXSzBfWVE0WGsyLXhPcEV4RVJSVzB4TnVFMjdhYXVkSkVNWlJtWXhESFBJT3g1WnQ5X203N21UVEs2OA?oc=5",
     "fonte": "UOL Economia",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
@@ -167,10 +141,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "A Starlink Mobile está chegando – e as grandes telecoms sentiram - Brazil Journal",
-    "resumo": "A Starlink Mobile está chegando – e as grandes telecoms sentiram Brazil Journal",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2pZTVlidkxwZ3laNGlFNk9DME10UjExM05kcXRDQ0UzRlJZaXl3a0IyVXRYa3o1TUlJT21NMUVKSTlWSTZGck5SbnJlWHAxRkdzaXpmbGpieFFkSF9FbTlaT3E4YmhVZ2NXWjZBWHVPZjRFX0dHQXI3WHFKMmp3VlRDeE5GZG5VTEhQcVpBSVc2QQ?oc=5",
-    "fonte": "Brazil Journal",
+    "titulo": "US$ 1 tri: simulador permite gastar toda a fortuna de Musk com hambúrgueres, cavalos, mansões e mais - G1",
+    "resumo": "US$ 1 tri: simulador permite gastar toda a fortuna de Musk com hambúrgueres, cavalos, mansões e mais G1",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeUI1MmpQMTFnZkc4ZjB4YzJDMVQyN19KeW9EdlNpZHE3dE4wdXFOdkxPVVVLbFpMME85bUd4bDBlN3V0T0ktLVZxbUtIZVFQRkUyZHI0M2dvWnNWektrUGNwTjUtRjYzT1dmX3B6U1JQSHFHTWQzT1F3M0o5TC1SejJLU2ltSzhMcW85akZISUY5eTRRbG5qaElNb0dVOGlLODJ2dUN5Qk42c0xTNGlKTFN3VWRzdWxBZFM0enFnVTJWMmh0cC1UTW9YSW8zTXJlbnBDblNqd3RaSVhVZzJzRUhHVndta3M40gH3AUFVX3lxTE9Ja3YzdGRqdVFoRkluMDRmUnRiVWVBaEdlRWZFQTdrTWMxTTNNV1BreFh1N0RLSXNuWDRIX3ZGTU9ITGs3RC1VRElGaXBsTjd0Z1pYWmw3dVVjT2hIYlpUSWk4TzY4dVhrNS1KYXlRUWJOWmVPZmNlekd0bjRJZWs4NlBlUVg5TjRBRDExY0ZXdnRLdnFaX2dkT0hIbTUxY29fbTdGZ25GRmZxUjU4WHM3U0RqODZzbWlYd2VuYV9BeFk2Rkhxckt5ME45SDlsYlo5LWJxNl90dC1FcmVaMnNyYlFkX2FCc0tmVWRDMEIxWnJDWWdKVUU?oc=5",
+    "fonte": "G1",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -179,10 +153,34 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Starlink pode virar 4ª operadora do Brasil? TIM e Vivo caem após movimento da gigante - InfoMoney",
-    "resumo": "Starlink pode virar 4ª operadora do Brasil? TIM e Vivo caem após movimento da gigante InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSF92N1gxSzlwN3NlOGY0ZHRhdVZORDJndTdWWDhCelJpb2xjZTRweFRUelJMR0JIa2ZWZlc5bXp6WDRXMGxHOXZoN2tPaWJsb19KcjNod1Z4clZjNzVlY1JETWpTMHBCbmRtbXh2cjVMRnJfa29BS2JyNzQwWjRtZ2NURDZpN2R6Qjh5dW1KT183dnFaMkp0Y2h4TFM5VDdKcUtsWVdrMER5dzE3eUJINnR4V3R2SF9hWFgyWEU0dWgyX1NsbGdzSGdjeUhMYmlzUHdiaWg1YVFIYTJJclHSAeMBQVVfeXFMTWptbXdqMUJyZWJVbGpndnRlbGFvVUZIX2Z5Y3dPYXFRZGY0Ynlvdm1XRGZBT0hEQTBSVENyRzNaZnVTTEFaazYyQ1pWdm9RcVpUdWtTWm1sZlQyalVTZ1FBbVFJZ3ZsQ2VleXZhTXM2Q0pEU1ViNU5hVnlGTVRqYks4SHRwRER1ci1ueGE4QVFPcGU0WXFHQXFrbVAwQlhnVHNLLWotMDdkalVPdXVtNTl0V2NPY1Eza3FLYkRlay1Bc1NUVUhTNElORl9JcEh5bFI0Q1dDSHBTYWVGUjM0Rldiekk?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Venezuela autoriza Starlink de Elon Musk a operar em todo o país - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Venezuela autoriza Starlink de Elon Musk a operar em todo o país Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmRrSzlkMkc2MldWRlhxbXBHUDB2dkNmeHkyTHJnZjJSazY1Vzd4bHNmbjJSLTFLWjJiT2lsRmJCZHhsSHB6UkJOQmRqV0RIaWxrUi13RnpKb0F4UnpDa1hYaDZDQjhFUmpXUzNtRldhVWdXckRvR0JNYmlIWnRxbkpBY0V0R3BoeEhPaVhXekh2cGNkeklzLVVNWVBLdW9vUUhJcnNzX1NYSTU0cTdxblBoWHFPQQ?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Starlink, de Elon Musk, vai virar operadora no Brasil? Os riscos para Vivo e TIM - Exame",
+    "resumo": "Starlink, de Elon Musk, vai virar operadora no Brasil? Os riscos para Vivo e TIM Exame",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3VQeHhHQVJXdTcxczNyRS1YVGpFX2JuTE1Bdk5qcmgyV1lrWl9FVzhhVk5QU0VWSW03RGhuTmw4TGRCY1BTMmJyTDUtd3Njd0RVNjdCbmxudVNfV0doaGJrR2JWY2xoWEZYM3V5NWhFdnQ3eXpnaWZuYndBajJWckJtemxOZjhzZGFJbjlOV1VYVHF0UUlWQzZMTXlSSUJTbU94dVRtdWw5VWJhdzFkUDRR?oc=5",
+    "fonte": "Exame",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Empresa de Elon Musk quer pagar pessoas para compartilhar internet com vizinhos e transforma antena em fonte de renda; entenda - Jornal Diário do Litoral",
+    "resumo": "Empresa de Elon Musk quer pagar pessoas para compartilhar internet com vizinhos e transforma antena em fonte de renda; entenda Jornal Diário do Litoral",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTVBlTHMwX3RLNGI1Q2paa08teXN5S3hCQWhDYnpWLV9NUFc5YTNBRGJNZTFvU1p0c25kdnNNel9YVnVaWEdoNWRvY0xjVG1OV1RkUjFieVJIc0M2cWE1djNwSmpzU2N0Qm1YcHMtRGdYM2xTQjNpeUxhMnZWc0R4RjF3OUdCMXpha1VXdGdsNVRmeUhZeXNpcklfRzYxbk55Q2RzenhXU0NYTG15ZWdXQUVuSXNONXpJMWpPenJPNnRjVDM3dDJMemx6cGtuNTlFR0xJYkFCZ0tJUkZHTFlDMHpDbVZoNWVrTXdvYkMwMExxZUdJWjlwV05nTEdSdFIw?oc=5",
+    "fonte": "Jornal Diário do Litoral",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
