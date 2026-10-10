@@ -1,102 +1,5 @@
 [
   {
-    "data_envio": "2026-09-21 23:41:29",
-    "titulo": "Nasdaq sobe 2% e fecha com recorde impulsionado pela alta das ações de IA e queda do petróleo - Times Brasil | CNBC",
-    "titulo_norm": "nasdaq sobe 2 e fecha com recorde impulsionado pela alta das ações de ia e queda do petróleo times brasil cnbc",
-    "fonte": "Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVmFUSEYzbmtmdmZqSHNWMzJPS2RCOC1oZ0xmXzN2NTlqdFVKWWdXVXlaVjFibHRZYlZPak9ySUYwNGp3dmZObUZrVlZVSUpfeGhXT2hrVTV6M3NhaE5Fdnp0VFA3ZndVM0VrRXVldExOejJrdUxyb0hDRUVNbEZFUmR2UHY4cXlVODFQRnl5QVNBM0duOXBTU0NXdGtEMzhhV1NUbFNtRnlKUXhWSkpLYVloQV9NWkV3SXdDX2dDT0ZRT0R3MUhiYW4wSU9RRGdUZ1NyM1FR?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-09-21 23:41:29",
-    "titulo": "SpaceX adia voo da Starship que irá mais longe do que nunca; missão ainda levará 26 satélites Starlink ao espaço - Olhar Digital",
-    "titulo_norm": "spacex adia voo da starship que irá mais longe do que nunca missão ainda levará 26 satélites starlink ao espaço olhar digital",
-    "fonte": "Olhar Digital",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbkJ4LU9VeHhRUnRzVzhJRmF0RG9XYUJ2SUwxU0VkbGxNYTgzVTV5dlQ2VjdSVndRNHMteXRrXzFmWWlPdzNTcTg2LVZmT3JPM1R4UTNXUjJMTGZHS2lHZnRZUnFIZ1lXelFlX1pFSEl3UlpCMngtQWlyR2tjT1ZXYUg2a0dvM2dESXBZLXBadDJOOXB3dHBCUWdnMS1hdU0waXZicHlNUzhPc0hYRWtsNks3ZzIxclRrT3cwbzYzTHlhbW85U05VX0ZkSWxEc2tMZU1NdG9ZYnNlUnR0NWhnQTU0andJSm5C?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "SPCX34"
-    ]
-  },
-  {
-    "data_envio": "2026-09-21 23:41:29",
-    "titulo": "Banco central da China mantém taxas de juros inalteradas - safras.com.br",
-    "titulo_norm": "banco central da china mantém taxas de juros inalteradas safras com br",
-    "fonte": "safras.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkJBTkZiSlk4TTVLZlNyWXlPcDJfcjFXbkJpWE1XRDdmMjFmNDBNY1Z6ZGNHQmJKWHlUdmVsMzJtNXFzZWdqV1JsSGxtWVktTURoMTlSZFZld25IaGF2UGhwSWRPUURWekZxNHQ5QzAxZE9ZV0FPYWdCMWI2Z0dyakpjS1BMc202?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 15:45:56",
-    "titulo": "Dólar abre em alta, de olho em ata do Copom e Lula na ONU - G1",
-    "titulo_norm": "dólar abre em alta de olho em ata do copom e lula na onu g1",
-    "fonte": "G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IQTctR2ZFMURHUE9xN2dFV0c0em5wZDBMLUxjYmxRdF9PVmZBdjQ1TlRQVkp6bDY4dEROY2JJZTZJNzhUSzJrdzctaFliR2N3SDNGRUNJX0Mxcm9vN05QZGNWN3NVSGtpVERaWHA2MU5VMUl5ZURaVdIBhwFBVV95cUxPNWp1ZHBGcjZZdTl6UWt3Y2FReXk0QzQ1bFZKOVE5M3pEU05SWjJWWUVacm1PLTBLX1dUbnF6d2VDUTFDdmlpaEUzYTA1R0kxempXYUVVVXJBT1hJaTlWVDdoZkNRYVh2QnYxZlZVTkkwOFlkcnZ6cWhzZ1FNOGJLTXNDbzZrYlE?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 15:45:56",
-    "titulo": "Copom vê atividade econômica mais fraca sob efeito de juros altos e queda da inflação, mostra ata - Folha de S.Paulo",
-    "titulo_norm": "copom vê atividade econômica mais fraca sob efeito de juros altos e queda da inflação mostra ata folha de s paulo",
-    "fonte": "Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVTVSaFM0SXZrTTVSZURWLVMxTEZqOE5NR2tOaThGazhWY1lVQkF4MmJLaTZlYWtZLXQ1b2Y4a1VFTnJOcVQzM2dqY21BUG5OazBPbTdISVpqMHV3N0I3MzRhSFVtLXI5aktiZ1k2Smk0S1NUeDBzek02YVN4SjJvREViUTZYdkxWTEJxRDlwdGJpSXJOQUY5dmY5SGNKX2tEOUFocU1TalUtVVhfVktQdmFzSldwNWFhN0dBeFR0NWdGcWZCN2EwaFRBT3JueTdtNVBRQlVCX0U0MGtKMFdscDFR?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 15:45:56",
-    "titulo": "Ata do Copom atribui corte da Selic à desaceleração da economia, mas aponta cautela - Bora Investir",
-    "titulo_norm": "ata do copom atribui corte da selic à desaceleração da economia mas aponta cautela bora investir",
-    "fonte": "Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDk3a0QtWkx2NFFPcV9ic2FNN2dRbGNhUTgzLVQyUUR0bjZNa2RXM1BCczlSSEZKT3A2OU03RFYtUlZxX2lNb21DYXJwV1FNNFgwNDB4aDVwQ2Ntei1YdW0xQy1vaWVnN1FiZ1c5aHE1YW9sLTFmRE5mWk9XNUdqZl9za1MyZEJJT2gxNFJNLUNVaF94X3FTNXFrUllPVlZnaUdteS1Mci05dTJ6S2c2RmVKd3dkRjA4SU05WTVDYkQ?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 15:45:56",
-    "titulo": "Como a Ata do Copom Mexeu com as Apostas para a Selic - Forbes Brasil",
-    "titulo_norm": "como a ata do copom mexeu com as apostas para a selic forbes brasil",
-    "fonte": "Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3FwTi1jNFpjY2V2dm42a190WEZ5MkxPZnNQczltSUJoSkJ4RjA0a3JCRWJkd1huNlFCTnZTcHN1WGU2OEVjU2NpbTlXRnFmLWxVTWd2eFZ5bWt0YV9DbjlLN3pTLXVHODRwVHpkQ3ZkcEVjaUlYMTFNQ1ZlanZBUElmSHR0ams?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 15:45:56",
-    "titulo": "Os sinais do Copom sobre próximos passos da Selic e o recado ao governo sobre risco fiscal - VEJA",
-    "titulo_norm": "os sinais do copom sobre próximos passos da selic e o recado ao governo sobre risco fiscal veja",
-    "fonte": "VEJA",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHBmcEtEemRRTHlKcDQwYWs5b2J1ZE5DUlh3Zy1JTEhKWXJnT1QwLTByNmtROEs5Rm1jVTRKU0UzMTlSUFdldDNmWkUyOUI5cjZKSG9wN3p3LXRDSlI5ektKNm5IcEdTaVE4b0VzY3J3S3JfbU8xLUo0SjAwaDdac0JLUEFBYnJ6VXhnUW00a3hUYk01UTRnT094ZmRyTkt6WUNQS2t0RE1IT0hUYndjeDR3?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
     "data_envio": "2026-09-22 15:45:56",
     "titulo": "Abertura | Ata do Copom e Lula na ONU ficam no radar do mercado hoje - InvesTalk",
     "titulo_norm": "abertura ata do copom e lula na onu ficam no radar do mercado hoje investalk",
@@ -5799,6 +5702,96 @@
     "impacto": "Baixo",
     "ativos_afetados": [
       "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-10 23:55:20",
+    "titulo": "IPCA de setembro permite cortes lentos da Selic, diz economista - CNN Brasil",
+    "titulo_norm": "ipca de setembro permite cortes lentos da selic diz economista cnn brasil",
+    "fonte": "CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1VFZlpBN2ZRQkRLdUQ4U1dIYVhfUERrTy1uUEdfZDB1MnJaSTlrNnowTTlZdDhHb0wtOFVmM0xfWG9oTURyMlJFSDlDU0pocHY2RXJWTUlSd3ZLUjBESFN3QlgyQXBQX3NSQl9BOW52SE5wZElMVGpsYzBXa0pmNTZjV1BuMkR0dGlnRnAtN3pZQUhtYVk3cTNOSFNiMmNuemdoaEh6dTIwTXN6Z0ozVDhGcVA3NEc2ZGc4YXFR?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-10-10 23:55:20",
+    "titulo": "Análise: Rali eleitoral continua na bolsa, apesar de dados sobre inflação - CNN Brasil",
+    "titulo_norm": "análise rali eleitoral continua na bolsa apesar de dados sobre inflação cnn brasil",
+    "fonte": "CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWW1RbGoxcjZ5WjFVLU5xM0pGZXJ2bmJITEtyQjBvSW1qcmtNXzNEMmMyN1lCaGk1ZGJJTExqbHZDZV92Y0VNNTdELWpGSzZZNzYtdkdKb0RUa1RZZzVKRzN4akJkTGhuN0Q4dDVPYlhkeWp2bGh3dnR2alFHZG53R3VueU04SDZhM1RTemVDZXlCUVFsVUdndXNobWM4dkt4U0xMX2ozNGhNRHR4bWtHZDl4OFlUX2lkQXEyNFdnN1NERk01QXhuOXFFYkxHUFN3VWx0bFpTVWtFQQ?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-10-10 23:55:20",
+    "titulo": "Trump comprou US$ 5 milhões em títulos da SpaceX antes de cortar regulações - CNN Brasil",
+    "titulo_norm": "trump comprou us 5 milhões em títulos da spacex antes de cortar regulações cnn brasil",
+    "fonte": "CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjlZNlA5SWpwLWViSE5jRmswLWU5XzJLdTZrY0E2aEJvN21faUMzX3NISUlHX2pSUmszTFMxVlB3Wm84aFBfVV85eVRGTF9NY0NNOU50dmhjb1R3ck45TXFSd25uYkR4TDJZbi1Yd3Q3UElQeTJWR2xWXzF4eFFDWURmQnJQVzNGcFF3TDE1OTRXZFNqcnRNMFhDd3MtNVVXbmZwWk5pSWFrYkJrb1JFV0JRTVM4UWUyV2puMUtEa3FuVXhtalE?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-10 23:55:20",
+    "titulo": "GARE11, BTLG11, VISC11 e KNRI11 são destaques do Bom Dia FIIs (8/10) - Fiis.com.br",
+    "titulo_norm": "gare11 btlg11 visc11 e knri11 são destaques do bom dia fiis 8 10 fiis com br",
+    "fonte": "Fiis.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MUVI4RXlJYW93SXE4TDhkdXgzY04wLXQ4STMxY0Z6RFJWNU1lNXZVU3NpaVBsMnpaR2swc2dIR2RkWExhQXd1bE9ZRWNmb2c1UW5FalIyRGpmbjl1UlE?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "KNRI11"
+    ]
+  },
+  {
+    "data_envio": "2026-10-10 23:55:20",
+    "titulo": "A IA que lê o Banco Central — e rendeu um prêmio global à Bradesco Asset - InfoMoney",
+    "titulo_norm": "a ia que lê o banco central e rendeu um prêmio global à bradesco asset infomoney",
+    "fonte": "InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnB3R2FLeTA3N1FVWk5WNVN4dk9GQkJHeEpyUVQ5RjVubDhSR0hqaDdHai04YW5kaG02SkVtdnoyak9GeGtJUGE3bG5QcXEzSjVjT3BZS25nTzBnam9sSkI0d2R6MDFQRnNvS1g2OFZiMlF4WkN0VWxrcUhaeUhfMVBXUUZ4cDlwaDFXOWNDLUwzOGYyTjRTRXBFbE1HWU9ncTZHUzROeUNvSzFlQ3fSAbMBQVVfeXFMT3lYTlFBN2xoRjQtV21RQjc3ZW90TjlvZGhiWVU1UlpveWdfeFFSdXNybUxrTUJTTGRqR1I3NWc3OUttU0JNcmUyRW1oZTQ5eGpiVUJQVllRU0p2cEJfNDZDdW9DZUU0dHVTLW5lM2g4cERfYWVNaTB6NmYtaTNlbTRCejhvSExZSGRvQkVwQVRCWWR5ZW5ubERUVjNQczc4Y1laQjdRMVlBSlF0VGVlZ1AybVk?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-10-10 23:55:20",
+    "titulo": "Concurso Banco Central: veja as vagas autorizadas - Educa Mais Brasil",
+    "titulo_norm": "concurso banco central veja as vagas autorizadas educa mais brasil",
+    "fonte": "Educa Mais Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjJiRjNoNmFIeVV2bmhMdlEzWjZmdkVrLUVkQ0h2alB3RWVXYWFpUkNFUTlERWZJaFRqaUFwMTFpZzBWUDNNZHVSa013YmVtdk5pc3A4Q3QtZlFDcFJBRWtoaC16ZUlfUzlDLU9kQXhFaVFwQVk2d0V5WGhTOTB6R09SX3p2eUhYekNtQ1NGRTRmQ2hKdDdYUmNUMDVvOG0xMktB?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-10-10 23:55:20",
+    "titulo": "Parceria entre CNJ e Banco Central busca ampliar segurança na negociação de precatórios - stf noticias",
+    "titulo_norm": "parceria entre cnj e banco central busca ampliar segurança na negociação de precatórios stf noticias",
+    "fonte": "stf noticias",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWQ3QV9qb3YwNXhCaXRIWm16RnBnMmFOWUJiVDZ5RXdhQUxaNHZNcE4tNnNXUW93WldQcGpaWThfNmJhUWhvR0JzMXA0ZTA5ZXdtVFBoaDU5ZUE4WlpSRm9xbWUyQ3RVNW1QU0RPQWpON1ZHeUNDaGpETlBncGdFQVNSb0E1U25Ed2lJc0RhMVItYnpjQUg3ZFJSRkNGQXlONXpCeXpudG55eXF4T3pEWUJvZXpLV0duZU5zNUlLNmN5NFo4SDJ0UE53?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-10-10 23:55:20",
+    "titulo": "Binance vai restringir serviços no Brasil após novas regras do Banco Central; veja o que muda - Estadão",
+    "titulo_norm": "binance vai restringir serviços no brasil após novas regras do banco central veja o que muda estadão",
+    "fonte": "Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc1VPLVduYkl1Ynh6S0l1Unlmd0VQbVk3bGRSLXp3UWhHLW81aHhzTzR5bDhyYlliTXFMUms5ZVNsTGpkbkE3dXc1S29QYmxZMWxZSjRaMmRSVkZZY3h0TTBoRi1CZmV6MDB2b0w4T3JVbm4wRVYtWF9ES0NSSC13YlM5ejUtelphcXlMLWVMb2g2RktEQ3VKeGV6STd6OVM2NnYwcFo5T2I3SEJWeEZrNGVodERHa3VNSFdobXR5TWNjTGpYTXdTT3ZaM0ZDalJib29yTmRBSUtsUkZreVJTYQ?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
     ]
   }
 ]
