@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 10/10/2026 23:55
+# Relatório da Carteira ARCA — 11/10/2026 16:48
 
 ## Carteira monitorada
 
@@ -15,73 +15,81 @@
 Notícias coletadas agora: 50.
 Notícias novas, ainda não enviadas antes: 19.
 
-Foram selecionadas 8 notícias relevantes para este envio: 1 de alto impacto, 1 de médio impacto e 6 de baixo impacto.
+Foram selecionadas 9 notícias relevantes para este envio: 0 de alto impacto, 4 de médio impacto e 5 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. IPCA de setembro permite cortes lentos da Selic, diz economista - CNN Brasil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: CNN Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1VFZlpBN2ZRQkRLdUQ4U1dIYVhfUERrTy1uUEdfZDB1MnJaSTlrNnowTTlZdDhHb0wtOFVmM0xfWG9oTURyMlJFSDlDU0pocHY2RXJWTUlSd3ZLUjBESFN3QlgyQXBQX3NSQl9BOW52SE5wZElMVGpsYzBXa0pmNTZjV1BuMkR0dGlnRnAtN3pZQUhtYVk3cTNOSFNiMmNuemdoaEh6dTIwTXN6Z0ozVDhGcVA3NEc2ZGc4YXFR?oc=5
-
-### 2. Análise: Rali eleitoral continua na bolsa, apesar de dados sobre inflação - CNN Brasil
+### 1. Notícia Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana - Kinvo
 
 - Impacto: Médio
-- Ativos afetados: CDB 100% CDI
-- Fonte: CNN Brasil
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWW1RbGoxcjZ5WjFVLU5xM0pGZXJ2bmJITEtyQjBvSW1qcmtNXzNEMmMyN1lCaGk1ZGJJTExqbHZDZV92Y0VNNTdELWpGSzZZNzYtdkdKb0RUa1RZZzVKRzN4akJkTGhuN0Q4dDVPYlhkeWp2bGh3dnR2alFHZG53R3VueU04SDZhM1RTemVDZXlCUVFsVUdndXNobWM4dkt4U0xMX2ozNGhNRHR4bWtHZDl4OFlUX2lkQXEyNFdnN1NERk01QXhuOXFFYkxHUFN3VWx0bFpTVWtFQQ?oc=5
+- Ativos afetados: IBOB11
+- Fonte: Kinvo
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZU52UGQ3LTJGVWtOWFdGYzZfcW4zZFdHdmhkbHdMaU02UUxWUjlUU3dTZmpiN0d0MEhEODRoUFNKUkdLRFpZTnF4LUJSSDVUODRCZ1lDYlU2RkxPNERxZF9IVUIxVHd4T2NYb3BoeEpSSHVvQWZQT0wtMVFvN2NLLUtNN2M4YmlJa0o3RjhuWS1SYlowQk5MX3huUnZQc3dFejJzNHNwelo4cjBhZXY5R1ZoNHdsWDFXU1Z4TE5Ka193UU5MMEQxbFRUN2dDSmNHUk9zblo4UjVEbmdzSENv?oc=5
 
-### 3. Trump comprou US$ 5 milhões em títulos da SpaceX antes de cortar regulações - CNN Brasil
+### 2. Quanto o Ibovespa pode subir nos próximos dias com Flávio Bolsonaro à frente nas pesquisas - VEJA
+
+- Impacto: Médio
+- Ativos afetados: IBOB11
+- Fonte: VEJA
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXFYb0lBcnpyaDNxSnZXc0NFSWEyWGI3ZjRvUWh4bmJYeWlYZHFCeFphSGx6Ynh4cHlmek1wZTFYRklLbW9GWGZBbXcxd1d0SzlwUHEzOWZHV0NsYU1nR0E0bWVhdF9HbFlpcGdOV3JPRjJoOEN6dDd2R1l1cE9GWkFlV2lKdW53VVdCMXVmSDB6eHR3NGVZYl9UT0IyX3Y3S0FCelpNZm1kYU9aWHlVeVlyYzhURnNwYmtpTHJhYWlDUlRS?oc=5
+
+### 3. Elon Musk investe US$ 8 bilhões para levar Starlink à telefonia móvel nos EUA - Portal IN - Pompeu Vasconcelos - Balada IN
+
+- Impacto: Médio
+- Ativos afetados: WRLD11, SPCX34
+- Fonte: Balada IN
+- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiTkFVX3lxTE03eERra0x2ZDFaTDlGa3VhNUEyRV93ZDlkZWJvQVVPd2NGYWFWbl9NRmZWUXA0dXF4dUxkUzc1OUlSLVZldTRXQ1cxYnJfUQ?oc=5
+
+### 4. Banco Central atualiza regras cambiais para operações internacionais com criptoativos - Rota Jurídica
+
+- Impacto: Médio
+- Ativos afetados: KNCR11, CDB 100% CDI
+- Fonte: Rota Jurídica
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEM3LXdRR1FVMjBlT3NBNExmZHNkck9iSlNCSG95ODgzTlQ1QlktUEtPdWFSYVdfR0JEdHNOMFlZMWdzMWlpdVV2YWkwU0hzWXhLU2RiQUQ5bGt5eEFhb3FDeUdDSWNleGtHbjVDQ0tIU3p1SldYZXVWUkNOai0tQURXdGg5MERHblZ6Zm1fS053VENhNFJxU29CSTZkc2hnRU5GMTFERmxrampIZ3pmN05iZVk3ZTNOanc?oc=5
+
+### 5. Musk fala em Starlink “acessível” na Índia em disputa com Ambani - Poder360
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: CNN Brasil
+- Fonte: Poder360
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjlZNlA5SWpwLWViSE5jRmswLWU5XzJLdTZrY0E2aEJvN21faUMzX3NISUlHX2pSUmszTFMxVlB3Wm84aFBfVV85eVRGTF9NY0NNOU50dmhjb1R3ck45TXFSd25uYkR4TDJZbi1Yd3Q3UElQeTJWR2xWXzF4eFFDWURmQnJQVzNGcFF3TDE1OTRXZFNqcnRNMFhDd3MtNVVXbmZwWk5pSWFrYkJrb1JFV0JRTVM4UWUyV2puMUtEa3FuVXhtalE?oc=5
+- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOazNJaWFBYTV2ajJBU3M2RUtqMHhYSXhQQXJRV0pVaGFXcTlITDhnc09aSGFEZUxBalNGaldCdUJ4dDJfNFRoVUZGR1dzQ3NJekpOeTFGRFBOZjVIMW5zbldYby1DemJpeUE5TjFSVkVFTjFGaDd3c2lUQjRldC1DbFh4VWtXa2JOb3FobG1qYXVzYWYyNE1qYVMyZFk1bTFpY3FQZg?oc=5
 
-### 4. GARE11, BTLG11, VISC11 e KNRI11 são destaques do Bom Dia FIIs (8/10) - Fiis.com.br
-
-- Impacto: Baixo
-- Ativos afetados: KNRI11
-- Fonte: Fiis.com.br
-- Explicação: pode afetar FIIs de tijolo, vacância ou aluguéis
-- Link: https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MUVI4RXlJYW93SXE4TDhkdXgzY04wLXQ4STMxY0Z6RFJWNU1lNXZVU3NpaVBsMnpaR2swc2dIR2RkWExhQXd1bE9ZRWNmb2c1UW5FalIyRGpmbjl1UlE?oc=5
-
-### 5. A IA que lê o Banco Central — e rendeu um prêmio global à Bradesco Asset - InfoMoney
+### 6. Starlink desacelera no Brasil, mas avanço sobre telefonia "acende alerta" - UOL Economia
 
 - Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: InfoMoney
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnB3R2FLeTA3N1FVWk5WNVN4dk9GQkJHeEpyUVQ5RjVubDhSR0hqaDdHai04YW5kaG02SkVtdnoyak9GeGtJUGE3bG5QcXEzSjVjT3BZS25nTzBnam9sSkI0d2R6MDFQRnNvS1g2OFZiMlF4WkN0VWxrcUhaeUhfMVBXUUZ4cDlwaDFXOWNDLUwzOGYyTjRTRXBFbE1HWU9ncTZHUzROeUNvSzFlQ3fSAbMBQVVfeXFMT3lYTlFBN2xoRjQtV21RQjc3ZW90TjlvZGhiWVU1UlpveWdfeFFSdXNybUxrTUJTTGRqR1I3NWc3OUttU0JNcmUyRW1oZTQ5eGpiVUJQVllRU0p2cEJfNDZDdW9DZUU0dHVTLW5lM2g4cERfYWVNaTB6NmYtaTNlbTRCejhvSExZSGRvQkVwQVRCWWR5ZW5ubERUVjNQczc4Y1laQjdRMVlBSlF0VGVlZ1AybVk?oc=5
+- Ativos afetados: SPCX34
+- Fonte: UOL Economia
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNcEpHUjRITzhaV1dWTFAwam1TRllxMHppcDlNWWwyd09aZ3VhWUk1Z0tXenhSdzRJVzNvQy1IOTFTN29OUGtGaHdQRDR3OVQwVTRYQ3dsUkcyNmJoOW5weWRlRTlSaGI5OEtZdC0yUDRtdkZzbExGYVRnc1ZZbjhzN1lPR1NseU54cllMUjZZT2VKVEhmTzNoaEllcnlrQ1QxOEhsSHdUSldLT3R2WTByZUpCQ2ZKRXFNOFExUWJPUUVRUjZYcnV3MTh3?oc=5
 
-### 6. Concurso Banco Central: veja as vagas autorizadas - Educa Mais Brasil
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Educa Mais Brasil
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjJiRjNoNmFIeVV2bmhMdlEzWjZmdkVrLUVkQ0h2alB3RWVXYWFpUkNFUTlERWZJaFRqaUFwMTFpZzBWUDNNZHVSa013YmVtdk5pc3A4Q3QtZlFDcFJBRWtoaC16ZUlfUzlDLU9kQXhFaVFwQVk2d0V5WGhTOTB6R09SX3p2eUhYekNtQ1NGRTRmQ2hKdDdYUmNUMDVvOG0xMktB?oc=5
-
-### 7. Parceria entre CNJ e Banco Central busca ampliar segurança na negociação de precatórios - stf noticias
+### 7. Elon Musk apoia posição de Trump e defende novo líder para a Ucrânia - Brasil 247
 
 - Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: stf noticias
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWQ3QV9qb3YwNXhCaXRIWm16RnBnMmFOWUJiVDZ5RXdhQUxaNHZNcE4tNnNXUW93WldQcGpaWThfNmJhUWhvR0JzMXA0ZTA5ZXdtVFBoaDU5ZUE4WlpSRm9xbWUyQ3RVNW1QU0RPQWpON1ZHeUNDaGpETlBncGdFQVNSb0E1U25Ed2lJc0RhMVItYnpjQUg3ZFJSRkNGQXlONXpCeXpudG55eXF4T3pEWUJvZXpLV0duZU5zNUlLNmN5NFo4SDJ0UE53?oc=5
+- Ativos afetados: SPCX34
+- Fonte: Brasil 247
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnNkVHFJMjhvLVRrbDFWcUxiNGxKZDB1dDJCRjJTWEZJSjdNczl6UndrMmVOUjRPaWJKWnd2N1gtRTNRTDNscU5lMktmTXFybXF4MlBRTWdrdngyYm5uMDljcC0wN2JvVGktT3RXbmUtUzA1aThfbWNvay1QbmRfNEw3Tl85c1BkYlU5VkFXcXplZDczcVVEekRvemtreUdXYXdZ?oc=5
 
-### 8. Binance vai restringir serviços no Brasil após novas regras do Banco Central; veja o que muda - Estadão
+### 8. David Byrne transforma as próprias palavras de Elon Musk em nova música, 'Let Me Sell You a Dream' - Terra
 
 - Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Estadão
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc1VPLVduYkl1Ynh6S0l1Unlmd0VQbVk3bGRSLXp3UWhHLW81aHhzTzR5bDhyYlliTXFMUms5ZVNsTGpkbkE3dXc1S29QYmxZMWxZSjRaMmRSVkZZY3h0TTBoRi1CZmV6MDB2b0w4T3JVbm4wRVYtWF9ES0NSSC13YlM5ejUtelphcXlMLWVMb2g2RktEQ3VKeGV6STd6OVM2NnYwcFo5T2I3SEJWeEZrNGVodERHa3VNSFdobXR5TWNjTGpYTXdTT3ZaM0ZDalJib29yTmRBSUtsUkZreVJTYQ?oc=5
+- Ativos afetados: SPCX34
+- Fonte: Terra
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMijwJBVV95cUxPbEN0b2ZDMF90N0F2ZW5hdzk3dkdmNGhBYl9SS1YyWEd1UmtIcXpHdi1keVhVYmhvOFoxNGpqWWFlanRPbkpZenRFcDhyWFlQY2VZMnhTMEhyZWwya296LXVVM1NBNmFLQjhJZ3gxQ0ZCTjduODkyVlVCT3M1Z3VSOTZadU5xWGFaOGtqRGNzaTJGU19yREVaRS1heFBZODVUUUZKb1gwa1pZNzNKTHJzemNrb3FZb2FNMTd0ZlBMZHctNXJMQ0VjY2JUanFPOFBVMkNzZmtrNGVfUDhfZXJMM1NQQm1LVmFfR2g4RC1rSjRwbU91N2VuMTFjX2pReC13MjJ6VHV2VzhoMVBlaUhR?oc=5
+
+### 9. Em meio a polêmicas envolvendo a gestão, TRX cria diretoria de comunicação e educação - Valor Econômico
+
+- Impacto: Baixo
+- Ativos afetados: KNCR11
+- Fonte: Valor Econômico
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0NndVZ0QXNIOXpJRGZiZ2k3S0FZd2pNcUJ2MXhNemp5Rm5MREVvcVFXRUdtRnFQV3Rtd3UzdjhSNjRxeFk1RjF6aFZjUURpT3NWb1N3MWdteXVadmYtQVpUZ3lGOHZHYVYycVRna0NUMTFGQzZFT0xrMGozek1KU1gxa2dTX2MxWWwxOHI0OUQ5X1VuQ0VWeGllYzB5X3REUmIwN2ZzM2FWalNZNjl2RWtJMVM2c0pvc2VpVEx1aVo5UGlxTUJXeEpB0gHYAUFVX3lxTE4yamp6MUVET3ZidkRmSjRBOWx6dVk1Qnd5c2NfVGFkdUtFZzVwYkpNUURHT2tka0cxblpZRTRoUW5vLUNVVkdjdHdiei1yRjk5TmRUQXJyMXZWX1VBUkRoUWF1SHVOSEdCalV0aURkd3g1UTJUT29zVmRJbnBJdW5VdEtGWkw5SnFHTzBRY3FsTnk5UXRVZFBScmJGUmU5QXYxYkJwYkw5NVZON0FkTWdFU25WRWdzdjkyTkVXczZZclJJMEJ5dURUYmt0MWRFbHd2S0tweVpLUQ?oc=5
 
 ## Conclusão para o próximo aporte
 
