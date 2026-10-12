@@ -1,56 +1,5 @@
 [
   {
-    "data_envio": "2026-08-23 19:34:31",
-    "chave": "21de422d8a2100b3f7e1f8725abe80a4826b58cdcecf08f222a0e54826b5dfd4",
-    "titulo": "Pix é restabelecido após instabilidade, diz Banco Central - A Tribuna RJ",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnBOU0prQ24ycmNZa2tCdWVYSXJxVldHdVZ3YURMYVNwWVllZVdQdXhEelZHM2diZ3AyMnVndVUyZ080WEhyampvSGNqbHpDTWUzQmdzcTJkZXkyRm9Zc1A1c0w3X3ZPak16N2N4R19QVkFXX0JwQzNYWG9MTHZyOVZ2QVVsRUNyVGdtTG5aLVktSkhWSjd6LVdB?oc=5",
-    "fonte": "A Tribuna RJ",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-23 20:38:37",
-    "chave": "345f42bcea132eefd6b0471e9a6bdbe1f5898ce3a4fe4e271428e5bdf978ea5a",
-    "titulo": "Calendário econômico: IPCA-15, trabalho no Brasil e Jackson Hole são destaques - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdF95dFVfQTNVTDRTVmdHMWhzaFZackdzX0NCU1AzTmNGbkxhVTdBNEE4UFF1Xzk3QUh0ODh4aHEwbzZYWU1CMmJTeDNQa1M0X0NIQWRXNVR4WWRRLW9BRG9DVTF6Y2FmeUV6VHdrUW0zZVlzZ3J5bUhLZFlNZkljUEhHSzNCY0E0cXplNFFkYUxTZXNJQjFzbU1pTHE2dWtQNzM0NDZQbHROREM4X2sxZ2s0dmdod9IBuwFBVV95cUxNbFNQWkRZRkFPUlJIS3NBVDAtemtUYnJmclpUeVRKYnp5V0hXbFM5anh4SHNaX3lVUjlWT19WVXVaR25DZzNQTHBqajFFWnkzT082Ulh4WDZWT0JaVzd5YkhzSlBZcV9SeUMtNFVfSHN6c0ZPM3JZZVhMVnl5VHlqUm41MlhnUEN0NEZaLTh6eVY1d3l3bFVCUXhoam0wWGZtRWt4LWh3MW83dlZvbHpMR0o2cVk3TDVKVGhz?oc=5",
-    "fonte": "InfoMoney",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-24 01:57:35",
-    "chave": "e9c4d01362774c39e0bcaf961db88cba27dacee62dc754aeca3d4e9abf8c1198",
-    "titulo": "Bolsas de NY sobem com inflação e futuro dos juros no radar; dólar perde força - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUC01QVVlZU9NZWtDcktuWVJZazBvY2c5MU85WXlvY1Zfd3RFbWttNXRaNUI0WUYxMmRQQjJ0MjFnUUdnX2FONGxpX1YxVUJMSWRLNmNSME5ma1RrSHVaS0NlWWFNOTZwdzdlS3FDdm5BQkZWR0V4dUdiSVFKajNJeFF3NHl3V1BFRmFSRXozS1dXQ2NJOU1WM0FnQXBXRVVsSDBxMmVLT1FrUnRxZWxISkxpRkg0UWJfME9IY3dVdjlWTUZnUHlfdW5Mal8yakRRS2xxS1VuTdIB1wFBVV95cUxNUC01QVVlZU9NZWtDcktuWVJZazBvY2c5MU85WXlvY1Zfd3RFbWttNXRaNUI0WUYxMmRQQjJ0MjFnUUdnX2FONGxpX1YxVUJMSWRLNmNSME5ma1RrSHVaS0NlWWFNOTZwdzdlS3FDdm5BQkZWR0V4dUdiSVFKajNJeFF3NHl3V1BFRmFSRXozS1dXQ2NJOU1WM0FnQXBXRVVsSDBxMmVLT1FrUnRxZWxISkxpRkg0UWJfME9IY3dVdjlWTUZnUHlfdW5Mal8yakRRS2xxS1VuTQ?oc=5",
-    "fonte": "Estadão",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-24 01:57:35",
     "chave": "0c332b20a90cb3a37e76de18fbb7a4376274d88a756c23527c8ca85e9e7d1603",
     "titulo": "Caso Master: entenda o escândalo de R$ 12 bilhões que envolve o Banco Central e foi citado por Renan Santos em debate - Terra",
@@ -17463,6 +17412,55 @@
     "titulo": "Cresol Pioneira se destaca em ranking nacional e estadual do Banco Central - A Tribuna Regional",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0UxZU1nQ2VlNloyTlg0anowaXZ4NVY4aFh5S1poQkp4Q09sV3RYVFl6VjlyRGpZaU1PZ2Vzck93TEFldmx4WkZlVWdTYXZsNHRPSnFkRW5BaGoxbmxCT0JDbWU4ZjFZcnlhdGlJS0wwbzhzZFlOdWVGdHB0Y0w0dFk5UWVYcWJLRGtqNHBDaXF4R0FvVmdLNGFVSmlHYm9SVzEtU1k0eDB0dzg?oc=5",
     "fonte": "A Tribuna Regional",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-12 22:59:48",
+    "chave": "732c227175dfa093e897dd3660e838bbefd9fdd855c84508be39d3f7c1c74bd1",
+    "titulo": "André Freitas, da Hedge, critica meta de inflação de 3% e defende produtos incentivados - NeoFeed",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHdlSGo2NHN0SUFrVVBSUkx0SkgxR0VGM2dOZHFkWUQyOWcwaEd5UmQ5VFc0TnZXVmFvV0llOWdtZnNxc0NxTVkyaEpSTlVjaDd2MDhGVVJmV3JtbFVXWmJOWkdoUWtSNlZ1ZlJSQ3NORjFQeW1kYlAwcF94UVFHVjFFZFIzeS1Eb0c4cjdEb2cycnBpM25IUk1MMXVsTVp5R0dHdmVEeEM0R28tRGViYjV2V3YwMzVKR3hia0pmNDV5SFU0ZFFSRC1zNA?oc=5",
+    "fonte": "NeoFeed",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-12 22:59:48",
+    "chave": "e79f4924a5a391a20af7d792551140cafc7f3e88f99ce2134686ad761f406fcd",
+    "titulo": "Hammack, do Fed, defende que o banco central não adie novos aumentos nos juros - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRDlzQVo0ZmEyOGlBay1yRUlhZTVwNG4zSm5lQW1fX1g0VTBReE5iMUJvbTBuVU5rU2VFR2FtSkhXbHUxTTYzbWtRbHZIU3pXNDRGMkVjelRuaHl0c0Y1TEpTcmdKUVV1azVrV0djYWxKejZxd1EwNElOeW1LZEx4bndsSm5xa3UtSTEzTGd3dHNKR3ItOWR5cWt5UkdjNWF6Vm0xRHJFa3dVdUhOR1dIN0UzMDNxSTJsTG0wZzc4ckRySkhua3ptb25oLUFKUdIB3AFBVV95cUxQbnpNdHpCMlQ2QkgxM1BwZUdrc3BHb3NWcnhUX1JoS2o4V0JJTXE3WXVfanZFX1B2NlQyak43bzdBQ0xRN3Y3ZENxZGZmekNXa0pnVE84bk43cl82VDdHanNtUGRhRHBvckdjSjNFaTRtN3JSeHRtT1hISW9XZ3NRdWRGenBuNmxWZEFscE11X0lka3NPc1IydjIzY0Zib3lhMnoxWGRSNmdqRTFaSmJkbEdqVnhmeHFoV2pWSnBfX3hHbG1yVG1RMFhxa1FQTkhYUWRSRmFzd1U3Q2tX?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-12 22:59:48",
+    "chave": "87ac7a670b2fc17f2c68b61aaf21cb27602c2a2cb8d96ce567358dff9e9d0b43",
+    "titulo": "Wall Street opta pela prudência antes de dados da inflação e resultados empresariais - Jornal de Brasília",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2trdnl3VnpCZlVaNTJrWG05QkY0Q0FWaHZIYzlnRzRkY0N2SnNYcFRia1BXMlpTV2lrYVRBeExXbEotM0M3c2o5SXA4Z0VHbGJWYXRvT2p4U2ZxdmdXOEc5RmwxX3ZFT29NaUN0YTNhM2loNXRBY3M0NmM0Z3RtWm5Gb3ZjRGlBSHA1U2NhdTY1NndhLWhiSTdPbzhGa1pfVWpVNjhHYjZoT05ueFBCOVFBMktfLVdjMlNFbVZvakMyQnRkR3R0SVMyVlo?oc=5",
+    "fonte": "Jornal de Brasília",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [
