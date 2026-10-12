@@ -1,68 +1,5 @@
 [
   {
-    "data_envio": "2026-09-22 15:45:56",
-    "titulo": "Reconheçamos, Elon Musk é o líder do renascimento industrial dos EUA - Gazeta do Povo",
-    "titulo_norm": "reconheçamos elon musk é o líder do renascimento industrial dos eua gazeta do povo",
-    "fonte": "Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORklzRnQySF9aSnRqeEJ1eHVnQ2YzN1c4Yi1ZM1hqRWV1dkZOSmRvaTBMcDNlSTJrdUhCd0w4TUpSczhDenZXUld0SWdtNWZIUVgzVklwY1Z6TXp5NF9rbGo0bG1lR2N6WG1pcVV5cnhVNERocGpiaFpMNTZ5ZkRidHhoSV9VdHRMbjYtbzdGb092SmI3TmZNZFViZHVfcGN0UXc2WkNwbDVHUk9yRk1NRERjNUZ5VGM?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11",
-      "SPCX34"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 23:18:05",
-    "titulo": "Análise: Copom aponta riscos no petróleo, mas deixa próxima decisão sobre Selic em aberto - Valor Econômico",
-    "titulo_norm": "análise copom aponta riscos no petróleo mas deixa próxima decisão sobre selic em aberto valor econômico",
-    "fonte": "Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNjRnRmlMWGVOUnh5cUFjS2pLczFKS19WaURTN2F5VmY3dVkyRW5QX1ZDMlg2ZWt5RXdJSzd3amRKV2J4TnhYSlVVTFlIS0tXRFhhTy1zcE96SGVjbUdNTUNoTVhBdVJJSlA3Qm9JSVpfeXQwbTRYbGQwbHBLZFQzMHhSZWxhMWV6V1U5YUtmNmZQSnkzckI3Yl85REFKbTJtcjFCQWRRYmoxMWtMZ3VGVWhCN0RCdmFqbjNlYURQdUhnZm8xeEpPVEtubGtkbXVuTEpEWDB6c0ZiZmo1QTh5VFptS2hDNmZJeFAxS9IB7AFBVV95cUxPNjRnRmlMWGVOUnh5cUFjS2pLczFKS19WaURTN2F5VmY3dVkyRW5QX1ZDMlg2ZWt5RXdJSzd3amRKV2J4TnhYSlVVTFlIS0tXRFhhTy1zcE96SGVjbUdNTUNoTVhBdVJJSlA3Qm9JSVpfeXQwbTRYbGQwbHBLZFQzMHhSZWxhMWV6V1U5YUtmNmZQSnkzckI3Yl85REFKbTJtcjFCQWRRYmoxMWtMZ3VGVWhCN0RCdmFqbjNlYURQdUhnZm8xeEpPVEtubGtkbXVuTEpEWDB6c0ZiZmo1QTh5VFptS2hDNmZJeFAxSw?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 23:18:05",
-    "titulo": "Ibovespa Fecha em Alta e Dólar Fica Estável com Ata do Copom e Cenário Eleitoral - Forbes Brasil",
-    "titulo_norm": "ibovespa fecha em alta e dólar fica estável com ata do copom e cenário eleitoral forbes brasil",
-    "fonte": "Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQU9RaW1UOUxmamJDMWhGYzdwdU1MX0g5Y1dHMHEyYU5LTm40Y3VkVDhNTTZvc2VEVlItWnBSTHB6ZEZ2dFlSdG1VS3REX3lZWVd4ZXF5WWdtNERLLU1DbVcyNElSN3I3R0JpRjNuaGw0R0p1TDliVnJWc2xOZ0stQUE3VWM5WjFtdDhzM1dlci1jVzcxcDE0X1diazB4YjhEelRRNEZTbjFrcnkwbU0xdHdlYVhOSU5Q?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 23:18:05",
-    "titulo": "Ibovespa B3 sobe 0,44%, com Ata do Copom e petróleo no radar; dólar fica em R$ 5,10 - Bora Investir",
-    "titulo_norm": "ibovespa b3 sobe 0 44 com ata do copom e petróleo no radar dólar fica em r 5 10 bora investir",
-    "fonte": "Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ194VWxMZm1jcDdkS3poclBXX3pSUkJzYXFJZEc4clB5NGFWMzktd2QyaGQ5dllPZ2ZhZ3J1Nk8yam1DNGppMUVpY0FrTmhwQXZmUVN0TVhQVXU3UXpUYTV3X250NVlXWmlQNG1KWktmclhGZ3JDejBaSHVjM1lkZnZCT3ZNTTJOSmlvWlRUQjMtSklaVjVXNVVYbmlaeWJSaENnWWtjUHBFckp1V3F4a3hrdzdlcjZoR3pld01KOFY0eGtw?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 23:18:05",
-    "titulo": "Ata do Copom sinaliza mais um corte de juros? Veja o que diz o mercado - economia.uol.com.br",
-    "titulo_norm": "ata do copom sinaliza mais um corte de juros veja o que diz o mercado economia uol com br",
-    "fonte": "economia.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzZSMExDSEU2aU9Kb3Mza2hSTVFZelRXNzdxVEdDYVhFc1lsVVFLY3F3TzQ2eS1OS0R6dk1zSEFyMDF3OHRBWU85NzUySnN4RkdfMVRLYnFodE9CRDBhTjA3SFpWYU9ZdFdLUkp5QzF0cGJ4TW5lTjBuWG5PR0VrazVnbmo4azZDSjZmU2F3?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
     "data_envio": "2026-09-22 23:18:05",
     "titulo": "Ibovespa fecha em alta e dólar cai a R$ 5,10 com eleições e exterior - CNN Brasil",
     "titulo_norm": "ibovespa fecha em alta e dólar cai a r 5 10 com eleições e exterior cnn brasil",
@@ -5785,6 +5722,61 @@
     "impacto": "Baixo",
     "ativos_afetados": [
       "KNCR11"
+    ]
+  },
+  {
+    "data_envio": "2026-10-12 00:02:14",
+    "titulo": "S&P 500 e Nasdaq atingem novos recordes com queda em rendimentos de Treasuries e petróleo - UOL Economia",
+    "titulo_norm": "s p 500 e nasdaq atingem novos recordes com queda em rendimentos de treasuries e petróleo uol economia",
+    "fonte": "UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSzFIUXo4NXlTZ0F6Sm9yYVBScFpzVlFtdlJlZHF1YXVZZ0c4WmVLM1dUY3NJVmswd2ZULU4ybmlRbWFZWW5nME90RDVhNEgxXy1FUXYyUDRWTkw5cmx5ZEVLaFJ5SUdERE0tb0FGRnpqMGs0SDRUYzBzc2VnczR6VWl5WkswNXN6ekNydTlma19wcHdhSzdnRG5MT2owRFBUUDRQaUZWYmN6bDVzQXVLMHhDNm1PTEViVnduZ3VieG9tVE1DcWdKYnFPOG5OUFhZbnZsY2ZMMEI2UVhTYWJwTTB3?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-10-12 00:02:14",
+    "titulo": "Elon Musk invade telefonia móvel com acordo de US$ 8 bilhões e assusta rivais - InfoMoney",
+    "titulo_norm": "elon musk invade telefonia móvel com acordo de us 8 bilhões e assusta rivais infomoney",
+    "fonte": "InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0VKY0pvR1ZkT2FMVU5rVEdTSjV4c3R5NTZnYURBQ3FmQ09xbWJpZzVPUzFpdWdvWF94Mkk3YlJ5X3pPWnJ1bDhvMG9OQ3lGdXJhXzN2UE90UG13SnZoTE9DLUlsdDFseXNtU04xUEppcHhaVV9MdkhKWGhWM1JpdWs1M0NSRjY3TUV3bl84YUpyVDJ3S1VaMDR1SXJtVVdmUkdjLU8tSHczazlyT2Y4RTcwUFg5Z9IBuwFBVV95cUxQNGhyRkZDZFFhZU9Ha0JoeXNSS2lwakZiRlZVR3R2czlYVC12Xy0xYjlNV0VPSDJob1NFUkJwalEyem53UFhmb05IRnhYbVZoNktKVGlrU3hadGxncWk0VkNUVVJZZWVfUmk3X0dPWFdsQ09YajNySlJzWDVuWUppQzFqNTNFcGp2TkstWkNuWDJpUTRTYlNWMVhoWjNMWFNyRkhTNGsyS3d4YTVqcXluS0V5TkpIMlR5amtV?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-12 00:02:14",
+    "titulo": "Alô, Elon Musk: Starlink pode entrar em telefonia móvel e ações de telecom despencam - Exame",
+    "titulo_norm": "alô elon musk starlink pode entrar em telefonia móvel e ações de telecom despencam exame",
+    "fonte": "Exame",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaU1mTGVJaEk2REFXSDZHNXJpcjg0Y3k4d0l5Z0EyeU1aNDhXbzduc3o1VWVLT09oMEk0RjJrY1dqVUIxcTlFWlljY3ZRbHluMHZjNndDa1pDYXRpSVRjdV9vQ2FncmVobTVfNjJPalZyclRTSVVLWnRUUHFla1NrcGtHY3poa215N0RnUk94NE1QT2xXazBfbFFydVpqR3YtSnRJODFPS0ZWcU8wN3ZQZE9LQUp3ODJt?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-12 00:02:14",
+    "titulo": "Influenciadora recusa US$ 40 milhões de Elon Musk. Saiba tudo! - OFuxico",
+    "titulo_norm": "influenciadora recusa us 40 milhões de elon musk saiba tudo ofuxico",
+    "fonte": "OFuxico",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemZqOGFrQ09xcGxteFlBRFhwSHlUbldTQTY3OUd2cXlCeXlaQ2NzYWxIRHBjLWFBWlROdnY1WElaNndDcHM1ME1CdDNOdXNlUXB5ZlNfbF9iVm1pSWl5NG9BY2VMMFU5cUpYQ01yWkVVVWEyNUVsWGktTkhUazMwUWNvNXk2eXNQNmUwUUhjblMyakE4NlJiMmt4N1ktVndEWFBnYXlweldQN01HWUFndUlSUzVXMTRod09nZzlMQklaaDBjc3VZSzhzV0E0c1BreG1CcTdR?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-12 00:02:14",
+    "titulo": "Novo investimento: Elon Musk aposta R$ 40 bilhões em telefonia móvel - A TARDE",
+    "titulo_norm": "novo investimento elon musk aposta r 40 bilhões em telefonia móvel a tarde",
+    "fonte": "A TARDE",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3k4V0Z4dFJaMzRVbGREOVNZY1VNOXROSzRyQnVRMmZmOTJ0VlMxLTlaa2U2NDZhdEk1V3Mxd0xFaHFmVmZXOVZhR0Jza2w0RlJLZHFSbTdOT1RuOHpQR3RoS0NmbG84RjlpR1NqUW1kS2twRHJuVzN4dkxLaGhsWkdUM20xei11S21sMkxNM3E2UHZmSVEwT2FsYWZqbS1TQWhSR9IBrAFBVV95cUxPc2ZENW9tUENCTW1ObXZRampJdTJRUU93ME5wTDF4Wm1IUDNtNkNueURaNDJCSTJnd3dJX0k0amN5YU1jdS1aQ1hnUkVEWWJjYUhvbDZ2bDBOVmpuZjJzZFJFNG41QjQwZlhnaE9zVjM1TGttLXpndE56VERmbGdUQUxfN1dSSnZTUFRDX1pPMExWbWk4dFA0dHpEZVdrekJHRHlHS0FOTUV3TkhT?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
     ]
   }
 ]

@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 11/10/2026 16:48
+# Relatório da Carteira ARCA — 12/10/2026 00:02
 
 ## Carteira monitorada
 
@@ -13,83 +13,51 @@
 ## Resumo
 
 Notícias coletadas agora: 50.
-Notícias novas, ainda não enviadas antes: 19.
+Notícias novas, ainda não enviadas antes: 15.
 
-Foram selecionadas 9 notícias relevantes para este envio: 0 de alto impacto, 4 de médio impacto e 5 de baixo impacto.
+Foram selecionadas 5 notícias relevantes para este envio: 1 de alto impacto, 0 de médio impacto e 4 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Notícia Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana - Kinvo
+### 1. S&P 500 e Nasdaq atingem novos recordes com queda em rendimentos de Treasuries e petróleo - UOL Economia
 
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: Kinvo
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZU52UGQ3LTJGVWtOWFdGYzZfcW4zZFdHdmhkbHdMaU02UUxWUjlUU3dTZmpiN0d0MEhEODRoUFNKUkdLRFpZTnF4LUJSSDVUODRCZ1lDYlU2RkxPNERxZF9IVUIxVHd4T2NYb3BoeEpSSHVvQWZQT0wtMVFvN2NLLUtNN2M4YmlJa0o3RjhuWS1SYlowQk5MX3huUnZQc3dFejJzNHNwelo4cjBhZXY5R1ZoNHdsWDFXU1Z4TE5Ka193UU5MMEQxbFRUN2dDSmNHUk9zblo4UjVEbmdzSENv?oc=5
-
-### 2. Quanto o Ibovespa pode subir nos próximos dias com Flávio Bolsonaro à frente nas pesquisas - VEJA
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: VEJA
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXFYb0lBcnpyaDNxSnZXc0NFSWEyWGI3ZjRvUWh4bmJYeWlYZHFCeFphSGx6Ynh4cHlmek1wZTFYRklLbW9GWGZBbXcxd1d0SzlwUHEzOWZHV0NsYU1nR0E0bWVhdF9HbFlpcGdOV3JPRjJoOEN6dDd2R1l1cE9GWkFlV2lKdW53VVdCMXVmSDB6eHR3NGVZYl9UT0IyX3Y3S0FCelpNZm1kYU9aWHlVeVlyYzhURnNwYmtpTHJhYWlDUlRS?oc=5
-
-### 3. Elon Musk investe US$ 8 bilhões para levar Starlink à telefonia móvel nos EUA - Portal IN - Pompeu Vasconcelos - Balada IN
-
-- Impacto: Médio
-- Ativos afetados: WRLD11, SPCX34
-- Fonte: Balada IN
-- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiTkFVX3lxTE03eERra0x2ZDFaTDlGa3VhNUEyRV93ZDlkZWJvQVVPd2NGYWFWbl9NRmZWUXA0dXF4dUxkUzc1OUlSLVZldTRXQ1cxYnJfUQ?oc=5
-
-### 4. Banco Central atualiza regras cambiais para operações internacionais com criptoativos - Rota Jurídica
-
-- Impacto: Médio
-- Ativos afetados: KNCR11, CDB 100% CDI
-- Fonte: Rota Jurídica
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEM3LXdRR1FVMjBlT3NBNExmZHNkck9iSlNCSG95ODgzTlQ1QlktUEtPdWFSYVdfR0JEdHNOMFlZMWdzMWlpdVV2YWkwU0hzWXhLU2RiQUQ5bGt5eEFhb3FDeUdDSWNleGtHbjVDQ0tIU3p1SldYZXVWUkNOai0tQURXdGg5MERHblZ6Zm1fS053VENhNFJxU29CSTZkc2hnRU5GMTFERmxrampIZ3pmN05iZVk3ZTNOanc?oc=5
-
-### 5. Musk fala em Starlink “acessível” na Índia em disputa com Ambani - Poder360
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Poder360
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOazNJaWFBYTV2ajJBU3M2RUtqMHhYSXhQQXJRV0pVaGFXcTlITDhnc09aSGFEZUxBalNGaldCdUJ4dDJfNFRoVUZGR1dzQ3NJekpOeTFGRFBOZjVIMW5zbldYby1DemJpeUE5TjFSVkVFTjFGaDd3c2lUQjRldC1DbFh4VWtXa2JOb3FobG1qYXVzYWYyNE1qYVMyZFk1bTFpY3FQZg?oc=5
-
-### 6. Starlink desacelera no Brasil, mas avanço sobre telefonia "acende alerta" - UOL Economia
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
+- Impacto: Alto
+- Ativos afetados: WRLD11
 - Fonte: UOL Economia
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNcEpHUjRITzhaV1dWTFAwam1TRllxMHppcDlNWWwyd09aZ3VhWUk1Z0tXenhSdzRJVzNvQy1IOTFTN29OUGtGaHdQRDR3OVQwVTRYQ3dsUkcyNmJoOW5weWRlRTlSaGI5OEtZdC0yUDRtdkZzbExGYVRnc1ZZbjhzN1lPR1NseU54cllMUjZZT2VKVEhmTzNoaEllcnlrQ1QxOEhsSHdUSldLT3R2WTByZUpCQ2ZKRXFNOFExUWJPUUVRUjZYcnV3MTh3?oc=5
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSzFIUXo4NXlTZ0F6Sm9yYVBScFpzVlFtdlJlZHF1YXVZZ0c4WmVLM1dUY3NJVmswd2ZULU4ybmlRbWFZWW5nME90RDVhNEgxXy1FUXYyUDRWTkw5cmx5ZEVLaFJ5SUdERE0tb0FGRnpqMGs0SDRUYzBzc2VnczR6VWl5WkswNXN6ekNydTlma19wcHdhSzdnRG5MT2owRFBUUDRQaUZWYmN6bDVzQXVLMHhDNm1PTEViVnduZ3VieG9tVE1DcWdKYnFPOG5OUFhZbnZsY2ZMMEI2UVhTYWJwTTB3?oc=5
 
-### 7. Elon Musk apoia posição de Trump e defende novo líder para a Ucrânia - Brasil 247
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Brasil 247
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnNkVHFJMjhvLVRrbDFWcUxiNGxKZDB1dDJCRjJTWEZJSjdNczl6UndrMmVOUjRPaWJKWnd2N1gtRTNRTDNscU5lMktmTXFybXF4MlBRTWdrdngyYm5uMDljcC0wN2JvVGktT3RXbmUtUzA1aThfbWNvay1QbmRfNEw3Tl85c1BkYlU5VkFXcXplZDczcVVEekRvemtreUdXYXdZ?oc=5
-
-### 8. David Byrne transforma as próprias palavras de Elon Musk em nova música, 'Let Me Sell You a Dream' - Terra
+### 2. Elon Musk invade telefonia móvel com acordo de US$ 8 bilhões e assusta rivais - InfoMoney
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Terra
+- Fonte: InfoMoney
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMijwJBVV95cUxPbEN0b2ZDMF90N0F2ZW5hdzk3dkdmNGhBYl9SS1YyWEd1UmtIcXpHdi1keVhVYmhvOFoxNGpqWWFlanRPbkpZenRFcDhyWFlQY2VZMnhTMEhyZWwya296LXVVM1NBNmFLQjhJZ3gxQ0ZCTjduODkyVlVCT3M1Z3VSOTZadU5xWGFaOGtqRGNzaTJGU19yREVaRS1heFBZODVUUUZKb1gwa1pZNzNKTHJzemNrb3FZb2FNMTd0ZlBMZHctNXJMQ0VjY2JUanFPOFBVMkNzZmtrNGVfUDhfZXJMM1NQQm1LVmFfR2g4RC1rSjRwbU91N2VuMTFjX2pReC13MjJ6VHV2VzhoMVBlaUhR?oc=5
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0VKY0pvR1ZkT2FMVU5rVEdTSjV4c3R5NTZnYURBQ3FmQ09xbWJpZzVPUzFpdWdvWF94Mkk3YlJ5X3pPWnJ1bDhvMG9OQ3lGdXJhXzN2UE90UG13SnZoTE9DLUlsdDFseXNtU04xUEppcHhaVV9MdkhKWGhWM1JpdWs1M0NSRjY3TUV3bl84YUpyVDJ3S1VaMDR1SXJtVVdmUkdjLU8tSHczazlyT2Y4RTcwUFg5Z9IBuwFBVV95cUxQNGhyRkZDZFFhZU9Ha0JoeXNSS2lwakZiRlZVR3R2czlYVC12Xy0xYjlNV0VPSDJob1NFUkJwalEyem53UFhmb05IRnhYbVZoNktKVGlrU3hadGxncWk0VkNUVVJZZWVfUmk3X0dPWFdsQ09YajNySlJzWDVuWUppQzFqNTNFcGp2TkstWkNuWDJpUTRTYlNWMVhoWjNMWFNyRkhTNGsyS3d4YTVqcXluS0V5TkpIMlR5amtV?oc=5
 
-### 9. Em meio a polêmicas envolvendo a gestão, TRX cria diretoria de comunicação e educação - Valor Econômico
+### 3. Alô, Elon Musk: Starlink pode entrar em telefonia móvel e ações de telecom despencam - Exame
 
 - Impacto: Baixo
-- Ativos afetados: KNCR11
-- Fonte: Valor Econômico
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0NndVZ0QXNIOXpJRGZiZ2k3S0FZd2pNcUJ2MXhNemp5Rm5MREVvcVFXRUdtRnFQV3Rtd3UzdjhSNjRxeFk1RjF6aFZjUURpT3NWb1N3MWdteXVadmYtQVpUZ3lGOHZHYVYycVRna0NUMTFGQzZFT0xrMGozek1KU1gxa2dTX2MxWWwxOHI0OUQ5X1VuQ0VWeGllYzB5X3REUmIwN2ZzM2FWalNZNjl2RWtJMVM2c0pvc2VpVEx1aVo5UGlxTUJXeEpB0gHYAUFVX3lxTE4yamp6MUVET3ZidkRmSjRBOWx6dVk1Qnd5c2NfVGFkdUtFZzVwYkpNUURHT2tka0cxblpZRTRoUW5vLUNVVkdjdHdiei1yRjk5TmRUQXJyMXZWX1VBUkRoUWF1SHVOSEdCalV0aURkd3g1UTJUT29zVmRJbnBJdW5VdEtGWkw5SnFHTzBRY3FsTnk5UXRVZFBScmJGUmU5QXYxYkJwYkw5NVZON0FkTWdFU25WRWdzdjkyTkVXczZZclJJMEJ5dURUYmt0MWRFbHd2S0tweVpLUQ?oc=5
+- Ativos afetados: SPCX34
+- Fonte: Exame
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaU1mTGVJaEk2REFXSDZHNXJpcjg0Y3k4d0l5Z0EyeU1aNDhXbzduc3o1VWVLT09oMEk0RjJrY1dqVUIxcTlFWlljY3ZRbHluMHZjNndDa1pDYXRpSVRjdV9vQ2FncmVobTVfNjJPalZyclRTSVVLWnRUUHFla1NrcGtHY3poa215N0RnUk94NE1QT2xXazBfbFFydVpqR3YtSnRJODFPS0ZWcU8wN3ZQZE9LQUp3ODJt?oc=5
+
+### 4. Influenciadora recusa US$ 40 milhões de Elon Musk. Saiba tudo! - OFuxico
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: OFuxico
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemZqOGFrQ09xcGxteFlBRFhwSHlUbldTQTY3OUd2cXlCeXlaQ2NzYWxIRHBjLWFBWlROdnY1WElaNndDcHM1ME1CdDNOdXNlUXB5ZlNfbF9iVm1pSWl5NG9BY2VMMFU5cUpYQ01yWkVVVWEyNUVsWGktTkhUazMwUWNvNXk2eXNQNmUwUUhjblMyakE4NlJiMmt4N1ktVndEWFBnYXlweldQN01HWUFndUlSUzVXMTRod09nZzlMQklaaDBjc3VZSzhzV0E0c1BreG1CcTdR?oc=5
+
+### 5. Novo investimento: Elon Musk aposta R$ 40 bilhões em telefonia móvel - A TARDE
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: A TARDE
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3k4V0Z4dFJaMzRVbGREOVNZY1VNOXROSzRyQnVRMmZmOTJ0VlMxLTlaa2U2NDZhdEk1V3Mxd0xFaHFmVmZXOVZhR0Jza2w0RlJLZHFSbTdOT1RuOHpQR3RoS0NmbG84RjlpR1NqUW1kS2twRHJuVzN4dkxLaGhsWkdUM20xei11S21sMkxNM3E2UHZmSVEwT2FsYWZqbS1TQWhSR9IBrAFBVV95cUxPc2ZENW9tUENCTW1ObXZRampJdTJRUU93ME5wTDF4Wm1IUDNtNkNueURaNDJCSTJnd3dJX0k0amN5YU1jdS1aQ1hnUkVEWWJjYUhvbDZ2bDBOVmpuZjJzZFJFNG41QjQwZlhnaE9zVjM1TGttLXpndE56VERmbGdUQUxfN1dSSnZTUFRDX1pPMExWbWk4dFA0dHpEZVdrekJHRHlHS0FOTUV3TkhT?oc=5
 
 ## Conclusão para o próximo aporte
 
