@@ -1,22 +1,18 @@
 [
   {
-    "titulo": "Boletim Focus: Mercado projeta IPCA acima de 5% em 2026 e segue reduzindo as projeções de PIB | 05/10/2026 - XP",
-    "resumo": "Boletim Focus: Mercado projeta IPCA acima de 5% em 2026 e segue reduzindo as projeções de PIB | 05/10/2026 XP",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHNCMkZQVWNaanROLWtMaFBZeHBNUlJJcGEyenBmd1pZOHRydlg3NEt1Tk5LREJYSmdMbEZJWTR4a2Z5UDhSckpzT1FUNzBEcTVFSVJTSjBrUWlfaW1LajMwTkNlMW9xNWZpcXRYQ2ZKcGRmRUZ3ZFc0bnhvM1pXYlg1NVJhMk41YWNITUFjSGExbnpEa1ZnTzJhb0d0elZZekwwU05ZT0ZXZVlUM29GSE1YSnJiTTV6OFhQWHJWZHREWkpYNmJSaGlxSTN2eUNSZEY2T2RrYVE?oc=5",
-    "fonte": "XP",
+    "titulo": "A trajetória da inflação e o futuro econômico: de Bolsonaro a Lula 3 - Diplomatique",
+    "resumo": "A trajetória da inflação e o futuro econômico: de Bolsonaro a Lula 3 Diplomatique",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzExRDJxekVuQ042MWxHckJrMWN0aHl0NTBiLXhUVlR2R3NHSUl0M2toWmNaWFVqQ1RWYmloaFpZbEdJTXcyQml0dVBVcTRjVkdfSlczVk8xMWZhRC1fb2hOQXJWb1NfN1IzT21xTi1zNzZHZnhyelN6Ykphd2JtV2hUdEN5dGJIczloV2FmcDY2YkNwWE51N3FZYUg?oc=5",
+    "fonte": "Diplomatique",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f3ba9dd41e8bdb5b7b4d91582186bd08161f960f4e58295072d7eb782250b10f",
+    "chave": "ce27c7918d7ed5787b70200e692d2c44e998dc5c80370db7c9878d2f5aaa45a2",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -26,24 +22,47 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Alô, Elon Musk: Starlink pode entrar em telefonia móvel e ações de telecom despencam - Exame",
-    "resumo": "Alô, Elon Musk: Starlink pode entrar em telefonia móvel e ações de telecom despencam Exame",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaU1mTGVJaEk2REFXSDZHNXJpcjg0Y3k4d0l5Z0EyeU1aNDhXbzduc3o1VWVLT09oMEk0RjJrY1dqVUIxcTlFWlljY3ZRbHluMHZjNndDa1pDYXRpSVRjdV9vQ2FncmVobTVfNjJPalZyclRTSVVLWnRUUHFla1NrcGtHY3poa215N0RnUk94NE1QT2xXazBfbFFydVpqR3YtSnRJODFPS0ZWcU8wN3ZQZE9LQUp3ODJt?oc=5",
-    "fonte": "Exame",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "018378e664545838c7c9c499b98b6da834bf5c0534cfc494313f3003c6500677",
+    "titulo": "Bolsas de Nova York abrem sem direção única com expectativa por balanços e inflação - Estadão",
+    "resumo": "Bolsas de Nova York abrem sem direção única com expectativa por balanços e inflação Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2lFSUZTbnJYeS1ZNjVpcTRhbDVZTE1DV0lEdDcycm1KVGgyUzFSd0hTMjZrUVBPWmRQUUI2M3Jsd2xhQ2pobno4akNSLVNEYVdtZTJ5dXJid0g4c1p2RERQU2liZm5NM244SjlSb2p5SWU5Qk0xUFZYd1l5aHZESGRWZlhLeUZZMnljeExVemV0dmhCUDFUXzQ2S2d4MENDekhJdE1RTGdZOEdRMDg4cGhraWJlRkFhM2RPbGxJejQ2MlpTeG01QWhwLWQ2VnhkbnBwOWNwenY0UdIB3wFBVV95cUxObUZvR2ZfTTZ3aGE5a2YwMUNZRkV1amt3bWtYU3J3S0dWSHM2VGczUU5mRVdBWGRIUkl1eWJzajVKMW5QY3FIZXNJQjRfWU9fUXhVckZuYkp6T1R3LVNjSW5kT2NVYk1KS1NYZzlrdlBxN19jYW1zSGtOZ0RyemdWUEtXS0ZBblRZelNUcnZqOVM1VmYzcXBiMTZMelRJVGxGeGIwQ0JKOG5NWGlkemVaeXJSUnF1aUtfamtSVE9IdHBNTEhmWWFmZl9YY1U0VkNWdzVDdUxBQVdNYVUzOGVz?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "2709ea36c7eb3704cb8052778524aebf552700fba19917d9e5d345203a7d1cf4",
     "ativos": [
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Cresol Pioneira se destaca em ranking nacional e estadual do Banco Central - A Tribuna Regional",
+    "resumo": "Cresol Pioneira se destaca em ranking nacional e estadual do Banco Central A Tribuna Regional",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0UxZU1nQ2VlNloyTlg0anowaXZ4NVY4aFh5S1poQkp4Q09sV3RYVFl6VjlyRGpZaU1PZ2Vzck93TEFldmx4WkZlVWdTYXZsNHRPSnFkRW5BaGoxbmxCT0JDbWU4ZjFZcnlhdGlJS0wwbzhzZFlOdWVGdHB0Y0w0dFk5UWVYcWJLRGtqNHBDaXF4R0FvVmdLNGFVSmlHYm9SVzEtU1k0eDB0dzg?oc=5",
+    "fonte": "A Tribuna Regional",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "27fa68e878467e98e9fc930ee66f8ffd393fc127e72f04ff70270ae7a5959f2d",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
