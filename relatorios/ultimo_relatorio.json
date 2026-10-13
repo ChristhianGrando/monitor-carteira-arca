@@ -1,149 +1,204 @@
 [
   {
-    "titulo": "Wall Street opta pela prudência antes de dados da inflação e resultados empresariais - Jornal de Brasília",
-    "resumo": "Wall Street opta pela prudência antes de dados da inflação e resultados empresariais Jornal de Brasília",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2trdnl3VnpCZlVaNTJrWG05QkY0Q0FWaHZIYzlnRzRkY0N2SnNYcFRia1BXMlpTV2lrYVRBeExXbEotM0M3c2o5SXA4Z0VHbGJWYXRvT2p4U2ZxdmdXOEc5RmwxX3ZFT29NaUN0YTNhM2loNXRBY3M0NmM0Z3RtWm5Gb3ZjRGlBSHA1U2NhdTY1NndhLWhiSTdPbzhGa1pfVWpVNjhHYjZoT05ueFBCOVFBMktfLVdjMlNFbVZvakMyQnRkR3R0SVMyVlo?oc=5",
-    "fonte": "Jornal de Brasília",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "titulo": "Mercado eleva projeção do IPCA de 2026 de 5,01% para 5,22%, aponta Focus - Valor Econômico",
+    "resumo": "Mercado eleva projeção do IPCA de 2026 de 5,01% para 5,22%, aponta Focus Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWF8wQ3ZfVDgxVVNmZXFfZ1lUMXFnMFVMNkFBSGFpNkdRWmtMdEV0OTUtZEJocDF6OXp4R0pfNFpDS1hNMVpPOWZaYi1wcHNBb2k5TGIxeV83Z2tpZ3VQTHFnTDBhbHdITGNJUnR2Zk8zcGIxZWZqbDZKOTJjN0w4Q3E0dlB0UWZCSDhsRmhqNERwYXlaUUNJeXgxd1UzVkVaaUlCZVNySzBrVVpFM2k5Rk1OTmp4cUVPNTQ0TjdtNlNLVGI2TUR4Z0htdVpCaXYwbEww0gHiAUFVX3lxTFBDNTNiLWFrQnQ4RFZoTmJiMDR3THZwcG1STHVqcy01V3o0SkxhTXBPcFJ0WUt0QmpRMWVaQmxfYXphT2kyYnJyb1RRa3l5TXIwZ2xjNzhwc0NxQjVCdExkVFNGNjQ1T1p5NmVEajBEUjBDZmR4ZUN4cjd3dVRjaF9kLUJ3dTFVMTRBZDFROEtLNWNXMGM5aHgxbkNuWElnT05xWkRLNnVtc2daUDQwckNmalE1OGx2WkM4MVVuZUlLOWExYXRpR3hPVi1wWEFRTE8wWVp4cEk0bnBjTk1EZkpQalE?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Musk amplia financiamento dos republicanos nos EUA - Gazeta do Povo",
-    "resumo": "Musk amplia financiamento dos republicanos nos EUA Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZi1YT09nMWtmTXdHUXR1MnBZRUxuMTRpYXR2cTBNbGNNWUpoaGl4Vm13ZUt6MzFQMlVobmtxQmhtWXdlWGVCTnZibTExVlVHT0d3WUlyamQwU1VpelN2RVVDYlJPT1hHenp3SGJDaW9HX2VkLTlEVnBWbFNXRlFfTkhHdHpYRkhXZmgxMzA5a2FUYXdiYU4zZFhTelYwMlF6dTJzX09IVC01alNaU2YxdjNsTDk?oc=5",
-    "fonte": "Gazeta do Povo",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Elon Musk gasta US$ 366 milhões nas eleições de meio de mandato de 2026 nos EUA - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Elon Musk gasta US$ 366 milhões nas eleições de meio de mandato de 2026 nos EUA Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMmdLTWVOTlNOQkVweFZfQzBSVng0QmNjanAzZ2pwRVJxc1RyNnhrV2ZCcVJmSDRmNG5kSWtPMWV6LU1HTi04aVF4bm1fS29BT1ZLbHZ2MlFfQTE1bjhvUlY4d1NzNDlzX1lLTF8xUGN3NlhpNEZuWVMySEhUVGpaZFlCNVN0b3pEeHpZTVNWTmdfazItMmdhS1oxeGR4MHdxRDk1c2VtWWhwTW5sZXF1V19CbXk3ZFFXS2Zqd1p2ZElRaUd3UGQtSEZNZ0l3STA?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Musk doa US$ 276 milhões para ajudar republicanos nas eleições dos EUA - Poder360",
-    "resumo": "Musk doa US$ 276 milhões para ajudar republicanos nas eleições dos EUA Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkZ5bVpvUzFTRTdESnFvY2tZVFh2bTlqekxWOFhWdWNvbXluSEhzQXBWMU02Y1hBVHFVZjFHYlJ6SDRpRDRKXzd5SzhIa2lHT29uMnYtLWo1bXY1bEhlU0YtQlF5SGZKaFNTWlhFd05zTWkxU3pwbXJLLWllVzdMYlRLOTQ3Wk5oWHlpdjdZcVdZSDFGdmZ0N2RVaS11TDV1THRlSmRoNHRfQWJVWVZzTHpDd3BPYldDRGc?oc=5",
-    "fonte": "Poder360",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "iPhone com os dias contados? Como a Starlink de Elon Musk pode acabar com o império da Apple - Seu Dinheiro",
-    "resumo": "iPhone com os dias contados? Como a Starlink de Elon Musk pode acabar com o império da Apple Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcFp5dFA0M0RYWEhJdDhnbGZSS2JPcU52UWl5MWhRZVAzY1dzcW1hdWFZQ2xueEZHOUhKT2haYllhMDVSdGtMR3B3ZXNVeU1jVDVsc2tTRGFOdktqUEEwUXdrbHJkbFdOQUJNRUh0NG1wVjFKZmsxZ1RxMktGWU03WmxhaHpMdzM5ZG1GNHdJR1YwUzZ1NGlKMlg2ZFdnZmVjTXQ4bFJzbjZOOTU3Y0N6eE9aQzRhVG90bFdHUk9DNnRkaVF1ZDVaZXRmNnQ1bjFyQkZGemlienl2N0do?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Elon Musk doou R$ 1,4 bilhão para republicanos que disputam eleição em novembro - Folha de S.Paulo",
-    "resumo": "Elon Musk doou R$ 1,4 bilhão para republicanos que disputam eleição em novembro Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQU1EZkltdU16V0dDVDRtNHpMY2N2RDlOVzdDRXFVWDRNMGgzQ1B0S3M0Q0JhLTlPY0N5RnlJMnZaQlZ0Q1dPT2ZlZzZTbEY4TGE3d2RodjhudU5ycEQ3dkdia250bWZ3SnN4QTBQQVZRZkoxMnB0RWZTZFdmaEp1ZmxfR3RFWFZIcEpVbG5hdXIzQndPN1BKeDRmOWwwRFhmeGlPX0ZyYm92YnhuNGNER3U2cXhyVkx3OTBBSW5YRUQ3YXZra1E?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Grimes anuncia novo álbum e garante: sem música sobre Elon Musk - Billboard Brasil",
-    "resumo": "Grimes anuncia novo álbum e garante: sem música sobre Elon Musk Billboard Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92dkp2YlVDcGc5b0tPMC1Wc2taNFlqR2pNTVlpSnlPRTVpV19ZdGlKUVdFU3NaVHNsVC1UMGZTaUo3Y2lKQUxrNU55VENPRFhWY1RSS3VyekNTR205Tlk1TA?oc=5",
-    "fonte": "Billboard Brasil",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Crianças e adolescentes já investem R$ 3,5 bilhões em ações, FIIs e ETFs no Brasil - InvestNews",
-    "resumo": "Crianças e adolescentes já investem R$ 3,5 bilhões em ações, FIIs e ETFs no Brasil InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU09HWEtlaUhuZkh4djlxLW9jSEJsWl9kbk8tSzlwcDZFMUFEUnVOMFVmMkNfTG1KbFJuQi11RG5HVktvajJidGVsQ3JUOFA5T3VkWDBGUjRVSmo3cEpJTXZfcHBsUHczZ0M3bE1RQXhYTlFKQ1F3Y1dQTzJtOGJ2azZPbU5SR003b3FraGVsSmZWRmhCUWUtdW02amd2bTQtb3RJN2lSS1FSRng5MzVFcjNiZDJwSXNkQW5oSNIBwgFBVV95cUxOVWdtRjlaN29ueXQ5QzVQOUYwVktvY2tTTkljaW1uaThKcG13amNBakRNNnFRMGg4Y1NOdk1CLU1lRnlFSHA5emtSYWtWbm1VcnlhOFZRMVFxNUZBTHQwcElKQlYxNmVvVVJ4T1JJUVhEek5YUm9Ib2FKUnJHaXhrTUw3NkxYenhqRUVaMk5wbDdaS3g4MnZXWGRTQURBYk9oUzdVdUVwdUxpX2I3VkNqd0JYMnBuNmctN1MyQy1IazBWZw?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Ações dominam investimentos de crianças e adolescentes na bolsa, mas FIIs ganham espaço - Economic News Brasil",
-    "resumo": "Ações dominam investimentos de crianças e adolescentes na bolsa, mas FIIs ganham espaço Economic News Brasil",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEVxaXFWT0Z4NzRHVzRnN3pSYzMtWXNuMTNxb2VQRDlSMndxdW1RMUEtcmtka0tzUVNGbV93NTJqN2otLWpnVTZOR3FUbVcwMGJQemhpX2lvTUVON1pGMHlSQzZwLWloZXI5ZVN5Mm1BdlhVejZSWG5VU2hFWGp3WFFIaHh5bzdSQnU4Vg?oc=5",
-    "fonte": "Economic News Brasil",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Crianças e adolescentes têm R$ 3,5 bi aplicados na bolsa brasileira - UOL Economia",
-    "resumo": "Crianças e adolescentes têm R$ 3,5 bi aplicados na bolsa brasileira UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlR6ckV6QTdIQnFwQnMwWUFwY1RRVFJ1RENLenEza3pwbDJwM2ZiQ0N6NVN1eFhlRzNTRjY5c2xLWnFXcE9UTzNmVFF6TUQ0RXlCRmRTZDAxanM2OFJTMi12RnZlTWFmNi0ycElVd2pfZmpxM2tVbDNSbHMxUi12ZDVXcVVvdm44WTk1TEpYMlpMWEZxQ2J4SGRWcURwbWJDVDVSLUtadzRvdUhpemFLTGQ0SU1ZM2NNd3RFM2lB?oc=5",
+    "titulo": "Mercado eleva previsão de inflação, mas prevê dois cortes da Selic em 2026 - UOL Economia",
+    "resumo": "Mercado eleva previsão de inflação, mas prevê dois cortes da Selic em 2026 UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUY2ekpRR2pZeHhOS25FNlU5a2h1OWprRTljcTUtNC1Wc2l5WkJNMWdYbm9sMjR0cjMteFQzTnh6dUZUOGlUdGJSVEdrZTdQZ282MGItdTdGSGRRd0ppaGxFUklhUE9EVUd3OURlLU85NDhkSklaYlpuM28xdm9TQ2JodDd4QkVzcGlEY3hPbkVMaTBu?oc=5",
     "fonte": "UOL Economia",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "KNCR11"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Cresol Pioneira se destaca em ranking nacional e estadual do Banco Central - A Tribuna Regional",
-    "resumo": "Cresol Pioneira se destaca em ranking nacional e estadual do Banco Central A Tribuna Regional",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0UxZU1nQ2VlNloyTlg0anowaXZ4NVY4aFh5S1poQkp4Q09sV3RYVFl6VjlyRGpZaU1PZ2Vzck93TEFldmx4WkZlVWdTYXZsNHRPSnFkRW5BaGoxbmxCT0JDbWU4ZjFZcnlhdGlJS0wwbzhzZFlOdWVGdHB0Y0w0dFk5UWVYcWJLRGtqNHBDaXF4R0FvVmdLNGFVSmlHYm9SVzEtU1k0eDB0dzg?oc=5",
-    "fonte": "A Tribuna Regional",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Daniel Vorcaro procurou economista para fazer lobby no Banco Central - VEJA",
-    "resumo": "Daniel Vorcaro procurou economista para fazer lobby no Banco Central VEJA",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVRUbmtKSWxsVXdLSURDTDBsU2FmdEgxR2xfQ1Fid3h5QnV2ZThYMXUxcnBBeDYtVk8xbkFXSl9kS0hlNHhrMGprQXZmcTRVQjY3djUydVFheVNHY3lXV3VhNURtV3JZdE5DLVh2UmFwODQySUJFZDEzenc3aG83dFRpM0hFVGwtcUpjRm5hVTJORmtkU0tRVVpna2R1MkY2Zlp5NGhjYw?oc=5",
+    "titulo": "Boletim Focus: Mercado espera taxa Selic em 13,25% neste ano | 13/10/2026 - XP Investimentos",
+    "resumo": "Boletim Focus: Mercado espera taxa Selic em 13,25% neste ano | 13/10/2026 XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjFrVVR2MzhscDZsaHo3WFVfUk5zQzdSUlBpclBqbU1kc1RvS25FQ1B2bXJhVC0zTXcyZ1d6V0RFQThwaDBNd21Ldmt2RF9UUDh0M1NRTGVqYjlEZUw0ZFl3RjB3OVltLTFTV21xNEdkaEh1Vm9IcS01NzlHd0pRdFBXeHBMSzBjdy1NRVFQUG40X2xkR3pGemlKR0MzS3FXRUZNa002dU1rd2M?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Ibovespa futuro cai com petróleo e cenário eleitoral em foco; dólar sobe - Money Times",
+    "resumo": "Ibovespa futuro cai com petróleo e cenário eleitoral em foco; dólar sobe Money Times",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4Y0dfU0FZNElmOWs4MHduWjJ1eVR3bFBCdXRvYkpLZlFJUjRDaDhwVVFjYWxRSjBjRzY4Vk1qcnljMzItMHlOZjF6WUEzY2t1TWZzVUZldXRMam5jN1Y4a3p0SkdFNGlsWGJibQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Estimativa para a Selic no fim de 2026 passa de 13,50% para 13,25% no Focus do BC - Jornal do Comércio",
+    "resumo": "Estimativa para a Selic no fim de 2026 passa de 13,50% para 13,25% no Focus do BC Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVUNyWWlxZ2NlWWNvYzAxS1BuaGhlWjl4dVdSUGh1UGtIODNjXzBTUkV2T2VVNlhySDNsUGJ1QVJFSXI5N0dhVHFzb1Z0VUZFMmNSeDdqWG1oOWRXWE8ydXA2Q3prWGU2ai1nbmJQbzlyVFd3empHN3luN2lfM3VPTUVkbERWYzhWVDY0VUVkYWljaVRzYXJjSk10aWNaVXA0SjAzeWtraEhaaVYtTEhJU0x1a2p3MC1tZ1Q0VnZXNngyQ2VOclJ0VkowSEMySFlUU29nODQ3OA?oc=5",
+    "fonte": "Jornal do Comércio",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "As projeções do mercado para a Selic e a inflação neste ano, segundo o Boletim Focus - VEJA",
+    "resumo": "As projeções do mercado para a Selic e a inflação neste ano, segundo o Boletim Focus VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzJNRUJOeTBzeU1TSXRJUXhGX1I0aGdGTHhyb0VEcGNnVGVoOTB4bkNhWVdkX0N1LTd0eGZkVUNjNkd5dzF6MVBpdkRIU0U2Tmt5MG5pZXFDTk1RWUpBUGVNNTBjSHZiNmphOTRTb2NWTjFDTDR2XzdhN012MGpVMk9mb0Jrdkl3cHNVRG1YWF9OamR1MGhTdHlqQzdPeGhOX3FYc0dTNzFVaFBZcm9jT0pnSXVadm9aRFE?oc=5",
     "fonte": "VEJA",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Projeção do mercado para o IPCA de 2026 sobe a 5,22% no Focus - Canal Rural",
+    "resumo": "Projeção do mercado para o IPCA de 2026 sobe a 5,22% no Focus Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDlNbnU0aEl3b3VDcnphZkVhWlZtTHhVb1NWbERYeGFmZ1BBNmotQ3FEVHN0cnFwdVZub25mU0RHcUl0ZDNQQ3NIeTMzbm8xWTAyc2pCMEU4YVpsZ2pWRGFjVG1EQzRTVWZ5WlI4Tk1wY0VNZUlnT1ZUSUhoSGl4cXY0V1ZZcVVfOF9oa2xjUUUwQWdCRzRZZU5FMXc5Y2I3?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "S&P 500 abre em queda após resultados de bancos e sob peso do setor de semicondutores - Notícias Agrícolas",
+    "resumo": "S&P 500 abre em queda após resultados de bancos e sob peso do setor de semicondutores Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLXprZFNPRmFnSm1DeUNqZDNuWDQxejdfNVQwLVVfWVFzdFBocURrUUFlcHk1UThmRDkxM3Y2Q2hBTnRxek5IZmdpcnpDYks1ZExzMDRXbUV6M0hscmN2WkZaQWRuX3BYdHJkNGh5OXp2QVlzR1NPR2stQ3FORm9pMzN2OWFZcEtZdm04VXJibFlnZHluTFpwYUVmNm5jdkpmb1ZJUk15RUxXaWI1bzhlRWFuS29vRTRiR3ZXTUxUdHFtWURDZ1BQRkhXQ3dsNzFDd3JzLUlqT3RTWXA0RFdQYWJpaFpjMWF4a0phejZvSW5FZkJSc0Zn0gH3AUFVX3lxTE8temtkU09GYWdKbUN5Q2pkM25YNDF6N181VDAtVV9ZUXN0UGhxRGtRQWVweTVROGZEOTEzdjZDaEFOdHF6TkhmZ2lyekNiSzVkTHMwNFdtRXozSGxyY3ZaRlpBZG5fcFh0cmQ0aHk5enZBWXNHU09Hay1DcU5Gb2kzM3Y5YVlwS1l2bThVcmJsWWdkeW5MWnBhRWY2bmN2SmZvVklSTXlFTFdpYjVvOGVFYW5Lb29FNGJHdldNTFR0cW1ZRENnUFBGSFdDd2w3MUN3cnMtSWpPdFNZcDREV1BhYmloWmMxYXhrSmF6Nm9JbkVmQlJzRmc?oc=5",
+    "fonte": "Notícias Agrícolas",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "S&P 500 abre em queda após resultados de bancos e sob peso do setor de semicondutores Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "S&P 500 abre em queda após resultados de bancos e sob peso do setor de semicondutores Por Reuters Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOWNPRUkyN0RycHl5TE50MDBSRW45WVBtaHZnQm80V3V1T2pBZnNEOVFJclZFMFRic2twNEdJeHd4TDYyZWJkaWJ0QXloeTlqZXV3emw0ck5YYmU2cW9GVUJrVXloREY0N3VGQm9LV2JIZVZGRUNydURtZlQ2d3NQVnlyN1Zoc1Y4bTFuVmtFLVh2Q1ZWZ0FOU1dlMjg2Nk9ZcXBhS0doUmRpcEdGa0dWRU1ZSWVrc0MtTkJXVnJUZU9WSkxqYTZsODEtZlo0eU9ad3BPSUFyTQ?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "S&P 500 abre em queda após resultados de bancos e sob peso do setor de semicondutores - TradingView",
+    "resumo": "S&P 500 abre em queda após resultados de bancos e sob peso do setor de semicondutores TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZ29oY05QZFg0aE45cU9EUkpaUzhkbUpkTjFTN0JmWk00Z1J2QXlhVmVJZ3NDRzFoNW55ZlBfU0k4MXdjTG5jcmtTWVVkUEprdkZCQjdzV29rbUxwdVhWX2h3VF9pd3pRcU1SZ1NyYkxpVkJKN1BN?oc=5",
+    "fonte": "TradingView",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Economistas elevam previsão da inflação e reduzem a da Selic neste ano, mas não veem mudanças em 2027 - Folha de S.Paulo",
+    "resumo": "Economistas elevam previsão da inflação e reduzem a da Selic neste ano, mas não veem mudanças em 2027 Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWXNvRE5BZ0FGMEhodG5keHZZb0xqR0R0X0tDZWFPYU03V2FmdG5vTmE1VWJfTV9nSHFlOVFOamJXX0xJb09LMTU1c3VRc3JRbDdEdmxLa1ZsV1NGVHRFakhvdlluWWNwd3VUM0VpcUJmeEJjcnNhVTlqMk92SHg1V0pCY3loN0VKQjZGbjhkdDA2dlhSVmxDc3RDU25FdkxHRmk5UXNOSlotUFQzamQ3bTBIM1FKbXZZSzNHQU1qbWhncElUM2hQZzU4WmFYdFRHYi1fWE5EZzUxTVg2MnNtMXM2bXN2QVNXX3FN?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Focus eleva projeção de inflação para 5,2% em 2026; reduz câmbio e Selic - Poder360",
+    "resumo": "Focus eleva projeção de inflação para 5,2% em 2026; reduz câmbio e Selic Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXZZMVRTbVQydmQ5Vm9uMm0wWjJoMXZjNWpiWTd1VUFiQjgxUUJDMGdUVHpOTFZMTGw2VElrR245eXVMcXFIdzZOU00tekppOVgtOHpJdzlwWUJnOXVkeWM3bnJ0X3BtbGhONXk5aG9rV2piUHRHczJQVENGNGRaWEE4WVU2QXoyazU5SVZPQlc1NjViVVZLTWhsSTJtNUxYN29HWmxFY2hHNW9PUUk3Q05DNA?oc=5",
+    "fonte": "Poder360",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Focus: mercado eleva projeção do IPCA em 2026 e vê Selic menor - Jornal do Brasil",
+    "resumo": "Focus: mercado eleva projeção do IPCA em 2026 e vê Selic menor Jornal do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN1eWVTYjR5ZDdJQUotOVE0NjFrQTBoSnVuM21hRWFSQUFsZVg2VldBVVBEVHVDYXg2c2Q2RWdRYlpIVWFycjZCYU5BN0RJME1ZSl8yVEVSQmFsakN1dnpSMWUzanB0aW13a19tZnRaa0UxR3UySUFPRndGaXl6VnA1ak5MX2FsZnF2T0V6UjY5bEZXbzZpbjBRaTZjWGQ1Mmlfa1hMc0pTZW5xNGFPUXdaVEg4d9IBuwFBVV95cUxPOE96d2RjWGlJaFdoazZRTktueVl6OURmUVgyOV9nTXVNZlNhcE9wRlRWcDNkYzhkaEhnZWJneUxlbTlGNXRzVkJMZlhlSjFFUnVxN1JhYTVuazB1Vk5mck9jUW95ZTBSOWNmMDE1empERVEwYlpibERXZFVRdTNiT3BjTTMtRVRyX2VLVWtCM3MtelBvWGJCVS1QSXdXZmRXWVo2bWJjUEJvYjc0U1VrcVRkTWdsQ3EwdEU0?oc=5",
+    "fonte": "Jornal do Brasil",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Vamos afunda mais de 8% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
+    "resumo": "Vamos afunda mais de 8% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc2RRQWtGaGtKYnVHbGNJTmhlSnYyVjBpRFdpTzVRSjNqVVFBMXhuVzBEQklHcGJFMko5dS1jWlVuTXk2TVNGZ3F3dVlxbFp6Q19IVkwtdnRJcDhkV0NuRFhfSU45X2lEQy1RdVVIMTJVQWpwVmlQS2swV0RPeXZvTmlEbHpTb1RFblhMY2trRW96UVhaY1ZFcWh3bVBLZUdjcHFfOXBPbUc4bUY1ckIzSGdaRmRWLThfbXFoS05QcWtKNll5TUZ3LXFidG9GdWlyQW8yTWMtM20ySm5WS01MZ2NhLVQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Mercado eleva previsão da inflação para 5,22% em 2026 - Agência Brasil",
+    "resumo": "Mercado eleva previsão da inflação para 5,22% em 2026 Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWhQeThoMUR0aGRPdFRBYUhVM1ZvU3p5Mk1NeEZHdDU5ZWpkdzR4NTJKYmF4cW1wYVlXdlhOQkRlZlVLZkozbHlocmJuekw1LUlNeWxNM3cwby15ZHlmU1Rja1FlUjNNVDBYZnVrdzhYajV4ckxJNjBLOWRYTDRDSUU4cjVSME5DdVNSNGYxMmhfaVBFYXR6LUJ5WkZvSGdnTE9vT1diMXRhc3FRd2c?oc=5",
+    "fonte": "Agência Brasil",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "CDB 100% CDI"
     ],
-    "impacto": "Baixo",
+    "impacto": "Médio",
     "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   }
 ]
