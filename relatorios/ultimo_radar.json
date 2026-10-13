@@ -1,72 +1,26 @@
 [
   {
-    "titulo": "André Freitas, da Hedge, critica meta de inflação de 3% e defende produtos incentivados - NeoFeed",
-    "resumo": "André Freitas, da Hedge, critica meta de inflação de 3% e defende produtos incentivados NeoFeed",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHdlSGo2NHN0SUFrVVBSUkx0SkgxR0VGM2dOZHFkWUQyOWcwaEd5UmQ5VFc0TnZXVmFvV0llOWdtZnNxc0NxTVkyaEpSTlVjaDd2MDhGVVJmV3JtbFVXWmJOWkdoUWtSNlZ1ZlJSQ3NORjFQeW1kYlAwcF94UVFHVjFFZFIzeS1Eb0c4cjdEb2cycnBpM25IUk1MMXVsTVp5R0dHdmVEeEM0R28tRGViYjV2V3YwMzVKR3hia0pmNDV5SFU0ZFFSRC1zNA?oc=5",
-    "fonte": "NeoFeed",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "732c227175dfa093e897dd3660e838bbefd9fdd855c84508be39d3f7c1c74bd1",
+    "titulo": "Ibovespa sobe, fecha aos 209 mil pontos e bate recorde;dólar cai a R$ 4,98 - brasilagro.com.br",
+    "resumo": "Ibovespa sobe, fecha aos 209 mil pontos e bate recorde;dólar cai a R$ 4,98 brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTNiMktYUmE3WHQ4NlZhYXFGUUNQd1dmZzExT2F3bGZ2eHlLQkZLdE85ejdlLXJyOVlwWUxMcjVfcm1IUnZCUFE1anRBLTRrc2FER2V2bU1fN1BKZDBFRDVNLTlMTHQyVWdhWjFHWWJ3LWtDSHBaVDhDaVhzaFBIc2VvaFpMRjV4VWNVUDN6WUpIS0FaSTh1aUJPQUQ5cUZMXzZtRHRKSDJTR2w1NXMtc19QSnZjQQ?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "0644cabd818cd80a6fa813c723e96b9e10c1cc783d8c55536945ba25d2c32978",
     "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Hammack, do Fed, defende que o banco central não adie novos aumentos nos juros - Valor Econômico",
-    "resumo": "Hammack, do Fed, defende que o banco central não adie novos aumentos nos juros Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRDlzQVo0ZmEyOGlBay1yRUlhZTVwNG4zSm5lQW1fX1g0VTBReE5iMUJvbTBuVU5rU2VFR2FtSkhXbHUxTTYzbWtRbHZIU3pXNDRGMkVjelRuaHl0c0Y1TEpTcmdKUVV1azVrV0djYWxKejZxd1EwNElOeW1LZEx4bndsSm5xa3UtSTEzTGd3dHNKR3ItOWR5cWt5UkdjNWF6Vm0xRHJFa3dVdUhOR1dIN0UzMDNxSTJsTG0wZzc4ckRySkhua3ptb25oLUFKUdIB3AFBVV95cUxQbnpNdHpCMlQ2QkgxM1BwZUdrc3BHb3NWcnhUX1JoS2o4V0JJTXE3WXVfanZFX1B2NlQyak43bzdBQ0xRN3Y3ZENxZGZmekNXa0pnVE84bk43cl82VDdHanNtUGRhRHBvckdjSjNFaTRtN3JSeHRtT1hISW9XZ3NRdWRGenBuNmxWZEFscE11X0lka3NPc1IydjIzY0Zib3lhMnoxWGRSNmdqRTFaSmJkbEdqVnhmeHFoV2pWSnBfX3hHbG1yVG1RMFhxa1FQTkhYUWRSRmFzd1U3Q2tX?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e79f4924a5a391a20af7d792551140cafc7f3e88f99ce2134686ad761f406fcd",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Wall Street opta pela prudência antes de dados da inflação e resultados empresariais - Jornal de Brasília",
-    "resumo": "Wall Street opta pela prudência antes de dados da inflação e resultados empresariais Jornal de Brasília",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2trdnl3VnpCZlVaNTJrWG05QkY0Q0FWaHZIYzlnRzRkY0N2SnNYcFRia1BXMlpTV2lrYVRBeExXbEotM0M3c2o5SXA4Z0VHbGJWYXRvT2p4U2ZxdmdXOEc5RmwxX3ZFT29NaUN0YTNhM2loNXRBY3M0NmM0Z3RtWm5Gb3ZjRGlBSHA1U2NhdTY1NndhLWhiSTdPbzhGa1pfVWpVNjhHYjZoT05ueFBCOVFBMktfLVdjMlNFbVZvakMyQnRkR3R0SVMyVlo?oc=5",
-    "fonte": "Jornal de Brasília",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "87ac7a670b2fc17f2c68b61aaf21cb27602c2a2cb8d96ce567358dff9e9d0b43",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
