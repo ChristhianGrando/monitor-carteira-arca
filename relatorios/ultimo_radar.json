@@ -1,11 +1,34 @@
 [
   {
-    "titulo": "Mercado eleva projeção do IPCA de 2026 de 5,01% para 5,22%, aponta Focus - Valor Econômico",
-    "resumo": "Mercado eleva projeção do IPCA de 2026 de 5,01% para 5,22%, aponta Focus Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWF8wQ3ZfVDgxVVNmZXFfZ1lUMXFnMFVMNkFBSGFpNkdRWmtMdEV0OTUtZEJocDF6OXp4R0pfNFpDS1hNMVpPOWZaYi1wcHNBb2k5TGIxeV83Z2tpZ3VQTHFnTDBhbHdITGNJUnR2Zk8zcGIxZWZqbDZKOTJjN0w4Q3E0dlB0UWZCSDhsRmhqNERwYXlaUUNJeXgxd1UzVkVaaUlCZVNySzBrVVpFM2k5Rk1OTmp4cUVPNTQ0TjdtNlNLVGI2TUR4Z0htdVpCaXYwbEww0gHiAUFVX3lxTFBDNTNiLWFrQnQ4RFZoTmJiMDR3THZwcG1STHVqcy01V3o0SkxhTXBPcFJ0WUt0QmpRMWVaQmxfYXphT2kyYnJyb1RRa3l5TXIwZ2xjNzhwc0NxQjVCdExkVFNGNjQ1T1p5NmVEajBEUjBDZmR4ZUN4cjd3dVRjaF9kLUJ3dTFVMTRBZDFROEtLNWNXMGM5aHgxbkNuWElnT05xWkRLNnVtc2daUDQwckNmalE1OGx2WkM4MVVuZUlLOWExYXRpR3hPVi1wWEFRTE8wWVp4cEk0bnBjTk1EZkpQalE?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Mercado financeiro sobe para 5,22% estimativa de inflação em 2026 e passa a prever juros menores - G1",
+    "resumo": "Mercado financeiro sobe para 5,22% estimativa de inflação em 2026 e passa a prever juros menores G1",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdjNWUXllUDNtRzAwN1l5SU83SHlOQ2E1Z0JZUHFROUdEWkw5cUY2MVRkVlVueV9fX2tCVG1VazJSZDl1Y3l1cWRFZG9XeVYyNE1jaHlGb3Q4azFyV0lZVFZwWXU0dVoyeUdIcjFqZ2IyQ0ZpYm9ZQW10ZGVvUDZVTWhES0FGOGxIQjR2NzlOOXdycmp2cGxIOUhDQWxRNV9Ub0llLXdaSjU3VFdPY1RUNE5lUEhYLUFRVENfNnN4aFBLcDF2X2N3QXpGNHV0UFBGZHJJUUZDczNaUVVhcEJxRG1TdDFxQWtmY0FLU9IB-wFBVV95cUxQOEdieFNQeXhGNVlGUGMtbV9qbTNHRnhOd09DY3I0Y1RUZ082aS10c3E4Y2VTbVZSYkZBS1dtWk1tOHgxekx4LTZ4ZUNpSVFZRDZqakY2RFZGQjY2WUowNmRCcjF5SDZiZGsyR3dqN2E4aHFTbExiTnBLcVFKLVA3ZGRXZFJ3dlpYSS15ZFRfZXJMQjVVUXJ6LWZaMmdnV3ZpWHI0ZFRndzhpNW9RZi16TmtMTkJ1ci1PbEIzM1V2a3UyWHY3YVhYeW1OZDJLV1BpM0ZHR3ZKVUppaW85cXpfVlBZRXhoRngzVG81SmtkVTFOTFQxV0tldTRnRQ?oc=5",
+    "fonte": "G1",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "21c494c02ace9269b94c2202a2d2525500adb40bc94975e1508b2d1939636578",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Boletim Focus: Mercado espera taxa Selic em 13,25% neste ano | 13/10/2026 - XP Investimentos",
+    "resumo": "Boletim Focus: Mercado espera taxa Selic em 13,25% neste ano | 13/10/2026 XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjFrVVR2MzhscDZsaHo3WFVfUk5zQzdSUlBpclBqbU1kc1RvS25FQ1B2bXJhVC0zTXcyZ1d6V0RFQThwaDBNd21Ldmt2RF9UUDh0M1NRTGVqYjlEZUw0ZFl3RjB3OVltLTFTV21xNEdkaEh1Vm9IcS01NzlHd0pRdFBXeHBMSzBjdy1NRVFQUG40X2xkR3pGemlKR0MzS3FXRUZNa002dU1rd2M?oc=5",
+    "fonte": "XP Investimentos",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "3ce177513f8553dbd2ff552b0540187e67865ff404eb91e849ba2f7280584123",
+    "chave": "ec81c8ec798a7e4e9b9a0802ae8d5637e3a45526cda2cfe2fbb2c27f50c7f15e",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,12 +49,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Mercado eleva previsão de inflação, mas prevê dois cortes da Selic em 2026 - UOL Economia",
-    "resumo": "Mercado eleva previsão de inflação, mas prevê dois cortes da Selic em 2026 UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUY2ekpRR2pZeHhOS25FNlU5a2h1OWprRTljcTUtNC1Wc2l5WkJNMWdYbm9sMjR0cjMteFQzTnh6dUZUOGlUdGJSVEdrZTdQZ282MGItdTdGSGRRd0ppaGxFUklhUE9EVUd3OURlLU85NDhkSklaYlpuM28xdm9TQ2JodDd4QkVzcGlEY3hPbkVMaTBu?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "As projeções do mercado para a Selic e a inflação neste ano, segundo o Boletim Focus - VEJA",
+    "resumo": "As projeções do mercado para a Selic e a inflação neste ano, segundo o Boletim Focus VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzJNRUJOeTBzeU1TSXRJUXhGX1I0aGdGTHhyb0VEcGNnVGVoOTB4bkNhWVdkX0N1LTd0eGZkVUNjNkd5dzF6MVBpdkRIU0U2Tmt5MG5pZXFDTk1RWUpBUGVNNTBjSHZiNmphOTRTb2NWTjFDTDR2XzdhN012MGpVMk9mb0Jrdkl3cHNVRG1YWF9OamR1MGhTdHlqQzdPeGhOX3FYc0dTNzFVaFBZcm9jT0pnSXVadm9aRFE?oc=5",
+    "fonte": "VEJA",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "9a32515a1aeaa8b16be6a41861623f1a80b81c3819b22643124e8293a3f46f46",
+    "chave": "aafd374268b490c283402662236a3ca019b1250fa3eff82d69950dc17a3352cd",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -52,12 +75,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Boletim Focus: mercado reduz expectativa da Selic para 13,25% em 2026 - Exame",
-    "resumo": "Boletim Focus: mercado reduz expectativa da Selic para 13,25% em 2026 Exame",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlFMeVRHcXhLSUxaMkpsQjI3d1hRM1pSa3BSb3pFbmhJVmV5aW1BRUdvRHFZbDJKNkxpeUUxLUdwenVqZm04bnc2akdoamhDRjljYUcyM0psRlZiM1RJOVRIbUNWUWt2QlYzWl93Q19QYkNUc1NVd1V0Y0ktcHJtMVhJYnhxakthRnN6bVlsWXdVei1WcGdF?oc=5",
-    "fonte": "Exame",
+    "titulo": "Estimativa para a Selic no fim de 2026 passa de 13,50% para 13,25% no Focus do BC - Jornal do Comércio",
+    "resumo": "Estimativa para a Selic no fim de 2026 passa de 13,50% para 13,25% no Focus do BC Jornal do Comércio",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVUNyWWlxZ2NlWWNvYzAxS1BuaGhlWjl4dVdSUGh1UGtIODNjXzBTUkV2T2VVNlhySDNsUGJ1QVJFSXI5N0dhVHFzb1Z0VUZFMmNSeDdqWG1oOWRXWE8ydXA2Q3prWGU2ai1nbmJQbzlyVFd3empHN3luN2lfM3VPTUVkbERWYzhWVDY0VUVkYWljaVRzYXJjSk10aWNaVXA0SjAzeWtraEhaaVYtTEhJU0x1a2p3MC1tZ1Q0VnZXNngyQ2VOclJ0VkowSEMySFlUU29nODQ3OA?oc=5",
+    "fonte": "Jornal do Comércio",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "111964f8875234e255d55980c74d7ee570766b71580ae2f9c625ebf290cf7099",
+    "chave": "34771a638c3e15a71e18c3a175780cd21bff702275e2e54396078250860bf2a4",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -78,38 +101,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Economistas projetam inflação pra cima e Selic para abaixo após primeiro turno; veja o Focus desta terça-feira (13) - Money Times",
-    "resumo": "Economistas projetam inflação pra cima e Selic para abaixo após primeiro turno; veja o Focus desta terça-feira (13) Money Times",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNzhXc1UtRXdlcHNxTGZfQV8wODZ4cHJWUmdiRFV0U1UwbnMzZW12UDNDYU1IdDdMZnJZd2o2bko5RkJnT0UyYUJvckU2WjRJbFJwSkQ2NDM4VGdyTHhmTWRMMnN0Z2lDZmRuWklqcUdHTDFGTjJMTk9RV0pQc0NfMkI4SlduQlFXdWpfeUtEZ29UbEFvbTNOTm9OVGFCR0xVWndjODNyd2JIcVY1dS1QUEtQQlhleWQyS1UxTHl0dUQ2SHk3cUZHX3NQazdzS2dqV1BERnI0NEFGVUk5M0pIdUMzMA?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Projeção do mercado para o IPCA de 2026 sobe a 5,22% no Focus - Canal Rural",
+    "resumo": "Projeção do mercado para o IPCA de 2026 sobe a 5,22% no Focus Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDlNbnU0aEl3b3VDcnphZkVhWlZtTHhVb1NWbERYeGFmZ1BBNmotQ3FEVHN0cnFwdVZub25mU0RHcUl0ZDNQQ3NIeTMzbm8xWTAyc2pCMEU4YVpsZ2pWRGFjVG1EQzRTVWZ5WlI4Tk1wY0VNZUlnT1ZUSUhoSGl4cXY0V1ZZcVVfOF9oa2xjUUUwQWdCRzRZZU5FMXc5Y2I3?oc=5",
+    "fonte": "Canal Rural",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "a5d71310c267636d9b42ec249fef09c5f33d95f2bb8ec4385f07721b9be32a23",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Com expectativa de Selic estável, analistas veem espaço para valorização seletiva entre os FIIs - Clube FII News",
-    "resumo": "Com expectativa de Selic estável, analistas veem espaço para valorização seletiva entre os FIIs Clube FII News",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMjlTaGtkRUdyOUc1Z3hkYkgzX1loOWRETFNlZ0MxQk1ITzktNFJBblUyLVhURHJkbzQ5NnBUQ19WeVl5b2FRTEU2NFVJVUtVRGh0TDFjR3VqQ1pyTlVkMW52ay15RExCVGluR0k3M3U0TGFsNTg2VWN5cGhBaV9ELUxyM3FwdkItX2p2X0pseUc4SXJ1ZmhhT2JpQXhOM0h5akFyWmlNOFIzR296MDFmQ2Qxb1Bya0NpSTBUM2VpN1R3dzRKWFY2VEgzR2tYbW8?oc=5",
-    "fonte": "Clube FII News",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "c3835abe6a032dd4af508f7e55485c6f110d54a9e125e8f564b1cfa6abc9b22d",
+    "chave": "cb88c687fab4dbc510e240267e0df02fb7bbc12ca4f40cf86fb7e00361185ed1",
     "ativos": [
       "IBOB11",
       "KNCR11",
