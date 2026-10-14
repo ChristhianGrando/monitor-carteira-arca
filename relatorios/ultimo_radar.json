@@ -1,18 +1,22 @@
 [
   {
-    "titulo": "Banco central de Uganda eleva juros a 12% para conter queda do xelim - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Banco central de Uganda eleva juros a 12% para conter queda do xelim Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWxWb1ZiOUMzMWl3akRfSUVjZDJhTm56bldSVU1jdkEwMlpER0E1TGNuZ1Y5bmpCRG5FYXM5aWlrOE5WN0F5ODNlMUhBV0tEcU9tUWpKREVhRUZaSWoxYWhCU1V1TnNGN0tMWDNDSHdXVHNLLWh1Y0J2c2oxME55MmhPQ0dzT21GRmZyQkFaVC1JTWVXbWxoTlpsYm5RRENFbi10Zko1RHhMV2luMXlGeG4xYXRsY2p3VWNQQzlKSWE?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e353dfbdf3651b3f58840b48b00ab57c270a78449da82cc61584ad1cc2a19eb6",
+    "titulo": "Ibovespa tem leve queda de olho em inflação nos EUA e calendário eleitoral - VEJA",
+    "resumo": "Ibovespa tem leve queda de olho em inflação nos EUA e calendário eleitoral VEJA",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG1TbnRYTVRJSnpraHdDS21FUVAtZEdFU2NlT1NaQnJhS3dGTkRmQVBDSERwd19oUUFWUWV3di1VMnF4NDBCQ0tKamF6bjZsd3pYdEdkWXI2UTNVRS1hMWRXdWh1QjhUTEpwYkxZdWp4LWJHWWhlbHowV3ZXU3luaE1iYnA5VzFERWFOWnR6czJ0eHROMmlFUjJ5eUdySEhab05nVXNVM0ZFNFBISDNN?oc=5",
+    "fonte": "VEJA",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "fe90dee03b6e2fce6215890d850e32361c2e34859b2ea59cf08a5ae215f709cd",
     "ativos": [
+      "IBOB11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 13,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -23,12 +27,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa Futuro recua com inflação nos EUA e pesquisa eleitoral no radar - InfoMoney",
-    "resumo": "Ibovespa Futuro recua com inflação nos EUA e pesquisa eleitoral no radar InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0hRMUFVX3BvRVpSSVpZTThJYUpOVzJTZWJjM0hHMFhNSUlZY0ZYQTRNMUctVjlQa3Y2WkVzU2FzOC1xdzg5X0V4M1YyTm05Z052UW9ZR0hob0hDNVZvMlNxajBUTkJPYzhzQkFRZ01iV3FsT0FKWV9fTTNNdzJyV1lURnI2akFpbnJEWmp3SEwzSXJwRE5VSW5CNVRBS0tMUWhvYkVoeUxicm45YU4xYmR3S3EyNlN0TV9R0gHAAUFVX3lxTE9PWGRWNmkxYjdvWXhTUEtzam5PTVV3elhqOVJ3bDVpNk1PUUJRSGhJNGIxRXNQMzNIWFpZRjJEWFJ3SHB0OFhRXzVOX1dhckxBOTl3TWtTdWVDdUZRdnJCYjFjblJTWEVBbkxoVEZsSEdsWWdNSWxoX183Ykh3RVZFRGR4Z1lTMWUtUkFoMGpOT0xpVDFEcENvZHdrY1Y1UnZjUVlBbElkeG43NW5abFloanhlc085Nk1YU0ZCLTVlSA?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Ibovespa cai com ajuste de posições e de olho em inflação nos EUA e eleição - UOL Economia",
+    "resumo": "Ibovespa cai com ajuste de posições e de olho em inflação nos EUA e eleição UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUVBWllqZTc1RWRXX0lHUlFYWWREMXpDZHpxQmFCNFk5YzNJYTAxTjIwRXZVRTc3TEZxMnBIUjRiYWdMTmI4YUpVaXlkS3Zqb2c2Y3cyOXdyX2dEUDJrZVpNOFhUWUZCSU5UUUY4QkRDQlE1V184a2NzWHRPeG04LXM5bVBIcVJCeTc2UHE1UEtkOTRWcTFJM2c5TE1LcEFQMWlwbl9CdUJqTzVBakdCM0Rkd01nVGh3SXhzTjhOeC1vdEltQzR1ZjZ0dVdWS1lhdXQxWlhUZlZYM1lF?oc=5",
+    "fonte": "UOL Economia",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2fd3af0ec9dd31ab95422a7df439f028eb8b4eaa69e6f040f056c84982309c17",
+    "chave": "ad9e25db30633e2ae185f3a8cf2ade874bd0fcbbfb3c9400a86c19f9ed22eb2e",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -39,48 +43,23 @@
       "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa opera no vermelho com inflação acima do esperado nos EUA; bancos pesam - Estadão",
-    "resumo": "Ibovespa opera no vermelho com inflação acima do esperado nos EUA; bancos pesam Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeks1TmxaTjJNVW5yUU4xZGJKLV9Ncm10X1kzeWFrWVd5Z0x4RjNaUkwzdlgzVjR0eHJmTmdkSjVxYnFCY0dCUENGd0dhenpzNEdLTkpiSGFsV29IeDFXUGxBdGc4SDBMSklQWlc3QUI5UGR0WmNuUDBkakwwUUI5MmJMcU0tVTJzdmZYaDVTaVBlZmJKbURmMTVCTWZYQnMtcjZFc3NLWUxpYnd0bE10bzB2ejhaOFhfang1NG9ILWxmZklsSmJMUlBGMlNzaDlNR2xQZkF6ZHQ2SnN5eHfSAeMBQVVfeXFMUDNROW90OU1oWWM2UUQ0LUFBQ0JGTUZoclJQNVE2THM0ck92SWR4dWdtRmx6MGpPblNqOFR4d0xEWnQ1OER1TUxJOWVCcmpfakpKNDRnb0ZOR1JQajZ1a3RQUU1qcWMwUHo1RUdzZVBOYndfN1MzdTFRNFo3Q1cxbXNoWmNzd0N1dDFoQVNyUElvRzdBblp1MnF4S1daQVFKdVhlbHZmeUU3NFBJaXJpUW1MUTRDTzlWVlhDYWs0RmJWS0NDaHNvTjNTVF93VHh6RkxCMlVzajItSV9pbjhYRXRBTVU?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7d4f5682267edb1cf4a233ad53daaf9cde56f3132f154c2d5b4fc4584dcf78d4",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa futuro tem leve alta com petróleo e eleições; dólar sobe antes de inflação nos EUA - Money Times",
-    "resumo": "Ibovespa futuro tem leve alta com petróleo e eleições; dólar sobe antes de inflação nos EUA Money Times",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ubi1QdnhHVkhDWTE5VWEzb3J6Q2VpeXVIUU5sUmtDTEJud2FLa043MWxwZ083NGJCN3UzS0poMW8zdExvUm5rWkVrUkE1RlJ4dmFEMFBrMlNDdVMwd1hIMlpFeGthSFdxNVlETw?oc=5",
+    "titulo": "Inflação dos EUA pressiona e Ibovespa tem leve queda; dólar sobe a R$ 5,02 - Money Times",
+    "resumo": "Inflação dos EUA pressiona e Ibovespa tem leve queda; dólar sobe a R$ 5,02 Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56X1g0RkpZX1h4TlR4MDJkZ3NQYzcyVG03QldXd0FVZGd4azZVOFhsVnhMM2hHTXdiUFl4Wmt6OVlEbVpTTHNoejdnNjYweTJzd1JfS3AyTmI0YlNtMGhyd3lYcw?oc=5",
     "fonte": "Money Times",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "ba3a809c9bfc0dbd6ef4cf711942ce0349c2e7b1e22ccc77b20e6c962afd73a4",
+    "chave": "4980e6eada3a0b53d68112a16f45dcaae205e4567763bc2c090449f2131755c3",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -91,6 +70,58 @@
       "Ações Brasil",
       "Caixa / Reserva"
     ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "S&P 500 recua 1% com inflação acima do esperado e queda de ações ligadas à IA - Times Brasil | CNBC",
+    "resumo": "S&P 500 recua 1% com inflação acima do esperado e queda de ações ligadas à IA Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2VuOE9Da1pLNlg2MzNDMk83QjNIak9lZzZmMVlXRy1qT3pwbHk4NzRESGZKTTVfekxPc0pCN3dua1VseDVaXzlPR3ZEYWJJSnhmeV84Qi15YW1QM3lpdGpqbVRjaEtuWkluOTZZVV9DbGoyZ0FsM0VDWDRFU3o1YkF4eW1Zb1N4cFZ2dWRCc3VXUU9wdFA5b3N1aWY0RkdfR08tVmprTXRzNDEyY2NqWC1lZ282c3Y0MDRYNmdtMmU?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "78bc16efd2e495883d5ee6ad23443074dcb39e0aad3949e76f1eaa3a5f767cd7",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Focus: mercado eleva previsão da inflação para 5,22% em 2026 e reduz estimativa da Selic - Portal do Agronegócio",
+    "resumo": "Focus: mercado eleva previsão da inflação para 5,22% em 2026 e reduz estimativa da Selic Portal do Agronegócio",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZV9sTkNlY1BkWEdHVDJvZHMtRmhjOXJuN1ZwUURMTkRhallhQW1rbkpJOFc2RFFDYl9FbzdIWnJ3RHAzaU5nNW9sSXpSOEV5RkRQcXZfRlBLTUdXT205MjRGVGo4Qjh1aFBHUTdCM3ZHZGlxWU5YNk9hZEhpNDVkeUJ0cl8weHNkTmRpUGctdktHZXAzd2pvUlJEcGEyNERUVV84NkhhYmtwa0VQeEhPakk1VU5ZWG0wakdOTFNpYnVTb2c4UkNDUGkxUGQ4a3BYSE90VU9RMWUteENWSDhxaXU2RURlb0tHTmVwQmZKY3Zub2Na?oc=5",
+    "fonte": "Portal do Agronegócio",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "af6d627bade2f2a0fe97acb3eb8027bcd3854abbf44002e9d399208d880f4641",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
@@ -98,30 +129,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar sobe e Ibovespa cai após divulgação de pesquisas eleitorais do segundo turno - Canal Rural",
-    "resumo": "Dólar sobe e Ibovespa cai após divulgação de pesquisas eleitorais do segundo turno Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVnJoMHItN0txb1pDNTFiZ3ZqblRkZEs0amJJOGNUMUF0eVZCX1NyT2l6ZW5xN3NRdEVlaU8tYTM2YnFlaDNCUzJsTVpaTXJLTWxkUGlJdWprYldjNXRtYTZfc0JtRTRYYXhaOHc3VG1qWmxxWDdjQ29iVFhyVUpjeS1pX0FwYXFTbDc2Rnp5WTV6TS1sV3g4XzMySDJnN0JWOWlMa3JJaGJXNVQ5NGtLX2w0R1lqQ2xGUzFFQU12WQ?oc=5",
-    "fonte": "Canal Rural",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1c821f375c79bb968769cf18f9b25d6ce9fce26f07b2c89155786d5ddc15d0a5",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
