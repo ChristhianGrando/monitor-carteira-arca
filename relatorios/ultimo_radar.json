@@ -1,122 +1,47 @@
 [
   {
-    "titulo": "Ibovespa cai com dados de inflação nos EUA e eleição presidencial no radar - Valor Econômico",
-    "resumo": "Ibovespa cai com dados de inflação nos EUA e eleição presidencial no radar Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdXRnUEdCQkFmSUVKSXFJVWpxRXRRVnM5WHJ6WXM3eU5QYW9jWXlhaXlCbHd0bEVwYURfVWZFbUJ0U1RFUTgwZ3lOYTducmtGSHBnRnlXenpHc2l4Snl4WTZ6Mi1EQ1hnQWZEZHoyZHZHY28zNVZTRHhTTndlV2FyV20wZXZGYzd6NlVlVmJZZnc0LVcxY3JZMmFXNlJIRVdmN05wcFFkYUJEdDdPcnlGd0x3cHVlNkg1VlZaVkhkMUI4QlExNTN1cmNjdFAwU2F3WjhFMDRtMmdSR1HSAdsBQVVfeXFMUHV0Z1BHQkJBZklFSklxSVVqcUV0UVZzOVhyellzN3lOUGFvY1l5YWl5Qmx3dGxFcGFEX1VmRW1CdFNURVE4MGd5TmE3bnJrRkhwZ0Z5V3p6R3NpeEp5eFk2ejItRENYZ0FmRGR6MmR2R2NvMzVWU0R4U053ZVdhcldtMGV2RmM3ejZVZVZiWWZ3NC1XMWNyWTJhVzZSSEVXZjdOcHBRZGFCRHQ3T3J5RndMd3B1ZTZINVZWWlZIZDFCOEJRMTUzdXJjY3RQMFNhd1o4RTA0bTJnUkdR?oc=5",
+    "titulo": "Japão: Conselheiro do banco central indica espaço para novos aumentos de juros - Valor Econômico",
+    "resumo": "Japão: Conselheiro do banco central indica espaço para novos aumentos de juros Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRUlmbTFRdU9RcG9ocEZYSzlqQmplbUxMbldDY2hWWHVyREoxWlBfZDYyQkNrUDZjYVlHR2FUZG5SVEJHZUgweUlvMUx0YnVWMkUzZm9sU042Nkt4TGtRZy02cWwwWS1aRGJHWllVNFJ1cXBOS19NbzBTdXlxWk9qdmpuNms3bmw5c3NBT1I0ZE45amdKWUstNVVKM054SW5zWjd0WWJMd29JOHhuWDBUaHpiZ2tsV1Yxc1pxckptSDhGd1p2RmFhM09za0Vnc0Nn0gHfAUFVX3lxTE94QlVDVVllSTJwOUZjcEVtOUJGLWhmMzlreVMwQ0ZVU0xCWDRuX1dqQlMxeGJNTlA5Rm5GWXZNZGtiQkZjVlVXaW9QcGdTUEgyQ2RwQ0xMV1hkUUtTTXVxRUNOVkwzRF9RVzNzWnFiUHlyNmhnOFRScU5sbjQybjl2Q05jVEY5SUk2Wm1hNUpxT0V6R3lXYy1tdXVlVmttdmVWYVJFOElrc2NLdzJFRUMyd1V1ZWkyVjdVQVpmLUhQWVRvTGVfR0dlekVLSlowT0ItVERnbERmdE9LMWlrYmM?oc=5",
     "fonte": "Valor Econômico",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5373a315f0f241ddd52f5a0d3aa9f6ecb616fa23fbb173d2cbb77befec5506d5",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "da16ac917184dfd763e479f997e13b9694bf809d4eb88a50787bebc341ae9c09",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Câmara pode votar nesta quarta novo regime para bancos em crise - Congresso em Foco",
+    "resumo": "Câmara pode votar nesta quarta novo regime para bancos em crise Congresso em Foco",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1JGeGkxVVNmQjNtbXc4TndyTll6aVQ1alItWUk2T21nOUdQSjh1OXI3Si1GQU9YZW1yVGpsS0JkTmNLUWx0Y3ZLelZiZUVoRnl4RWVSd283MmtyY1JpdjJVVW5JTGFRTTh6bXFydTdTVVdwaDlMMElQMnV6M3haZ1Z4LVpDOW1haVZWcHRaMVBwek15SnYwd21BbUtJcGpQLWZXTmFpRkstYWlBZ3p1MUhqQQ?oc=5",
+    "fonte": "Congresso em Foco",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "9290a7c77f5e21473fc731a5e45795ceb0ba17e2c25b022b8f4dbc9f141469b7",
     "ativos": [
       "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
+      "KNCR11"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar sobe a R$ 5,03 e Ibovespa cai 0,18% com inflação dos EUA - Poder360",
-    "resumo": "Dólar sobe a R$ 5,03 e Ibovespa cai 0,18% com inflação dos EUA Poder360",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3A4Q2tSd2F0czBtZWJocW82VUJkckMwZjBHdzVCREJFbklMdlBoYkdCZ2RSZGlwaDVId05XMVpnZFVVRGxqZVlaek13VzRVYkdra0xnaGZRcExhZmFnVDVDNzNiUG1TRWNjRXZzYTRtYWd5TEVRWnM4RDM1TTNVOTBwX1lyekNETDN6cS00SnhpRWstdDY3NGZZSjFnUXdrRGRwLQ?oc=5",
-    "fonte": "Poder360",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c2b865180ec58f8e44cd9a2a4bba29e065bf935fce8a3b9f1878480f0f2b6f23",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central amplia olhar sobre negociações salariais e reforça relevância do movimento sindical - Contec Brasil",
-    "resumo": "Banco Central amplia olhar sobre negociações salariais e reforça relevância do movimento sindical Contec Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXZCczkyNm14ck5EcFdvYXZsWW1ib2dOeU1RZGlKTXRkWlhvc3pHTzVidEtCX0JuV0ZCa0dHMTIwWmphQ1poWUg0VHN4TndjRG4teUN4LXJwTXREWjRLMFFKbFVPakRxb0VPcWh5WlJRV0V5dmxucENyNVVPUUZhZ2N3OXp1NlNDektqdDhfVzR5aFNmYl9WdFp2WXJ1aHpnSGRvaklpMTkyVDIxaFZuNFVZZ1Q1SnZXWGdCSw?oc=5",
-    "fonte": "Contec Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0a2cd01f691ad3992bb0c8e724415100d2959dabdd2468a57d032d4ee7526c22",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
+      "Real Estate / FIIs"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Nova regra do Banco Central pode acelerar concentração entre fintechs - VEJA",
-    "resumo": "Nova regra do Banco Central pode acelerar concentração entre fintechs VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUdfQ24zYUVxQTEtSzhScEpPTDZwMzJlaGJMUWNSa0N6UGN4cUh2M1JzYVJXb3oyU1p3XzNHajJsVjNyX1JrOXBxY1Y1aFY5RnB5VGx6S1Fpay1EcWFLVndZWnVYVU5Jb3NrRkUzVUVTTExXWWJfMENscXNMUXF0M0JaQ0pKUVdwR3V3RUJBWloxSFNHRFlpRVVMQi01U3MxWGN6YmQ4SDc?oc=5",
-    "fonte": "VEJA",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e374f84ce0e3b37c5bf7144fe2a31da685345cd8a0dded072b8bbaa428415031",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "TCU suspende julgamento das contas do Banco Central de 2025 até apuração sobre o Caso Master - Jurinews",
-    "resumo": "TCU suspende julgamento das contas do Banco Central de 2025 até apuração sobre o Caso Master Jurinews",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1gwb2JRVDZ2NmVvTkRqbkZVVXl2M0FLNzBURk84Q1N5UHhmVjducl9jOVJ4SUUzSE1VZmtyQ3NFXzYtNS02UVU3dGpDUm9ZVUdzTXdNd2t3TmtFcjNwcHdwem5BWm03SEFZZHVCb1ZYYWszQTZ1UWZueXE4RmlNa1VKZTF3QzRrRFFrc29mSUdMYXNXQ3BxR1BnOW5HR3Exa1ZHUFFJUnMySEhXbG9zZi1LcWkxNkFpSF9yM1htM0Fqc29RUFEwaHp6bmxrbnM?oc=5",
-    "fonte": "Jurinews",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3b712d798810b96456d42291f8d4bdd8af24d60ecdcd45c1b2a795db0e25851f",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
