@@ -1,47 +1,99 @@
 [
   {
-    "titulo": "Japão: Conselheiro do banco central indica espaço para novos aumentos de juros - Valor Econômico",
-    "resumo": "Japão: Conselheiro do banco central indica espaço para novos aumentos de juros Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRUlmbTFRdU9RcG9ocEZYSzlqQmplbUxMbldDY2hWWHVyREoxWlBfZDYyQkNrUDZjYVlHR2FUZG5SVEJHZUgweUlvMUx0YnVWMkUzZm9sU042Nkt4TGtRZy02cWwwWS1aRGJHWllVNFJ1cXBOS19NbzBTdXlxWk9qdmpuNms3bmw5c3NBT1I0ZE45amdKWUstNVVKM054SW5zWjd0WWJMd29JOHhuWDBUaHpiZ2tsV1Yxc1pxckptSDhGd1p2RmFhM09za0Vnc0Nn0gHfAUFVX3lxTE94QlVDVVllSTJwOUZjcEVtOUJGLWhmMzlreVMwQ0ZVU0xCWDRuX1dqQlMxeGJNTlA5Rm5GWXZNZGtiQkZjVlVXaW9QcGdTUEgyQ2RwQ0xMV1hkUUtTTXVxRUNOVkwzRF9RVzNzWnFiUHlyNmhnOFRScU5sbjQybjl2Q05jVEY5SUk2Wm1hNUpxT0V6R3lXYy1tdXVlVmttdmVWYVJFOElrc2NLdzJFRUMyd1V1ZWkyVjdVQVpmLUhQWVRvTGVfR0dlekVLSlowT0ItVERnbERmdE9LMWlrYmM?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "da16ac917184dfd763e479f997e13b9694bf809d4eb88a50787bebc341ae9c09",
+    "titulo": "Previsão de inflação para 2026 sobe a 5,22%, mas projeção para Selic cai após primeiro turno das eleições - O GLOBO",
+    "resumo": "Previsão de inflação para 2026 sobe a 5,22%, mas projeção para Selic cai após primeiro turno das eleições O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYzVjTHZzYm5xSVVzaGYwOG9hZG9JUy13eVQweUhTMU5LX3htQkVzX1Z5d2JjemV3MVhSWTc5eGhudGVlYmdOZG9QQTJtcVpqSV9YdFNHU3ZJQlVSVnViVDh2djRCeGx5bmgzbzdjVzhuWDdsQnNibHJBdFlQM3BUNmZ0Ukx6SFNqbGZ1bzZWRVhaaEdTUmc5cmRucjhyMnFoaXpUSHVIWmcyWnpNM0FQcEphTHg1TjFyRzM4TGFiR1gxWXppR21LUl9aZTVPVTYyb1hWT2JhVWMzTE5HUWZNRmNvSW4wQkhCYWtoOUtObmJrejNZSF9VTVVUTmdmTmPSAY4CQVVfeXFMUHRUSm9GWVJ0d3EwWjdSSTgyazM4SVd0QzZhSjMwRDZPTzR4Sy14TUJ0RDZxRDZfTzA2dVdJUmlVX1d5VnRyRTBfeHNRcVJ0Ymx0aG5NM1dYMHRveXF6Nk5aY3JQMndibVYxOEo1cjhwaFFJS0gxNFNoSjZNTTlmSzVqR3pINy1NeDZmT3hYMkoyYlpRNmZqU0ZvZmxDTnRzUEllYWlQeTBqSGdncjdqTXdrdm4tSXRHQTE4aE1MdzA3MGNhRmVVSllrXzg3NTJ5c3JOUU8tT0lWR09CWFktT2xnYW1CUWtXR25LZ2ZHWXNfZzhFaTBMLWN1dHZsWkNoMG5tcHk3OURfNUVmLU93?oc=5",
+    "fonte": "O GLOBO",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5cf0ffcd44303c911fc2f20d297a4a5a1333e92406a72026ccb129e2b0999ff5",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Câmara pode votar nesta quarta novo regime para bancos em crise - Congresso em Foco",
-    "resumo": "Câmara pode votar nesta quarta novo regime para bancos em crise Congresso em Foco",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1JGeGkxVVNmQjNtbXc4TndyTll6aVQ1alItWUk2T21nOUdQSjh1OXI3Si1GQU9YZW1yVGpsS0JkTmNLUWx0Y3ZLelZiZUVoRnl4RWVSd283MmtyY1JpdjJVVW5JTGFRTTh6bXFydTdTVVdwaDlMMElQMnV6M3haZ1Z4LVpDOW1haVZWcHRaMVBwek15SnYwd21BbUtJcGpQLWZXTmFpRkstYWlBZ3p1MUhqQQ?oc=5",
-    "fonte": "Congresso em Foco",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "9290a7c77f5e21473fc731a5e45795ceb0ba17e2c25b022b8f4dbc9f141469b7",
+    "titulo": "Dólar sobe e fecha a R$ 5,02; Ibovespa cai 0,18 aos 206.506 pontos - brasilagro.com.br",
+    "resumo": "Dólar sobe e fecha a R$ 5,02; Ibovespa cai 0,18 aos 206.506 pontos brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbEgyV0I5b2ZoaWQyekNhS2IzYkxSTHUzeXFwTkluOHZ4MjVIdEJ0RGQwcjY1QXAxV21nVVYwU3NlVm82NTFDNGg4MkdQcEF4SFNZR1EtdzRCeHpNRHBBbzZoT2k3bHRHNjBydXUzamdfbS1jVkVWaEdXTzFCUXBKcjhGRTdpSGZKN2d6TGNSZldma2dlY0lFTzd3cmpvbEJfZ2J3SFB0bGc?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "0d0099022e89ea64072eeadc80c759efb610e3f0704817fb84beb54817f24352",
     "ativos": [
       "IBOB11",
-      "KNCR11"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa futuro cai com eleições e fim da escala 6×1 no radar; dólar sobe - Money Times",
+    "resumo": "Ibovespa futuro cai com eleições e fim da escala 6×1 no radar; dólar sobe Money Times",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55ZFFQblphUGRtZWdwYVVmNTA0NVhsYmtBbUxYQTc3RFhGekZEam1zZ0w0TUhoRmFnMW1YTnd1SlJKcENpaXpQM3hTRUdhTjk5bmUzTDNsTmxQWWpTVWRMUlpHaDVPVHNkMFZ0Vw?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "4c2ada5280fcc4af4e3db0012f7cdf1e825cea78e374a3f111c3af4512d1405b",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Futuros do Nasdaq caem com temor sobre IA e juros nos EUA; Dow Jones e S&P 500 divergem - ADVFN",
+    "resumo": "Futuros do Nasdaq caem com temor sobre IA e juros nos EUA; Dow Jones e S&P 500 divergem ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdV9wNDNRYXFtLVgwY01hOEhoVkI5cnJSNXIyaEU1dk1HSUdVUWxwVTZISVk1bjYwQndzMmEwUmRucEI2dFdmS3dub3puLWZ3UHRFY09leGxGbWZ1NmJqa3FWZUM1N2VZRWFwc1Y3YXlmdFdqNWJiZ1cwN29HWUY4MGRxU1RrNkUwVDFWZ25DbTNHNzNucGgzTjQxcmVLWE5FVVY5U0l3S1E?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "524d45f32563106788d5d76903bc51641b85e13da4628e895ae0bdf8b0e80fd1",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
