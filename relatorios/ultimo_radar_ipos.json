@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "titulo": "Compass (PASS3) estreia hoje na bolsa, primeiro IPO da B3 desde 2021 - TradeMap",
+    "resumo": "Compass (PASS3) estreia hoje na bolsa, primeiro IPO da B3 desde 2021 TradeMap",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBobl81Ml9ibnBaRTl4SEFfZ2pIVUdJZWlhS040NW9pSGJqTWh5cmFZTkU0c3l5Rlp6ZWZ6VUloSnNsQ2licjJFMHpmOGJQV2JoaUdsekF2VVM?oc=5",
+    "fonte": "TradeMap",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "7a0b9abda2a5417cbe5e740ca261d5c152836bf3ef6ef38c080b4e4b1dbdd749",
+    "score": 10,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "IPO em fase avançada",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "Oncoclínicas: fundo tenta na Justiça Federal anular decisão da CVM sobre oferta de ações - Estadão",
+    "resumo": "Oncoclínicas: fundo tenta na Justiça Federal anular decisão da CVM sobre oferta de ações Estadão",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2VYX1hjMVBESW40S3B5dzNhdXZld3Zxbl9sWFh2Z2Z1dG5odjhNV1A5OEhhd0xMQ0N4Vk1vNUdYVHJpaUxyOUtLbUNwdmpUSWhjUnFVZ3dkUzJ6X2VxNEs3SzVOS0FZMzlaX0gtSi1kYVBrdllUeUtEczR1cG5YUlRWQnFFTV93QTRaUnY0OXNEXzZySUo3ZEI5TUpfaE9pdk56OWpmRVRVbUJYb01nd1NURXBobUJvNWhCSGg5MWlKS3RtdjNB0gHHAUFVX3lxTFBrZVhfWGMxUERJbjRLcHl3M2F1dmV3dnFuX2xYWHZnZnV0bmh2OE1XUDk4SGF3TExDQ3hWTW81R1hUcmlpTHI5S0ttQ3B2alRJaGNScVVnd2RTMnpfZXE0SzdLNU5LQVkzOVpfSC1KLWRhUGt2WVR5S0RzNHVwblhSVFZCcUVNX3dBNFpSdjQ5c0RfNnJJSjdkQjlNSl9oT2l2Tno5amZFVFVtQlhvTWd3U1RFcGhtQm81aEJIaDkxaUpLdG12M0E?oc=5",
+    "fonte": "Estadão",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "9bbb292bda9d470432a43eb625adb0243a22ac783e7e9e6dcb53680d907a52a1",
+    "score": 8,
+    "motivos": [
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
+    ],
+    "tipo": "Novo IPO em análise",
+    "estagio": "Pedido de registro / prospecto preliminar",
+    "acao": "Acompanhar próximos passos: prospecto, faixa de preço, coordenadores e período de reserva."
+  }
+]
