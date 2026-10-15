@@ -1,102 +1,5 @@
 [
   {
-    "data_envio": "2026-08-26 11:44:50",
-    "chave": "8f673885eee807002245fb1fc6e61e7f24ed6b14412e3194d4a2881ccb042a51",
-    "titulo": "Prévia da inflação oficial, dólar, Ibovespa, mais agenda e pílulas da economia 26.08 - GZH",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSVMwMXZ3QTBzaGVrMFdaT2hOWkpOemxHSHowV1p1VzFiUU82QTMyUE5QcWp1WGpQU0pTRkR6RTd0bThpMlFFMWk5eEk0dTJUUHh3R1BjU0FLb29NZy1US3RqVkNYaFd0OVRPTU03VE9NaWdHYzdoX3JRSEx5enhTWHBkeUZDNklKMDlCR1B6aWpaMW5wbEk1WlZiODVKTUl4V0xJVmVyQmRTYUxqRTY2U3A2QnFiSjZ4bGJmcURTaFFLVWhsRF9UQTdGenIwQUw0a2RPbjZjT3hjWFlIYURHeTZMd0U3S095dmNGbndMdnJXM2NUcURFaHdKZUp4MW56V3hFTUJvdm1aaEpRdHhWRTFn?oc=5",
-    "fonte": "GZH",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 13:16:15",
-    "chave": "40eeb7043e826a01ea6c0ed3fc2ac52440ab952a82172b22b0423554bd9f8d33",
-    "titulo": "Ibovespa hoje: IPCA-15 aumenta expectativa por novo corte da Selic e inflação dos EUA dentro do esperado; veja destaques desta quarta (26) - Empiricus",
-    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWmFfRE9aSnpjNHRycG13NTdCcmpVTkpUbVNsb01YZGxPZkFkZzZCNjNhenZDM0FaWHBXM3FvZWtQcWxmalhuMFphMnd6cG1IMXFmZkxZVnhtTmlIYzBMdUFSeEk2V0ViQnlFcUxpRVBOUzJCSHBnZFdsRmJtWEpQemlyMlFSNW9wemtnek1BX2J2RW1ELXdsT3ZPX2lyOGtWd2lSVzdZNTVIeGNNMkpMRGdPVlNUUjRvT190TlBhU1lDR2pmYThrWlRQdWZwSUpCSUx0TlhjMlJuQURyZEUyMGo2VzExQnVzUkxkam5CbDczM3ZKdG1rVE5NTFBBd3ZoeXdvUXhLd0p2XzRhVDIwME9ha1M0TXFkTHow?oc=5",
-    "fonte": "Empiricus",
-    "score": 16,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 13:16:15",
-    "chave": "0305aee7f050e11b2a433f1e52cbee3689a3a045fdf8974aba36a46a3eb170b9",
-    "titulo": "IPCA-15 cai 0,4% em agosto com bônus de Itaipu e tem 1ª deflação em um ano - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkNnZXZjaDN2c1ZkcUw3T0FlUjkwUk1KcE90VUhlYkVMUkx1a0hMTlMxeWtUYWdHaXIxQmU3dGVhel9ZME9KSDhRTndVeWxnWjFrOE1kQTl6SFkwUHYxcXl2TnBZTFB6WXNQQkRYSzRwVVVucUh3YzA2bEN0MHUteEdiczJUQjNjZm1kbm41aEdSekFSZ01hel83TzRlUGo3QUg2aUFaQXA5cFBZTmk4UEtMX0R0OS1uR21FT1p6elg1QQ?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 13:16:15",
-    "chave": "0fa22b282b77d07d78a14ebea2a4241afa1ce762b205e321a2be8d92041bf780",
-    "titulo": "IPCA-15: preços caem 0,40% em agosto na prévia da inflação, puxados por habitação, transportes e alimentação - G1",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWhqZEdGNHA2UHBRTUpjTFJKb1JpS2dxcUdXQnF4OHlZVGEzMFhzaS1lejZiNW9MS1NiQXNyQ2locTJUODFEbVpRRnhKb0VOY3JsT0VTUm9uT0dzMThtN0JhWVJwQWZWV2YwaEVpLWhHNWJhdDNxZ0pHVnJwbkQxR1psVGtOS1FReHBBRUEwTkhNZ9IBoAFBVV95cUxPeE9JWUhFUW9WSUpmRlJsQjZ1ank0ZjcyT2xKNi1ydGNIcUduVlpod2tBVjE0VF8tTWJwZVo4YUpCY0FTUmtXT0p1Vi1PSkZzR1pvZFR1ck5fQVh0SXpDbVlHUEEyZ2gwMXRuOXhYZmRWY2QxWktsZ0RJVDV6Yk9uYWtKUVUyR003Y0RCeGMzQWh5YlVfS0VmUUFQYnQtUG9x?oc=5",
-    "fonte": "G1",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 13:16:15",
-    "chave": "cb8e1cdc7af0250414164e37f755d8259400312cd60cb19604724d2f31fcb49f",
-    "titulo": "IPCA-15 tem queda de 0,40% em agosto - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWJ1SF9CX0ZLdHVZbUIwWWdULVBVY0dnemdwdkJ2MkVkeFNwekRURnlnMDE0VjlncXJCcHpKTHlndGl6OC1Nd00wWWhmN2VIbGRlbEhrQ2hfZUdydkN5a19GSmZPckMxSVpVcUJyVTF2Ml82cXRCWnp6SDl0WWxFT3l3MXB5d29DWFRGUTlmWF96UC1tR21MYTQtUzN3d9IBrAFBVV95cUxNel9sT2w4Rnd4dXAwQTRqSmpiVzd1WnJ3dG5MVDBzVWR1d3NwaTM4TGNQVTB5SmpzTGFaTld2bnNXUHBpdGptU2NXRzNpSG5rQzN0Zjl4ZGxCWUY3TmRteTFQQ1pNS1FSYUJzMG9jNy1GVjYzT2QxSXRXM0RHdDdjbXZWd1AyLUpPUzIzTFZyekdNby1pRWxQdk1hRUw2QlJOTk1tOFktamlrSm9r?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-26 13:16:15",
     "chave": "9a7f7b4c2627d965eecec2f46d2470b6c8edb9d340d0037aeeb3f4f69ef08fbb",
     "titulo": "IPCA-15: prévia da inflação cai 0,40% em agosto, mais do que o esperado pelo mercado - InfoMoney",
@@ -17509,6 +17412,103 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-10-15 22:18:08",
+    "chave": "147fb2af3be3b53d9984eb1f27fd2c9f188436fc1dd3e208ee2e1c689aaf1d84",
+    "titulo": "Selic em queda reduz atratividade do real frente ao dólar - StoneX",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVdyV1Q1aGZFVDNMOGZKVlJkVzc2RHREamc5NUlmeDlndkJVTTJVYjE0R3B2aUJobFF6WVl1U1RqMTBLTWE5YXFpMV8walVvdzBLQVAwalRiNXdWRVNWRFhwUktPa2pQMFExRjhUanhHUmZlZVdPNXpYcXBrZHN0VWpVMWdVWWlOVEoyZlF2TGljM1hCVWRMcVQxVGE?oc=5",
+    "fonte": "StoneX",
+    "score": 16,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-15 22:18:08",
+    "chave": "fd4a8d8e7d2158c5ba9e933bfb4af8417b67ee2da54967017102b81e0fe8ee6a",
+    "titulo": "9 fundos imobiliários (FIIs) baratos que pagam dividendos acima da Selic - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOFlQT0htc1ZKdm5KZ3NRay1mTmRubFd2YU1mZDlyYlpzWXFLUXpWQWJ4dG5xcVBLaGdIWFV4N056bm5zekxJN2VqSlh6M01EenlVZkozU0w4VmRvUEI4Q0ZRTFo4cmZXR1Myb3BweUFvMUhUS3hWbHZ1TkNFNkdzbjloRURLN01kaldyMnFReWRQWmh5bF9wZXVaQlk4TTFVS3Zj0gGoAUFVX3lxTFBpUDM4S0Y3cFQway1ZQ3F6R0FWT1VDb1BVbVU5czlkT0doOHltcjI2T1R1ejdMS0FiUkM0bFlNbGxvM0Z5R1JXeTg1WktUQ3RWSGJfbDdtNTE0WTRZQzAzWWxDMVhXTVpXdGdQS1lrcFBFVk9WMnRDRkJqSXJEYXhzaDRtQnlDRGpTMVFDQVFtOXloYWNhVk1td2RxeUVrVjltTkVhU3BXNA?oc=5",
+    "fonte": "Estadão",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-15 22:18:08",
+    "chave": "48858e6210fd6228c779633d353b707fbcd6ef76d0ef26dbaa3262f3039b2b80",
+    "titulo": "Selic caiu: ainda dá tempo de aproveitar descontos nos FIIs? - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQW41dzVFN01PTVFyUmdiTDZmbmhWSU84M2pWZFoyOGZtSmxqM3FOZFJ4aHZXdktfS09naldCYVRLeXM1MUVBcjVOdWhwemVXaktkVXVrRTVyb3RhZ2ItbEtaaEgxRUo2bFFmcTFocjlFbmVhenBUcGRHUnV6RkNqZWZZZGdybDc3WURBak9MN2U5UmRsX19UQUYxRmhrQ04zMWJlS090VdIBrAFBVV95cUxPRHVnRTM0bW04SlJRSDFxWGVaaVJRenN4UEZiTVRXUUhJOWl0c1BjNS1vR3J5UWJLSE44dkg5NUU2RXNxVGQ0Vk1TUFlNS1ZGN0pCaW5FRktDcGtZQWlzZDl0TmotVkdneWNwYjQyTXlSZDgwRTRkY1VQRXFKMHNjVEVUaTFGVF9vOVBOWVhGcnF5X2x6NW96ZHJRY1ZENmlPZ3NBdW83OHFVV2Zm?oc=5",
+    "fonte": "InfoMoney",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-15 22:18:08",
+    "chave": "e9d373378a45b34f148a81de59d8211c617ed1137e5f1b9cdc5374fe2f39b5e5",
+    "titulo": "IPCA supera teto da meta e pressiona juros e empresas - Portal Contabeis",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDZkblh5S200T0IzVnE5X0lZY1gweWo2SW5SZHFVMjNOLUVkSUdDZFNaZkdHWUM3ejNBbXNKNEhyUFdac0dWUFBPT2g5ZVpYbTRtbHVUMFpUVHh4VDREUjU3WFlZUlcyT1EwV3BfUEpRRnAxcUU3RlY1R25YZWR3OFMya05MU0FZVDdMdUtPam5EWk5qOWQxaGF2SlN6b0E?oc=5",
+    "fonte": "Portal Contabeis",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-15 22:18:08",
+    "chave": "afa3784fdb19170904d322a1715854d121efa91ec029573221eb507d5ced3b7c",
+    "titulo": "Papel, tijolo ou é hora de sair dos FIIs com a Selic em alta? - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2xUWS1vcFp6MWdiSTVBUmRjTEgyTkR5YktJcmgwUmFMNXE0ZnFjZXdSRFFaQ01pZXJ6NlJkUUVsdXVBb3dTQlhtczVmd1YwYlRYTVdPYTNVLURISGx2ZTItTGxYUzlCeDRIZXkyRXdrTzRHNTEzSkN2ZVlwNVlJdFJ3X3plUmxaU0FNWXJpZnFUSm9FcVVIazhKZkNvSVpTVlhfMUtR0gGrAUFVX3lxTE9HQmlDZjJLUGhic3RNZ3JUV0R2MlN0Qm9RYjhDSkpDbEwtb1AtN2lLUlFjMGVEalZNekZIRVFFUWVzMldoQVo0NTJ2QkRtVllNU081dGNKdHNmRWF3bWtLakYtSk11QVloNVZINWh1R0N5di1Bd1hzR0JjcE93V0Z2ZkZQQVk3dkhDNmk1cW9YNFpOMXpkT0FzVUpqU204VHY4andNUkwyRkNsQQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
