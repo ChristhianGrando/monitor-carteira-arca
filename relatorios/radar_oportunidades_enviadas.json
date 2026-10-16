@@ -1,90 +1,5 @@
 [
   {
-    "data_envio": "2026-08-26 16:59:16",
-    "chave": "4fa4d95fe35b59ef1c04075fd0573a8730894940b65348ea279c9c4f7e4b765d",
-    "titulo": "S&P 500 e Nasdaq devem abrir em baixa após dados sobre a inflação; aguardam-se os resultados da Nvidia - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5SllvQjM4SEtVNU05bUlNWHRrem83LXB4b3NXWjVWdFNmc0RLWGRvYjcwNkhXbUJ3bk40aDdPTWljS2k4NFIyRnNORjhDUUg4RnkwazVsR2dyQUFXb1ZyclVZcGpsUjhCMTRGVTdaWEcwSGFjWUxn?oc=5",
-    "fonte": "TradingView",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 16:59:16",
-    "chave": "fe94454978c68b407372e1033d34a6ee6367a55f66410528b9421da6a4a53a03",
-    "titulo": "Dinheiro vivo em casa: entenda recomendação do Banco Central Europeu e saiba como conservar notas - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWUFFbEJjM1p3NU5rWEpvNE8wYUpWU1dfZmtpclZiaUd1N3hRTm5WUUVSTGFFNUp0SjlfWnVFb25UVEFqWElKeEpiU1IybFRBN1VtZ1FsaXVMYl8welMwVDVtQ1VRNlAwalBzQndsZjlnOUtyRjhCOVVQQlFhX0d6VmszVjI2NVdzWXJNeW9kd0VCajVVakg0YkpTWWl1T2ppblZCWDY2MkRsMVpFRFFVYmhYOE4wOVVLTFh5ME9faUpxTmJycjQtSzRpTW9yWE8tSnM1ZXV3?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 16:59:16",
-    "chave": "2f8444d30d541ec8acf3e4fc99c887ed2b407f876c87d497536702728eb881b5",
-    "titulo": "CEO da ABBC cobra Banco Central por regras de parcerias no Open Finance - Finsiders Brasil",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFZObkR1U0V0MmpKaG5lVC1Jc0ZLR3FLbzRoeTlTYW9wTmUwUEpfX096VTdkelFvczE2cFNRazZmdkFMUVNFendPNVBuX1YyaUhpS2N0eE1qaXFMSW5CU0s0TnljY3c0WUxQaG84dzhVNE1zMWxLSWZDcnVrdHdOUUpkblpINnEwQ1ZkaDFKYTd1d2VIcUYwWFJ4dk53b0Z1WW0xellNZlFpQ1V0dXM4Tg?oc=5",
-    "fonte": "Finsiders Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 19:18:29",
-    "chave": "b46432fab5b0f9dd1176bf7d673b5ccd015ee144c65ca14e1797f0eec553625d",
-    "titulo": "IPCA-15 tem deflação de 0,40% e senadores destacam cenário favorável para queda dos juros - PT no Senado",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDV1ZklxdGlPRVN4UVJPcXlRY3E4Umw2LTBTaERNUUEwcWNLdGFCNjBRa2I3R3VTTzJlcXlJSUlLNlZEVmdPV1RFWDltZnpyUzJLUmZRMmdoNzZsS3h1MGxqRVBxY3ZSM1kycld1WUk5ZGN0anlmZ0pCd0FwYWRnZW9aaWVQbVFYcHFza08xNHZpYkdYSl9FZDBjQTByc0xVcWFVR2N3RVZmbEMxSGRoem54MGc?oc=5",
-    "fonte": "PT no Senado",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 19:18:29",
-    "chave": "1d7e63367d8db948b21b8e20c515de78a0c0ce24601258b3f9cbc30d3e4b8583",
-    "titulo": "Queda do IPCA-15 reforça apostas em novo corte da Selic em setembro - Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2wyeXBvQ2JIekhGZ2FaNUVRY3IwUnExXzEyR2V3TUVJdXlLX1pEWE4zaVdjcGtjSHRCM2x5LTU2QktVN3pVa0tUdzV5dmVHTzh3RkJaRXJoTlZaM2dNVkVVOEU5cmo3SXktSEs1TUVpTVM1UW4tQTVoNlJlcldSaXBQMXg5ekpPMTN3bnV5VkMyTktDWkJBeGlYWHh0ZEE4b3JOODVsYjNWRUE?oc=5",
-    "fonte": "Canal Rural",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-08-26 19:18:29",
     "chave": "850174d7e8689171a665c569e18efec9228777777c6396bfc6fe6995a9b8e9d1",
     "titulo": "Na curva a termo, mercado precifica 90% de chance de corte na Selic em setembro – e vê espaço para mais um corte - Money Times",
@@ -17470,6 +17385,83 @@
     "titulo": "Banco Central decreta liquidação de cooperativa de crédito por descumprimento de normas - Vero Notícias",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2JPOTZMM0lQZ1RpTmhQS194dUJjNzdqV1hVTHJPSEZnTEk4bkVLMFRGOXBqbTkwU0ZIQnQ3WUtkZVFCRDFEN2RfaWlPaTJFbmhvLUF1UTlmTVpudWV5ekJlTERLbjZDcmhSMHNvdXFvVmNLZ1V5N2hVZ2liMDJ5NG11SkhvcFNVS0dQQm5oZThTSmZPR0NsTWdYNTV6cWFWZlVxcXpGTG9PNm82SXhZcU50WllTa3AtVllXMDYtVQ?oc=5",
     "fonte": "Vero Notícias",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-16 17:24:11",
+    "chave": "02823ebb209360175fb91510a9ce73dcbda13bb094893ac6dc3f1fe6733a28dd",
+    "titulo": "Banco Central amplia regras para marcações de suspeita de fraude no Pix - MundoCoop",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1A5MzJKU213TjdJNDNiakoxOHExaHpQRVJLM29DV01LbDdmc1EtbEprMUpLTzBPUGlIVVhxUjFPSTJhc3pCMTRQbmpTMzlpX0UycDluYjZFckdJcEp1VThNYWc4VEdTMjdGazdHRDJ5aVZiTW14MEg4ekI5aF93cnlENVhlbUt4Q1VPZjFhRmNCZHhWeG83SGFJeHZGamYwNGk0ZFpFNFVxUQ?oc=5",
+    "fonte": "MundoCoop",
+    "score": 14,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-16 17:24:11",
+    "chave": "c4dda88baaebf72ce8d720bc29d39da870b8cd7419efeb0cf2cc13af5973b190",
+    "titulo": "Ibovespa reage com Petrobras e bancos após três quedas seguidas; dólar cai - Exame",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNW5BZzg3dmVrY2RxbGtEdTk0V2U0dFRLazZQOVRBVHZ0R0F2WlZMZ2ZsZTJuQWROWGIwSkxIYmJwa1dUbWNlZlRPQ0pSdkh0MkREWW9XTm1uR1BRdGlESGlLTWYyMm53N2VDZ2RuNjAtWm1UZ2xuVW15dDRwYk5pNzQ2U05Fcy14QU5pM3VSRm1WS21ucnZTT2FWdjRkbzNkSURqdFdrUHNIMC1k?oc=5",
+    "fonte": "Exame",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-16 17:24:11",
+    "chave": "0e72f3fc9362c2a1d82942f0ef8be5d453a896829e2e68e09b4ff39dead29637",
+    "titulo": "No 1º aumento em três meses, 'prévia do PIB' do Banco Central registra alta de 0,3% em agosto - G1",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQckxlUlp6dXZwcEJMRGpfYzVzeFVWd2gxMFNyRlpoWGcxTVhFQXBuODZJUHFiWjkweXJzcVI5RzlaNW1GeW9sOUt6VER2cU90UWN2ZGZsZDR0VGRXc1l2dGRJX2plV3lEbUVnVU5sQUM4eUVQcmJZYk9tbE91NWJEMmJrUDV1dlhQcE1QLWRkSUJOQkl5WG1RV05jZ010eWUzRWQzeUNrVlJxZUlmVmxHcFNidWw3c0ZqV3hrbU1xZWFwZ9IB0AFBVV95cUxOaGgzU3dTMmZWZUVNLUZUVHUyS2owQ25mLVEzb0trR3Z6ZzZvU1NSOXBQTk9ZbTYybVAxUW5pZ1NYQUthYU9ELThqeG9BWXFrR1VQaWxUSWdoMWxaT1ZCa3p0cjJTMXV2Uzc5dVlEQ0xVdDBrYlR6TkJKNDY3bi01THFFd1pPYnNieTdBeFgtdXpZMFIwcjdoVUtQcTJQMUJQbXRQM2pxYlZwRkhWOFBJeEszQmxlY3JwZ1lJU3BFR3JtSFdhN3YzYnd4V2U4cnZV?oc=5",
+    "fonte": "G1",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-16 17:24:11",
+    "chave": "480571cb73247e7ddb9a6787179d771065a572af5f09628754a398f386fa5d29",
+    "titulo": "Banco Central decreta liquidação de cooperativa de crédito por irregularidades - VEJA",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1BIRFd4Si1GM3NRUHNUS1dTVzdYQldqM012Ykg5cUtic3hCazl6eW92QnZvenNJWDRsZlBPdFdVR3V1SEhQX3VwZGIzZ1VYNVhsNmZTWnl0N3RkM05zN25jQXdnenZrSGhBWVB4QjFwNkVmSGV2WjE2dUFCVENlZzBUUDF0UndpVzRTS25zMmpXc21wdjl4Sl9QWU9QWDdVV0FYQnJDaUNReDhmMlBTZDhyQXE?oc=5",
+    "fonte": "VEJA",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-16 17:24:11",
+    "chave": "07d686b0a518caa35a26b2dca8b8ac8d06c520e39cb100d68be7e1411417590f",
+    "titulo": "Banco Central decreta liquidação da cooperativa de crédito Credipaiva após “grave violação” de regras - Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGdjV0p1bnEzcjN4QjUyQkhoYWdYS3dQbUJta2ZadlNaTi1zQ0FlTkY2c0ItN1pEVE1pTEt1blVoaVltZkJQMmRYeTRxY1pfdjY1RDJhR1FaY0VzdjNrSmFPb1ZZZmJ4a3o1Y1pCWGVpTDFBUGFiVUJROF9Nb2FvQUFla3I3U29mR0Vhc3NRamhCdlVtemFFLTVtaVJYYkE4b1I5dWstUFNTTVZjVHByaTBMMkVvN2FRLWY4Vmgwb0pDRkpjODY2MGpuZ2V5Sm9vX3RxOURhLVd1Z2pJcnNvMg?oc=5",
+    "fonte": "Seu Dinheiro",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [
