@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 16/10/2026 15:36
+# Relatório da Carteira ARCA — 16/10/2026 23:04
 
 ## Carteira monitorada
 
@@ -15,129 +15,129 @@
 Notícias coletadas agora: 50.
 Notícias novas, ainda não enviadas antes: 45.
 
-Foram selecionadas 15 notícias relevantes para este envio: 5 de alto impacto, 10 de médio impacto e 0 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 1 de alto impacto, 12 de médio impacto e 2 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta - InfoMoney
+### 1. Dólar cai com escala 6x1, pesquisas eleitorais e atividade econômica no radar; Ibovespa sobe - G1
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, WRLD11
-- Fonte: InfoMoney
+- Fonte: G1
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXFmQ2c5SUh3UDByVUlmQ1JnVkJHSU9DM29pVGJmaVVZQTJibFNQZlJHMFFOYWZiZ1UwUDRMdjV2RENKMUVpZFU4X1VwckNxT3ZBM3ZlU0RydVRneFNMeDNOeWtaOHJvaGVBdm1fMll6dGZGc3dnOFQ5djFUdHlSZWthVFc1Y2ZVMmdPdGY2OA?oc=5
+- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE9NWm80ZFlwMFBuTVN3cE81NzBkYjFhMHJwSkxLU19PQkhvRGlqb0NhaUk0RGRHN18wb1JKTXdBSkl0d2NvRWFWTUZmVHk3M21IWFBYZmVvMFN1U0RYNmk3MlZac1VWZmxEdDhZbWhEMzh4TWdwM3ZSQdIBhwFBVV95cUxQWndvRmNxdkphaGRqODZvaWlBX2ItZ250bm0wZURuTkEwTFl4ZGJzaGktdmN1TDYya19FWExSTm4xQnJWYXc3ZmF5Uld3cVhuQ0E3LUx0eGJHTU1odE9tMEZBanRSVnBONzFYN1AydHhqa2NaR1ZfU29DZ1NqRmhzZDZQY0x3Zlk?oc=5
 
-### 2. Com Selic a 13,75%, prefixados voltam ao radar; entenda a mecânica da valorização - Suno - Investimentos Inteligentes
+### 2. Ibovespa recua 1,74% na semana com pesquisas eleitorais; veja maiores altas e quedas - Estadão
 
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Suno - Investimentos Inteligentes
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9iU1liSFlySUZPLU5pZ0JIWlpkY2hndVB3NDhhQmE3WEtyTk8zNWgzcTNia1NwMno0cHhmVkQ1Y3ZCRGcwOG9NYnFNN05qeGQyaGxXVWZDRXJOaXBqZUJ5VHBNQk9xSEI5ZlM0YUw1aTBiSXdMZHJj0gF8QVVfeXFMT2tzTENlUlpkTUU4TW9HSHJGcHRqMHB5czgydnJYNVpsSkp2alpLYkhITjRKLUVpa1BNUnFVbm1BVGZnWVN1dWItLTdyTXlleUh2b0t0WnNESWNvR2ZGQ25meW5kQWxocGRqYnVFV2tCd19xbWtud05wdDdRQQ?oc=5
-
-### 3. Tesouro Selic, IPCA+ ou Prefixado? Onde investir de olho no segundo turno das eleições - Estadão
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Impacto: Médio
+- Ativos afetados: IBOB11
 - Fonte: Estadão
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFpzcHI3RlN6OUVBQ3hIbWhqUmhEdmFfdFp1Q3dfekQ5LU1MamdmMzY1Ym0tTkJaNjVWdWE3RFNCSmh6YTRlNG9TNnhZQmFPTlk3aUwtenpwZkRWWE1vem9hTUpKenJnbU9rSnZjMEtITjM0WmlFSUtsdUlFNkd5b2xyOS1Oa2RiRVl0ZkRvOFh1Q09ycjc4YU1NX1ZRYkhPRVJHTHVWckxXMmZ1N3gydG5qWDhyaFpOWDlRb1RXYjE5OHpWWU5GNVEzdmJFZk8wcHVITlFQVjBnN2pPX2c?oc=5
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNekgzOU9nUXVZWUpmdzFuQ1ltN2YtQUJTYXZzc01uZm1nQl9uLURFcE1sejI3U3ptSW9qeU1aOWRHZWt6cFpJYWdjTjdsdWtLVzBiUmhwVjB6VjY5QXR6eXJ3djhEMExzeW9QNGY1ekYyellYaEdiVzdIS3B1bGgwMmItSS1VMXFTR0tlZUY0TlNkZkRLYWdXNmpqWUt6NWRuUUZFdGR0a0JjNDhPMWstNlpTdlFSX2xJaHJSMm9SLVFFWjdCb2VBbTVUQ0VPREdGM0wwdkcxWHpKSVhQX0VtWi1R?oc=5
 
-### 4. Ibovespa reage com Petrobras e bancos após três quedas seguidas; dólar cai - Exame
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Exame
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNNW5BZzg3dmVrY2RxbGtEdTk0V2U0dFRLazZQOVRBVHZ0R0F2WlZMZ2ZsZTJuQWROWGIwSkxIYmJwa1dUbWNlZlRPQ0pSdkh0MkREWW9XTm1uR1BRdGlESGlLTWYyMm53N2VDZ2RuNjAtWm1UZ2xuVW15dDRwYk5pNzQ2U05Fcy14QU5pM3VSRm1WS21ucnZTT2FWdjRkbzNkSURqdFdrUHNIMC1k?oc=5
-
-### 5. Dólar fecha em alta e vai a R$ 5,08; Ibovespa cai 1,06% - brasilagro.com.br
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: brasilagro.com.br
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2E4cGg3M19VQ1lxSmNkYXBhLW9qTjhfcUJRNDBXRk4zdWwyMmxZVzZBMkcyV1ZMd2NUaHZ6NzFwbUdSaklDcERXXzZ0RFp6bzlCN1c4eFJUdGxVUzhKSlI5ZllTZ18xSi10OUdXekNnR0ZqSEFuY3Z6YnNFbDNLY01DQ042VTl1QzBacno5MC04R2pYejcwRXVB?oc=5
-
-### 6. Abertura | Mercados globais operam mistos e Ibovespa futuro sobe, com petróleo e eleição no radar - InvesTalk
+### 3. Ibovespa volta a subir depois de três sessões em queda de olho em preço do petróleo - VEJA
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: InvesTalk
+- Fonte: VEJA
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTFBSUzZkRFNUNGpnRmRJQU8yQVlLNDJhYjA4eDA2dGJNaGRQanItdmJVcXdYdGE5ak5OZWJPelVlOEJNT3lmTFlkVF91UFBuSmwyTjhYU2ZvdG9CUEwycW1Hc2xSNFNzZl9fMWtrcjJYMGwtNTJZMFE?oc=5
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYXFudU5IWGZPUXJBWnhSd0JpNEk3R2Z4VE51THNfQ3EwSWtTMHdxT0E0VU5SY2N2aWNoWU5YS3NvZEkzZnU1dW1KMGs5UkRidFlhdG9vMTFfLTlQU2JZaW1Oa0JfNGJhc2JsWUx2Zm5DVnBwNm9TTDVDLWJOekM4cHdrNlZSbTBqM3dxZW1FQkp6dFlkbWxydTZLNVAwMmEzenJyNzdGME84b3VUc0RjZEt4alhKNG9LcUlN?oc=5
 
-### 7. Ibovespa sobe após Datafolha e com maior otimismo do BTG com ações brasileiras - Valor Econômico
+### 4. Ibovespa escapa da quarta queda seguida, mas não salva a semana; PETR4 dispara e bancos pesam - Suno - Investimentos Inteligentes
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: Valor Econômico
+- Fonte: Suno - Investimentos Inteligentes
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR0ZjX0oweUJmTVc0bUp3LXI5d1hMZXBDcUc5a1lqX2pGN04wcHFwLUZmLTlnLTBFR19mdmVqNUlILTIzZXhpLUlGRDJ1Y2k3Z1RtUFFVbWk5LUJDQm9RWkV1YWNrdEl5R2ljMU9Wel95dHpOZzlkRmxJb3hoTXg2OHVJNWxBV1BRUUZzM25zb09ZNTkwanNzV1hiV0hkWmtQendra2taVEhjT1B1VmdkTFYzbnE0aHIyazdfZGZzem9xeDVReDdzZEZIUnJUcGFnTWIxYlFYN3VwT3PSAdsBQVVfeXFMT0dGY19KMHlCZk1XNG1Kdy1yOXdYTGVwQ3FHOWtZal9qRjdOMHBxcC1GZi05Zy0wRUdfZnZlajVJSC0yM2V4aS1JRkQydWNpN2dUbVBRVW1pOS1CQ0JvUVpFdWFja3RJeUdpYzFPVnpfeXR6Tmc5ZEZsSW94aE14Njh1STVsQVdQUVFGczNuc29PWTU5MGpzc1dYYldIZFprUHp3a2trWlRIY09QdVZnZExWM25xNGhyMms3X2Rmc3pvcXg1UXg3c2RGSFJyVHBhZ01iMWJRWDd1cE9z?oc=5
+- Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0ptbEZCMzFlaS13OXd0LVdZaDFjVWlTcnFfM0R4MFlReDBlMkxyMm80QmN1LUU0VTJQN0F3Z2hlOE1PSzRFNnBtQVpLMS1Tanh4YTRUUUNhaXZtTUZkRW1tb1FtR2VjZFdyazR6REpsNUpINFBHM0p3aTVsWEFnUzFiVXFELVXSAYwBQVVfeXFMUEhMNUZwVFZpaUpJemNxdHBieERVelVWcmp1REJDekhTUHpoTzgzaVhnNmVGZlZzckhlRHV1eUpobXRTYkdGT2FfdTlJUFhiUEtMOG9ENjc5U2w4clhqdmNCZ1BndVQ2ZVFnaTY4MExiWUl5by1kcjAzZnRHWUxNWDFKdTFKWXR4eFhUMTY?oc=5
 
-### 8. Ibovespa abre em alta de 0,15% e supera 204 mil pontos em meio ao cenário eleitoral - Vero Notícias
+### 5. Cautela o Ibovespa sobe após quedas e pesquisas eleitorais - ES Brasil
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: Vero Notícias
+- Fonte: ES Brasil
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUw3ZDF1WkVWLWRDaWVMQzBibnpaTjdQT3ZUejFSMUo3REZUbmVYeWdRNXFqZWIzUkt6YzQxQkpyTkJEOXhMdVg1OFpFamE2TW5yTzhrY0pwZF9VWklTNUFZOU04ZFFtYVRtZGxieVYwY2NHZHdOZlJDcXNkSTBDdXdQWmlwR3BvaG5tYVh2UjVGQ2RTUlN6dmNldi11aVlTOFRiTEx2WW8yV0hxTVg1bXB0ZmdnLUk?oc=5
+- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE9IenZodEQ0Tm9zZ3VPMmtoVjByOVA1TG41Z285X1dWWXhCVmp3aGpFT1lGZUNmVkRaMVQxMGVHRUFKekl3MUgzcG5kZ08xcWdvYjhIVEhxZWprM1ExcGZDb0xobWE3SU5yRmZZSzVHMk9uQUZhbTdjbA?oc=5
 
-### 9. Ibovespa Futuro sobe com IBC-Br, eleições e medidas fiscais no radar - ISTOÉ DINHEIRO
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: ISTOÉ DINHEIRO
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZWt2dmR0UnY3b3NvZlpzcjFmXzA3UGJwYkpOeUprMFBTRFdxNlFZcnVjQ21mTzUzNkQzSW1GT2k0WWRtTnBXSWxfMlJubGVMbFdVQU92Y2RMZG9uWXVPOGhjZ0x0RVMyQnFsWg?oc=5
-
-### 10. Ibovespa abre em alta de olho no cenário eleitoral - UOL Economia
+### 6. Ibovespa sobe nesta sexta com Petrobras, mas cai 1,7% na semana com cautela eleitoral - UOL Economia
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
 - Fonte: UOL Economia
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0d1OG1XMXdsRHhRRzdvVkx1SU9Bbi1HeV9lYlc1R19RbTUzTHJUcVdqcHRUcUVyVkZPMVdXZHZuNGpGZWNPaWJTdE9XNXg3RkJ0NGd0dzRFc21PX3NjaUh5MHhtTURhWVhMNE9ybUpNRHpBWjlqQURDX1V3Z2pxQzMwRlJmRF9JRWxnU09iSXk3STYzeWpfSGhndVRoZGRVMjNrWHBHRkJVOUVLNE5v?oc=5
+- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2VrOWN6UkFObFh6aDNXWC1FMnpLVW50TnkwTlV2QlVQUkcxWV9hMVZxbzVwSUNGY29xazBJT2hzbTEzSWwyWjBZY0JzSFExQjN0N3BKOXZqUUFrZ2NMLXB1UW0ycGwxck1wTDZyc3NzcXo1eFZSSXEwcC1ROTNNTlIzUG1lNDhFMjlfbVExYmdiTm1yTWFjV292UmRyYUpjQTM2MUNsZDRaYVp3dXctcDE1TXMwU3pla19qamhHVHBBTUdGTGtXQXpocE95MGNIdVVTYkdJZ0ZZdTJIWmdxQ2JQUTlPQQ?oc=5
 
-### 11. Itaú Asset: De trilhos a chips. O que sete décadas do S&P 500 contam sobre a economia mundial - Bora Investir B3
+### 7. Ibovespa sobe com Petrobras, mas perde 1,74% na semana com cautela eleitoral - Exame
+
+- Impacto: Médio
+- Ativos afetados: IBOB11
+- Fonte: Exame
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxObWJ0VW0tZnZkUWVNN3JURlg5V2RpRXhMZUp2aDB0MlFqMGdhWlZJQ0RCRmdJZ1VUaktHQnVqM0NDX2RUS2RDbVFSTkVPRDllRVZab1NLTUNHUEgwOHFRSlBteFpJaThDbXhCb2VrMkZndGxsVV9nVms5WWV3Ti1yNDZfYlplNEVQQy1IdnVKWTlzOWZDM2U2bExjekhLaVc4N3dNajF6TUpUbXdw?oc=5
+
+### 8. Ibovespa sobe com avanço do petróleo e disputa eleitoral, mas fecha semana em queda - ADVFN
+
+- Impacto: Médio
+- Ativos afetados: IBOB11
+- Fonte: ADVFN
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkdEZk9TMVFBSUdjMHZTZEcxc1JXbkxjcUZqVWt6bmc2MDNaa011d0pDaG9waVFHNm1BNnZKNlEyN0pxVE13bUFibER1MTQ4T2ltakVhMHM2VXViaVNhSWt1YU54M0huRGhNQkFTUjZNQlFYeW5qN2NKOFVDenpmdzlkc21kQXFMcjhMNVRSNklKdWNKN1ZRZFhVTHRXcEZYTnBmbTVhWTlDVTk5eVhYeEx3aWZJMmRmTFE?oc=5
+
+### 9. Ibovespa pode subir ainda mais? Citi vê sinais de uma recuperação que está apenas começando - Estadão
+
+- Impacto: Médio
+- Ativos afetados: IBOB11
+- Fonte: Estadão
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd0hoelJtYWtVRURWUWFpeDJGWjhIdGlvZGdqUlpHNU5LTHlsOHprS0JjNkVfZzVpY2hkdlVTODdpaXkxcEJLSGZ0bFg4UFJTWmYzdG1Ka2RpQUs0NnJsV3NYNUh3RU9wdm94d1NCRkF1VENSQnRvRzVrRGJhaTVHR0Q3RFNfUnZzYTlvaVJGUFQzbmJNWTFhN1ZCb1EwcHpyM0Z2eU9tdGtYdmw5by1oM3BWSlJWLXVPbU5UT0gwM2liNWJXODVtSEVGOEFvNTlmT19yUnhTbFZYMzF0RU5iZUF4MC11YXNINjh5RWNB?oc=5
+
+### 10. S&P 500 opera estável, com ganhos no setor bancário compensando receios sobre IA - Notícias Agrícolas
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: Bora Investir B3
+- Fonte: Notícias Agrícolas
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHFoaWJ6V2gtOVhmUng0dHl1cUVSdkpFdGZFdXpEbzZNYjhQcERqM3JzazZBYTktRmVxdl9JVFljMEd0ekVCdkgwUDRwaWxONWxRTy10YUhfc0h1c3cwMWhXb1hnU0dyc1lnaElnLTFPWWVvWjJFVDc2UE9yZjlta2pvaHZvbER5Q2dzMjNYLUVYTmE0SFpXYUxqQk52aEhKTnFsTHFQVnJHMjdGMTByWkVZcjBUSU13T1RRZjVseGsxNTRFVTN4UTZxdFQwUQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNei1PU0tSc2hmLVI2OEw5WlZGN1FhYWx1WXR6dGlxamNfd3Qyc3ZiamtKTkk3dzBJV1FoUmo4b28zY0xPR2c2QjlSdGlWR1pwMnBlVjhMODQ0Z01oeXE2UURyREpuaENLNXBRZjFKdVJfaHZ3NUNhdVJ0c0lLd0xndmZqeDR6Y1F0NFI4QURpWVVDWXVMeGcwS0VlNVRvSzV2a0JMVTBoeHpab0xNNFZDRWl3VXBURVBlYmt5ZDdoTGhjclFwWUkzN2xSS182eVJ2TlZZLVZMZ0txMlp4VGJfbG1fVTNMZzRZdXBGSXlPTdIB7wFBVV95cUxNei1PU0tSc2hmLVI2OEw5WlZGN1FhYWx1WXR6dGlxamNfd3Qyc3ZiamtKTkk3dzBJV1FoUmo4b28zY0xPR2c2QjlSdGlWR1pwMnBlVjhMODQ0Z01oeXE2UURyREpuaENLNXBRZjFKdVJfaHZ3NUNhdVJ0c0lLd0xndmZqeDR6Y1F0NFI4QURpWVVDWXVMeGcwS0VlNVRvSzV2a0JMVTBoeHpab0xNNFZDRWl3VXBURVBlYmt5ZDdoTGhjclFwWUkzN2xSS182eVJ2TlZZLVZMZ0txMlp4VGJfbG1fVTNMZzRZdXBGSXlPTQ?oc=5
 
-### 12. Treasuries acima de 5% e S&P 500 em recorde: por que JPMorgan segue otimista com Wall Street - Money Times
+### 11. Por que o SPDR S&P 500 ETF Trust está caindo hoje? - Investing.com Brasil - Finanças, Câmbio e Investimentos
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: Money Times
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWJZYzFfWExZd1FmYkxmdGhseFE3aTR4aWtkOTd3ZFMwNHlFVHhsaW04MVJwV1VLdTF4VGxsWUVoQzFyVUhpZXhSX1NQREg0SWlSU2FmOHRwM3B1NHMyX2ZHN3R4Q1lJTndYeC1feXdnVHZnM3lPcWx5YS0yLW1NMkU3Qmhnd2VrRGdjV0dDRXU1aUVhS3dsaDliUjZqNnp1MXE4d1dqQ18tUnJ1YWpPWVdDOHo0ZVVCSG5OZmFzWWxObzA?oc=5
+- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPa3owUzh1VHlMQWxfay12LTlIb0VhMnkwaDdra0I4c29mZHFxQ054ZnNGcUhaUEtNa2otYjd1Y0hYVTlzQl9ZNFcxSmIwWF9VWlRWUTg4bWtiYloyS3V6Zmp4M1dBaXNLcTlVTW9XZDd2djBjSVdsMWtobUx5aUdURDlJTDU1a3B2dkVJNG5nZU9oOGdjQkhodEk5dVV6dGNKZENwMC1wTGJfR2lNeGc?oc=5
 
-### 13. S&P 500 mantém-se estável, com os ganhos no setor bancário compensando os receios em relação à IA; Dow atinge a maior cotação em um mês - TradingView
+### 12. S&P 500 e Nasdaq devem registrar perdas semanais acentuadas, à medida que o nervosismo em torno da IA abala os investidores - TradingView
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
 - Fonte: TradingView
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5BS3dwNEp6elpWVTN6dm0zQ3hkNFFtM1hCVVNKM05HcTRkS3Bhc2J6SUVEQ0tPRTB5NVl1MzFmdWxLU3RGSkVCeDZQNnlmNWp3WWVEMVlvai1sV1FDbWF4ZzVPNTFEVGNFOU1iQUFVS2pyVVFYdnB3?oc=5
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5WOXdYaVpHb0Q0UUFpb0dweUpuVm5MU2E1OG1aSDRPZEVPSDNOM2RnUVY2UHIzdTZxenppblZvczdIWGNFUHJzLVNERGZtUWRTM0gwQkk1cXdPa19mRWFaRWlUNnJMUFFmOU5wc1h1VFYxY2pVVWNv?oc=5
 
-### 14. S&P 500 opera estável, com ganhos no setor bancário compensando receios sobre IA - TradingView
+### 13. Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2% - InfoMoney
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: TradingView
+- Fonte: InfoMoney
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBqZjA5TTl2Y0V3TTNYLU9feV9Vc1pMN0NBSmdtS1VmNjBmOHV3VngtQ3V6ZUhZc25SY0RVdU1YUjdjbGUyNEtGLVo3RHRuTDBSbHZtVEhYT0ViSHJhRjBnMGEtbXlUcHRaNHphVlltSHQyd2ROX0I0?oc=5
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQX25rVFhES2xoTjQxb2taTV9PSXg5VVZ6eERETndOUlMzOEFRQzBiMC1pWWNmWVdSM2VDWjRDdjhGeVdYX09jcVIwRlRMOUZ0elp6R20xUzZqVzl1N1J0el8tTXpRMzdmeHVFMzVjSkhRX1QtUjJVZld5NmVVNXZxTmZ0Z1ZZeDRvdHNXUU96VmNPUUQ3VWxOQjdSYlAtd2ROVmM1ajd4V1dRVnVRTHRHNNIBtgFBVV95cUxOTktMcER1U3ZCV0RsUHBZdGhmeEp4ckh0OEtjZXBLd1BJTFBUeEl1d0UwZHctQy1ralR4NDdZSTVNOGQtMmJwRXRFdy01V2xxdG1IT2JLTl9BQ2p1Tjdaa2FtcERmUGd4QkloclJCS3FFeENXTjFXY3lwYmVDOVZETXV4eUVBU0l3R2RWYjMyRFNkSm4wYXJsSm9Na0JuNUpOLXNqS19aNkt4WFYyckZoZkY0aU5VUQ?oc=5
 
-### 15. Elon Musk doa US$ 158 milhões a grupo republicano para eleições legislativas dos EUA - Vero Notícias
+### 14. ‘S&P 10’: a concentração inédita por trás da alta da Bolsa americana - Brazil Journal
 
-- Impacto: Médio
-- Ativos afetados: WRLD11, SPCX34
-- Fonte: Vero Notícias
-- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXF3aF9GUzhIOGUwbHlEWklPSlM2TmhnVEZCSjZKbG90UG5ucmpYZ1NmbkQ1N1VjN3pGdWFoRDAxeWg1Z1VTaGg1N1VNNy10bHNpc1VuakNXRjVoSW1ORDZodHRmSkU0X0lkTXl2bzdXYzAtTERFWmtaa205am15Uk1hc05SOFpLcFJNMlVNT1JzS3BudDVzU2xINy1SOEttZTZvUEtyalJmeDJNbFloRGZkam1MQQ?oc=5
+- Impacto: Baixo
+- Ativos afetados: WRLD11
+- Fonte: Brazil Journal
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFJxS2ZyNVB4QWtveU4tLXlTMFVoSTlFdXVIRXVrVWQ3cmFDR1lGcVlZMG9TaUpxUEdOaFZmdHB5aDZqU1F3d1JFVzgwTDZ1b196a3I3R0ZZWjZTWDl6NTRkelNrRWJvM2VHRVpmQ0JkMW83SU9XS1RBZmlIUG8zWWEzVVhsc19heXRjcHBtX1dFQWh2LTZSdy1Law?oc=5
+
+### 15. Tesla e SpaceX lançam um carro que voa - Brazil Journal
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Brazil Journal
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMickFVX3lxTE0wRGdPZUFXTVd2UnpDd3pTWVRYM29uLUdRbWk3RHpIMGtHczVQRVQ4OXhRa0FJT0xUaXVRc2taUExhLURIUjJWcjlIRXI0aXRZZkt2X0JhcDV2VmxEUUZvQ2hvdnVwRWlqZXlXbjV3ZHJzZw?oc=5
 
 ## Conclusão para o próximo aporte
 
