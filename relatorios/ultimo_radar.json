@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ibovespa volta a subir, após três quedas, mas semana termina no negativo; Dólar cai - InfoMoney",
-    "resumo": "Ibovespa volta a subir, após três quedas, mas semana termina no negativo; Dólar cai InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXFmQ2c5SUh3UDByVUlmQ1JnVkJHSU9DM29pVGJmaVVZQTJibFNQZlJHMFFOYWZiZ1UwUDRMdjV2RENKMUVpZFU4X1VwckNxT3ZBM3ZlU0RydVRneFNMeDNOeWtaOHJvaGVBdm1fMll6dGZGc3dnOFQ5djFUdHlSZWthVFc1Y2ZVMmdPdGY2OA?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Dólar cai com escala 6x1, pesquisas eleitorais e atividade econômica no radar; Ibovespa sobe - G1",
+    "resumo": "Dólar cai com escala 6x1, pesquisas eleitorais e atividade econômica no radar; Ibovespa sobe G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NWm80ZFlwMFBuTVN3cE81NzBkYjFhMHJwSkxLU19PQkhvRGlqb0NhaUk0RGRHN18wb1JKTXdBSkl0d2NvRWFWTUZmVHk3M21IWFBYZmVvMFN1U0RYNmk3MlZac1VWZmxEdDhZbWhEMzh4TWdwM3ZSQdIBhwFBVV95cUxQWndvRmNxdkphaGRqODZvaWlBX2ItZ250bm0wZURuTkEwTFl4ZGJzaGktdmN1TDYya19FWExSTm4xQnJWYXc3ZmF5Uld3cVhuQ0E3LUx0eGJHTU1odE9tMEZBanRSVnBONzFYN1AydHhqa2NaR1ZfU29DZ1NqRmhzZDZQY0x3Zlk?oc=5",
+    "fonte": "G1",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5ca9894bdca1d3cb11455bc34c5cdbf728983cdc8dda7a1c49731d19cfce4777",
+    "chave": "ff9e0c581d0ab4cf421f897a438cb3e9b9deea855a3c4b17e32baf0a24fe4c80",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -21,72 +21,6 @@
       "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Atividade econômica avança 0,3% em agosto, aponta Banco Central - CartaCapital",
-    "resumo": "Atividade econômica avança 0,3% em agosto, aponta Banco Central CartaCapital",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGdPd0oyT1c5bzg5cW1LTjlaTGRjT01ZZW9lLWFFdjMtYi1hcEpFWTBFSTZxR0xycmNDQWU0LVhVdXc2d3ZWeUloY1lIMVhiVFNWaFBKenhON1JYOGdZdjZRbkVDbjAtcTdxWmx0UWpBcUs3MVBEQ2ItT1JacUpMdm1PZndFbENLRVRwdHZEbUFBRDZqSWVLZGtKU0pTVFJRdUxTZA?oc=5",
-    "fonte": "CartaCapital",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "d2c200b51ad5cf56f98ba409d2574da0f964e49550ff563aec801cbb7ec5a015",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central decreta liquidação extrajudicial da cooperativa Credipaiva - CNN Brasil",
-    "resumo": "Banco Central decreta liquidação extrajudicial da cooperativa Credipaiva CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkJFZEgtZVR1U3dJUXN3aWdERkVrVjFiRkQ5bWdqOUE3OGQzdlQzeURNb1Z2M3A5RVJqZWtHWExjTjF2Y2xyNkhqNUJRQUIyMFVnbUlOU1JKZlY4MWo1QXBNVUY2eU1KNFUtZkpkLS1KN04xNFVHc0hjQTdoNUkxbFN6ellBcDF4QjdscUc1ZXNHV3QzeWh4bVB1RGlxT0JUREgya0pEY3NWaVZUNXZnYQ?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "86d3bb6dd2cafe3e6c88601ba269ec3c66cfec20ec85436ba0c029b2bab02409",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Atividade econômica avança 0,3% em agosto, diz Banco Central - SBT News",
-    "resumo": "Atividade econômica avança 0,3% em agosto, diz Banco Central SBT News",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVRUOXB6anE5YjlVblBiOGpKcDBucVN6MmxaczdMSGtUVlFKdGs0aGRLaDFyRXFseXlmdGkxTzcybk8wVm4xLXlWa3pDc05pM2dvX3dXLTN6YTVhdXRLWkcyb2NSZlVVLURWSEdVTFhPQU84VDNoTTB4UWNTQnVYQ0NRTmtCX2podUZFWGlDMFoyeV9qNXFKN0xDTE42bnlQenhGQQ?oc=5",
-    "fonte": "SBT News",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "18b8e4385aabc05f97a13b73172c6858fc3e2d8be2d748a7cbafc258fa9ed07a",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
