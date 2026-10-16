@@ -1,34 +1,11 @@
 [
   {
-    "titulo": "Banco Central amplia regras para marcações de suspeita de fraude no Pix - MundoCoop",
-    "resumo": "Banco Central amplia regras para marcações de suspeita de fraude no Pix MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1A5MzJKU213TjdJNDNiakoxOHExaHpQRVJLM29DV01LbDdmc1EtbEprMUpLTzBPUGlIVVhxUjFPSTJhc3pCMTRQbmpTMzlpX0UycDluYjZFckdJcEp1VThNYWc4VEdTMjdGazdHRDJ5aVZiTW14MEg4ekI5aF93cnlENVhlbUt4Q1VPZjFhRmNCZHhWeG83SGFJeHZGamYwNGk0ZFpFNFVxUQ?oc=5",
-    "fonte": "MundoCoop",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "02823ebb209360175fb91510a9ce73dcbda13bb094893ac6dc3f1fe6733a28dd",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 14,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa reage com Petrobras e bancos após três quedas seguidas; dólar cai - Exame",
-    "resumo": "Ibovespa reage com Petrobras e bancos após três quedas seguidas; dólar cai Exame",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNW5BZzg3dmVrY2RxbGtEdTk0V2U0dFRLazZQOVRBVHZ0R0F2WlZMZ2ZsZTJuQWROWGIwSkxIYmJwa1dUbWNlZlRPQ0pSdkh0MkREWW9XTm1uR1BRdGlESGlLTWYyMm53N2VDZ2RuNjAtWm1UZ2xuVW15dDRwYk5pNzQ2U05Fcy14QU5pM3VSRm1WS21ucnZTT2FWdjRkbzNkSURqdFdrUHNIMC1k?oc=5",
-    "fonte": "Exame",
+    "titulo": "Ibovespa volta a subir, após três quedas, mas semana termina no negativo; Dólar cai - InfoMoney",
+    "resumo": "Ibovespa volta a subir, após três quedas, mas semana termina no negativo; Dólar cai InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXFmQ2c5SUh3UDByVUlmQ1JnVkJHSU9DM29pVGJmaVVZQTJibFNQZlJHMFFOYWZiZ1UwUDRMdjV2RENKMUVpZFU4X1VwckNxT3ZBM3ZlU0RydVRneFNMeDNOeWtaOHJvaGVBdm1fMll6dGZGc3dnOFQ5djFUdHlSZWthVFc1Y2ZVMmdPdGY2OA?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c4dda88baaebf72ce8d720bc29d39da870b8cd7419efeb0cf2cc13af5973b190",
+    "chave": "5ca9894bdca1d3cb11455bc34c5cdbf728983cdc8dda7a1c49731d19cfce4777",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -47,12 +24,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "No 1º aumento em três meses, 'prévia do PIB' do Banco Central registra alta de 0,3% em agosto - G1",
-    "resumo": "No 1º aumento em três meses, 'prévia do PIB' do Banco Central registra alta de 0,3% em agosto G1",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQckxlUlp6dXZwcEJMRGpfYzVzeFVWd2gxMFNyRlpoWGcxTVhFQXBuODZJUHFiWjkweXJzcVI5RzlaNW1GeW9sOUt6VER2cU90UWN2ZGZsZDR0VGRXc1l2dGRJX2plV3lEbUVnVU5sQUM4eUVQcmJZYk9tbE91NWJEMmJrUDV1dlhQcE1QLWRkSUJOQkl5WG1RV05jZ010eWUzRWQzeUNrVlJxZUlmVmxHcFNidWw3c0ZqV3hrbU1xZWFwZ9IB0AFBVV95cUxOaGgzU3dTMmZWZUVNLUZUVHUyS2owQ25mLVEzb0trR3Z6ZzZvU1NSOXBQTk9ZbTYybVAxUW5pZ1NYQUthYU9ELThqeG9BWXFrR1VQaWxUSWdoMWxaT1ZCa3p0cjJTMXV2Uzc5dVlEQ0xVdDBrYlR6TkJKNDY3bi01THFFd1pPYnNieTdBeFgtdXpZMFIwcjdoVUtQcTJQMUJQbXRQM2pxYlZwRkhWOFBJeEszQmxlY3JwZ1lJU3BFR3JtSFdhN3YzYnd4V2U4cnZV?oc=5",
-    "fonte": "G1",
+    "titulo": "Atividade econômica avança 0,3% em agosto, aponta Banco Central - CartaCapital",
+    "resumo": "Atividade econômica avança 0,3% em agosto, aponta Banco Central CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGdPd0oyT1c5bzg5cW1LTjlaTGRjT01ZZW9lLWFFdjMtYi1hcEpFWTBFSTZxR0xycmNDQWU0LVhVdXc2d3ZWeUloY1lIMVhiVFNWaFBKenhON1JYOGdZdjZRbkVDbjAtcTdxWmx0UWpBcUs3MVBEQ2ItT1JacUpMdm1PZndFbENLRVRwdHZEbUFBRDZqSWVLZGtKU0pTVFJRdUxTZA?oc=5",
+    "fonte": "CartaCapital",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0e72f3fc9362c2a1d82942f0ef8be5d453a896829e2e68e09b4ff39dead29637",
+    "chave": "d2c200b51ad5cf56f98ba409d2574da0f964e49550ff563aec801cbb7ec5a015",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -69,12 +46,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central decreta liquidação de cooperativa de crédito por irregularidades - VEJA",
-    "resumo": "Banco Central decreta liquidação de cooperativa de crédito por irregularidades VEJA",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1BIRFd4Si1GM3NRUHNUS1dTVzdYQldqM012Ykg5cUtic3hCazl6eW92QnZvenNJWDRsZlBPdFdVR3V1SEhQX3VwZGIzZ1VYNVhsNmZTWnl0N3RkM05zN25jQXdnenZrSGhBWVB4QjFwNkVmSGV2WjE2dUFCVENlZzBUUDF0UndpVzRTS25zMmpXc21wdjl4Sl9QWU9QWDdVV0FYQnJDaUNReDhmMlBTZDhyQXE?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Banco Central decreta liquidação extrajudicial da cooperativa Credipaiva - CNN Brasil",
+    "resumo": "Banco Central decreta liquidação extrajudicial da cooperativa Credipaiva CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkJFZEgtZVR1U3dJUXN3aWdERkVrVjFiRkQ5bWdqOUE3OGQzdlQzeURNb1Z2M3A5RVJqZWtHWExjTjF2Y2xyNkhqNUJRQUIyMFVnbUlOU1JKZlY4MWo1QXBNVUY2eU1KNFUtZkpkLS1KN04xNFVHc0hjQTdoNUkxbFN6ellBcDF4QjdscUc1ZXNHV3QzeWh4bVB1RGlxT0JUREgya0pEY3NWaVZUNXZnYQ?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "480571cb73247e7ddb9a6787179d771065a572af5f09628754a398f386fa5d29",
+    "chave": "86d3bb6dd2cafe3e6c88601ba269ec3c66cfec20ec85436ba0c029b2bab02409",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -91,12 +68,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central decreta liquidação da cooperativa de crédito Credipaiva após “grave violação” de regras - Seu Dinheiro",
-    "resumo": "Banco Central decreta liquidação da cooperativa de crédito Credipaiva após “grave violação” de regras Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGdjV0p1bnEzcjN4QjUyQkhoYWdYS3dQbUJta2ZadlNaTi1zQ0FlTkY2c0ItN1pEVE1pTEt1blVoaVltZkJQMmRYeTRxY1pfdjY1RDJhR1FaY0VzdjNrSmFPb1ZZZmJ4a3o1Y1pCWGVpTDFBUGFiVUJROF9Nb2FvQUFla3I3U29mR0Vhc3NRamhCdlVtemFFLTVtaVJYYkE4b1I5dWstUFNTTVZjVHByaTBMMkVvN2FRLWY4Vmgwb0pDRkpjODY2MGpuZ2V5Sm9vX3RxOURhLVd1Z2pJcnNvMg?oc=5",
-    "fonte": "Seu Dinheiro",
+    "titulo": "Atividade econômica avança 0,3% em agosto, diz Banco Central - SBT News",
+    "resumo": "Atividade econômica avança 0,3% em agosto, diz Banco Central SBT News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVRUOXB6anE5YjlVblBiOGpKcDBucVN6MmxaczdMSGtUVlFKdGs0aGRLaDFyRXFseXlmdGkxTzcybk8wVm4xLXlWa3pDc05pM2dvX3dXLTN6YTVhdXRLWkcyb2NSZlVVLURWSEdVTFhPQU84VDNoTTB4UWNTQnVYQ0NRTmtCX2podUZFWGlDMFoyeV9qNXFKN0xDTE42bnlQenhGQQ?oc=5",
+    "fonte": "SBT News",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "07d686b0a518caa35a26b2dca8b8ac8d06c520e39cb100d68be7e1411417590f",
+    "chave": "18b8e4385aabc05f97a13b73172c6858fc3e2d8be2d748a7cbafc258fa9ed07a",
     "ativos": [
       "CDB 100% CDI"
     ],
