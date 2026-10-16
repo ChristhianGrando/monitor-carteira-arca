@@ -1,62 +1,5 @@
 [
   {
-    "data_envio": "2026-08-26 14:06:47",
-    "chave": "e46935224123f6eba2d406ce3ce613ea6dac82722376171a07b8a86a90f0dd60",
-    "titulo": "IPCA-15 Desacelera 0,40% em Agosto e Inflação Fica Abaixo do Teto da Meta - Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREpaNlcxa05Uc20tMEVuMDUtaXZHdXM4eHM1MlZnMndTaUU5VnNZSXlmcURld29mdFdJVHo4bUsxUkhmZjZXN1lLMWo4QlRTUEhaUVpLVDdoMkN5cG1aYUZfY2Q0em81emF3OHByVjl6bmRNcVVfUWdycTlZVE1mb0lXTWRLT19TMG03TkZfdXZwSWdqTlAtTmhMdkdzcFFCTl9neU1nQWVDQXQzM0hUVk1BQU1sZw?oc=5",
-    "fonte": "Forbes Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 15:53:14",
-    "chave": "e023462d9fc2a12a73bb321bfe4931fc08ea342395cd134e6d754e3723097035",
-    "titulo": "IPCA-15: preços caem 0,40% em agosto, com conta de luz, gasolina e alimentos mais baratos - G1",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWhqZEdGNHA2UHBRTUpjTFJKb1JpS2dxcUdXQnF4OHlZVGEzMFhzaS1lejZiNW9MS1NiQXNyQ2locTJUODFEbVpRRnhKb0VOY3JsT0VTUm9uT0dzMThtN0JhWVJwQWZWV2YwaEVpLWhHNWJhdDNxZ0pHVnJwbkQxR1psVGtOS1FReHBBRUEwTkhNZ9IBoAFBVV95cUxPeE9JWUhFUW9WSUpmRlJsQjZ1ank0ZjcyT2xKNi1ydGNIcUduVlpod2tBVjE0VF8tTWJwZVo4YUpCY0FTUmtXT0p1Vi1PSkZzR1pvZFR1ck5fQVh0SXpDbVlHUEEyZ2gwMXRuOXhYZmRWY2QxWktsZ0RJVDV6Yk9uYWtKUVUyR003Y0RCeGMzQWh5YlVfS0VmUUFQYnQtUG9x?oc=5",
-    "fonte": "G1",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 15:53:14",
-    "chave": "2c383c60a730d955ecddcdceae65b4751f6fb3c66eb5cf5590cb5207739a6f32",
-    "titulo": "Abertura | Mercado externo ameno pode apoiar Ibovespa, de olho na inflação do Brasil e EUA - InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0NHRrNW9wdXoycGJwZ2ZkMTRJNXBDTklISEJKX3F0QzM3Ym9DVFRsZElXVWljU2djRzRMLUZEbTFVUmFwS1JrS2tpbHRvV1h3N2xVb1JjZWVMSF82YjVMWkJZa0g4ODJ0bEhxVW1OVGNhLUl5TUE?oc=5",
-    "fonte": "InvesTalk",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-26 15:53:14",
     "chave": "e198dc688f1eb46738877b17bcda01722b19632bab5dafd034fbd8fa1070e667",
     "titulo": "IPCA-15 registra deflação de 0,40% em agosto, mais intensa que o esperado - Bloomberg Línea Brasil",
@@ -17499,6 +17442,53 @@
     "classes": [
       "Ativos Internacionais",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-16 07:09:48",
+    "chave": "96a511537e0b753633b87363f51baf27bb48566a0ec860764212610371a0f9b0",
+    "titulo": "Com eleição mais apertada, Ibovespa cai pelo terceiro dia e dólar chega a R$ 5,08 - brazileconomy.com.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeExFV2NWbFdhVjFEWk84aE05YmdxcmZZcndPNEoyU0taT0dtSjUzWWRWSUlCYUFmT3hIcHQ4djdRZUx5MnJ6WGlhdWtlV21uSXk2ZGMwdmVlQWdCcXJ0YjJFb0xjbVZJbXVxbF9qSW1XU3lsYWQxX0EyRVEwRmd1QVNPVFZoSzZfNkZUSWNuSmlpMHlrWVZFQ1BCbTJHLUJOVDQ2aFRrNnZHUldKSWFDZ3JoNXVHS1dsLWZkT09YQVRnUzNaMnFV?oc=5",
+    "fonte": "brazileconomy.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-16 07:09:48",
+    "chave": "df11f3d43ae32731701329c26bb7c46e479a2bffafeb191ec2daed2daf1f4891",
+    "titulo": "Wall Street fecha em alta apesar da inflação e das incertezas com IA - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0NmVVQ3WU9wcVlCRW51cWJNRGd3U1M2VklHSW9qYVNUZ1U4UFBRcHhXYWpOWEVydVJ0N05ubk1fdGpaQ1dPdENucm9vLWVjMC1VZUd5NVJuX0oxb2hSZW5qcjRFeHFvaFRhTVJXZnNmbkhBRVVjZmZXWlZuazdwMWdGcmtwTXVibXFqRWpxWTR2U21qOWNHSjNQUlJMaWxRRjg4a1VubTFUTlJJcVdpSmtPbkxSRG5sNEg1YW5R?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-16 07:09:48",
+    "chave": "c8a64e70d1d34d855fab2e13dfdd8b7df5dfbaec76d7df2a78718eb53bde1dc1",
+    "titulo": "TCU adia julgamento das contas do Banco Central até conclusão de processo sobre o Banco Master - Portal VV8",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkRlMmFfMFVpQWF6dEs4N090Sk9XQ2tVX0FCUzNUdFdSdnhwLTNnTGFsbWtDRUcxRGQ4eTN2dVRlQWlYN3NDek5pSG5JTHR1TlJRTi1oQm1SRGNodEZmQlJzWTBJNWZUWG5KOThLQ0VYaTN3TVMwUjZuWi15THBnTnVCRUhDTUVFUWRuQTZiM1M5a1ZlY2RfYVdwd05oSU41dzktcGNESWw5Mk10S3NMRnB2NTJDSVRvVEdCMFdsZDZmSWhHeTVLSjI2Y0VoUQ?oc=5",
+    "fonte": "Portal VV8",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
