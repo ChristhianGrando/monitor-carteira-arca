@@ -1,11 +1,35 @@
 [
   {
-    "titulo": "Prévia do PIB do Banco Central registra alta em agosto - R7",
-    "resumo": "Prévia do PIB do Banco Central registra alta em agosto R7",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnJaOVZLdUdZbDg2T2ZnR3E3TmxMMlV5VUxGOTAxVHRWT3N0MHdMc3BaNS13VlhFWVNfcGk1a3AxcG10TFBVRnV2anRqVzdtQjlBNmkybV8tZjR3SGgtOUIyVWxDcUxabElncHJjLXR6OWVvOUZ4b2h4YVpCdkp5OEhCSlJSZENjVEtnTUMyUjRsbG5UUXUybUFlWUw2Sl82a1hpRjcyMGtoZ1VNQzUtaUx3QmpURExDMDZYb1FSeGNQcERa?oc=5",
-    "fonte": "R7",
+    "titulo": "Exclusivo: OKX pede licença cripto ao Banco Central no Brasil - Exame",
+    "resumo": "Exclusivo: OKX pede licença cripto ao Banco Central no Brasil Exame",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVBWVlJHQ1FRZ0FiZ1JCdFJIdm45dy1lOUVrTXZwMUtFcFlmUjFiRFVJV1VXSDRSTEYzbl9ua2k0a1ZPTVc5ZFBaZEhoLXBCZHh3dDhMQTQxN3djTlpyTzJOY2ZoNnVKWXdYSDNLajNCOEh0c2FvNGRhTUUyNWt3czU4WjdUZVpnRXQxSjRwazlQRlAxNjFxMXpJcw?oc=5",
+    "fonte": "Exame",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "579689784a12f02ed26323ff5998bf1ae4657d6bf9e9d56cf3535b57f92fd0cc",
+    "chave": "517937825f74840db68072594fd6705a48abbb89f6432bb1dd79a45db4250477",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Prévia do PIB do Banco Central volta a crescer e registra alta de 0,3% - Canal MyNews",
+    "resumo": "Prévia do PIB do Banco Central volta a crescer e registra alta de 0,3% Canal MyNews",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3ZnTTZOMEw2WktVNVF3OWpvU0JQSjgzd2NaSDhscm5ydlZtQUc3THhqUXAySmxfbWVIc1FOWW9rMGNkT3p5Q0FPTks1dEhOX1dGZVQtY2t6Wk9TWTM4MG1tYzVVZjVkQllBYnhsZTB4bjJMM3V4R0loZ21wY1FSUzBjTzMxYWIxdWp6WG9Hd0pfcjI4Y1Z0SjBsZUVmOGdZWjBURHpHZWJHd1gtcnJaXw?oc=5",
+    "fonte": "Canal MyNews",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d10c17fed6357a1457928d60b9bc04fcef0136b058b6a1370fc37f75ad4b8b52",
     "ativos": [
       "CDB 100% CDI"
     ],
