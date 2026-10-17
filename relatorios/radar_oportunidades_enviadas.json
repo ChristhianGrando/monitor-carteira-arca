@@ -1,75 +1,5 @@
 [
   {
-    "data_envio": "2026-08-27 09:49:07",
-    "chave": "7d40064d5d0adccf858c10c49ea8a28cdcfaf7b8a18e36250087576b36d85173",
-    "titulo": "IPCA-15 veio bem abaixo das expectativas - Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtQjJDY3JkV1FjN2F5UHRvWEljRGlOSnpHdjZiQlR4TXM0VHNaUlMtRnI3RUQzSHNocy12UmZDWHFsamFsQXZNNW9yVEFRZjNwa0xZTHhub1NBQzJSRmpwZTBiaVdUTUgxN3JnWmg3TV9EbTlaTzBVdEZKdm9fUQ?oc=5",
-    "fonte": "Monitor Mercantil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-27 09:49:07",
-    "chave": "c96372ea52dd3efde81338c98a58a1d21f204ec5ccb6a5a13ffe2bc99cea5718",
-    "titulo": "Deflação é pontual, mas ajudará o Banco Central a continuar cortando a Selic - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEZzLUdjOXRLeExjek9neVB1alZYaHBIMlYtMjVGaDl1Y2FUeEVaRUZaOFdobXZsOHpGQkJSZzFuS2plNDBtZVNUVUdub0hnYWppNGoxbXRsaW5YUHZQUy14Nks4SjA5TDhLcGszQmVtbHdPZDBfRXE4d2Fiby0zdE5uXzM1eWpELVZEZWtsTlkzRGRnRWREMkRmel9FWUxqZUZ0YTY5R3J0MHY1MWZxUlpQMUxtQQ?oc=5",
-    "fonte": "Estadão",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-27 09:49:07",
-    "chave": "7b4b4f197c420067830ed1daa63bac3e05831558e88ae63f45fe894729f97915",
-    "titulo": "CNJ e Banco Central criam sistema nacional para dar segurança às cessões de precatórios - Torreão Braz Advogados",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWRfX1cwSUdUZXdfVG9ZNXhGcGgtSjVkeFRCd3dYOXlzMDNDdVU4UU96bTM5ekszbXhTLXhObUxaZFVic1VXSEpiQnBLQ0UxblMzM1QxYXItTEVYS0gwMjVsWWZjcUpwTnNzYWZrdXdJMklxZ1l3WE1YTU9XRlpKQTVkcWVFeTBOODI1Q1ZrRmszd3FkMWgyS1loRkhkVDUxWUdUSlQ4dkdJRnEtS1Z4Wmh4RDJDUQ?oc=5",
-    "fonte": "Torreão Braz Advogados",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-27 09:49:07",
-    "chave": "e4becd892aa998bd3cfe908eb900aa407e5e1a4fd9713be4c2e78adbf9fe65a2",
-    "titulo": "Banco central das Filipinas eleva juros pela terceira reunião consecutiva, para 5% ao ano - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZzVLalhLY2t2X241NVZhSjJyZGFoMlliS1QtMGt2NGRqRGF0RkR5QkYtSDBwUXZ2VnRFd20zWUk1c1ZUb0g3OW81Wkh1YTlaN3JqaFBLd0pTV2E0ZkVkZmx4MHo3aTQ3UmotOFRicnFHaHVNRnhOTFJMaFlxRXlUTUp2NVdJSndQSFUxNEdfMnotdmR2eVd3TWs5S3BRczY5LUhialA0SWwxOEtCQXQ3bXQzNUZjUEMzcVAxV0JlTHRaTi1ZZTUzRUxMRURKX0VUYkxKN0xZemQ5bW03R3d5azBneUNEM2fSAfYBQVVfeXFMTV9ncDRCVllaVFF2V2xGMlBCc1dTT1ZfOU5DLXMyem1uUm9YbzlFTU1kVDRic2EwTHdOX3k4M2t1bG1EYUFpRnFocmlkWHh4SWtFOGZQakRkSU0yTHEzcUprcWpsYS0wcVViZXNMbGkyQVcxaFk1WVJLVHg5NFRneW80TkpYZ2cxMTVMTEN5SVNpTkVsTWpGZmdsUnR6ZXRPV01HbjFISmVvQzdvY2dzeGlDOUdQYjU2MUtsUFA3eUZxQnNXS1JBb3E4TDdncWNsUkp2WmtlekdLU3F2M1lJZnlGLThHSFVCSUxFTWFfSUNTcU5YbWtB?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-08-27 20:30:45",
     "chave": "6fdf0d847d41863c947d7a29a15555b5e79da898007abed819c12c6b76e8d009",
     "titulo": "Vorcaro vai limitar depoimento à investigação sobre Banco Central - CNN Brasil",
@@ -17455,6 +17385,72 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-17 19:24:13",
+    "chave": "0565e5affc436d7c1f8dd6e2f117de027adb474ad6967423ca1fa87a9d9eecdb",
+    "titulo": "Presidente do Banco Central da China diz que apoia supervisão mais rigorosa do FMI sobre riscos fiscais - UOL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdUtWSmIxUG5SU0tkTTBUR0MyUUZNM20xclVRQks2YlgxQ2Z3T0Y3V3UzVWVLT2hpTjZQU2Y2Q3UtUGVTMHlHcUlFVjVCOGNQMF81NGZHdlpCVDU1cEFGUFRrM05zR1JYQmp5bmlxQWZDTjFONl95dmFjdmR1VkhzYTdLME5tbkN3c1BlUENOYmRVUlFmdUdFQU9aNWFsR2FpVHAwbTFkSEdLc3NLZHdBWHJHekdfY3hVT1BNRnpGSHJJeklaTUxxWFIyVzU0eVNxbERQR1FvZUhuQVVLU3BmX0JpV193UWR1cmxaTW15SGU4aEM1Mmg2SDVBaUxtcy1l?oc=5",
+    "fonte": "UOL Notícias",
+    "score": 17,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-17 19:24:13",
+    "chave": "c21fe80d95442969d48183ec5fed5626a379afec84ebd38b8178d4b03b6bf66d",
+    "titulo": "Presidente do Banco Central da China diz que apoia supervisão mais rigorosa do FMI sobre riscos fiscais Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQclZ1ZVhVTkxZZ3Q0WmhUeTZ3ZTZISHVfSVl0M2toUy15WFNWVjhjeGxpdmJDaXdVN1AxWW9QQ0JxNnF4SDFVM1hSdkFLZ2lGTTE5bUhob29xWmFWVHBhb2dpeVZIQmw1MGdhSjJ1WVNMcDZGVzJxcUh4S1ZiU1p4Mmk5Rzd2dWhhWmx5dHpfRFY1bzFZbkMzMU1jWEdiXzlCb2RKanh2SVpBUFFseW42UHNuX0RJNnhKYXFpWWxSczRaRzhQa09XNkpZcDlUOV9FZzVPUnpycHViWUlLTlVfTldfdERMR1E?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "score": 17,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-17 19:24:13",
+    "chave": "b0ff16687f43eeb78e615f038bba2eef6cc5d23fae1fb0dbc49a506d20f7b8dc",
+    "titulo": "Netflix, Tesla, WEG e IPCA-15 movimentam a semana antes do 2º turno - Exame",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHlrX1k2Y0ZHOWJKamU3Rkh3dDBBZmYzeEJMZkNHOHJ1S3lZMllxT2N6ZlVzUDlxVGZ2UnRrYUN0OHJBTkt2Y1A3Q004SndaY05Rd3Z4Z3VYSmdaTHVDbWNvRl9BODhEUkllZ3BiU3RLdVNjWlhoOXlodll1VlFQazNvM2ttdlJaeGhBNTFCUlVaWjVWRFpCS1V3Z0sxeGotRHc?oc=5",
+    "fonte": "Exame",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-17 19:24:13",
+    "chave": "96f9761de686389655589ea26fabc540c4e796ca044a3dfdb457332b81ee8a2a",
+    "titulo": "S&P 500 abre em queda após resultados de bancos e sob peso do setor de semicondutores - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY1lJT2JSa0NfNENqR2tNYUJHN3dwbTBwMGtCZXdHYXVxVE9qX2pjMkVqOF9HM3ZhNEpEdkdWSXRpV1Vjb3FRcWZmREdCYUp2VUZiUUVJUEJVbFJuWC1CRFlOUWZWUnBKU3ZWazdmUnQzaHUzaTdwMHV5S0daZkpLd1ExZzR2TXpGNnB5UkZWeFNFbHB6d1VaanFPeHVCdjBPVjFkdkJsd1BWVnE3Mk1NYVRROVNMRjdIMXNVeFFHZUxOX2JHc21Cb3BiNjJfdUVNdU1Pd3lZa1dEeDhr?oc=5",
+    "fonte": "UOL Economia",
+    "score": 9,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
