@@ -1,27 +1,6 @@
 [
   {
     "data_envio": "2026-08-26 23:33:37",
-    "chave": "cb2240e444cfee34a5588ad542dfd2e1caa71533cba72c3f1bb40b5fa7600006",
-    "titulo": "Ibovespa encerra estável de olho em IPCA-15 no Brasil e PCE nos EUA - VEJA",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSl82QnN5NGRrMGR0UjJFaW1ZbkZCbzRZWXU1b005UFFuLU9MTkpPOVh6MExtWHU3Nkx5WGVFRWpraFphei1YdXI3V3ZLOFlnUThrOTh6cGJ2bzNOLWVoOW1qREU3LVlkWUNXODk1bWJDa2xueUNia01EdGxkbDZHQWczc3J4MndrcDVDWS1fcXQwUnBaSzdaazhVQV9qc2lWUzA3MW53?oc=5",
-    "fonte": "VEJA",
-    "score": 13,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-26 23:33:37",
     "chave": "dea216ac95e93f87392094589644ce1a2a7c583cf9c447105b4b529f995a2c56",
     "titulo": "Ibovespa B3 oscila positivamente em 0,01% em dia de prévia da inflação; dólar sobe a R$ 5,15 - Bora Investir",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRC1MdkdFeVIzcE1ObjdpZDhhLURsbWNZa0pYc2MxU1B1UDlNMEtvR2o2RkdEeUtjTU8zNnJTUVNQZEl5VF9NNGRzc1VjRXNDc05tZHJVUWdZaTNXb0s0VHZiWVZFMlFfZFEwdlBtd3NZX3dQTTE5UlNhZUJIQXRPbS14dGJqZnBMWTBjbk55MXE3bndZbWllQm83aGJKR1Nwa3FLZEs2RVVpQUJ5eTF2dlNaT2xWdTZtcVJyLXQyOXExblo0MUNQMTAxYUdyc2M0aGc?oc=5",
@@ -17465,6 +17444,21 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-17 09:21:43",
+    "chave": "579689784a12f02ed26323ff5998bf1ae4657d6bf9e9d56cf3535b57f92fd0cc",
+    "titulo": "Prévia do PIB do Banco Central registra alta em agosto - R7",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnJaOVZLdUdZbDg2T2ZnR3E3TmxMMlV5VUxGOTAxVHRWT3N0MHdMc3BaNS13VlhFWVNfcGk1a3AxcG10TFBVRnV2anRqVzdtQjlBNmkybV8tZjR3SGgtOUIyVWxDcUxabElncHJjLXR6OWVvOUZ4b2h4YVpCdkp5OEhCSlJSZENjVEtnTUMyUjRsbG5UUXUybUFlWUw2Sl82a1hpRjcyMGtoZ1VNQzUtaUx3QmpURExDMDZYb1FSeGNQcERa?oc=5",
+    "fonte": "R7",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]

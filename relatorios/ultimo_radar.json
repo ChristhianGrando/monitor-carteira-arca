@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "titulo": "Prévia do PIB do Banco Central registra alta em agosto - R7",
+    "resumo": "Prévia do PIB do Banco Central registra alta em agosto R7",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnJaOVZLdUdZbDg2T2ZnR3E3TmxMMlV5VUxGOTAxVHRWT3N0MHdMc3BaNS13VlhFWVNfcGk1a3AxcG10TFBVRnV2anRqVzdtQjlBNmkybV8tZjR3SGgtOUIyVWxDcUxabElncHJjLXR6OWVvOUZ4b2h4YVpCdkp5OEhCSlJSZENjVEtnTUMyUjRsbG5UUXUybUFlWUw2Sl82a1hpRjcyMGtoZ1VNQzUtaUx3QmpURExDMDZYb1FSeGNQcERa?oc=5",
+    "fonte": "R7",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "579689784a12f02ed26323ff5998bf1ae4657d6bf9e9d56cf3535b57f92fd0cc",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
