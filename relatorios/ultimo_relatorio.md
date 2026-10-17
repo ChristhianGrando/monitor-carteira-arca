@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 16/10/2026 23:04
+# Relatório da Carteira ARCA — 17/10/2026 14:28
 
 ## Carteira monitorada
 
@@ -13,131 +13,131 @@
 ## Resumo
 
 Notícias coletadas agora: 50.
-Notícias novas, ainda não enviadas antes: 45.
+Notícias novas, ainda não enviadas antes: 34.
 
-Foram selecionadas 15 notícias relevantes para este envio: 1 de alto impacto, 12 de médio impacto e 2 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 0 de alto impacto, 5 de médio impacto e 10 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Dólar cai com escala 6x1, pesquisas eleitorais e atividade econômica no radar; Ibovespa sobe - G1
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: G1
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE9NWm80ZFlwMFBuTVN3cE81NzBkYjFhMHJwSkxLU19PQkhvRGlqb0NhaUk0RGRHN18wb1JKTXdBSkl0d2NvRWFWTUZmVHk3M21IWFBYZmVvMFN1U0RYNmk3MlZac1VWZmxEdDhZbWhEMzh4TWdwM3ZSQdIBhwFBVV95cUxQWndvRmNxdkphaGRqODZvaWlBX2ItZ250bm0wZURuTkEwTFl4ZGJzaGktdmN1TDYya19FWExSTm4xQnJWYXc3ZmF5Uld3cVhuQ0E3LUx0eGJHTU1odE9tMEZBanRSVnBONzFYN1AydHhqa2NaR1ZfU29DZ1NqRmhzZDZQY0x3Zlk?oc=5
-
-### 2. Ibovespa recua 1,74% na semana com pesquisas eleitorais; veja maiores altas e quedas - Estadão
+### 1. Ibovespa devolve ganhos do 'trade Flávio' e cai quase 2% na semana; Prio (PRIO3) e Vamos (VAMO3) são os destaques - Money Times
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: Estadão
+- Fonte: Money Times
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNekgzOU9nUXVZWUpmdzFuQ1ltN2YtQUJTYXZzc01uZm1nQl9uLURFcE1sejI3U3ptSW9qeU1aOWRHZWt6cFpJYWdjTjdsdWtLVzBiUmhwVjB6VjY5QXR6eXJ3djhEMExzeW9QNGY1ekYyellYaEdiVzdIS3B1bGgwMmItSS1VMXFTR0tlZUY0TlNkZkRLYWdXNmpqWUt6NWRuUUZFdGR0a0JjNDhPMWstNlpTdlFSX2xJaHJSMm9SLVFFWjdCb2VBbTVUQ0VPREdGM0wwdkcxWHpKSVhQX0VtWi1R?oc=5
+- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE1hMVpkZHgxMnVhMTVOM2ZhQ0FwLXRnMHd4UG94U0t6VnFsYWU4ZzlVbW9nbnBMLUc0NXp1ZENKRmpXVFJGX04zdUhnT1NMZ3Q1TlRHeVZUOFNvQjdyREJHRExrRjRCc0hZNWtpUkNCY2sybnJUNHc?oc=5
 
-### 3. Ibovespa volta a subir depois de três sessões em queda de olho em preço do petróleo - VEJA
+### 2. Ibovespa fecha em alta moderada em mais um pregão marcado por pesquisas eleitorais - Notícias Agrícolas
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: VEJA
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYXFudU5IWGZPUXJBWnhSd0JpNEk3R2Z4VE51THNfQ3EwSWtTMHdxT0E0VU5SY2N2aWNoWU5YS3NvZEkzZnU1dW1KMGs5UkRidFlhdG9vMTFfLTlQU2JZaW1Oa0JfNGJhc2JsWUx2Zm5DVnBwNm9TTDVDLWJOekM4cHdrNlZSbTBqM3dxZW1FQkp6dFlkbWxydTZLNVAwMmEzenJyNzdGME84b3VUc0RjZEt4alhKNG9LcUlN?oc=5
-
-### 4. Ibovespa escapa da quarta queda seguida, mas não salva a semana; PETR4 dispara e bancos pesam - Suno - Investimentos Inteligentes
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: Suno - Investimentos Inteligentes
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0ptbEZCMzFlaS13OXd0LVdZaDFjVWlTcnFfM0R4MFlReDBlMkxyMm80QmN1LUU0VTJQN0F3Z2hlOE1PSzRFNnBtQVpLMS1Tanh4YTRUUUNhaXZtTUZkRW1tb1FtR2VjZFdyazR6REpsNUpINFBHM0p3aTVsWEFnUzFiVXFELVXSAYwBQVVfeXFMUEhMNUZwVFZpaUpJemNxdHBieERVelVWcmp1REJDekhTUHpoTzgzaVhnNmVGZlZzckhlRHV1eUpobXRTYkdGT2FfdTlJUFhiUEtMOG9ENjc5U2w4clhqdmNCZ1BndVQ2ZVFnaTY4MExiWUl5by1kcjAzZnRHWUxNWDFKdTFKWXR4eFhUMTY?oc=5
-
-### 5. Cautela o Ibovespa sobe após quedas e pesquisas eleitorais - ES Brasil
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: ES Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE9IenZodEQ0Tm9zZ3VPMmtoVjByOVA1TG41Z285X1dWWXhCVmp3aGpFT1lGZUNmVkRaMVQxMGVHRUFKekl3MUgzcG5kZ08xcWdvYjhIVEhxZWprM1ExcGZDb0xobWE3SU5yRmZZSzVHMk9uQUZhbTdjbA?oc=5
-
-### 6. Ibovespa sobe nesta sexta com Petrobras, mas cai 1,7% na semana com cautela eleitoral - UOL Economia
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: UOL Economia
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2VrOWN6UkFObFh6aDNXWC1FMnpLVW50TnkwTlV2QlVQUkcxWV9hMVZxbzVwSUNGY29xazBJT2hzbTEzSWwyWjBZY0JzSFExQjN0N3BKOXZqUUFrZ2NMLXB1UW0ycGwxck1wTDZyc3NzcXo1eFZSSXEwcC1ROTNNTlIzUG1lNDhFMjlfbVExYmdiTm1yTWFjV292UmRyYUpjQTM2MUNsZDRaYVp3dXctcDE1TXMwU3pla19qamhHVHBBTUdGTGtXQXpocE95MGNIdVVTYkdJZ0ZZdTJIWmdxQ2JQUTlPQQ?oc=5
-
-### 7. Ibovespa sobe com Petrobras, mas perde 1,74% na semana com cautela eleitoral - Exame
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: Exame
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxObWJ0VW0tZnZkUWVNN3JURlg5V2RpRXhMZUp2aDB0MlFqMGdhWlZJQ0RCRmdJZ1VUaktHQnVqM0NDX2RUS2RDbVFSTkVPRDllRVZab1NLTUNHUEgwOHFRSlBteFpJaThDbXhCb2VrMkZndGxsVV9nVms5WWV3Ti1yNDZfYlplNEVQQy1IdnVKWTlzOWZDM2U2bExjekhLaVc4N3dNajF6TUpUbXdw?oc=5
-
-### 8. Ibovespa sobe com avanço do petróleo e disputa eleitoral, mas fecha semana em queda - ADVFN
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: ADVFN
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkdEZk9TMVFBSUdjMHZTZEcxc1JXbkxjcUZqVWt6bmc2MDNaa011d0pDaG9waVFHNm1BNnZKNlEyN0pxVE13bUFibER1MTQ4T2ltakVhMHM2VXViaVNhSWt1YU54M0huRGhNQkFTUjZNQlFYeW5qN2NKOFVDenpmdzlkc21kQXFMcjhMNVRSNklKdWNKN1ZRZFhVTHRXcEZYTnBmbTVhWTlDVTk5eVhYeEx3aWZJMmRmTFE?oc=5
-
-### 9. Ibovespa pode subir ainda mais? Citi vê sinais de uma recuperação que está apenas começando - Estadão
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: Estadão
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd0hoelJtYWtVRURWUWFpeDJGWjhIdGlvZGdqUlpHNU5LTHlsOHprS0JjNkVfZzVpY2hkdlVTODdpaXkxcEJLSGZ0bFg4UFJTWmYzdG1Ka2RpQUs0NnJsV3NYNUh3RU9wdm94d1NCRkF1VENSQnRvRzVrRGJhaTVHR0Q3RFNfUnZzYTlvaVJGUFQzbmJNWTFhN1ZCb1EwcHpyM0Z2eU9tdGtYdmw5by1oM3BWSlJWLXVPbU5UT0gwM2liNWJXODVtSEVGOEFvNTlmT19yUnhTbFZYMzF0RU5iZUF4MC11YXNINjh5RWNB?oc=5
-
-### 10. S&P 500 opera estável, com ganhos no setor bancário compensando receios sobre IA - Notícias Agrícolas
-
-- Impacto: Médio
-- Ativos afetados: WRLD11
 - Fonte: Notícias Agrícolas
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNei1PU0tSc2hmLVI2OEw5WlZGN1FhYWx1WXR6dGlxamNfd3Qyc3ZiamtKTkk3dzBJV1FoUmo4b28zY0xPR2c2QjlSdGlWR1pwMnBlVjhMODQ0Z01oeXE2UURyREpuaENLNXBRZjFKdVJfaHZ3NUNhdVJ0c0lLd0xndmZqeDR6Y1F0NFI4QURpWVVDWXVMeGcwS0VlNVRvSzV2a0JMVTBoeHpab0xNNFZDRWl3VXBURVBlYmt5ZDdoTGhjclFwWUkzN2xSS182eVJ2TlZZLVZMZ0txMlp4VGJfbG1fVTNMZzRZdXBGSXlPTdIB7wFBVV95cUxNei1PU0tSc2hmLVI2OEw5WlZGN1FhYWx1WXR6dGlxamNfd3Qyc3ZiamtKTkk3dzBJV1FoUmo4b28zY0xPR2c2QjlSdGlWR1pwMnBlVjhMODQ0Z01oeXE2UURyREpuaENLNXBRZjFKdVJfaHZ3NUNhdVJ0c0lLd0xndmZqeDR6Y1F0NFI4QURpWVVDWXVMeGcwS0VlNVRvSzV2a0JMVTBoeHpab0xNNFZDRWl3VXBURVBlYmt5ZDdoTGhjclFwWUkzN2xSS182eVJ2TlZZLVZMZ0txMlp4VGJfbG1fVTNMZzRZdXBGSXlPTQ?oc=5
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRV9acUhQSjRDWUJhVmgzczhSemtVVDdvdFFGN1JQRHhKdGE4Tmw0R0E5VDBfcjJBX211S1pkS3JiVnkwblBLMHlWT3pSUW1na2ZOVjBwNXFfTExQb2VXRzJISmZueUNoQ20yN01lVzBkSXBnOEFRWVIyMGR5ek01dF93SGg1dFZhMVhqdG00OUdTT3Fhd3FITDl1eDhXQjVrbndqZjgxTVQ5aHgzNE9UTUtRcC1FWWNuSFBzeUtQMjQ0bmlpanprTVRWcFVwZEhuRXF4ckk0YVBFT3NNaFJOT01BdUkxcWpDYUItWDNHUdIB9AFBVV95cUxPZnBqcFBVemQyZ0N2cjVCRjNMS0l0dTdpcmQ1MXNMWUlQa3hlVmhWM3BHVEFlVVRPMVdsT0VKZVB1WDBjaUcwU1hCdHFBRVVjOG1TeENtdVVKV3B3aUY2Tm9KZzRTTHpERW5xelVPUWRjbk5ucmJwdUl5Q1dqQ0tBWnpEOEdnSG9DSUl4c19uQkV2X3lZVFQzV3FSUWR0RjFVd0RLcFp2OFN0U25kVEhCZ0NkWEo3R2Y3dklxU010Y2pCajlrekwzeUNFd3Y4cXB4dzI3SVA1RTY5WXVZV1pzZ2lXQm55MTNvM2YwclZ6b2t2ZlVG?oc=5
 
-### 11. Por que o SPDR S&P 500 ETF Trust está caindo hoje? - Investing.com Brasil - Finanças, Câmbio e Investimentos
-
-- Impacto: Médio
-- Ativos afetados: WRLD11
-- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPa3owUzh1VHlMQWxfay12LTlIb0VhMnkwaDdra0I4c29mZHFxQ054ZnNGcUhaUEtNa2otYjd1Y0hYVTlzQl9ZNFcxSmIwWF9VWlRWUTg4bWtiYloyS3V6Zmp4M1dBaXNLcTlVTW9XZDd2djBjSVdsMWtobUx5aUdURDlJTDU1a3B2dkVJNG5nZU9oOGdjQkhodEk5dVV6dGNKZENwMC1wTGJfR2lNeGc?oc=5
-
-### 12. S&P 500 e Nasdaq devem registrar perdas semanais acentuadas, à medida que o nervosismo em torno da IA abala os investidores - TradingView
+### 3. S&P 500 nunca foi tão concentrado: 10 ações de tech explicam 70% da alta do índice em 2025 - BlockTrends
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: TradingView
+- Fonte: BlockTrends
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5WOXdYaVpHb0Q0UUFpb0dweUpuVm5MU2E1OG1aSDRPZEVPSDNOM2RnUVY2UHIzdTZxenppblZvczdIWGNFUHJzLVNERGZtUWRTM0gwQkk1cXdPa19mRWFaRWlUNnJMUFFmOU5wc1h1VFYxY2pVVWNv?oc=5
+- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1mQ0VPVUpqMk16bWRQUzF3SGRPMjhHV2NfNFAyek5aQjJhOFpsRldmVklBTDdFemdGYlR3ZkdWdXFJZno1YWNEMENlbUFZTDRFUzJ1aG5mR3NsaGNON21SXzNNWV9oR3RXZ2JPdUFjbGxKSXZIRGN3THR5bFN1WDQ?oc=5
 
-### 13. Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2% - InfoMoney
+### 4. KNCR11 lucra R$ 120,1 milhões e paga dividendos de 1,11%; veja valor - Fiis
 
 - Impacto: Médio
-- Ativos afetados: WRLD11
-- Fonte: InfoMoney
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQX25rVFhES2xoTjQxb2taTV9PSXg5VVZ6eERETndOUlMzOEFRQzBiMC1pWWNmWVdSM2VDWjRDdjhGeVdYX09jcVIwRlRMOUZ0elp6R20xUzZqVzl1N1J0el8tTXpRMzdmeHVFMzVjSkhRX1QtUjJVZld5NmVVNXZxTmZ0Z1ZZeDRvdHNXUU96VmNPUUQ3VWxOQjdSYlAtd2ROVmM1ajd4V1dRVnVRTHRHNNIBtgFBVV95cUxOTktMcER1U3ZCV0RsUHBZdGhmeEp4ckh0OEtjZXBLd1BJTFBUeEl1d0UwZHctQy1ralR4NDdZSTVNOGQtMmJwRXRFdy01V2xxdG1IT2JLTl9BQ2p1Tjdaa2FtcERmUGd4QkloclJCS3FFeENXTjFXY3lwYmVDOVZETXV4eUVBU0l3R2RWYjMyRFNkSm4wYXJsSm9Na0JuNUpOLXNqS19aNkt4WFYyckZoZkY0aU5VUQ?oc=5
+- Ativos afetados: KNCR11
+- Fonte: Fiis
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxORDBhNVJLazcyN1FRS0RCcTA1RDlYRjdVN0xKN0NnejJoYXlnOVA1cXhHRnpFUm5iNjVqYXBMX3FEeW1LS3drUHdYQjI5UTlKbUtxYk50aUQ5WGJRM3p3aldGWnpRaGZTd2RvU1EtdnNFaHVUS2p1aTBCSTZhdkJLakhVTjB3eDhpRF9OMTVUdF9QeGtwSUpJ?oc=5
 
-### 14. ‘S&P 10’: a concentração inédita por trás da alta da Bolsa americana - Brazil Journal
+### 5. Exclusivo: OKX pede licença cripto ao Banco Central no Brasil - Exame
 
-- Impacto: Baixo
-- Ativos afetados: WRLD11
-- Fonte: Brazil Journal
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFJxS2ZyNVB4QWtveU4tLXlTMFVoSTlFdXVIRXVrVWQ3cmFDR1lGcVlZMG9TaUpxUEdOaFZmdHB5aDZqU1F3d1JFVzgwTDZ1b196a3I3R0ZZWjZTWDl6NTRkelNrRWJvM2VHRVpmQ0JkMW83SU9XS1RBZmlIUG8zWWEzVVhsc19heXRjcHBtX1dFQWh2LTZSdy1Law?oc=5
+- Impacto: Médio
+- Ativos afetados: KNCR11, CDB 100% CDI
+- Fonte: Exame
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVBWVlJHQ1FRZ0FiZ1JCdFJIdm45dy1lOUVrTXZwMUtFcFlmUjFiRFVJV1VXSDRSTEYzbl9ua2k0a1ZPTVc5ZFBaZEhoLXBCZHh3dDhMQTQxN3djTlpyTzJOY2ZoNnVKWXdYSDNLajNCOEh0c2FvNGRhTUUyNWt3czU4WjdUZVpnRXQxSjRwazlQRlAxNjFxMXpJcw?oc=5
 
-### 15. Tesla e SpaceX lançam um carro que voa - Brazil Journal
+### 6. Tesla Roadster: Elon Musk apresenta carro voador e expõe o erro que pode estar custando milhões às empresas - Jovem Pan
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Brazil Journal
+- Fonte: Jovem Pan
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMickFVX3lxTE0wRGdPZUFXTVd2UnpDd3pTWVRYM29uLUdRbWk3RHpIMGtHczVQRVQ4OXhRa0FJT0xUaXVRc2taUExhLURIUjJWcjlIRXI0aXRZZkt2X0JhcDV2VmxEUUZvQ2hvdnVwRWlqZXlXbjV3ZHJzZw?oc=5
+- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2RSUW5PY19ueDVjZ0k2V2N5eV9sT2pqS21icW1KOUltZjA1eXNzd1lxRFJHaGVwQUV1dUFMell0VGw0RzdhYnBwZmhjWElTbW5lSElhU0JZU2VIUVdZR1NSMklyMGlnd3VmLWJLN2lhYzRMaGVFLXd2alFrYWVtZWl3UkZQWV9XdkpBVlc1M0V5bDNPQWJneGhkUG1EeF9JbS1wOU1JNGllbEQyWkZhZElmVl9KMTFnWjFaNC1EcDJzVDJQQXFBeWRtNjV2OUZ5ZXRvUFVQTEVpaDZfZWN1SmhrMA?oc=5
+
+### 7. Um carro ou um foguete? 😮Elon Musk apresentou a nova geração do esportivo da Tesla, o Roadster, em um evento nesta quinta-feira (15). O bilionário pegou todo mundo de surpresa quando fez o carro “voar” e dar piruetas no ar durante a demonstração. “P - Instagram
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Instagram
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKSEtIYUZ4OWFoUkZwTDF5V0NyaEZIcUJIel91UFM1QWFTRVo0NmJXSk83MGJPSTloYXdYUmhRLXBUMnAyQ1lEcmVRbmcyY3NSNUcyZW1n?oc=5
+
+### 8. Ex-namorada de Elon Musk diz que recebeu oferta de US$ 40 milhões para não falar sobre o bilionário - Folha de S.Paulo
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Folha de S.Paulo
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQzZONjRDWDNqczM1QzZnSXFzTlJLVEp4N25KMFZXZUdhQnN6cV9qaWNTb1VENFhGOUVqcWdhWGlTVG85VzFyTzhCbkpzT0FUV1paZndBVW1nYjE3Qk96a1ZpMFB2bkRZMkx5WVdISFVkc3ZOX3NzRVZYeE5abFRkQ056dWtCQ2tPUzQ0OUh4b3JGSWRuTkhFTThvaEtkZ1ZYck1Ccnlia3p1SXNHR0tBcjlHdjU4ZktoNXVRbTB3MjBNT1hIZzhYdm82Q0t6OWVxdXZFdlNTNEZHN1A4RXlCcVJIQzY?oc=5
+
+### 9. Carro 'voador' da Tesla dá cambalhotas do ar e aterrisa como um foguete; veja vídeos - O GLOBO
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: O GLOBO
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeFowY0tVbjA0c1lWTFV5UzNJQlRzRXBYYVNXY243N1VjTEpYWGtjOFpTcjBMcEhxS0pjZ2pfZWZMcFNBcHp3ZkRWaFpzNHhlcHNsSndlT2IxLUdyQS1FMnFwbEtUSDBJOEstQlB5ODNmUjRGek0xNi1adzI4cDViLTRaUzhyRlZrUUpTdF85UUhkYnBtSG9pUTA4TnNrelpIcGF6RW9CTFg5aVUzQ0NiRHpkdjhqQUY5Nk9pZ1YzTlFZaXZVVHhOQmdWRXBOOWFkRUhhU3I1RdIB5gFBVV95cUxPaEt5VC1hOUZHM05OQXRPM3JaTkpfYTBEU2I4bHdQRjAzU19jck9IWVVsNV9DMHplMHZ1SEVHSVBWcUY4ZExDSGw4c0VGU0gwNGVVTHJCZ2NMRjZFTUVFZHNDNjhzSTc3bXM2bHlsWGZIWEFFYlZVNHk0VnJSbFc2VFpYZ21DS28wQ3gtQk9yUXRxRXBjOWZxdE14dzJBMzc4QXlKZjVqV1AyenhJRlFHOFBpQ1YzXzVkNzVsZjNYMFVVTFNuaEFyaTM3MFM4OEN0U3poUGlqMHpqNnpuM1R3SkpmVnZYZw?oc=5
+
+### 10. Tesla apresenta carro voador de Elon Musk que promete manobras no ar - band.com.br
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: band.com.br
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUxOVzAzeGRYVXRfRmhBSGswTVNocVV1emw2bEZPS3NLX1ZmQncyRUJ4Xzh2R1Z1Rm9QSGxPaVpTZlZ4YmNxT2JyR010Sm9lUjRFblZqSHBJc3lyTGN3aFBPTEhnZDBWRzNfeG8tM2FiVURUTldKVWlibDFFWklteUNHRUxkRFpXRGFxV1Zrb242c0pUenRoQkhLYkNpakV1N1NiTi1sN2pZVG9lMGNzb1ZzZHNLVll4SXNjbjRn?oc=5
+
+### 11. IA de Elon Musk recusa pedidos sobre Lula e atende os de Flávio - Poder360
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Poder360
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWZhdUs0UWhXaUNDRUF0NUgtRE4wZWdJM1FFUEJlS2RCczUzYU9wQ3JlSVlfRk9rR0hOYkUxOVQ0Ym9ET1d6YjlhX1A2cjR5eF83VDFQNnVRTWs1MUxOcEdib2xFcEFYdU5uVFZSamZiQlZfZUtxX0pyd3AwMzBTRWRFRl9jekE3TEpIeXFXUVVLSUQzQkNpT3JxYWxsc3NxVDFfbDJHaUM4ZFZXMGZUemNB?oc=5
+
+### 12. Starlink: saiba quanto custa e como funciona a internet de Elon Musk - Estadão
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Estadão
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGZVYm1ZZE9TZ3EySXpBZUw3SUpZTGU3bVR2VWRSTWYtN0REdEVjcXI5S0NTOFVKaExkWV9BS2NBNzNMRnBxblFPYkRkM2JPSEZmLV9LLTF1MmR2WnVFOGt5Y3RRTE5rcnhGVG11MnE3dDVDazY2WGNWa1lGZG5Tdm56dmpDX24xbEVqZ3BEYWQ1MmlUaU5rZ1NEcmZkUG5nLUxfMDR4NlFMQQ?oc=5
+
+### 13. X, de Elon Musk, defende vídeo de Zema com IA e rebate acusações de Lulinha - Metrópoles
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Metrópoles
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pNUTBZaFhUOG03eFNEMXBhMy1tMjFpZHQzUWRBYlg4dWZfVk1ZaVF5emp3Sm82Tml0Zm9nVUxpTUVpUXVIQXdQajl2Z2ZJUTlLMy13Tk5RSjVSZHZZTWNzS25tUmkxb1dLazNuVW9FSnM1Q1V4UG83R1hwd01VTDUtdlFMb21ab1N1ZWNyWmpYNm4tQWRpUVBGSEJ6WEFrWHozV2dWeG16d0lydUpvc2NmSFRsUHpIdUJZb3lQN2VKOHlT?oc=5
+
+### 14. Musk apresenta "carro voador" da Tesla que gira no ar e anda de cabeça para baixo; veja vídeo - Gazeta do Povo
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Gazeta do Povo
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3dDMXJ4RWwtUmE5cHJyLTM2T0prUXdnRU4ySXZjb0ZOSURGVzNNTTR4TWNhWFJkUEFwT2NzOVFobDZDMWt2X3RfZ0FoclQtZm1TSnZfR25kLUE5akF6V2IzT1ZraTV4Y1l6dV9XbHNCd3BIeV92dVlkaUZmdXpIOG1KclRiSkNvbjBjeFRPYmNIaHZXX0dMd1U1alU5cGFjWWxBeTZUZUYxZTEzZl8yOWZCWFpLdHNzaW9GaWFsaTI?oc=5
+
+### 15. No 1º aumento em três meses, 'prévia do PIB' do Banco Central registra alta de 0,3% em agosto - G1
+
+- Impacto: Baixo
+- Ativos afetados: CDB 100% CDI
+- Fonte: G1
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQckxlUlp6dXZwcEJMRGpfYzVzeFVWd2gxMFNyRlpoWGcxTVhFQXBuODZJUHFiWjkweXJzcVI5RzlaNW1GeW9sOUt6VER2cU90UWN2ZGZsZDR0VGRXc1l2dGRJX2plV3lEbUVnVU5sQUM4eUVQcmJZYk9tbE91NWJEMmJrUDV1dlhQcE1QLWRkSUJOQkl5WG1RV05jZ010eWUzRWQzeUNrVlJxZUlmVmxHcFNidWw3c0ZqV3hrbU1xZWFwZ9IB0AFBVV95cUxOaGgzU3dTMmZWZUVNLUZUVHUyS2owQ25mLVEzb0trR3Z6ZzZvU1NSOXBQTk9ZbTYybVAxUW5pZ1NYQUthYU9ELThqeG9BWXFrR1VQaWxUSWdoMWxaT1ZCa3p0cjJTMXV2Uzc5dVlEQ0xVdDBrYlR6TkJKNDY3bi01THFFd1pPYnNieTdBeFgtdXpZMFIwcjdoVUtQcTJQMUJQbXRQM2pxYlZwRkhWOFBJeEszQmxlY3JwZ1lJU3BFR3JtSFdhN3YzYnd4V2U4cnZV?oc=5
 
 ## Conclusão para o próximo aporte
 
