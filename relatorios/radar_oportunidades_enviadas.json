@@ -1,23 +1,6 @@
 [
   {
     "data_envio": "2026-08-28 05:24:35",
-    "chave": "49d46abd36de09b01c99fcb63a6123d2216a16457081156d029c38079f253189",
-    "titulo": "Argentina classifica EUA como ‘principal parceiro estrangeiro’ e aprova reforma do Banco Central - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbklrWTY0R1NzaHlpaUUxWHhSYnpTamIyTzVwelhLVDFMQk5xU2VlU0J2MFFCTmN0cTQ5end1N2YxSnhBdUZ1NGFUUTRmRWp2T0xoVU0zTVY3SXpLUkFaLWxqWUtFak5QOHF6REJYeVMxOVFWOVhTaEJBUTllQVowbXdDZm0zVnloVmtnSFJ2YmZIbkxTbDVsMFFvSGZORk9SWGFTbnRXRWhUM3lUQU9oT0RTSmp0NzFHV3Rxa1JwdHB6T3dKTTJQWXAtRUZQQkRQVE1BbA?oc=5",
-    "fonte": "Estadão",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-28 05:24:35",
     "chave": "420df8af0cd5d1ea32b15f1e0b14501c108ffc0f664f4c8a39263590d8a53bce",
     "titulo": "Milei destaca relação com EUA e avança reforma do Banco Central na Argentina - A Crítica de Campo Grande",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVjZFQlE1bEpzU2ZYNVR5TTJkRHU0Uk9aVmVDN28zM2h0bGxZSVNaWEQ4azdFTF9RR1UwZGtLVDFJcUZVV2dZTEVsMFBHNGJZR3RKTmE4SjB1X0Y2TEJPNHBHdFdCc3NpZUV6Sy02Y1hFNGdJdjU2d2NFSkpJel9HZlBRdGQyNnV5aFBXdHhGY3NUTVNhRkU3bHBuWTFPRlFlUTJDaFptWmg0M0E?oc=5",
@@ -17448,6 +17431,24 @@
     "classes": [
       "Ações Brasil",
       "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-18 18:05:45",
+    "chave": "36cb6b47866940183fe6735ee5ab31ab2cc7c0f63aadf1e18d6af4f960b9f4ad",
+    "titulo": "Análise: Crise EUA-Ucrânia se aprofunda em disputa sobre Starlink - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0JrekV2U0lhMnQ5aUlfeVBjamctNG5ZNHNxRk1qRE01LVZ5XzlZTzh4WmJmUWlpTTdrREVnWE1GQkhkbUdvQUlFRDJ2bVRhRFFlMVNxaXFkUlU3ZzdLYmNWTUJDLWpCejNOdDBid2pHbXdiclB5cmtRcnRfMDBHQUlhRWxQc0t6VEtPTkp2N1pHOXdpRTJVVmlPanNBUEl5UkNxQlZIQ21fSFlh?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 11,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "WRLD11",
+      "SPCX34",
+      "KNCR11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
       "Real Estate / FIIs"
     ]
   }
