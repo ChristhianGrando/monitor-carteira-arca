@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "titulo": "Ibovespa potencial alta: IPCA e balanços dos EUA em foco - Acia Araçatuba",
+    "resumo": "Ibovespa potencial alta: IPCA e balanços dos EUA em foco Acia Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZHNQZng2aWgyWExPR3FhWUE5OUdHM1F4a0xlYlFhbFR3MUl0S3BIcnZ0MjkycDlVZnlMTnpnb19rcWMzR1FTYkV2VzYtX0RrT0dibVZkUmVlMFd4aE55c2U0NFM3YnpkWkdCZHJOT0J5dWJDT3lLSmtiYWpseG5SUVhB?oc=5",
+    "fonte": "Acia Araçatuba",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "68b83ebc7991659c9e58ac00ffb6283a8a3d436b9d41eb8507dd6e1918ae5e3a",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]

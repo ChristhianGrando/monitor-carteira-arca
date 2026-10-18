@@ -1,21 +1,6 @@
 [
   {
     "data_envio": "2026-08-27 20:30:45",
-    "chave": "6fdf0d847d41863c947d7a29a15555b5e79da898007abed819c12c6b76e8d009",
-    "titulo": "Vorcaro vai limitar depoimento à investigação sobre Banco Central - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXFMa3FpcEdsSWlqdm9YamdCaWlBdFZnMlpMZG0xVEFYNlhpSTQ1eXZGTGliMUJrZkFLazQ3a25qWXdFd2NoZkxHZjVEVUQtRWstMjFnX2djZmtBMDJzdEFqRlRONWN3Nm5TVmlTUS1YRmE4ZmJrRkZFLTBaTVFCOFU4WXZWdi1iQjdWRExwSmlnVWJPZHdrRG9KLXNmb0FGb203YWxkaFhlOTUyZDJDUi1tczZLYURvbDUyejIxZjdtYU0?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 14,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-27 20:30:45",
     "chave": "a8250c4a930c5c6d5a5c800b9b65ab3344a9ec48b0b0c3d9d1c328fb6c4f4054",
     "titulo": "Debate sobre juros nos EUA e nova projeção da XP para a Selic; confira os destaques hoje - XP Investimentos",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVduOG5YRGhLM0xEN3NITV8xazFrcUl2bDgyQ2hmNUl5cE5NcDVxZ2hJX04wUEYzdUFVRnF0UWlNU3lMNDljS3FSTFB4R2NYMGY4cjNKMmFBUVR3NlB4NHF2QWlxZFV3SThNXzNIbnBpdmpaaDV1ZzU5WnFHZ1BMMlBrUjB4TkRzbE84VDdlVTczaG5MLWFudnJEN2tDY1JtdjROZFVMOUxoaUgwZjRaZTJGdU9jTFlsOF8wYkJMT0NvYTJrRXhWUldB?oc=5",
@@ -17451,6 +17436,27 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-18 05:54:09",
+    "chave": "68b83ebc7991659c9e58ac00ffb6283a8a3d436b9d41eb8507dd6e1918ae5e3a",
+    "titulo": "Ibovespa potencial alta: IPCA e balanços dos EUA em foco - Acia Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZHNQZng2aWgyWExPR3FhWUE5OUdHM1F4a0xlYlFhbFR3MUl0S3BIcnZ0MjkycDlVZnlMTnpnb19rcWMzR1FTYkV2VzYtX0RrT0dibVZkUmVlMFd4aE55c2U0NFM3YnpkWkdCZHJOT0J5dWJDT3lLSmtiYWpseG5SUVhB?oc=5",
+    "fonte": "Acia Araçatuba",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
