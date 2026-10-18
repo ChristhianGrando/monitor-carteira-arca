@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 18/10/2026 14:54
+# Relatório da Carteira ARCA — 18/10/2026 22:38
 
 ## Carteira monitorada
 
@@ -13,115 +13,75 @@
 ## Resumo
 
 Notícias coletadas agora: 50.
-Notícias novas, ainda não enviadas antes: 23.
+Notícias novas, ainda não enviadas antes: 18.
 
-Foram selecionadas 13 notícias relevantes para este envio: 4 de alto impacto, 3 de médio impacto e 6 de baixo impacto.
+Foram selecionadas 8 notícias relevantes para este envio: 0 de alto impacto, 3 de médio impacto e 5 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Agenda de mercados: IPCA-15 e reta final das eleições são destaque - Valor Econômico
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Valor Econômico
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzNXa3Q2bFVoVTFnUVBuWERZbkUxMUxodVpMZ3ZnNVAwVHdYLTBpVkVqT2NCckhvNGhDOXdqZGxSM3NzTkRoMUcySk9lbDNQMURFU1pQVk53elpQZ0puLVVHQ1paYXFIZXJPdUwzdWxHdDc2cFd5X2Jkb2RqVnhpWmZvSmt4akkxVVQ0Vk5uM3FoTnZvQmxUbmxtVk9PS1lKZnVDMFc3ZUN4Q3kybDFLRzdxVUNwc1pBWHlqeVdVUVPSAc8BQVVfeXFMTUVxTThERUY1MlFHamo5X3FGOW5fRHRpVS01c0FfNERUcUFQOVYwQ2xadmdMR3FWNzFFcjNyUHJVWm5IMUlyUUFjSl8tVzViS1dJLW9xT05GeUxVQ2tHQUVQV3hzV3BaRjMyREswSXY3ekU3b3Q4TW9pSWVsaWdpUW14SmRPMnl6TzUtZ2k4N3N3a2hLeXVwT0FpYUp5UFNmNmM0OTFrcGxnZlk4eFpPanQ2bGNra0NEdXNOb0g3NVd3Q0xBa28xUERxb05JSk1B?oc=5
-
-### 2. IPCA-15 traz última prévia da inflação antes do segundo turno; confira o calendário econômico - Estadão
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Estadão
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRldQaXVtUlZvUzV6ZmJCdEJrcUxaRWRvQW84azdVYm5SLUZsX0luV2VjdWZ6MzV5ejRyZTVuQnNOclhIOWsxaEQwOExpZEc1QjFQcUwxVkJCV2lnOXBZaDBBSDNYQ2psR0pnZjYwLVY2U0VBejV2SC1XalhLV3pqYk5TOEpsdkRXUThqaDdDYW1VV19HVUNZcjFtc185N013THZBNkEzV2Q3a0VSTmN3cmNIOGJOcHk2OXRGaE40azlWR0tOb3NfMWM3U2dITm1sc2lSNzluVXVONXE2NldlblJfTUJnS0VQNTBWTGMzU08?oc=5
-
-### 3. Ibovespa potencial alta: IPCA e balanços dos EUA em foco - Acia Araçatuba
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
-- Fonte: Acia Araçatuba
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxOZHNQZng2aWgyWExPR3FhWUE5OUdHM1F4a0xlYlFhbFR3MUl0S3BIcnZ0MjkycDlVZnlMTnpnb19rcWMzR1FTYkV2VzYtX0RrT0dibVZkUmVlMFd4aE55c2U0NFM3YnpkWkdCZHJOT0J5dWJDT3lLSmtiYWpseG5SUVhB?oc=5
-
-### 4. Análise: Inflação alta nos EUA pode frear queda da Selic no Brasil - CNN Brasil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
-- Fonte: CNN Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFhncE9EeFBETk9DbW1kTV9TTHdtT0hRUEVzOU5qLXl5LTRQQTM3bTZoZnF6M3MwNk9xdzNpSUdWcC04ZXllaFV6cUo3eEdlSlpmNVFHUkZQbHRjdmJBdk50cVVJS1lGWEkycmF2dUdlZlJRblYtVC00VmZxUzJqcEh4OG9iWUl4Smh6ZE55S3hOUmR6dnhJMVBKVmIwMnlaQVV6Yno2ODJmbkE3bW8tNWdTM0lIWlF0T3lxSjlqRVRzejV6S0QxRno1T093WVNkT3VLcm16TGp1SlBUUVlB?oc=5
-
-### 5. "Não é hora de vender Bolsa": Inter eleva projeção do Ibovespa para 240 mil pontos - Money Times
+### 1. Mesmo no vermelho, carteira da Terra bate o Ibovespa; veja as 5 ações para esta semana - Seu Dinheiro
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: Money Times
+- Fonte: Seu Dinheiro
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3VCRHI1ZkktcGUtVVduWVpiSlpRR05lMkhncHBlWXh3eWhSLVBBWmFHNEpPdThUeDVJWDZ4XzBuZkJWU0FKSENrSnBXN0NZUmFTWGQza0Njb3Jvc3M1RVhNdHF6dEg4aXo5b0s3SG5HeU5qd1ZWQ1hzSUNOcGlORVRaLThUOHQ1VXI5cXJ4c21ucWRBbkxjUDBBOFVQZXJLSzFUWUJuamx1S3hFT3FRbUZLeG41Zw?oc=5
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPd3o3c3hRYVBUTzBBakVxbWQ2aFdOUHNDell0anpMcWwtczdEMi1iM2JKa0hGMTVMOWFvSk11RmpyOEs5ZUl4ZGRqZ1VMTHJtVWdERGc5MjZDek45YlFPT3ZzZlFXUHZGeG1lTm45c0RYM3AzTWFBeHBtajQybDFCU2Y0LXBNczBGakZ0UUhET2g0QmV4TVlnWjg0X25hZTBYRzVKeW1LeVpzR2xCYXg5bG9OaC1wMjJCS2hNdlgxbzN1bm1KVTFETGpXa1E?oc=5
 
-### 6. Elon Musk pode desligar a internet de uma guerra? Entenda o poder da Starlink - G1
+### 2. S&P 500 ends the week lower as hot inflation and AI sell-off weigh on stocks - TradingView
 
 - Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: TradingView
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWVpWHI5MUMzVnBGQ2JQMDdrM2l1VkpvN25ZOG03QmpUejZoMlotX01rc0VxN2VCNm5COVJOdi1ONU1wTWNBT2ljYlBXUWpSanRWNnBkQXN1Z0ItYUNGNmd2N1p0bUxpaVJJa25LUTlXRmFhZjhTNHFVQTdzLVJVaGp6dDVnbUJDdHJfLUFncmpCYkpWNzMwYkJ0LXYwVmVLbHhVRXdyV3E1N2lKWVB1X0t0WUQwaTZLcW82NnFGQTNXdDBRMzJWbElaZ3RicHh2YllsMA?oc=5
+
+### 3. EUA ameaçam Europa por restrições à Starlink, de Elon Musk, diz jornal - O GLOBO
+
+- Impacto: Médio
+- Ativos afetados: WRLD11, SPCX34
+- Fonte: O GLOBO
+- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1FIbFpiOG16LWJSUXgzcGR4ZWRRa3hfWjJMdHpaRml0T0hkYWhsWkswQjlXVVRTREs1bUdGMU4wemRaRHc2ZjJpSzB4R0JsWjh5RDJOQTVfNWVGaWNibTV4aWZIZnFyVml4elU3aDBrVmtocUgwVDhRbjktRWlUamRXenozb25zUGM2Z3h0Y2RZOXZHR1lNb3NKajZfTVIxRVF4elpHVFhnLW5maExhV29UdnhHZnAtWHJqZHQ4V3h3aFpHaHfSAdQBQVVfeXFMTkUtQmpTSWdpXzNUQ3UyLUhnN2VCSG1lZHFZVXEtdG9UdzNaU3pYZnhQRi1zZ0lWVFhvaUNlZVlOM2pmM2tLTnpSdjh6QWlYRzFDQ0tSczdDLWFEZ2M3RFcxQ1FQWVgwU1JVaGFSN3I5R1Z2S2YtaUNBUGVxWGtTN094a3dCaHk5Nnhad0ZXMXJfcVlNSU8xUldfUk9oWUFEeC1ST1hfSFpVb2QxMEhKWXNldGRZNjFFM29Hdk4tUnRqWThxVWR0QmhKSzhPN19jOVRpVW0?oc=5
+
+### 4. Elon Musk apresenta Roadster, o carro ‘voador’ da Tesla - Estadão
+
+- Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: G1
+- Fonte: Estadão
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPdkZ6U3RUODhfdHNORWJrdzBXSWlEaG9BRkZoNm5aSm1vSmVLZ3Z1bkNVdHFjUGxXZnpCN0lfaldjQnMwcFprV1NEaVotUlFHUFZOamlxXzdNREpFRi01Y1BVVHY4Njh3czE3ekJUY2RrcVVtQV90RG5MazBTSDVSYnpvTi1oSkcxWWFNcS1rNlVWcTBQNnBaMTdKZnMxd0RqaldOWmxrenRLdkJza21wbG5SbDB2Y0U4azJfQXRtNVd6RDlxSjg5U3dKc9IB2gFBVV95cUxNZDcxTk1VeE9sV3JkZXBya0EyU3NOTzE3Mk9jQjZSbEVWWGpKbTdEQVMzRGhINDBkejJMT1lqdWxVbFZfc1VESXVaMkxXeEkxVDVzNW9kOURfZnNrbTMxeFE1bDdKcFdxUlREZ0o3UW94YVJ5M3A0WWVwSjZnYm5FUlctSnktU0xNZ041WXZMN0pQNUlFaTc2aUwzWmxuZjdYOFdoMVd0VThWWlRDYktfS1A2TlNObjlDWWpndXA5V1NlYUxZRGFIUjV6VllDd01RaDFKMVhwT0ZEUQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0lLbUNJS3VoN2t5MVhSMW9wMXpCOUhXNGtxYU1FMG5wVXQ2Skt4RXZYTUdlWTJuYWlqT0ZEeGJaQnV4bm1idlhZdXQyLXNwanlLSWg0cTdZV2o4WVRVTVJpSkxkUFBjdTJzYkkyMWpkSGtrdHVVZXNXMTg3RmNoQjU2bVlzd2padHYzbG9FLWNKRS1jeVJGTmx0Q0pZQ0ZIbzN5aXVHZjRpam03YVE4Wk03bGZoQ0tkVXNHMTRYTQ?oc=5
 
-### 7. Sistema do BC teve falha em dados de risco sacado das Americanas, diz Itaú - UOL Economia
+### 5. Por que o lançamento do carro voador da Tesla é um recado de Elon Musk à China - Money Report
 
-- Impacto: Médio
-- Ativos afetados: Carteira em geral
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Money Report
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWZ4YnpwUWxuNGllSTRYM1ZqVlRQX25veWdjMWtzclJPcV9zR1diM3FfcnE3WVZEWWtEbGVpWl9kTFJOZFlleUU0X2gwTl9CQWJoQmNQMU13dFVSa0Nzb2ZUUERDSWhfZ1ZIbnJTcVB5SE00UWdSTTZRendoZnNqLTVJNTZHamVDRXF2VUtNSGJYeWZFSGlrVURZVVB1OXF3dU9NTmRTTTZmdkFCNi1kX2RKam1ERjNERHFz?oc=5
+
+### 6. Após apresentação, carro que voa da Tesla divide analistas de tecnologia - UOL Economia
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
 - Fonte: UOL Economia
-- Explicação: impacto indireto ou apenas informativo
-- Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0JQc0JYbGxMY2tEQjlZalRZQmdTMDBkd0V2Z2RfYVk2eWpfQzlPenAwbFE3UnVscFlIZHJQTVk5UEgwN0wyRGhWYTl2cHpSVXJfWUdDNFRTTXcyT2hVRGM0Z0NobGx6ZHlMeG0xRk82dGdQZHI3c05ielZScU5ldUhfMTB2QQ?oc=5
-
-### 8. O que fez Elon Musk e outros bilionários perderem US$ 50 bilhões em um único dia? - Times Brasil | CNBC
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Times Brasil | CNBC
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPOE5yVW0zaWlwUV83SWlsNU1fVzdpbGxyWGh6NnRkTFZvNE5TQmNrQ3Etd3Z6cnA5b0lmVzY2ZWRGNWxnckdaRjlRSWswOWFYdHhPem84WnZNRWYzNVprX2c3LUNKems2UEJPSEZRbkpRT212MXc0a1cxdDRfUEVmSm1hSmk3M3NUMC1Vc2JHSEZpOGF5Y05lQnNCc3UtaGduR3cwZmdfU0d3b0EwZ3RRcWVNaw?oc=5
+- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHY5RVluZDJ1X1p6VWx6OW9GMlRMdVo1cEMyMlI4NWZsTUtzTnc1dnlsOUsxblFKWktpUEVjT1d6SmJJcG5zd2Q0amZ2cDIyTmkzMUNDajRZTXk5ay1rU2hsZ20ySTcwbWNTbkF5cGx4c0ZqOUtwdzE3c0w4aUIxVVNrcWFmblpIMzBKV0d5VWViRXdJMEREZmFoVG5BVTl1NlVPay1JZlBaRDNuVXJJMTdyWEs?oc=5
 
-### 9. O que é o Starshield, versão militar do Starlink usado na Ucrânia - Poder360
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Poder360
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY1c1WENDQm5DMmI1Nk5yb2xkbnROajVMRm1MYlBTeGpnaW9mamRIZDY3MXhoc1NSZHV1UXBqa0M2eXA4TGo4ZDA1SXVBTGt2a191bVlWcEQtdDJOUWxLRUpnQS12OWtfSG1DUmFWYWNqUHlBTW50bXpKLXViQUlpZkRzdzYzcWRJNTdqRkI2VmxybW9rX2FhZDViT0MtUXVuTF9YY081akRGMDg?oc=5
-
-### 10. Musk apresenta 'carro voador' da Tesla - UOL Notícias
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: UOL Notícias
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGNpS2FuR1l3alBCQVJzWlpYQVdLTWt5N1U3LUF2Vnpjb1BadnFmRG54NVlBc1JSU2plalFFSGd2UzdMWVlwZGczRG5JUXBBcmc4Vmh0UlcxUmVuQ0xmQ3RRcmhKWU42U1RpVjIxdS10SV9ZWUZrUEVqekQ0TnhOWk5aSjFHaDdrY1pNeENfUkZkNm8xY3hyeUZaVFNmTE12dnZTQlhKQy0?oc=5
-
-### 11. XPML11, KNCR11, EXES11 e Inter Asset são destaques do Bom Dia FIIs (16/10) - Fiis
-
-- Impacto: Baixo
-- Ativos afetados: KNCR11
-- Fonte: Fiis
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wVFRvN3doMWVYdTFBc091azFUX0NyVmNTZ0lmbDdpUGRSRkp0VFhEUktFVF9PMVNLOEVWQUJsRWh5T3FCQTRRS0syc184ZkVuT2JmYXM1VGxuSEVUQmc?oc=5
-
-### 12. Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais - InfoMoney
+### 7. Banco Central decreta liquidação de cooperativa de crédito Credipaiva por violações de normas - Folha de S.Paulo
 
 - Impacto: Baixo
 - Ativos afetados: CDB 100% CDI
-- Fonte: InfoMoney
+- Fonte: Folha de S.Paulo
 - Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1Nsa0VLUS1hWjllNjlaVmEyM1I4T21DYklWWGgtSG14VzAyRFh2VmtjVlBWblRTNUNNUDFsV3gzNFFPWHRJb3dfcm84U2NwYVhDY25JaGJtOVpqbDlSenBjdGpsVjZ0VC1Yb3ZranpXYkRNbDU1UUF6OHJjM05qcnZkUFplYXU4VnVYSGRqMWFxUU93X09vQjJ2MzdTUVlVWWh2cWNwbGN2UjZoMUtfR1RoeDZxUkEwV0d2MdIBwgFBVV95cUxQdjBRVUQ1eUcxMGdrRkkwVzgtX01TSUl6eGoydUxpMHRiYXZPOXhVTFo5dTJuM1ZBRnp3UGpwek5ZclpBemxVZS1ObW4tYi1PckpnUzE4N003TExuSUliNXBKdUg0MXBTbExBcGRyVWtkcERKNjZ2aWNreHBMMFRxZXFMYUhPLXhLOG5mY3lkS0pBdHJ0NEphX1RNaEpMOUJDM0ZpaVNQZndMNExsdThRYnJIQUdmMFVSQUx5SDl1YVRHZw?oc=5
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbkNuSjZXbGxDVmtnRUNvV1MxdnotV3NCclh2WjBDMmxjMXd2NkltNjdkb1NSOWdTYTdyOXlicXJPV1hrOEdqQk1PVXpWSU1qbjA0S0VRenQ5RWFtT0xlVTdmcXI2YUFtQW53OEhsc0E4dEU1ckVWcFpUcXN3enhkTzFzNGxWUGw2Rkx5UDMxZkc2Z2VKTjAzYzd3SzVYWVg0cGFoY0FnR3BxbG1KeTBVMmt0N1NDNWd4WmE0cnQ3OVB2UU1DT0VVRnFHV2dpN3QtWllmdVVmR3dyLXdoeEE?oc=5
 
-### 13. Vorcaro orientou reportagens do Metrópoles contra diretor do BC que fiscalizou Master - Estadão
+### 8. Banco Central decreta liquidação da cooperativa de crédito Credipaiva após “grave violação” de regras - Seu Dinheiro
 
 - Impacto: Baixo
-- Ativos afetados: IBOB11
-- Fonte: Estadão
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNOS0tc0h0SFVCaG9zVmRhcDFNSXJfNnBQRlNJRDNkNEI2U2Q0blpmZlhWR2RoNWN0RF9MRGNqUzNwZjMwTXBqcEtYeEc3a3VUQkFtcmdDSTJBSGh5aXFNZ3RjV1EyZFRXSFkybWNMeExqc2JNZzFlbFVwNEVkVHJ6YnMtcmZMbHh0MVU4eWloTGxXVmgzWmtSRDhNZzlBeVVWanE4S3VMaHpKUHNmQTZaZnBEZ3ZJRzBPOW9hUWtUMNIBxAFBVV95cUxQNFREdnZMclh2XzlXbEZldTNRSlNXX1diRVlMVnZyamFKNjlzRHozdEZzOGlrQTNMY0wwc1owX1VMS1dOblJEMmM1R3hJTVp0R2NSWnF6VV81QmNSNkxNMGg3TVpSRkU3TTVZZk1ROFgtNlV4ZWRISFJWUmwwd0M5SmJKYjhiV29XekgyR2xvR2VRMVl0d05leGxVVWdLQkU4eGoxVUFVUVhZdEJxT19aalBuZ2lPeTA5R2o0M1lMd2VLUFR3?oc=5
+- Ativos afetados: CDB 100% CDI
+- Fonte: Seu Dinheiro
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGdjV0p1bnEzcjN4QjUyQkhoYWdYS3dQbUJta2ZadlNaTi1zQ0FlTkY2c0ItN1pEVE1pTEt1blVoaVltZkJQMmRYeTRxY1pfdjY1RDJhR1FaY0VzdjNrSmFPb1ZZZmJ4a3o1Y1pCWGVpTDFBUGFiVUJROF9Nb2FvQUFla3I3U29mR0Vhc3NRamhCdlVtemFFLTVtaVJYYkE4b1I5dWstUFNTTVZjVHByaTBMMkVvN2FRLWY4Vmgwb0pDRkpjODY2MGpuZ2V5Sm9vX3RxOURhLVd1Z2pJcnNvMg?oc=5
 
 ## Conclusão para o próximo aporte
 
