@@ -1,52 +1,78 @@
 [
   {
-    "titulo": "Análise: Inflação alta nos EUA pode frear queda da Selic no Brasil - CNN Brasil",
-    "resumo": "Análise: Inflação alta nos EUA pode frear queda da Selic no Brasil CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFhncE9EeFBETk9DbW1kTV9TTHdtT0hRUEVzOU5qLXl5LTRQQTM3bTZoZnF6M3MwNk9xdzNpSUdWcC04ZXllaFV6cUo3eEdlSlpmNVFHUkZQbHRjdmJBdk50cVVJS1lGWEkycmF2dUdlZlJRblYtVC00VmZxUzJqcEh4OG9iWUl4Smh6ZE55S3hOUmR6dnhJMVBKVmIwMnlaQVV6Yno2ODJmbkE3bW8tNWdTM0lIWlF0T3lxSjlqRVRzejV6S0QxRno1T093WVNkT3VLcm16TGp1SlBUUVlB?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais - InfoMoney",
+    "resumo": "Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1Nsa0VLUS1hWjllNjlaVmEyM1I4T21DYklWWGgtSG14VzAyRFh2VmtjVlBWblRTNUNNUDFsV3gzNFFPWHRJb3dfcm84U2NwYVhDY25JaGJtOVpqbDlSenBjdGpsVjZ0VC1Yb3ZranpXYkRNbDU1UUF6OHJjM05qcnZkUFplYXU4VnVYSGRqMWFxUU93X09vQjJ2MzdTUVlVWWh2cWNwbGN2UjZoMUtfR1RoeDZxUkEwV0d2MdIBwgFBVV95cUxQdjBRVUQ1eUcxMGdrRkkwVzgtX01TSUl6eGoydUxpMHRiYXZPOXhVTFo5dTJuM1ZBRnp3UGpwek5ZclpBemxVZS1ObW4tYi1PckpnUzE4N003TExuSUliNXBKdUg0MXBTbExBcGRyVWtkcERKNjZ2aWNreHBMMFRxZXFMYUhPLXhLOG5mY3lkS0pBdHJ0NEphX1RNaEpMOUJDM0ZpaVNQZndMNExsdThRYnJIQUdmMFVSQUx5SDl1YVRHZw?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "848b1510ba4e8fe3dbb5bbf321e1947754c7128f335f97f10015dd4e6af3a423",
+    "chave": "af94e8d084983ebc5c30aee53a1ebec9d4c5ad9973fd1dfd00c674dc8fac1460",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 17,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Agenda de mercados: IPCA-15 e reta final das eleições são destaque - Valor Econômico",
+    "resumo": "Agenda de mercados: IPCA-15 e reta final das eleições são destaque Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzNXa3Q2bFVoVTFnUVBuWERZbkUxMUxodVpMZ3ZnNVAwVHdYLTBpVkVqT2NCckhvNGhDOXdqZGxSM3NzTkRoMUcySk9lbDNQMURFU1pQVk53elpQZ0puLVVHQ1paYXFIZXJPdUwzdWxHdDc2cFd5X2Jkb2RqVnhpWmZvSmt4akkxVVQ0Vk5uM3FoTnZvQmxUbmxtVk9PS1lKZnVDMFc3ZUN4Q3kybDFLRzdxVUNwc1pBWHlqeVdVUVPSAc8BQVVfeXFMTUVxTThERUY1MlFHamo5X3FGOW5fRHRpVS01c0FfNERUcUFQOVYwQ2xadmdMR3FWNzFFcjNyUHJVWm5IMUlyUUFjSl8tVzViS1dJLW9xT05GeUxVQ2tHQUVQV3hzV3BaRjMyREswSXY3ekU3b3Q4TW9pSWVsaWdpUW14SmRPMnl6TzUtZ2k4N3N3a2hLeXVwT0FpYUp5UFNmNmM0OTFrcGxnZlk4eFpPanQ2bGNra0NEdXNOb0g3NVd3Q0xBa28xUERxb05JSk1B?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "883f269eb6cdbee74119d79691bb8079bc347bf3cdb9ba25e97993c9f012cf05",
     "ativos": [
       "IBOB11",
-      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 16,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Elon Musk pode desligar a internet de uma guerra? Entenda o poder da Starlink - G1",
-    "resumo": "Elon Musk pode desligar a internet de uma guerra? Entenda o poder da Starlink G1",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdkZ6U3RUODhfdHNORWJrdzBXSWlEaG9BRkZoNm5aSm1vSmVLZ3Z1bkNVdHFjUGxXZnpCN0lfaldjQnMwcFprV1NEaVotUlFHUFZOamlxXzdNREpFRi01Y1BVVHY4Njh3czE3ekJUY2RrcVVtQV90RG5MazBTSDVSYnpvTi1oSkcxWWFNcS1rNlVWcTBQNnBaMTdKZnMxd0RqaldOWmxrenRLdkJza21wbG5SbDB2Y0U4azJfQXRtNVd6RDlxSjg5U3dKc9IB2gFBVV95cUxNZDcxTk1VeE9sV3JkZXBya0EyU3NOTzE3Mk9jQjZSbEVWWGpKbTdEQVMzRGhINDBkejJMT1lqdWxVbFZfc1VESXVaMkxXeEkxVDVzNW9kOURfZnNrbTMxeFE1bDdKcFdxUlREZ0o3UW94YVJ5M3A0WWVwSjZnYm5FUlctSnktU0xNZ041WXZMN0pQNUlFaTc2aUwzWmxuZjdYOFdoMVd0VThWWlRDYktfS1A2TlNObjlDWWpndXA5V1NlYUxZRGFIUjV6VllDd01RaDFKMVhwT0ZEUQ?oc=5",
-    "fonte": "G1",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "9e3d6a1cae00357134bb55f665bbd4cdbea0e7bb214f5b68c8610fe1935e8463",
+    "titulo": "IPCA-15 traz última prévia da inflação antes do segundo turno; confira o calendário econômico - Estadão",
+    "resumo": "IPCA-15 traz última prévia da inflação antes do segundo turno; confira o calendário econômico Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRldQaXVtUlZvUzV6ZmJCdEJrcUxaRWRvQW84azdVYm5SLUZsX0luV2VjdWZ6MzV5ejRyZTVuQnNOclhIOWsxaEQwOExpZEc1QjFQcUwxVkJCV2lnOXBZaDBBSDNYQ2psR0pnZjYwLVY2U0VBejV2SC1XalhLV3pqYk5TOEpsdkRXUThqaDdDYW1VV19HVUNZcjFtc185N013THZBNkEzV2Q3a0VSTmN3cmNIOGJOcHk2OXRGaE40azlWR0tOb3NfMWM3U2dITm1sc2lSNzluVXVONXE2NldlblJfTUJnS0VQNTBWTGMzU08?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "8023d1eb27a0e0864ba13b1234efc6b1d155129c30e87daca38600b4eb5f26ea",
     "ativos": [
-      "SPCX34"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 9,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
