@@ -1,21 +1,6 @@
 [
   {
     "data_envio": "2026-08-28 05:24:35",
-    "chave": "fb3ff63583d45941d7bf59783ff0a100fd49b658d8ea3d41adc91626e135ecca",
-    "titulo": "Câmara da Argentina aprova reforma do Banco Central na tentativa de reduzir inflação - 27/08/2026 - Economia - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc1ZNQ215UFBic2FQYmtuUUNNUFRxRnU3UUtDMi00ZlpyN056c3AycjFuRFR0R1VrdEFjWGlqdWtrc3MzYlBRR0hYWTlUWTZzZ3RyRnFlZmR6QlpXMjREY2Ruc1BldFdGTmVsdkVNQ0RoMHlCNDFyUDZrVmFzTktaOE9raEVKc0lHSTlSYU5Oam9nYnFkMm9pTWpFS3BDTk5WcE4xSmhuekpCZEdGVGh6R0ZmWHZGNGdHZWE4c3lTdExFVEw3T0hKSXQxNVhEVUtXRXc?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-28 05:24:35",
     "chave": "90594bc79242dd2faf1827cc4c187788d8d6341954e83dd1330a7ecf1fdf5dc3",
     "titulo": "No Concred, Banco Central aponta desafios para o futuro do cooperativismo financeiro - Portal do Cooperativismo Financeiro",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR1FVXzhzNnMyUXVwTTJ6SnYzY3U3UjEtMWljSU5qS29sZjFPT21pQ282Mkt5TUNxZlEzak1EVXZLb1lGZmRBQmtxMmtHS253S1IwaHJ4YlVvRFBkYmhwR1cySGdnWlpVczFybHFBUUp6SVNkWmk4MXZyX2dpZGluUV9qNkFkZTQyajhwNVEwNFpyX2p5ZkVHa2tLQWNtTnpqLVc4dmNBVDViOVVMWDk1NUlkSHYyOXowblpMRy1USmdWcmFFT1lIbkZGcV8?oc=5",
@@ -17452,6 +17437,23 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-19 06:17:59",
+    "chave": "6047d4dbce656afd40a8266ae028a15b8e65dc94e4d607cf1a61cdda68502eab",
+    "titulo": "Dólar cai a R$ 5,0728; Ibovespa sobe 0,54% aos 205.430 pontos - brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVFGSmdjYm1jVzg1aTV0NllvbFA2d0t4TF9RX2VTV2tWc3hmYS1ieE5YWTZEOFI4Tmp3cE1PM3JwTnpzRk9LVFFuTXZXRlotTDRhR3FJZ2hUOXBRV0VjUk9vVmcyS3Zjek1JVVAtb0x1SWhLa2FyZWRIZGlwUzRiS0NhZmdfOVkzM2I1TkRFQzZHTzN0V3FEQ2NCVWM2TUc1?oc=5",
+    "fonte": "brasilagro.com.br",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
     ]
   }
 ]
