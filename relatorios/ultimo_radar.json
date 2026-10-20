@@ -1,116 +1,111 @@
 [
   {
-    "titulo": "Ibovespa hoje ganha força com petróleo e pesquisa eleitoral; Vale e dólar operam em queda - Estadão",
-    "resumo": "Ibovespa hoje ganha força com petróleo e pesquisa eleitoral; Vale e dólar operam em queda Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMDhfbmpqdUw2LXZTamdpbGFqMDFIUW43VWJDdVpYdlZJY0JudXlCRjRsNkxRWEpOU1A5c2hoaS1yaFJKR3RxVGNWN3dPRWxwbXNmRWhGekRIUDQ1TG0zbXFmLV9BZUpVLUtiYUhKT0RCaE1PTlZqNUZrZzRFZ0NNQ2xOYXFzeE1QMnlHTXdVR05OWGR4Z21kOEZOZi10T0JhNTRhc3kwZnNpZmZmVy12VzJrbkIwZFp2VUdoTUhwa1J0TW8zUEdlRE41ekNGeTVjeG93NkI0YXRwR0pSRm1j?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "25c9320e7f715991c385557608b99364984cbb9ef6a696ab23efafa407a68788",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar opera em queda e Ibovespa sobe, de olho no exterior e com eleição no radar - G1",
-    "resumo": "Dólar opera em queda e Ibovespa sobe, de olho no exterior e com eleição no radar G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ybWhoRFdLb1cySkkwZm5kem1VVWZldzEwWHlRcDA2c1FidnlaQldXQno1NVRWS1ptUEVSSWtVemZ3blVQMTZjSTZ1cU03dDliM2FJYmwyV1pZUFdzUElXMHVKUnlOV25oNThjNnlPLTBuQzFoYlczetIBhwFBVV95cUxNY04zZVJpOXpqQ2ctX0t2S011bEdRcXZpZndEV1pzbDh0Y3hISWNubGdISm5xV1hWcTYzLTJGNllvTW9aLWExTC1OWmVRZVkwTHFnNzJiYVNrNlRqNFRrNlJCSkFTY1A3bmVOMnRGcndmQ2FSZ3VITml6SS1Rd1lOQXUybkZKbHc?oc=5",
-    "fonte": "G1",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7597d0dd7a9a8f615149b5eccc69978bb053ea517509d11a5e96fd7797a52f2b",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa avança a 208 mil pontos com eleições no radar; dólar cai - CNN Brasil",
-    "resumo": "Ibovespa avança a 208 mil pontos com eleições no radar; dólar cai CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2ZPN0ZqY3F5THc4LWplMUV5NV9JS2FvVjJtU2JIQ1FZdDNBaFdDYU40ejZGQkEwZWVVSElzNFd6YWl0R1NEUHlydFp4ekRwb3Y1MkFfUTBfUXBlbnNBOHhuVEcwVUxxR0lLaEd6b1hEd1lMcXJXOU9Nc1BGRW9XelNQUnV3dXVSc2VrUU41S1J1b0RYb3UtTVdQa256SjRrTDFieA?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5f79a3cd9a98dda152d2d73cac9c71561449c25cf2a526e92db3e2980036a1e2",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa futuro salta mais de 2 mil pontos após a abertura com ‘trade eleitoral’; dólar cai - Money Times",
-    "resumo": "Ibovespa futuro salta mais de 2 mil pontos após a abertura com ‘trade eleitoral’; dólar cai Money Times",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XVEFOOTdEbEI1R1gyNE1kaHJYZk1YR1lDRHBYMXd6Si1XcjJnQ3NjU0hZN1ZXOXlrQW9aY3Zyd2dtOGlCb3VvME42SUtmb2JhZ0ZpR3Zsd2FSNkFwVjRaeF9IUXE1eGdJU1owSQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "79b1c2dcde5d3a4ef23920061a678638182f71edfaa11d6b5b572cc2ae3e06ac",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "A resolução do Banco Central como critério de aferição do defeito - Migalhas",
-    "resumo": "A resolução do Banco Central como critério de aferição do defeito Migalhas",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFBfdDNkRDRLUGlDVFNIV2tNcm5HU3RVYW0tTEdYckF5NWR5d1N2ZURPeUFGYk1kUEt0eWpDRzBSaUhTN2ZFRi12YlhiN0R5TWZEZG5LMkdZZ045OFYyNzRLQW9zZVVkeXdkdzVxRGdUcnNjVDhUOHMzSnBEMC1NcFJTcng0YlhVVHFDTElzeFJYMkY4WkpUV0FqVVllTFhSN28zRHFXWDR4aVU?oc=5",
-    "fonte": "Migalhas",
+    "titulo": "Lula critica autonomia do Banco Central e nega risco fiscal em sabatina - VEJA",
+    "resumo": "Lula critica autonomia do Banco Central e nega risco fiscal em sabatina VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdXE2ZFVmUWdEU1hPbFFVWkdmazQ3S2xYeFdBUThlQ1BEWTdjQnNzVDNMcmVyV3FvYmJKdjYwcHYyWEVuZGNja082STlibTdoTElwZkhFWnNHZU5UZTVDbmtvN1RHbG81UmJXVy1udFNFT2JYR2FiTmtBLWZUYzlCRzE2MUJkZkk3SGJCcEJZc2phUEZNeEFEbjR4VS1ZZWEwQWZmNE43MmxaRzA?oc=5",
+    "fonte": "VEJA",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1ccfb771ae3a1b32fcf147716a822648cd709736583c33de8b55dd8b04546ead",
+    "chave": "7e05dafc7fac6c8fc6ee49a11ef883082fab8f01bb3936e49050723f2bd26f28",
     "ativos": [
+      "IBOB11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central Estuda Limitar Crédito por Renda para Conter Endividamento - Forbes Brasil",
+    "resumo": "Banco Central Estuda Limitar Crédito por Renda para Conter Endividamento Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3BlMDZCUDRQc1B1MjBKbWZTU3JlSk12Umltczd2WFpHVVQ0dWpWcGtySm1yTEZ0ajdaUXo0VWVsb3E1TzZPMm5oRmNsRDZ0YW1TcUotclpPeTMwM19IUTIyTzhkNEd0T0w4UHp4c29YMWQ5cm5SRXduSkZ3V2xBS2dJUDFjM200aVlHdmtUT01wbGRjMDFnNF9JbHRyUQ?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "b814d7b7ea9acd7daac837740a214142224e340077836a313b6c4603e796d7b5",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "TCU aprova contas do Banco Central de 2025 após retirar trava ligada ao caso Master - Estadão",
+    "resumo": "TCU aprova contas do Banco Central de 2025 após retirar trava ligada ao caso Master Estadão",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUdUWVF4SUg4OHJoZWFheEhNczl5aGZrUjVkVzZZdXAyeFZ6a2pSLWx3T0xsdlRlV3V1TkZsZkxiaGRBeGxaUUd3dzh6dkVrNVR0TnYxNDBnMDZrR3lzRmJ0N2UtNHdZcHdKc3VuMzRCcnpHc1NXQUFsXzY2Yy1NanZzRDRmb01Qb1Z4OVFn0gGTAUFVX3lxTFB2bFZGcm9NdEU4WVVVb1VfLTFLQkFMaGV4UFJ6ZVo0em1IWTROcTRBbGZpRjN1R0FjYWpZeWhpMzRxOUV2Rm8zTU9GcHRKMlYzM1RKMUNtcXlXSXpLaGs2Mi00ME0wU21KWXVFTHYzbEppUXZHbm9sdWlKdnN0RjlOYWtKcTFWS3o0RHFBeGxpV1BkZw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d71f4f53d2e4b6bf595781f16a7657e6e7412d39a2dfb891a700a03211e8d39f",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Parcerias no Open Finance: próximo desafio do Banco Central - Capital Aberto",
+    "resumo": "Parcerias no Open Finance: próximo desafio do Banco Central Capital Aberto",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanVFeWZyc21GTnlQdFNwVW55ZkdSZFhEM3Bza3FLUF9feXJWc1RBVFhWTjVSb3R1WjBMYk9nYnkwbVpLeGVtb2thNkRUUzFlUVFKSjNnWlN5ZGJWdDVueEJ1TGZ1SDc1dDFnSHRlSXFGR29BSXZKZmNlQ2d0ZU1ZOEc2QWlGcHVQVVFNZHJSSFZXdEVmTjBOY1dxZmtDNVg2WkRCMUFOVXJDZW1xQ2tTUg?oc=5",
+    "fonte": "Capital Aberto",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "8714b2eb4b1e5e7d75539cc5aa8c2a0a74295a3c66d4167b7c5f83e47df1e4ba",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central estuda limitar crédito conforme a renda para conter endividamento - Vero Notícias",
+    "resumo": "Banco Central estuda limitar crédito conforme a renda para conter endividamento Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUVXNXVMTGpnUXVxMmRNbHdUZmp5ckdYSVFmcEtyZWFZN2lWNkt1VWJ1LWlMTy1ZdFp0Q1FaaUpXc0RBUjZ3eHRrQTA0VFctN3JfY2RBUEkxSkV5Z0ZLc0FKR2NPWk9RdURNcXRrbzM1TWd0UXBXVU13cTFmNjdCTmNSY1BzamhmODNLVGZhSURMcFFNZzRzc2JrdUNEcldQY0tFa0xwY3Q2SmRKZXJZTzR4RXU?oc=5",
+    "fonte": "Vero Notícias",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "42aff295d87d406deecc5565ca4e10d762753edcb4cb7177f9172dab7d8f88a1",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
