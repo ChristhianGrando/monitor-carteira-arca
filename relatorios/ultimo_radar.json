@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Ajuste fiscal é caminho para queda da Selic diz Rodrigo Sgavioli - Gazeta do Povo",
-    "resumo": "Ajuste fiscal é caminho para queda da Selic diz Rodrigo Sgavioli Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTVKQllpWXh4OXJ2ZW9QZVdNWi01MmJVd1NHek4yUkc2VTVkLWFNSkRpZjZOdl9IQkFqS3V2a0FxQ2hjM1llUG40Q1gzUFEtRFB1VFpudXNsbnpmYVEwQjFrV3d2NF9vUUNCLXNTN2ptMGdxeG9VOFliMW5SRm1jU0dGZ3hNRURQcDRuUEttTnFBcm8xVkpnTXVaRVpkZTYwek9CZ3BWbi1zN1VxcTNQS2ZydlBWdw?oc=5",
-    "fonte": "Gazeta do Povo",
+    "titulo": "Selic alta protege o patrimônio? Entenda os limites - ADVFN",
+    "resumo": "Selic alta protege o patrimônio? Entenda os limites ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUxIbk9jX1JQS01DNDdHd0tLeFdWYkJma3dCc1VXX3pSUE9jZDlKX2xnS2N6M3JnWEg5MHhhcTVlZFRzd1RETVdDcm11U2ZqZmFrNXNSU3E1cTkzVG9ZRFBXU3ZiTWxVQlpuVHFsSURDd3prQWVRVWVaLTNaTUk5all1OTV0c1lidnFQc3N6WQ?oc=5",
+    "fonte": "ADVFN",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b64205997b7ca3ae9aa986517d39ee6c0531a8f5242524cb9c0d722c24d09520",
+    "chave": "eae7713813b7340fbb5b65a948fb325628f61093cf22eccf87b02f5fedaead5e",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,54 +16,55 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Guia de FIIs (19/10/2026): XPML11, TRXF11 e TVRI11 compram ativos, enquanto RZTR11 e HSLG11 enfrentam inadimplências - InvesTalk",
-    "resumo": "Guia de FIIs (19/10/2026): XPML11, TRXF11 e TVRI11 compram ativos, enquanto RZTR11 e HSLG11 enfrentam inadimplências InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Zkc2MElZbFdLUHpiRWFvOTlfSWRDN3J5UGZ5VDAyWjJ2MTFhN0dWR0NfTVhIaGw5LWR1dXNJNHNlWkVyYlE0SEtPQ3pfTWRpWkpwQ0FKMzluNDdaUWRzMUNtcmhSNTVuZS1IS09KUW8?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "61ee308df4443fbe5ea80b79c2813705a227d4cfb5a052018349000135c8af50",
+    "titulo": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal - Money Report",
+    "resumo": "Cenário para Selic de 6% nos próximos anos depende de credibilidade fiscal Money Report",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYl9zSVFBdFNQWDJvNzBmRmJqbXA4bDZYaDVTNDFnMHhjeDVpSG91TmxCTGZvYU5vc3FDMk1OejJna1BLb1Y1cjA5S0VWejl0d1M5S2l1ZTYyLTdYSkNXcGJmRkZrNlZpbm81TnVqX0R1NlFZQ0dyVWRpbnc1VGxybkdkUGZVeUFZYnNRcUdFUVFqTGZlM19od1czWWpzWVc0MUdaNTU1TzhQQURTNFJhMFlHemg?oc=5",
+    "fonte": "Money Report",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "bb11d99d39528c15344964f0463b4d0db6a7f3ac43d3c9c73d025d91fd93796d",
     "ativos": [
-      "KNCR11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Mercado mantém projeção para inflação e juros em 2026 e espera PIB e dólar mais baixos - Estadão",
-    "resumo": "Mercado mantém projeção para inflação e juros em 2026 e espera PIB e dólar mais baixos Estadão",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHVQR2I0LUhvS3lZN0trblVOTTVKYUY1a2tkbzRpSEpfTTRMZ1J4cnpPLXpOTDR5VjdodXJCa2c3MERkZmh0OC05Yi1MZ09jUi02VWIycHRKQXNNY3ZTT0Rsbktuc29OajlqNkY3NTRKbTdLWUwyemxhMUwzcEQzc1dQM1FNdVhfeG1jU3JnUV9ILVJxWGpYOTdUNmdQaVR40gGmAUFVX3lxTE5ST3NEdk9pNy1xWHEycVQ4ZmJXXzQtVjl0Z3QxRkFINDl0WUtsV192dFhHYlNjeU5GUFhzVjRIbFVRT2xkQXItdW9weU9oVFJ4a2pSSm1JZkxfVUFCYkxHRzNpY2FiT3ltZ3dRbDhpNzJrUnlka0J2TnVSSzZOSnNwUjFVZ0lmUU1NeHl4b1VrVkN2d0YwaHpQVzlZRGpuR3d0RWV6S0E?oc=5",
-    "fonte": "Estadão",
+    "titulo": "O Banco Central da China mantém as taxas de juros estáveis - ADVFN",
+    "resumo": "O Banco Central da China mantém as taxas de juros estáveis ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNDNfWGtSTEFJRU5KVWN6eVdRMV9sdWFrZWw5TnJJYnBHc2JSd2NIUEVzVTNjUEhNR2NUZkxRQUNEWnRXUnFyNDN3STBNYjR6UzBlSUpwRlNiU21mX2NwWlJYblpGWkNwcUk5OXFnNy02Tmd4UFVQNUtKWTY5T2xvVFdlcW9WRXFKN3FMbk9pazZibHNibnNOZTdrN04?oc=5",
+    "fonte": "ADVFN",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "c3309119ee203238fdb18d86918c025ae840206e7fc5851258c28a3d9ccf8a87",
+    "chave": "648d9e11cef12348c0ecaa18338b82d8a5b97ad0bb3f1eaee3507f80a2478dc9",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -73,36 +74,34 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "JPMorgan se aproxima do lançamento na Nigéria após depósito no banco central - Bloomberg News - TradingView",
-    "resumo": "JPMorgan se aproxima do lançamento na Nigéria após depósito no banco central - Bloomberg News TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cmpQMThWSzA3d0l6RXJuUGNfTTBGX1Jma2Ffc01oMkpWd2NGVmdUdnZhWDBXNXJ5NFNibFY2bVBkQklpU29hRV9ZX3U0VURzZFhZNnF4cXZJNWpVS2E0c3VpV1k0Tk9tbThPTXV6aC1CUk9WeHNV?oc=5",
-    "fonte": "TradingView",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f33b80ffedc50ac17e8a450fb928f28f4961249d6e8747618efaf7e170d06bd9",
-    "ativos": [
-      "SPCX34",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco central da China mantém juros inalterados enquanto estuda reformas na política monetária - Valor Econômico",
-    "resumo": "Banco central da China mantém juros inalterados enquanto estuda reformas na política monetária Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUHU5aGFzSEtfRUFMRjVKZm0zMWJrbFphWGpoRXFnR3ptdXRka2E3Rjk3emtrWUZ5YXZuTGZ3em90LXZNLVVuZUNhTlJCaVNrMjRJODEwcllYRW1VSHFudm1LUzJnZ0xRU1duRUpNVWVtUS15UmNZWW9HV3RiNXdNOTlNcHhmT2tIZC1yWkNRY0ZaYTFVcjlIQndPTm54ZWsxV19XbEszTFFXQ1lJclFXcTZGQVhVSVFEMUh4X3E2NEE3QUs3a1E3VVVpazNadmVkMDNGZ1VfMGtydmJnRHM0a2hzY3dEQTjSAfYBQVVfeXFMTVQyMGZzYVZVaEx1T1I0bDIzNVhWelhQUFdIbGxxVlZnYkhSSnRHMTR6OGRWcjhvcFUzWkU5MGpoSndKOWxVWEV4MVUtTVJ1bHlGQXBqWkRVNF9paFRQSkptaWhGSUE3a0Y3MlZvWDBRWWhfTU9VQThUNWJlX2c4RTZRSVhXWjJpbS15a1FyNEJUR0tHbjMyYktCVFRoNnZpaE5TemRiZmhKM3JvNjdzbkpkNldVdjFZd0ZZa3I5cUtRNVhTOW9waDZkYW9xYy10WnVnSjBMT056RFlwUUZXX2Y0TnUwSC1IcXZyMWZ4cjBHdXpOcFR3?oc=5",
+    "titulo": "Salários no Reino Unido sobem antes de reunião do banco central - Valor Econômico",
+    "resumo": "Salários no Reino Unido sobem antes de reunião do banco central Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVp1VjAzR1ZYLUFtQkk4bHpDX0k1Tm9zTWxhekE3YTFCS0VpdVN1aGZwM3FVOGJPSGVlZm1GUFd5bVctdWpudVBsTDRLM1FpVU90elZPcnhwLTAwamRRSHQ4bXdyYlJQTFJvbUFLNjdLemJiR2t0bnFYS0ZIRkduQXpvS2xpREk2Ul82eEtpNEdZV0ZVcWFxTUVtdkFEZ0d5Qmo4elVjcHl0c1hrY3dvTWJ0TEVYZlUwWFHSAcgBQVVfeXFMTmRlaE9Kd0UtQWRXRE9XVjN4Y01Gc25fOXY4UG1ha3JUck9YYm51WVRETjA2Rzk2aVFwS1dNVlNfRGUwNkVFNW1NZEFhQXVMckNEM1h3S1JUQXpMMnJaSjJIYUdjWTZ6bndEY3Zrbkp2MFVXeFE0cm1vcmdFS1huZ1c4dzU5N0taSmI0MXFGX3EybUVPZWhRUk1mUjl5cjVTLUpaTmh4TWlkNFcyWWFUaDZQTzJJTTA1VzIzYWZpODJUVWNPTFF5Tjk?oc=5",
     "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f8a7ca7835b070d32d67ed09acb012118a3cf972ed587d61023516b43c02dc0b",
+    "chave": "0330075d3eee0b548f291bc7111825fec6cf96f43ddee07764e12b7febe3b762",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central estuda limitar crédito de acordo com a renda para conter endividamento - Brasil 247",
+    "resumo": "Banco Central estuda limitar crédito de acordo com a renda para conter endividamento Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWmxTUEo5M2w4YVNmT1Ayek90YXBoSzlrLURkeWE3amVnR2k4dmhvQUZQU0lKRzV4bklIbE05V3J2OGdBd3BkRjN4OHcyQ05ZNi1xSlRQSmI2R0w5dmlNUUxIWTdNX0lBMlZqOHNhUWdQQzQycWxMdUhwb0tneFhIeGo5V3I5aFA1RlJIZ3VjX3dkNEttN25BRXg1ZkdhbjNuNUpnYkdWX3NPT1FYUExONjd0ejlhemdyb2RHag?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0e91afc1ae07729525e02b747a5ea822dac9b588f8cbd0309e88ee2fda84998e",
     "ativos": [
       "CDB 100% CDI"
     ],
