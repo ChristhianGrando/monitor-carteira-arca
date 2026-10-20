@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-08-29 02:12:00",
-    "chave": "777160ed056c7581984f69c9e6dee1bc99b867e2db506e7f014f13105afd5cba",
-    "titulo": "S&P e Nasdaq fecham em baixa após chair do Fed reafirmar combate à inflação - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUJ0MHgyTll4dUgyZTB0X0cxNEJFZkQzZFV6TGxxamU0bTY0VUJDc0YxWHdQX0lPYXl4TDZWUWFOQ0ViT1ZSZzd0aHg4bHJZeEd5QnVfWUpkZURmZ1hrTmVDOWV3blgzdHJwNTU5cWV2U2daRWJ5TURrYUo3SkF6TzMtdkd5eWtDQ3BEZk4xamM5NlA3eHVGV18yLS1WeVlFS1RWTzZESXFlV28tY0JXUEkzd0cza0RWeTZV0gHAAUFVX3lxTFBrRDVIMktLUHlFNjVpbnFRNHFVNnRGaS03c1hZWDk0ZVNEZURvUWwxQ1M5RUlMSG9BTXU5Tm1xaVpQTVhMYXUwQ3J0RFZyWERhUjRZZ0owTlVKYXNHOHF2MnJJYkdrYXNLd3dQc1ktenZXdzZNUWFsYzhCOHpPNXBtSUh4R2lVejNWRFAwM2dBMWc1ZXpWRDF5LWtEVkR1b1dHQTczampWdUxVQk5EenFER3RySHJ0dGtuNFlSR243Tg?oc=5",
-    "fonte": "InfoMoney",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-29 09:03:34",
-    "chave": "516427f325ca09b4e927d9c4d6439d2256e833ac5388e3b02fdec5d2884ca94f",
-    "titulo": "Top 3 FIIs para investir com o fim da alta da Selic no horizonte - EuQueroInvestir",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnNQUFJZZEJhZUE5YndQVUNlMDlpejlSMm1GYXV4cENMVGQ0T3JHZ1hRdUFUdTk2bXVocnBFTmVwandJVk93OU5oSzU4MDNJWXAwbXF2UElmZzYwLVpoX2h4WU5COXdPT2J2d3FiVjRHMHNlTmhVX0ZRNkxuUl9kX05kT2NIU3ZEVEtCcjdqeGJHTndBTVVIYmMtYXBRS1lK?oc=5",
-    "fonte": "EuQueroInvestir",
-    "score": 16,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-08-29 09:03:34",
-    "chave": "adcf0efc59eeb4217f7710c535afea144d6072092eb2130f0c6457b643d11b05",
-    "titulo": "Ibovespa opera estável de olho em discurso do presidente do Fed, o banco central dos EUA - VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVFtQWw2NWU3MzNVbXVIUUJjSkJJQ0lPTWdVR25CS3BhU2xYN3pWLVhpYzdZdGpTcXNKckVEX2dDZUF4Yi13VjZIVzJydGoweFM5SXRmeXl4NnFKdlUyMkRKVHY2NGtiQUlwTGVWeUlxUFlHTFJKSDl1U3UwNHBROGRVcFgyVzdCZXN3cG11QkdCdjZZTWowREUyYk1rOHk4X09MblF3dnJ0VXR3V21BMU02ZmJPWVlWa3JubEhKLTM?oc=5",
-    "fonte": "VEJA",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-29 09:03:34",
-    "chave": "30ef34ceeb265af84a13d36f8c4c21e4aec248450ce7750c4bc586bee8e46033",
-    "titulo": "Presidente do Fed diz que inflação nos EUA é 'preocupante' e sinaliza que pode subir juros - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaDB2bDdBOG9MLS1teHFqa3pZeFVuUjl0WVp1bmR0Wlgwam43bmFDOXlaN3pIMmEySFhWWmJabDdDZmItN2ZFWHpWdklacG1mRjBVQm0yRWppb2pPSnFyTzNJelRxTnE5eFd1c2dtT1BCU1JPZzJFd3FKZkRvckNIZ3JGUzBQQWlNTHQzVXU3eDVoeUlfc3dkN3dwb3dzSnRRbFBhUW1LWEQzSFExcWpNSkl1VnJTTVpoTFM4TnVXWGdkU3dmVGcyblp6dlQyaXJQRDE0WjBjOF9WRVpQ?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-08-29 09:03:34",
-    "chave": "309d61c7cd81ac6c6a10b07da491693648eeac2b2598a2083093cdb8050e6d8e",
-    "titulo": "Bolsas de NY têm queda após discurso conservador de presidente do Fed - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3Z4Mzl2azQ5ZTZSbUdsVVlPbE1CYWtZeW5EXzgzajhfaGJWOVRWQW9rcEJMM21fMVV0dU8wUmtBa21zcUoweFZtNGU3N2tBNWVkQUFNWkh1RUxvZFo1aVUzVHVVZk5mSlktQmxaeDYwQWw5cjJnMzJwcnVNMElaMXNfSEh5T1AtY3E2OHJ2TWM3SVJ4dWQwMFlWa052WlBzdHZvOF9MVVRKUkNPVW4zRUF3cHVOS0UtbGdwNENmeGhLcWlzdUHSAdQBQVVfeXFMTkJQTnNzcHVCOVdhWi1mVUc1NjJyWVZNSDVmd29RV09CRjNkRktfb0F6dGV6Mzk5dnEtZThESVdOTjFrWGhpSmtQWHpMelpGaG1HOUFtQ1hoWWo2MmJ2ZmJSdmtvRHNUYlJiSUdEMkkycWVGdkEyaDVpT1ZsTlBPa2xpUVZ4ZE9uNHFnTVA1eEcwNHBrbEdRYzI4MENpR2lpWjhodWR3VGJRMXljRkZfMEo1Vk5OOHFBb3J6UXR5VnlzSzllWDUzNzBvVVlnVGxWVW9KcVI?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 10,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
     "data_envio": "2026-08-29 09:03:34",
     "chave": "935459317b97982d7df40c35f3d885c060b38b5ddbbe3c323a7cc37acdf978db",
     "titulo": "Wall Street fecha em baixa após fala de Warsh sobre inflação - CNN Brasil",
@@ -17462,6 +17375,89 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-20 06:00:52",
+    "chave": "b64205997b7ca3ae9aa986517d39ee6c0531a8f5242524cb9c0d722c24d09520",
+    "titulo": "Ajuste fiscal é caminho para queda da Selic diz Rodrigo Sgavioli - Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTVKQllpWXh4OXJ2ZW9QZVdNWi01MmJVd1NHek4yUkc2VTVkLWFNSkRpZjZOdl9IQkFqS3V2a0FxQ2hjM1llUG40Q1gzUFEtRFB1VFpudXNsbnpmYVEwQjFrV3d2NF9vUUNCLXNTN2ptMGdxeG9VOFliMW5SRm1jU0dGZ3hNRURQcDRuUEttTnFBcm8xVkpnTXVaRVpkZTYwek9CZ3BWbi1zN1VxcTNQS2ZydlBWdw?oc=5",
+    "fonte": "Gazeta do Povo",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-20 06:00:52",
+    "chave": "61ee308df4443fbe5ea80b79c2813705a227d4cfb5a052018349000135c8af50",
+    "titulo": "Guia de FIIs (19/10/2026): XPML11, TRXF11 e TVRI11 compram ativos, enquanto RZTR11 e HSLG11 enfrentam inadimplências - InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Zkc2MElZbFdLUHpiRWFvOTlfSWRDN3J5UGZ5VDAyWjJ2MTFhN0dWR0NfTVhIaGw5LWR1dXNJNHNlWkVyYlE0SEtPQ3pfTWRpWkpwQ0FKMzluNDdaUWRzMUNtcmhSNTVuZS1IS09KUW8?oc=5",
+    "fonte": "InvesTalk",
+    "score": 12,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-20 06:00:52",
+    "chave": "c3309119ee203238fdb18d86918c025ae840206e7fc5851258c28a3d9ccf8a87",
+    "titulo": "Mercado mantém projeção para inflação e juros em 2026 e espera PIB e dólar mais baixos - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHVQR2I0LUhvS3lZN0trblVOTTVKYUY1a2tkbzRpSEpfTTRMZ1J4cnpPLXpOTDR5VjdodXJCa2c3MERkZmh0OC05Yi1MZ09jUi02VWIycHRKQXNNY3ZTT0Rsbktuc29OajlqNkY3NTRKbTdLWUwyemxhMUwzcEQzc1dQM1FNdVhfeG1jU3JnUV9ILVJxWGpYOTdUNmdQaVR40gGmAUFVX3lxTE5ST3NEdk9pNy1xWHEycVQ4ZmJXXzQtVjl0Z3QxRkFINDl0WUtsV192dFhHYlNjeU5GUFhzVjRIbFVRT2xkQXItdW9weU9oVFJ4a2pSSm1JZkxfVUFCYkxHRzNpY2FiT3ltZ3dRbDhpNzJrUnlka0J2TnVSSzZOSnNwUjFVZ0lmUU1NeHl4b1VrVkN2d0YwaHpQVzlZRGpuR3d0RWV6S0E?oc=5",
+    "fonte": "Estadão",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-20 06:00:52",
+    "chave": "f33b80ffedc50ac17e8a450fb928f28f4961249d6e8747618efaf7e170d06bd9",
+    "titulo": "JPMorgan se aproxima do lançamento na Nigéria após depósito no banco central - Bloomberg News - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cmpQMThWSzA3d0l6RXJuUGNfTTBGX1Jma2Ffc01oMkpWd2NGVmdUdnZhWDBXNXJ5NFNibFY2bVBkQklpU29hRV9ZX3U0VURzZFhZNnF4cXZJNWpVS2E0c3VpV1k0Tk9tbThPTXV6aC1CUk9WeHNV?oc=5",
+    "fonte": "TradingView",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "SPCX34",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-20 06:00:52",
+    "chave": "f8a7ca7835b070d32d67ed09acb012118a3cf972ed587d61023516b43c02dc0b",
+    "titulo": "Banco central da China mantém juros inalterados enquanto estuda reformas na política monetária - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUHU5aGFzSEtfRUFMRjVKZm0zMWJrbFphWGpoRXFnR3ptdXRka2E3Rjk3emtrWUZ5YXZuTGZ3em90LXZNLVVuZUNhTlJCaVNrMjRJODEwcllYRW1VSHFudm1LUzJnZ0xRU1duRUpNVWVtUS15UmNZWW9HV3RiNXdNOTlNcHhmT2tIZC1yWkNRY0ZaYTFVcjlIQndPTm54ZWsxV19XbEszTFFXQ1lJclFXcTZGQVhVSVFEMUh4X3E2NEE3QUs3a1E3VVVpazNadmVkMDNGZ1VfMGtydmJnRHM0a2hzY3dEQTjSAfYBQVVfeXFMTVQyMGZzYVZVaEx1T1I0bDIzNVhWelhQUFdIbGxxVlZnYkhSSnRHMTR6OGRWcjhvcFUzWkU5MGpoSndKOWxVWEV4MVUtTVJ1bHlGQXBqWkRVNF9paFRQSkptaWhGSUE3a0Y3MlZvWDBRWWhfTU9VQThUNWJlX2c4RTZRSVhXWjJpbS15a1FyNEJUR0tHbjMyYktCVFRoNnZpaE5TemRiZmhKM3JvNjdzbkpkNldVdjFZd0ZZa3I5cUtRNVhTOW9waDZkYW9xYy10WnVnSjBMT056RFlwUUZXX2Y0TnUwSC1IcXZyMWZ4cjBHdXpOcFR3?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
