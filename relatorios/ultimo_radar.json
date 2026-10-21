@@ -1,121 +1,94 @@
 [
   {
-    "titulo": "TCU aprova contas do Banco Central apesar de investigação sobre o Master - Gazeta do Povo",
-    "resumo": "TCU aprova contas do Banco Central apesar de investigação sobre o Master Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXVlczlJbmFfd0Q5ZW10R2k0VV9tYWlWbTZiRVNQSG14dHRScEUxVEFGT1MyVUVpUVpVRldXT0J3TW9NcDE4STlkVUNVTFVhdnZkNlFFam5aaldiXzNHQy1tSEJMeTBBenNhZEVVbjBYVWFUUnI1bXZfNlN4WUM1TTh4SVF0cVYtbHBhaFRfSEQ1cGVjU0NJaUxPWHJaNFdCd0E?oc=5",
-    "fonte": "Gazeta do Povo",
+    "titulo": "Minerais críticos podem ter mais oferta de capital com corte na Selic, diz Levy - Agência iNFRA",
+    "resumo": "Minerais críticos podem ter mais oferta de capital com corte na Selic, diz Levy Agência iNFRA",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS1dlRzQyVGNnOGJpWEE1RHp0UE91WE4wMkpuWUNqTG1idWdsMnl4N25KMllpbm9UbDJPaFRjbjJtTVRwUExmN1I4OVZTME5SMVBrb1dqd0syXzdKaDJwQlJTQ1Q1MjJPT1B0ZlgtcUpQZWxzU3FtSkJ4dDlvNVBuX2p6Rm1TM2JMV2tUZ2FpbHZzek1wY29jMmxvRFBwRHFtQXV0MG9KMmUxbllYc3c?oc=5",
+    "fonte": "Agência iNFRA",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5fc2cd71939579ed50b2b5a2cb36fbee3550c58c567b7ef74d9c167a5b9e5624",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "TCU aprova contas do Banco Central de 2025 após retirar suspensão ligada ao Master - Vero Notícias",
+    "resumo": "TCU aprova contas do Banco Central de 2025 após retirar suspensão ligada ao Master Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmw1aFFVZm9YRmJWXzBsNUJLUV9xUTE4S01RV0ROSFhtT1VPWW9falZYTXdLdm9SNGpkWG9TQjZqQzFwRDhFbkVaU0dfSkwyQzhLQlJoYXBWOVNJYnBZTUhBWFMtTFN0XzAyS1JOMmlHaHR3bVN2Qzl1SmJvN3NJY1pIcC12c0tJVUZ2Z2lnMHV3Vk9JM3JrMm5IQWRYN1VrTGJFR3RpR2NhMDRtTExDdU9HNVlBcGhP?oc=5",
+    "fonte": "Vero Notícias",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "379907e91c524bf3758ecae509c80e630c79fb18b92e3a06d627f935854dcd05",
+    "chave": "b0f11ba9c7332e973a997bc4e8293772afdce60ea2f4ff8a538c5fb9e1e1e534",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 14,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "SpaceX, de Elon Musk, reverte prejuízo e lucra US$ 4,4 bi no 3º tri: ação sobe - Exame",
+    "resumo": "SpaceX, de Elon Musk, reverte prejuízo e lucra US$ 4,4 bi no 3º tri: ação sobe Exame",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0RrLVctYlc4V0FQaUlTbFFBRHRyQnI3QTEwcmw2QnNwNGJGb1FiVW9PRGYwcG9lNWE3R2dab3JmMGpIc1RJb2dSaGdLYm1sNWhPeklNelUxN1BFemJUc3RTWU5GdDRPUEQycTFSdkJiMTBES3RVQ0I2LVdkV3M1d2dUQ01vSHN2SEZLZzRoTERBYmRzbmpHVExOeHR6dFFNUHZVbnhhTnRZaXM?oc=5",
+    "fonte": "Exame",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "e838f4b876c96046fbbee8b62fda7d555fb626a76f63219c6dc6579bfc4d17a2",
+    "ativos": [
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa sobe 1,5% com otimismo eleitoral; dólar cai a R$ 5,01 - Money Times",
-    "resumo": "Ibovespa sobe 1,5% com otimismo eleitoral; dólar cai a R$ 5,01 Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtNDllSXNLUW00cUpwUzVGWHJPUDlNWHJpUWVuTDNyd0tjb0t2ZmU3cEt0c3gyRThsS1hEX0xEZ1lhUjllVTVRd3lGZ21EX1hLZ25PdFRBSUxPZjNsNEI0Nl9STQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "72085b86dc9c96d25105e3d5cc249fe3ba6b835c4350f81ae8cf4a675cced728",
+    "titulo": "Opinião - De Grão em Grão: Por que aceitar um rendimento prefixado de 12,5% ao ano se o CDI paga 13,65%? - Folha de S.Paulo",
+    "resumo": "Opinião - De Grão em Grão: Por que aceitar um rendimento prefixado de 12,5% ao ano se o CDI paga 13,65%? Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaEsweFBvT1JVdFBaYThtM0wyM1dPeGk0TEZWM2VfdFR0NTNFYXRzQ2trdmEzaTE5cS1VVjl6VUlJX3pHQlhtM2k3N2FHUF9uMjJnUVJzNHd5N0o4V2huYVl6Q1hfRnM3WE00emVEYnlhRXVZUU9RSzFqQWdqeVh3WlRIQnNPN0NqdW9YbjlxNmw1SDlJaUhYdG95Y3VrelgyMS1yMXFLcEdiU3plZmktR0RHWV9FeGNkMzdHSUN0UDhlRWM0Mlc1UUR6d0tuekdoQmRYWA?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "0db9e2b4a08f09334a04e3f6abba3a869830df490f0acfede0e8f369071eb0ef",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa futuro sobe mais de 1% e dólar cai após pesquisas eleitorais pós-debate - Exame",
-    "resumo": "Ibovespa futuro sobe mais de 1% e dólar cai após pesquisas eleitorais pós-debate Exame",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEtyXzMxaVRtMEkwLVlZWFgxQnZZZU5wNnJxSjRzdDNWNmpWdXQzRUlIWmpJbU1DT1h3TU9fV254TXVkWGpUa2dqbDVSeDNlUmxEc1ZKaWN6Zml5Sm5Kc2V0T1N5c1FlVlFBODBLTGQ3WEVwbklMX092Wi1sQWQ0b1YxNU1hdE9OS2VHUDNWRWVjTzZvM0gtVzZrYWtja2taZWp1Q0FsaHE4cThZWmVQN2ZzY0w?oc=5",
-    "fonte": "Exame",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "083a734845953f392a3eab553d4c9e6e14bf248a5459c9df8c174655fcd07213",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa retoma 208 mil pontos com apoio estrangeiro e eleições; dólar cai - CNN Brasil",
-    "resumo": "Ibovespa retoma 208 mil pontos com apoio estrangeiro e eleições; dólar cai CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2ZPN0ZqY3F5THc4LWplMUV5NV9JS2FvVjJtU2JIQ1FZdDNBaFdDYU40ejZGQkEwZWVVSElzNFd6YWl0R1NEUHlydFp4ekRwb3Y1MkFfUTBfUXBlbnNBOHhuVEcwVUxxR0lLaEd6b1hEd1lMcXJXOU9Nc1BGRW9XelNQUnV3dXVSc2VrUU41S1J1b0RYb3UtTVdQa256SjRrTDFieA?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "61d7373ba5fce43fb8b20d46b42d887e631ce50efa4e07253ad1fe252160b502",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar cai 0,58% e fecha a R$ 5,019; Ibovespa sobe 1,57% - Poder360",
-    "resumo": "Dólar cai 0,58% e fecha a R$ 5,019; Ibovespa sobe 1,57% Poder360",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWhmUUNSS1ZHeElJY0JaNmNZeWtmdGxDMXZPWkdULWl0YUJka0JMMXJXOUZ1Y2dwSTd3LU9Vc2lMcU9kNDhYeUJ6eGZpbDVPUlZoTTBiZ0p2UFhtTVA5SGkwbUVOeG9SamxJaWlvNG9ZaFRpcS1hVl9qTjc3ZDlLaDNFOHpxdW1haDlQaGw1YXBCaWRMTHRj?oc=5",
-    "fonte": "Poder360",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2dbd74c041204cbe23896518ac919ebf55ad037cde0c53fccf9c7d9fcbae93a3",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
