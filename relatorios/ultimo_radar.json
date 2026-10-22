@@ -1,95 +1,24 @@
 [
   {
-    "titulo": "Ibovespa termina com queda, mais uma vez com pesquisa em foco; dólar sobe a R$ 5,02 - InfoMoney",
-    "resumo": "Ibovespa termina com queda, mais uma vez com pesquisa em foco; dólar sobe a R$ 5,02 InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkp6YWlXdUNDV2tfZGxTcjF6UUM1SWp0RjRfdWtyZmd4SzQtcThRdUdWTkFDNWJoOC10UUVrT1lfNkRBVTZrWm1tVm5MY2R5VFV5R242dmUzZkROTG5tbDZCaFVUWndkUlBQd2xqRkRtWmZtSUVqa0VFa3Vhek0yU2VkV0UzT2Npb3FNTGtUaw?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Especialista explica como inflação oficial do país é calculada - Agência Brasil",
+    "resumo": "Especialista explica como inflação oficial do país é calculada Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMW5rWlhXV09WWldqakU4R3JHMldTTDZRVUszTWl2c0oxdFR2cUJoWHdDX0xZZi1FMDVER01UVHBWR1RvRERrOEw0YThPclNmUW9QNjZLSS0wRE5uTXQ4Vl9mQ3IwS3d5bUxGTWhfbTg1THVRZXpTWmRwY2ZQSXBMcXVmT2dPejF2TVBnSHNUR3pnbFNMM1BwcUd3MC1BRzdRejB6ZFA2VnZSUlRXUVg0YTQteExWNDhkdGJiVE9kQW5odm5mUjlEVzF1czZ4X1piRm9iN0NURQ?oc=5",
+    "fonte": "Agência Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "560614c92e27adb74c35a3add1c6641aace8e9e9b441bdb660c729a56700b4a7",
+    "chave": "b1680a575d46e1125dd779569e742d45ba8b0bf0183572c7f140164bacc36ee5",
     "ativos": [
-      "IBOB11",
-      "WRLD11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha em queda e dólar sobe após Quaest apontar empate técnico entre Flávio e Lula - Valor Investe",
-    "resumo": "Ibovespa fecha em queda e dólar sobe após Quaest apontar empate técnico entre Flávio e Lula Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ29FOElRdHBFaDJ1dDQ0aFpIa2JtRW9xaC10MnpTR2E1ZFBNMm10TXR4TFVlVUtFeHJJamc2eEFBaG5YelhGOFJsUXI0MjUzUmE0Qi11ZDBWQWdHRXVhRHVJR0JpOGx2a3dNbEcydWhQclNMOWtxS0xLc2xjZ2l0bVEwQlVHVVZUS0t2U1RiMXF0V3U2SUk0alQ1WkN5SFBDdk52b3ZZb0pDMXRnQnVuVW5ESkVDUGhNSGhRaEZBQTNnQXN5dFY4MzA3MktvTktWRzZXSWRQb9IB5gFBVV95cUxNelJ0SERtSHFSMXpfdWtLM0ZILWxudk1WaERPdUhKTXdDdS1qdlI5NVBvZ2VfOWp0YkplZm50dXN2VjcyeTVKUDUwenhhQmtmVEduVHlCcUV4ajRZZVphaWotS1VjTVJrTTg2Y3pidG1ybmFmanYzR0dndVJOcVQ4MGZzdngzM1JWOVlrVE1uSk9FbFRwN3ctNkpoT2FvdmM0aWNqTzJxckFRTGFWdVlLeTZzVVJJZ3UtZ1FWVmZkem51YkpsbHAzWWdhc3ZrZWdHbGhsTV96TkhVQkl5dmxPRnRheE16UQ?oc=5",
-    "fonte": "Valor Investe",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "de59112636c80ddcc8fc68e3ac4e4ee0e4f903a54fb512e6e8019fef995aa03e",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa cai 0,86% com pesquisa eleitoral; dólar fecha a R$ 5,027 - UOL Economia",
-    "resumo": "Ibovespa cai 0,86% com pesquisa eleitoral; dólar fecha a R$ 5,027 UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbU1EdnRpTDdYbzVmR0tURlo3Z3A2VU9NNXlwdENaNGxkTTdiLU90WlRJZlh5RFN5OGlkREtscmZoWm5oVzNsdWlhalFuRnhwZjRRVXBwcldyRjlNbDVZZ3JISUtSbnAyNVZOVmhzcHJkRjZoU200U3NyYlg5VldFelgzS3V4dk5IQzBmTXoyMkdoYWN0OWVIM2lnTHVRcmNGT3Z2TktDODI4TDZpazNNNFJnTQ?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7c5e03be74803307482ac6f7f74e4e4978fc8cf0e1a60074cf69ef764fcfbed8",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa sente o peso das pesquisas; WEG (WEGE3) despenca 7% e Magazine Luiza (MGLU3) recua - Suno - Investimentos Inteligentes",
-    "resumo": "Ibovespa sente o peso das pesquisas; WEG (WEGE3) despenca 7% e Magazine Luiza (MGLU3) recua Suno - Investimentos Inteligentes",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREw2clNINWN4WDZZQnlNWnBubU9HbnZ0aEJUYmxOTWVSMlJfc1prSTQxRmM4S0dDand4TU9ZdWo1aVJ0d2g0ZGthaDBmNzNZWXZqdGoxNXdZdGZzVEtmUzBfcmVVUkNxRjhteHRXM09pMTF5cGhKa21ra25NdDl5b0Fnd9IBiAFBVV95cUxPcmNFalNzQzdPRHcyUlc0RndycEd3Z2cwRkU2bTFZakthdWJISHBKREhkaEsyMmFST213WGRXZWNyVjBjczRXSDVKZ2hpdVAwNjZHaXo1WlpvSjBmVFFDQXE4enByZng3eXBXbTlMYW5seGxHdU15Vlo5T1BUak9BbGx4V1dSRmJm?oc=5",
-    "fonte": "Suno - Investimentos Inteligentes",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8a57afbfcad23a9531bea97937c4195d955ed72c63a196aeb78b3242761f8c3f",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
