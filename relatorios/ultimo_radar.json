@@ -1,11 +1,106 @@
 [
   {
-    "titulo": "Especialista explica como inflação oficial do país é calculada - Agência Brasil",
-    "resumo": "Especialista explica como inflação oficial do país é calculada Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMW5rWlhXV09WWldqakU4R3JHMldTTDZRVUszTWl2c0oxdFR2cUJoWHdDX0xZZi1FMDVER01UVHBWR1RvRERrOEw0YThPclNmUW9QNjZLSS0wRE5uTXQ4Vl9mQ3IwS3d5bUxGTWhfbTg1THVRZXpTWmRwY2ZQSXBMcXVmT2dPejF2TVBnSHNUR3pnbFNMM1BwcUd3MC1BRzdRejB6ZFA2VnZSUlRXUVg0YTQteExWNDhkdGJiVE9kQW5odm5mUjlEVzF1czZ4X1piRm9iN0NURQ?oc=5",
-    "fonte": "Agência Brasil",
+    "titulo": "Queda das passagens no IPCA não reflete cenário real do segmento aéreo - FecomercioSP",
+    "resumo": "Queda das passagens no IPCA não reflete cenário real do segmento aéreo FecomercioSP",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzA3ckJ6TnRibGNSM05oMXNQRUlFOTZZRmxESmIyd2xqTmNDbnphc2VXSVd4MkMwOFl2dkoxdkVkTjUxXzBOUUk5d3hPMDRseFBfV3gtbGUyRWliV1BCX0JzNExsam80VlJ1cnRtc05kS2JJTF9nanJFSmNxTy0tY1hMVGh0bDA0M1BXQzRvT2hVaVM1MzVURDZpcFp6cEpDSVhVR3BmWQ?oc=5",
+    "fonte": "FecomercioSP",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b1680a575d46e1125dd779569e742d45ba8b0bf0183572c7f140164bacc36ee5",
+    "chave": "24413e06a85648890f9331b49098888c56c85a0502b7a1cc4934e4a769761506",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar fecha em alta a R$ 5,0272; Ibovespa cai 0,86% a 206.495 pontos - brasilagro.com.br",
+    "resumo": "Dólar fecha em alta a R$ 5,0272; Ibovespa cai 0,86% a 206.495 pontos brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUlQNDVjMzJYV2EydGtHUDA1c0ZSZVZhVFNWakNCY1VVSkVSRzNPQlFqLTZsUnpycVlPb3NPZjRCaExNY3VyN01TZjJtdXpHUUtvMW1nTGtqUzRUWDFXVU0xOHVCNURRWENETURzSC05SWY4ZnluTUNVYlJyLTU1eHRxSWpoaXBrM1VXcGJUWjgySHpSMlltMmFyZW1fZ0ZSQmdPTl9xV0xvQQ?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "6fcda44001a00a637d7ad766b4943c2510312faa9ec41a54d9625dcbfe1f19f9",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central das Filipinas eleva juros em 50 pontos-base para 5,25% - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "Banco central das Filipinas eleva juros em 50 pontos-base para 5,25% Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmNIT2gyRWRkbmhkN29uRHY3VWVCa21reENBYmNDRnlfbDVfSU9hQWsyMlAxdmE3dktiWWVlUFpVSUd3eE9ycVZiN0haa0FTWG5zVGdHa1BnaF9PTUxILTA3UDQ1VnhmM1dOV1o2V21LWFRPUHpvLTR2RmRJeXN0dkJUd1pHNlR1LVA2eDNMaHZXQmFVTm9HbDB4YXVPdUJsZk9TZ0NLMkNtV1NOVE8yRkJGVEMxT2pwQldDeEZ3?oc=5",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "9e121ae867fb564b322507f272f346ede018cc25c68fc3d9c1c29f8c02d1afd6",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Energia mais barata deve frear prévia da inflação em outubro, apontam projeções - InfoMoney",
+    "resumo": "Energia mais barata deve frear prévia da inflação em outubro, apontam projeções InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHp6U1hjMGkxVGxtWHpQclNPdmN2T0lUN3BCVWVTZmg1cmd3UHhFSHNsUHJNcjdXWU1mOUFsWjJjSWg3aDRLQjhBOWdZLWppem5UU29Vdlkxc1Q4enFDdW1MR0xqY3ZSNTJGQm9QaHhieHk5UFE4VWd6bm5aN200SklxV0FOUdIBiwFBVV95cUxPenpGUFJDUGI2MWF2WVdub3pGTm5XZE54QS1hWWtLTGZmd3NpZzBRY083TlpHWTd5VDdPNnFBWVBIQ0p3bkFtbU1nS0VidGp4VnVtdENLbjRTRS1kSERSaW5jVkVtVUJOVEJXcWVOMGlFTWZaSUl5TDJ6NXY4dDg4anFfc1p2SmdKWms4?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4806bafa33bdc551134be9a6cf405a0076e5afc30b88a842a9b55239390883f2",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco central da Turquia deve retomar o ciclo de flexibilização com um corte de 100 pontos-base - TradingView",
+    "resumo": "Banco central da Turquia deve retomar o ciclo de flexibilização com um corte de 100 pontos-base TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jdUhnNDdZaXhMdHVEUkFGWU1JU211SlIzY1lOR25GeEw4N2JNSmNyWDBlb0RxZGdzQnQzZTVCZlBKeHJlam83TjFFcDVlT2p5N3VZdjdDbFRDdkgtaWs3NTB2ZXpYaG9idnJtd1g0Vl9qdlZOM2xr?oc=5",
+    "fonte": "TradingView",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "f0d28ca36fd264e049d60de3f96f0ecf71b6762c0a15ee343cba9d19a9616998",
     "ativos": [
       "CDB 100% CDI"
     ],
