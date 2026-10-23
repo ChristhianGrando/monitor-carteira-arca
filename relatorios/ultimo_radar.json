@@ -1,11 +1,38 @@
 [
   {
-    "titulo": "Ainda vale a pena investir em fundos imobiliários com taxa Selic em 13,25%? - InfoMoney",
-    "resumo": "Ainda vale a pena investir em fundos imobiliários com taxa Selic em 13,25%? InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTRuaVZlSzdFZlZtVnRiNGc1cV9zQUJyUVE5N3c5NmR0cVlYX09QYnM2b1pPMHZtRzNMcldKeHVLclNxSDZwSmV3ZXlielRFVS1iLWVWR2hMbkE4N2xCMjJNX3F0R1VPZWhwSHJWYTNDOGx0N1RXa3hoTVdyMEhBa1ItY1dMZS1URWpoNGVDRldKeDZRaS1uRFJxWk9JZm56S2FQTk9QVnVTZ3fSAbABQVVfeXFMTndRVEpaNWRiMGh1MlBqQ1JCX1IzV05yc0N4YWRJNkR2YkgwbVIyclFVUEYyUWdpMmhSSFJlM011MjZjZ00yY21OZVpnQXA0c0QxaUt5MmF1Y3ltVzVGeVktX25oalgydUh1MTlSUFpUa25NbE9HbEw0VmQyVWg0VjlHd2dNUm1ST3hxejNVRUNhNXZHLVh4dXlneUFhenJjV1J2OFQ2ZjZ5MFk4alY1dno?oc=5",
+    "titulo": "IFIX no topo, mas descontos de até 30%: FIIs ganham apesar da queda tímida da Selic - InfoMoney",
+    "resumo": "IFIX no topo, mas descontos de até 30%: FIIs ganham apesar da queda tímida da Selic InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVZxRE1ZcUhTMFVCaWdCWU4wa0ZSOTMtNHRCNnQ1bC16SjRMSU1SNGV1blN6ZWk2emhldndjNzA0a2xRRHl4MTFLYk5xUkszNThtMGxudGhBTHVERWMyM2ktMlNXRE5yVjZKaTVYVGhndFhocnduWjRTSzgtRW9XMlFQNjRWbGpiRTBpVk5RMGZacFA3QVJKa3NmSGpVbXNxNkNuSFM1enF0S0FZMWNiaDliTjR1RFFnUjBTM2VVUUdESkXSAcgBQVVfeXFMUDViWTRDRUJhQWVPWmVkOWd5RG1jc1dDRE5seWJzU1UwS3phc2p5WFc3ek9aaUdoQ0xLbDZaWndkM0FoYmQzTlFNUUJXNnZ6ZVhqQldNVUtPYkE4TGFkdFdXVmhiR2ZRZ1Y3Y3hQTjFnWG41b3lqbGtLaXhwWlFuOTVXUmNlZE5ENnhTdUhOM0UtS0xuck1IVFpfYnYzWjJxV3NyS2ZJMDBGR3FGSW15NzEyUkw3Vjd0V1pzaHR0Yl9tamlrWEdpOGs?oc=5",
     "fonte": "InfoMoney",
     "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "2ca0fb8b4b4ed9c6fc7878f8c2bc68dcf4b675154b1f523718a2901fe7e44833",
+    "chave": "4955faa2a7781c6892cc944c47e962693fb063c2e9d6b209351e99a38ac30e4d",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa hoje: empate entre Lula e Flávio e IPCA-15 pautam último pregão antes do 2º turno - Estadão",
+    "resumo": "Ibovespa hoje: empate entre Lula e Flávio e IPCA-15 pautam último pregão antes do 2º turno Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbWRLcmZ2RzBUTHhFOW4yN19ZQkRzMVlCUnRMSkh3RG5weXVNYUpkUkhZWW9VMHhXNlQ4R0k1SGc5UlNHc2FoWFdEdHdsOEx5X2h2UVM1WC03OHhGWG1WZHlzVDBUSVluY3YxNU03bG43VS1BTWxmd29CNGhSUlI2SGZJSjdiOVJ1OTd6cWJRQ0RGYTFKTGdDVzNhRktFemhhenMxRC1fSjh1NjhvMm43VGt1bzlTbEpWN1pNWXh0NFRldzhYWW1yY3lVS2ZQdjQ0M3Jfd3haNmlJd0NBV1pDa21jelVva0FsdDQ0?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7955e400363f04b0a7f9042a44d4b79feb65236942444096832f8abd3d094db9",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -17,74 +44,6 @@
       "Real Estate / FIIs"
     ],
     "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Cautela eleitoral e exterior derrubam Ibovespa; dólar avança e Nasdaq cai mais de 2% - Exame",
-    "resumo": "Cautela eleitoral e exterior derrubam Ibovespa; dólar avança e Nasdaq cai mais de 2% Exame",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRF9aN2JUNlBDWUwxYll1M0I4S0hzdThiVU90bDFqamwtWThzNlU3UXJrQ3diNG90bzFENjFKV3RxWmRqMUctbjJrelh1SWRmbEljLWRkaWswd250cUhzeVZPd0Z5c25QZnZxcHA4cnMtM2ZCNlFCNUFyeGRBQ0pjNUxUODQyMXRiNWJ3RjAzemh0Zk1SZkVqZkI2dzVacEQ1cEZQTGlHQTBkSmZxeGdLTUJ2eDRpcV9j?oc=5",
-    "fonte": "Exame",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "aaecd79a221e3f51af36b669dc57384ae95b585c210635129857303ab1e917c6",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Afinal, quem falhou no caso Banco Master? Ex-presidente da CVM aponta para o Banco Central - Seu Dinheiro",
-    "resumo": "Afinal, quem falhou no caso Banco Master? Ex-presidente da CVM aponta para o Banco Central Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVRvN2RBNGd2OWVzb2taY3c2cEhUZDNFZUlXcmc5S3k1X1VnSEdsVDdHYU5GcXRQWEVoOHJFaFVBVlUwVjc2a1FGRXFPckFNOXVHMjdrN1pEYXY4LWc0RzB0Q29BN0lMZjJHZ3hBV1ljeURBSzlBYjJtLXNHV0d3TnBxUGZVNnRWbm4zU3hNSkN4UHR6U3M5N2FNXzlEdmpCOWstVV9hMHBLd1dvTlUzcDQyem9PeTB1QWl6ZVZCZmxpdW55SEdfYlptSFF1WWp3MFE?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "9e78617cc3da78822f9b778d01d8bf2e1bf61f698c8de707e39036ded8c7e478",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central da Turquia reduz taxa de juros para 36% ao ano - UOL Economia",
-    "resumo": "Banco Central da Turquia reduz taxa de juros para 36% ao ano UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFh2aGpVaDdXMVRibGUtQlAzRkdxSkJJLUtJR21TSnhFUzQ4Z19tczVhYnYtZWtwQXZmMkNHRTVRRkFMd0ZBMzcxVDM5bS1mMzZ2YVBfSUVoTXZnR3hvUUdqdDZMNjc0TVViTjFkbjZYczFISWlJOVh6c05kMkNFN2xqcTZPcWRsak5sRG4zVEdXME5YSk5Hb3o5aHoyS0tCUHlKUkF4dVBEeDl5OTZDMV9GQ0JPaGlwZTRCY3Eycml2OGZYdnhZTm9tWHF4SHVPRDVPM0M0bw?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "78e3006632c72f80a0b03f8c1761e7a6a2d4fea343682fb3c2b951dcf51e2cd6",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
