@@ -1,47 +1,120 @@
 [
   {
-    "titulo": "Ibovespa fecha em queda de mais de 1% e dólar sobe com aversão a risco e Datafolha no radar - Valor Investe",
-    "resumo": "Ibovespa fecha em queda de mais de 1% e dólar sobe com aversão a risco e Datafolha no radar Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXNTZW9oeWc0UkVpSzBCdS11MURQdnRkSktENXRoYlp6VEtTQjlLaEV4RlF0VU9yaE54cE1ydjRyTzF6TzFNbjdxSTNtZ2RpY2ttMEQwZ2hzS0RuSnlseXFwU3pjREQwMVNfQjRWVkZjN1JtNThoSHZJTUxBaGRTZTVybTl6WXZTUmpoNVZ6bF9Ta3RianhMUlRfYnROWHJnZ3pQZmlhSHd5UExoVUZxWTg2WXhJS2lEelU5QkZqMnY5LWxKTFAwekI2a2cxVXJ0Sjc0WHRBNNIB5gFBVV95cUxOZVZRVmZPWFk5V19tTzhJOTFqR01xRmJYZUtXUi1ndjdUU0xLMDlQWUtQRmVFUmRldlhHdWlsOW0zclEzc1h3VXRhWUY3dW01ZWlhQmswelJUd3ZEZm9wbkZzMm94WTI2eUc2T1kyWldKd0U1T3JqZmZPT0tsS3Raak4wOTJVbVB1d2thWGlBMHJ6cFk0bjY3bWFfYjBWZy1abnEzbVVJdmlCNVQxOHJPS1pyNmg2cUdyLV83eTd6eEltT3lwdmhGVG8yTG1aRU5FVDBKYmhyd1lVN0J4bEc5b3JoSUNvZw?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "IPCA-15 sobe 0,32% em outubro, puxado pela alta dos alimentos - G1",
+    "resumo": "IPCA-15 sobe 0,32% em outubro, puxado pela alta dos alimentos G1",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUk5VcE9PdTFrekdMNUJ2M3I2WlMzMVB4SVVCVTZuRG5nYzdia3BMTVFjYTNWdjJnemRBM1ZTa09EbGtocFRJaU84aHRDTFVacHE5ZFhfektqeE5EazJMMUROYzIzUGhXdUxMd0wyMTVCNUYybjcxM3JKb1VyeXNYMUcxb1NQeG1sYVZSWmQ0MGwtc0XSAaIBQVVfeXFMUDBhdDFtTEJWbHlsT2gxN3hVaXlUdXNzUGVzU2tsMDByUldhRXA1aUZiZS15VHlPdmMyT1h6SnZoYmNOSmFoZDBJeUN5UEI2ZUd4Vm0wWTZmZllsSmVnYk9qWXFQRGVld3ltamduX2RGYzVXV25pZmVyQ0xlS25DRExfYzNQbDgzVWtMV2dJZ2dJU3hnQ3UxMzRVd3V4ekVtb2tn?oc=5",
+    "fonte": "G1",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa Cai 1,15% e Dólar Sobe com Aversão Global a Risco e Eleição no Radar - Forbes Brasil",
-    "resumo": "Ibovespa Cai 1,15% e Dólar Sobe com Aversão Global a Risco e Eleição no Radar Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDJYSHE2cU1BT3Y1cnVWSXpTbjFWZFNkRmREc2U0RFdWalVETU54QVlYZUlfOUNkY1k1RjRjZkhFX0tLbjlvSTlnSUhPTlJkX1ZZM3lZUzJjcEtaR1F6R1JDWTMzNmtzRUpEcVgwUjlnS3ZQQXlhcVNURGZFVFV1N0RRdUdMbWpHOVM4aUZGbVh0ZVpDazZDVUR5MzNOR0pUX29sOTlZRlZ2X2tJWUVfLVROOHRkMHlOd0RZ?oc=5",
-    "fonte": "Forbes Brasil",
+    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com foco em IPCA-15 e eleição presidencial - InfoMoney",
+    "resumo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com foco em IPCA-15 e eleição presidencial InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXpJNE9jTURYeGQ5bjNxc0JCUkZnV0RyM3EtNVZnYzlYQTg2YTg2bmxWYVJtd0VQbHlQS2dSdjJ1Mk5oLVR4YWJnZHZGSFhJV0FkN1VuSGI3a1NOT3JiOW9iOENWY3g1b1FoZVZTRVpuVHBnUGxVUlJ0TE9heTVybFRYSHhDY2tZcVFPTGJkVQ?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
-      "WRLD11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Demanda aquecida e vacância baixa: 6 FIIs de galpões para ter na carteira, segundo o Itaú BBA - Money Times",
-    "resumo": "Demanda aquecida e vacância baixa: 6 FIIs de galpões para ter na carteira, segundo o Itaú BBA Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkFrZDJlSzNINmw0N0V3R3RoSzFqR2dFeENrRHRDMnhXdzNTazRHV2VZc25xMk9xN3c3NlNyVW5yS1FGOGJMUWs4N0NXNnhwVjUzczJmOVZ6TnpXX2NERExHa2w0UlltM0VyUDdFUGhrVDR5bTlzS3BfWmdMdENhNFNjYUd3Y1hGYzFXTXRLOEN3eTgyZDlVVVdpSHNFRko1UHhVWV9sVU1KMlptMkl0bVlFTUt1NWZvOEhOTXBud3I?oc=5",
-    "fonte": "Money Times",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "titulo": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam - Folha de S.Paulo",
+    "resumo": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTm1xOGNVQ3VpSWRGTGNzcGZ1WG9vcUtDcV8tM1Y0S3pTa1V5QXhqVlJ2SGMxZ1phUU5kMjRSMnByTUxNME1kT1R0b2VlaFU4RVFYMi1mT3dIVXlsaEo2aTNiS3FDZFc2Z2VoQWg4YXpjTFdSRmsyblRxVGZLdGo0RkR5WjVaQVJvbXBmQnRId2ljczZKQ2ozTlFlUWx0Z3NueHhyTnNFLTJjVzRS?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "HGLG11",
-      "KNRI11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode afetar FIIs de tijolo, vacância ou aluguéis"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Banco Central da Turquia reduz juros para 36% e mantém alerta sobre inflação e energia - ADVFN",
-    "resumo": "Banco Central da Turquia reduz juros para 36% e mantém alerta sobre inflação e energia ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlJoZkZMd0l5N25BVmZqRV84THA4UnBBbU1MeWFHN2xUcVQydzdJYmtCTVZOLUt4TmZnUUNkRGltYm4tUnhIbUFrSS0xLWo5R2pXdWVMaXBMQk5oQkowUTRJd3ZzbWZfLWhyUGJHeWdlM1BWRThwbkZ4Tm9vV0dxN0xyb3FSUFlpUGQySDJYRmJKV0M1cUpmX0lSYVMyNmVFMXo3ZjR6TGJDbDBicjFybUJPWEJGTnVzX1d3WE9R?oc=5",
+    "titulo": "Atenções voltadas para IPCA-15 e reta final das eleições - XP Investimentos",
+    "resumo": "Atenções voltadas para IPCA-15 e reta final das eleições XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenNhUlc5UXAtc2VtdnMzUGFiOFJvYlBfdElkVzRqcHZzbVJ2UnFhV2hScWd0TDgtUjVfM3JpbnlvWVVfdHA2MUNjYlQxNDRPVHo3LW9IS1Z6TUpYZ3doZHJweU5maXRWbm5WSGpKaUxaSDBVaDVrbG1lU3kxb3lOendQTkk3SGs2dGNESTFUVnVEdnFWNG1DQVc2aWRnZEZv?oc=5",
+    "fonte": "XP Investimentos",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "IPCA-15: Prévia da inflação oficial desacelera e fecha outubro em 0,32% - Bora Investir",
+    "resumo": "IPCA-15: Prévia da inflação oficial desacelera e fecha outubro em 0,32% Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlh0aDA2ZmpfQTFadHVzWC02ZUFWUXhjZGZyeExUa1k0T3ViOTg3NXQwc2dZTnJIZi0yM3RoYTFrcWdIc1MxY0VQRWdCakUtTnRZelQ5VjJJMDFwT3lOSmluY3ZYZVdzZjgybWt5aTdFbl9OLWRFRnFsUWtOcDdhNEpxckpZYi1ZVHdsR3pFWnhrdDViQmdGbzRrMmwteDFlekx0eDdvWVc5RUg5eVE?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "IPCA-15 desacelera em outubro e fica em 0,32%, abaixo do esperado - Estadão",
+    "resumo": "IPCA-15 desacelera em outubro e fica em 0,32%, abaixo do esperado Estadão",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUZMOHBOdjJoejdHcm1LSWNMYktNTlhwMDY4cThHQ2U5cUdMSFg4UzE3UXpWY1JMUzFCOV9UZG5GYmVPRGRHUHA0Rjl1cWlPdVRyaEdtZ3EyeWJWblJ2cVA5aFR0b1czT0RHWFRZTkJNbzZ3LXNSMHFXOHBnMkhIOU51VU9wTlpBS3pTeUpydUtFTnfSAZgBQVVfeXFMTWlHRUFFRTRTOHdib1lwRVFlbXlUS25YZVJnUlN0bG1BNklLVjlxVkV1V3AwRmg2Y1NKQWR5bm85UUZjSEdYX0szSUFlNmZod2EwSnBnZFZmWllSSU9BSl9SRTJlV2gzMmM5Vm1BbkJldEF3N0R0OEozV3ZrUkRSRndhY3FYQTNwUHVoUHp1Y0hucEVranhVSTQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "IPCA-15 sobe 0,32% em outubro, informa IBGE - Canal Rural",
+    "resumo": "IPCA-15 sobe 0,32% em outubro, informa IBGE Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXlJZlFKSnFBTlpPR0p4emJDd2pQa2JkTXQ0Rmt0SGd3OEVaUEZFNmpfRnkxSFZEVmZONFZKUzJjU0t6Y2xWRUY5OHdOZl96REpidmFzWWlPNEZmYm9vMkFxcWVnWlV5dUhGa05walI3dlB4NUp1NWJSdVhEdldUR2M0ZUJETzg?oc=5",
+    "fonte": "Canal Rural",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "IPCA-15 tem alta de 0,32% em outubro, abaixo do esperado - Notícias Agrícolas",
+    "resumo": "IPCA-15 tem alta de 0,32% em outubro, abaixo do esperado Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3pCbEJrcE54dE9Uc0s4SGphZ0g4NXVMSmZSYlEtSFB0NDJSQW1uZDFvcjF1Z3E0S1RVVmdHNURuM1BLVVRIN0JITXJFa21RdG9EQ2xraThKQkh2OVJzWWZvRm1ha3UtR3JJRk1KdzVqRUp3b25KczhHTkd1aFJXRDBCVTEwM1U1SU5aN2hIdmpmWU1Xa0Q2WGdHQVZ3N2pZX3ltYU5VcE5memY4VHEwdzE5bUdmeEE4TEhZaEFCd1ozbDllZFhYStIBzgFBVV95cUxQa0hQZm9rR3JmbVhBdDJaWjA5WnpMNXViTWJpMzJvcWZ2cWhabS0wYWJ5MGdvM1h3dGRFdXR5V2lVQUNjMVg2TnlmZ0hsdHdKLUh5VUxjNmoteFoyb2c2R1g1cmt3VG84TXBNdUlmby1BSmtBUlhlb0xSNzB4Wlp3SkU3QWpscXVaelVEd0hZZlI4RHNsQ1RQemVaem9ReEUwWG9abVhTdjNCZlNscmpad0xIa2pFQkpMWFNtY0VVbDNTclpHWDBiS2h1aTl2dw?oc=5",
+    "fonte": "Notícias Agrícolas",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "O Banco Central da Rússia mantém as taxas de juros em 14% e prevê inflação na meta em 2027 - ADVFN",
+    "resumo": "O Banco Central da Rússia mantém as taxas de juros em 14% e prevê inflação na meta em 2027 ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUJ0QkVIVllyVkZDZHE5QlNOYzNEVHdxQk15WXFmR2M3aDFKSEJmWnBua3RtWmFJRDlMZWF5MTNLOFpVdHUxSGljQUZiMDlHUzFPRktTZWlUZExzNmFoWjJrS1FmeTczQ0xVUUhFcmZzTGlKR1JuN0tVMF9MMlUtMnRQZ1dpOHJpOUcwZGZudEwyVHRWM2d2UVpjTWROcVJYVHhKR1pBSlhReFJqWjVYWGVYVXJLRFZ6dGc3SGJRUXpmOVE?oc=5",
     "fonte": "ADVFN",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
@@ -51,93 +124,21 @@
     "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa cai mais de 1% com tensão eleitoral pré segundo turno - VEJA",
-    "resumo": "Ibovespa cai mais de 1% com tensão eleitoral pré segundo turno VEJA",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWE4Y0R2MjVfR3NoSi1DZlFZOTJhWUJEbTVqTW5NRV9nVmFaTV9NTTkxa01oSzZXT1g0LXJNWWJmRURxN3c1TWE2RDRpSUM3UnNqTHFGTFY2REFEU2VNN1JhUm9NWGpsaThrV3dZQy00REN6aGxpSUxuY3QyRnRnN25INXZNZC1BMzV2Y3JpYTJ4aW5EZnNEMEVkNXl5UQ?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Prévia da inflação de outubro é menor, com queda de preços de água e luz - Agência Gov",
+    "resumo": "Prévia da inflação de outubro é menor, com queda de preços de água e luz Agência Gov",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEFTRFpoeE42RmNqVUxyRHBDVjdvU3UydDdSWXpvNWdPVWlwNHBVRjRQVEc5anNWdnZaMHBWZnk0RGw0c3pNcERtU0dYRDVSNmEzb0JtX3lmaFYxNGVaUVl6UXJUdXhubkdqNk1rM0ZSSVNJWFdYc1JHc1prdl9venFIaU42OThGV2Vwd1E2LXg5RWNFbG1FSlgxczBMaHJ1NzFkQ0RjYVFoa2I5RFN0Y2hKNm1FWk1T?oc=5",
+    "fonte": "Agência Gov",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "CDB 100% CDI"
     ],
     "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Por que Ibovespa caiu 1,15% hoje? Os fatores que explicam – além da cautela eleitoral - InfoMoney",
-    "resumo": "Por que Ibovespa caiu 1,15% hoje? Os fatores que explicam – além da cautela eleitoral InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXZVR0J6YjNDQXdRbjRzNzBUZVN3c203YlB2bzE3SmFqai0zWUtLT1QyR3ViU0FMamwyUjIyT0xqWTMtLTJ5LWpVR2t6SW9rN19JQnRnd05jeUVIZ3VkZngyTk42Mlgwc0tWT0FpNll5dlBEQXNya2xCcEFsWEFzdElyR3dydDhGdW9jVXpqZTZpX3laLW9qQ3dWcHJjUUc3RHhPUDBjc9IBrAFBVV95cUxOWU5BS0loMk5qV1VZbjFMcEM2eVNTeUNacmZSNWk1X2ZURmgtWm5KSHdsSlBQM3p1ZTVYZmF4N0JidzVnU2Q5MkVwQnVrOUFHSlRWSkdPQ3MzNXJDdG9HM1VDVzdxOXZhM0dmTkw5QTlkMUZUZ3VSWjFUMVRLa2E2VjRqNnVtVHZWVDJlNEg2MVRuZ1dIV3ZIeFNrMXJNUVRaYkJtUmJuekZOVHI0?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Mercado agora | Bolsas da Europa fecham em baixa; Ibovespa amplia sentido negativo - InvesTalk",
-    "resumo": "Mercado agora | Bolsas da Europa fecham em baixa; Ibovespa amplia sentido negativo InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MbXRuSFAzTnpQNFd0V2Fyc3NXSVdkMExXMkxqTjlkczBHcnFyZU85Zl8wWUZqTVFDQ05iYjhlUnoyN2Z6NUFJUXlBY3hNYk5sYzRRdlRHazlBZUVkQldNQnlFOVZvSVEzUm1hSU9mdXdGb3JWMHc?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno - Jornal do Comércio",
-    "resumo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDE5bDFXX2o0UXZ5V1RMSGFFSHl0RGFYRzJmOWtvc0w3OUsxdTJjYzRHWDdWdUtqMURuMHZsdy05ekpQSmh0SVZPOVI4UFJrWUNOdXJtRlB5NDdZNUg4VXVIVEhzQXpzNnN4WGg2Z1luMFpXUU5IX3l3QXNXUklNd2oyNFgxdmJlUk9ibndJOFpGb29tMW1XckdOMGxpdG1mZFd1NUtlQWN4bldsSnV4RFIyVExNTHJUdlM3dmdtMi1GUUo0eDkzeGtB?oc=5",
-    "fonte": "Jornal do Comércio",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno - UOL Economia",
-    "resumo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV1RXdXMzY2JBTl9GTTJyemNndDkxR296WGZjOWJfTnNTU19XenlDYnYzMHdsa1hkNzV6R0FSOUpLdDdUT0dQZTJDTzl4aTd2SVNiV0tpMmVUTUtKcDBMVXBvQVk2dms3bGY5QUtNWHhxRDZCWU9MVExHai1IT1JaQTBZbS1KRTJZdktZZlFIZEZucnZmV01sUWk4VTNraVRfVGlrMFlDMnQyX0lUNklsVUZYcEtmZTRjT3ZIeGo4S2NwX1lHY0gzRjdlODQxRFFLd2c?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "S&P 500 e Nasdaq fecham com forte queda, conforme novas dúvidas sobre IA levam a vendas no setor de tecnologia - TradingView",
-    "resumo": "S&P 500 e Nasdaq fecham com forte queda, conforme novas dúvidas sobre IA levam a vendas no setor de tecnologia TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMVpQdmtzVVNIR0ptaTVnSG54R3VZeDRHWkNqNllmWjRRaVdrUFY2Q0o4RDBSWDlHbC1PN3R5YWs2RmV0djdZcjdERTVBTkdIRTFvYzRPNl9sak1WU1VKRzJKMndPRlZPMmRfSUdKZDFGWjhIV3ZB?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "S&P 500 e Nasdaq fecham com forte queda, conforme novas dúvidas sobre IA levam a vendas no setor de tecnologia - Terra",
-    "resumo": "S&P 500 e Nasdaq fecham com forte queda, conforme novas dúvidas sobre IA levam a vendas no setor de tecnologia Terra",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOc3FqUjlpbjMzUG5YSGY4RHBmSjYzcFdJeDBlSVlGbVJpTG1MMDJsd08xb1BKYWJJdnhuNEJ0R2FRVmV6ZEcxZkZRek9QUVBfc0IyYXdvWlppSkpyZS1KSC05U1ktdWlVUmd3cVc5SnRXZFVjRnJrUFBoWkpka0I5OHAwM19DSFVBS3BlU0tILXBwVHhtM1poRFpIeUJhc3RYRkJKTEEwWEZrMTdCSTFzYURjazNpTmdJMUZGUERob1JDUXFxYmtkdnF5TUZWYUxDUm1aQmtNOTNQekxPOERUVGJDZEZwOGFGR092NTlFUnlzM0xmUTNYTmowX0RGcHVSdHRyY0dwc2ZwZ3lGUksxQ0RKY3RqSDA?oc=5",
-    "fonte": "Terra",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Nasdaq cai mais de 2% e tem pior pregão desde junho em meio a temores com gastos em IA e disparada do petróleo - Times Brasil | CNBC",
-    "resumo": "Nasdaq cai mais de 2% e tem pior pregão desde junho em meio a temores com gastos em IA e disparada do petróleo Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVV3TDEyZGxZTlV4cjkyRFFCWllMMnJlQTA5YjNJVmxOeDRpcDN4WUI5Q3NiY3I1YktwYVBCLVRvMzJmSkdDc1hoOVplbmNlTDZ2NlQ1U2piZGpmU3U1cThvbG41VGxfaTVYTjNhZjZJZlctS1EwLTJnNF9CMVFkeFhXR2IxakpnOTJBczd1NmVBS0pld0dDZW5VZzh3OFVFMzBUUG1KYmxGZE8xc1VlZm40M1BOSlJsU19VQkJzT3dobmNPU0RyOURTR1ZOaEtYaFU5XzltLTRYRmFyLU01UFBoamt5ZU40ZzlaamRn?oc=5",
+    "titulo": "Citi vê sinal que só ocorreu duas vezes desde 1999 no S&P 500 e diz que queda de Wall Street ainda não é para comprar - Times Brasil | CNBC",
+    "resumo": "Citi vê sinal que só ocorreu duas vezes desde 1999 no S&P 500 e diz que queda de Wall Street ainda não é para comprar Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3dEVVF4MFlkeEYyZXdIcWZIZmtBMkFGYWNzLV94Yno4clJNTVJJcW5tVWNVSl9IUWVrZ1BEQlN4SUhqc3lSazBRRm9WREpIRVdMVXUxdDJxOTI1Z2o3VGdyVFVSdmVBN3BDbVk0Y2hta0xNNm0tWFdYNzduVFVLelFZTjI4WUx5NzZNSkJYS291QmN3Qnd2cGJ4Y3dlVmdqdEhfSlcweVRrQQ?oc=5",
     "fonte": "Times Brasil | CNBC",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
@@ -147,22 +148,36 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Como avaliar um fundo de CRI além dos dividendos? - Clube FII News",
-    "resumo": "Como avaliar um fundo de CRI além dos dividendos? Clube FII News",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnNrOWExd1VJUTRUTzlaM1h3bG02WmM0UmxiZU9nS3pQUWpPbHR3OEgtTnNUbWpmWndhcUcxQ1VfbGt3QVZTMzhhODhzS3NhLTdqODFYMlFSRlViemppMkV4SWVDTHZZRXhwTG5rdjJBeU1sc1R6NVRLT3BUSzVpcWZVUnBQMzRkdlp2OTI3eVRfdnRqUWRn?oc=5",
-    "fonte": "Clube FII News",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "titulo": "Elon Musk Já Doou US$ 443 Milhões nas Eleições dos EUA - Forbes Brasil",
+    "resumo": "Elon Musk Já Doou US$ 443 Milhões nas Eleições dos EUA Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8ybVJMM2Vlbmk1c01CZ0Y2VmljNW16d3UybmQzdWQ5NnlfX2R5YTlHMS11VkE5NkYwZGZId1hCdlRobDFIcXdYUXVDa25zQ1hzalJULUFuaW92aGR4Ry12QncyWG9PeUp6WkxSTXZIYjkwV1RUaFFEVXJB?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
-      "KNCR11"
+      "WRLD11",
+      "SPCX34"
     ],
     "impacto": "Médio",
-    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
+    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Banco Central da Turquia reduz taxa de juros para 36% ao ano - UOL Economia",
-    "resumo": "Banco Central da Turquia reduz taxa de juros para 36% ao ano UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFh2aGpVaDdXMVRibGUtQlAzRkdxSkJJLUtJR21TSnhFUzQ4Z19tczVhYnYtZWtwQXZmMkNHRTVRRkFMd0ZBMzcxVDM5bS1mMzZ2YVBfSUVoTXZnR3hvUUdqdDZMNjc0TVViTjFkbjZYczFISWlJOVh6c05kMkNFN2xqcTZPcWRsak5sRG4zVEdXME5YSk5Hb3o5aHoyS0tCUHlKUkF4dVBEeDl5OTZDMV9GQ0JPaGlwZTRCY3Eycml2OGZYdnhZTm9tWHF4SHVPRDVPM0M0bw?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "Elon Musk doa mais de US$ 445 milhões para apoiar republicanos nas eleições dos EUA - Vero Notícias",
+    "resumo": "Elon Musk doa mais de US$ 445 milhões para apoiar republicanos nas eleições dos EUA Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjNmdU8taFIxb2xFREtEMHFDNng0bDFnSE9XbWVOdEh4Wk5HeFg4LU90OFZnNjZJYzdnXzRPU2RaWUNldFdhNmJRTlFCLVJsVlJRRGI1aURBbU13VnlTSWlzSUhTVENNb2VZd0hpSTdjdTVmaU9GRk0wU1hId0VNVFdlcEp1YW5WU2Y5b3ptUkdyM0p1ZFFFeW14bEZnR3dLdm1qLUw1WDRoT0xmUTRlX0hiaW8?oc=5",
+    "fonte": "Vero Notícias",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "WRLD11",
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Banco central da Rússia mantém juros inalterados em 14% e prevê flexibilizações modestas - Valor Econômico",
+    "resumo": "Banco central da Rússia mantém juros inalterados em 14% e prevê flexibilizações modestas Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY3dPU2RjYlBVTF9uT3puZ0VLWlF1b0h0TUpQcHZqUXQxVzZ4Zmw1bHFJQUg3VU9JR05uTjZUZnFGSFh0QmFKMTRjT3cyMUtNUFhyczhGZmgyQmZENGdrUUMxQ0JJMTdrWXpfbUpSdUhrY0VvdjBlcGk3NUY0ZjA0Q1dmZTlxdEs1VHEzRjlWS2taOHB6c2psTjNSY25XVmhpZmdTQ1JsUFFKU0IxSlZxZDhlaVNfdThRSEs4Y21NaS10R1B1WTFqc2tsbjZhb2JEV1FqRXBLbl9nUHdEY2FYV2FmVUlFeGFqdWtqN1NxcFFEbk5uQXfSAfYBQVVfeXFMT2N3T1NkY2JQVUxfbk96bmdFS1pRdW9IdE1KUHB2alF0MVc2eGZsNWxxSUFIN1VPSUdObk42VGZxRkhYdEJhSjE0Y093MjFLTVBYcnM4RmZoMkJmRDRna1FDMUNCSTE3a1l6X21KUnVIa2NFb3YwZXBpNzVGNGYwNENXZmU5cXRLNVRxM0Y5VktrWjhwenNqbE4zUmNuV1ZoaWZnU0NSbFBRSlNCMUpWcWQ4ZWlTX3U4UUhLOGNtTWktdEdQdVkxanNrbG42YW9iRFdRakVwS25fZ1B3RGNhWFdhZlVJRXhhanVrajdTcXBRRG5ObkF3?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
@@ -171,10 +186,10 @@
     "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Banco Master: CVM virou 'bode expiatório' de uma falha do Banco Central, diz Marcelo Trindade - Money Times",
-    "resumo": "Banco Master: CVM virou 'bode expiatório' de uma falha do Banco Central, diz Marcelo Trindade Money Times",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzJRLVAteDByd3JkYnJZbzdEQnk0bjZ3VmI3VTJaSnRxOUZhZUh1eWxEWDZIY0FDUmRCTHJMRGJuU3dCZDhnNGxGTFo3Qlc2Ny1oWmE0Nml1NUFRMUdXV1ptdzNXWTRhRkctTVdRWWJ1NlJ0NUxlWk1MM0xMYW0weTMyWmFuU2dMMC1xXy1LRThKTWl2WS1BVzhmRXlabGRTYlV4b2xKVnVvZ2JQVC1EX2tSQVVNcTN4MDBHeA?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Prévia da inflação desacelera mais que esperado em outubro, diz IBGE - CNN Brasil",
+    "resumo": "Prévia da inflação desacelera mais que esperado em outubro, diz IBGE CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmVzNk96WGVmU2RtRTVRQUJiMi1lVzdteFpFNElSWlM0Mkk2N29JdXdkUnoyU3BxbjJDSms0Z1hnc051YzJmclg0Y0F3V2hOQ0lBZWRqd19iZzNRUEhHWnhSS2J3Z09yc3JfQ2k1ZEVWLXlpSDZSemwza3dHTjBEWElwYzUyUmR5OFhlbDkxcUtlWkprbE5Gczk4NkRJMVphSUNMaWtB?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
