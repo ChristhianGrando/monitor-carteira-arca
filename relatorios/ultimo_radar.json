@@ -1,37 +1,34 @@
 [
   {
-    "titulo": "IPCA-15 sobe 0,32% em outubro, puxado pela alta dos alimentos - G1",
-    "resumo": "IPCA-15 sobe 0,32% em outubro, puxado pela alta dos alimentos G1",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUk5VcE9PdTFrekdMNUJ2M3I2WlMzMVB4SVVCVTZuRG5nYzdia3BMTVFjYTNWdjJnemRBM1ZTa09EbGtocFRJaU84aHRDTFVacHE5ZFhfektqeE5EazJMMUROYzIzUGhXdUxMd0wyMTVCNUYybjcxM3JKb1VyeXNYMUcxb1NQeG1sYVZSWmQ0MGwtc0XSAaIBQVVfeXFMUDBhdDFtTEJWbHlsT2gxN3hVaXlUdXNzUGVzU2tsMDByUldhRXA1aUZiZS15VHlPdmMyT1h6SnZoYmNOSmFoZDBJeUN5UEI2ZUd4Vm0wWTZmZllsSmVnYk9qWXFQRGVld3ltamduX2RGYzVXV25pZmVyQ0xlS25DRExfYzNQbDgzVWtMV2dJZ2dJU3hnQ3UxMzRVd3V4ekVtb2tn?oc=5",
-    "fonte": "G1",
+    "titulo": "Prévia da inflação de outubro é menor, com queda de preços de água e luz - Agência Gov",
+    "resumo": "Prévia da inflação de outubro é menor, com queda de preços de água e luz Agência Gov",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEFTRFpoeE42RmNqVUxyRHBDVjdvU3UydDdSWXpvNWdPVWlwNHBVRjRQVEc5anNWdnZaMHBWZnk0RGw0c3pNcERtU0dYRDVSNmEzb0JtX3lmaFYxNGVaUVl6UXJUdXhubkdqNk1rM0ZSSVNJWFdYc1JHc1prdl9venFIaU42OThGV2Vwd1E2LXg5RWNFbG1FSlgxczBMaHJ1NzFkQ0RjYVFoa2I5RFN0Y2hKNm1FWk1T?oc=5",
+    "fonte": "Agência Gov",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8e33a4a7a8aee0fd305416d6466442f496535b4d637e4f8bf768418bfb129d32",
+    "chave": "82550afb3298b383e95bdbfd0a7284b3f90120bc6301ffdbbd1c86daf169f898",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA-15 desacelera a 0,32% em outubro, abaixo das projeções - Folha de S.Paulo",
-    "resumo": "IPCA-15 desacelera a 0,32% em outubro, abaixo das projeções Folha de S.Paulo",
+    "titulo": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam - Folha de S.Paulo",
+    "resumo": "IPCA-15 desacelera a 0,32% em outubro e fica abaixo das projeções; alimentos pressionam Folha de S.Paulo",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTm1xOGNVQ3VpSWRGTGNzcGZ1WG9vcUtDcV8tM1Y0S3pTa1V5QXhqVlJ2SGMxZ1phUU5kMjRSMnByTUxNME1kT1R0b2VlaFU4RVFYMi1mT3dIVXlsaEo2aTNiS3FDZFc2Z2VoQWg4YXpjTFdSRmsyblRxVGZLdGo0RkR5WjVaQVJvbXBmQnRId2ljczZKQ2ozTlFlUWx0Z3NueHhyTnNFLTJjVzRS?oc=5",
     "fonte": "Folha de S.Paulo",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7e53e836bf92d0830b34d6f226b75cd962d3051bb03e5d74e13caff5a981f73f",
+    "chave": "03c58ecbe4770fe084a743a2d47003f86768ed5ac76822d82ce7caf1f8c65ce3",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -52,12 +49,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA-15 desacelera em outubro e fica em 0,32%, abaixo do esperado - Estadão",
-    "resumo": "IPCA-15 desacelera em outubro e fica em 0,32%, abaixo do esperado Estadão",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUZMOHBOdjJoejdHcm1LSWNMYktNTlhwMDY4cThHQ2U5cUdMSFg4UzE3UXpWY1JMUzFCOV9UZG5GYmVPRGRHUHA0Rjl1cWlPdVRyaEdtZ3EyeWJWblJ2cVA5aFR0b1czT0RHWFRZTkJNbzZ3LXNSMHFXOHBnMkhIOU51VU9wTlpBS3pTeUpydUtFTnfSAZgBQVVfeXFMTWlHRUFFRTRTOHdib1lwRVFlbXlUS25YZVJnUlN0bG1BNklLVjlxVkV1V3AwRmg2Y1NKQWR5bm85UUZjSEdYX0szSUFlNmZod2EwSnBnZFZmWllSSU9BSl9SRTJlV2gzMmM5Vm1BbkJldEF3N0R0OEozV3ZrUkRSRndhY3FYQTNwUHVoUHp1Y0hucEVranhVSTQ?oc=5",
-    "fonte": "Estadão",
+    "titulo": "IPCA-15: Prévia da inflação oficial desacelera e fecha outubro em 0,32% - Bora Investir",
+    "resumo": "IPCA-15: Prévia da inflação oficial desacelera e fecha outubro em 0,32% Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlh0aDA2ZmpfQTFadHVzWC02ZUFWUXhjZGZyeExUa1k0T3ViOTg3NXQwc2dZTnJIZi0yM3RoYTFrcWdIc1MxY0VQRWdCakUtTnRZelQ5VjJJMDFwT3lOSmluY3ZYZVdzZjgybWt5aTdFbl9OLWRFRnFsUWtOcDdhNEpxckpZYi1ZVHdsR3pFWnhrdDViQmdGbzRrMmwteDFlekx0eDdvWVc5RUg5eVE?oc=5",
+    "fonte": "Bora Investir",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "095f27fcc8ce610340018586b0d1a366d545ca0746c1da849e42b4ca1d24ff39",
+    "chave": "8bc87438d02dd84a9566c0b19a43b7e3dac51673f3f3c1a6b5bfcb2ace682eec",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -78,12 +75,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA-15 Tem Alta de 0,32% em Outubro; Resultado Fica Abaixo do Esperado - Forbes Brasil",
-    "resumo": "IPCA-15 Tem Alta de 0,32% em Outubro; Resultado Fica Abaixo do Esperado Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmtGMjk0a1BPSjRFYUFnblZxLVlZUVVoWnNWdW9sSXpBOTU0bXZFd2NHMnI1elhQd0ZXMTI2RHh3NUZYbGxTVWRVb2lOemVDSWZzVTZLTVdIb190RDdrc3RxUU81X1owd1o5RjVFX2VidlNIaHNTNlFKdFdhUGFhYnlBVngzQ0NwWjJsRmRNYmpSVEIweFg3aWF1eWZ2NHBvWkNjNFc5Z1A?oc=5",
-    "fonte": "Forbes Brasil",
+    "titulo": "Atenções voltadas para IPCA-15 e reta final das eleições - XP Investimentos",
+    "resumo": "Atenções voltadas para IPCA-15 e reta final das eleições XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenNhUlc5UXAtc2VtdnMzUGFiOFJvYlBfdElkVzRqcHZzbVJ2UnFhV2hScWd0TDgtUjVfM3JpbnlvWVVfdHA2MUNjYlQxNDRPVHo3LW9IS1Z6TUpYZ3doZHJweU5maXRWbm5WSGpKaUxaSDBVaDVrbG1lU3kxb3lOendQTkk3SGs2dGNESTFUVnVEdnFWNG1DQVc2aWRnZEZv?oc=5",
+    "fonte": "XP Investimentos",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f709e74fbab1bc09af61c00d390f9944bdb2baed8ce395c4e105fe9c088fed9e",
+    "chave": "0218195097f904d61f02969ac41c084ae794dd8ba67d99665669973aeb9459b9",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -104,12 +101,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA-15: prévia da inflação desacelera para 0,32% em outubro - Exame",
-    "resumo": "IPCA-15: prévia da inflação desacelera para 0,32% em outubro Exame",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTGNYdDZrUDVxUjFwUzdrN1BCdWhNenhMNFFrTDJkRTJXdFpfVnE2aERzWFZrX00xOHd6NFcyY3dtUmtIZE05ckdJZmxuaDJfX1hQUjZRVUZZcVgxUFlpb1dzbU5vN2oyZDQtNEZIeWVnMFJnamxIVWhRbjZHT19zaGZFTFJ4OWlKQWtyV3VB?oc=5",
-    "fonte": "Exame",
+    "titulo": "IPCA-15 sobe 0,32% em outubro, informa IBGE - Canal Rural",
+    "resumo": "IPCA-15 sobe 0,32% em outubro, informa IBGE Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXlJZlFKSnFBTlpPR0p4emJDd2pQa2JkTXQ0Rmt0SGd3OEVaUEZFNmpfRnkxSFZEVmZONFZKUzJjU0t6Y2xWRUY5OHdOZl96REpidmFzWWlPNEZmYm9vMkFxcWVnWlV5dUhGa05walI3dlB4NUp1NWJSdVhEdldUR2M0ZUJETzg?oc=5",
+    "fonte": "Canal Rural",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6b1680ba13347a06339081118541cb001c84483e607456e5f64e6b98ecfd2da0",
+    "chave": "a80e5169cca26d1e3642ff24c3ace4bc34ce70ccc7e8190aee3f65daecdc5524",
     "ativos": [
       "IBOB11",
       "KNCR11",
