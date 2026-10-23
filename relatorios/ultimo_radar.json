@@ -1,11 +1,37 @@
 [
   {
-    "titulo": "Ibovespa fecha em queda de mais de 1% e dólar sobe com aversão a risco e Datafolha no radar - Valor Investe",
-    "resumo": "Ibovespa fecha em queda de mais de 1% e dólar sobe com aversão a risco e Datafolha no radar Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXNTZW9oeWc0UkVpSzBCdS11MURQdnRkSktENXRoYlp6VEtTQjlLaEV4RlF0VU9yaE54cE1ydjRyTzF6TzFNbjdxSTNtZ2RpY2ttMEQwZ2hzS0RuSnlseXFwU3pjREQwMVNfQjRWVkZjN1JtNThoSHZJTUxBaGRTZTVybTl6WXZTUmpoNVZ6bF9Ta3RianhMUlRfYnROWHJnZ3pQZmlhSHd5UExoVUZxWTg2WXhJS2lEelU5QkZqMnY5LWxKTFAwekI2a2cxVXJ0Sjc0WHRBNNIB5gFBVV95cUxOZVZRVmZPWFk5V19tTzhJOTFqR01xRmJYZUtXUi1ndjdUU0xLMDlQWUtQRmVFUmRldlhHdWlsOW0zclEzc1h3VXRhWUY3dW01ZWlhQmswelJUd3ZEZm9wbkZzMm94WTI2eUc2T1kyWldKd0U1T3JqZmZPT0tsS3Raak4wOTJVbVB1d2thWGlBMHJ6cFk0bjY3bWFfYjBWZy1abnEzbVVJdmlCNVQxOHJPS1pyNmg2cUdyLV83eTd6eEltT3lwdmhGVG8yTG1aRU5FVDBKYmhyd1lVN0J4bEc5b3JoSUNvZw?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Ainda vale a pena investir em fundos imobiliários com taxa Selic em 13,25%? - InfoMoney",
+    "resumo": "Ainda vale a pena investir em fundos imobiliários com taxa Selic em 13,25%? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTRuaVZlSzdFZlZtVnRiNGc1cV9zQUJyUVE5N3c5NmR0cVlYX09QYnM2b1pPMHZtRzNMcldKeHVLclNxSDZwSmV3ZXlielRFVS1iLWVWR2hMbkE4N2xCMjJNX3F0R1VPZWhwSHJWYTNDOGx0N1RXa3hoTVdyMEhBa1ItY1dMZS1URWpoNGVDRldKeDZRaS1uRFJxWk9JZm56S2FQTk9QVnVTZ3fSAbABQVVfeXFMTndRVEpaNWRiMGh1MlBqQ1JCX1IzV05yc0N4YWRJNkR2YkgwbVIyclFVUEYyUWdpMmhSSFJlM011MjZjZ00yY21OZVpnQXA0c0QxaUt5MmF1Y3ltVzVGeVktX25oalgydUh1MTlSUFpUa25NbE9HbEw0VmQyVWg0VjlHd2dNUm1ST3hxejNVRUNhNXZHLVh4dXlneUFhenJjV1J2OFQ2ZjZ5MFk4alY1dno?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "2ca0fb8b4b4ed9c6fc7878f8c2bc68dcf4b675154b1f523718a2901fe7e44833",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Cautela eleitoral e exterior derrubam Ibovespa; dólar avança e Nasdaq cai mais de 2% - Exame",
+    "resumo": "Cautela eleitoral e exterior derrubam Ibovespa; dólar avança e Nasdaq cai mais de 2% Exame",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRF9aN2JUNlBDWUwxYll1M0I4S0hzdThiVU90bDFqamwtWThzNlU3UXJrQ3diNG90bzFENjFKV3RxWmRqMUctbjJrelh1SWRmbEljLWRkaWswd250cUhzeVZPd0Z5c25QZnZxcHA4cnMtM2ZCNlFCNUFyeGRBQ0pjNUxUODQyMXRiNWJ3RjAzemh0Zk1SZkVqZkI2dzVacEQ1cEZQTGlHQTBkSmZxeGdLTUJ2eDRpcV9j?oc=5",
+    "fonte": "Exame",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "921b352e53002d052357461914315e7a0038899eced41db9ecda461c9ac84d56",
+    "chave": "aaecd79a221e3f51af36b669dc57384ae95b585c210635129857303ab1e917c6",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -14,106 +40,57 @@
       "Ativos Internacionais",
       "Ações Brasil"
     ],
-    "score": 15,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa Cai 1,15% e Dólar Sobe com Aversão Global a Risco e Eleição no Radar - Forbes Brasil",
-    "resumo": "Ibovespa Cai 1,15% e Dólar Sobe com Aversão Global a Risco e Eleição no Radar Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDJYSHE2cU1BT3Y1cnVWSXpTbjFWZFNkRmREc2U0RFdWalVETU54QVlYZUlfOUNkY1k1RjRjZkhFX0tLbjlvSTlnSUhPTlJkX1ZZM3lZUzJjcEtaR1F6R1JDWTMzNmtzRUpEcVgwUjlnS3ZQQXlhcVNURGZFVFV1N0RRdUdMbWpHOVM4aUZGbVh0ZVpDazZDVUR5MzNOR0pUX29sOTlZRlZ2X2tJWUVfLVROOHRkMHlOd0RZ?oc=5",
-    "fonte": "Forbes Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5c9b5dfd0d34a8abccecf4dfa7a3cf9a92a3d09c19946b8a041dce01729bffc5",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Master: CVM virou 'bode expiatório' de uma falha do Banco Central, diz Marcelo Trindade - Money Times",
-    "resumo": "Banco Master: CVM virou 'bode expiatório' de uma falha do Banco Central, diz Marcelo Trindade Money Times",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzJRLVAteDByd3JkYnJZbzdEQnk0bjZ3VmI3VTJaSnRxOUZhZUh1eWxEWDZIY0FDUmRCTHJMRGJuU3dCZDhnNGxGTFo3Qlc2Ny1oWmE0Nml1NUFRMUdXV1ptdzNXWTRhRkctTVdRWWJ1NlJ0NUxlWk1MM0xMYW0weTMyWmFuU2dMMC1xXy1LRThKTWl2WS1BVzhmRXlabGRTYlV4b2xKVnVvZ2JQVC1EX2tSQVVNcTN4MDBHeA?oc=5",
-    "fonte": "Money Times",
+    "titulo": "Afinal, quem falhou no caso Banco Master? Ex-presidente da CVM aponta para o Banco Central - Seu Dinheiro",
+    "resumo": "Afinal, quem falhou no caso Banco Master? Ex-presidente da CVM aponta para o Banco Central Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVRvN2RBNGd2OWVzb2taY3c2cEhUZDNFZUlXcmc5S3k1X1VnSEdsVDdHYU5GcXRQWEVoOHJFaFVBVlUwVjc2a1FGRXFPckFNOXVHMjdrN1pEYXY4LWc0RzB0Q29BN0lMZjJHZ3hBV1ljeURBSzlBYjJtLXNHV0d3TnBxUGZVNnRWbm4zU3hNSkN4UHR6U3M5N2FNXzlEdmpCOWstVV9hMHBLd1dvTlUzcDQyem9PeTB1QWl6ZVZCZmxpdW55SEdfYlptSFF1WWp3MFE?oc=5",
+    "fonte": "Seu Dinheiro",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6c99e42276eff10c7130e9ab4864ee35dc82f8db906daa81cb25971de86c122f",
+    "chave": "9e78617cc3da78822f9b778d01d8bf2e1bf61f698c8de707e39036ded8c7e478",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 14,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno - UOL Economia",
-    "resumo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV1RXdXMzY2JBTl9GTTJyemNndDkxR296WGZjOWJfTnNTU19XenlDYnYzMHdsa1hkNzV6R0FSOUpLdDdUT0dQZTJDTzl4aTd2SVNiV0tpMmVUTUtKcDBMVXBvQVk2dms3bGY5QUtNWHhxRDZCWU9MVExHai1IT1JaQTBZbS1KRTJZdktZZlFIZEZucnZmV01sUWk4VTNraVRfVGlrMFlDMnQyX0lUNklsVUZYcEtmZTRjT3ZIeGo4S2NwX1lHY0gzRjdlODQxRFFLd2c?oc=5",
+    "titulo": "Banco Central da Turquia reduz taxa de juros para 36% ao ano - UOL Economia",
+    "resumo": "Banco Central da Turquia reduz taxa de juros para 36% ao ano UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFh2aGpVaDdXMVRibGUtQlAzRkdxSkJJLUtJR21TSnhFUzQ4Z19tczVhYnYtZWtwQXZmMkNHRTVRRkFMd0ZBMzcxVDM5bS1mMzZ2YVBfSUVoTXZnR3hvUUdqdDZMNjc0TVViTjFkbjZYczFISWlJOVh6c05kMkNFN2xqcTZPcWRsak5sRG4zVEdXME5YSk5Hb3o5aHoyS0tCUHlKUkF4dVBEeDl5OTZDMV9GQ0JPaGlwZTRCY3Eycml2OGZYdnhZTm9tWHF4SHVPRDVPM0M0bw?oc=5",
     "fonte": "UOL Economia",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "833f4dea01e452d697d7d9726ba630a7e905a0d0ae8f61b448c0bb69854e206e",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "78e3006632c72f80a0b03f8c1761e7a6a2d4fea343682fb3c2b951dcf51e2cd6",
     "ativos": [
-      "IBOB11"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno - Jornal do Comércio",
-    "resumo": "Ibovespa cai com aversão a risco global e cautela pré-segundo turno Jornal do Comércio",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDE5bDFXX2o0UXZ5V1RMSGFFSHl0RGFYRzJmOWtvc0w3OUsxdTJjYzRHWDdWdUtqMURuMHZsdy05ekpQSmh0SVZPOVI4UFJrWUNOdXJtRlB5NDdZNUg4VXVIVEhzQXpzNnN4WGg2Z1luMFpXUU5IX3l3QXNXUklNd2oyNFgxdmJlUk9ibndJOFpGb29tMW1XckdOMGxpdG1mZFd1NUtlQWN4bldsSnV4RFIyVExNTHJUdlM3dmdtMi1GUUo0eDkzeGtB?oc=5",
-    "fonte": "Jornal do Comércio",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "245343b9912391a00d3a838c8e457e1e7006b19bb3bdc427f4a0223dbc9e393c",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
