@@ -1,76 +1,25 @@
 [
   {
-    "titulo": "Por que a taxa de juro Selic virou assunto de eleição - GZH",
-    "resumo": "Por que a taxa de juro Selic virou assunto de eleição GZH",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWmNIaVRjUzNrc0JOSXg2M3ZqRmZ6ZGNnWVotNE40QVVTUzJQZVplMG1PWFlFMl9taDlqQm1LdmVJVk5GaU1rdmRjZTJFcEN5S2lRQlRhZzNDX0ducF9mLXp4WDRYdTFIZjBJaG95YkhjQ3RyUjJnZlB4YV9YV29RRF9JU3ZsRDhQWTd2dXJpd0lTQlVJZ0ZXRGxiYTJpRi0wVkdnbWV5Wjh4YzF1MnVmLXJGZGV6c1pKMjRjV0Nvd05XcHp4TjY0alBxb2h6QzNuMFc3T3FtamFRUFIyMkQ2ZFZfeWQxLTVlLVFLOQ?oc=5",
-    "fonte": "GZH",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "456e407cb642a7ddb4ed0543b48b88a79c3f1d702c50d52cd709fc2c58954a40",
+    "titulo": "O Banco Central aprovou novas regras para aumentar a proteção dos consumidores na contratação de empréstimos e reduzir o risco de superendividamento. As mudanças incluem: - Bloqueio de ofertas: clientes poderão impedir o recebimento de propagan - Instagram",
+    "resumo": "O Banco Central aprovou novas regras para aumentar a proteção dos consumidores na contratação de empréstimos e reduzir o risco de superendividamento. As mudanças incluem: - Bloqueio de ofertas: clientes poderão impedir o recebimento de propagan Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03NjZpaURHcFZka0ZrY1NtQjc5aUMwVHhvS1hnQWNTOV96dGd1NUdON2VlVnQ0Smh5Rmo3Q2hPVF9LMm1xb1c5UEZwVHhQbEpjRFE?oc=5",
+    "fonte": "Instagram",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "394ca00573a762dac6f8b655f3ffe6ca1f6a249e703d6a6be008bc9fe4d53747",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Governos dos EUA recorreram a Musk para controlar Starlink em guerras e crises internacionais - Brasil 247",
-    "resumo": "Governos dos EUA recorreram a Musk para controlar Starlink em guerras e crises internacionais Brasil 247",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2l6cURoMHJpSERQUGUtc1BOZ0pySGViemM0YTlmdWE1LWdVRWRnSWlKTk9kSy1MQk1WOG5FOGRMSDBCVDlGa3J0dGt5UHV3OW9IUTNxWXQ3LWtJb3pQMTZ5ZTVRU19MdmY4QlBJZVlTbnJ0YmJDeVdlVUpnbEhkWlpwMXdadlZod1MxNjN4eHpJMlhPX3lnYlg5eTR0M2FzRmRLUjh6UF9jY2s1TzRsb0REYkM1RUxKQjdqNmg0a2Y0Qk1q?oc=5",
-    "fonte": "Brasil 247",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "bf37b299a499e443761a3b7e845230148dec2eee371e02aa011231b2a568ecbc",
-    "ativos": [
-      "WRLD11",
-      "SPCX34",
-      "KNCR11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Real Estate / FIIs"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
     ],
     "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central aprova novas regras para ofertas de crédito e cria proteção contra o endividamento excessivo - Seu Dinheiro",
-    "resumo": "Banco Central aprova novas regras para ofertas de crédito e cria proteção contra o endividamento excessivo Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLU0xRUlPSzBVWXJiQl9WWVRGcEdENk00QlF0SlMxN1AtRFhhWVBJZHEyQmx2YnNBOUdGUmlwYzFCOU9Oemw5NVc0anNzeDlMNkM2YTVTbzZ5QndVNml4bTNsMG9oU241a1JxM280dk1SQ3VQclRuWDlwQ2l0QmNoUkVBa19jVEwwNklscG03ckQ0Slp6emc0cmVPN28zVnJ0RVZIR3dlNGExTWRoemEyQWo2d3REeGxiLXlYLXA4ZXdhZ3JrU255UmZWMHNab0xpdlUyU1lJU080MkU?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1bd5751c212bb80aaf3e10dd29c62c63deb346021667902b7e0de190f9ab6b57",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
