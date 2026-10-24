@@ -1,108 +1,6 @@
 [
   {
     "data_envio": "2026-10-06 17:26:11",
-    "titulo": "S&P 500 e Nasdaq atingem máximas históricas enquanto os rendimentos dos títulos do Treasury se estabilizam e o petróleo recua - TradingView",
-    "titulo_norm": "s p 500 e nasdaq atingem máximas históricas enquanto os rendimentos dos títulos do treasury se estabilizam e o petróleo recua tradingview",
-    "fonte": "TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12RE1EWEhVcm5yR2d6WF9MclkwdzlOXzJJX1Bqcl9QOXFsdlp3TzRrbnhva1pmVWJCTWhOLWxBcWNnaXExWGNUOHppNERRN0VmV2pYTzBacUJIeWtCN0dDZ2h5Wi1ZaE83cWdNb1c2NXVQNVg1cHlV?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
-    "titulo": "Meio-Dia Mercado: Ibovespa operava em queda com correção, nos EUA o S&P 500 renova recorde - ADVFN",
-    "titulo_norm": "meio dia mercado ibovespa operava em queda com correção nos eua o s p 500 renova recorde advfn",
-    "fonte": "ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXVQQWxWZ3JLalptRHdRb3NEaXFSeDdqNFBDT2d6aDg5TkhVb3J0eWpXTDJ5RTQ3eDhNMjhaS3ZVcF9RczZBcU5heUtEaVRoSlBJc0dON2ZjZWxrcTZYaEpmSTVaaml4dXJ4dVhRNVd6Tk03REtMWVhyaWF6QTZXVFlzWS1jQWlOOUpVS2xaUEJuWS1qVEtBdUYwdU8wUWdUUnhuTGNwMFhkQzlUREgzYXBoa1M3aERmOGNvZFpPcURCOVkyTXI4?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
-    "titulo": "S&P 500 e Nasdaq atingem novos recordes com queda em rendimentos de Treasuries e petróleo - Terra",
-    "titulo_norm": "s p 500 e nasdaq atingem novos recordes com queda em rendimentos de treasuries e petróleo terra",
-    "fonte": "Terra",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQ2pxQkZOWHNvMHItTzVuQ0xySlNMa3lyblBPNWh2VldLdmtKT3ZRNjM2MjhMMTNnbEtLSFRQajBuNEJFOHFOWVFmUlA4ZmwyQXNKM2FEQ0ZLRDllejdHUHA4QWdxX3NCdm5xVUE0ZVhPMXoyclFKaHItVXduTVVCMW1fVVZLNWlvYkpMdWl6ZHU3Uk9xY25xZExqdDdoS25Fc3lSMlhMaXBaOWtrQ3hYVC1abjBvRFhMUm4xamEzMUJmX2RRS3gycUx1bEc4U1JNcVdXQUc0Q2Rjc0Vmb0k5QnduTzFWcnFNY2N4VmVOSXZhVXpndXZ2UmpkQl8?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
-    "titulo": "Selic Vai Cair? Veja o Que o Mercado Prevê para os Juros e Como as Eleições Podem Mudar o Cenário - Forbes Brasil",
-    "titulo_norm": "selic vai cair veja o que o mercado prevê para os juros e como as eleições podem mudar o cenário forbes brasil",
-    "fonte": "Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WYWhfVDB6M0J6Y3ktUnVGZ0MxYl91VjhCV3MtZUJqaUVSODllZC1ESDlPM05RWi1Oa3R1N2JsTHJxcXZBS0x4aWxkR2NYUlotMEpqUDFGdEkyTTY5M2lrV2lnN09tNTlHUVpvSkxCLTVnRHVEUEk0Tw?oc=5",
-    "impacto": "Alto",
-    "ativos_afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
-    "titulo": "Banco do Brasil afunda quase 6% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
-    "titulo_norm": "banco do brasil afunda quase 6 e lidera perdas do ibovespa hoje veja maiores altas e baixas estadão",
-    "fonte": "Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd1FxcFFfWHBGblI5TWxWNEg5WjVHRmdXVDIwTVliRlA2cUhaaGJNS1k5SEU4ZmFmSElBa3g1QldRZGJYTFZuZXplV3JzanlETEVOMnNLN1RoNlliRENUV2c3V001RmVWbzRCZGNXZThoUjhRNVhRMXl6aklPNnJkV3EzY3RWTXJnOWhhZEJ6c2R4VTl3RHNvdUxFVnIzYkNSR05sOHBZTmVYYWNSekZpMHNfUDdtZGJreDlKTWlqTHVlQ3ktS1FFM3JDWDktcldZRDBGWTZsUm43WV81Nm1jWGhjWWJIRWlHVmhGUm5XYw?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
-    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com pressão de PETR4, VALE3 e BBAS3 - InfoMoney",
-    "titulo_norm": "ibovespa hoje ao vivo bolsa cai com pressão de petr4 vale3 e bbas3 infomoney",
-    "fonte": "InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcW56S0N0YllNR2lNME1wdG1NSGJQeEMteDFfRTA0YjJIVi1ldVdwTGZHVFpkaW0xVUxYSjNORFpEdlJHZEZ1dXpUYXNaT0FWV0J5ZGJsc21OMjRKMnFLSy0ydEZUYm5sbE5xZEJsdXdGbVV4WDRVZmMtY0J4RTctLXRwd2xHejNtQ2Z5MjBlYw?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
-    "titulo": "Abertura | Ibovespa futuro sobe com exterior, mas agenda fraca pode limitar ganhos da sessão - InvesTalk",
-    "titulo_norm": "abertura ibovespa futuro sobe com exterior mas agenda fraca pode limitar ganhos da sessão investalk",
-    "fonte": "InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45TjJleHpKUmtIMExlaU42cVJuZVNXUWg1TEQ0T29aY1k0VkE4NmJKUFZwUFlGNEtHN1JaTkdkRElWME5qci1kUzhvQW1WdWY4YUJ1LVRNb1J2ZS1WODdMWDVqeDhTSXFEV3h6bWg0WVYyRmF6TXc?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
-    "titulo": "Ibovespa recua após máxima histórica em ajuste de mercado - ISTOÉ DINHEIRO",
-    "titulo_norm": "ibovespa recua após máxima histórica em ajuste de mercado istoé dinheiro",
-    "fonte": "ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMG4zaUM2NFB5clQ4enFvWVRWZTRHMnRrSmVSX0tTVHpfeTBsWnh1VDBON3hZVWlNek9hMXBWNEdfdjJQcC0xdF9CQjc4NUVpb3RvOWJJVU9rbnRkQVNGLU96cWNyNVFqajNqdHdlWXlFQTBzY3p6SklFZG93QVZqVA?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "IBOB11"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
-    "titulo": "Recuo do petróleo dá alívio aos mercados e leva S&P 500 para perto de alta recorde - Bloomberg Línea Brasil",
-    "titulo_norm": "recuo do petróleo dá alívio aos mercados e leva s p 500 para perto de alta recorde bloomberg línea brasil",
-    "fonte": "Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGlmbkJfeTRJRkpabW9BZE45X3JWMzJiaWRNSFJPSTFrR255MVRMN1Eycmo2QkNRa0hZbGNGSWpZYm16b29HUkJPYWtnMWZ5aG9XUFdpdzh4dkQ2dVFuMkdURGxzSG1vdTc0QnBkdzFKWG41U3YtUzNHeGZmbTk1WHk0T1pXSGtsMHY1TktiWjRjb1JldEk4RTBOTlNOYWFFUXQtWERaeHhCTlU3cFdQSmEyTTJnVDVkLW40VVllSzNDSDTSAdcBQVVfeXFMTzZOQlNWd2VzRzR4WWNrTWxZLTh1aUcwckpFaDJQUnJOR1BsS09MR2FiR3lLV2hxT2pvazllV0dCbWtsZkptT2tLNHM2NlBPVkZPN2xSOUt6THFoaU9ZbjZZclFsMEUtYmY5YlA1NnBYMmhMMWdQaldyTThINUVTMkY1V040SVpOeWRzQ1VfZ3ZxeURvdEtVckJKa2NlbEtfdjVkMjZSS2NPd05rS2twWFRiQm9kZ1hZc3JyRVdzT2FIZUpQYTRueGhkaHFCWE82LVlCZ1VnMHc?oc=5",
-    "impacto": "Médio",
-    "ativos_afetados": [
-      "WRLD11"
-    ]
-  },
-  {
-    "data_envio": "2026-10-06 17:26:11",
     "titulo": "Em Wall Street, S&P 500 e Nasdaq rondam máximas históricas - UOL Economia",
     "titulo_norm": "em wall street s p 500 e nasdaq rondam máximas históricas uol economia",
     "fonte": "UOL Economia",
@@ -5781,6 +5679,106 @@
     "titulo_norm": "banco central amplia prazos para autorização de instituições financeiras e operações societárias vbso advogados",
     "fonte": "VBSO Advogados",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHVHVTBZVndzVnJmNTdSTi1QZmY5dW1wMzZVZF8tWm1LM0gteWFxSHpzemRrU2Y4bTF5cTIzSlgwOUNwVUlQRmcwMHdoVUJKVkFJaWR3alJJTjkxXzFuMU92b2VCWllHSXYzb2FmODNnTGM2N05ZR0N2YWc1cjJEa3IzRGZ5VTVYOHdIX1VxMXpXb19uUllUb2dEMA?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "CDB 100% CDI"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "Ibovespa em alta, dólar em queda: a reação do mercado entre 1º e 2º turno da eleição - InfoMoney",
+    "titulo_norm": "ibovespa em alta dólar em queda a reação do mercado entre 1 e 2 turno da eleição infomoney",
+    "fonte": "InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVVZSHBvS2RxbjVDVDBEQV9lX0FlVkFlTkNFUU95c1dTQnN1aG5qM2RoMUlDN2Vmb21ELWNONElRbHpXS2d3cTdqbjUxRGlwNGk5bnlhZkZjYVhDd3NtNW02OEFCN3g2S1hYdWtUMEFiVFBqNlVUZWVwYTY1M245NUFLSXZrbU03aHVlRXdNWTgyTmdINFNUTVo1UEYxMmtsNWJRWkhjTTE5UEY2dFQ1Qy1xQi1sLUJ3MU0wcEFB0gHDAUFVX3lxTFBUV3hoUHpJXzdaczVGa3JId1J3LU9NQXl4UndRWjAxWS1VVG9Oc0Jrc1V1VjdnNFcxV09DdUwwTjZxYjlCZ1ZMcDJnczJZcE9GSTJGUE1EaG13azExV1ZSWEowVVg3bmlfUDdqbzRIYnF6NXdkYjN6MlhJY1d6ZXF4ZWlLMTNGbDg2SG9JSUxqc3UyNUdnYnE0NEZBMUUwMDZPTHVjUHVNZXFsOXJXMktBb1lpWEV6RHlvaXJZNWg2d1lfVQ?oc=5",
+    "impacto": "Alto",
+    "ativos_afetados": [
+      "IBOB11",
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "Carteira recomendada: 5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra - Money Times",
+    "titulo_norm": "carteira recomendada 5 ações para bater o ibovespa ibov no curto prazo segundo a terra money times",
+    "fonte": "Money Times",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGN0MDlRZjRNZm1ya0pxQ1BVaTFBQ0kxX21pdjVjUzBJUXVhU1l1aG13SHl1SHprUEs5X3IzbWdZa0gtWkVIRENKRU4xdUJVT0pwNktJLWdPaUx5elgxNkxScXZZWEgtM0xFblBNRUgzaE9JYW9kODNSTW1QTm9wc0xJYkRTN1FhWTJNdl9semtBeG9MSjUycUhpYWNhaDJSVHlQb3VFUFZxMENWcllOZDhDRzN4QTcxNEpmV2szOA?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "IBOB11"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana - InfoMoney",
+    "titulo_norm": "calendário econômico resultado das eleições e decisão do fed são destaques da semana infomoney",
+    "fonte": "InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWm52akViZG5DSXpwb3JPOTRRSHRtV25obnpVOWRGd2hiTjhKWGNhbE5Bd0J1YTFqVmZJYXEwanJ5WkMzbTY1SDBIVHNGRnJDenFWajdOWENFbWVheWh0OEVvY1E1UHJNVUgwRktlUGdKWlBlU0VKR0NCMkw1U3VyY1JhMFVEYmRyTTdhbDM4U0JUcVZGUDJzX1JaWGpVbHEtYmRPcUF0QTFmSEFvOVZHd1lnSlFrMmVkTW1qT09UOHfSAcYBQVVfeXFMTnktakFPZnk5cXhvRmZjQlpEV3lFaUZRWDFQeUxwcjN3d01oNU5DN0swXzFEeTZtZWdFdEtkVWRqMUlnRjVBUHRnUjZYcWdyWldESWdSZFliUTdya09FMHZRM0VNLVdqXzIzc0dhQVdGSHJtNkJwbmdmSEpYQUZ0alN5WHRWM1NVblQwLWVDcUNGSEZkb1lmUkVqODZDNEVRaDg1Y2JabmZNX0l1ay02dHdDY3Zta3k4eW5GVGQ0U1NpV0M3VVhB?oc=5",
+    "impacto": "Médio",
+    "ativos_afetados": [
+      "WRLD11"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques - G1",
+    "titulo_norm": "ucrânia diz que starlink voltou a funcionar elon musk acusa país de usar sistema para ataques g1",
+    "fonte": "G1",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeTJCd1F4RjdpV0tpTFh4cDBmanJBTWVRQ2pVZ1lkRy04Z2dvdG1wSHJUbEpxTkdCdzVtT3Q5T0dwSlhveHJ4bzFIMjNuTm85NzBTMVM2Q1pCUkRaMUsyNHJFYzVPUzRFYjVGNUV6TVpEeV8zS21kTjdaRGJ6NWhIeTdDbWExNEZqQ2ozX3hYUGowdS1BdkhYQVFDSnc3VDdQMWF3UGNXRVlpbXlFWjhpcnJDa0FfMlRJUFRyeVdHS1UtLTcxQkpJRjdBbk5xMXUwRUZCVTR0THhmZElzQnfSAewBQVVfeXFMTzllOGF2ZUpxeWVrbVdUcHJzemlBU0dCVlVVOTBEc2ljVzFQY2Z6enVEVW51WkdRRnV2T0E4MENmbHlndk4xbTdSQnF0SGs5eFpmZXVtN1ltT3pSN2lJSks1ZzJvX2lPZjFQTmlFaVp0MXE0OGh0dnlHeFZBZHpJTXoyb01kUGo3eXVjMThRUXlqbkdiNXdfMDdVLWNLSUl6c1FmTFZ5ckpRR1JFOWZ3NjZ5UWVwMGJJOVBqdlFWVVJtQ1plUEJwSmxGSDI3a1NtZklESmtibW9HM1o0UFVVN0ZzMWxoNXlMOHpRTWQ?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "Há uma boa razão pela qual Elon Musk quer juntar Tesla e SpaceX em uma empresa de US$ 3,5 trilhões: mais controle - Terra",
+    "titulo_norm": "há uma boa razão pela qual elon musk quer juntar tesla e spacex em uma empresa de us 3 5 trilhões mais controle terra",
+    "fonte": "Terra",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc0puNGdRekVoUkRsUjlYYjV4aG9rR2RTdUtUajRkc3lUbVc5Vm95MWNwUTE5RFZpb1VtVWIxZm1LUmo0YU9Cc05hQ0RpTVlrcnpYS2FsUDNHWXdiVFFWNndnYlpnTjItclZZMU9sck5oSW5YS3cybXRkeHprZ3N2c013TUFJc3AteVN3dXRnOFVsNVdoNHhRM3Q1WHVjUWFkd2xQTEhDNUUyd1E1VUlsVXZkdjhDLVU2X3RCNUc5TjU0clBSQVpoSzVnR3R4RmhzX0pNNHE4a19sTHl3ZDBNTFdycF9oclB5WU5sOTgzQUNscVYxemx3amQtdXAxYllWOUM1eXRvek9oYXpmUXN4N1NEZmk?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "Starlink na Ucrânia volta ao normal após semana de restrições - CNN Brasil",
+    "titulo_norm": "starlink na ucrânia volta ao normal após semana de restrições cnn brasil",
+    "fonte": "CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGxMMUZ1RldMSy1JYlEtNGN5ckMzVHc4MG83eHlMalRwYjU1VnhDRnhUMnFSME5zNl83TXFJU3FzSS1nLXRUZFJ6blNhalBBSG13amxGQzBJUUFPU1c4aTBHZ3dmakZyU0lpNXlOc0VjM2JMVVV3SUhYQkcyUjIyWnd6SDZEdkRISWl3dkhZN0wxMjhRdHVYOWRrNzZ0ZmFCUldaRTlROEc?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "Elon Musk acusa Ucrânia de usar Starlink para atacar civis - Tribuna do Sertão",
+    "titulo_norm": "elon musk acusa ucrânia de usar starlink para atacar civis tribuna do sertão",
+    "fonte": "Tribuna do Sertão",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjUwOTJlWl9DMGs2WFBveExVa1pBMVBqcVN6NDhTQmtZZG5ZbDlRQzgxMkRQODI0T0hxZ3kzcWEtSWtDYzRmdm5vLTZIVjZHUzBPMUY4bVE3YjJDZEhMNnpYS1pmUXN2XzM2ZUl1cUZ0RXN2RmtQUG1FZEpoV3JWNW5GWEhIY1hsNko5d1Rid0FhbTIxODNIUnB6RWVYdC1OR2d0WTlOWEZxZlNTcnR5eDctTTk0QmpKaVE?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "Há uma boa razão pela qual Elon Musk quer juntar Tesla e SpaceX em uma empresa de US$ 3,5 trilhões: mais controle - Xataka Brasil",
+    "titulo_norm": "há uma boa razão pela qual elon musk quer juntar tesla e spacex em uma empresa de us 3 5 trilhões mais controle xataka brasil",
+    "fonte": "Xataka Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVXJoNFVpci1ReklOU1FVUnhBWDM2enpXSjhXRXM4YXhrdEVNbTdlVDVuNF9BYUVCYkFQcXBZY2RqaVVfR1BXNGNIYldsTXJKVW9qY3F0Q3pmV21KYU0zNG14dXBqMDI2LUE4UUhhVzFMWlEtQWczTzdjeWtPNXhNekYyVlM0RkxOQTBaN3pZMmtWNEJacGF4WXBnWWVxX09EMmFWWXJCU0piR2RlSXh0dnNzYnNUQ2pyaVhPM0VXRlFKTVBtSUJKRVd3VGdQRUtJMFc4TmpwOGFoQm8?oc=5",
+    "impacto": "Baixo",
+    "ativos_afetados": [
+      "SPCX34"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 22:45:42",
+    "titulo": "O Banco Central aprovou novas regras para aumentar a proteção dos consumidores na contratação de empréstimos e reduzir o risco de superendividamento. As mudanças incluem: - Bloqueio de ofertas: clientes poderão impedir o recebimento de propagan - Instagram",
+    "titulo_norm": "o banco central aprovou novas regras para aumentar a proteção dos consumidores na contratação de empréstimos e reduzir o risco de superendividamento as mudanças incluem bloqueio de",
+    "fonte": "Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03NjZpaURHcFZka0ZrY1NtQjc5aUMwVHhvS1hnQWNTOV96dGd1NUdON2VlVnQ0Smh5Rmo3Q2hPVF9LMm1xb1c5UEZwVHhQbEpjRFE?oc=5",
     "impacto": "Baixo",
     "ativos_afetados": [
       "CDB 100% CDI"
