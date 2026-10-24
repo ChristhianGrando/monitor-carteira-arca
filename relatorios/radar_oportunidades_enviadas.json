@@ -1,39 +1,5 @@
 [
   {
-    "data_envio": "2026-09-02 21:49:44",
-    "chave": "e160ccddafc4b51cfd805d183fedc4ca5395f3817734fc6b45c8ff60999ff4d2",
-    "titulo": "Ibovespa futuro cai com ruídos no STF e ‘trade eleitoral’; dólar abre próximo da estabilidade - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZ1JfcGt0WENZcTRDOGtpWWZvWlpEdEhHaG5PaUpVbTE3dXE4UGZKSUs1amhDa0tfbVFHWl81WmJxeXYxV1lEWkRaR2doVFNlc3AwYWhDZjZEQkE0VXc4OEJNaE1sTVpNZWc?oc=5",
-    "fonte": "Money Times",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 00:16:10",
-    "chave": "63b62ff2e89ef05c4d070e3f4ff43d69cb3b656feb9bacc1d27d94642d036db1",
-    "titulo": "Ibovespa fecha em alta de 3% com trade eleitoral; dólar cai a R$ 5,10 - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVpzYlRvM2VrRkJibEhDTWZCeFpEVWJxOWpleGQzV0dxYU9fWk5OSXpBTDJoZVhKaC0zNWJiZ2FTWm1ILWl4OVdJTnRhdzg4VmJ0b3NpMlJBdC1yYVNYUkJKd0JkQlItVnpINVZCSE51LWlGODE4ZXJvdndkMWhlUDY0ejJpbWF1dndlQ09YOHVzZTRiTTF0aTliaXJqVjVvc1pvUw?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-09-03 00:16:10",
     "chave": "b86a9d7f529df55925be907fcdf5ab04be7b88a0061a661963011bfce48b7159",
     "titulo": "Ibovespa Salta 3% com Expectativa sobre Eleição e Fluxo Estrangeiro; Dólar Cai - Forbes Brasil",
@@ -17388,6 +17354,46 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 05:54:09",
+    "chave": "fa54c62bc10c126d966a086b00bb4f40e6339cd065e28a38e57e4ea84acfde35",
+    "titulo": "Com IPCA-15 abaixo, Ibovespa B3 sobe 0,47% antes da eleição; dólar cai a R$ 4,99 - Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0pDRjFTRXhieW9rREVmNzFMU2I0SlpINTlLdHJmZzJBVVZXTFowa2RRTmNweHVybk55MXV4eE02UWpjZUk2akliUW1tUGNLeHRrTDlKaXV0Y3h5R1F6eU4wa3RGaEkyVmtfNUlqV05QZ3FzQy1aRVBnNWtPNk0xWWZYeEVrTkFQSlJHeTEyRlFuNW9kOWFaalJOT25CMktGYmxVOXlacTBNZUZORFpId2lhbHFka3NHSjFVN1NRcW0?oc=5",
+    "fonte": "Bora Investir",
+    "score": 16,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 05:54:09",
+    "chave": "7909c1c234e494c471e1cd84e8fb6fabbe213afa81f9f7c3f7f37dd79600fbb1",
+    "titulo": "Galípolo é “muito inteligente” e até ele é contra Selic alta, diz Lula - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXFJUmloeDVhNkd6aDFLTU9kNHJLMktwcXZvMmE2OUJ5MFY4ZC1BV3FMZlI2bFZZNUNsSlRYQV8zVXRma0xPMVhEbjNKZDJORWY4SFBLWGFNZ0N5TFlYYUFyU2otNHg4OU0xOEppZ2E5VDFlbDZTX1cxTTJVdzA4TDdsZ2pnZFh0dE5vd3lXb1lac1BLd2JpeTRYMC1JYUllQ1lmXzd5Q3R1Zl94WEt1Q1FwU0tYYTg?oc=5",
+    "fonte": "Poder360",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]

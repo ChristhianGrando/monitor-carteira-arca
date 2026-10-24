@@ -1,11 +1,40 @@
 [
   {
-    "titulo": "IPCA-15: prévia da inflação sobe 0,32% em outubro, abaixo do esperado - InfoMoney",
-    "resumo": "IPCA-15: prévia da inflação sobe 0,32% em outubro, abaixo do esperado InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGVyaDRQUU9odHRLTXl3WGw5SndyN0drakJGblVSSlhjMlZ6TFNkZHd5TmstMXBHa21JLVhPMll0SGgzbElwNDVVaU1UVE5YZFVsdjdIRHFQSDltOEl5WGRrbjRQWnlJTm56MHd6ZnBCbHpOdWdNQWZqYUlRcWJTMjVmRk9DRknSAYwBQVVfeXFMTnJHWWR5MUhIZWFaRVRKTjJtOV92bnNKNUsxUlQxZTFsSmdtRkI5VkpMd0UtbjZrNHlUX1FockNyVVpYV0loSmJhV2RvcXlNVjZhUWNvMkRkUW9TTDR6Qnh1Y1g4dTZPY2FCMWlHOGd0V0JjNUplLXJOT043cE9USkhFN1hDbnBwQVNCWlg?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Com IPCA-15 abaixo, Ibovespa B3 sobe 0,47% antes da eleição; dólar cai a R$ 4,99 - Bora Investir",
+    "resumo": "Com IPCA-15 abaixo, Ibovespa B3 sobe 0,47% antes da eleição; dólar cai a R$ 4,99 Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0pDRjFTRXhieW9rREVmNzFMU2I0SlpINTlLdHJmZzJBVVZXTFowa2RRTmNweHVybk55MXV4eE02UWpjZUk2akliUW1tUGNLeHRrTDlKaXV0Y3h5R1F6eU4wa3RGaEkyVmtfNUlqV05QZ3FzQy1aRVBnNWtPNk0xWWZYeEVrTkFQSlJHeTEyRlFuNW9kOWFaalJOT25CMktGYmxVOXlacTBNZUZORFpId2lhbHFka3NHSjFVN1NRcW0?oc=5",
+    "fonte": "Bora Investir",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "162f77c8051fca5f771fb332f609848f40752137f2e4889e633431ede47416bb",
+    "chave": "fa54c62bc10c126d966a086b00bb4f40e6339cd065e28a38e57e4ea84acfde35",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Galípolo é “muito inteligente” e até ele é contra Selic alta, diz Lula - Poder360",
+    "resumo": "Galípolo é “muito inteligente” e até ele é contra Selic alta, diz Lula Poder360",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXFJUmloeDVhNkd6aDFLTU9kNHJLMktwcXZvMmE2OUJ5MFY4ZC1BV3FMZlI2bFZZNUNsSlRYQV8zVXRma0xPMVhEbjNKZDJORWY4SFBLWGFNZ0N5TFlYYUFyU2otNHg4OU0xOEppZ2E5VDFlbDZTX1cxTTJVdzA4TDdsZ2pnZFh0dE5vd3lXb1lac1BLd2JpeTRYMC1JYUllQ1lmXzd5Q3R1Zl94WEt1Q1FwU0tYYTg?oc=5",
+    "fonte": "Poder360",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7909c1c234e494c471e1cd84e8fb6fabbe213afa81f9f7c3f7f37dd79600fbb1",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -17,96 +46,6 @@
       "Real Estate / FIIs"
     ],
     "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha última sessão antes da eleição com alta; dólar cai abaixo de R$ 5,00 - InfoMoney",
-    "resumo": "Ibovespa fecha última sessão antes da eleição com alta; dólar cai abaixo de R$ 5,00 InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXpJNE9jTURYeGQ5bjNxc0JCUkZnV0RyM3EtNVZnYzlYQTg2YTg2bmxWYVJtd0VQbHlQS2dSdjJ1Mk5oLVR4YWJnZHZGSFhJV0FkN1VuSGI3a1NOT3JiOW9iOENWY3g1b1FoZVZTRVpuVHBnUGxVUlJ0TE9heTVybFRYSHhDY2tZcVFPTGJkVQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e1d3650db834243384ad2c92a3b210a3bdc02fecad9a9506839cbe123a11109b",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Após caso do Banco Master e perdas do FGC, Banco Central propõe mudar regra para ganhos de plataformas de investimentos - O GLOBO",
-    "resumo": "Após caso do Banco Master e perdas do FGC, Banco Central propõe mudar regra para ganhos de plataformas de investimentos O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWXVXNEJnM3ZmaWIwQVlHU00tUzU5SW82RElGTWk2LW9FU2I5S1NRYWkwLVlEQXphUThXeWRLc2lFZHh1eHRkYkdoUnB5Y2d6dnBGakZPbzNPSFZSNkxYNkdCc1BmeFQybld3LW9IS2lIck1DYUt6OU12ck1wQ2NNeDVJd3k3Y0huUXVwd0VPQ3VPcXU2R2dUeTdydE9zVGZDb1JDQnVWemo1QzVQd1NJNWxWSlI3YlBDSkxfN1VnbUtfelJEcUU3TnUzdHppc1pXUWU4a1ZqaHhic2xDTzZHaUFDNFY3THFPM3BQbWE0NjJrYnRfT0hhZktBTGppa1dpaTJfME83a3jSAZcCQVVfeXFMTU53SWd2NjJrb0E5WnotSHM5M2V2WWVESE5jQjlWM1ByU29kN1J6RERKWmJIZlNVTXpPb3ZzTWdFMGpGRExUTm5NTW1oZ2NpclVHVVZIZzJjRDhxWkN6VWZtSGhhLU1DUXhNMGVhSVBMcktpWm01OUEtNHVmRGZrVm8ydG5MWFZtMkdiZE42RGxiYVZEQkcwSURMN2FaeHRUTGU3U3otdWc3Ni03cUtvTTFtNXVUX01ycVYzQk5GZ3U5UkZveDNTT2dVVk1CMnVUU01vRS1yWjlBSmFzOTlfX1RLdmFMb2dHSG9UaEkyazBJVkp4b0gtaHd5aEdGNVZNajljZXFVQTZmdGkzMEQwR25oSHJKMkVJ?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b26ffce14e745f0f72cc542dbae96d7483304c55f03beff210d334493f2560f8",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central amplia prazos para autorização de instituições financeiras e operações societárias - VBSO Advogados",
-    "resumo": "Banco Central amplia prazos para autorização de instituições financeiras e operações societárias VBSO Advogados",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHVHVTBZVndzVnJmNTdSTi1QZmY5dW1wMzZVZF8tWm1LM0gteWFxSHpzemRrU2Y4bTF5cTIzSlgwOUNwVUlQRmcwMHdoVUJKVkFJaWR3alJJTjkxXzFuMU92b2VCWllHSXYzb2FmODNnTGM2N05ZR0N2YWc1cjJEa3IzRGZ5VTVYOHdIX1VxMXpXb19uUllUb2dEMA?oc=5",
-    "fonte": "VBSO Advogados",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "e82bd21ca04bc10b20ccb69d58a202a64d131ede0483605a99872c08de2238a4",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central aprova resoluções para regulamentar oferta de crédito e endividamento - Portal VV8",
-    "resumo": "Banco Central aprova resoluções para regulamentar oferta de crédito e endividamento Portal VV8",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDJ1enhhTzdBYXpJUU05d1JWUF92dzZLWlowNG5VN2Jrbnl1ZWJQRWYyREpRUENLemk5aVJiMDNKT0dvLWxkcXpqaFFqaUtKYWZRVUl1RlI1TFNRY201djlkT3hUeGxKdnBSWHFUNHo3S0xQUHJrM2FENUhsdEtlNDRMUkxmYlk3Ym5JZ3ZYT3VHaE56Nk81azl2VUpQN1NibnFSMl9qczhib3FHTjZlOVY1LXBZWThIelFERnpKOA?oc=5",
-    "fonte": "Portal VV8",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "bf0ae627a134f452f29fef16cf16a76f8f2588934d6295aa7a4c76f1cb3eb4e8",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
