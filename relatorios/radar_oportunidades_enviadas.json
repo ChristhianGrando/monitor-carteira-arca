@@ -1,94 +1,5 @@
 [
   {
-    "data_envio": "2026-09-02 18:42:53",
-    "chave": "dfa01df2e3205be867fcf75273170c9a299dbcb26e538cc32e900a4355d59002",
-    "titulo": "Banco Central vê com preocupação FIDCs - Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlExWEJvZDRBX3lGNjU5QXhONFo1TGpZbDZfUUR0bnU0YUJwTFlPMzZDNnZlYXBOVHVkMjR5cTV1YnNVYkJqU000aHZadmVBUjNEWFoxMGN0dDdLWGRsbXZGTzV1VlFQaWRCdXdrZDB5YVRrd1dUY1h0eXpfblNyai1GQTBaT051cm5GMnpjWDByOEp1YXBTME5JMGR3MGtQSndaNUE5d1FBNmV0enJr0gG-AUFVX3lxTE5wZTNfcVlBdDA0NUp5RXJsTGlXbDZSbkkzbU1rZnZCakNWeU4yNWlhRWVOR2Y5b2pzS19ULWFFcmZrSXVrbTROUDlXRy1vR2NLSDVNLWdGX1o5RzRsYi16YzMzcEd3b0hGU0U4cWJ5OG80RjdCY3hFcGlIeWpjcVpNRFNuTWJjNjVQTDVFM2d0Zmg1enNwWDQ3LXYtVXBhbTZlaTJGMTlJdEFyTXBrbk80aVlSV3E1Y19DOVRBYVE?oc=5",
-    "fonte": "Valor Investe",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-02 21:49:44",
-    "chave": "45cb1a219b4383570bf1e050018ad7d3c2f31b6254a438221a4e188018575fac",
-    "titulo": "Analistas mantêm projeção da Selic em 13,75% e dólar a R$ 5,20 - monitormercantil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmJ3S1dKMGkzeDdVODZUdm5YN1Z1Wk5aS2FkY1JnZXJPYU5VYnZZMHFybHJMcnJLQVltOWJDX3RpVm9vNkpoLTJ1NDdzREhidG5mZHROaW11RTVsd0UteXB0N2tLNWRtQUFVZm1hMkRNX2U3WGtlRUI4S045MzVURTBMMk9nb3JJLTdCVnBiV0xoYjYydEE?oc=5",
-    "fonte": "monitormercantil.com.br",
-    "score": 13,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-02 21:49:44",
-    "chave": "5cc3ae6a56b069b2d79f160ace23d768c20c35b4ba6763a51f043dde4bd5f76f",
-    "titulo": "Inflação puxa renda fixa da B3: índice ligado ao IPCA sobe 1,78% em agosto; veja ranking - suno.com.br",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUy1FR3c1X1lfUWNhMkU1OVVWYTQ3YVRfRFV1M2EwMm81MjlTaG1HRFlkOVUxWXRMR2h0R1A1ZXU1dDZ5azgxVEppWG5KZmF0Y0FEX1hTMDJBMVA2RkItamRCVzZ3eUdJbnEzSnVKTGp3TDZTZ3h1ZEZ3SzJWejRKbmJRbDlpQ0RIcWE3OGtSUdIBlAFBVV95cUxQcVpiT2hPLTZNbWpJZV91UHhGNnFWbDkxV2J3emdSVWdjSUUtVXBoVXpsRTBJUS04elhER2h4VEo4WExZWTBEZzJaRlZsSXNBTXl1U1FmUm0zM1RPVjlfQjNvWVhyLUQwbHNLUlBJU01XWmlhUUtKeEtmeGFva2dQZ0plb3JhZ1JLVGdYV21Od3BiNHFG?oc=5",
-    "fonte": "suno.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-02 21:49:44",
-    "chave": "274e6532819fadf06cced0c7b70308c313e98802c663d40d1a7ac28a262ddbdc",
-    "titulo": "Ibovespa sobe mais de 3% refletindo trade eleitoral; dólar cai - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVpzYlRvM2VrRkJibEhDTWZCeFpEVWJxOWpleGQzV0dxYU9fWk5OSXpBTDJoZVhKaC0zNWJiZ2FTWm1ILWl4OVdJTnRhdzg4VmJ0b3NpMlJBdC1yYVNYUkJKd0JkQlItVnpINVZCSE51LWlGODE4ZXJvdndkMWhlUDY0ejJpbWF1dndlQ09YOHVzZTRiTTF0aTliaXJqVjVvc1pvUw?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-02 21:49:44",
-    "chave": "54de66d97c7dbbbf6ffa9079c785759411da7cad150431f7ec54be972d153d57",
-    "titulo": "Ibovespa sobe mais de 1% e tem 10ª alta seguida; dólar cai a R$ 5,15 - brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem5lNHJXMTB4em4tY0NXUzZxYjViUDFEQkk0M1d6MG0weUdSWU4wQ0dwczZJT2txaVhSUVFWVU54dHExZXdBRTZ1a0hOU0ZiVDRCalJvR2o4d0NiNFVBQzZ3ZzZLRUhzNnc5MndZeklFeVpEc0J0ZjhRVnhjbmk5UmQ3VkM0OE1kLUhkSnNlQlc5UTVpRGJXdWxoMVJVS0xYaG8tLTJhcHNkdGs?oc=5",
-    "fonte": "brasilagro.com.br",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-09-02 21:49:44",
     "chave": "e160ccddafc4b51cfd805d183fedc4ca5395f3817734fc6b45c8ff60999ff4d2",
     "titulo": "Ibovespa futuro cai com ruídos no STF e ‘trade eleitoral’; dólar abre próximo da estabilidade - Money Times",
@@ -17389,6 +17300,87 @@
     "titulo": "Banco central da Rússia mantém juros inalterados em 14% e prevê flexibilizações modestas - Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY3dPU2RjYlBVTF9uT3puZ0VLWlF1b0h0TUpQcHZqUXQxVzZ4Zmw1bHFJQUg3VU9JR05uTjZUZnFGSFh0QmFKMTRjT3cyMUtNUFhyczhGZmgyQmZENGdrUUMxQ0JJMTdrWXpfbUpSdUhrY0VvdjBlcGk3NUY0ZjA0Q1dmZTlxdEs1VHEzRjlWS2taOHB6c2psTjNSY25XVmhpZmdTQ1JsUFFKU0IxSlZxZDhlaVNfdThRSEs4Y21NaS10R1B1WTFqc2tsbjZhb2JEV1FqRXBLbl9nUHdEY2FYV2FmVUlFeGFqdWtqN1NxcFFEbk5uQXfSAfYBQVVfeXFMT2N3T1NkY2JQVUxfbk96bmdFS1pRdW9IdE1KUHB2alF0MVc2eGZsNWxxSUFIN1VPSUdObk42VGZxRkhYdEJhSjE0Y093MjFLTVBYcnM4RmZoMkJmRDRna1FDMUNCSTE3a1l6X21KUnVIa2NFb3YwZXBpNzVGNGYwNENXZmU5cXRLNVRxM0Y5VktrWjhwenNqbE4zUmNuV1ZoaWZnU0NSbFBRSlNCMUpWcWQ4ZWlTX3U4UUhLOGNtTWktdEdQdVkxanNrbG42YW9iRFdRakVwS25fZ1B3RGNhWFdhZlVJRXhhanVrajdTcXBRRG5ObkF3?oc=5",
     "fonte": "Valor Econômico",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 00:42:37",
+    "chave": "162f77c8051fca5f771fb332f609848f40752137f2e4889e633431ede47416bb",
+    "titulo": "IPCA-15: prévia da inflação sobe 0,32% em outubro, abaixo do esperado - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGVyaDRQUU9odHRLTXl3WGw5SndyN0drakJGblVSSlhjMlZ6TFNkZHd5TmstMXBHa21JLVhPMll0SGgzbElwNDVVaU1UVE5YZFVsdjdIRHFQSDltOEl5WGRrbjRQWnlJTm56MHd6ZnBCbHpOdWdNQWZqYUlRcWJTMjVmRk9DRknSAYwBQVVfeXFMTnJHWWR5MUhIZWFaRVRKTjJtOV92bnNKNUsxUlQxZTFsSmdtRkI5VkpMd0UtbjZrNHlUX1FockNyVVpYV0loSmJhV2RvcXlNVjZhUWNvMkRkUW9TTDR6Qnh1Y1g4dTZPY2FCMWlHOGd0V0JjNUplLXJOT043cE9USkhFN1hDbnBwQVNCWlg?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 00:42:37",
+    "chave": "e1d3650db834243384ad2c92a3b210a3bdc02fecad9a9506839cbe123a11109b",
+    "titulo": "Ibovespa fecha última sessão antes da eleição com alta; dólar cai abaixo de R$ 5,00 - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXpJNE9jTURYeGQ5bjNxc0JCUkZnV0RyM3EtNVZnYzlYQTg2YTg2bmxWYVJtd0VQbHlQS2dSdjJ1Mk5oLVR4YWJnZHZGSFhJV0FkN1VuSGI3a1NOT3JiOW9iOENWY3g1b1FoZVZTRVpuVHBnUGxVUlJ0TE9heTVybFRYSHhDY2tZcVFPTGJkVQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 00:42:37",
+    "chave": "b26ffce14e745f0f72cc542dbae96d7483304c55f03beff210d334493f2560f8",
+    "titulo": "Após caso do Banco Master e perdas do FGC, Banco Central propõe mudar regra para ganhos de plataformas de investimentos - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWXVXNEJnM3ZmaWIwQVlHU00tUzU5SW82RElGTWk2LW9FU2I5S1NRYWkwLVlEQXphUThXeWRLc2lFZHh1eHRkYkdoUnB5Y2d6dnBGakZPbzNPSFZSNkxYNkdCc1BmeFQybld3LW9IS2lIck1DYUt6OU12ck1wQ2NNeDVJd3k3Y0huUXVwd0VPQ3VPcXU2R2dUeTdydE9zVGZDb1JDQnVWemo1QzVQd1NJNWxWSlI3YlBDSkxfN1VnbUtfelJEcUU3TnUzdHppc1pXUWU4a1ZqaHhic2xDTzZHaUFDNFY3THFPM3BQbWE0NjJrYnRfT0hhZktBTGppa1dpaTJfME83a3jSAZcCQVVfeXFMTU53SWd2NjJrb0E5WnotSHM5M2V2WWVESE5jQjlWM1ByU29kN1J6RERKWmJIZlNVTXpPb3ZzTWdFMGpGRExUTm5NTW1oZ2NpclVHVVZIZzJjRDhxWkN6VWZtSGhhLU1DUXhNMGVhSVBMcktpWm01OUEtNHVmRGZrVm8ydG5MWFZtMkdiZE42RGxiYVZEQkcwSURMN2FaeHRUTGU3U3otdWc3Ni03cUtvTTFtNXVUX01ycVYzQk5GZ3U5UkZveDNTT2dVVk1CMnVUU01vRS1yWjlBSmFzOTlfX1RLdmFMb2dHSG9UaEkyazBJVkp4b0gtaHd5aEdGNVZNajljZXFVQTZmdGkzMEQwR25oSHJKMkVJ?oc=5",
+    "fonte": "O GLOBO",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 00:42:37",
+    "chave": "e82bd21ca04bc10b20ccb69d58a202a64d131ede0483605a99872c08de2238a4",
+    "titulo": "Banco Central amplia prazos para autorização de instituições financeiras e operações societárias - VBSO Advogados",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHVHVTBZVndzVnJmNTdSTi1QZmY5dW1wMzZVZF8tWm1LM0gteWFxSHpzemRrU2Y4bTF5cTIzSlgwOUNwVUlQRmcwMHdoVUJKVkFJaWR3alJJTjkxXzFuMU92b2VCWllHSXYzb2FmODNnTGM2N05ZR0N2YWc1cjJEa3IzRGZ5VTVYOHdIX1VxMXpXb19uUllUb2dEMA?oc=5",
+    "fonte": "VBSO Advogados",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-24 00:42:37",
+    "chave": "bf0ae627a134f452f29fef16cf16a76f8f2588934d6295aa7a4c76f1cb3eb4e8",
+    "titulo": "Banco Central aprova resoluções para regulamentar oferta de crédito e endividamento - Portal VV8",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDJ1enhhTzdBYXpJUU05d1JWUF92dzZLWlowNG5VN2Jrbnl1ZWJQRWYyREpRUENLemk5aVJiMDNKT0dvLWxkcXpqaFFqaUtKYWZRVUl1RlI1TFNRY201djlkT3hUeGxKdnBSWHFUNHo3S0xQUHJrM2FENUhsdEtlNDRMUkxmYlk3Ym5JZ3ZYT3VHaE56Nk81azl2VUpQN1NibnFSMl9qczhib3FHTjZlOVY1LXBZWThIelFERnpKOA?oc=5",
+    "fonte": "Portal VV8",
     "score": 10,
     "tipo": "Acompanhamento",
     "ativos": [
