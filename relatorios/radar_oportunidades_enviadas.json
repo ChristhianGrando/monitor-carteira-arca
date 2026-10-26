@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-09-03 21:43:15",
-    "chave": "e9aafdc2db9cf220ecb834e38163cd0b2bb2bc9f93e03b2900e15e4af800fed6",
-    "titulo": "O ciclo de cortes na Selic começou. Como ficam seus FIIs? - borainvestir.b3.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0RxaXJUdko3WUI3VlJ3NXhjNGxpZXlsRTFmbUs4a0ZpM0RTdWRvZnRBY2gwNkNnZk5GaFNaVDVReHJFcFdkMjd2SWxJM3NWcUhRa0MtRWY3SnozYnNuSy1lMEFGRzZwYlJWVFdXM3VqLW43TmdPTi0zNnNiNjBaYzctOFNTOC1MUzBLUGdKdFdGcUJTbnd2ZTRrVVNOMmFzZi15QUtEdHFjTXViNDlvS19jdlB5d3NHOVpKOTBPM0JRcEVQWVphUlpMNHBGWVZyRVAxNU1mOHFKeDBzcnc?oc=5",
-    "fonte": "borainvestir.b3.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 21:43:15",
-    "chave": "c138c69d9d033f889f14e67decee624da0b08632d80dcaa2104434565eae67dc",
-    "titulo": "Dólar cai 0,07% e Ibovespa fica estável aos 185,2 mil pontos - Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBCeFQ3RHJtUVhyNFE0dUdmaGZmdDNVdzUwZmN3NXNzWHpZaDNnNTFRRll3S1p4dVRzVGYzZEZneVB2SWh2R2pBYmF5dmYzYWZXalVGYzhBaDdsV1R3ZDIwaTU3RHQ5WEpXanJlWGpzclBBNWZnQ1paZEt0N1lEUUFEU2x3V1JyOS1EZlBDQ0NwUklUS1N6czNqNXVmZHBUakJF?oc=5",
-    "fonte": "Poder360",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 21:43:15",
-    "chave": "2faa1e2e7e331b9aab648c60b20a51f13d23f49fcf91b1be55b7d545ce764155",
-    "titulo": "Dólar cai a R$ 5,09 com expectativa por pesquisa eleitoral e dados dos EUA; Ibovespa avança - g1.globo.com",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ENUZBbWVtb01Qck1raUdzQl9YOEVpN1hDVV9hb05WTDdQRXBuUHZIYXdDUUxOZk9uU3YxUWh4S0tCZ1lnbGhPTmxldVdndk1Vc0JIcVA3ZHJiRmUzd3VmTlVUelJycEpya3dISHFiY21RaTJvU0phVQ?oc=5",
-    "fonte": "g1.globo.com",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 21:43:15",
-    "chave": "155591894e807d21cd021ed4b649d0f5c6b7acde8782eac494987473645d2d0c",
-    "titulo": "Ibovespa futuro avança com 'trade eleitoral' e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10 - Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GVEtFZDJYQTNLMzJ2QWI5aGcweV82NVBVYU1zNDUwTk1hQjczM09EVFhTdU5EMTBqY1BGRXBoVk1JcFVCSlUxb2twbmliRWMzR09YQTFPcXF5cUJyak9lZWlmNXhFT0t4TVE?oc=5",
-    "fonte": "Money Times",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 21:43:15",
-    "chave": "7945bd937286ffdb1212a42ed28c2e8fb061b0754d97c9fa624eaf2b8b4c4c14",
-    "titulo": "Tensão geopolítica faz Banco Central da Holanda retirar ouro dos EUA - VEJA",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXFoaVJTUTBqbDBXZElPdEQ0VmE2NmVoS3dsRDdmNm12Q2VFTmotQmd2WHk4N3Z5U2tfcE9uWUs3Yy1ldDFYOFJTSm1mZW5BTFlKQndQc2lGTE5YTUhTaUtJdHBKaU94N29rekM4bHRGMFVWNlQ1QWFSVjVsZGMzZVJQZnJYNjl5cW8xUW8tdTF0VlhoaktTSlpfbkJSdldWeHd2LXBqRQ?oc=5",
-    "fonte": "VEJA",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-04 00:06:30",
     "chave": "765ccada34badd8ed26ce8dcaccf7114b71e926c8b90e238d66d9b01ed05c0f5",
     "titulo": "Ibovespa fecha estável aos 185,1 mil pontos; dólar comercial cai a R$ 5,1045 - Canal Rural",
@@ -17416,6 +17329,81 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 23:53:28",
+    "chave": "baa45e00e0a6d6728009621f8d59d92e7360553aebf2142d4dc9d8fedc813278",
+    "titulo": "S&P 500 e Nasdaq caem pressionados por ‘techs’, apesar de recuo nos juros e no petróleo - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGFKTmp0ZWdoRUpVcUpaa1V0Y1FDUmhGYV84U1ZwUVhxV0NkZDFtc3hvWFlSY0pnd1pwdHpLTER4TXlxcXgtZEI2MXRrNzJTM1FIWGtlOWdPOG9nanVvbE0xSjNscHVIQ05HN2JycC1wdVMtcy1xeTlSdlNuYVBkWUdyaUZVQWlWYy1FUEVmUjJnS1VPTFBYTlRYT1FqZWRoRy10anBYTTNWalktMU4wbG5USjNzbnJablFUZGotcUkzSkwxdUZnQmt1SWF5bGxHTXlRR2J2UGRuajgt0gHrAUFVX3lxTFA3T3N0WVRRWXR0bGUwM0dhZHM1NERuTjYzenhMTGIxWURMMGh2Q2c0NlBGR1ROVzdrMFkzY1Z1YjRYTUhYZE5iOG5UZWh4UDF6dnVxQnVfTVhkRHJGdTVNcl92aWs3OTI5S2ZiRXR5QjJta29BYndoS2IyaFVtTzhzR3ZoUFNiOXdJaDFsUG5yUk1kNmoyUkNjeGV0S0o2WEFzUjFXa1ZmR25JSi04V3BxQ3BoaWpiVlRCeW11dEV1U1h1YjB0OWYxVlN5dkFtWGg3ODFKMHBrLVFiNUo2TFp2dHdfZmZabjAxclE?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 23:53:28",
+    "chave": "0131f1b4ca3983a2808424ab37d7bfaa6631ba1855b2c83a47bf5eac1560528e",
+    "titulo": "Bolsas de NY sobem com queda do petróleo e expectativa do Fed - bra1.com.br",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1R1YnNrWEdNNVF0NmplQTdDZUZtd0s5UDdTX2xZS1FpaEwwdXY5bmdnYTljT3IxM2F4RDlENTFlaE1qVm4ycDQ0bVMzekxEb3dVNk4tOU5PaHEwVF96SW9UelZPTkpqVFd0R0R5Z1NIeGtYMHNsOC1MbkdEUW94dWE0eVJ2aHY4emxUdHVsQ2ZEeTIzX01sMnJOLVBaSzBiR1p2M1NpUQ?oc=5",
+    "fonte": "bra1.com.br",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 23:53:28",
+    "chave": "700864d9962188ebd6dc44656e1ac8ddf9ed7ebcadd3e4b1e2d4ab87115aaf5b",
+    "titulo": "Oferta de crédito no PIX dependerá de autorização prévia do cliente, define Banco Central - G1",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb2ttWWxNMHpTSEdFMDlLeGlXTDRuVk92ckxJQm5udzFLeC1CUS03alRUU3J6bVkzLXRlTFpuVkhLQXZhaXhSTl9OMVRYenBGSmlwbExOSnRhZ0RxVDhWYklqTWUyQ0xyVE11eUViVHloTXJsekxPckRkYXRhV05DaHdkcVJZMDlSTm1GRklqRnNpalgwVTZSQWVzMFJidmJxbnJaVFZqRWdDOWtRWmIyeW5CWEJOYzE3R3VHNGl4ZkJ0dmt4LWFRSXlBejZtazZJOExFbEw3dlc1d1lpU3dOV9IB7wFBVV95cUxNNU9jb2RBQzRCMVFKM0hvdmJ3OGJ0SEFQcDEzYmFyOHoxZDM2WXhud1JYS1FOZ05FZ3hwcTlKb3d5dVhraF9aODJyN0tYbC12Q0h6dm9la1daU19ibHZxalYxc1ZHdW1HYVE0a0MwNVJTczV1a21UQThfY1J1LVhuVjhfTElHaEFpT1RoUGlwbXJUeEJudGdPa1pQLXRoOWtKa28zQi10U050ZC1iVS1obVhRN2F1dDUwSVVZMFZyU0R3cDVES3NZc3hFUHlhYUFjUlBIb3JhVHBJUnFZSFVrX2FONjk5bVdpbkRLX2pQUQ?oc=5",
+    "fonte": "G1",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 23:53:28",
+    "chave": "0dbeb8b06ad9e69280aed3303956269afe6ffd6e8445aaa2ea9023ad502cd3ed",
+    "titulo": "Boletim Focus: Inflação de 2027 continua em trajetória de alta | 26/10/2026 - XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVU0VEpDQ3ktUDdwMENjVE0zbWw3bDc1Ui1oWGs2QjFqb0ZCamJvbkNfWENuWTNwakdmODJGNVJibzZQWUZYRmdCSkpSaWptV3JDcTg4eXN3M0Rvd1pTM0ktNkNwbHNDUHg4aTRMN05PNmZIVmstN2VIeG5yaE9tbkVzOVZVeHhpRHNMeDhXd1JpX01wbkRIeHNNYmNUREVRMHdFXy05M3pHS09HRVMxQw?oc=5",
+    "fonte": "XP Investimentos",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 23:53:28",
+    "chave": "be7778f04dcb9e435fcc2f8280f455ed7ff7d424cab02f50a59845c74c40d43b",
+    "titulo": "BC aprova medidas para ampliar a proteção do consumidor financeiro nas relações de crédito - Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CY2Z6cEJtd2FfdkEyTjV6OE9NeFNCaTJLYUlCckJodjc3dVpNZl9wTzZOZERkQmd6aThxOFAzWWxvVDR0S2ZGZjBWTFctc2Qxa0MwN0ZMU01Scjg0?oc=5",
+    "fonte": "Banco Central do Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
