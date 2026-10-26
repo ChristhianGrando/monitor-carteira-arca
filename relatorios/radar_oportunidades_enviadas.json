@@ -1,86 +1,5 @@
 [
   {
-    "data_envio": "2026-09-03 14:34:48",
-    "chave": "2850eda55f272a66761abaf88a53a0bfc3618c957b0019983fc008ef71b72a5a",
-    "titulo": "O que muda entre CDI e IPCA nos FIIs de papel — e por que olhar só para os juros pode ser um erro, segundo gestores - moneytimes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzRJVml5N2FwOEx2MThqaThkV2ZDTXBpcFVHX19mSU9uUDNiV2pja2ZmNnh3U0ZJMXFtbWdDbjRwYzIxZGMwR3A0YWxidnJfOFEzcVJES01HNW1jTC1vdlEwdEpvblpkNXk4cXNUWmNlbmtWbUtRT2pPTjB0ZE9NV29WOVhuSXpvdDdwUE5WbVI1aTFBZktXSHJJamMwdEdTQXNra01xWFluY1NrQ1JNcXZEbmFQVktfYTZOOER0UHRPYzN0N3pPQVQ3VWtIeWpZcDRHdjBRZkFwTUVFMVNaNHRn?oc=5",
-    "fonte": "moneytimes.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 14:34:48",
-    "chave": "f9ced89cfa527446c68dbd5c6aa5f18d9e1a13d5009dbb872ee78687f92d2d5d",
-    "titulo": "Banco central de país europeu retira ouro dos EUA após alertas sobre Trump - Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFdISVJ4WHZpcG9ZaEtUZnM3dWRWU1gyUzE5eGlGa3U5NnBLc1RnSTljcFVOdmRXR1NKTUF2eWRWWTZyMDJOZVFMZU5hZDQ0MjlXNVVOZmZrZ1FNTkYzMmc2YkhEMXgxREl1bzZDR0pRNWs4STdqSV84bmxDajV2YXdkVWF3aHVuc2JncU9iRlVyQUZfZkhfdTJmbUlhdWFxSlE?oc=5",
-    "fonte": "Gazeta do Povo",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 14:34:48",
-    "chave": "a6c59a80325ad93739952c034e9329a5d5c9053d9dd9f826db8f84fd9bd622a7",
-    "titulo": "Banco Central decreta liquidação extrajudicial das distribuidoras Trustee e Banvox - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDNSczd3TkRXWmN6M3l1bV9LQTNLczZxVVFUTXZVSzNOM0xKUUdoenZNNVBla2VLQjc2Z3VhMTBLUkFVcGhRZzJCTzJGYnk3UE5iWjZRN25aWmQzOTQwYWxaU3RKbWY0WjVuRzNSUE1MR25hWnNRWmdSb25PR0lBdGNCREM2NkNPMi1QSWozc1lIX08zN2FacjIzRXF5WUFxRTNsS2djNVlITGRRcDh2Y05Wb1BiM3hqbXhTLWxB0gHDAUFVX3lxTE5zRnBtTjJBbVp3dDkxcFc4WWhmWnJsaGNTeG9VRUJoZmFCeFV4MDFGR1BUMTg4M0V3b1NfU0gzSXdid0NBWU1DekQxcTBKOWZZOVJ0RTQybWxBMFpvZWVBRUdlZTlfeEVrVzZLelF3eU0xRlllLXROXzBPcC1yTnNKOXF5LUV4eE1WSlkwTDMxNU4xcVByNlRVMFRlci1ZNDIzSFV0YXZjYkI3NTFwVHVUTDJlcTJ2dU5hVWZfSWlibWMtOA?oc=5",
-    "fonte": "InfoMoney",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 14:34:48",
-    "chave": "666262b6966372c2f886f0ddbf93a28cc9f46cc583ce4ecff59b2eae0e522843",
-    "titulo": "Banco Central decreta liquidação extrajudicial da Banvox e da Trustee - Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGxHdnEzbGljYUtJdVBrbjdRVS1LeDRwejlBOWJNenBBZUFUaXZkbTg4WEJ2cGZPMDMyVlkyZEtmd3M1NEVjS3lIRDFiMGtRbDI2TVdaeE9oUm5qNVk3RVFNSG9yNjJFdnFVbmc2NENDTkdUckFvSXFKTHFwRTFKSXREeG55aGNzT0k3bGwyNXlyU0ZXYnVyZmE4ME1wNXJVLXQ0WHZScHMwWFM2T3JhVkIyekJXa1I0MUtIT3FVVnVxNUZLbXhtMEI2S0tPUEI3a1o0R2V2VE5YZDZRQnlLTHVsdV9iT0HSAfYBQVVfeXFMUDlSNkI1YUtZcTVXVVZaNWhWWmtYeDA2cUV5aFhwTnYtcDVzWnFMay1yaXdlcUw2SjdONGxyS3ROLUdBdkFscmRrcXA3Rm9wQmlSUHltS0RWQjhtQnVwdno3REdzbllnNlNDbWJpRkN3ZUhRNHEzeHB2UE44azY0WGFuT210ODVmQ1diQ3pORzBIY2tpWjlrWWtXbl9ScXBmbW11elhWUVJPMkpTMkpwOUtJN0dNQldMaWNsMUhINHF0RmN2Nk0tazU0eXM3TnVqemVnQml0M0hQTjZWUVNHcnl2QmxYRktiVC02ZF83MnhYdmtPUnp3?oc=5",
-    "fonte": "Valor Investe",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-03 14:34:48",
-    "chave": "7109b30fb83dfe0d2210d24fda0b32d2d2688b40f85683b9fa5b194fda4f049a",
-    "titulo": "Banco Central determina liquidação de duas gestoras ligadas ao Banco Master - bloomberglinea.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzAtTU5sVmxieEJvaVFqLXFYcGJjUGhzbXhNRzFXMzRaZ1J5WWNQcmItQlBzaVFuNzVJbm9QR0VpT3J4LUFJem0wQVdJVUtlNTNKTnNPNUpjM1V3QzRMREVnQ291UVpqTDBXTGxSSmpleTRiSkNBVjFTM0EwSzhOdDJoeHdQLXEyOW1ESmM3TzFrbTVMd0tUSHNSZmhLV0J4ZlgtSGdEU2lNaDlkaEFibHUza2lVNGRC0gHMAUFVX3lxTFBVSjdhYVAzWkQ1amZqa1ZYYXZSVHRFY1lQNWgyN2lyY0ZUR25GOTlkLWVjLV9mdnVtZEo3R05JTXdPSmlSVEpCd2hqaDE2TmUwQ2lHbHdyMWw0NC1TTlYzTGt3c3lidkota2JGLVNUQlNNa1E2REV3Sl8xdEdGUUJTZWNfeDJRU2tmQzlZMEtGQm9ZbGNlX0RlSkxIa3BiYXRrSmdCTjQtdUFiaDROR2Q5Y2tBdEVOZjdnMm1fVmoxZzd4MnhSOFRKZVB6cg?oc=5",
-    "fonte": "bloomberglinea.com.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-03 18:39:23",
     "chave": "2a90d0c11623deaa33d7627f91d46ff1d82c086785059ed8ea6fac94a7932e35",
     "titulo": "Como ajustar preços após a deflação de agosto pelo IPCA - CartaCapital",
@@ -17400,6 +17319,103 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 13:08:25",
+    "chave": "81ddfa05864e29b7360ca16260b98ef6b2fc40a11f15e5cc756208db5aa24c7e",
+    "titulo": "Focus: mercado reduz projeções para dólar e PIB de 2026 e vê Selic a 11,75% em 2027 - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yOE5SbjdqVUNkNjFJNmlOT2RqbmlCODJ6QzlEelVYeEQwcFlXNmdSMW1tYXNzVUdZNUZzbWtNSkNrRmpPRlJqekpzVnE1OWZLQm5TaTE2aXlnclZ1ZjA1Z2x3c0RNbUhkRTNham1Vck1vMDJXUnNES211UdIBgAFBVV95cUxQYmpXS2hVMS03VWlFRm1lc3ZsRkp3ZEhBNHZRYzlEQVNjcTlBU25QcG5wcXRSakFYLTRUUnZxT25RUjZCQ1RmVU5vS242UDBVblFPWFI2UWxvMVdoODV3RENKWGZpS0FobnE5czBlUERvQzhjNF9DQlJiQU13QUpQQQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 13:08:25",
+    "chave": "f36da7d2f6aeb5c41ce601dda10f5da88374704b201d7e823a7c220482ff0fd2",
+    "titulo": "Mercado reduz projeção de alta do IPCA de 2026 de 5,22% para 5,19%, aponta Focus - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONDNxT0RSWXpSTF96QkFHaVN0UlJuRnU5VXdiN3lBY1FKUGRtcFMzM0t6N3dGNjlvWTJpTV9QVHdXbUpiUTRPTHZnNmRUdVd4MjFzMDY1eUoyVlg3d0Y5ZlFQOEJ0a1FQc05Fa1JTRjFVSkdMaDVCNUdKLTdWMEp6d3ZOSlpqTUdOcUQwNWdlaXdKQTg5bjNoc09rWFg2OFJMYkMybTl3eTk0YTFGOENUb0hVZ3loVjNRalBPVzE4TnZDZUZJcFVHZDYxcnpyR01oRWRsaVVkLUlUd3lUZnfSAewBQVVfeXFMTTV2aks3bTd2dGg4YmlDY2VjbXRYVDI3RzBoWVlHQW5yel9kOGt3NmpOdHdkYkRhNmRFbXFTVjlfTWxKSFdYRTlLU0lLVjZBZXJxQmlZYnJRQWRLV09zcU9YR0JTc3Q0c3R2dEZzbVI0X3BkZjBOYXQ5djRrVDZxLVdvUFpyMzdJalFWa0hCdVRad09MdHpITlpIU0pqZkFIVXN3Y3JhUVdFcUtldU1qOTZFNERaRHRVcklZX3ZaSkRXMF93X1NrakN5bVZOX2ZzWlFPbGhaT1MwdUNjWmRDSEZMdnFrcTBFcjBIRkI?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 13:08:25",
+    "chave": "809380812117305ac7e013dc0c7d0ea9a7f81aee66c0c1c6bb9beee9889b439b",
+    "titulo": "Economistas cortam inflação e Selic em novas projeções; veja o Focus desta segunda-feira (26) - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1dUeXk3NmpoY1N5czNVdWlsQWUxc2l3ZXNaVE1rWWtIaGFCMi1PQy1lampGMVlxME5RdnJzMmdmVFJabFNQUWZXekxwZzJKbm12QjB3LTN5QjVGWWpwdFQzQWdvbXQ3MFliYld4a2Z0XzZqSUhWb1plWTRfbFVIbFRzM0JGUGRzbHY4dnpBUlFuSTQzRmFhVzFGdEtQbE4tQkZKTklkSFppcllUS21RQzQtWnF1eURTV0tXdUJn?oc=5",
+    "fonte": "Money Times",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 13:08:25",
+    "chave": "a5488d6c11c1c254bf98cb259ae6405a150facc5a2009fdfb1974b7eaef642c1",
+    "titulo": "Focus mantém Selic de 2026 em 13,25% e reduz projeção para 2027 - Canal Rural",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQm9EUDdqOEliWUdoTzZraFZxMWUxbjVBRHZMc1RMN0xzYnhkTUMwaE42Y0h6LTlLRnozeE02NjRmSlZKeFBGX2pORS1Ka3VySk13VUk2OTdVZVJPN0JhUWgzZ3J3ejhkeGphcFNjd3ltQUdEMmlYeTNsOXhWZFQ2WmlJNlRKT2FVMUpvRWZNNHpudGRFZXY1dWxTUmtrTXVDOTFz?oc=5",
+    "fonte": "Canal Rural",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-10-26 13:08:25",
+    "chave": "7b29eea62479be84eb0c19e3cdb13155581ffea1b4f25a1bf057e1ab778caf53",
+    "titulo": "Boletim Focus – mantém Selic em 13,25% e reduz projeções para PIB de 2026 - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTJFbkR4bWRpYmkyRF9pU09xWG1adFJEZWVfaUZuTkpBOWlYZVpVUUxjU1A0Z05ZLW11alN5RlRTMjhCWFNXTEE3eUcwdTNJTGtmZG5YOE5yRVR3dWdseGY3SWkwdXA4TkJhd0p4dDBWY2ZPd3YxbUhiYkM1VDBnQWM1N3hmd3MwT09YeWx6SWVNYjlBay1aZXZMaE5taUZnX1YxeW9PdUc4Zw?oc=5",
+    "fonte": "ADVFN",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
