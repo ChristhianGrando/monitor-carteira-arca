@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "titulo": "Banco Central passa a exigir autorização prévia para oferecer crédito a clientes com risco de endividamento - Jornal O Sul",
+    "resumo": "Banco Central passa a exigir autorização prévia para oferecer crédito a clientes com risco de endividamento Jornal O Sul",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM19fZUUwM3RldjZHWGNoaENrQ2hKMC1EeGhVM2JMR2VNTE9JdUJiNWlzd2MyRzluQVVScUIyZjAxYUlmM3QyNFpRSGZUVFhuOW96dVI1ZkxyNC1xbWRHTWpuNjlicHBSOV9DMHFZU1R0cEg3Wk4tcGhxbkNlRENpdlNlMHdhcjVwaTRiS1ZMTVZtU1JyUXpZSlZabEpHcWpnaDRNZ1dJeHBQM3pRX1lwRVdYbnp2ZTZqejBfemg4TXN6ZkJXMkMwem9LTDDSAdIBQVVfeXFMUEFrV29KZ3VKbVJoQmtMX29HZDh6eV8tMld6UTZZNWhFcjJ0NUVRRjZCc1QyeHBIS0pFczIwOExRTjVYTktPeTlyZl9MWjllalctYldheWNmVlhBdEMxb0FUR3o3VXZQN1RmNk14MkZJbWY4OUdZR3JCTGNOcnpUQzB1S0d5dkdLVHVORU1XZV9NY3JNcmZiQUVRNi0xTmJJbHJCNUlGc2haTkd6OFY1MmlMRGpBcFAxaEc3ZzQ0R1RCOTk5Qmd3X29scGppYUdFOUln?oc=5",
+    "fonte": "Jornal O Sul",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "d956a68a2fb63a2ec15af9af3a3848871494a57089c2cf755c30c7c57c0c56a5",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar cai a R$ 4,99 e Ibovespa sobe antes do 2º turno das eleições - brasilagro.com.br",
+    "resumo": "Dólar cai a R$ 4,99 e Ibovespa sobe antes do 2º turno das eleições brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFpRVVV0cXZaRW5lWUpUT1BRWUdaV0tId1E5a0tneTFITFkwMEFsRWo0SXEwMFFVV01PQjhaaC03ZEJfaFM1LU5MT1NGZmJubDN0cmhFdWtTUlVUazJnbzd3cFF3MllDZktfam4wR0JVbkluOTRqcm10dDdDbXM4Yll0cFNLd01HM1RVLUxXZW1BYXd3cWh1YkdmdE1fWkNEcW41VlB3V09OSms?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "462141b553b2ae5c531c99ca843617f2eadb4ba30afb6ed31de6715510471b64",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
