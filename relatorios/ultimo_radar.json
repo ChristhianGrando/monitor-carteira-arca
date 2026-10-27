@@ -1,87 +1,122 @@
 [
   {
-    "titulo": "Banco Central prepara novo leilão após disparada do dólar - iG Economia",
-    "resumo": "Banco Central prepara novo leilão após disparada do dólar iG Economia",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa21IWU9rTlFQVUNHUUFUZG5vTWkzeXQwdXZ1MGVEUEE1WVZ1ZDRrZlhLX192TjNPZmctRzJscG5teVpuLW1WUTI2RzZDUkRkV2FycGI2Sjl2b0dJVUhWSkFhRE1US2RISGxGbThvT3JERy1hWTUxNXp6UmwwOXRUVF9yckJCTU5uM3hNQm0xMG5pV0cyNm530gGcAUFVX3lxTE54NDhpcFRUaWh6cF9rZTM2cVZLZktULWY0QklwS2hiZVR0Y0xmakg3aHNSbzQ1Y1pZbVVsWVB6LVYwUDhMazlrYnBacXE2LUs5OU9zUEU5LXBxaUlteFl0Q1U4b2czZ1Q2RVlSY0pzVlozTHNQeWlkbnpoMXhpNklTUHZVU2ltSERrRGtmT1dSWmxHYVY2RU9JZFZ6SQ?oc=5",
-    "fonte": "iG Economia",
+    "titulo": "Principais preocupações dos bancos são com as contas públicas e inadimplência, diz Banco Central - G1",
+    "resumo": "Principais preocupações dos bancos são com as contas públicas e inadimplência, diz Banco Central G1",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnhNMlNJaGI0RDIwdkl4aGM5NmhmUW93QkFEdVlWRDdjZUtqQlR6WmRkb3NMTGxuamZUaWE1R1E2elRvcThvV25BcGtZTy1TaU9HdUFJSUlVZnYtTGg3WENpVjc1R09hNnVad1p1VVNNcUQ0aU1tQm5RaFZ3aWl0TnNkZTlHMHd4cmJjVXU4NlV4R19pUEQ4Um5RMUZEWjdBQjJmOEVkMHJjS3lHMloyTFNSQlJ0VjBxXzJ1OGZtT0ZoVzExZ054amd5YVc3MFJTWkIwcTZZZ3h0X3hYQ2dQTkNlQ3JXeDFxdWlfcTZqTXJqWVVhRGfSAYQCQVVfeXFMTlFlVzNVelRoYllvTjIxaE84LXQtMUJpR2ZXOTQ4b0JWWnlMN08ycGVGRF9jZEVDTGtNSTd0TXJ0ZHBIQ3dlNHBOdTFMQVVIZGZUVE04ejA3LWwxOWRyekN2WjlwekpySHNLZmxITzFHVVdPYTgxbXdyaXFMNk1tWDB2Zm00S3JsLXNqVWEzLVQtRklnRXhlay1zSzRLZmFEVWxBOEhqRkc0a0FJaGhCSUgzNTU4UFlyY0UtcFpJWkNqQXdRVGZEN1FFU3hMaHBrNGJobjBzcWNoeEdtYWsyZnZNZVg2Y3FUWThhdTg1bV9JSTBKU3ZoeDd4bTdHUkg3eWlBd0g?oc=5",
+    "fonte": "G1",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "0247220fd04413967f211a914bb69c3f8deacad2ba603314ac620d644ac58ef2",
+    "chave": "705e949d70f30bcea1dc75937e326b16f82d884a07a03c36462c48649e9b424d",
     "ativos": [
-      "WRLD11",
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "A derrocada da bolsa: estudo mostra que crises globais estão por trás dos maiores tombos do Ibovespa - Seu Dinheiro",
-    "resumo": "A derrocada da bolsa: estudo mostra que crises globais estão por trás dos maiores tombos do Ibovespa Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLXllVTVsSUl1YW5nTHVsLUxCRzhZNF96ZnNPZXNWWVdwN2FqQ1FkeTBHR3U3ak42VW5ic1N1TGo5UTVPQ3dzSk82R3pFVldhZ29MRHE4b05pZld5dmZUSVd2QTRDNDN0Z3FWNF93bVdrNVVyREprc1hlQlZLNlByM25DczUtN2EwV3pQWmtrbEZjS0VKX0trLTZUSDRBek90RXhqTm1xYVJYVkVpUGtpbkt4SlZuVFdvRUItN3kzQS03bFlZNVBkQ09UaVQ5eU9kUXFHOXVvU3FMQUlsR3I5RE5tM3lwdw?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e6189eb9c7490ede335d3fd6dcbe26ee267216895f90c981c43e2a2b743fc064",
-    "ativos": [
-      "IBOB11",
-      "KNCR11"
-    ],
-    "classes": [
       "Ações Brasil",
+      "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 16,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "'Será preciso dar uma guinada de 180° na economia', diz ex-diretor do Banco Central sobre novo governo de Lula - O GLOBO",
-    "resumo": "'Será preciso dar uma guinada de 180° na economia', diz ex-diretor do Banco Central sobre novo governo de Lula O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYjNVVVduTW5qTW82NjR2bnNlSjlJZy1SbHRBek5ydXo0VVE1bWhscDdZdjFicVZfUFJqTmQzWFJxYjBIUW10eVFpOTdTdVFhc0x3TGFxQ2Q4bEtxUmI3RXNRTklnLVJGbHQ0SXVCOGxnaVYzbUthSFUyRGRNY0pfRU1ENWNHSy16ajQzM21sQXM5dnNjdUFuOWVSSlM5S0I4UWJNOEFCT1RPcHpDUXZ2dTlJOTdtNVdJWXE4bWFRMjdhNkR4QjZEcl9uT2lyMGVjRVhxcklRX1BDU1JXX1g3WHdoT25FdVFFUnBBWmlvSkd3NVZLa3FpbdIBhwJBVV95cUxNQV9rQTJjN2xZUzdyZWVSOEpwOENrMHBfNC1nMmFXQ0JUTThkeWZpVHFPaWhEc1VaakZYUTlWMTVoU2NVWGl3anB1NmNCY2ZtRER2TmpVckNNR0xRNngwelFpQkVqRHl4YWZSN2dxQy05Y0ZWVHYzR05TVXFqNXFnN1RsMFZfUm5NYnYxOUZFakxMcFg3ZTNMcFZzcVh6eVdrVk8wXzBtQkotX1ZGTllvVjRoUnhWc3BvTTdZSUt1UzlRXzBlVXJFZWM0YnpxM3JSeENLM1hCZXBrdElEcDRvRFpGMDgyYS1yLTJxcTVFb25PRFktRVM4enFEYkpuRGF1SC1fa3cyMA?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "abcdd37ffbf3a02d082b17ef652309010a4dd2fa9170b36db8a855fd1e5698cf",
+    "titulo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? - InfoMoney",
+    "resumo": "Selic a 14,50%: quais FIIs pagam dividendos acima do CDI? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVdTTF9lQTFSd0YzY000My0yaFhBazJid0JaTDdrQ2tEb25yT05MakpaZ29LajFlR19KM0I2NVl0Vkh4c2hHRmFvS3NJeEoyUXlKWUxxeWlLVVZGN1VaRmk2RWhRZk9Md09yVURJWU1mM3hPTFllUm4ySlJ6NjY4Wl9yN3prUGNGdG4tVDUzLUxGV1RTc0FjSnphQkZ4QdIBowFBVV95cUxOTFhXNF9abFBuVkhnQ2xNUFhTcHRNOExsbFZaWVNvSlRQN2wzNE5FR2l1Tm43WF9yYWdxZUk4VHZjR21iQWtlbEx5WE5iWmJkT25HWXhlelVManhUdG1aazN6dTBETGJIa0pGX3BhbnVyeWpUejJNd3kzbTJNbFk1WV9YLVp1OXowaXAxZzhMWnNlYkxxSUlGU2dvclYyRC00Y3dV?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "c2c7448eb5696b2d9443fbf15116608238065fa08a22f5428c5da5230af5d2e4",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Empréstimo no Pix só poderá ser oferecido com consentimento, decide Banco Central - GZH",
-    "resumo": "Empréstimo no Pix só poderá ser oferecido com consentimento, decide Banco Central GZH",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVTRxZnlYUUQybmNZcHc3cG5kSk5tOE5MYnIyeGtnS0p0aVNfRzZjRkMyY1Z2ZjR5TzZYNGpjU3RiWHE1cGlLZnJjZEgwd1NNZkhkeVRqdzZ2Uk41T2NGaUI0ajlzamhuTnVoMXVYTWtiTWhJMHhZVVB1SWJCcllZVjZSVlo2d2I0Ukx6QXlWZGNGMlNmdDJyaHZONUF1QkItanN6ZXE5R29TMldGbkRTTWdaU2lNMTgyRE5zOWVCU1FmdEJZai1hT3RScExBeldqRzd0bTNEOVlpWGQxNU5mbWhmUE5nUlJ5YVliSnJLM3JrM0J4VFMySGJSbkk?oc=5",
-    "fonte": "GZH",
+    "titulo": "Banco Central diz que estabilidade financeira não está em risco - Agência Brasil",
+    "resumo": "Banco Central diz que estabilidade financeira não está em risco Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzFIWWhjeTBCbnhORGt3Wk5MNVJGeFBVVnBMTkNNQVZadk45Y0Q3M2Z6MUZDRnJhMk54MFpJbVB5NEdSeDlOTVZaOXNqeVhTWVVrcVppNHJHSG5qTXY3cVNiSmtsUV9FU2xvZU11NGZxNVpUblppOUd5amF3eDFraHcyc09aeV9UQkZWUlhGREVJaHp2Z05sdFB1eFZVSmZQZGh5WERadl8wZ3RDNF9pWVlTSXp4N25IZW95M3NR?oc=5",
+    "fonte": "Agência Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7fe777afd004c5946d19bcde0524d3abfd9be49265ebef891d59f6cbecf7f9df",
+    "chave": "5fced6c975d1ab6188b161fad097b7349b6ec2672bf1ed9c837f6d85acb71228",
     "ativos": [
       "CDB 100% CDI"
     ],
     "classes": [
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central descarta riscos relevantes para estabilidade financeira - Agência Brasil",
+    "resumo": "Banco Central descarta riscos relevantes para estabilidade financeira Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQXVFQkhlY0V3V2t5SmtOUHpOMzhXWWZMUHdVaGMxaWlvdThHM3NQdXY1N1o5UE01LWZKMnlJTzJ4ZE9CaFpERnhrbWx0MWdjdGFYQmRCaEJtbVpQd2ljbkpoeUo1UXB3MEl5dnlJY0FNY08xWjFrWVlzUXBhN2lER2JrbmFvSHltQXhvQU9uYnRVd1hSUWk5NFFqTmotZ0dsZGMwbnctUEhSdFNLdWRUcWtqNGFJNEFUZHhVNWc4SF9rbmY0cWpodHRuV3o0SHJGSkN2QlJjNEpIQXpINlIyVg?oc=5",
+    "fonte": "Agência Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "ec7dac3da295a26d4e5bd1b7eb88e4034e1ce061ad2cc7b91e4a55cc015af7e7",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Tesouro Direto volta a paralisar negociações em meio a alta de taxas IPCA+ - InvestNews",
+    "resumo": "Tesouro Direto volta a paralisar negociações em meio a alta de taxas IPCA+ InvestNews",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzlhVGhyZWJxMEdweTJHUzQ0NVJsYjBGdEtuYzB0TFotTm1DR0s5ZFNYRGR4ejlrdlhNdVlPczBCRFlGZnotTXNNcWxFTjAwS0xONzU2V1RoUXdCNC1TRERKR0ZKVzlENzFJai1kQ1pCWjJqVVRfRU9DQkJqcXREbHdHVVhFM1loZEFYWDQyRllNQ3dpeEZlcDFmQjRvbFY4cXVfM0RPVEdQZWlWb296STJwQXJtZGlUakZQcTNFQWfSAcYBQVVfeXFMUFV4SmRVdlktN1NVb29yM0RNdzE2S2hhX3l4TDNEZjhid18tUEszcjhsREZEY1lwSlpMdHJaWHBGTEN4OTRYeFhYWHlKNm5ZNWNWTlVZZzBCNEJJQnZodVc2c1hTVHNwaTZkcFR2NHktTEdSYmVDeUp2MExmcUZGX01tTGxtNXdhOVZwcHpScXlwMWk3Q1VyQkx5NkRRVGx5RkZjTWNQei1iZzZSMHVNNnNVcjF2aTZPelI0aEZlNUJIWU9SQVRn?oc=5",
+    "fonte": "InvestNews",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "63abf804adf71728020b5769e68197aa2b938ecfcb08aeeef2d45566e5bad6ec",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
