@@ -1,35 +1,82 @@
 [
   {
-    "titulo": "Brigada Militar inaugura Copom Regional para atender 31 municípios do Vale do Taquari - SSP/RS",
-    "resumo": "Brigada Militar inaugura Copom Regional para atender 31 municípios do Vale do Taquari SSP/RS",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOakdDcHZjWkhzcS14RzdJUUgyZFNQUTB2T1pTNC0wcGZ2R0dwZWVOa3dJWmxOWVV5NHEtYjFGcnN3NXV1ejBJakNpZjBJVG1KcHBHZG5XWnI2dEp0M096MFBXckZKbnRJeXVYY1RnR28tblhTQzlKX2ZKV3B3ZWJMRVlBeVFSa2VuV3luM3VoS0MydmhxUHJZTHpMMU9acWZoTFVOVFFTWGNLSlk?oc=5",
-    "fonte": "SSP/RS",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ffc28c7a1d17bc6cd477e1feee3d20f10df3c7a3b73137a752c16ea4deccc60b",
+    "titulo": "Depois do Master, o Banco Central tenta devolver o risco a quem vende o CDB - JOTA Info",
+    "resumo": "Depois do Master, o Banco Central tenta devolver o risco a quem vende o CDB JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOW42XzJCVEZxdTNLZlpYeWtKcVZrdWdXLTdOMFBTWFJKNkgtdzMxbUczMHR3TGpvNFRNUVlXVklGSFZBNGZBTXRwaXhmT2E0UEtwanBMOWo1dkluX3lwY285SEFOa2tJNzh2SnNNeFl0RU5GaTM2eXRRajRQX2pXYVhxVFl0TTJZRUxUQVN4SWRTemVGYXNWLWhXOVNLSkdRbFRfTXF5M2FsR1hVWGVnZU4zaGs4MDJoWTI0eFFONy1CRGlKZVZLQTNlMXZBVG5xWXdMVlBHOWVoeGkxblFLVzVwVTBxLXBzSVE?oc=5",
+    "fonte": "JOTA Info",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "92e63dcddb9e1172f8938960304b5d94f89e764d45a670c2cb2f4d55329ac3f1",
     "ativos": [
-      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 14,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa cai em dia de decisão do Fed; fuga de Flávio Bolsonaro aumenta tensão política - Estadão",
-    "resumo": "Ibovespa cai em dia de decisão do Fed; fuga de Flávio Bolsonaro aumenta tensão política Estadão",
+    "titulo": "Tempo real: Ibovespa fecha estável com 'cabo de guerra' entre Petrobras (PETR4) e bancos; dólar sobe - Money Times",
+    "resumo": "Tempo real: Ibovespa fecha estável com 'cabo de guerra' entre Petrobras (PETR4) e bancos; dólar sobe Money Times",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3dsTjJLdUlNZEdJN29CYVJlMlExWFBxdkpMWVFPcEZXNU1LUUhtOUo2cHV6d3VOTkRIbXFpaVFTV1hXazJUOFd3LW0tS0doOWZjeE96WUdkZ01EMV9fOUNxRzdpZ1FibnE1cGEwUHVLd2Yzb3hTeW5kLTgtQUU4WS1rZXIwZjBOSjBlNkpqUDhzVGt4TVhYeTg0d1lxZw?oc=5",
+    "fonte": "Money Times",
+    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
+    "chave": "7e98f805916c1aeb33d2353f6f4006a79d94562460174101701cff24b15be446",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa volta a cair e amplia perdas após eleição e mercado aguarda decisão do Fed - VEJA",
+    "resumo": "Ibovespa volta a cair e amplia perdas após eleição e mercado aguarda decisão do Fed VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSC1hLXg1cm9yWThhVlRFRXh6V3Z3TEZTVmdCVmdXYlRXMXNBVUlWc0ZHa2FKZFdZVkF5Z0RRQ3pqMkRhZTdObFpfYmdNXzlqVGlKMjBOT3dnc2YyYVBTTldLNHYweUp2aFlLZlc1dlpSczRjOGRLTTlDblZ4djM1ZTBRRU5DSkxLMmdNcEtrbmV2Vkl6NHQ4SnkzVFlxcFpLeXNkTUd0ck5rOGFDVXZZQkE4Z1VCbEljVVZZ?oc=5",
+    "fonte": "VEJA",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "60a63ce574ad6abb37df2b6bf6a31401207dee5f806cacec9c1cf0fd84b97209",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados - Estadão",
+    "resumo": "Ibovespa cai com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados Estadão",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5",
     "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "b22e1b6aa5fa81bb024b780aa98067683814eaf11fae43960c99550f6854f93e",
+    "chave": "1b7292a63bd00e3aa5ea9c9eb88fb3fa9dcfe7f441f046fa0284a504b49bb3c8",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -48,12 +95,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa recua com ajuste pós-eleição, balanços e Fed no radar; dólar cai - CNN Brasil",
-    "resumo": "Ibovespa recua com ajuste pós-eleição, balanços e Fed no radar; dólar cai CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmhYUWl6REJIdjdBWF9YTEdnMWhOSjhjbEFsU1YxdUFQUFBVcVAtbC1mcTdadm5LejBqd05oNDhHYlJEcUpwSU9sYUZmS2dKbmNsMVh2S2NrdG9mNGNHZklscmlaWjdCQndSQ1k0VzlQejBlM2owTjBHM0lrZzlDZzJtSGlsbExOUGUyV2VibUJkVm9KQ3hkYUNQS09WaENZenVWNQ?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Dólar fecha em leve queda, a R$ 5,34; Ibovespa recua quase 3% na prévia - UOL Economia",
+    "resumo": "Dólar fecha em leve queda, a R$ 5,34; Ibovespa recua quase 3% na prévia UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2N6dkRuSnZxYzRkZ3NUSkVRYlZyY1dYWUZrRGMtSDdYVU1YVmtHSGdTbHNCQWprTlhBTFpYU3B6alhGeW12cFRUZWJsdjU4RHcwVGZ3UDBKQmptWjhwU19xU2gzQzNNZ1p2OE1PNVh6bzF1OHcybUxoYUdUNzVVYU8xTTBlMTlCWThrMXVQMGtOd1lGc3dWQ2prdTRFcXMyRm8wUGduVmt3S0o0OW9WcU5fOVdvMlhEd2JxWGpVNW9oZ2RQdXhpTG1R?oc=5",
+    "fonte": "UOL Economia",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "17a3ed54fa3f9e51d4ee6f33c8abc3597b90ff25bf9e868d88b261404c61a510",
+    "chave": "9c23610ac7a76f16bd2781075e68dbee35723876e3304326fec6bba2511e2ac9",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -63,52 +110,6 @@
       "Ações Brasil"
     ],
     "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa Futuro cai com balanços no radar e decisão do Fed - InfoMoney",
-    "resumo": "Ibovespa Futuro cai com balanços no radar e decisão do Fed InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWxvclVZeUxoWFpVdndxVlRhSWh4UVNuaW5oZEcxRVRJNHYwUmd3ZkdvRnY1dlBkUk1pU0s0ZGtaN3l0eGFzQnY2VnhrYkF0NWZYeUlfQTJybEkzd21JSUR2ZVBmNGRvcFV4aWVzMUN1QWY2VTFPZXpfbTJKQVR4MDJTUkM1NEc5VjVuR1ozVmVjVUZaMlVkQW9KRjk2Z9IBowFBVV95cUxQTi1UTTdBb0JXb0Nub3cxaDhmcFBaaFRudkxyNHcyWHNfSFp5djBFdWVaMUx2bXNQV2tHOW93RHJTQVpCUTlwNUNNQ3Uwb2E1ZFcwQ0RXbEE2c2p5aHptQ2U5V3Q3SkFqUTc2Q04tZzBsTURtMGZWNWt0a2ZxZTFGOGlNOElKYWVxcEFXUGc1QVhqemN2dHRxbzNtUEVoZUJfbUVZ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "d91b370f0c9677cad318aa5fe0f7c2ddd34418d91099fe48cd40a481ed4f31ee",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs - InfoMoney",
-    "resumo": "Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmtyWEh5WVRjRDRoZXE2MmhIVU5jX0dmYmVJREpCZ1BpakRJUURPNjBXdWJHbHdIRV9oanZ5eXV4WkN5ZUNPREthX0NnWlBWaWhMOEZ2VzBqaFk0bnREci1XaURMUmg4MFBPUVpvOEZOMjU0NmFaWW1jVGFaM0xCcWp2UndjdXV3OGVVMlJaZ3Vld2haaGkxZ1BxcERZbXUzYm9Vd2RJenB0cUk5ODF2QURweXdQeTA0UGlB0gHAAUFVX3lxTE82N3dYQlNWaXBURmxZX29XX3JNbXVTR0t5b1lMMEdaZDQwcmlEcFNvd3ppOG55MFo0WnI0Q3laNVM3aGM3VHVuM1Y5SVF2Z3ZUaWVORnYzMGpDOEItSERWVTBTV3Z3V3pUdmZjTlFuQWU5ZG1Sd055VDJBMXhvS3FEMGZvREZyVVk4YXc5T2pBLXpYUlQwNXY1UUhlWk94N2NOcUxoYVJZdjJxSkNmd3luR0lObmhmNWpKV1dVczdlMw?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "b77a380585c9c4277d49ee83e01e2204a5aca728b708b6c80c9985633ab87e22",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
