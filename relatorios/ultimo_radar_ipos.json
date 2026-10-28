@@ -1,28 +1,11 @@
 [
   {
-    "titulo": "Jio, de Ambani, fará sua estreia na bolsa de Mumbai após uma oferta pública inicial (IPO) recorde na Índia, no valor de US$ 3,2 bilhões - TradingView",
-    "resumo": "Jio, de Ambani, fará sua estreia na bolsa de Mumbai após uma oferta pública inicial (IPO) recorde na Índia, no valor de US$ 3,2 bilhões TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05dFp2cHd1NG5WQ1lNZHRIN1FpWXdlUVR6bXIwMTBPOEw2OUZGbmZ1dnFTRktRZlRSczBDVTUyS2RIV0doS3RSN1h6S2xZZkhnelk2WUs1Rm9pSjhjc3ExLWhkS0xMbC0xVHptZW1yZ25WUlE2SDR3?oc=5",
-    "fonte": "TradingView",
-    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
-    "chave": "66291039901bcd386ea9e8c87bc59974605ffab970f75358712542db670ebaa0",
-    "score": 12,
-    "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "cita oferta pública, follow-on ou emissão de ações",
-      "tem relação direta com mercado financeiro/bolsa"
-    ],
-    "tipo": "IPO em fase avançada",
-    "estagio": "Fase avançada / estreia ou precificação",
-    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
-  },
-  {
-    "titulo": "Anthropic prepara IPO na Nasdaq após receita disparar 1.368% e prejuízo atingir US$ 80,7 bilhões - ADVFN",
-    "resumo": "Anthropic prepara IPO na Nasdaq após receita disparar 1.368% e prejuízo atingir US$ 80,7 bilhões ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1IzdWJXQ3FERlU2T3RUNzQxQ2llZmhleS1pNkl3cUVjZjI4NDlIWEsxSVRocGpkNFN5c0pjdzVtY0VIbjZNQTcwanBSM2hqa3pEdUcwVXhYblR3NkRhTVhTYzRxRWRjbkl3MS1kTXdvZThUU2JqQlV2YVZxamJodjdNdDgtcy1DWjNDd1lPRU5JVU1H?oc=5",
-    "fonte": "ADVFN",
-    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "44d32c272bad6571328a046a313ec042910719b96fe059439a7e0e926709c922",
+    "titulo": "IPO Raízen - B3",
+    "resumo": "IPO Raízen B3",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9saGM5WXVXT1FPeTZ5SnVJekhlVDR6MC1ZYjV0WEtKN01oMVVnS0twOVZtYnpzdWdsYzJfWWJBRDROVEdrcEZheUtpTTVTbk56MmstM3RtXy1GU1VKQUdLanROeVdfY0YzRGtkSzJXclpQQ0k?oc=5",
+    "fonte": "B3",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "c3b6366288aa22a7573828c07cab08da2a7526823a6d613ea421597946fafa25",
     "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
@@ -30,7 +13,23 @@
       "envolve bolsa, regulador ou mercado externo"
     ],
     "tipo": "Radar de IPO",
-    "estagio": "Rumor ou preparação",
-    "acao": "Apenas acompanhar. Rumor de IPO não é motivo para comprar ativo relacionado."
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+  },
+  {
+    "titulo": "SpaceX faz maior IPO da história e passa a negociar ações na bolsa dos EUA - CNN Brasil",
+    "resumo": "SpaceX faz maior IPO da história e passa a negociar ações na bolsa dos EUA CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnNwMkwwa3JWT2J4XzhENXJUb2wxMUY5bzFvYjVOZDVsYi1mVl94d0pnem5oLXNwTzlTOF9DYTl5QWl2dkJyS0VyOVBRY0xkUmU2RVdBYXdrSmVWMHNLZEVRX0trQ2l3RDV0WnNYajJFanJMNTV1d0gtY3dmRGNCWVVkMW15Vkp6V3c?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "ações estreia bolsa IPO empresa brasileira",
+    "chave": "e08f6e0b333a0293bd8826ea65000ef5357dd0270fb9c61bb64e628234518573",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Radar de IPO",
+    "estagio": "IPO / abertura de capital",
+    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
   }
 ]
