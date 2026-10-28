@@ -1,84 +1,5 @@
 [
   {
-    "data_envio": "2026-09-05 00:06:48",
-    "chave": "dbb033beca094cb6fa2dac4f607ac9f950479c10940a41e64f57fd318b04345d",
-    "titulo": "Ant International obtém licença do Banco Central para operar no Brasil - Finsiders Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2xzYms3Z0NycGtWQXhiZkpUMEVRcUtKZVZ6T2pMUHA3VHhObmM2WGdLd0k3dER4Q0pGSmd6SXBCa3h1cW5Tb2NmaHE4ZHVJT0dESEoxQmFQUnJqU0c0NGxTbGVkMGQ2QlVoUEl4VzBkR3RMSVh3LXRzUjYwdE15SGQ4VkxjcFh6SFotUlA1M3hWb2xzQmpQUkhnbmFZQzYxcVVhUUVtZlJSQ182Q1Q4WWJVU2tzRFZueWw0NDU4dVo?oc=5",
-    "fonte": "Finsiders Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-05 04:29:29",
-    "chave": "ed6c00b1a1a50952d3d214fe3dd24ce5ea93a9ab461be6972a787a2d7b0bec60",
-    "titulo": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORG92ZWMwczVYSkFBU2Y3WFAtQzNUTGpZUnlFZUNPQzltZ1I5Yi1abkE1WWZ3OHJra05rakVtS2Y5dmFfalRscXFvZC1MYkRsZXprTENnSTNxc2ZaV2hpNFhsMEdFSHprU0FIQUgxY1NwM21EcnhyRFNWajRJOTNEcHJWVEFlc0lFbkhUcHIyZEl0dTFNQklCWWQ5SDJLUnV4eUlGNXpGSTc1Z0V5NGRlRG9raVZ3MGYyWHJuQ19yLWxLb1h5WEJ5TnpJYTJQSm5HNG9QMmtlUW92Q0ZQRGM1X3NvNzUtOTlHY0HSAe8BQVVfeXFMUFU1aW1GelFCZ3g4Um90ZTFKTjFCYW9IbEhLU0RxMUFKM2huMU8zeFJHdW1ZUUlsaFU4eEV6SFRCRkpKUFhzUUVzVWtQYlQ1a3NEMUR5OFVCM3l5YW9MVml0WmRzS1JhQllmWll5UnlmZ1RiTGpYX2xDajBjM2s3Q2FWVlEtX2kzQ29wMWJRaG9oNXBrMVVtMU1IdHVDQ3MzVUxRX0Q3eTJOb0gwT01QTXJ5Nm1Ya1dnZGJ1MmNReVlVVGdHbno5WXZlRWxLbUx1RFoxQTg3MTB5M2MwTG81QUdva0dXczNDZ0pqYlFNdHM?oc=5",
-    "fonte": "Estadão",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-05 04:29:29",
-    "chave": "b683e057abfab9c90ab32bda8f01ee432231608238b0e8bd2037a5fcb16ef81d",
-    "titulo": "Wall Street fecha em queda com expectativa de aumento de juros pelo Fed - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXd6TmV0Ym9IOFVCM0ptdTF4UnhkQmJLT1ZScnlTRTV1NG1kcm1TeE9YZHB1YXJMbndwN1BDVU9nekN1a0RQUk5iME5ZT3o3bmJkaWlCcEJoRFR0cnFLbFBvVExpUjN1OUlTZ2YtOGdFM2tNVjdQaHM5OXFZT2M5LUlPYjdJc2R4Ujd0Y3JuNlB1Z3dqeGZsZUdxdGNHQldqZGFvLUVOdGJQeGgyTEJVcEJJV1kyaFMtRzByQ3JseU9Edw?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 10,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-09-05 04:29:29",
-    "chave": "5cf95140fc20784da645243ddcfa114677531892bc8e07f955b6b9c49320b531",
-    "titulo": "Plínio Valério cobra votação de PEC que amplia autonomia do Banco Central - senado.leg.br",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0FvV3Etc1QwODBGbXF1NVlRZi0tVU5Wd0pUVmpjY2N2OGpDYU5Zdm15aHVMZU5ZdXF1ZmxjX3BXclVtblU2Q050ekFWZjgzNjA0Mk5nRTFlLVlCelI0SmR4NW5ES0VQUnZkcnNRUHFpUnh6ZWVRY0xzWHhtZUtPd1V4TUIwQ0ZuUDZTUm9EZ3BFd2RHYXBhODhsaHpaTkIzSVBBZklkYlY0LTR2LVFwM1hWOW02QlUyY1BZbXdWLTF2M0JRZ0FrZ3V3?oc=5",
-    "fonte": "senado.leg.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-05 04:29:29",
-    "chave": "66887cd49891019e83a25edd28a819c1dd1e0656c33361b030dc490a8da40c6b",
-    "titulo": "Ant International obtém licença do Banco Central para operar no Brasil - finsidersbrasil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2xzYms3Z0NycGtWQXhiZkpUMEVRcUtKZVZ6T2pMUHA3VHhObmM2WGdLd0k3dER4Q0pGSmd6SXBCa3h1cW5Tb2NmaHE4ZHVJT0dESEoxQmFQUnJqU0c0NGxTbGVkMGQ2QlVoUEl4VzBkR3RMSVh3LXRzUjYwdE15SGQ4VkxjcFh6SFotUlA1M3hWb2xzQmpQUkhnbmFZQzYxcVVhUUVtZlJSQ182Q1Q4WWJVU2tzRFZueWw0NDU4dVo?oc=5",
-    "fonte": "finsidersbrasil.com.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-05 04:29:29",
     "chave": "ae09792963a315e48af0be50a6ce2958b944204964f250f74ea0a1833fb45cb3",
     "titulo": "Ibovespa fecha em queda, mas acumula alta na semana marcada por payroll nos EUA e cenário político no Brasil - ADVFN",
@@ -17416,6 +17337,89 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-28 16:03:03",
+    "chave": "ffc28c7a1d17bc6cd477e1feee3d20f10df3c7a3b73137a752c16ea4deccc60b",
+    "titulo": "Brigada Militar inaugura Copom Regional para atender 31 municípios do Vale do Taquari - SSP/RS",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOakdDcHZjWkhzcS14RzdJUUgyZFNQUTB2T1pTNC0wcGZ2R0dwZWVOa3dJWmxOWVV5NHEtYjFGcnN3NXV1ejBJakNpZjBJVG1KcHBHZG5XWnI2dEp0M096MFBXckZKbnRJeXVYY1RnR28tblhTQzlKX2ZKV3B3ZWJMRVlBeVFSa2VuV3luM3VoS0MydmhxUHJZTHpMMU9acWZoTFVOVFFTWGNLSlk?oc=5",
+    "fonte": "SSP/RS",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-28 16:03:03",
+    "chave": "b22e1b6aa5fa81bb024b780aa98067683814eaf11fae43960c99550f6854f93e",
+    "titulo": "Ibovespa cai em dia de decisão do Fed; fuga de Flávio Bolsonaro aumenta tensão política - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5",
+    "fonte": "Estadão",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-28 16:03:03",
+    "chave": "17a3ed54fa3f9e51d4ee6f33c8abc3597b90ff25bf9e868d88b261404c61a510",
+    "titulo": "Ibovespa recua com ajuste pós-eleição, balanços e Fed no radar; dólar cai - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmhYUWl6REJIdjdBWF9YTEdnMWhOSjhjbEFsU1YxdUFQUFBVcVAtbC1mcTdadm5LejBqd05oNDhHYlJEcUpwSU9sYUZmS2dKbmNsMVh2S2NrdG9mNGNHZklscmlaWjdCQndSQ1k0VzlQejBlM2owTjBHM0lrZzlDZzJtSGlsbExOUGUyV2VibUJkVm9KQ3hkYUNQS09WaENZenVWNQ?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-28 16:03:03",
+    "chave": "d91b370f0c9677cad318aa5fe0f7c2ddd34418d91099fe48cd40a481ed4f31ee",
+    "titulo": "Ibovespa Futuro cai com balanços no radar e decisão do Fed - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWxvclVZeUxoWFpVdndxVlRhSWh4UVNuaW5oZEcxRVRJNHYwUmd3ZkdvRnY1dlBkUk1pU0s0ZGtaN3l0eGFzQnY2VnhrYkF0NWZYeUlfQTJybEkzd21JSUR2ZVBmNGRvcFV4aWVzMUN1QWY2VTFPZXpfbTJKQVR4MDJTUkM1NEc5VjVuR1ozVmVjVUZaMlVkQW9KRjk2Z9IBowFBVV95cUxQTi1UTTdBb0JXb0Nub3cxaDhmcFBaaFRudkxyNHcyWHNfSFp5djBFdWVaMUx2bXNQV2tHOW93RHJTQVpCUTlwNUNNQ3Uwb2E1ZFcwQ0RXbEE2c2p5aHptQ2U5V3Q3SkFqUTc2Q04tZzBsTURtMGZWNWt0a2ZxZTFGOGlNOElKYWVxcEFXUGc1QVhqemN2dHRxbzNtUEVoZUJfbUVZ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-28 16:03:03",
+    "chave": "b77a380585c9c4277d49ee83e01e2204a5aca728b708b6c80c9985633ab87e22",
+    "titulo": "Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmtyWEh5WVRjRDRoZXE2MmhIVU5jX0dmYmVJREpCZ1BpakRJUURPNjBXdWJHbHdIRV9oanZ5eXV4WkN5ZUNPREthX0NnWlBWaWhMOEZ2VzBqaFk0bnREci1XaURMUmg4MFBPUVpvOEZOMjU0NmFaWW1jVGFaM0xCcWp2UndjdXV3OGVVMlJaZ3Vld2haaGkxZ1BxcERZbXUzYm9Vd2RJenB0cUk5ODF2QURweXdQeTA0UGlB0gHAAUFVX3lxTE82N3dYQlNWaXBURmxZX29XX3JNbXVTR0t5b1lMMEdaZDQwcmlEcFNvd3ppOG55MFo0WnI0Q3laNVM3aGM3VHVuM1Y5SVF2Z3ZUaWVORnYzMGpDOEItSERWVTBTV3Z3V3pUdmZjTlFuQWU5ZG1Sd055VDJBMXhvS3FEMGZvREZyVVk4YXc5T2pBLXpYUlQwNXY1UUhlWk94N2NOcUxoYVJZdjJxSkNmd3luR0lObmhmNWpKV1dVczdlMw?oc=5",
+    "fonte": "InfoMoney",
+    "score": 10,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ]
   }
 ]
