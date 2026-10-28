@@ -1,11 +1,65 @@
 [
   {
-    "titulo": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral - Agência Brasil",
-    "resumo": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5",
-    "fonte": "Agência Brasil",
+    "titulo": "Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic? - InfoMoney",
+    "resumo": "Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ09tRnlsYUMxZU1FS2E5dVZWWkxhZXh6Y2R6NE1GemJJQXl6em1qZGtieGdvUFVzNGhMMjM1T3JVR0NjdHA2a0xIQ3lUNUNtWHNUMFhqajdoRC1HcVBPM1otSDRFaG05QkRWc2xKRE1ZTmFCMk9FWXl3aUszLTkycVBfY2VkU3c1TVlVa1d30gGTAUFVX3lxTE4xT2NlNEdlclAyT2lNRm90dVpXMXo0RE9wa2hFSzhLVTRZVmNVX3BzTE5NR1RfZG5GRUFwSTJaMTNSSDZad21mWGNCMjVoTjBSSTdVQkdNZVNSTUVZVVBoOWpRaW1EMWVlTlhmT1lEN21JSUFnbXduMld4RHdmbWZyRUllbTN4dURyMnFYSlZlak8wQQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "dce896655646ace7a1de0320637868c651b868652de4c1aaec5f288e31fc1317",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Alta do dólar após eleições pode levar Copom a adotar mais cautela nos cortes de juros - O GLOBO",
+    "resumo": "Alta do dólar após eleições pode levar Copom a adotar mais cautela nos cortes de juros O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeVhmNGhDeU8zMXI2TTREeDFnSmpBUWlVSDBEejktS3BxQ3BaaXBHX2lLUHE5b0gtX0k5YnpGRUlTUTZHLVhEMzhyYmtEOVBUZ1pDR1hyQjJDZ0xna2gxRDllMDgwZ1c1WXRrVVVTQlIyaUQ4YjdOYlh2RElFWTN1cFptbjNmbzNkQzJrenU2eGhuX002RVhCdEJkSjRfUW1lcXpHbkJEOXoxaHoxN2F5bmdMZHJJNzBWNndPdlA0MlRDWUNFejJFRE81UlFkREtOLWEtZm12cXc2akN2eXfSAewBQVVfeXFMTjczeFpNRTVFVWJPTkg0S3d0VUZDSFAyc0ZLUFEtOENPbDlnNk5OcUhjbHpQWU56TWMyRnRGamtHMXhaY190RjJtOHktd2FEN0RnbUdsdmF5VFlEZ0VVMUkzNnVBdktyNXNubHV6V1FmTEVYQTVoVHBUbFNHWEZ0MTl2VTBBd2hmZERKSkNFVFhLSUdiTXRVQ0RkWjRFczZiTC1OTmZyV0hYNkc0N21VTVRtanFlZmdZRTJpaDhqTTNBTGRjN0d5Y2FsVjJEbG4tYmlPbGI1TXl3b2FvaWZCQnlDOVNtN2M2a0E1VGg?oc=5",
+    "fonte": "O GLOBO",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "594dd8eee81f7edce4bc52a75da70248e8479d20f51c441eb3b9758c34307efd",
+    "chave": "5537b0ce469af78b57eefead6d3758e777fb2ce1616dbee9423301ebf1cf6cf1",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa fecha em queda após eleições; dólar recua a R$ 5,35 - brasilagro.com.br",
+    "resumo": "Ibovespa fecha em queda após eleições; dólar recua a R$ 5,35 brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXZNU25oLUZyY3pSLUJCR1YxWGJNbjNXSTctOWs3NEw3QnVrS25GRGRhZ3ZpcFlvQ0ppVUZiZjNEblAtQ2FoSGlrQmRjZUFyQTNUTDFxa1Z5dndCeWN2RDdrMGZrNGxEbzBnbFZwOFQ0Rk1mTHRSUk4xbmljcFEyY3pES09xQ3haS0pIaHMybzFuUl90NWhSY0pTMGFSdElSVmdJ?oc=5",
+    "fonte": "brasilagro.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d3645b7fd3d774bb4932ee073b0b4492c5a58f46cb6b1f1bdf00f142d0809696",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -24,36 +78,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Fechamento (27/10) | Ibovespa fecha em queda leve de 0,51%; dólar cai quase 1% - InvesTalk",
-    "resumo": "Fechamento (27/10) | Ibovespa fecha em queda leve de 0,51%; dólar cai quase 1% InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KNVZhWGVsRElIV0k0Y2lkYVladGp0aUR5ZVNfcS1tY180WGladmFMSVc2endnY0lhSjBva0pXNDhsSF9LUkg5bkFMTDBIWmItYlJjaGhDVGpScWFPSFRTb2pZc1hLSnNzdTdaOGx6Q0QyeTd6Rmc?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "9fabade3dcd02d919266e19b0d5fb2ddb2a15d77e3068cbd4a67758fe773de0b",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "André Roncaglia entra no radar para diretoria do Banco Central - VEJA",
-    "resumo": "André Roncaglia entra no radar para diretoria do Banco Central VEJA",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnRXX2t5bVcwcXpHeFpFSnZPQjZvU01YRXJHSnZZdFF0S2JCUElFOFBreHo2cS1WVkZCbGt2T0UtbXkwZnFvc2JaY0FkbWR2ZExhRlA2Z2VSVzJaVUZpckZTV2Z0RWdoZXZCSzc5WHpNbEpSaklkeHNCSzlQdXFTbnBoWGhLazBBYmhUNzhtUDZYNnFqWVpUbks1ekVrTUU?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Banco Central da Nova Zelândia surpreende mercados com manutenção de taxas - Valor Econômico",
+    "resumo": "Banco Central da Nova Zelândia surpreende mercados com manutenção de taxas Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEZuWGZja2pWNG1WdVYtNG4zczV6RHdDVTV1R2g2UUxBdlZfZE10ZHNRT2dfUGVOMzhJRXZNUmxtWWk1SkotbDJpN3ZvRGJjRXk0dWJDZFM3a0pYanBTa1UyaXJJWVRkMU1EVXV3YlVJZkZ5Z0FaZ1Y0bW1PZkV1WVBfU0V5TDlmZV9ha2pwWkNsRHp1UzBYUy1LVUg1ZGllal9YUGNWWV9YWnhXZjMxek5ZV2NGdXpNMmlWUGR6S2tmdUFnUHlCZg?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4d6c39a302e79bdecdea4aae3a0eaaf13293a2c04551c8315509977632fdd0be",
+    "chave": "b4ee1a5b851748816da1554141d255ed693c0ad42facb306582b543416ca8dfa",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -70,34 +100,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central ainda vai detalhar nova regra de parcerias do Open Finance - JOTA Info",
-    "resumo": "Banco Central ainda vai detalhar nova regra de parcerias do Open Finance JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkpoYlN6VTRjcjhjTHFtZ00tUEQ0cmlTVGktMkdNOFpqeVRXeFZibWtQVUZRM1VycTIzZU1sWWd4YzFucGtHNWp5UFBxZ3pVY0RScTNjczdVWU1vdnRObzdjeHp5R2gxQXdGS2oxdEpxNmNZVFJud3o2MFk5RVZwRWVTb1hvOEN2d2cwdl9DMC1ydmhURE1BVUVtcnUtT3lZd092Szd2cUV1TXlHbmxFM2tNZDFJX2U5WEw4TUtXaw?oc=5",
-    "fonte": "JOTA Info",
+    "titulo": "Banco Central anuncia novas medidas contra endividamento ainda em 2026 - Vero Notícias",
+    "resumo": "Banco Central anuncia novas medidas contra endividamento ainda em 2026 Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlZmNXRTRHFza0pzLUgwbmxfSGN5SHNPVTBIX014R3B5ZkNPRFFHZkZqZFVtSFc1XzRMUnMyLWNNRHdUdExKeDlrdGRyNC1SVzc5RlhCbnZNZnFpYUZrY0JKSjRBeEM0Sl9vaVZIMXJ3RUJHTDk1TkVFQUxCWGN6MDdMODV3VVVYaDFxNUZJV3h2WHh5N1VRakYtNnBkUTg4S2hfdF9NYUc?oc=5",
+    "fonte": "Vero Notícias",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "47b24d53eadad13246e28c105b994f6c4793e2aa7faaf4fad108f9c168d681cd",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Crédito das famílias piora e acende alerta no Banco Central - Contec Brasil",
-    "resumo": "Crédito das famílias piora e acende alerta no Banco Central Contec Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTkVKNS1hcHJsZzNkZDFZQUdqREI5MXpCZk5JWGU3b3ZWTVpTV2RQYWctV2Y5cTBNWDF0bWpQZU9HcEhJajRNNTkzZkFZaGpGM0NDNFdUWU1mM1RfdllFMlhLOHlkVkpud0xjUGhSWXI3dDh5TGpHcVEycnpBX2NtQVEyQVVIRTFmRHc?oc=5",
-    "fonte": "Contec Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b1afee3627db7ffa2b4d4aad901899163819eb11250070f5077ede5356cb87c6",
+    "chave": "bcdf77880d845dae7d6bba600cf2609c80b028c6953997ca3114405de502a150",
     "ativos": [
       "CDB 100% CDI"
     ],
