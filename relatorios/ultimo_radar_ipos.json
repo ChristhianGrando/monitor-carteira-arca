@@ -1,28 +1,28 @@
 [
   {
-    "titulo": "IPO Raízen - B3",
-    "resumo": "IPO Raízen B3",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9saGM5WXVXT1FPeTZ5SnVJekhlVDR6MC1ZYjV0WEtKN01oMVVnS0twOVZtYnpzdWdsYzJfWWJBRDROVEdrcEZheUtpTTVTbk56MmstM3RtXy1GU1VKQUdLanROeVdfY0YzRGtkSzJXclpQQ0k?oc=5",
-    "fonte": "B3",
-    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
-    "chave": "c3b6366288aa22a7573828c07cab08da2a7526823a6d613ea421597946fafa25",
+    "titulo": "Oncoclínicas é notificada sobre liminar que suspende Oferta Pública de Aquisição de Ações - Estadão",
+    "resumo": "Oncoclínicas é notificada sobre liminar que suspende Oferta Pública de Aquisição de Ações Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOczdHVldjcTlkdXFmSEtwUnZjNHB2MXJNUHVNeGFSYmc3RXA2U3VIZmlBeXNhYzhNdzNoaV9iZENOZ1pkUXpRS3pDY2ZnMGJ1NXQ3M21nbThFQVAyZkdNeGZ0ZW5NenVUeUxxY3N0czkxTGt0YmRkem5jbFZzOWhZSDduMXlqc0ZFY2k3NUpXM3JqSW5CVmJPeUFsOG1IdXBvZmxvMm5hNDVCalEydDdXQmdHZi1fbHhBS0pWenM0X3NKYldyYU4xZmFFVWVhMXNh0gHWAUFVX3lxTE05aGxxRmZ5MkhaYnhFNUNEOXNTQkxuVF9jc2FxcWV0bjVFdmplQUdZY3VrYWNhelJHLWgwd25UZTBIY3MzZGRFRE5seDdWTDA4NU44ODJHV29fV2U5aWw0RERCUFJyZXVaNnk3bVhsYjNKUGJCaVZEY1I4MHNYTk5EUEZ4TDhpcnlUTWhxVS1UNjhUdXNsdThqckhOWWFCemQtdHBSVWMwZjRMRFp1NzNVb2hob2stUVRiT1FVZXlRMUVlQU0tYWpRbkM5eDhnRzJjZ2RuLVE?oc=5",
+    "fonte": "Estadão",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "7c8ccb09e7c2effddd89c30b1edf9cb92a4be05985d9c2ce5e68b585af6b0a1c",
     "score": 10,
     "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa",
-      "envolve bolsa, regulador ou mercado externo"
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem sinal de risco, adiamento, cancelamento ou baixa demanda",
+      "tem relação direta com mercado financeiro/bolsa"
     ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "Atenção / risco na oferta",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   },
   {
-    "titulo": "SpaceX faz maior IPO da história e passa a negociar ações na bolsa dos EUA - CNN Brasil",
-    "resumo": "SpaceX faz maior IPO da história e passa a negociar ações na bolsa dos EUA CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnNwMkwwa3JWT2J4XzhENXJUb2wxMUY5bzFvYjVOZDVsYi1mVl94d0pnem5oLXNwTzlTOF9DYTl5QWl2dkJyS0VyOVBRY0xkUmU2RVdBYXdrSmVWMHNLZEVRX0trQ2l3RDV0WnNYajJFanJMNTV1d0gtY3dmRGNCWVVkMW15Vkp6V3c?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "ações estreia bolsa IPO empresa brasileira",
-    "chave": "e08f6e0b333a0293bd8826ea65000ef5357dd0270fb9c61bb64e628234518573",
+    "titulo": "Anthropic escolhe JPMorgan para IPO bilionário e pode reservar até 20% das ações ao varejo - ADVFN",
+    "resumo": "Anthropic escolhe JPMorgan para IPO bilionário e pode reservar até 20% das ações ao varejo ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUF6aWJMOVdpUGVaZ2lmWUd2UjBHR0ZWVUV1NDZJUWFhLWk1b19RYm1adnhrSjdGeEtodG5VS09tZTVhMzRwN29OTjNMT1FnS1NocE9yczNRQWRHbnpIZzdod1FZZl9MbFR0Q0lQNWdHMHpkTDlQc1NjeE04TmhPOFpjYzlTVHd4Vml2aUtJd0pDSnc?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "33a19fb00c01b60ee311a8fa2da8beda29239c1988884d0910085a4c4b615f79",
     "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
