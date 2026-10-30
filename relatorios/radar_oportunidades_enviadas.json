@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-09-06 23:54:21",
-    "chave": "e3eb7395087fee1ec648aaed76df7e346a7e53e625b3071e22bd0e23f7023593",
-    "titulo": "Banco Central holandês retira 78 toneladas de ouro de Nova York - folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0xEeW5ZaVdvVVRpQW4tcldlUHFsUkJITWp1bVBLZGx0ai1MaExtSFVib243bmVLQ1p0QVZTVy1nTHlYTzJCbjI3dmtMS3ZBamt1YWJpMVA0RXViVWJmS2FyQUJFcXNncUJ1RVNNRlNtdmNKTkloVDMyR0g5MDA3TnJZSmJyb3kzMjIwMFdzNElOTERUR05aT1ZBSXRTWnFwanJIam5wYXJDZkVjSVF1alFpdHRrZw?oc=5",
-    "fonte": "folha.uol.com.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-07 04:41:46",
-    "chave": "5c10079f56d1b14a786766230c5b34c7823338334118e50150ccfc59e4419d98",
-    "titulo": "Para onde vão os juros no Brasil: o mais provável é que o Copom mantenha o ciclo de queda da Selic - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnZYSU1uZUozc21VMFhkR1JjRkIxZGxTYURLazZPWHpMWWxqVS1LNXNWN1h3TWRMLUNEdElWY0V5eFhxd3Vac1pSMXl1VThmaHMwRGhpSW1waWNta1YyelVYc3g1RWw2REE3THZObmI2TTNTTTdYbzRKUVN4NVRFcjZXNFBUeE9kZWVBRXlYMi1QdWFuY2k5Z0F5RzR0Z0NRaHh2Q3d4ZVNUdTdUeWFELW1HdUU3a0NYR3A3ZjNOMzA4cXItaWR6dWJ6eWpGdFNXTHJ0cTNIOGxpZTl6cEdhQ2p0WDhPNWg5LVJwRV80dHVHQnc3?oc=5",
-    "fonte": "Estadão",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-07 04:41:46",
-    "chave": "4c0bad3da4f19cee430d16747e3d6b12b5b622bf1078613d6b16fbba85cd43a7",
-    "titulo": "Caiado promete reduzir Selic a 7% se eleito - Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0VVOXhxUXprc2c3YU5NWG0xWUdRTzJ2TFAtcEJNNXExS1pTOGtWbmp6cHQtaEZLRFREQ1FoLUh0OV9kcVZZTS1SLXJYXzZrYmI5aGhXekZZU0c5UExmNU9TQ0dUd2FsdE1ZWFZ5YmVsX2Frb25FTi1yUlVmaXU0ZXFxbw?oc=5",
-    "fonte": "Vero Notícias",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-07 10:18:56",
-    "chave": "19fded3eb41935f6e95587e85a3e16f9887d91040ac38bb787f3b6cfd7da8c31",
-    "titulo": "Top 3 FIIs para investir com o fim da alta da Selic no horizonte - euqueroinvestir.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnNQUFJZZEJhZUE5YndQVUNlMDlpejlSMm1GYXV4cENMVGQ0T3JHZ1hRdUFUdTk2bXVocnBFTmVwandJVk93OU5oSzU4MDNJWXAwbXF2UElmZzYwLVpoX2h4WU5COXdPT2J2d3FiVjRHMHNlTmhVX0ZRNkxuUl9kX05kT2NIU3ZEVEtCcjdqeGJHTndBTVVIYmMtYXBRS1lK?oc=5",
-    "fonte": "euqueroinvestir.com",
-    "score": 16,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-07 10:18:56",
-    "chave": "70bb6497ef48c03219aebfc9ae65009b34a92fc2c83d724637d1ab57e072f088",
-    "titulo": "Rede de acordos transforma Nvidia em banco central da inteligência artificial - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTER1VEZRMEFOLXY2NTliWWxlV3NzSC1vMHJldzNXTTd3X3ZkOXNzOVBzMmhhdWZMRTNjRGRuVGgzems5RXlaSnRyb2VzN2JTeFpNWGFtTGY0UFdmWG9GSTJXaU01dm1Ua2NGdXFlVjRBSkZOa3JTTUowcHBpTzZsaG8tVmVTa2FabGw3WE41WEJpUjN1M2w2c2RHRDNLaGhuYXNUYUx0ajNvR0tDR0oyMW5qMXhzeXhvb0kzbV9tVElYSmc?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-07 16:27:31",
     "chave": "cd075628a562e9cb712e3a162c8fa4765410f411180672f2d19f35495dba67ac",
     "titulo": "IPCA no Brasil e inflação nos EUA se destacam em semana marcada por feriados e decisão do BCE - Estadão",
@@ -17410,6 +17323,89 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-30 19:22:33",
+    "chave": "057ce088981e4844d0a2c831164dc8176d30e68182fc53c5f4f2c11b164037d0",
+    "titulo": "Ibovespa opera em queda e chega aos 167 mil pontos; dólar opera em alta, de olho em novos dados econômicos - G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ySUxaajFOUldic1RDZzR2bHl5NTZtN195YU1IU2JvOU1nWG5DZjNzOHk4NnB3MTVqVkFSOWlqb0dUNFZON21TaWVZVlRRRWFGN0c3akFIQzNQaVByYmV6TFJmcEJFaHZSbmxOTEVFZ2ZOcHZZalZSYdIBhwFBVV95cUxONHBsTVhCNFZNTVoxUURnaUwzaXJQYWVLOUtjRkJLTHU0TTFyQkM4Z2JsT0FfWEFhUUtyYmJCZ0J5N3V4aEpJLXJacklDLXNzcmJEY0sta3U3bVhybUhBMjlLTVhyMy1SZUR4bEhUNmJWcU8yWGlJVVQ3OWFtNWRiWVdzUnJxQjQ?oc=5",
+    "fonte": "G1",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-30 19:22:33",
+    "chave": "d5f0b1fe17119129c05711d5f664ebf12cac1f65c082e11ef866beee6cbdc52c",
+    "titulo": "Ibovespa cai com exterior negativo e dados de desemprego; dólar sobe - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnZDTFYzTGxiNnhXcTFxR1RHNnNKRFUzWVFEMjhSZDhSVzUwMGxMdzk0allUb3NUMWY1N2I3R1lUSDZMNmxYQ2h4c2NESXdueWtpSTJMa3c1QXpDa05IQUt0R05UTmZiVkhUV1IxQjItbjVkVXVweUF2TG1WbFVRTm91d1Y5S1BUNHQydUhlN2VmdjVNSV9menRWYVl1aEs0d2Jobw?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-10-30 19:22:33",
+    "chave": "a17c54e27fd8285e98fe099956495e14bdc0115540f357654305fe393209f8f0",
+    "titulo": "Copom deve manter juros em cenário de incerteza fiscal - Safra",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZ3FUNkY1T1VRemJpUmhSN05MMF8zeWxKMnpDblFSbERRRGN6N0dpTFo5V0RCclpCd0FYSW8yVFNqMU0yMjlQQ2tFWnQ5OG5famFGUW5LQl83bTl3ckkxUVNSZEhROWU1Mmw2X01ZLWd5cTZXeWQwZFNTdw?oc=5",
+    "fonte": "Safra",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-30 19:22:33",
+    "chave": "8e3060e78d441dbdc39aca0674c14c1901854775e868b36ed434a66fab86ae60",
+    "titulo": "Análise: Sem rumo fiscal claro no Lula 4, Copom enfrenta teste como única âncora da economia - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNGxzcHpUX3FTNE1NZzVUMG9rUWRTanhfZHBUT1Jma2p6MnhDNFNmRzFHek84eHZlcktEck1tbkgtVHo2RGZBQ2VVMGxsWTd5STJYYXZOazdBcXpKbkRrVDExZWxlb0tQZkp2MGdMVDFWTmRMQnJ5VHh6Q1ZYaVlmUlpfbWN0c2VFZmo5V0p2b0RXUlhwNng0a0RNSlZRUF9fb3hfemo0MjVtaFR1aVVaaVBZTHpyQWpxSE1iT0NkTWRqeTdweTVwaXRtMVp4YWtvTHpCVVhiVXNONXN4RFBkRUJ30gHwAUFVX3lxTE1pT2I4blZGNENjdDdUbDBTcXpmOUdfaWZub25JUHZycXRwalhkem9WR3JlaDQ0a1ZjZWoyeTFabVo0Z25UckcyQTd5MXJZQ0NBN0FROUdsR2x1THNqREd3QTMzVjhiMHlWQk5FNTlpSm5ENDJsemViYlo4MG1Od2U3d0VEMFptU1FHRXd0WnBpZkt5YWIyT2xfS0NjaEQta1MtTFZJTDh0dEUwbFdFNFFxaE1uUEY4VTlKZ2pTdUc1LWk4Z1kxNjVUTV9kcXdDeHljT3J0elhackdQR054YURUWW1fQ1l3anExNFlZcENOQg?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-10-30 19:22:33",
+    "chave": "cdbdbc5df2f66335b12e623880426c9fb1f320a6b3a3a5474596ec279c6b8a0f",
+    "titulo": "TCR pede autorização ao Banco Central para seguir operando com ativos virtuais - Monitor Mercantil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHZqU2tNLVZTbTJnbHYxdkwxMXpUeDRzRTAxN1M4RktvNFM4M2xlYVdxRDM0aEhUSm1kYXlzYUZGbXJzQ19PSzE4WVp1TjZtNVllRXFUcWRUMHVOaW9Fd0hobTd4Z0hqVHRNUnhHODhmRzBOS0FQUFp1dnJaUjNRQXZSS1FKMGlRdFdCOVdfZlVaZXlvRjJfVTJzUnk0ZUQzQ21sd2pRb0tmSlROR0UtOQ?oc=5",
+    "fonte": "Monitor Mercantil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
