@@ -1,18 +1,19 @@
 [
   {
-    "titulo": "SpaceX prepara IPO na bolsa, mas deve manter controle concentrado em Elon Musk - G1",
-    "resumo": "SpaceX prepara IPO na bolsa, mas deve manter controle concentrado em Elon Musk G1",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaldzYTBhdGRSNERfN3ZSdjRDX0VnTm5laWN3ZWhfaHhmOGZXLUtYQ2FKdGpqYk40S0FwOHZRZ0NqSEI4S2JsX2pyZUpiWS02YnY5ZFRUMzZUNVBsa3FXcGd5WUV2bGpGWFlRVGJlVGVaWERDRDk5cEM1d21jeHVHZHNPMElXU2NiLTJCNjVuc1k4TzRWMEtQcE1sN3I1ZjhRdmRySXJXcEhmOFNhZDNlTFRQUnJzb1FYWmJLM2lIeUN2dHROU0RGSFdtUjNucmc?oc=5",
-    "fonte": "G1",
-    "consulta": "SpaceX IPO OR Starlink IPO OR empresa prepara IPO",
-    "chave": "4fe2342e8e2016c448792c5cbfa11c9cda09ee88b11b9472ed8ff0049e51a35b",
-    "score": 8,
+    "titulo": "Oncoclínicas cancela convocação de assembleia após Justiça suspender exigência de oferta de ações - Estadão",
+    "resumo": "Oncoclínicas cancela convocação de assembleia após Justiça suspender exigência de oferta de ações Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaW94V200WG4tQWlsTlRXYjlCQnlCMWJReURIOThFMlVZbGdZOXBoN1Robm5MTmFDbWxRQzhDQXBWZGQ1NkNmNl9HU1dReTd1cVBYeWhINHcxYXBjeExiUE02ODdpZUpoU0JKdXBLVjBUR2hFYTE2dk9CajUxVzVvQTc0WGVWOE54WUFxelpVb0pvbndacUpCOHg5RHFQZ0p2SEdkTzZwNmstdk13dlVqTnRLLXFUejlsMFU0R0lZX3kxNHNpeEN1RzlTWGFBTGxOLVJJNy1qUEVRUXc?oc=5",
+    "fonte": "Estadão",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "800b2d58b9d0746c3d333deb0fcec341acc5a5b7e541559a8bba291628ce17cf",
+    "score": 10,
     "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem sinal de risco, adiamento, cancelamento ou baixa demanda",
       "tem relação direta com mercado financeiro/bolsa"
     ],
-    "tipo": "Radar de IPO",
-    "estagio": "Rumor ou preparação",
-    "acao": "Apenas acompanhar. Rumor de IPO não é motivo para comprar ativo relacionado."
+    "tipo": "Atenção / risco na oferta",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   }
 ]
