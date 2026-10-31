@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 30/10/2026 17:15
+# Relatório da Carteira ARCA — 31/10/2026 00:10
 
 ## Carteira monitorada
 
@@ -12,132 +12,132 @@
 
 ## Resumo
 
-Notícias coletadas agora: 50.
-Notícias novas, ainda não enviadas antes: 37.
+Notícias coletadas agora: 47.
+Notícias novas, ainda não enviadas antes: 33.
 
-Foram selecionadas 15 notícias relevantes para este envio: 8 de alto impacto, 7 de médio impacto e 0 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 9 de alto impacto, 4 de médio impacto e 2 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Ibovespa opera em queda e chega aos 167 mil pontos; dólar opera em alta, de olho em novos dados econômicos - G1
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: G1
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE8ySUxaajFOUldic1RDZzR2bHl5NTZtN195YU1IU2JvOU1nWG5DZjNzOHk4NnB3MTVqVkFSOWlqb0dUNFZON21TaWVZVlRRRWFGN0c3akFIQzNQaVByYmV6TFJmcEJFaHZSbmxOTEVFZ2ZOcHZZalZSYdIBhwFBVV95cUxONHBsTVhCNFZNTVoxUURnaUwzaXJQYWVLOUtjRkJLTHU0TTFyQkM4Z2JsT0FfWEFhUUtyYmJCZ0J5N3V4aEpJLXJacklDLXNzcmJEY0sta3U3bVhybUhBMjlLTVhyMy1SZUR4bEhUNmJWcU8yWGlJVVQ3OWFtNWRiWVdzUnJxQjQ?oc=5
-
-### 2. Ibovespa recua e perde os 170 mil pontos com incertezas das contas públicas; dólar sobe a R$ 5,44 - Estadão
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Estadão
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNG9DcC1qREpJdG42OFZfZ0lBOGlmYVVsNlpfQ3FwaFNIcl85bV9LQVhhaTF4MjVuRThXaUttTnJkalQ0YmRpTy1ad2JuaU8tSHFtNG94VUZtWjRCbkdGTlpJNDhHd1JQUVdQMmhPQmpvd0hCbUFobkp5U1JPamxMQXBjaHJBWXZzQlhscHU0eFdyNVVJcGhrXzhQQmZMYUNvWHJQekpyN3NqMzJVRUpON3JYclV1VU9jNVd6dm93dEllT0hpRnU0VUxHck1xZ1ZNYWNwTm1BRXFQVlVZRUVCakpFWlpNU3hTWUVKMHhYNlZYQQ?oc=5
-
-### 3. Ibovespa cai com risco fiscal e balanços de Vale e Usiminas no radar - VEJA
-
-- Impacto: Alto
-- Ativos afetados: IBOB11
-- Fonte: VEJA
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVVKc3pKY1AyZ2xmTW9qbV8zWVp4Ynh6cE4wcktSdFhLUXhqQzhkNjY1N25hM20wdTlfV3Jib1d1eUQwT1BlZERjN2RXS1kxc3c4YTdjRTltWERjWGhJYWlpeUwybktITTlPZWRBT3ZLaW9nNlFZb1FxOE9qcWxSZTdxOE1hNHp0U09GWjZnYVNKa0xUYTdBNzN5el9VVmViXy1IVzN4cw?oc=5
-
-### 4. Ibovespa cai com exterior negativo e dados de desemprego; dólar sobe - CNN Brasil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: CNN Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnZDTFYzTGxiNnhXcTFxR1RHNnNKRFUzWVFEMjhSZDhSVzUwMGxMdzk0allUb3NUMWY1N2I3R1lUSDZMNmxYQ2h4c2NESXdueWtpSTJMa3c1QXpDa05IQUt0R05UTmZiVkhUV1IxQjItbjVkVXVweUF2TG1WbFVRTm91d1Y5S1BUNHQydUhlN2VmdjVNSV9menRWYVl1aEs0d2Jobw?oc=5
-
-### 5. Ibovespa tem 5º dia seguido de queda e dólar oscila acima de R$ 5,40 - Exame
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Exame
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHE4bjJUcXFTcGMycVlsZW9aRThIcURuSy1XcTEzMG54RUhWcUlyemZqLURqRkI0NTVpU09iTGt2WE5FTERPcnB0MU02QmN1Mk9ieXotR2JfN243ZW5pdndxSTdWUXoyNVVQSFVLc0NOVkVUcjBudzhTSTdOX2RUdml3alVzbHdXZERPS0poV1hwTzJiNUVmWUVid2k4V3ZkY2I4?oc=5
-
-### 6. Análise: Sem rumo fiscal claro no Lula 4, Copom enfrenta teste como única âncora da economia - Valor Econômico
+### 1. Consulta empresarial, Fórum da Diplomacia Industrial, Copom, vagas de estágio IEL e muito mais - Agência de Notícias da Indústria
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: Valor Econômico
+- Fonte: Agência de Notícias da Indústria
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNGxzcHpUX3FTNE1NZzVUMG9rUWRTanhfZHBUT1Jma2p6MnhDNFNmRzFHek84eHZlcktEck1tbkgtVHo2RGZBQ2VVMGxsWTd5STJYYXZOazdBcXpKbkRrVDExZWxlb0tQZkp2MGdMVDFWTmRMQnJ5VHh6Q1ZYaVlmUlpfbWN0c2VFZmo5V0p2b0RXUlhwNng0a0RNSlZRUF9fb3hfemo0MjVtaFR1aVVaaVBZTHpyQWpxSE1iT0NkTWRqeTdweTVwaXRtMVp4YWtvTHpCVVhiVXNONXN4RFBkRUJ30gHwAUFVX3lxTE1pT2I4blZGNENjdDdUbDBTcXpmOUdfaWZub25JUHZycXRwalhkem9WR3JlaDQ0a1ZjZWoyeTFabVo0Z25UckcyQTd5MXJZQ0NBN0FROUdsR2x1THNqREd3QTMzVjhiMHlWQk5FNTlpSm5ENDJsemViYlo4MG1Od2U3d0VEMFptU1FHRXd0WnBpZkt5YWIyT2xfS0NjaEQta1MtTFZJTDh0dEUwbFdFNFFxaE1uUEY4VTlKZ2pTdUc1LWk4Z1kxNjVUTV9kcXdDeHljT3J0elhackdQR054YURUWW1fQ1l3anExNFlZcENOQg?oc=5
+- Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxPVHhZa1ZFWDI4UVhEWjhQZENPWDkwU0ZJVzY0dkQxTGNkQkN5Rjk2SEczOFdLWFllX1dLd2JrT1dQWlZFTnFla0UtVk9LUDZ5VERMdzRzT1FIbC0tbVhTUldZcXIxczlyZklTR0pXaVkxMi15WkpHMGI3dzBrYV80WkZOYjI5Ni1SejNkQzgyclJCM3pxTWE5OGN4ZUh3OF9JR1ZwWl8zcnFQd2FWZ3FFazgxVTdXUno2RXZfdmduMkxnczN4YWhRZkVqU3ZWMWRObnNFYjFiR3gtWGJZb2I0Y0JmOW1VYkc1WVE3cG9LY3F0ZVF1UFdXZjhSM08wWERVQnlwSnJONlNXTFVWLVZVM3pUYTNUMTh4cVMyUg?oc=5
 
-### 7. A Selic não vai mais cair? Pausa nos cortes dos juros já lidera apostas para o próximo Copom e muda cenário da renda fixa - Seu Dinheiro
+### 2. Expectativa para a próxima reunião do Copom - Monitor Mercantil
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, CDB 100% CDI
+- Fonte: Monitor Mercantil
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFp0am53M25LWUdmX19ZLWtHbjM3NWNzeWhRcWZoaFIyZUEzXzBvTF9NT1dJY3NJX3paWFE5WXBSVzVkak1yRzVZaG9MNUJzLVBGSk9WLTJIaWhOdUFDMUt6TjBQODB6OFUtaFJ2X3MyeGpvczFUTlB4VS16ZUxYcl9ZMVVxUQ?oc=5
+
+### 3. Itaú vê fim do ciclo de cortes da Selic diante de cenário mais adverso - NeoFeed
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Seu Dinheiro
+- Fonte: NeoFeed
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ3RuTk94VWFEUmFTRlUzMmlfSmVVLVhiSHVOVkdYMEQyc1k4Q3d4dW8zZzRxNWVVbTNMc0FXUkVPVTdoVHgzeENXMkVfV09SWkxfYTFvY3pvNGlxQkx5M2RYZmFNZHNpUUtsYWRZVXdSaFFkM1JZbUtQUG0wZFhQVGRIRS1ZbFcyY2NiMHVyNGVwZWhlUDN4ZU11LW83M2hSNmxueGxHT21lM2NacUFYY0JYV0FYcHN6Q0tBMkh4Q0tfOER2cl90SGFBZ0xocFFxVWFvUEtSbGNoRjg5?oc=5
+- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEU0WjBneWlsRE1POG1xVUhvQzdUcVBfQ3VnQ1ZrNGNLb2piU3J4UjZTeWpFNFd4QmFIdGRvdi1yenI1NnA5TEdNSkZjOGVSQ2NvUkpldEVvY2FNa3owU2NQekhxNXhEQ0IzQVNjUGRMVnQ4ckczWHZKVTk1LUtkVDlvRkpSalVYSlN4eTRPWFExS1BfYWo2VEpFZERDM3R5aEtqNmVR?oc=5
 
-### 8. De dois cortes a nenhum: a guinada nas apostas para a Selic após a eleição - VEJA
+### 4. Reeleição de Lula sacode apostas sobre juros, e BC decide a Selic com mercado dividido - Bloomberg Línea Brasil
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: VEJA
+- Fonte: Bloomberg Línea Brasil
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFZTX29IUk9OdTE0bGV5aFN4dE1zTjNLUzI2UEUydWRtZ0xEUXA0bVItTml4czFCeWVHejNUQWgtdHhfNk9WMXhUREtvS3dQbnUtMkRKN2JrZDVyNTdFY09aV2FBWU5La2VpTnYxVm9aajFSaEx0b1htd2ZPQ0kwN00xMFBnd3NpWlQzeE1TNFEwUHdDVjJGMEREYUw5cTdROVg4UFdRaGJYZFYzR3c?oc=5
+- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGxHZ2tqYThJdlZ0cW1jZWszcHhRWWJ0b2dtR244aUwyYk03QUlGMUxxOEJFdThqWlNSMk9oc0tDRHVpOWtWU29GRzdiTFBlS01aWV9XQUpBVzlRODAxVjJoNUZkRVA1Sjgya0ZIWFNpU2g3WnU1clhPVlZnbWNXX1gwRHphVHhXcFkwTWZzSnB5VnZfVEpQNHN5amJwNC12aEV1NjB1WFVBRVZNWkZEbVJPWExIaGJsYXhzeGhxREhRRTl5MUHSAdoBQVVfeXFMTXVIVHRBOHFSUmRlTnhsbHNaVE5FSHZDNzFrUXB0V2UxNkdpVVVmMHBHWW9VX1IzUEkydzJIN1FvdldsekNVOGVGSVRsbkpvMjRMRnd2WEZ6RkpPZGdkY1hQZEN1X2FLX3otam9fMVQ2M0w5MThCd1BwR3g1WC1xQzVTZlVHLWM1RXF4YzUwdWVJNUswZTloX1h2UVJZTXZITGppNDVJa0Rob29TSFpvUjg3Z3ZaN0tvcVpDWTI2QWxEdE5OcmxrTnkxYmJZQkZJQTdQa3JSTWZ3M3c?oc=5
 
-### 9. Ibovespa cai pela 5ª vez com temor fiscal e externo, rumo à queda histórica semanal - InfoMoney
+### 5. Dólar em alta e Ibovespa em queda marcam fim de outubro no mercado - Agrolink
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11
+- Fonte: Agrolink
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzJPOGxMM21DMnlvV3lVQ0d2aVphUnNBa0pKX1NSN09YLTFIYnlKQVN5anZZMThtZFFfbWMwMlcyQXhxOHh3clE1NmlVbzdtTGw0UGhSZkgzVVhiWnNTekY0UFZIVTA5TUp6SUktYmM2RUZWdENpX3lNLVpVTFNrcVhKYmNxTW5QU0g1eF9CcXRuS1RVMlVTTEh4S2JJb002TG5Xa2VLU2E2Wm50ekxDaGszZUthUQ?oc=5
+
+### 6. Fundador da Binance pede para Elon Musk parar de ‘trollar’ após sua corretora perder bilhões de dólares - Livecoins
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11, SPCX34
+- Fonte: Livecoins
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbU9jcExEZTdNR0FENDJkelhwRm5WbndJc3dOTHl6UGpxMThOaDY2cGQ3UmFqV2hHWmpWMUlZQU4xeThmcnFKbUlVUDBNR2hLZWxCOV8yekhpWWhfR19kM1pFakgzdDRfWlFXSk1pcjh2dXdORXFUVWlsOC1hU0pfR0FTcjV1WXFsMl9kcHdyZkNKZkQ3NEFFLWs5S2tmUkNVME9mSDlINXdDQktTZ25OUjRxUGZVTXdmOUxJNWM4VlBCcEpzMTc1VEI1eVRST1NPY0twVGV0TjFoTmUwdVhoZW1ZcXRrS05xQW9SNFR0Wm1uTDBLZkpzSjVQUVAtQmYxMFFTOGtXQTR3YzTSAZACQVVfeXFMUDFMM1lwME5hUWhpSXM3U0RuWWlUVGgwaUE1cjZWbXhHWHc5U2pTdlQxTFJnMXowbkQ2NEhkdWxiazBHN2lRZXlvamQ0NmhzcXo3VkpCaE94NkNmZHdqVEozUmU3YjhVNUkzNkxUQTU1UFN0WXZoNFp4c0Fjd255a0MwTTVCVlZjd1NhbDlIelZNZkR1UkoyVk1tZC1Rblg5SFZWWmZTemRZV0lyWlk4Ujk5cFdNaU9tSTZFZHduUXBqbFVRRVRUMjlsZHNPX25xS2dmUmN2eEMzVHNCUnoxUE5OdGVEUkdnNTdZRkhxSUplNnZIYkk5dGxpUzhvZ0NGdjZ2dTFCbUZ5OTdfdzRKYzA?oc=5
+
+### 7. Copom deve manter juros em meio à incerteza fiscal - Safra
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, CDB 100% CDI
+- Fonte: Safra
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZ3FUNkY1T1VRemJpUmhSN05MMF8zeWxKMnpDblFSbERRRGN6N0dpTFo5V0RCclpCd0FYSW8yVFNqMU0yMjlQQ2tFWnQ5OG5famFGUW5LQl83bTl3ckkxUVNSZEhROWU1Mmw2X01ZLWd5cTZXeWQwZFNTdw?oc=5
+
+### 8. Inadimplência e endividamento das famílias são recorde em setembro, informa Banco Central - G1
+
+- Impacto: Alto
+- Ativos afetados: KNCR11, CDB 100% CDI
+- Fonte: G1
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWG9QRmJHT0hHOGNpd1BlR1RZcno0RmcwRmFWUHIwUS1hZ25jNEZESmk2N1J1TG9mRUVwem90V0pKQmt0NjlzNFNYMzhwVHBPU1B6MTF3UUR1N0U3NlRkYlVRUTNXVDZySTVzdHl1WEtwektobjNPbzhEQ2pMd0dhY2pRRUE4S0lRbHJRQjNOTDhtaWR2X2hEWGJWTnNOZHVkeDRXUGlTcGp5N01rNVRGdHN0a0haNkhoTE50WnNoc3k4QS1CMnJURzNkWVBVZWhubzVCTHE0WXdYVzTSAeoBQVVfeXFMTlZyX29wc1hSS2FrZXVydDJON2dlU0VJakRwdmU2T2ZUbW5wb2VDSm1NQmNqLUdOYV9oVDJDUzdfdDl0RHBnTGs2QTE2Y3ZzMFVhNU9iR0dEUExVaG05RVEyWE1jRGxNYXo5XzVBZGxVeUVqbDhXWTFqRmplSnZpQmlnZ2x4N25jdWhfVmw0R1ZqaEVpMlV0bTFRNlVaWTZuMF9QODJtWkJBN2taWWxTM1paRm1LTExmdlhnTGQ3MWJ0akw4OVlfclNLTVhxTXVQY05MN0JvM1V5WV9xX1JIZ1I5czhTd0NaWW9n?oc=5
+
+### 9. Uma reunião muito difícil para o Copom - Estadão
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, CDB 100% CDI
+- Fonte: Estadão
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHFhOTNsaVBZVG5CcElZODVWcG1HeWI4WDROZ1NxUXRhQkh2dHNEZS02MndQcTVtVDd6N3NqMm9yYzdsdWx0YnJ4T05FUVVEeGFUTTdUWmNMVXlxMzcweXdpcEZISVdrS2pOd1liRXhtRGM2Q3dmbVBidGV6RmRUX29vZWJ6RmpmYnA0M0NQcEt2cUlBLUHSAZsBQVVfeXFMUDBJeWNlM21GZWIxOFNCTkRwdEttQjZDVV9rVk1fTE93WV9Ka1NVM3RvVFRoalg2RHBLTU1jVjFuajM1ekc3UFF2WEt2Q2VuSnN3R0Z4SXlMRS1zaGk2dFRadm91Q0RhbTdjemFQSzZEQXo4MEhTSFc4bkFoSXhqU0gzOGk1aVJJQWtyVGQ4OUZ4TTlHd1U2ZkZvaUE?oc=5
+
+### 10. Ibovespa tem 5ª maior queda semanal desde o Plano Real - CNN Brasil
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: InfoMoney
+- Fonte: CNN Brasil
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlBkT2o0SEtncXRKZHIxUFA1a3IxY2tOem5pYVJsNWZaaUZFMC1SXzNuRVdJZTgteERETTFCb2ZKZDRWRmQxeU1mdWhFVUprZHNMU3Y3ZXBDeFJ3dHZfa1gyT0JGMTFWR3h0cm9xbDlacGxrcVdqTUNERXAySGI0WHpRVGRfUjhRaXNObUtWTkFyTHBESnEyajdSWUpoWWFTT1FLZUJITTJGcmNFbXNZSVp3d3fSAboBQVVfeXFMUDR0alpOdVE1LXdJM3BkMGFqbDl3cXV1djUtSWhMWmlMem5ZVS1FWll5QjNhRXR6LVRld2ZjZkRuQ0tFT0RiQ000UDNKdzEwaENQcDMtejR1UEdSWWFqMmlldEx0RG00cXc5ekNBbVNkQWlzcUk3ZFNBWVVFVGVXVHRrUktFZ0NBV3h5OHIzaXBpTXktN2NvN3hNNVF0MG40aDNvRkNkeEt5bWhHYkVFMFNSOGpuZUtFSXl3?oc=5
+- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDVkTnRTbkFUVG45TThWMmRlczJLdGRrVlVfZ0llNkU0RzhwZ3Awa3hqbmVnN3NLRzQyMlZOUnB1cGQzUV94b2VDbjFqc2hHT28wSG5hYXdzeDdyOW1sNXNTWUZCRHBvNC16YTRIa2N2SkRMSnhueXNGVkVEREtSRDNuSkNqSWt1MWxCaEtwZ1BBY3dqT0N1RC1ta1BOd1JBcVl6ME9jeUd4bHc?oc=5
 
-### 10. Ibovespa Futuro cai aos 170 mil pontos com Vale e cenário pós-eleição no radar - ISTOÉ DINHEIRO
+### 11. Ibovespa cai 18% desde reeleição de Lula e tem pior semana em quase 7 anos - Exame
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: ISTOÉ DINHEIRO
+- Fonte: Exame
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMibEFVX3lxTFBHU3B6a2ZxdzcwWm1CZFMzUEFyU2RsOUxyU3N0LTFwQ29kalFaUzRkUUE5TkJvdTlIMVRKVlI3VFdHcTNnanU4UkNjd1RZMDRyYkZQNkF2Nk5ZUzdmT2xmelN2Zjd3bnZfMTItTQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXlCVFJ1NGV5WXRfaE9EVHhNbDF0N3BhWUc1VGtkLXZkcWxrSzVVdG1zcmhCcTg2WGdmSlpoblpsSTYzaWJzMTZyUnRrc3ZOdVliYVg4ZUJ5NVp1ZjF0Ty1pU2VWSzJpdHItMmx1MmVIRHhxbk05ZmtjbWxrMl90cE1kbzY1TFVYTExFdVZZdVdselBlQU5pdXVXc1ZucFNDRWxka3lHYjVFTEQy?oc=5
 
-### 11. Bolsa de Valores tem quarto dia consecutivo de queda no Ibovespa - band.com.br
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: band.com.br
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTQ5UHlqeXNLNC1XTFdZdnZ1TTA2dlF0NGo0M2N4eE5TS2ZJRFVxWENzRVNBWnhpb2VETU5VTnZjZUMzcE1hQjh5bXR5QU9TQUUzZTBXcmUwNjR2Q1NzTnpMRkp1alVwLW0zRWt4UHkydlFqUkxoRkRfcl8wN1VGaGhCU2l2UXRBZHVzSEptd3dIUG1KWjdXUlZkU3FHSk9zSl9fZC1hQ3o5N0tXSzBCSlVhSGtyLVVk?oc=5
-
-### 12. Por que o SPDR S&P 500 ETF está caindo hoje? - Investing.com Brasil - Finanças, Câmbio e Investimentos
+### 12. Okta salta no after-hours após inclusão no S&P 500 - Investing.com Brasil - Finanças, Câmbio e Investimentos
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
 - Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTE4R2duajRRRV9wOUlPblVfODVaeHRQQUlSNVhhMWxWSU1xVjZYYVZjbmxFOEdITlB4MWxUSVNrelJhSEZ3MW9sTG5EeVZ6a3ViNU53b1l2V0ZVaFdidlVHZU1PSDZobV8welhDaWZJVFBvcm9ySk1ZSFNrMzFmSHU2RWd6VkZ3RENNR3VfUUl0MV9zdFU1RjhXc1E5aEE0YTNvX2hn?oc=5
+- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0NrZ2c2RGdReXpCbDJzOHNrMVpnVTRYeWlfSVpDbENMdGdGSDZaVGVCZlZoQmE2ZXJLYjR6V1doNGw3TV9laVFlZi1MWnlUbFBLQ2lVb09QLTJ6RXBoM2cxR24xOHNHaEdyTUVXeGh5dHhnMlZteE5mRlFSN0w4SnNLQmF0YWZRYUEzWEhkZ2dJVk51UVRYRFloaTgxRlhnaE1ycnFENA?oc=5
 
-### 13. Nasdaq cai forte com Amazon e Intel agravando preocupações sobre gastos em IA - InfoMoney
-
-- Impacto: Médio
-- Ativos afetados: WRLD11
-- Fonte: InfoMoney
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG9NVlZLNG0tRmlGNUF1OERBWFhMeGVtTkFrbTh5M2M1MlFvX0xlWXNHVm45NTRGazhnb09jeDRSTG9jQ1pPc2Q0ZkdZbmdUaGtyNDdnUm5hRW8wU2VEUk5CaVVIU3ZkRnYtelNOeW1DaFptZlFaSDBGUXdpZTF0RzVESWJiMTFpVkpaaDI4MTduUHcySVh5dG1GbExJTG4yLWFpNFZ5dEpYMEdTcWpRbEpENmdzRDDSAbwBQVVfeXFMTl9nX1BtMURqWkduUjFXSXgzQnkwcHFKRGc2YWkwWUhaZjVDeXJHbUVpd1NrT0R0N2tGcnhMdkt2aFBFaEdCOXprenFhbG0xaTVtRDcwX050NXpVNEdhSExHWkkyYVE4V19HY3NxakYyUlFoTnhtMWVmOVRNVjJVR2M3eEV3RFpkME5Udnl1WXhEZ2xkRFZtcnlmNUtka3k3QXJzbUxidmpsMWliRUxtRTlnTnFoaVFfTkNiWTQ?oc=5
-
-### 14. Nasdaq cai 2,2% com vendas de techs após balanços de Amazon e Intel, e Dow Jones perde 0,3% - Times Brasil | CNBC
+### 13. HGLG11 divulga quanto vai pagar de dividendos em novembro; confira - Fiis
 
 - Impacto: Médio
-- Ativos afetados: WRLD11
-- Fonte: Times Brasil | CNBC
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTlOSHR5U0xkZXBzU1JBaGVibjlES2dhUUZPbnlJTUhmWkNSa0ZZUkpDa2FMbzFmUms2Y253ZGxJRm5zNDdLc0diOXVXcWRWNTAzWHp6MjE1RlR6R19kM3h6cV9lWmp6a3AwanNBY2hYT1FmTUIxSUx1ZG1DeG90RmNnWHE3UnpGcGwzbTRsNlFQbVZ5QkROUkVSWHRocWZUN2dzU05QeEE?oc=5
+- Ativos afetados: HGLG11
+- Fonte: Fiis
+- Explicação: pode afetar FIIs de tijolo, vacância ou aluguéis
+- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2hzeXNlZndGRWdQT0ZvSmJJTXI5MnVQUGZmM1NtQ2RZRGd3WmJhU1JldkRjU2MxX3BrT2FoekhjdTduMHN5c2IyQ0ZfeDZjczd4aE42Y2RZd25keXVMZ3VvdnRLUkdmU25McEZqelU1V1k4TlhVaUJ0V1VSV3A3S1k2Y2doRC10UUoxUzR4bFJnTmZyY0E?oc=5
 
-### 15. Nasdaq despenca na abertura com Amazon e Intel agravando preocupações sobre gastos em IA - Terra
+### 14. Às vésperas das eleições de meio de mandato dos EUA, Wall Street fecha em forte queda; entenda o que aconteceu - Money Times
 
-- Impacto: Médio
+- Impacto: Baixo
 - Ativos afetados: WRLD11
-- Fonte: Terra
+- Fonte: Money Times
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZjB4WTctMmRxUkV6bk93TUZvVXFFTDJheUcwMnozbjZQZE5uaVNmdHo2ZXF2bzRNWGJraTB4aUQ3UFFkTnlrTXFEUXVmdXZpbHVsa3VyOV9melh2SV9QQ29zTkxyWTA3UncyZDYtN040bnFNWmxaS1hmUmE1VE5obU9DcGNWdUM2V3BmMWh0bThURmk1b2luV1dVUkx5emRUY3NZX0diNC1PSENpeXkwZzNCZEwyenc0a0dOWnR3clB0VDRycTV5VE5SVUk2aTVzM3Ryczk2LWNrYVhlWVl1a21JMzEyck9hTVk4WVJ6YzhlaHRmd2dWMU1HUUg?oc=5
+- Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE9jV19uRmwzRU9maERxajBIUEJ5cXd2ekxoTXZRYUNnZVRIaGx4MkhiRU4yaWMtZnA4VmpSWmhwSjJnYkZJN2M3SWZzSVBGN2RGTF9Memh5ZG82Mzl4YUNTQlJEcUFXRWJKbENTVmNyRF8wancx?oc=5
+
+### 15. Elon Musk e fundador da Binance trocam farpas após ataque hacker de US$ 6,4 bilhões - Portal do Bitcoin
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Portal do Bitcoin
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZURZb1pZdTF3eEpDWGVvZG1nY2w3M3l6dk9tRS1qLWlxUUF5S0pMRkw3b2c5Rk5EaXNJaXNwX24waFpfWjFYaVlMbERqdDBSNEczVk10amprWUFXZEo2Y3h6RnFITGtDVG5rcHVsdlBHUmIxUnJBenhIV2pHZnB3cTBpczJWRjJ2SlpET1k2N3hjOEtIYzQ1QWF4b0J4TEZRWmd6MFctV0dHMHZsbDFnTDk4XzJNSE9G0gG-AUFVX3lxTE5wZDJCbmp3emJ2eU41eGdxZGVERkQ3YTBJbElaYVUtR001RXlBTHRheE10S1RNUXpJaWNQQU0yeGFZVURvU3BSMFYwNFd4b3l1N2xqVUQ1NUgzQm96RjZYSzQycTF4bG5iQVdfa0lGZTV3WndpRmhUd2ExTzcwWnllcV9pMWNfV2g0eDU2SnpBOFg1RjBlekxqQnFsT0VCcjFRdU1vbmFuSGdFYm02VzdRVDR5YWVrLUFsSkJwOUE?oc=5
 
 ## Conclusão para o próximo aporte
 
