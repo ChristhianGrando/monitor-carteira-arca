@@ -1,42 +1,68 @@
 [
   {
-    "titulo": "Ibovespa cai 9,88% em outubro; dólar turismo e comercial avançam 5% - Poder360",
-    "resumo": "Ibovespa cai 9,88% em outubro; dólar turismo e comercial avançam 5% Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzBQWVpRS003cFVVeWdzWG1LVUpIcmR6dkwyQk53dXZDMExyQzdSRnlhOWtGS1VLdFhNSXRGblF4QzktOG5ISG5KLXUzWm9TRms3WGl0U3M1bkR0NU8tRlBxMFNPQ3dtcWJ0dDl3aWNXS2RLOTNrT0E0OXhHSFBHSWhFTXFMbTE2QWVwdTY0WDlneTRXal9LMWU3a0Rmb0U1UlpFSmxNQ0pRUEk?oc=5",
-    "fonte": "Poder360",
+    "titulo": "Opinião - De Grão em Grão: Como dividir sua renda fixa entre CDI, prefixados e IPCA+? - Folha de S.Paulo",
+    "resumo": "Opinião - De Grão em Grão: Como dividir sua renda fixa entre CDI, prefixados e IPCA+? Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajBiUWtFekFNZ1MzUHBya2xfOW4yLWFRTUMzc1ZKeV9QUU5tTU5KQTdmQVFwYmhOcnY2S1RESHNWYktWaENjeTlrSGliS3YyQXlFcm9XSERmenI3elM3aEtqRFZQQzFmZWhyV1l3bVpLWHg0WlV0QmxfZ2QxV2JlQTlMcTRXVXprUnpJQ2lzeHQ4allRYkZJM2J6al9hcmhBc1lpclYzZGI4T1BEdlJtYWhvY290SEZ4SnlGVGRB?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e116df6bbb0066a28de9ecfc116ae9e76c591a8026ccec722aa4f9696e6fda78",
+    "chave": "8ae3e0525580d5e048cea61c1cda75d4bc73065e02113780b6dc97c2d2206b91",
     "ativos": [
       "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mais uma liquidação: Banco Central tira do ar empresa que operava nos bastidores do Pix após encontrar \"graves violações\" - Seu Dinheiro",
-    "resumo": "Mais uma liquidação: Banco Central tira do ar empresa que operava nos bastidores do Pix após encontrar \"graves violações\" Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRmc4Y2J5MEVtWlllY1VIYzgxOU1KeVU1aEVydHdLR2dPTXdJN1VzN2liZGV4bk1LSHE5bFRJVTRCcndYSjVCMXdiRTdpY0NmQl9EZmFOZHFIbER5RDZsUFBGaUNjNlZsUklkZ2xYVzVtaXB4RjdWOUJRczE3akdkbGNOcjFScXQ0emhnSzF0cjFPampuWDBlSGRCbE1pdTA1aFV1bEkwbnpSY0hoZWpleFNqZU5VNkxIaWdwLWJINDYxLU1rQXJ5SXpvMlJseGhEdml4cEwwZkNKSHE2S2MxSDA4N3JuVnZqM19yUzRfY1dxQ19BZnBLWE5R?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "70149fb1d78a14a1d1f5f2fba61a31259c919a04e8b0c4dea569b925c42c2b9a",
-    "ativos": [
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa cai 18% e reavalia riscos fiscais no Brasil - Acia Araçatuba",
+    "resumo": "Ibovespa cai 18% e reavalia riscos fiscais no Brasil Acia Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mcEphaDE4WFFFSnI3V0Z5VV82eXRJYWUtSVExb2lwSGtZbEx0MjUxVFoxekVZMm5fZ0JjZE52TVhIYWZ3VzdnVU1uZkV3dlhhYUI4U3NUQ3VkcDRIcjBhdUJqVmdaSGwybm1CRUxnT0ZQNEdhd2tZaG1qeFQ?oc=5",
+    "fonte": "Acia Araçatuba",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d326fbbbf752304f2116538f26e6c3a04a75c003247087651167cb433e141889",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Empresas cripto se preparam para nova regulação do Banco Central e mercado se consolida - Money Times",
+    "resumo": "Empresas cripto se preparam para nova regulação do Banco Central e mercado se consolida Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1k5MEd5TFEyQUktSnhXUnZGaEdSTXdhZGxBNkYtb2hLa0lfSDVqZy1hUGV1UkJfUVlaUE5JNWVna1Z0TlJUSFdrcjBNZWVJV0cweG9jcmRWSmFMaG5Fa1M5ZGtqeWNVaS0zSWIxLTdmUGE5cWhGTlhlTnl3cVVzRjRlYnlPWmZoWDh6ZVdfM2pwZzVfckExeU1WQ091RzRTNUJMNi00MTd2NVJHalB5X19VeWJEU3dmVDRiVHlkRVE?oc=5",
+    "fonte": "Money Times",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "2cd51c4179cc9563f5ad557387434ec99a0f67f1fc6e665248292dd7a7c95a12",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
