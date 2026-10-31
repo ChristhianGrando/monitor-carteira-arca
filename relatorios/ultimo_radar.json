@@ -1,35 +1,35 @@
 [
   {
-    "titulo": "Primeiro Copom após as eleições no centro das atenções - Correio Braziliense",
-    "resumo": "Primeiro Copom após as eleições no centro das atenções Correio Braziliense",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTJWMF9iaFUySm1ReVZLNUJRVDMxcXQ5Y2lmODJVRmRsNTBjN0NNMnAwU2RnYW1xWGZFc3Z3eVFHUVdvZm01ZDZ6T0owOU9Wek9iT2NGYkdvNHpJd01QaUhEZWt6WkxTYThLV0xBN19vcFctNDRPYVAyVTkwdXFNbXpXZGl5X0RGcTV4emRlUGdPbkRsd3U5QVZ0Nk9hdkhvMVhBTg?oc=5",
-    "fonte": "Correio Braziliense",
+    "titulo": "Ibovespa cai 9,88% em outubro; dólar turismo e comercial avançam 5% - Poder360",
+    "resumo": "Ibovespa cai 9,88% em outubro; dólar turismo e comercial avançam 5% Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzBQWVpRS003cFVVeWdzWG1LVUpIcmR6dkwyQk53dXZDMExyQzdSRnlhOWtGS1VLdFhNSXRGblF4QzktOG5ISG5KLXUzWm9TRms3WGl0U3M1bkR0NU8tRlBxMFNPQ3dtcWJ0dDl3aWNXS2RLOTNrT0E0OXhHSFBHSWhFTXFMbTE2QWVwdTY0WDlneTRXal9LMWU3a0Rmb0U1UlpFSmxNQ0pRUEk?oc=5",
+    "fonte": "Poder360",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "1a85c8d99ae7f637da9526dbddf4bed8d2efe55186997a5de1ef67c8dbaee049",
+    "chave": "e116df6bbb0066a28de9ecfc116ae9e76c591a8026ccec722aa4f9696e6fda78",
     "ativos": [
       "IBOB11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
     "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Sua empresa precisa de um \"banco central\" da IA - StartSe",
-    "resumo": "Sua empresa precisa de um \"banco central\" da IA StartSe",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTB4emk2eHprNmVmY0tPbTVUVjlSX2dsY1pIdkRvU2lrVkNkRjhtUmNsU3NWME0wRGlObEhXWVprOEh6dGNMOUVrb1NOalZrbU94RlRFZmRJMmNEMlBRRGxIZzZ1RXhXQ1l1Ul9VMU44UlpRYi1jZm9paU5yOHVpRkZkdDQ?oc=5",
-    "fonte": "StartSe",
+    "titulo": "Mais uma liquidação: Banco Central tira do ar empresa que operava nos bastidores do Pix após encontrar \"graves violações\" - Seu Dinheiro",
+    "resumo": "Mais uma liquidação: Banco Central tira do ar empresa que operava nos bastidores do Pix após encontrar \"graves violações\" Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRmc4Y2J5MEVtWlllY1VIYzgxOU1KeVU1aEVydHdLR2dPTXdJN1VzN2liZGV4bk1LSHE5bFRJVTRCcndYSjVCMXdiRTdpY0NmQl9EZmFOZHFIbER5RDZsUFBGaUNjNlZsUklkZ2xYVzVtaXB4RjdWOUJRczE3akdkbGNOcjFScXQ0emhnSzF0cjFPampuWDBlSGRCbE1pdTA1aFV1bEkwbnpSY0hoZWpleFNqZU5VNkxIaWdwLWJINDYxLU1rQXJ5SXpvMlJseGhEdml4cEwwZkNKSHE2S2MxSDA4N3JuVnZqM19yUzRfY1dxQ19BZnBLWE5R?oc=5",
+    "fonte": "Seu Dinheiro",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "435f523a8f92dec984a735750f2a0330a99974f092f4dfe440e3c2bbe1d216c0",
+    "chave": "70149fb1d78a14a1d1f5f2fba61a31259c919a04e8b0c4dea569b925c42c2b9a",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -43,27 +43,6 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Usiminas despenca mais de 8% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas - Estadão",
-    "resumo": "Usiminas despenca mais de 8% e lidera perdas do Ibovespa hoje; veja maiores altas e baixas Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbFB5dEVSLWxlZGRoeG9SVWduU3Y4UU9GQk9JUnJlSUtMb2tvTl8taXZWUDJHYjhfZ3Qxc291ZWRVeVUyZ2VRdUktX1ZYTm9BNXYzdWJaYVNJc0V3ZmRpbWZKU2VWckRpZmc1WjNOUFNRZ1dZZmdzNWhDV2stWi11cGM1NjNJUEVPcGRQOFpidkxLeEhFbUx4VGowLWZZMl9CY0hIQmpNZHpQdUZnbGh4YmFxTEdRb1VHdUE5aGFIcENVN2RZTTNwQkw2dnpTSTZmOE9pLXBPbVY2VVcwZ3lzYWRRRUNHaERvbkZV?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2a241d3325d8c52bb904f0218db186c12d76c9637b777faecb838a643b100dae",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
