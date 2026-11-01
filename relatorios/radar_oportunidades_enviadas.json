@@ -1,24 +1,5 @@
 [
   {
-    "data_envio": "2026-09-08 14:32:28",
-    "chave": "e9551fc463b5153af3a35d80de8ac3f0977c3ccf796318755301e320dd7ecca9",
-    "titulo": "Mercado melhora previsão para inflação e PIB de 2026, mas mantém Selic em 13,75% - VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWZCalhFaG5KVEFFcUdxOTlwY0VUOXppQ2RORlkyMGkyS3JKSTh2U0JBZTFtaUZZb2phU1RhR1BZV1dwTXhUWVdnd0MwSXRHdGVtS3pWaVJCTUFJQk1mN1Vtb21uSjNzeGtBU0h4ak9BTzNHdlBRTmxTaUlnMlo3NjJ3QnRpZnU5d004SE1OSUgxTWJoYmh3QVpnTVNBYWh3Ql9rSlkxX3hOZ0lxT0VYVHc4RQ?oc=5",
-    "fonte": "VEJA",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-09-08 18:40:38",
     "chave": "8429ad782276808728524a779a51e23a2a26b743c39f0e12c77fe12253b14be8",
     "titulo": "Dow Jones hoje cai e petróleo sobe com ataques na Arábia Saudita; inflação dos EUA fica no radar - Estadão",
@@ -17392,6 +17373,21 @@
     "classes": [
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-01 01:09:53",
+    "chave": "1c4f7652c650c335129563644fe6f337c0f1457d784628e260539cb20ce95fdf",
+    "titulo": "Estatísticas fiscais - Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xWkpqRy1tUXNueW50ZnhvLXBvczA0ZFRiTUdLMzA3VTFfR18zdmVwQUZsYllrSkFhd0RBQWtvNlY4a3VtT0pxYUVOZi15ZG5GTmVqUVBSZENUaXF6R2xONWdvMDhEZw?oc=5",
+    "fonte": "Banco Central do Brasil",
+    "score": 13,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
