@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 31/10/2026 23:48
+# Relatório da Carteira ARCA — 01/11/2026 17:15
 
 ## Carteira monitorada
 
@@ -12,76 +12,92 @@
 
 ## Resumo
 
-Notícias coletadas agora: 47.
+Notícias coletadas agora: 46.
 Notícias novas, ainda não enviadas antes: 18.
 
-Foram selecionadas 8 notícias relevantes para este envio: 2 de alto impacto, 1 de médio impacto e 5 de baixo impacto.
+Foram selecionadas 10 notícias relevantes para este envio: 4 de alto impacto, 2 de médio impacto e 4 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Opinião - De Grão em Grão: Como dividir sua renda fixa entre CDI, prefixados e IPCA+? - Folha de S.Paulo
+### 1. Decisão do Copom sobre Selic é ponto alto da agenda da semana mais curta - Valor Investe
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Folha de S.Paulo
+- Fonte: Valor Investe
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPajBiUWtFekFNZ1MzUHBya2xfOW4yLWFRTUMzc1ZKeV9QUU5tTU5KQTdmQVFwYmhOcnY2S1RESHNWYktWaENjeTlrSGliS3YyQXlFcm9XSERmenI3elM3aEtqRFZQQzFmZWhyV1l3bVpLWHg0WlV0QmxfZ2QxV2JlQTlMcTRXVXprUnpJQ2lzeHQ4allRYkZJM2J6al9hcmhBc1lpclYzZGI4T1BEdlJtYWhvY290SEZ4SnlGVGRB?oc=5
+- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeXhqVzRmUW1FZ1dqRXROSWx5bl96MkVtRE5DM3ZqMjR3S05tZjBfU1ByRDdVUjhNOUl0YnVRMzl0M1Y4a2dxWlJCWnY0T1pmZ2kzb3dsT2ZfOUNndXRjVnBDMTNBZ0l0QmhqeGVudFRhS2tkZjliLWZiTkJCOGhFc09qRnRLbENuR1pnUHVyLXNRZV9XaVAyTWdDTlJBV3ZQbjFkQTB6NlBqTlR1cWtfWDRLRE0yTFk5cW9XMFFJRlVFTnZ2WWtITmRrMll5bllBdktvZ0wwRjZFTy1fa01hNXhmQ3owN1nSAfYBQVVfeXFMT3FlN2RwWDFHZWZuYzdDNHRGZEMtR28xUEhiRXMxYThwa2xhTFYzWHNOSzJQZ0c0a1ZVS0Y3cjBkNlNaT1RwY1dNRjBCMlNzNEs4UG8tZWFmQ3kydzBrQzIwWFdfaTE2R3JnNGRsZ3g2dDZJMC1CaGlFTGlfNWJoNEkzWnZIN05zRHRJTDdKekdkckwwUkJ0Y1I3OXZGT1J1U2ZqRnFRbEJoOUdIRkF6N1pCUVNvSm1rN0lOX0xSbXZBdDlOM2xBSExiZDV4MUJVaUpRWUowTUlTbTMyWlAzckgyN1RtUnc1dVBzaW9FMW5GdFZMOVZR?oc=5
 
-### 2. Ibovespa cai 9,88% em outubro; dólar turismo e comercial avançam 5% - Poder360
+### 2. Queda da Selic? Copom e payroll dividem atenções em semana mais curta no Brasil; veja a agenda - Money Times
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Poder360
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzBQWVpRS003cFVVeWdzWG1LVUpIcmR6dkwyQk53dXZDMExyQzdSRnlhOWtGS1VLdFhNSXRGblF4QzktOG5ISG5KLXUzWm9TRms3WGl0U3M1bkR0NU8tRlBxMFNPQ3dtcWJ0dDl3aWNXS2RLOTNrT0E0OXhHSFBHSWhFTXFMbTE2QWVwdTY0WDlneTRXal9LMWU3a0Rmb0U1UlpFSmxNQ0pRUEk?oc=5
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: Money Times
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTJ4TVpDTWlwdmgzV05UZDREZFJNOHVzOGhzMDQtM3NOOVpMNXhJdXB1eEhib2ptU2tOOXRpbnFJamc1dUhYLS1jZXZreU8tYVBTYzFQUlpKa1c0VFpmZjBnYm5xbWxRUndwWHgxN1hkZmNXWWxCZmkxY0NGNThTS3kzVG51RnU1cWw4UVVjR3FWNVZkd1pzdzB0YjJDZjZhUzUzeWwtc1E4enVUNEpKTmZPQ0NQTGdsR1prOFB6S1g?oc=5
 
-### 3. KNCR11 anuncia menor pagamento de dividendos em 4 meses; saiba valor - Fiis
+### 3. Pra começar a semana: Lula começa a montar o novo governo, Copom define juros e EUA votam - UOL Notícias
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11, CDB 100% CDI
+- Fonte: UOL Notícias
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeFV1R2VDcW9zeU01R1VZb0x4MER2NHkycEh5Nl9DNXlGZE1CMW16TmlDNDRvbVk3enNCRkoxN0d3QjBPY21QY0JLYl9obUlVRkl6R1FxSEpCdHM2eHBaZmJqdEhHS25UTl8wanVQQkhuMThWWGY5Q3NQdFpab1NJRmFPdUhzQ2luekx2M0ctQlR6dTR1Rlhyd0xJR0tyQ0Zoc0MwMk9YMXZ4TC1KY1Ytc19PZDhNUllHN3FWZFk2bkVDb21VdWV4WkZMWG96WTVHX1FxQ0ZkdTYxLXNkVVE?oc=5
+
+### 4. Copom decide Selic pela 1ª vez após eleições e EUA divulgam payroll; o que move o mercado na semana - Estadão
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
+- Fonte: Estadão
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOVR0SXVTaFFScWV1VkZqVV9USjlxY2w5NjRVQU5Nb0ZVV1MycHpiWGNUR3pPRGxONVl4QlJwYlRtSmxnd04wYmtRT0RaZXI5VE1LZWdVcnU4eFdqbm10TWtLNURlOUR1UXVRakczblBhTUdfQzhSOWF0cWZNQUJBN3dtdHpyUS1KSDhicm0wYXhXSzBlNDdUMkM1U1RWWVJ4YmFXREVnTU9SU3hzb2V2aFhER01iWFdYbUZjRkRjXzh5M1d1MUlQS21ZS1FTaWhfZFpXNnl1a01OS1ZJT2c2dkNoUTFHZWhMTXEwbdIB8gFBVV95cUxPNFRxa19LZmdMZjR1QzFYN1F3SmEzNnpFb1psY0JkOTl6ZHROMnJncE5QSVRmaVAwZ1c1QUt2bExvb2NsdFd4M3ZzeDZLeC1ObkNHTHQyeHRvaUdrMS1rSDltU3Ita1VEZVAtZ0Z3VjFXaFlEQS1BUFlGVEdFV0NlTFBhUnBoTHRQNThBa2FQSGw2TmpjZWNyWDFZRFQxWkpMWWx3RGgyaFg0S3FQN0g2TXFYSmxuZ2pUdjM5cXY3dzNMTVhvak1YZWp6MEVhdEtvLXhiTlBiUmduWmt2SGhOR1JtZzE0bTBmTXA2ekR5TkRjQQ?oc=5
+
+### 5. Nasdaq tem pior mês em mais de um ano com temores sobre IA - CNN Brasil
 
 - Impacto: Médio
-- Ativos afetados: KNCR11
-- Fonte: Fiis
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEFmRjdmRkxxTFkwOVFKYTZFVzZpZUh4dUpEcWJrdmoxbFZpZUI2Y3pwRXJCZ0Jrc0lpVFd4NHF5b1JSR2w1WTJEY3hxcWhvbUtaX3dwaGJ6VXlseGxTVDRVTk5ZX1VfVTRhcmc5dVF6N0xOT2hLaWVZdmNIZzFPYmQzZTlzTEU0MGNieVQ4UkYzdlFRc3c?oc=5
+- Ativos afetados: WRLD11
+- Fonte: CNN Brasil
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1hfVnFIaktad3B5SXJLQjZCWVdFY2puenFWVTBUV3BqRW5kMDRaN3VQSVFmSVR6YkYyWHZqWHlfZWkyaEU4V1JkeV9jTVEtZzlNYlBaMF9GMURQRzFEYzNzUndFWXYxNFptRUZhS2lram8xOGdxYmt1ZFdfd2otZXYzYkRIR0U3VWpxN0N4M2NLSTBFeldaVnlZbWZwZWtGZ0FEdnNwcHl1RWpUS0l3Sg?oc=5
 
-### 4. ELON MUSK INVESTE US$ 1 BILHÃO NA EMPRESA CONTROLADORA DA CNN E SE TORNA SÓCIO INDIRETO DA EMISSORA - Diário 360
+### 6. O índice Nasdaq, que reúne principalmente empresas de tecnologia negociadas na bolsa dos Estados Unidos, atingiu nesta sexta-feira (30) o menor nível em quase três meses. A queda foi impulsionada por preocupações dos investidores com os gastos cre - Instagram
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Instagram
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lRU55TXdNajRYZHhFODAzbHY1YUZhTzU0amRsRU9yWnZFVmRwaFhhY1BPWHBOYW5pVVR0VHJERnJYWlpqWVNnTW4yWWJRRDdWaVE?oc=5
+
+### 7. SpaceX capta US$ 40 bilhões para comprar chips de IA; entenda o plano de Musk - Times Brasil | CNBC
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Diário 360
+- Fonte: Times Brasil | CNBC
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2ZuUk5KMmRoVXpJZ1dBUkRWbURUQ0N4ZGc2aXdvOFAwRzRJbjFUWWt1dDgtcnJwQTdPYkZsSlp4eks2cGJBQWJBSjVFd253R0UxcHJ1VVF3QmV2NTRrRVZxY3p3dUFad2ZqQ3dsXzlCMjQxall6dFBfMWI3NGUyYkxFaXFlT0lXRkhqVzZJRXpLUWJYNkhmS2tZMllpWmtvZDlyZzJQV3N2dDF1ek5XYXpXd1JUZDhZTHBtbjdaLXBKN1o4QlJSZkJaUnBzY2xa?oc=5
+- Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNMXRMQWRGclAtclhKTTF3OW9pZy1jVjZYT2NYRHJCMWhzRTNwcFdWMmtycEEyTXdlS1RSRE5raXVOdnpHbzcyTkU2RTE0SUV4RTZOdmZ6NlV2M2piVVZkY2JzNThXWEJBU3o2dmo4MkVwdmM5dVlhMkgtUENZdC1PT25RUERNRTZrdzdlejVKVWc?oc=5
 
-### 5. SpaceX planeja comprar bairro inteiro para escapar de processo por barulho de data center do Grok - TudoCelular.com
+### 8. Tesla e SpaceX querem construir o Terafab, uma fábrica com metas ambiciosas que podem mudar a produção de chips - Revista Oeste
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: TudoCelular.com
+- Fonte: Revista Oeste
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDlMM3R0UHFmQ0NBTEowa0JDQUg1bzBxb1ZzRFRza08ydVJvckhLODRfV1BxRTBTb0Z3WHdrTW9JQ0FDQi04UU5TWFRfSTY1cFREVXFydTZhYVpncm52NXJzQ2JrQ2RZVTBfZkhWaV83bFVSanFlcFBwbDYyOVFqUnFPN2s3T3k4SVhwUVVuNFlvcDNsUUxEY0pRWkVxVXV3TUFEMVVyTG5yYTdJ?oc=5
+- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT2xyUjhTM09xT3NxVW01aHhiTTdwUlVlU0QwZGZPZ1ZnckVjSDc3YjNLQmZXM3g0cUVTaHlkUzdKMTBSXzJ6N2hKcFo5aGd0SWpwQ1pmSVlobkpoRVhZQmQ1dWtHUnI4V3FZRWVMYnFFbGxvbkVDWDRhczgyLXpuWWgxakctcld3dzNLYnR2QkNhSnFCNy0tVTR1MVc1bnRnMUs0ZWdvWS03R2FockdYS0NyN2RBUzRqVGpBcW9rVHNiQTlHWGZQcUNZU1FxckpFVWNuNkl5TDRrQ1lwYVNpYk9IUy1WSlFPYVlpVW1aQQ?oc=5
 
-### 6. André Roncaglia entra no radar para diretoria do Banco Central - VEJA
+### 9. Tesla e SpaceX: potencial de negócio ou jogada de marketing? - Meio e Mensagem
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Meio e Mensagem
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2xOS001R0pDSTJlcjRwbFl3ZWFaemdFMGRBWHJmWXphUHVNamlNaFM2N3hiSkZ6OVZUelMwY3M3TWduNVU2a2hQS2VvbWlDT1FWRmpNMWRaUGR1T3cyRnBlbEd2UUJKOHk3LXE2WHJ2M1psSVFQSzlvVFZobzVZbHdabmo0T2ZjS0g5aUV0TThqbjRELXVEVWw1NGc4T2FlbzNB?oc=5
+
+### 10. Christine Lagarde renuncia à presidência do Banco Central Europeu - Agência Brasil
 
 - Impacto: Baixo
 - Ativos afetados: CDB 100% CDI
-- Fonte: VEJA
+- Fonte: Agência Brasil
 - Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnRXX2t5bVcwcXpHeFpFSnZPQjZvU01YRXJHSnZZdFF0S2JCUElFOFBreHo2cS1WVkZCbGt2T0UtbXkwZnFvc2JaY0FkbWR2ZExhRlA2Z2VSVzJaVUZpckZTV2Z0RWdoZXZCSzc5WHpNbEpSaklkeHNCSzlQdXFTbnBoWGhLazBBYmhUNzhtUDZYNnFqWVpUbks1ekVrTUU?oc=5
-
-### 7. Christine Lagarde, presidente do Banco Central Europeu, renuncia e deixará cargo em fevereiro - G1
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: G1
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcEFzVjhVRVZab3VJUzg1bTRNVVdVYjQ5eXVhVWNBelhDSXlBTDEycGdKRWZrQlgwOEc2Mi1xR2xzUFZFM29WdHdvODBacW84T0tDR21PNnY0dHk3VTZrWGV5M0ctOUJBZUtFS0NkRnZrN2dRdUhLOXRweDBsbDViY0FNVU4zT082ZENIclU2NVhuQzN0Y3BzMlRTcG55QXhlSzBGVWdqaGF3azdObktlQ1BGZmhVcWlPU1dSc2t0TmNWTlFHdHUxTnU3VVppa0JpVUFXalFJNnpqS2M00gHrAUFVX3lxTFBFSnItRWdKN1BvXzFmZTBKaEY4anNkTXpxbWFSOTVMbC00bkhBbF9TVVh4eEV1Q0g3cmhOVTBWOUdtaElwY0RKNE01YUZVS0c4dl83Z2hpRGxZREF1UHFOal9XM1o3UldfbDVfdEdtNE1XaTNabEJ3cDVnTkhiREpCc3RNR2J5TUhDT0Zwc0VyRjlCbnFVMzc5ejhkWFJ3c1RpeW81YU9IaHd2LUdVQnJSY2VRdzRaMEdZZUtEaU9kaHlyRlVpOEdWUkkzcXZGQ3poVndVM1pFNXVXMlhNbS0ySUphZy1XUG8xTEU?oc=5
-
-### 8. Mais uma liquidação: Banco Central tira do ar empresa que operava nos bastidores do Pix após encontrar "graves violações" - Seu Dinheiro
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Seu Dinheiro
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRmc4Y2J5MEVtWlllY1VIYzgxOU1KeVU1aEVydHdLR2dPTXdJN1VzN2liZGV4bk1LSHE5bFRJVTRCcndYSjVCMXdiRTdpY0NmQl9EZmFOZHFIbER5RDZsUFBGaUNjNlZsUklkZ2xYVzVtaXB4RjdWOUJRczE3akdkbGNOcjFScXQ0emhnSzF0cjFPampuWDBlSGRCbE1pdTA1aFV1bEkwbnpSY0hoZWpleFNqZU5VNkxIaWdwLWJINDYxLU1rQXJ5SXpvMlJseGhEdml4cEwwZkNKSHE2S2MxSDA4N3JuVnZqM19yUzRfY1dxQ19BZnBLWE5R?oc=5
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNa2tDOXNFSUJ5V0MwekVIX3Y5eklaVk1Pa0s2MkZidHpBN2ltckw5S0kwTG04SmNLQ0JXWDBlMU1kcXktOE9IejRPa09qbWFrVGtfUGd3MGRGM1hOYURNakc3RnNqdnctOGNkZ19FQkxtZG15cmpIemdELWs2dVlQOW5UM1l3Y3MzODlIU3B5dk5CVk42V1FtRDJNMUlTNU1aQ0cyUTNlUWw0MUJDOVViWklEczl4ckkzYXhCZTFVZDNwZEdi?oc=5
 
 ## Conclusão para o próximo aporte
 
