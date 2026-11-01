@@ -1,46 +1,109 @@
 [
   {
-    "titulo": "O que está em jogo na disputa pelo comando da Vale (VALE3) e o risco para dividendos e ações - Estadão",
-    "resumo": "O que está em jogo na disputa pelo comando da Vale (VALE3) e o risco para dividendos e ações Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZDRiMWhPSzljSk0wc0FJUDh5djFocG9XeGt0VXVoRXJuTnd1dDMtMFlkTFJGMDU1Q2RHZUFEOFdTeWZpY2F3QWctYXhMdmZWbGtNRXJXeWo0elRLSENJNWZQNV9JRHBuVWpjQzcwa3ZoZTdaenpxRUYtazd5YVJnYTExMmJtMFJ2SURLYzZfOGVieG9iZ0ZwaF9iR0p6VTNQb0lOV0NIWjdJTnlBN3N1UGF2c3NDeF9sU3NpVElJd1Nwbm50RXloQ0dPcEN4UVJjNkhteDlYZU9TYTNPbzVyTDZtMXZaX2VZZ1c4?oc=5",
-    "fonte": "Estadão",
-    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
-    "chave": "6d849379805a435b7ab05113f35b3e3850d09a42230493b57091b1320689c848",
+    "titulo": "Queda da Selic? Copom e payroll dividem atenções em semana mais curta no Brasil; veja a agenda - Money Times",
+    "resumo": "Queda da Selic? Copom e payroll dividem atenções em semana mais curta no Brasil; veja a agenda Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTJ4TVpDTWlwdmgzV05UZDREZFJNOHVzOGhzMDQtM3NOOVpMNXhJdXB1eEhib2ptU2tOOXRpbnFJamc1dUhYLS1jZXZreU8tYVBTYzFQUlpKa1c0VFpmZjBnYm5xbWxRUndwWHgxN1hkZmNXWWxCZmkxY0NGNThTS3kzVG51RnU1cWw4UVVjR3FWNVZkd1pzdzB0YjJDZjZhUzUzeWwtc1E4enVUNEpKTmZPQ0NQTGdsR1prOFB6S1g?oc=5",
+    "fonte": "Money Times",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1d687d658f3d5a59f2bf3a57edc0cb7bae7258b48bcb2246394abaa6615e6472",
     "ativos": [
-      "IBOB11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Bolsas de NY sobem com perspectiva de acordo EUA-Irã; taxas de Treasuries e dólar caem - Valor Econômico",
-    "resumo": "Bolsas de NY sobem com perspectiva de acordo EUA-Irã; taxas de Treasuries e dólar caem Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmQ4T3g5NUtxblNXcGhsajJiN3g5T1I2QlFydEhwVjZDenE2T1ltTnJ4SW5rNkZYM0dsWUZRdjRRWHhSN20zakc3V25EZ1lHZTBxN0JnWjhXRlpfVk81enNHTThNYU84YVoyeW1PNElsOGRiV2tLUWNuVEVNWUhOb0Z5bUQ2VloyR1J3SURBZ1A3TjNzZEdQUU56UGpKWHkwUl9CdFNGRUlXYTlQSHRESFRRZTYtd9IBxAFBVV95cUxQLWlrVk1XaXVfX3lEZk5HRjBMQUlmOXlHZFJUcEU2a3NJRzlqU2tONlB5X1JuUjRmT2g4NE9QcFZ5UmVqSmoydzBELWxWaHNvTmt6RFBhbF9DZkR3X2dGMThzQ2taZmY2SXgyWHZHdkgyby13bTh6QTQ3eU80VnlqVDZNY0VQNTF6WFF4dnFsQl9LYTJtSFA4OUUycWRybFpjQW91eU9wa1Y0T3FsOENRbmpzLUwwdWEtcU8yd3VVbTBXUnVt?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "0c1ed929caf09340f6a2c9d68e1b0b52fbdb5a2f2d551d1554c24882dc31f20b",
+    "titulo": "Copom decide Selic pela 1ª vez após eleições e EUA divulgam payroll; o que move o mercado na semana - Estadão",
+    "resumo": "Copom decide Selic pela 1ª vez após eleições e EUA divulgam payroll; o que move o mercado na semana Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2Y3Y2ZfdFBkOTAxTDFmUzZNbHRxeFBZLTZBMFBFZnktRVg2Q1padDFrVENodW5HV3B2MHlDYmlSTG4xTlRfOHV3NHVKbXQ3V2NQWEh5OEVpSzdicHRUXzJFZjQtYUZzU1Q1WHBLdllZWnVWMlRlUkJzYjRkNmFFdy1rcGZrdC1vZVE5by0tSGlNcnJ2RDlQMHU1X3laNFVMbThDb0tweXBwRnZVNmx3QWt5QjZ3UnZCeWNHb3d2ZjlINzZQTWFhbFBsUGJmcHJoc2htY1FYNVk3UWhkZ3o1WkQwYlRFU1VDRjdUUTJJZ0pvYXpHV0FR?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "7e12db3b314e3c5543e7aae10351dd2edc1fcf5f46dac8d8a0a978b05a5390fc",
     "ativos": [
-      "WRLD11"
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom decide Selic pela 1ª vez após eleições e EUA divulgam payroll; o que move o mercado na semana - Estadão",
+    "resumo": "Copom decide Selic pela 1ª vez após eleições e EUA divulgam payroll; o que move o mercado na semana Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOVR0SXVTaFFScWV1VkZqVV9USjlxY2w5NjRVQU5Nb0ZVV1MycHpiWGNUR3pPRGxONVl4QlJwYlRtSmxnd04wYmtRT0RaZXI5VE1LZWdVcnU4eFdqbm10TWtLNURlOUR1UXVRakczblBhTUdfQzhSOWF0cWZNQUJBN3dtdHpyUS1KSDhicm0wYXhXSzBlNDdUMkM1U1RWWVJ4YmFXREVnTU9SU3hzb2V2aFhER01iWFdYbUZjRkRjXzh5M1d1MUlQS21ZS1FTaWhfZFpXNnl1a01OS1ZJT2c2dkNoUTFHZWhMTXEwbdIB8gFBVV95cUxPNFRxa19LZmdMZjR1QzFYN1F3SmEzNnpFb1psY0JkOTl6ZHROMnJncE5QSVRmaVAwZ1c1QUt2bExvb2NsdFd4M3ZzeDZLeC1ObkNHTHQyeHRvaUdrMS1rSDltU3Ita1VEZVAtZ0Z3VjFXaFlEQS1BUFlGVEdFV0NlTFBhUnBoTHRQNThBa2FQSGw2TmpjZWNyWDFZRFQxWkpMWWx3RGgyaFg0S3FQN0g2TXFYSmxuZ2pUdjM5cXY3dzNMTVhvak1YZWp6MEVhdEtvLXhiTlBiUmduWmt2SGhOR1JtZzE0bTBmTXA2ekR5TkRjQQ?oc=5",
+    "fonte": "Estadão",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "1be1eb3212ef9381cfd8f020d2fc13624ebfefcf4edc42356043e40e4837add1",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Agenda de mercados: Copom, ‘payroll’ e ‘midterms’ no foco - Valor Econômico",
+    "resumo": "Agenda de mercados: Copom, ‘payroll’ e ‘midterms’ no foco Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHF0N2lrSFhwamUzR0haQVA3UlppOTFmR0paSHBjRkE3WUtjTDZpZ21XSzYzcWtEVXNja2RlVnZqVWdqUF9IQ1BaVEhsaHhZRllkME1Ud0I1MkZHdjU5WktRUFF2SFBQNldoSVJGSmpkbG1zQlgxazZuSHFBUmhWdVZsa2RkNGhJSzVEMG0zYV9PeDJCZDBzdzN1d1ljaVc3RlM5ajRBQkpGcXNFamfSAbwBQVVfeXFMTkFpdnpHaWJoaUxTUUZ2YXhLbEJzNWliWDZjclVEd3gzZW9HcEpwRWE4VXU4c1R0anhMWkhkNkp3UVZuekhLSDFWZjFJZUFncmY1Xy1WZy0yZnQ5QTNaOWRoeVNFNUZQSF8wR3hYdk83N0FjamxtZ0xncS1OQmp2MFh0VFZxYXVUQ1dDdEVXVDN2YXZtUEppUGIzR041ZS1XZ0xfbEpURmMxekV4eW01ZXVnNFl5VTY1aHMxZlo?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "74c7380e9ca562ede3e69554e6518032f2c44b3d330d812137a705c584b01cd5",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
