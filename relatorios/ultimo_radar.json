@@ -1,23 +1,44 @@
 [
   {
-    "titulo": "Estatísticas fiscais - Banco Central do Brasil",
-    "resumo": "Estatísticas fiscais Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xWkpqRy1tUXNueW50ZnhvLXBvczA0ZFRiTUdLMzA3VTFfR18zdmVwQUZsYllrSkFhd0RBQWtvNlY4a3VtT0pxYUVOZi15ZG5GTmVqUVBSZENUaXF6R2xONWdvMDhEZw?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "1c4f7652c650c335129563644fe6f337c0f1457d784628e260539cb20ce95fdf",
+    "titulo": "O que está em jogo na disputa pelo comando da Vale (VALE3) e o risco para dividendos e ações - Estadão",
+    "resumo": "O que está em jogo na disputa pelo comando da Vale (VALE3) e o risco para dividendos e ações Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZDRiMWhPSzljSk0wc0FJUDh5djFocG9XeGt0VXVoRXJuTnd1dDMtMFlkTFJGMDU1Q2RHZUFEOFdTeWZpY2F3QWctYXhMdmZWbGtNRXJXeWo0elRLSENJNWZQNV9JRHBuVWpjQzcwa3ZoZTdaenpxRUYtazd5YVJnYTExMmJtMFJ2SURLYzZfOGVieG9iZ0ZwaF9iR0p6VTNQb0lOV0NIWjdJTnlBN3N1UGF2c3NDeF9sU3NpVElJd1Nwbm50RXloQ0dPcEN4UVJjNkhteDlYZU9TYTNPbzVyTDZtMXZaX2VZZ1c4?oc=5",
+    "fonte": "Estadão",
+    "consulta": "ações oportunidade compra bolsa brasileira dividendos preço alvo",
+    "chave": "6d849379805a435b7ab05113f35b3e3850d09a42230493b57091b1320689c848",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil"
     ],
-    "score": 13,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Bolsas de NY sobem com perspectiva de acordo EUA-Irã; taxas de Treasuries e dólar caem - Valor Econômico",
+    "resumo": "Bolsas de NY sobem com perspectiva de acordo EUA-Irã; taxas de Treasuries e dólar caem Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmQ4T3g5NUtxblNXcGhsajJiN3g5T1I2QlFydEhwVjZDenE2T1ltTnJ4SW5rNkZYM0dsWUZRdjRRWHhSN20zakc3V25EZ1lHZTBxN0JnWjhXRlpfVk81enNHTThNYU84YVoyeW1PNElsOGRiV2tLUWNuVEVNWUhOb0Z5bUQ2VloyR1J3SURBZ1A3TjNzZEdQUU56UGpKWHkwUl9CdFNGRUlXYTlQSHRESFRRZTYtd9IBxAFBVV95cUxQLWlrVk1XaXVfX3lEZk5HRjBMQUlmOXlHZFJUcEU2a3NJRzlqU2tONlB5X1JuUjRmT2g4NE9QcFZ5UmVqSmoydzBELWxWaHNvTmt6RFBhbF9DZkR3X2dGMThzQ2taZmY2SXgyWHZHdkgyby13bTh6QTQ3eU80VnlqVDZNY0VQNTF6WFF4dnFsQl9LYTJtSFA4OUUycWRybFpjQW91eU9wa1Y0T3FsOENRbmpzLUwwdWEtcU8yd3VVbTBXUnVt?oc=5",
+    "fonte": "Valor Econômico",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "0c1ed929caf09340f6a2c9d68e1b0b52fbdb5a2f2d551d1554c24882dc31f20b",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
