@@ -1,19 +1,18 @@
 [
   {
-    "titulo": "IPO da Anthropic: S-1 público propõe listagem na Nasdaq - NeoTeo",
-    "resumo": "IPO da Anthropic: S-1 público propõe listagem na Nasdaq NeoTeo",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOclNzNDZkeFJJWDE3bmFsOG9VbktsU212eUF0NG5RczBTbHFOSlViMFlvbnRvcTQ3LUxfa21PdEljZ1E2UGwxTzFrWjdnZi1MNTlXVm1DSlBPa0pmQl9yZ1dKNDdPV0ZUNmRmZk5jZjhHb0NiZlhvSWRkUTRpTDIwblJQTQ?oc=5",
-    "fonte": "NeoTeo",
-    "consulta": "Nasdaq IPO OR NYSE IPO OR IPO market OR upcoming IPO",
-    "chave": "a449b73d3ae41ac780178c1c769b54f4d90a3b3e7dec1e19934c43535bb006fd",
+    "titulo": "IPO: o que é? Entenda tudo sobre Oferta Pública Inicial - Estadão",
+    "resumo": "IPO: o que é? Entenda tudo sobre Oferta Pública Inicial Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVTJURnZPVGdOd3N0SkVwellnNXN1am9LTUhORVZQU20xQkF6MkswWkVITEVaVjJSbk56U2htN0NNM2RJMzUyQ2VKcm1fakdmOWRBZ3J6MEdSRFlKQl9VaUx4dGxqME9fNkx5TXZiTHFQVlBBc183bV95cllGTnZCdDJFWnc4YWNSZy1nMzlkZVJvc0NsOVRSc19TZjVQd1lyQ0NHYjBUYWzSAagBQVVfeXFMUFUyVEZ2T1RnTndzdEpFcHpZZzVzdWpvS01ITkVWUFNtMUJBejJLMFpFSExFWlYyUm5OelNobTdDTTNkSTM1MkNlSnJtX2pHZjlkQWdyejBHUkRZSkJfVWlMeHRsajBPXzZMeU12YkxxUFZQQXNfN21feXJZRk52QnQyRVp3OGFjUmctZzM5ZGVSb3NDbDlUUnNfU2Y1UHdZckNDR2IwVGFs?oc=5",
+    "fonte": "Estadão",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "6dcf86eaf4792d0d7c9e86d6519ebbc9a8db1473292f92378dcedf5be73fad4a",
     "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa",
-      "envolve bolsa, regulador ou mercado externo"
+      "cita oferta pública, follow-on ou emissão de ações"
     ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   }
 ]
