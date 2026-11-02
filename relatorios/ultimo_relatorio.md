@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 01/11/2026 23:58
+# Relatório da Carteira ARCA — 02/11/2026 20:53
 
 ## Carteira monitorada
 
@@ -12,92 +12,132 @@
 
 ## Resumo
 
-Notícias coletadas agora: 46.
-Notícias novas, ainda não enviadas antes: 19.
+Notícias coletadas agora: 44.
+Notícias novas, ainda não enviadas antes: 33.
 
-Foram selecionadas 10 notícias relevantes para este envio: 7 de alto impacto, 2 de médio impacto e 1 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 11 de alto impacto, 4 de médio impacto e 0 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Proposta de Lara Resende para limitar Selic assusta mercado; Durigan nega discussão no governo - Folha de S.Paulo
+### 1. Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado - Jornal do Comércio
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Folha de S.Paulo
+- Fonte: Jornal do Comércio
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXQ2MGdQak9EVjdGVVNSZGpoX3h3SXJudi0xUzBZNUV0NXJDdVZQU1ZVMGgyY0Z0N0djbjFzWDFMWWZPNjJlbTltbGxoYTlZTjR0bHJsUVdrTm9qMUhTXzkxenZNclAwXzcwQWJTOHNyaTFiSkJILVJ0dTh6QVRQRHVpSzlKbTh6VXlGZE1iZXNLRkI3LWExakFUUW0zNmcxZ2VzZzRaZzhtOTZsWjFXYVNETkVPanhhRzd1QTF3ZTVmaDJ2b1BGcjdVOTR1a2M4R2c?oc=5
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHdEd21kYVdESEM0c1RwWUVFUmExWTFxQkY5Wnl2bmVKZlh5Z1hkNDhseGU3RHN6eks4UWhNWWI3OGdnM2Q2aEhfTmZXamJZSnJveW5BSzhLODdJWHJZSFhSSjRWRDFYRE5Ea0xQVWZuVWtUX1F3VWZZRkl5dzJ0UkJZQUgyNV9XdGNWaFFpSTg1aGdRZXVaUm03TnFDcjdNZllNc1FVYWswVWlyc0ZQWXdRV2VITlVKazNWcmVTWnFaRXg0eUhkOF9RRTFzMzhmczdBc21Cb1AxYngyNkZuQw?oc=5
 
-### 2. Uma proposta do economista André Lara Resende, um dos formuladores do Plano Real, para reduzir a taxa Selic por meio de um novo arranjo entre as políticas fiscal e monetária pode chegar ao presidente Luiz Inácio Lula da Silva (PT) e já provoca apreen - Instagram
+### 2. André Lara Resende quer conselho para levar Selic a 7,5% - Poder360
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Instagram
+- Fonte: Poder360
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RdFJUVy1JZWFiel9kQ2xtU3dmSnlBbXdmcWJvdWlCZVJkYXptaTZLUWJrRGNpdXE5aHZvcjlsVHowZFBremxVQWczUmtBM2o0Rmc?oc=5
+- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPYXlwdE9hZWU4X2pOVFhydG5sSmlHUVlHOVhnYVI1OEtHMERLSmxrVXh1S29mdDVQWk9tOG1DeEpzMjdqSUpVY2ZTbDhtMXplUlZZdGlUaWtKOGkxT1h3RmhJWC1ReGJzcVRHbjBtUjd4Z3JLcVN6TjZYNnBja2N5b1lJdGxEd3N1OTdGdWd2aXcyRlVxdEVOX2RRN2lOV2s?oc=5
 
-### 3. Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques - InfoMoney
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, CDB 100% CDI
-- Fonte: InfoMoney
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmM1aFI5emo1TXlUOTljUjk4TEpXZXo5QzlCSjk4NVlXWXhCV2tNMmp5QkRuM20zb0p6d05leXRDcmhMYURtbklUOFh5QkJzYzVTMnhpdGN4SU5ERzIxOHlCN0FjbFQtbUlFaVpfcjQxM1owV0Z5cVZWTm1OeVFlcUVIMUpPelJvYllBWUZSOEJHTE54M2NVa1ZzaWFLeEVQOG81UFZ2ci1IQkVyZ0o3NEpSZHNrT3pW0gG-AUFVX3lxTE9vQ2FoS09hN0VvSWRFLWhxLXFGS2FzNHJQaEswbG5SSm1ZM2RqOEhkVWZrdjdDdDZ0XzdRWGhsTFduSU40SDR2VkxVR1VfSXlEMVpDRGVJVEVlR19mQmVSbm9xYTBkc21SanEyR1hwRHotYnJ6N3VWUlJJWVJ0YUZRUlVWQzhKYWVDWW82TUF0WFFMbEtmcW9oR3NncXctaWRUS2c5UVd6ZXNmcnlxQXoydWZnZ0lLS1JkWkFqTHc?oc=5
-
-### 4. Proposta de Lara Resende para reduzir Selic a 7,5% chega ao radar de Lula e provoca apreensão no mercado financeiro - Brasil 247
+### 3. Mercado chega à semana do Copom com expectativa por fim do corte de juros - CNN Brasil
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Brasil 247
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEFyeHlaOUkxdlFDcy1zRnpLbWFScUFjbnUtLVk3Zkh3UHlaSzJUVTUyeWhvN3BGSDE0UTNTUmw3cWJwMkZ6VEhVb1I2RExaY0ZHcUdYVERNVTVWQ095WXB1bWVhQk5YYW9kNWl0TS1wSzNMWVZ3ZGVLLUw0Rko0Q21VRE52U2FjZFg1VzZLMnNVUnduWHNHSjF3ZVpZeTFMa2RqbGNDcVJsLXVHNGpXVkpZWW5DYlVtZXdkTzc1WTR6dnVLUXZET1hnd2c0MlQ3clA5UDUydVJibExyX2prSUt4UQ?oc=5
-
-### 5. Midterms: Doações de Musk a republicanos chega a meio bilhão de dólares - CNN Brasil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, SPCX34
+- Ativos afetados: IBOB11, CDB 100% CDI
 - Fonte: CNN Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWtWOUx4T3VaVGh2cF9fRnZtTkc1YVc2YXlWRi1fNHJfQ3hIMng4dnBBR1VXT25MSXVDbFhTZjZtci1lMnZnMVlzTzV5Smx3dWNTOWlIbXhOX3dNNHVqdTJ6TnJXbXE1UUZaeTZmQkkxOHNNY0VZUXY0bkFNdkpfdG5IYno3XzdDYkVFeEp3UDZzR3dWdmpndUJLOTI5VEJzWmV2eHdoZWpUdw?oc=5
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVJsajR2QVc3dUVYTTE4MnU0Y3F0d1pOdEVRSmdESmEzZ2pseU14YVZHbkFTZXhzWVpkRkgzTXJhUUJpdHBsTE5DWWtDM1JYUE9nQW12dUZGa25HVm1yNDlfMkI5RU1jb0phVTdXOXE3N2plbTdSMW9IVHVwcldqTW11NFl2WlBuUE54WTBVRG56RzJqNUJ6SkFSWHNpbWpjU2tDcHFTcnh5UVpCZE9YUmhrR3pBRGNaTFJMQ0dHTnZjMWV1N3BtREgxUmQ?oc=5
 
-### 6. Eleições nos EUA: Elon Musk investe quase meio bilhão de dólares em campanhas republicanas - Rádio Itatiaia
+### 4. Banco Central deve manter Selic em 13,75% após turbulência nos mercados - Vero Notícias
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: Vero Notícias
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxONG9xRUpGUVNaYzNyV1FZTHh0U0hIU0x5TGtFNzNyU3FQYmQtNEhvZ05JdlVuTHhKN1A2Ql9YblpTQmhnMjJLdmxTWlRxcFpDbHk2RkVDZmdXc2djMkdUZnBEYVE1N2ZZU2FPNTlwMmdTNGNJRzQ0bzY1TEhWZWxzNzlOVGc2eGxUMGRRLU55X2NacDNBcm5yM0hScG90TGk0eUNZZVpIQQ?oc=5
+
+### 5. BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula - InfoMoney
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: InfoMoney
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOai1DQ296U0diZXA1WVB5T2lWWkJhbmdaWlI5MTdlbndrdGZHRjZsZ3RRTnI1d2FBck5ZRndET2taalFXYnFVNS1ZbTdOQ3g0bHdSNFJBSTF3alp4OGZFVzR4Q2V5VlBKMnJBYkNfcVJKSkhiazRPcUFMN3o1NjEyTS1nMklUU3NVTk1IbUpmVjl1QW1VN2F3RHpfaUtFWmctR0g3T25LQmTSAa4BQVVfeXFMTll1aWx4M2M4eGdnTW1kLVkxYU8ySGpDZWJFQ2dyM2JDRVBPTFozbFZEQVBwYUlWX2xPQi0weHpHR3VPcE1Ma18wZ3puaFpkYm0taWdjazNsekdzLVR5R0Ytc2tLWFVqaVRhTm9meUhzNngxZnlzMW9rTGZUeVBFQXlNSmk1bzlCTVJCZHlHSFRhUFp2TmZzUzZPSGVkZF8wTkNtYmN1Qk0yN21IN0h3?oc=5
+
+### 6. Dow Jones, Nasdaq e S&P 500: eleições de meio de mandato e resultados corporativos testam mercados - Investing.com Brasil - Finanças, Câmbio e Investimentos
+
+- Impacto: Alto
+- Ativos afetados: WRLD11
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdFJIakNad25zZS1xTHFwME9kZ09CekVpTjkyTXpDM2VYMHRaWlpJVkM3T0NoMXVqZVNTdTl5cTV3Y1ZUdHp2Mk9USUMzTlpQUkJ1LTMxcG5ORW1UWTl0UUN6bjVKbmNKUGJkS2tDOEF6NHlfVFlDamNMbWdHMGhBMjRONk9aMm1ORFl0T3V4RVNham1OQUFEQ1UxcmRXMFlhbUdkWFYtRTdDZVpoN0xodld1TE5zRTRzQUVvMzZrTWNSYXVwT3h6UmZDSk8wSkhSeUg5LXF3cXZuQnZFUlVZbDZMdW5Bdw?oc=5
+
+### 7. Eleição nos EUA: Musk testa o que quase meio bilhão de dólares pode fazer na corrida eleitoral americana - O GLOBO
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, WRLD11, SPCX34
-- Fonte: Rádio Itatiaia
+- Fonte: O GLOBO
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxQejk0TDNucmNRZnF1WFlDaFFaQ2p4TFA2WVdxbWlySDlsYzJ2empMNUwwLVVLSGJJSVQ0WVRNNC1VMUFtSE5LZ1pYT0xlYW9CYlUwQ2JIeFZQbkNGWjRWS0tkUlUtYS0tNjRXZU1rZlZzV3pfOWZyR1MxVGRaN2FDX1owaDN3VXd3dnc?oc=5
+- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUnA4Q1plYTJxLXJ5MlNVQWpNNjlmWVE0VDFSUEVsTXJBTW5feGw4cUhQUGR3MzRhQ2RyXy0wdlRoVURtcEkySWVsck9wdHF6UWlYTk04NS1xYkU0Zy1UbE1FekdCdDVxX0JuNjZ6T3luREx3LWtCaHNOT1pyUDFTTnlFVGhnaDZ1a2FYN2RiQ2tyMEo4VGV2ZHhKZHgtSG9CQWNfM09BYkdMTE5xUmRSNjBnLTJneXJSUjVnT1BQbEF2WFdtNUdFRmxfUmZONkQ1aS04Z0d6OGduUzFITVp0aHkwelc1MGNydzExWTJiXzfSAf8BQVVfeXFMUHRrVmRLQWpsZTNMSGJoRWFLaWlpdnRpMlppekR2UDREVUpFalM0ZTE3NDJ2SC1aZGJxbV84bDJmVEkyck5ObHJyYm53dFNVYzRqcFdDbDdPZkl5NG0yTGxWOFJMZkltU3BvMkI1RloxTjYzcEh5SUItNVpDNlZBMk9kLWlVME1YdldpTVRnbl84V090ZHYyeVl4a25iVjdGdjZvVER4UDFrdTc3Z2ZpVC1ST3h2V0pnVlA2LUxRY0VqMnF6cGRDMzdHX3dMejNmNENOa3JfVi1VOWNsdkpRblR1ZFNiSWdYWW0ya3EtMG9ZNEs3UlhHZGRVWkV4TEpn?oc=5
 
-### 7. Copom pode cortar Selic e payroll testa apostas sobre Fed; veja a agenda da semana - Times Brasil | CNBC
+### 8. Especialistas apontam para Copom mais conservador em 2027 - brazileconomy.com.br
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
-- Fonte: Times Brasil | CNBC
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ05iZFpud1MxaVBpdWxIWlJ1emJDaERWbHFiSlNMSWRzMWxIVzlrdGNrWDlQbzgtZmI5ODVuUVkyRWlPRnN6V09FWkxva2J0bnc3LXJDWm9nUEZ0alBiVm5BWXEtaDM2UzJfRW9NQTdET2duVXRzWFM1d1UyMV80V1prcU5oRW54UURGMlc1VmZjUHZzNzNCNlJRdDZWSmZxcmxCUHhKOV9zdTZORnFKUzBXcXgzQW8?oc=5
+- Ativos afetados: IBOB11, CDB 100% CDI
+- Fonte: brazileconomy.com.br
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUhEcmVpQ0xsVXJ0QzIwUmJXZGl1Y0tieUE1enc1NHpjQnBYWExFS2cybWFVZ1RKU2YzMXBWTThLTXNxODBSb3VfcUQzR0MwY0pjN3VialBUUlRGNzJLWDRFY1lXRDluZXpZNThoOG5vUGZmSTJVVGdmcmFqVTV5WVM3THRmWFFEUWRQaTlkMk9fbDBSdXJqMDRzWF80dlJkQThULXVtb0pQWWl4RVpmWk9R?oc=5
 
-### 8. S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra - InfoMoney
+### 9. BC: Copom se reúne nesta semana para definir taxa Selic - SBT News
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: SBT News
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGNndHBZTmFsdHh4V0o3ckNFbGFnZEtVdzBRS1AyZ2Q2Y25oZnctLURkYnFobi11Z3MwV1RrbGQ0OXhSbm5CeVJwSmV2RDFDSVpudm1zQXltYkotUURNN1ZjQVIwYmRoNEpKbGJvWkRTXzF3NTN3aEExTU9EZEU3by15bVVFbWVxVjFDREZKVzI1bGFPUF80ajdhMTZHV3M?oc=5
+
+### 10. Primeiro Copom após a eleição deve frustrar o governo Lula - VEJA
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, CDB 100% CDI
+- Fonte: VEJA
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWZ0NnpZbE9RTWZmc0MyZC1fTjJ5QUEyaWpXaENTeGRQclp3dFFkVVEyUkFZN1J3RmJhT1VNdkVPZk9YZHhJLW8xa2RRdW5xamdFbHdXNmxONzQ5ckJrMlFVZ2J6Z0h4dVpza0xTVnRBUGJqR0lJc19sWXU4Z3R0TkJDUFhfbVd4Ynl2VFd0Zm9qTzlMTGJfRzB3?oc=5
+
+### 11. Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes - Money Times
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: Money Times
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWtYRmRhTGJXVWotMUtmbnBQSEJfVzRXUkFhd2djcDE2c2prTm1qR2lXdmVfYU84dGFhLWRCam11ZkVJbEYtUnhWd1MxMkxZNTJOWHdlNzk3aXFEUFgtVGg3anhEOHlVZEdmdHBleUJFVkJROUR5VDlaRFlyaWlJcjE5WjJDR252elhfZHNuRVZvUjlxdVpzeUg1R0pRdDZnLVhZQWRvbnY3ZVhoYm55bUNQcTN6eWJqYzI5QlR5a2RVMy1Hb0tv?oc=5
+
+### 12. Economista de Plano Real acusa BC de causar rombo fiscal via juros - Agência Brasil
+
+- Impacto: Médio
+- Ativos afetados: IBOB11
+- Fonte: Agência Brasil
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxORklUNEVaYzJ2WFFkVUZkRVFTdFgtREVrRnFrOFppSlpaYWlxZnR5QzRHYjQ1emcxVjg3NUtVVThrTFRvRGlLazZjaVZhb0tIVTBuUjdFV1phS3lfRU1BbWFoMjllM1lRWHNWVG1fNXlvYmNjZkNkTVljdHNVT3gtNEhiVkNpTzZfSm1zQVl5eGYtWTVSQVkwT2pxX2RhY3FtUDd1dE5hSFZKNFFReEUySEpxdnJpRlJWMmNEWA?oc=5
+
+### 13. Por que um dos criadores do Plano Real quer limitar os juros no Brasil - VEJA
+
+- Impacto: Médio
+- Ativos afetados: KNCR11
+- Fonte: VEJA
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzc5OHBjdkY0aUdyb0xzZkkyMHR2WVJvN3hWR2VxeG9YWnpmR1VINy0zeThSTTJRNVZzWmF6OUVxaGt4cUdOZGpHdnRwLVJwd0dHejNfc2ZPcGpPYzBsQ1FwczVzMFdha0I2WWNsNmw4MjFSSnpTVm1UcXpZTlBnWFEzNV9Uem5pV3h2ek1ocFViVmE4U1BvSXUtVURhT0t2NkVob1pXdnZJUQ?oc=5
+
+### 14. O S&P 500 sobe; Apple e Palantir devem divulgar seus resultados - TradingView
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: InfoMoney
+- Fonte: TradingView
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFgzZHFSU2U0TVJobnE3Q043ZUNvM3BKNlVxZTd2VXZiSjNWQmwyanIzY193VkJNYkdRQlkyWG1DRkFFR2xkSGZKamh6aERUZi1FQzhTWUJBTXJYblczYjYzV0JWdVpISVBMa3hKLWh5TE1YNkczNHh0c3A3SlJqTThOc0otSHl5Tms2WXEyOVl5a29oQ21hamJnN085SmxJLXB1ZVV1dV9YLVpkN0NuemJRVVFVcFXSAbwBQVVfeXFMUE1UeHBBMkxsOTAwMFJPcV9jTWZ5U3djbS1hYlJPU0p5T3Z1YzJEOGdFV05jLWhLbUR4NjN4dEhwWmdCZ0xNMUtpWVJHWUp2dl9VU1hqRkVHeE5weGJZRUZ4TDN6SGRHQ1ZLRS00NlliSk12QWs4Q0xZR19MVWh5Y0w2WmRGWnE1WmdEb1VfLWRLb1Q5dmNnUUZ1SzN6eXhPdF9sdFdwdDFyMWZ4MjI0UmIxbzAyRGNueUdNOVY?oc=5
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5ORlZVNTNnRHY5NlhPaW5OM19MZVQ3Rmx6U1ZSbVgtUzN2bXhZd0NZUWdLM3ZQVUk1X3c0SmN6NkVWT3p3MzZJWVhvQUpZNk0wcGtGcWtKdGxLem1EYjJBYzE3UkpNWlVfM3lUT0RCanZ0T3h3UWNV?oc=5
 
-### 9. Gleisi elogia André Lara Resende, para quem o Banco Central agrava o desequilíbrio fiscal - Valor Econômico
+### 15. O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas - Money Times
 
 - Impacto: Médio
-- Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: Valor Econômico
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdGNEV3BBaUhicFlaV2lrS21jWjFPVE8xOUdBT2dIdUdJUlBvMW1zcXN6YWZQTDVNSmVGQURROV9qRHFqNU1NNE1YSW1nVktUbTBTT1pmYTItaHN6TmRjQzJIUmw2UTlzSHFXeDIwY2ZPeWRqUG5OVTNsOGhfcGY4YWV0aU83M1JIT0FmbzZXMmZKRU9ULUhCaFVtMWJ2MVFBWVNEV2ItSk43a3ZRWWZnQVFDR0tBMS13OFJyMUF3cmpTdlNhSXN6LUtvQnZrZ01GSmxyQXVhcHRiNVNV0gHrAUFVX3lxTE5jeW1idXpiZUVIMThKVlQ2akhsY19PR3RxNWMtWVRjdWljY0lIR2pMUmdLUXR4R0c4WGRFNERKRmlESlRkRnI2Q3NsTXhWdHJUSlZpYm5ZT0RYNHBuUkIxc2FwZDhkcTlNYzUtQzNFVHpjZmF3anZ5bGFqSjEyMzhLdU5CZG1YXzJGVUhWV0RpNThIN0VGbE9JcTd0ZnZURWFVdng1TG9vTlFlQ3R0VXd5eUNBMktQRWFaZ19XM29MZVQwTlZDdTI2M1ZUUGRwR0pjeE9LTFJhYnlEa1IyOUlOaXRFMW5pZ1lYdWc?oc=5
-
-### 10. Putin chama Musk de "verdadeiro gênio" por causa da Starlink - DW.com
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: DW.com
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjVLVVJRNi1jeGlacDQyRmx4NzRjT3h2cGxwNnNqclY1OWdjSFNjeWVvWDdZUUhlaEhJOTQxcUNPZEZGN0UtYXdDT0pRYWNBbzY3R2pia1JkU3Q4Xzd5ckM5Q0RRZEdpUnFjVjNXbUpHUEg3UkJjS1pJNHBHNUxSc1pvZ1QtU3VNQ3k4a2lZUTdyWm8zV2tiUTBWTmFsM0NL0gGgAUFVX3lxTE5scXVYSzFtREhUZVFud0NCenc5MkZDaVJjRUlldXlOdEJuM0lOQ2xLbmxsUm9YazFDR1pxVkotRTEzMXR5MHJFaTcyT0dwWHhTMHFLZVEwWWlGY0ZIR3F5YzBRbXlzRWllNEJwLUM4YkdoWnNMbHBEWUFCMng5RGwtdlJTLXdfRUx4YmFnVzZHWUI3a2dsQ3p6U2hPSnpkQUc?oc=5
+- Ativos afetados: WRLD11
+- Fonte: Money Times
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlR1OEJWd1FIR0R3U3ItaEpXbVM0d0tDTjFzb0Z6QjJXNnNqRmppUXM5U1R2M29zUHRDX3JVYU9KMlpnbTl4a1hFbU90NllobUF3YnBQUFB6OHVWNTI5LUIwTUxWWHBXaENOdUhIOXp1eVNaZHd2OFFad1NaUXFlTkVoMVkwbEF6UDh6cEhCU0pqLXBvQUNQcmxtd0RnbjJsT2VfWnRXOWxZTWVL?oc=5
 
 ## Conclusão para o próximo aporte
 
