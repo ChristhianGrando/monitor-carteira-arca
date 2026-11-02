@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "titulo": "A Anthropic planeja vender US$ 3,5 bilhões em ações para investidores japoneses em sua oferta pública inicial (IPO), segundo documentos apresentados - TradingView",
+    "resumo": "A Anthropic planeja vender US$ 3,5 bilhões em ações para investidores japoneses em sua oferta pública inicial (IPO), segundo documentos apresentados TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ibExSYWE0ZlpKak4xUVBJYkZLNE42dURPOHRtUlc5WWVqR2hEZkg4TnhhUlBmTUxyMDJwQ0phQTB0eDhPMndEczJnWC1WT1JLV215c2RweTN6Zmh2ZWdaU0h1dnNCMEF4YVM5ZjJDTkxZdnRHLXNB?oc=5",
+    "fonte": "TradingView",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "e0cd300ec8188d74cdb92fa2004eba3408ff4ed02ff10de9d01d0b0ff8c09db4",
+    "score": 12,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+  }
+]
