@@ -1,69 +1,5 @@
 [
   {
-    "data_envio": "2026-09-09 18:36:55",
-    "chave": "4120c8b6e90c24d112d61e70f5d6e5bda8e4375aa16eb17062af0c492415f43b",
-    "titulo": "Fed, banco central americano, avalia reduzir número de reuniões anuais - investnews.com.br",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2pkMGFTeXJjQ3FVZ3FOdUtOWGJiQXlFdDhyLWtOaTE3aUh6Y0lXRUFUZm1VRUJGQmNickdhaEJNeUZBU1dRYmVER2V6MkxPOFpjYzZZaWpmR1gxZnE1VkZzcW5mT25Cc0tOMzRvdFN4b2xYakFkcWlfUmE4dEtvU2NiVWVHbmI4NTBjRG0tZC1OWXFnX2VHSDc3cl85Q2RRWks5UEhPUdIBrAFBVV95cUxNUXJ1M3Q1b3p2TUNrSXFHVzRaQ080NzBiYjh6SENhZVowWjFIR2xmNVUwWkVYWmRhMTBqV0h2THgwUXAyV2V6RFJpeFJZUC1XWVpkaFdGYVhFUHB6NVVfRlY5U3JpVUZzcDVPLXVzOHY2LTdlMElfM3VMWFdBdUo1RWpIRFdEY1ZNSldMQzQ2VGRGT2ZqYVB1LVdicDFJQzFWbjNQWEVCWGlhQXVC?oc=5",
-    "fonte": "investnews.com.br",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-09 18:36:55",
-    "chave": "45f7794f55cddd739434d523eaaffd15c17c4498346fc33cc959b5c2530e6690",
-    "titulo": "Notícia Banco Central alerta: mais de 23,5 milhões de brasileiros ainda têm dinheiro esquecido nos bancos; veja se você é um deles - kinvo.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVWxDN0JTUE5lRjdfUExIV2Ezd1hwd3ZtSW5XSnhacFM2YmRJNGp4RktHWkgzaXFwUTNQMkw1T25VRnpXUEd6UmtoNE5tTHBXc0g2X04ybHhzT3BGM1VlN2ZRZGlmaERNUVV6emR0MHJrcW9EOHJrUWdidjJwbFdmS0g5Ukp4cEZnX2VLVm5WWXp5a3ZfZjEzb2hleGZSYmREZHBwQU8yN1RUV1FUX1FJM044ajYwQTY4VWU2N3FMZ09PV1RlMktWZ0taMWw4V1R4M2RqVnVIQVFwLWEzZ3hMWjU0Zw?oc=5",
-    "fonte": "kinvo.com.br",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-09 18:36:55",
-    "chave": "437bf98b8c8dec5b37447a7fd59df5308242ea26f081b76817d1db8aa41fd95c",
-    "titulo": "Pix internacional e mais novidades chegando, revela Banco Central - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUs5WHNoOVFXQ3FRV3ZwR3pNQlFJWWN2Rkcta3BiOWxIMGkwanIzT0Jzci1nQWx0cnhyTUpwZko1bTdjSEpSRkdZREJSYVRRS1NuVlh6NlRoWXZyNEpDOW83bTBQVEt0ZnVhMjhwOUJpM2NmVVFRNGZvZ0ltTDVMakFMYUtySHJKVWRsR2xheldEdHQ0SFJsaTdQM1BDemtfWkR3OEpzSVZOM09SQXVDSWZQLTl3bzFnM0tvOFJ3RHNqMkpS?oc=5",
-    "fonte": "Estadão",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-09 18:36:55",
-    "chave": "e5caf6802115bbaa85b057aeafd294264e4076b66c06bac3e477fbd88f66bda1",
-    "titulo": "Pix Automático passa por ajustes do Banco Central para cobranças recorrentes - contadores.cnt.br",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcDg1clM5NW16anRYOHNoVTktNTR0RHc4ZU9yTTB6OEJtSlZUQVdPam5HYjg3TlhpcWg1TVpFTUdUaHV3X19wclZvN1NQUlA1al9OMGFRYk10cjFhb0MtUlFIVTE0VGFpMENyUy1SNEg1and4UzJxTWNMcWJXa1pITU80UTVXTy1YaWgwalAwVFhMOFNVU0xPdEg0Wi1xWDNiSWdZMy1XbU45UmctLXJ0NlNwRlFpNS02d0FHT0c2dHJibU16TlNvWTdRb1paT1pRSEpvY1I4RExWWmZs?oc=5",
-    "fonte": "contadores.cnt.br",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-09 21:42:05",
     "chave": "73a6a3124ac5b7fd93326c07a8d35e5fa0857a2bd20931e0b0f564320964fe66",
     "titulo": "3 fundos imobiliários descontados podem se valorizar com queda da Selic - A Revista",
@@ -17418,6 +17354,76 @@
     ],
     "classes": [
       "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-11-03 06:47:18",
+    "chave": "e33ee6b6c5c350670dcbbb3c5c4ee925b6c0c3b0a88ef836e0d3ff3cc42170d1",
+    "titulo": "Selic a 7,5% para conter a dívida? Proposta de Lara Resende ganha apoio no PT e provoca reação - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOG1XNDRqd1R1Ul9WMFhmX01vU3ZMOFlrOENTanhHdjVZNUVZX0JGRUU1NE1fbnl6THYyUnB1b0tLR0lUTVBxQVJaQUtfa3FjRWdmTUg2U2N5Z3lRM2dXME1WclJlZVBnZVJCS3l0OGplVHA3alA1TWwxZ3F6NHhtRG9DSUlGX3B6YmRBb2dlZnpmdnNQX2VzczBZZmZ4bWxMUmthNnlUUFppWHNPNlBncXJfdjgyU0t5ek9tejZULWQ3VlhxQVE?oc=5",
+    "fonte": "Money Times",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-03 06:47:18",
+    "chave": "301e89dd2f3705752ed7e91c58dee61dc3e7986985841dc23fa6cce759a7311a",
+    "titulo": "Banco Central deve manter Selic em 13,75% após reeleição de Lula - Portal IN - Pompeu Vasconcelos - Portal IN - Pompeu Vasconcelos",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTS1PdGJJZ2tJLWtZNTYzVEthTkxVUW44WUFnWXdZX3E3SEJCOC1TUHktNnB6Vi1VN2hpMHlqdUQwQkMwQVNHVkZMVWZaSkJHWXlQZXpteU9oZm81aFROUUtlQlVZdWR0eGNSaWNSQl82djVtQ2tvdjh6UUVZOFdvRDVjLUs2Q2FMQ05wam1yVE1CTHFFZ2d0REV0YnB0MzZXUHc?oc=5",
+    "fonte": "Portal IN - Pompeu Vasconcelos",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-03 06:47:18",
+    "chave": "167a52f940f41c7f5ad758826bb27b08707894e983354b8f8a6244b542070d71",
+    "titulo": "Focus deve mostrar piora das expectativas antes do Copom - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2FfdnM0eVJLTndKVTJqNjh2NktlMWVoUmVOXzJIOUJBTms3Q3JuWmtFV19EWDkyQ3k1dEFfbXA3YmRKNFhvNUZXbHRXZFNDOUpKTk8wUy10X29pMV82cjF5WWctdlBNcEl5NndQcXJnMXFsLVJWbXQ2TVpILThnWXkyVlJsMHZtQjFBSWMzTm9oTV9VMTZSa1hHcHFMS2lHYVNpUkRuaGVKaEtDVm5RX3VoTFI0Q2h5eUlQdNIBywFBVV95cUxQZElVYVkzRFVmc25WcXVobXdMNjhNRFRYRUEwXzg5SjdvLUlPaWZtMUFpZGdHanF5OFU3ZXpnNFJqYkF5S2R4S0U4bldJd2RtYlBJXzQ2dVZPcnFCU2lYeTFEV0R6TWlDaFY4ODh1WHNLV2pNbFZOT0I4VWJMV0FOaU5PS3k1Uk43ODhjZXZwVG1wbnZlb1pUYVppVGRmZ2ZaYU40Y0M4TXNiWVZnQm9xVDZEdlBoVDhzTi1JNW5fRzBXazFnR2ZQOTJNbw?oc=5",
+    "fonte": "O GLOBO",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-03 06:47:18",
+    "chave": "61e4579eb83c46b142af47ca130bf7a658af02d634269f22864371e836490d17",
+    "titulo": "Fundações de esquerda propõem ampliar atuação do Banco Central e reformular CMN - Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXJjdXliSFNnQVZxbVptRGozWGF3X21CWEhPcGNLS0Q4Nmk1dktGZERBUkYxSG5IVXNJMVlSX1ZlUEM0eGYwckJpWkhIdTVkR2FZakdNeWp0eGlaMGdlRDMzUnBKeXVvZlVhc003bk1hdFIybmk2VHpzYzhRRE4wdC13TEtGdnhwT0pmV013N3NzWmY4Y3RFUkZQLXFTd0NraXVzV09PQ3lWVTlxMU1WNHI4SVg?oc=5",
+    "fonte": "Vero Notícias",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
