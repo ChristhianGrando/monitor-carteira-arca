@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 02/11/2026 20:53
+# Relatório da Carteira ARCA — 03/11/2026 02:40
 
 ## Carteira monitorada
 
@@ -12,132 +12,132 @@
 
 ## Resumo
 
-Notícias coletadas agora: 44.
-Notícias novas, ainda não enviadas antes: 33.
+Notícias coletadas agora: 48.
+Notícias novas, ainda não enviadas antes: 24.
 
-Foram selecionadas 15 notícias relevantes para este envio: 11 de alto impacto, 4 de médio impacto e 0 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 3 de alto impacto, 9 de médio impacto e 3 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado - Jornal do Comércio
+### 1. Cortar a Selic pode fazer a inflação cair? Entenda a tese de Lara Resende - UOL Economia
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Jornal do Comércio
+- Fonte: UOL Economia
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHdEd21kYVdESEM0c1RwWUVFUmExWTFxQkY5Wnl2bmVKZlh5Z1hkNDhseGU3RHN6eks4UWhNWWI3OGdnM2Q2aEhfTmZXamJZSnJveW5BSzhLODdJWHJZSFhSSjRWRDFYRE5Ea0xQVWZuVWtUX1F3VWZZRkl5dzJ0UkJZQUgyNV9XdGNWaFFpSTg1aGdRZXVaUm03TnFDcjdNZllNc1FVYWswVWlyc0ZQWXdRV2VITlVKazNWcmVTWnFaRXg0eUhkOF9RRTFzMzhmczdBc21Cb1AxYngyNkZuQw?oc=5
+- Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNSE4xdWRSZ0c2Z1JqRXhPRTBlc1hCTXJiVFU5UlFjVFczcU1GZm4yREQ0eGQ1ZzhrQVJWejdnUzhOU1ptM24zN1R6blU1S1ViMDJvUUJvbGxVaDN3Q1lkTEVmeXhpb0lFU0FnR09DemppREdvNzd3WjExT3VmbVN0bFZZbkdKUQ?oc=5
 
-### 2. André Lara Resende quer conselho para levar Selic a 7,5% - Poder360
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Poder360
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPYXlwdE9hZWU4X2pOVFhydG5sSmlHUVlHOVhnYVI1OEtHMERLSmxrVXh1S29mdDVQWk9tOG1DeEpzMjdqSUpVY2ZTbDhtMXplUlZZdGlUaWtKOGkxT1h3RmhJWC1ReGJzcVRHbjBtUjd4Z3JLcVN6TjZYNnBja2N5b1lJdGxEd3N1OTdGdWd2aXcyRlVxdEVOX2RRN2lOV2s?oc=5
-
-### 3. Mercado chega à semana do Copom com expectativa por fim do corte de juros - CNN Brasil
+### 2. Focus deve mostrar piora das expectativas antes do Copom - O GLOBO
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: CNN Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVJsajR2QVc3dUVYTTE4MnU0Y3F0d1pOdEVRSmdESmEzZ2pseU14YVZHbkFTZXhzWVpkRkgzTXJhUUJpdHBsTE5DWWtDM1JYUE9nQW12dUZGa25HVm1yNDlfMkI5RU1jb0phVTdXOXE3N2plbTdSMW9IVHVwcldqTW11NFl2WlBuUE54WTBVRG56RzJqNUJ6SkFSWHNpbWpjU2tDcHFTcnh5UVpCZE9YUmhrR3pBRGNaTFJMQ0dHTnZjMWV1N3BtREgxUmQ?oc=5
-
-### 4. Banco Central deve manter Selic em 13,75% após turbulência nos mercados - Vero Notícias
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Vero Notícias
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxONG9xRUpGUVNaYzNyV1FZTHh0U0hIU0x5TGtFNzNyU3FQYmQtNEhvZ05JdlVuTHhKN1A2Ql9YblpTQmhnMjJLdmxTWlRxcFpDbHk2RkVDZmdXc2djMkdUZnBEYVE1N2ZZU2FPNTlwMmdTNGNJRzQ0bzY1TEhWZWxzNzlOVGc2eGxUMGRRLU55X2NacDNBcm5yM0hScG90TGk0eUNZZVpIQQ?oc=5
-
-### 5. BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula - InfoMoney
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: InfoMoney
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOai1DQ296U0diZXA1WVB5T2lWWkJhbmdaWlI5MTdlbndrdGZHRjZsZ3RRTnI1d2FBck5ZRndET2taalFXYnFVNS1ZbTdOQ3g0bHdSNFJBSTF3alp4OGZFVzR4Q2V5VlBKMnJBYkNfcVJKSkhiazRPcUFMN3o1NjEyTS1nMklUU3NVTk1IbUpmVjl1QW1VN2F3RHpfaUtFWmctR0g3T25LQmTSAa4BQVVfeXFMTll1aWx4M2M4eGdnTW1kLVkxYU8ySGpDZWJFQ2dyM2JDRVBPTFozbFZEQVBwYUlWX2xPQi0weHpHR3VPcE1Ma18wZ3puaFpkYm0taWdjazNsekdzLVR5R0Ytc2tLWFVqaVRhTm9meUhzNngxZnlzMW9rTGZUeVBFQXlNSmk1bzlCTVJCZHlHSFRhUFp2TmZzUzZPSGVkZF8wTkNtYmN1Qk0yN21IN0h3?oc=5
-
-### 6. Dow Jones, Nasdaq e S&P 500: eleições de meio de mandato e resultados corporativos testam mercados - Investing.com Brasil - Finanças, Câmbio e Investimentos
-
-- Impacto: Alto
-- Ativos afetados: WRLD11
-- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdFJIakNad25zZS1xTHFwME9kZ09CekVpTjkyTXpDM2VYMHRaWlpJVkM3T0NoMXVqZVNTdTl5cTV3Y1ZUdHp2Mk9USUMzTlpQUkJ1LTMxcG5ORW1UWTl0UUN6bjVKbmNKUGJkS2tDOEF6NHlfVFlDamNMbWdHMGhBMjRONk9aMm1ORFl0T3V4RVNham1OQUFEQ1UxcmRXMFlhbUdkWFYtRTdDZVpoN0xodld1TE5zRTRzQUVvMzZrTWNSYXVwT3h6UmZDSk8wSkhSeUg5LXF3cXZuQnZFUlVZbDZMdW5Bdw?oc=5
-
-### 7. Eleição nos EUA: Musk testa o que quase meio bilhão de dólares pode fazer na corrida eleitoral americana - O GLOBO
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, SPCX34
 - Fonte: O GLOBO
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUnA4Q1plYTJxLXJ5MlNVQWpNNjlmWVE0VDFSUEVsTXJBTW5feGw4cUhQUGR3MzRhQ2RyXy0wdlRoVURtcEkySWVsck9wdHF6UWlYTk04NS1xYkU0Zy1UbE1FekdCdDVxX0JuNjZ6T3luREx3LWtCaHNOT1pyUDFTTnlFVGhnaDZ1a2FYN2RiQ2tyMEo4VGV2ZHhKZHgtSG9CQWNfM09BYkdMTE5xUmRSNjBnLTJneXJSUjVnT1BQbEF2WFdtNUdFRmxfUmZONkQ1aS04Z0d6OGduUzFITVp0aHkwelc1MGNydzExWTJiXzfSAf8BQVVfeXFMUHRrVmRLQWpsZTNMSGJoRWFLaWlpdnRpMlppekR2UDREVUpFalM0ZTE3NDJ2SC1aZGJxbV84bDJmVEkyck5ObHJyYm53dFNVYzRqcFdDbDdPZkl5NG0yTGxWOFJMZkltU3BvMkI1RloxTjYzcEh5SUItNVpDNlZBMk9kLWlVME1YdldpTVRnbl84V090ZHYyeVl4a25iVjdGdjZvVER4UDFrdTc3Z2ZpVC1ST3h2V0pnVlA2LUxRY0VqMnF6cGRDMzdHX3dMejNmNENOa3JfVi1VOWNsdkpRblR1ZFNiSWdYWW0ya3EtMG9ZNEs3UlhHZGRVWkV4TEpn?oc=5
-
-### 8. Especialistas apontam para Copom mais conservador em 2027 - brazileconomy.com.br
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: brazileconomy.com.br
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUhEcmVpQ0xsVXJ0QzIwUmJXZGl1Y0tieUE1enc1NHpjQnBYWExFS2cybWFVZ1RKU2YzMXBWTThLTXNxODBSb3VfcUQzR0MwY0pjN3VialBUUlRGNzJLWDRFY1lXRDluZXpZNThoOG5vUGZmSTJVVGdmcmFqVTV5WVM3THRmWFFEUWRQaTlkMk9fbDBSdXJqMDRzWF80dlJkQThULXVtb0pQWWl4RVpmWk9R?oc=5
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2FfdnM0eVJLTndKVTJqNjh2NktlMWVoUmVOXzJIOUJBTms3Q3JuWmtFV19EWDkyQ3k1dEFfbXA3YmRKNFhvNUZXbHRXZFNDOUpKTk8wUy10X29pMV82cjF5WWctdlBNcEl5NndQcXJnMXFsLVJWbXQ2TVpILThnWXkyVlJsMHZtQjFBSWMzTm9oTV9VMTZSa1hHcHFMS2lHYVNpUkRuaGVKaEtDVm5RX3VoTFI0Q2h5eUlQdNIBywFBVV95cUxQZElVYVkzRFVmc25WcXVobXdMNjhNRFRYRUEwXzg5SjdvLUlPaWZtMUFpZGdHanF5OFU3ZXpnNFJqYkF5S2R4S0U4bldJd2RtYlBJXzQ2dVZPcnFCU2lYeTFEV0R6TWlDaFY4ODh1WHNLV2pNbFZOT0I4VWJMV0FOaU5PS3k1Uk43ODhjZXZwVG1wbnZlb1pUYVppVGRmZ2ZaYU40Y0M4TXNiWVZnQm9xVDZEdlBoVDhzTi1JNW5fRzBXazFnR2ZQOTJNbw?oc=5
 
-### 9. BC: Copom se reúne nesta semana para definir taxa Selic - SBT News
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: SBT News
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGNndHBZTmFsdHh4V0o3ckNFbGFnZEtVdzBRS1AyZ2Q2Y25oZnctLURkYnFobi11Z3MwV1RrbGQ0OXhSbm5CeVJwSmV2RDFDSVpudm1zQXltYkotUURNN1ZjQVIwYmRoNEpKbGJvWkRTXzF3NTN3aEExTU9EZEU3by15bVVFbWVxVjFDREZKVzI1bGFPUF80ajdhMTZHV3M?oc=5
-
-### 10. Primeiro Copom após a eleição deve frustrar o governo Lula - VEJA
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: VEJA
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWZ0NnpZbE9RTWZmc0MyZC1fTjJ5QUEyaWpXaENTeGRQclp3dFFkVVEyUkFZN1J3RmJhT1VNdkVPZk9YZHhJLW8xa2RRdW5xamdFbHdXNmxONzQ5ckJrMlFVZ2J6Z0h4dVpza0xTVnRBUGJqR0lJc19sWXU4Z3R0TkJDUFhfbVd4Ynl2VFd0Zm9qTzlMTGJfRzB3?oc=5
-
-### 11. Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes - Money Times
+### 3. Selic a 7,5% para conter a dívida? Proposta de Lara Resende ganha apoio no PT e provoca reação - Money Times
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
 - Fonte: Money Times
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWtYRmRhTGJXVWotMUtmbnBQSEJfVzRXUkFhd2djcDE2c2prTm1qR2lXdmVfYU84dGFhLWRCam11ZkVJbEYtUnhWd1MxMkxZNTJOWHdlNzk3aXFEUFgtVGg3anhEOHlVZEdmdHBleUJFVkJROUR5VDlaRFlyaWlJcjE5WjJDR252elhfZHNuRVZvUjlxdVpzeUg1R0pRdDZnLVhZQWRvbnY3ZVhoYm55bUNQcTN6eWJqYzI5QlR5a2RVMy1Hb0tv?oc=5
+- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNOG1XNDRqd1R1Ul9WMFhmX01vU3ZMOFlrOENTanhHdjVZNUVZX0JGRUU1NE1fbnl6THYyUnB1b0tLR0lUTVBxQVJaQUtfa3FjRWdmTUg2U2N5Z3lRM2dXME1WclJlZVBnZVJCS3l0OGplVHA3alA1TWwxZ3F6NHhtRG9DSUlGX3B6YmRBb2dlZnpmdnNQX2VzczBZZmZ4bWxMUmthNnlUUFppWHNPNlBncXJfdjgyU0t5ek9tejZULWQ3VlhxQVE?oc=5
 
-### 12. Economista de Plano Real acusa BC de causar rombo fiscal via juros - Agência Brasil
+### 4. Ibovespa tem novo horário de negociação a partir desta semana - Exame
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: Agência Brasil
+- Fonte: Exame
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxORklUNEVaYzJ2WFFkVUZkRVFTdFgtREVrRnFrOFppSlpaYWlxZnR5QzRHYjQ1emcxVjg3NUtVVThrTFRvRGlLazZjaVZhb0tIVTBuUjdFV1phS3lfRU1BbWFoMjllM1lRWHNWVG1fNXlvYmNjZkNkTVljdHNVT3gtNEhiVkNpTzZfSm1zQVl5eGYtWTVSQVkwT2pxX2RhY3FtUDd1dE5hSFZKNFFReEUySEpxdnJpRlJWMmNEWA?oc=5
+- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVIzdHdJMGxPNUFmWTI0R3pTYzhPd2hmWWphWWdVTGZaRm1iUGlVS0d4eGRjRTlDaGR4SFJTZXA0bHNCUXFqZW9vT1pid3RXVlNtV2Ria0t2Zl9jRG5fTGdGMm1nM2lrSnpjQkpmZ0tvMTBwazNDbDZ0U1NweFM1T2FNbFlEX1NQMnFJejJYRTdXYVdSSVlLbnBGOFo?oc=5
 
-### 13. Por que um dos criadores do Plano Real quer limitar os juros no Brasil - VEJA
+### 5. S&P 500 fecha em baixa, e Apple recua antes de relatório trimestral Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos
 
 - Impacto: Médio
-- Ativos afetados: KNCR11
-- Fonte: VEJA
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzc5OHBjdkY0aUdyb0xzZkkyMHR2WVJvN3hWR2VxeG9YWnpmR1VINy0zeThSTTJRNVZzWmF6OUVxaGt4cUdOZGpHdnRwLVJwd0dHejNfc2ZPcGpPYzBsQ1FwczVzMFdha0I2WWNsNmw4MjFSSnpTVm1UcXpZTlBnWFEzNV9Uem5pV3h2ek1ocFViVmE4U1BvSXUtVURhT0t2NkVob1pXdnZJUQ?oc=5
+- Ativos afetados: WRLD11
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNODd6NTBMTGlobVJsTlNWV0ZnazBkNkhZTDZxX1F5dnk2NHFaRFAwQ21YSTdEelZhcnVfWmV2ajlYNUVoVlU1N1BoQzQwY0pQa0h0NkhsamE4a2wxbHhHMEFIeGUyaW1GSjZkR2s2T2FCeHdRMS1vX1NLQmVQd3RVQTZXUFY1VWZIcHlJQXhKTEhLTEFkS3FLSFZFVGI4aGhnbE0yRFh1WDhuQkpmcE02dkhta3htdE8zSXlhQTlR?oc=5
 
-### 14. O S&P 500 sobe; Apple e Palantir devem divulgar seus resultados - TradingView
+### 6. Wall Street vira para queda e Nasdaq atinge menor nível em três meses; Petróleo despenca mais de 7% - ADVFN
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: ADVFN
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQd04ybmJzS2NVY3VOOXNZWVZBang3aHlzeG9KSFZ3U3JPSXdyd3hkWFVHUGNLQXM1a1c2T1NHWDNnTUpjTUYyRkNqU2x2Z3E3ak9mdkdfaTYweHk4OVE2NjF5aDBxcDhMaWlraWNLUUJOMWlLMG40dl9EYnEwMkFITmZYYWlJZ01xSWNhcDFyVmpCdTdTVUh1VWZZd0loTDI2bWREUzdYYU4yNnpKOHF5VA?oc=5
+
+### 7. O S&P 500 fecha em baixa; a Apple registra queda antes da divulgação do relatório trimestral - TradingView
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
 - Fonte: TradingView
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5ORlZVNTNnRHY5NlhPaW5OM19MZVQ3Rmx6U1ZSbVgtUzN2bXhZd0NZUWdLM3ZQVUk1X3c0SmN6NkVWT3p3MzZJWVhvQUpZNk0wcGtGcWtKdGxLem1EYjJBYzE3UkpNWlVfM3lUT0RCanZ0T3h3UWNV?oc=5
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBOQUd0c0xkWTdxNUVYWUl1dHFKUE1IUW12elFzeXBWTjRJU3U4X2F2RnVHTjZxYWlTSTQyVXpMWElRUGZMY1NNVGp6Qkg2OF9pNGowV2I0SGlBY2toVFoweE5rVUlPRnpTTkVvR1o5SUQ5a2ZSM1Fr?oc=5
 
-### 15. O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas - Money Times
+### 8. Investo Gp Etf S&p 500 Fundo De Índice (GPUS11) - trademap.com.br
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: Money Times
+- Fonte: trademap.com.br
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlR1OEJWd1FIR0R3U3ItaEpXbVM0d0tDTjFzb0Z6QjJXNnNqRmppUXM5U1R2M29zUHRDX3JVYU9KMlpnbTl4a1hFbU90NllobUF3YnBQUFB6OHVWNTI5LUIwTUxWWHBXaENOdUhIOXp1eVNaZHd2OFFad1NaUXFlTkVoMVkwbEF6UDh6cEhCU0pqLXBvQUNQcmxtd0RnbjJsT2VfWnRXOWxZTWVL?oc=5
+- Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JblZFdHVOYU1hNTZrSGVFemdmVkFZbHdCOHV1N2ZsSzBteW1tRFpJR01ZYnlSM0xUWGdIOGltQzVWckhlbk5zRWZHdWN6NmJ6M1dxV3hOa0RNUQ?oc=5
+
+### 9. S&P 500 acumula alta média de 13,7% um ano após eleições de meio de mandato nos EUA - Jornal de Brasília
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Jornal de Brasília
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnRWekRFaDcteFBxNUJFQW5sb3U5bUxIVFI0dXBXd1hxT19Kc0d4NVU0Mk96eU1sNW8xTEVIY1RPSHI2Q0ZiX1JhXzFDZEFFbG5xR0QwOXRiR2VNYnFMcUtDUzJfdFgtblNieC1VYjR1NVFZMGduVTZlZmRBSXZCTXg5STVGeFA2YXgtYUlJanpJN01XRXdxQzhKNm1XLWNVMWRFeEVhS2NIdHFYaUZtZVRyeHNpYjBYbnFfalF6aW93WDV6YUFn?oc=5
+
+### 10. Custo da expansão da IA pressiona Nasdaq e S&P 500 em semana de payroll e eleições nos EUA - BlockTrends
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: BlockTrends
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE55TGZNTmFLUk1OUWhHSnIzRFlYcHE4MElseDNkUWZqZXZ4cFJXbzFRSG82OTBELXNsRUZlRWNEcndUZ24wTy1kemthUFZHU1ZKSkh2Y3V4SUp0dmtNQXpESC1NS0otNHRnU0xDSmRkVlRscHA4VzFxeg?oc=5
+
+### 11. Nasdaq inicia novembro com queda de 1% em meio a novo colapso do setor de tecnologia - Times Brasil | CNBC
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Times Brasil | CNBC
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNaXFPNnFfODVWcWpmWXNSOWp4SXNwTlNVUG5XbjF4bzdWQ3haN2xDYldrMzF2WEkzNVgtcVcyVXBNaHlNeGRieUtCYmhhT0NvYUJGakVQM2o5b2FEWnlHSWFFM0tNeHc3Sm1laG5yRS1yTkRMQVpweUNCTFZkbU0xekpfYUFEUVk1bnZoN2FEVnJOZFgySFZLdmhpc2Yzd1hrRzVFdlRQUzIxT3dEVEdYT3BvdkxMY1lsWDRaOFZhMGhDbUxqbXZ5b19EWQ?oc=5
+
+### 12. R$ 105 bilhões, 9,3 milhões de m², cerca de 1.300 campos do Maracanã, e meta de produzir chips que demandem 1 terawatt, equivalente à potência de 71 usinas de Itaipu: Elon Musk anuncia a Terafab, a 'maior fábrica de chips de IA do mundo', que unirá T - Purepeople.com.br
+
+- Impacto: Médio
+- Ativos afetados: IBOB11, SPCX34
+- Fonte: Purepeople.com.br
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiuAJBVV95cUxNUjZPV0p3dFJqenVpVkxONWhNUmRHU09oZzNVd3hzWEJjb25DWFQzNmNNeG04RGQydVpjbVBEVHBzUERhQUhFOVA4WGhXemxhVWcyVXc2aXJfQllWR2RLWUZKMFJ3QXpIUzdqbkVGWXhxaE1WMnlaSGRkSlhHeXV6Q3dEdzR3b19iWENyRmF0dkszS0N5YkxJSG1PZDBJVnFmb2lvVFNvRHl3YndENWFPSFJEaGNBVDRsSWpzS3J6Um5maVFJTlFUR1JvMlM1T1FCSDV3QURzbHZkamNENDFEUl95RVhvOVdoaUZqTkFZWmtyNkdBYThfVEo0WnlPTEFCd0J5MlpPUUcwNzlaYkZQcnk3M2JTek14S1dXNmNDbG9tOEVRdWp1elN2UlBRM2ZCTWFrZjR6elU?oc=5
+
+### 13. Elon Musk Diz Que Custos do Grok Bot Eram “Insustentavelmente Altos” - Forbes Brasil
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Forbes Brasil
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRVpiQ2FNTHgzRV9UN2ZQUVBPS2lBMGR6UUtGajVTNHBRVzctNVJDWktEdUNyblAxQ2dhNGliVWh6NGYtTEZwYWJvV3pzNHdaNDFRSDVxN2d5dEludkJFdUZkN3lLS0V6SDNuTDVSeEplMEpkSFJ1bg?oc=5
+
+### 14. Clientes da Vivo já podem usar internet de Elon Musk gratuitamente no celular - Portal Tempo Novo
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Portal Tempo Novo
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVlZTlJwMEE2ZzNjZnA4ZFdyWGRGVWZFZ0lRS3ZUcktiQjNZb0JfTjJLcmF0T2dfN3ZzQUtrdHFVVURwem1EV2ZJZDZjWTBuY3FORXVQYmsxOU04akZVMlRXeDVWU0pIOWxycHptZl9xay04VHVvYU5pdHE1NlloUW5PWkNvYkpHYmFVM25ZYlFCc243TEhRX2F0a2U3U3A3ZXdpelo3R04tTGdPSE5fQk8wOA?oc=5
+
+### 15. Elon Musk investe quase US$ 500 milhões na disputa eleitoral dos Estados Unidos - Gazeta Brazilian News
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Gazeta Brazilian News
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeGxpcUR0WnZlcVQ0VUN3aV9QQmpWaS1EVnlRLUxUQ2d2ZzJlQi1lc1liODczVHJKTWZ1OHZ3MzlJNWsxdkNJbGhvY3BBZ0MzSlEtNDN0enJCREdKOHJubTQwMU9YaENkbDFOdkNvR3FGcDBTaEhFemFFendVWURraC1tTTZPQ1NkVU9xdWhiMkJaWDBOU1NSLTRqTUlES2gyRnIzQTlvb0RxbExDUWUwc29wQnBreGdsWEVBbzNyWFlpT2VLWjFfdllvN054UDFsZEstV1h4TWc0cEUz?oc=5
 
 ## Conclusão para o próximo aporte
 
