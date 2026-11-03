@@ -1,16 +1,17 @@
 [
   {
-    "titulo": "A Anthropic planeja vender US$ 3,5 bilhões em ações para investidores japoneses em sua oferta pública inicial (IPO), segundo documentos apresentados - TradingView",
-    "resumo": "A Anthropic planeja vender US$ 3,5 bilhões em ações para investidores japoneses em sua oferta pública inicial (IPO), segundo documentos apresentados TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ibExSYWE0ZlpKak4xUVBJYkZLNE42dURPOHRtUlc5WWVqR2hEZkg4TnhhUlBmTUxyMDJwQ0phQTB0eDhPMndEczJnWC1WT1JLV215c2RweTN6Zmh2ZWdaU0h1dnNCMEF4YVM5ZjJDTkxZdnRHLXNB?oc=5",
-    "fonte": "TradingView",
-    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "e0cd300ec8188d74cdb92fa2004eba3408ff4ed02ff10de9d01d0b0ff8c09db4",
-    "score": 12,
+    "titulo": "Oferta Pública Inicial - B3",
+    "resumo": "Oferta Pública Inicial B3",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95NGxFSG96cndGaG4tdC0tUXdoaW5MejMwSTlGVDhuckV1bzQ1Q2pIOUYyWWd6OWJaVU9lamoxVHo2WHlxQXVRVF9QYktNYzlfS1NXRlZ6S2xtM1JzTXFyc2NNWWJPRzZ3Nms4OUwtRTg?oc=5",
+    "fonte": "B3",
+    "consulta": "IPO B3 OR oferta pública inicial B3 OR estreia na B3 OR prospecto IPO",
+    "chave": "8d1b1d3638ba84b589ed7811663591b1e01e9c3f7f16b50563929cfb3974c598",
+    "score": 14,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
       "cita oferta pública, follow-on ou emissão de ações",
-      "tem relação direta com mercado financeiro/bolsa"
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
     ],
     "tipo": "Oferta / follow-on",
     "estagio": "Oferta subsequente / follow-on",
