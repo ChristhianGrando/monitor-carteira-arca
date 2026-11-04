@@ -1,11 +1,38 @@
 [
   {
-    "titulo": "Proposta sobre ‘canetada’ na Selic derruba o Ibovespa ao menor nível desde janeiro - Valor Investe",
-    "resumo": "Proposta sobre ‘canetada’ na Selic derruba o Ibovespa ao menor nível desde janeiro Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWjNTeFJLeDVmUkxKdmxSc0xPSHRpVkdCUmhtWHF0N2s3VzI1c0tCbWliR2NqakZuVnlvWXBTY2NjRUliZjZWMXg1MlAyYndSRVRNdDlweGJHY0RfeEpmaWhFSzFTRUxueHRFOTR4anNDbWZQYkVES3RYZUdHODBHZnRJdk01UDNUeHBkWTM5QlNLcldOb0JBbWh4Z3F2R1FNdnJhYlNBbkJ6eFBDaGZQUFhHTlJNdWhGOUFrbDVRY0Z3TmJrNFZuTXZSdXplQ2djS1Q4QWFULXhFZkZFOHpnS21kanJXenpUb2d0bGE1dEtVd3pLdGlQNzNkX3FQWEpBV0NVR21JRkzSAZcCQVVfeXFMTTZWOGVhNEwyMkd0RUJnT2gzNUtpYjVJUVR0akoxendmZ2lwcmFrRFplQ18waGpkZHhKSzRMSnFkQnBSUDJqMkVnb0FVWWpaN0pWbTQ4RGprMzJ5clJ2eUJ2akFiaFpQeGZhLXNqbGVCaExfWDlpcVk1VmlvdTNpNGJycjN3T1E4aldobFRIRlJRMVFHUHg2VTFVY1VOd2J6M2FiRTctYkVrTTV6RFloWEFiWEJaMXBYbmM3ZndTODRhOXIzMlBNMkRabngweTJaVncyZHZKZlJuS2JralBxYmNsdHJVYzNGOFpuemJmMGtxNmZYV0FWTl83TjlXMzZ0aG1jdDBIQ3lKYloyTlR6NnVYMUxLbm9B?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Após seis pregões de queda, Ibovespa espera Copom com mercado dividido sobre a Selic - Estadão",
+    "resumo": "Após seis pregões de queda, Ibovespa espera Copom com mercado dividido sobre a Selic Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0VpRnZTX2NtTTVCYjMyVUNLLWZpd0lvYnozZUF6RGpRZmlrQnJoVkJNRDB6VTVqaGt1Z0FJU2FNTnY3cVQxVGthU0ZrT2tIQkhHMmViYXA4YXhGaFNXN01WaGsxcnNDdHJQbWFvWkVLQUxydTJ2b2NrSE12LXZnMFIwOVhqTnlTOVVSZGNFWVZiWkgwM3R0eWJKTnF2TFNMLXd4ZU13a2hQRU5HT2RsckxuNmhtTzVrT0dqNFdVMFg1cDgwTXZDbHpuMEhRUmJWRmx6WHEyQnpMb04tRDFJNHAxRDE?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "80ad8f2ca288e76cba324d7dba423b2b707c945b19e08f2baf014d3b59b0e348",
+    "chave": "4e9699c6ffb90236270814b59743f59fee3ac98efb7657d24f008891daefa949",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom deve manter Selic em 13,75% e interromper ciclo de cortes - Folha de S.Paulo",
+    "resumo": "Copom deve manter Selic em 13,75% e interromper ciclo de cortes Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXpzUm82YjNVVTBJSmZlb05EU0JpMld5NFBjYWJsR3I2Xy1oUjF0QVZtRHEtcmpvbEpyZFJOVTRJSnlSaXgtSzNKYWhaYWdDQlhVbkxNSEpnZFBnazBsNWRvcVlwTGM5T2lNWHpmcGZ0c1JjTVMtNHYyQVZtejU2c1ladEc2T1JQZEVZT1RGQUNYVEF4R1NQdDlmRUo0SEU3OUs5U0FjQXNIN3FEZmZNLXJoQQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5aed8ecc9b7f49999e7a6c42261f0e5ff18c8e08ceeac6ee9cb380735474b60f",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,90 +53,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "O Copom vai mexer na taxa Selic? Veja as apostas sobre a decisão de amanhã - InvesTalk",
-    "resumo": "O Copom vai mexer na taxa Selic? Veja as apostas sobre a decisão de amanhã InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWpwanFJaEFhLTFoM01QMmNta3djOG9XOXk5MDJJZ19XdTRrSmtVTktra3JBWktYbXpSam1jTTFwM2hrY1o3UlpQTmphUk9VMGNmbW5IeU90QjcxNENkVXBuTnpTTnRhdzVYRGFYUkplckw5dXc3aGFDdTNYTWgxLWUzT2NCcVdYdWd4dVd1S2RqbV9HcGtBTGkxNm9mZjNRWUtVVUFaZUNPY2Z5QWZoTG0wMTdDODVSWHBN?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "61b8067c8142d03e7e63342632df57118d643828cfe0f73d5fb572edd7611a14",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Mercado aposta em manutenção da Selic em 13,75% pós reunião do Copom - Poder360",
-    "resumo": "Mercado aposta em manutenção da Selic em 13,75% pós reunião do Copom Poder360",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0VFb2RmbkxqcTFTV2x5QjlGaEUtZUV5bElLb0VJcDZNOXZRWXlEUGNsZjZZWDhnYk0wTi0zQ1VrbjlpWkJxaUp6eWtNZGkwMjRaTGs4RXpLUl9NMk9HYkM2UlItOEIydGtiV0R2YUhTRXB2RTJjWGljOGZMRENmc3RhTHpzQlhCNnMxaGFFVHk5RkZKd0xZNDZrYlRUZTl5bjhRTGpWSV9zX01IVXNZ?oc=5",
-    "fonte": "Poder360",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "7189d4ec665f24da198977e1ec821807f873567df536244c47b6b169225785f1",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Selic a 7,5%: entenda a proposta fiscal e monetária de Lara Resende - ISTOÉ DINHEIRO",
-    "resumo": "Selic a 7,5%: entenda a proposta fiscal e monetária de Lara Resende ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pYUpkUjJ4aEhQanNnY0tRVjFQWjNNZ2lnUWlyVTlQNE5aUTk5cXI4S2hnSzk5Q2dmQ01xYVpwMVZ1OXkzWjVKSzBXTno4cUZrT1YxVzItVVlvcDZ6QkpBaG1XY0xrbGtnc2xFbkNBNk5saVhsM1QxRkRKbDhIZw?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "0fe1903bdd30286cfb7e4f965d3aca80bb75be69d0077d7454c7baa8244bd945",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente - Portal do Agronegócio",
-    "resumo": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente Portal do Agronegócio",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcE1IOFJ6enpwbzBhbHc3QXI0RWRpRDdubFBSeURfV21mMk5LdFl2aVMySVZPTXhHenpyVUcxZWFhWFE2SkJZMWhHcDVua3Z4QnM3UVk5SWxzYTRCbGs0X1lDTUkzbjFHeEVENlJqYTE2TzRkZjZYR1ZRX2l5cTV0MUdySG1FOEVfRzVndjc0X3ZfT2lic3Y4QmI3endpV05vclpSMWlOamhOM2JzTXdCM3ZlaWxqN2VlWndTdmJXYzlKLTc4X0RzT1BKTDNFZmlKTUZpVVlQQ0haNVBHa0U4ZlFDdDVpSUdrbW5RamhNYnc1Mmh1SDV0M2tiY3c?oc=5",
-    "fonte": "Portal do Agronegócio",
+    "titulo": "Selic: por que o Banco Central pode parar de cortar juros após a reeleição de Lula? - G1",
+    "resumo": "Selic: por que o Banco Central pode parar de cortar juros após a reeleição de Lula? G1",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEo3RUk4OE80UmhIc1RoOTRKYm1LaWthT3A1ak9JcnR2UThsTnhlTV9DVVlLUEtYNWJxRk0zOVRnOGIxQkpseWhUUWF0XzhDblhvaEE0dU1XN2JmejdvWmEzenZUMnJaWVNlTmNKcFFPOXRnMWZNeThBSE5DN1VoQnNjWDdBY2wxVC05cExsMnI1ZlBoZUtNWldVRWNUQmZZZ240dG9uZ3owN2tKc0txREdvNEpCNFZMV0Q1UzdIUVI5Rmx0aDVRSFpSc2hKQUhaYlHSAeABQVVfeXFMTWxXbkpHbDFBbm9jdW4zdUItaVBLRnhvWjdIUlp6M0p6X3dFYnBjR0Nsd0NaRll4T0o1bG82cnRZdFRsUE8xci16aEdIZ1EzSlFseElzMm5RWDg3SXBvWldsSWZ1QWJybExuZHhsVmQwcGUyOTdZMGJGc2RpRVJzRUZmOThQdV90bmNRQlkzblhsZWRMUUNqcmxVYUk3b2o0cGhMUC1vZE1VNjFrNTBHWWRGc2hmalJzTjNUbUttRTBwTUZxdEN5N25SVVBJZEZXR01BMl94b0tuSDZoTEtOSHA?oc=5",
+    "fonte": "G1",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "b25c6d8dfbd4d62062ec99e443a8d5792dfebea1d7f659c398ed151e81793ba8",
+    "chave": "023cbacc5e1c46d319f5d1507866b98b168cf56dac8e1906b0345712d931ea5f",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -121,6 +70,52 @@
       "Real Estate / FIIs"
     ],
     "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercado eleva projeção para inflação, juros e dólar em 2026 - Agência Brasil",
+    "resumo": "Mercado eleva projeção para inflação, juros e dólar em 2026 Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTG9BTnRFOTh0Vmx2eEtEOGRYUGNOZFlncHBwUXJ3NXhqbGNpN1JpVk81UG5ENUdaNjYtbDByU1JtaTNpc0plWVJONV95SGVyLTN2dVBOX2QxWDhuT2FWQjRmVDJCcTdxaTVUUW5OeFFaVVlaVlM4WUczWWxsQzVHYVFxSUsxMWtkZ3hBZm1aS09WMUtzNzJvaUhsSkdmbXpuc1hKQWVhTVZpbHhPUTUxeVRMMGRxaWM?oc=5",
+    "fonte": "Agência Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "10d4900d58c63efc2f2265549152edba0a3bf2d26b4b6dacdcb597fa6ce914f8",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Paraguai intervém em banco ligado ao presidente Peña; chefe do Banco Central renuncia - CartaCapital",
+    "resumo": "Paraguai intervém em banco ligado ao presidente Peña; chefe do Banco Central renuncia CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGtxUzZ2WTZHdm9pSW16X2pnMjMtbHc3b21oQlhvODVQVVBTX0Z1V19TeVN0UUoyOEptYTNGdXM5M3NxVEZEa3Y0SHd6a0pqbnlVUWZiX1ltR05xc2hOT1NqRjBXYThkZHhWR080UEhyRFROT0RHOXVFTzJHV3JlYWFNem9OYkFDUHNvLUZpU0lqYjZ3UExCakN5YXdzMVVnX3FZVlBxTElVOUFoTFJhWVVmS3hNUkRCemNjcEFHYUU?oc=5",
+    "fonte": "CartaCapital",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "2f41eb2943c560822c41c9799f103d16a119da1390ed4107f34935acb354c96a",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",

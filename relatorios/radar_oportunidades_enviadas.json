@@ -1,90 +1,5 @@
 [
   {
-    "data_envio": "2026-09-10 09:44:33",
-    "chave": "a294ca0fcece6028c49e674c15f8a371c61d730ac65137c655258add944986be",
-    "titulo": "Dólar fecha em alta com petróleo acima de US$ 100; Ibovespa cai 0,93% - brasilagro.com.br",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2NwTGZhTnE3Y2FOTmg3TmdtbmxabGlqOTZUTnNoZ2t0TUpSMV9vcUp4OGJ2RkVvVkd0QTdGQ1ZHS241T0JEbjdqOEdQY3Vtb1FJa241TGpsQWwyVklQajFLQVZCS2tacDQxLVRtM3RRVXltT1QxdGhrRTAwTjAwbjZIcEttQmZCQWYzbmR2N05JbmNHQWo3RU5iLS0xYlNyZnZfaWJXNTEwSzJXLWc?oc=5",
-    "fonte": "brasilagro.com.br",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-10 09:44:33",
-    "chave": "a9258870a4828f0e8f682b8c4e5083406896ad329b37a24c37fd28e1e4c21074",
-    "titulo": "Dólar sobe a R$ 5,11 e Ibovespa cai 0,91% com tensão externa - Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2xsVEJaRDVlbXdXV21LZkhyeE9XRTl0NGZwSFpMSlpVZWxmaHFoeG1GbGZYanRjMXNHaFk2T0VZR0lPM01sUm5iZjFSc1BKQmtMZHJHOWpoX3Ayd0paMVR0eFFBYmNsUVJPcEZXZ0V5ZjNIdUpsdEh1NU9HdURpeGx0d2FFZExSUFM2al9Rc1A0eTBxbmc?oc=5",
-    "fonte": "Vero Notícias",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-10 14:26:36",
-    "chave": "01030401e51845bb5f86b00bd8cfa6b26911d4204b0c055382685d3979deb3a9",
-    "titulo": "CDI, prefixado ou IPCA+? Veja onde investir na renda fixa diante da expectativa de juros menores daqui para frente - Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0wxbDVBWWJIclYyMU40b1J3bHRHazlicTZWZy1kbjZzeGJuZUxHbGlGcmV4N29hQ2xlc2tYY0Z1NmN0M3QtUDZ3ek90TUktRWE3RjNqV3JVU0ctN0JfcXNtMDVLYnlMOVVuWl9iM3RJTlNMU09UaUZZZERYOVB2NURBVjFWYXhuM081U1pIUERCMlpvODFvUkE0cXlJd2NLWW1aRFlZTEp5d1d4aEpxc3lBVGRoaE0?oc=5",
-    "fonte": "Seu Dinheiro",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-10 14:26:36",
-    "chave": "95e44b8d1ededbe7b7b4ac6cf943197f257f0c46582a4eb0594ed2c178eada1a",
-    "titulo": "Banco Central Europeu eleva taxas de juros devido à guerra entre EUA e Irã - UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEdYTUJXeTNCaEZNdGRkN2VQV2EwT3BBWkprN0EzWnpuQllpcld3dm4yZE8yTzAtNlFLNHBqaWx3MDZjdEhobzc3WjNtMExNemU2WXZLWXRrS0hVVVB6Z3lfaUJhekljSkFDOE1SZjQ5S1laU1hJbTBTMzJtbndfTDFnajVpb2NwSEVSa1RKSTQ0NVdIZmZQdVVvdnZMaUNKc1lWa2Y2MGtLbFB6dGFZU2RiSTI0VzJfMzA5ZHJBR0pwRFla?oc=5",
-    "fonte": "UOL Economia",
-    "score": 15,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-10 14:26:36",
-    "chave": "cdeedf23da42007645d4a9312c5cef2140d424c9b3fb516ae7094c3c20f756fc",
-    "titulo": "Ibovespa futuro cai, com petróleo acima de US$ 100 aumentando percepção de risco - Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNczdfaFNTUWxOTFpyNnFPdHhFQnF4VFBSRmd4RHVuMXFMajJmOW5FSGRob0xjRmZrNG5VSWxCRDMtc1JTZnFBcUxPWGYyb2p5dlViY2NWeTR4YU0yMUR4RFZpNUt3QUczNnllWGRFYWdNR21wVTE0RTQ0bWhzdS0ycVg3LWJFQ3hnN2RnSm9WeDlPSE50V3Q5VEVCYzdaQU02X3VyeWkxYWlnTUdUSzRJajVKZWFncWhzaGRjZGNyWTdNazBOd3RxSEtNY3ludWI1eGJzRUxuRGzSAecBQVVfeXFMT0VSUFVjMU9kR1NrcGNFVjU4ZlRUN0JlM2g1clFTY0JnQjZINGJ2TFZwTHlhS0hERFRjbUJ4Ull3YUQxUEJzTEZzTTFnblRUZ1NhZHJURjdoRWttcWl6UWZhc3oxNk5NRWlXUmhkVURWaFZpVFhkRmJBZ05KY0ZrSGExS0hidWpQeWZfWEFEbDlERjNJUWs5ZnhnQzQ2MDl0U01lVGRHVkVkbVNHZWd2aGRiVFNUR205QldvU05uU2REQkRWUFc1NmRkYkhfb1o4eFdiV1RFaG1icktnY1pxdWhZT3lnMzJn?oc=5",
-    "fonte": "Valor Investe",
-    "score": 12,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
     "data_envio": "2026-09-10 14:26:36",
     "chave": "d7dee8047294175bd97e2eeb7b4d6608d11c2ea0cea7caff45c8f53129079c42",
     "titulo": "Com inflação desacelerando, como ficam os títulos IPCA+ na carteira? - Bora Investir",
@@ -17458,6 +17373,95 @@
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-04 09:12:27",
+    "chave": "4e9699c6ffb90236270814b59743f59fee3ac98efb7657d24f008891daefa949",
+    "titulo": "Após seis pregões de queda, Ibovespa espera Copom com mercado dividido sobre a Selic - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0VpRnZTX2NtTTVCYjMyVUNLLWZpd0lvYnozZUF6RGpRZmlrQnJoVkJNRDB6VTVqaGt1Z0FJU2FNTnY3cVQxVGthU0ZrT2tIQkhHMmViYXA4YXhGaFNXN01WaGsxcnNDdHJQbWFvWkVLQUxydTJ2b2NrSE12LXZnMFIwOVhqTnlTOVVSZGNFWVZiWkgwM3R0eWJKTnF2TFNMLXd4ZU13a2hQRU5HT2RsckxuNmhtTzVrT0dqNFdVMFg1cDgwTXZDbHpuMEhRUmJWRmx6WHEyQnpMb04tRDFJNHAxRDE?oc=5",
+    "fonte": "Estadão",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-04 09:12:27",
+    "chave": "5aed8ecc9b7f49999e7a6c42261f0e5ff18c8e08ceeac6ee9cb380735474b60f",
+    "titulo": "Copom deve manter Selic em 13,75% e interromper ciclo de cortes - Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXpzUm82YjNVVTBJSmZlb05EU0JpMld5NFBjYWJsR3I2Xy1oUjF0QVZtRHEtcmpvbEpyZFJOVTRJSnlSaXgtSzNKYWhaYWdDQlhVbkxNSEpnZFBnazBsNWRvcVlwTGM5T2lNWHpmcGZ0c1JjTVMtNHYyQVZtejU2c1ladEc2T1JQZEVZT1RGQUNYVEF4R1NQdDlmRUo0SEU3OUs5U0FjQXNIN3FEZmZNLXJoQQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-04 09:12:27",
+    "chave": "023cbacc5e1c46d319f5d1507866b98b168cf56dac8e1906b0345712d931ea5f",
+    "titulo": "Selic: por que o Banco Central pode parar de cortar juros após a reeleição de Lula? - G1",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEo3RUk4OE80UmhIc1RoOTRKYm1LaWthT3A1ak9JcnR2UThsTnhlTV9DVVlLUEtYNWJxRk0zOVRnOGIxQkpseWhUUWF0XzhDblhvaEE0dU1XN2JmejdvWmEzenZUMnJaWVNlTmNKcFFPOXRnMWZNeThBSE5DN1VoQnNjWDdBY2wxVC05cExsMnI1ZlBoZUtNWldVRWNUQmZZZ240dG9uZ3owN2tKc0txREdvNEpCNFZMV0Q1UzdIUVI5Rmx0aDVRSFpSc2hKQUhaYlHSAeABQVVfeXFMTWxXbkpHbDFBbm9jdW4zdUItaVBLRnhvWjdIUlp6M0p6X3dFYnBjR0Nsd0NaRll4T0o1bG82cnRZdFRsUE8xci16aEdIZ1EzSlFseElzMm5RWDg3SXBvWldsSWZ1QWJybExuZHhsVmQwcGUyOTdZMGJGc2RpRVJzRUZmOThQdV90bmNRQlkzblhsZWRMUUNqcmxVYUk3b2o0cGhMUC1vZE1VNjFrNTBHWWRGc2hmalJzTjNUbUttRTBwTUZxdEN5N25SVVBJZEZXR01BMl94b0tuSDZoTEtOSHA?oc=5",
+    "fonte": "G1",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-04 09:12:27",
+    "chave": "10d4900d58c63efc2f2265549152edba0a3bf2d26b4b6dacdcb597fa6ce914f8",
+    "titulo": "Mercado eleva projeção para inflação, juros e dólar em 2026 - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTG9BTnRFOTh0Vmx2eEtEOGRYUGNOZFlncHBwUXJ3NXhqbGNpN1JpVk81UG5ENUdaNjYtbDByU1JtaTNpc0plWVJONV95SGVyLTN2dVBOX2QxWDhuT2FWQjRmVDJCcTdxaTVUUW5OeFFaVVlaVlM4WUczWWxsQzVHYVFxSUsxMWtkZ3hBZm1aS09WMUtzNzJvaUhsSkdmbXpuc1hKQWVhTVZpbHhPUTUxeVRMMGRxaWM?oc=5",
+    "fonte": "Agência Brasil",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-04 09:12:27",
+    "chave": "2f41eb2943c560822c41c9799f103d16a119da1390ed4107f34935acb354c96a",
+    "titulo": "Paraguai intervém em banco ligado ao presidente Peña; chefe do Banco Central renuncia - CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGtxUzZ2WTZHdm9pSW16X2pnMjMtbHc3b21oQlhvODVQVVBTX0Z1V19TeVN0UUoyOEptYTNGdXM5M3NxVEZEa3Y0SHd6a0pqbnlVUWZiX1ltR05xc2hOT1NqRjBXYThkZHhWR080UEhyRFROT0RHOXVFTzJHV3JlYWFNem9OYkFDUHNvLUZpU0lqYjZ3UExCakN5YXdzMVVnX3FZVlBxTElVOUFoTFJhWVVmS3hNUkRCemNjcEFHYUU?oc=5",
+    "fonte": "CartaCapital",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
