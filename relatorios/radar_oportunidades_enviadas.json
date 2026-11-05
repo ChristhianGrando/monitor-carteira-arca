@@ -1,86 +1,5 @@
 [
   {
-    "data_envio": "2026-09-11 00:10:32",
-    "chave": "846f69ec816e530292e713895fb93ac2b6d8e85f2ab6816e9f8dc8c6cf3dd37b",
-    "titulo": "S&P 500 fecha em baixa, com aumento dos rendimentos dos Treasuries e operadores preocupados com inflação - Terra",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQekt4bEZHRE1hOXkycVBjUG5wVDd1d00yZEhXSU15UlVLSGp1UkcxaTZRVklKRG13UlJEUWhtd05JU2xJWVBRX01iMXdHMmtaX1Jid2hHeGFPdkpocUROMEJVYUNPckY4Y01HVGdoUDBEb293ckt5MTZsUU5PaDltbGFTM3Zubm96ckhIbG1pZzU3Y0ZQcXhONG5OQkV6bnFJZFRaaUtnN3g5emFEQmgyU2wtUEk5OGZ4RHNtTWFSdF9vdmpFNGxoUmdDOHlMbjY0SGJaVUNOYlVtd09tUk93aFdrVlpMN0pYd0h4NXlzZnpDZ2R5alhiM2hjYnpwbTMtc0s0NnZyM3VZM3R4U0Zn?oc=5",
-    "fonte": "Terra",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-11 00:10:32",
-    "chave": "2a28a2c3c4ba71d3a3084e7ccd4451235100b76c2b5b6d24f154956009100cbd",
-    "titulo": "S&P 500 fecha em baixa, com aumento dos rendimentos dos Treasuries e operadores preocupados com inflação - br.tradingview.com",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RVlCb1dDZHhNYTlCZmo3QVh3c1JSUGxsWHBqRmRfLTVwQ1FqZ2tJQmZpYWpucnRFcHNXekVmUXA2R3h3Sm9tUFJxbjZOUU4yYmNRendFanJCN3VtTHRWcnk1a2hhZld5X1R5SHVacnVaek1LZzY0?oc=5",
-    "fonte": "br.tradingview.com",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-11 04:40:49",
-    "chave": "2ec98f9c1e342c32320d780e2cd285babbaa5d442db1d63ebf4d4a485c7c9b6c",
-    "titulo": "Dólar cai 0,18% e fecha em R$ 5,103; Ibovespa sobe - Poder360",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0d5UlQtNTREcUZUbXV4a3VaM2tjbF9XcnRPYjI2clZPcWFfT0QyVEdRenVhTU5FdEUwNTJZUjZ5ampPRjFWUFM3VnQtZnlabVRGTkY3MDdnYi1KRDhieUd0V29QX1FRYzFveU9MRzRkbnFYYUVrNmEzM3QzOEpyWEFLeEtuc1dXSmNvcnBTUlYzVjQ?oc=5",
-    "fonte": "Poder360",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-11 04:40:49",
-    "chave": "c11056f65dcffcb8093df0e24451e19d513a0a5e766a575e4482cddce9b53be8",
-    "titulo": "Fux dá 15 dias para governo e Banco Central responderem sobre ajuda ao BRB - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3ZLQ051NHV4UnRLWjdoOUpZZjFwZlZjWU92UkZMaDBfYXdaMHl2TUtxYXRiY1kwTkN6SnBlejJqTWhydl9hX1BwZS1aYXFCODNRMklQZTVFaXhnWGVHVGlKVFZ3M1ZSSUZvT0pRUW9TLUtHTWs3bUVnWmR6MjVmdks1aFZ0WGxkLTFHblJURWZOb2tub3kzMG5iOUNzNmwzaTJfNmpvTHk0bmRKVDBOcVQxYw?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-11 04:40:49",
-    "chave": "5944288c10ebfb7c410565cd800d27be955ea7df948d6a99c1827ec271942547",
-    "titulo": "Paulo Gala: Keynes explica por que o Banco Central tem razão na administração dos juros básicos - CartaCapital",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yVjJyeEdGMkVUMUpGNXl3c09LNHJIN2xKRW5hZVdfNTFFYXJhT0lrTVAtLVZaZGJrNGhhWnlCWFQwNFZpVXJiVy1MU0U5cXJUY1FCTWNEYTRzWkpPX0JoTFpBZ1ZDaW9Q?oc=5",
-    "fonte": "CartaCapital",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-11 04:40:49",
     "chave": "b3ac2d1556ec4e523eda301a9f9d93d9acd1daeac945f9c2f3e0ef1fa85dc5bf",
     "titulo": "Banco Central Europeu eleva juros por pressões no Oriente Médio - Poder360",
@@ -17475,6 +17394,101 @@
     "titulo": "Copom mantém Selic em 13,75% a.a. - InvesTalk",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54ZkhBOFhVcGtkY3RHVHJSUEFpRE05ZzNCVjJYbXZOd0JkMDFpaHd4OFlPVC1qazRaZ0tXVmJWMmZyeDNLMHcyZTlNcFFILVFTR1lhZEU1dlRldFBLN3hlMnFkSTdwTmRtbWl5bFl4YzlieVE?oc=5",
     "fonte": "InvesTalk",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 12:20:52",
+    "chave": "6e1fe0ae8c5dde685cc1182bbcd62db9b1eec72a235e77d105dce71e45a30e7e",
+    "titulo": "Autonomia do Banco Central e o paraíso imaginário do controle da Selic - JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdG1UN0xPQ1d2ZjVJVmdCMVFwNzZfUWtESUR5cWZIWVdVSFJLVmJKM0RyUFoxeVFDUTJDWnhhM05qemxPZ1J4X0wyTzgzcHZzcU9uSmhBdnlYNms2Ni14TURpZHFOWDBUWTU1WjBTdzdwSGZNWDViYVUzeHZib0FpSWRQOURLTzhROWVwTEpXaFZBNkZUVV8tNUlpYVE5bHZvcGtLUl84T2FYVEtzenNzVGRwdGN4X0NsRXc?oc=5",
+    "fonte": "JOTA Info",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 12:20:52",
+    "chave": "2b29befab8833779098af85c25a498cadf5a541c4f0dc94b3af95adf7050755a",
+    "titulo": "Selic estacionada em 13,75% leva investidor a rever renda fixa e Bolsa; veja onde aplicar agora - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNjktZ0dETnVZaGFEaHhGaDFxQXpFYWZjelZBbjFqRXpnVDhWdS12eV8waWdnR3Z4TzkwUk5TeXlwSlZrOTlYdXM0VjBjVGlqd3AxQU1KbXU0MU10N2NDQ1lqSlhGWUZXeFktN0JZOTRBYmFzNDFpaGNFV1lRcU1XMEdCSVdjaG1qN2ZrQ3gtNGsxUDJyYkd5enE3Yi1GNV84T01tUG5tUHhBcUdqQ0x0ZnFiTnV6U19OejllY3ZJclBTV1pWcmNYWkpweXlVV2tIa25iUTV6MnNGamN1U2VJR09xMy1iSGtpOGc?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 12:20:52",
+    "chave": "4fe06e287d240a7995e5c61f2c159ab570068749be8e35c4c32f9e3c573a5d66",
+    "titulo": "CCME11 avança 1,22% e movimenta R$ 148 mil no pregão da Selic - Fiis",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSzh5UTVXd2pNTnd2UnRYTGRxZFprS1JXV2haNjAtdjJ0VXNEbWh3X0xrejNsVm9iT3YzbHFxUEhkM3pMdWs4dklsY2hXdEYtbVNvUEREa19pQzJkYnVOWE1mMFVhVHVBa1pTWDAwY1k5a3NtRG0xV2d5aVEySFlnaDA4VUdQMk94ZVI2UG55NFN6UQ?oc=5",
+    "fonte": "Fiis",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 12:20:52",
+    "chave": "1be460f069446eff24c990734675f75cd4df7ae8c8b3bb111fb91d981226dbd8",
+    "titulo": "Fundo cresce 2,55% em dia de decisão sobre a Selic - Fiis",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlhNVEhXZ09GaHpPSEFMN2EwQjFiOTZTTF83X1hxcGV0b2lwbHUtMWNpM1hZTFU3X2ZlekFNLW1paWVyT3ZsN0pITVBYanFvbTFQWGszVk13WW9SVUI1amV6MTg4S2dtM2laSGRkS1lMUk5aR0ducTBqQl8yVk1oYTVlQWZQakg4MHN3RzFldHcwai1vZ0lEaQ?oc=5",
+    "fonte": "Fiis",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 12:20:52",
+    "chave": "ad4c7fe3dd0b76d726d135df4082dce44773d482e34d265ba351dc2ce9478da8",
+    "titulo": "Na primeira decisão pós-eleição, Banco Central ajusta a direção da taxa Selic - NeoFeed",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnM2NXpnbmlsa2drZEF4N1Y2amduQWtEdGgteVFPcW8wbVNPUFkxemo2TFp2MlEyWTJTWFlua1hBWFFQbzV2cEsyR0xiNjVkc0tkNDNiY09sai16cmFwUU1YbjNONldWQUZGOE8wSjdiczVHU0xBcXZXcjlVU1VkUzBodzhRTXI0eFRRUkt5QU5YMmUyeFY2X0g2T2htMnc3TkMxd3N5UGx1S3I3QXc?oc=5",
+    "fonte": "NeoFeed",
     "score": 12,
     "tipo": "Acompanhamento",
     "ativos": [
