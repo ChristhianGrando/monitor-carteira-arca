@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-09-10 21:38:16",
-    "chave": "654feef60d21816ecbbb31f1b9b3a3628278f0cd3760c0c51a351f6ee57d70af",
-    "titulo": "Dólar opera em queda e Ibovespa sobe com investidores atentos à disputa eleitoral - G1",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xREdCVktfR1BrbEt4NHZYQS1YMXU1SVVSUUIxd0RaVmJjWFZNMnB5aW1Cbm8yRGpiZjdYWU1QUTBITHZPSmlhS0piNF9tQ1ppUXQ4OWRGOUhTSFBFaVppVTBvVWt1MU9rVEtCbWlRRjNvRXlBV2RjLdIBhwFBVV95cUxQeUg3c1N1YUtWUl9rZTgzRlNYUHJ3VGZLM1VJR3VtNk5kcFZDVlB4Qk9UalJpRnpGd1hLZmRCUkVTTVd1NWNEblpHZXhrNGtEeWJpajFvQ004UnJ6RzBWYVBrTXRCRElZRDRCcDVsOVVONGJ5b29DMWI0SFBjUmFnQy1hRDk5WDA?oc=5",
-    "fonte": "G1",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-10 21:38:16",
-    "chave": "e4d866f5d666f378baf9c75b99f0193ea029f180a7c708a060b97d9276ad2247",
-    "titulo": "S&P 500 fecha em baixa, com aumento dos rendimentos dos Treasuries e operadores preocupados com inflação - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RVlCb1dDZHhNYTlCZmo3QVh3c1JSUGxsWHBqRmRfLTVwQ1FqZ2tJQmZpYWpucnRFcHNXekVmUXA2R3h3Sm9tUFJxbjZOUU4yYmNRendFanJCN3VtTHRWcnk1a2hhZld5X1R5SHVacnVaek1LZzY0?oc=5",
-    "fonte": "TradingView",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-11 00:10:32",
-    "chave": "d686856e7f46baf426fc711d36abc33871575db5647283161b18c33ff0130ba4",
-    "titulo": "IRPJ e CSLL incidem sobre Selic em empréstimo compulsório ao Bacen - Consultor Jurídico",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzNqNnNQNDZMX1JKd1lzTTBjdW04Z1pBQnlwVXJQckExeFFXM3c1STktbG5qcXBISVNOVzdkT3RnTC1KZUo2UHhka2g0ZUNISnl5bEhTYWVPcEVxZWpNRmlWVE13UUtQZFYzbkFPNU5lZmtvOWhYeEdNY21OLS1qVmhLTzRWUHhYVE5lbVotMmNTV0NRa2dwWG0yNkZtaG5Xa19zTm50V3g3UQ?oc=5",
-    "fonte": "Consultor Jurídico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-11 00:10:32",
-    "chave": "df4aa80b0e3e39f9e7f9ecc9e2b22662a7257be70a8f66ef9f2b3d6f09bab23c",
-    "titulo": "Ibovespa fecha em alta de 1,42% e dólar comercial cai a R$ 5,1027 - Canal Rural",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlJDLWpLem1RRERKUXU1Z3VzeG15SmhUU1JFTUprM05OSTVVSndMZ0xGaGkxRWFicFc3bkQ3aDVmM2NSUWMyaEpiXzQ2Q2ZSVjVyQ0szcnpvOXk2dXBmc3NiQnlQMTBfYWlVMVZucUFpYnRqMm1mazBIWjdnOFJVVFdQNTFMM0FxeTM0WnN6Uy04cC1qdUFtY0FQeTlrWXB3eXBR?oc=5",
-    "fonte": "Canal Rural",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-11 00:10:32",
-    "chave": "9af225aebafe9e39a81f99cdf5f3f2dcf0bd564ae159d64dc7d07e00e793fbb8",
-    "titulo": "Expectativa para a próxima reunião do Copom - Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbS1FRFpLWmNoOFF3c2NfMGM4QUxreWZSRlZuZEV6cTcycjBDYnlFS21UUVNrNC1DMlV4ZGxyT0NFWDBkNTNFUHRrdlZlZTlQMVdkaTk1T3dmam1fa2NTOUNsTHB2TlU3NW5iOUxIcndwaHg3eGVpZENZWHlEQ1dnZDNhMHhVdw?oc=5",
-    "fonte": "Monitor Mercantil",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-11 00:10:32",
     "chave": "846f69ec816e530292e713895fb93ac2b6d8e85f2ab6816e9f8dc8c6cf3dd37b",
     "titulo": "S&P 500 fecha em baixa, com aumento dos rendimentos dos Treasuries e operadores preocupados com inflação - Terra",
@@ -17467,6 +17380,101 @@
     "titulo": "Selic mantida em 13,75%: o que fazer (e o que evitar) com seus investimentos agora - InfoMoney",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaS1ZYUphUXZYbzF6YVJvUDdGb0RvRkw3cVJuNHlHTnFPZmJ3MmN0ODNrMGRTMDVjWENLaV9hY1V5V2xrSVVtUEh3OHJmSVhnVnVaWFE5bGNsdm5WT19IQ2owME1KcUVGWUQ0bG1WaEhPdHNvbVVxQTRvX3FHRFM0cnFKYnBUMnctbnpTbjFoRWh2bG5PeWVSMGZ4bjk4dkhob0R0QmhhQ0lVWG5YNG8wbi1pV1dHeWVIWjB2aENn0gHDAUFVX3lxTFB2b2tqSkJVLVByYlN6dTQwcnVrbDVHbGJiTmZtZkVOa3YyejNfX1RLNjYxMmZJVXJyeUY4NVotVUhQNm9SekkybS10WEFrRkR0bXdGa05mN2JwZE1pa1hYNC1PWDZzemxFdWpYYW02S3dGTUpyd2l5cUxrNDMzaW9nRy1INFRHVEpxNWtUeWhvQXJhU3ZObjZHVnZvMzNveDREczEwQ1JWZ0J2eF9fUFVjRkpqR3hmQlBKQmZjbGpvejdjNA?oc=5",
     "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 03:29:43",
+    "chave": "2f4b3046ca615009cb1724ef77644f664b10f7959114249d667f8cc3cfd10f7e",
+    "titulo": "Proposta de Lara Resende para derrubar a Selic: riscos e análise - Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGJXN2dpTGp1RHdybmh0bDFIUDJSNVZjUUU2N0d2NU95WHJfNzNTd3NzczBGSWl2VXdqc3VOZTRmNjB5aDhHQXJHU3ZsLWNOT0RwTGdtd1VKbUZmb0M5WmtlYXMxbkJwWWx6N3hBd05PVllkUXBzTEprWlhaTEM1VG0tR2dpdW9sbkZUd0RpZ2JVOUU?oc=5",
+    "fonte": "Gazeta do Povo",
+    "score": 16,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 03:29:43",
+    "chave": "b5f0635caacdcf057b4862a40ca1c78b690bc0080f716ef69030f3e8be5e4eb2",
+    "titulo": "BC puxa freio e encerra ciclo após 5 cortes de juros; Selic fica em 13,75% - CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNG9RUGJLRTJtcUROSGd5d3FnZm5QdG5WY2JzOFZfLWtpcmVGMjB6Y1JNSWUzT3RDTHhkQ0Q4UzlfbmdoQXphcFdHSFJRUU0wajEtX21tSDNYbFdMbTdNVW4wSEwtek5EM2loNmtoYnBUYU5lTkxKbmVVNnVmNm0xb25JZWg?oc=5",
+    "fonte": "CNN Brasil",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 03:29:43",
+    "chave": "9f119c3bea9c030d159e9d8901790ed17180990fac2814ca42d89d61665cb2d9",
+    "titulo": "BC mantém Selic em 13,75% ao ano e destaca “aumento significativo das incertezas” - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmdIRDRINTg2aWx2dF94SmdKQmV6eC1XZmQ2ZUk2eDktWENjMGJ6NXFNWTJ5bVNzSmwwaHVnLTdYU1lmRXhZcWFfc0lOZ0xXbk5uOFM5My1ONVo5NjlEMTFCTzF4blE0THp1WjlWNnJva1ZkV1hwNm1BTTFpbkxVc3hrNWZCM0FY0gGOAUFVX3lxTFAwN3pNeXRxNUZobWwwY3VfWmpoUEJXVEwwQm5lcEF4MERLVmM3ekRlbWxsbVFxaThJVnJUNmRxLS00S1hyYnVRWFp4Mm1Td05GYXhIXzBvQjhHVnF1S0ZNYnB2cDQ3YU90MWhHMVg0QmVsV3MxSVpNbTZ6TmFIMXlSbDAteWdRRWU3WFM1aXc?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 03:29:43",
+    "chave": "0db48ebc0dc816246354d5c8398da8c8eb40e5c89ff636ec045cf16f03347163",
+    "titulo": "Copom mantém Selic em 13,75% e confirma aposta do mercado - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTlZVXdLRU94eEpUUUZtV214Zzk2WjRRNzZ1RGhNRTFYREtZNURSWFdXRndZSzVuaUxTMmU3Z3h4YkdubDlMVkE0UlE4VzhhT2ZnVmtVUW1xcmVjYWs2NXRPcTlvcnZKWFlmZVhDcVpoXzEtRVhiSEprR1h4aThPTU52VUVKRzU3T0d4WWRvY1lHZm1sdG5rSWJPalRKazNG?oc=5",
+    "fonte": "Poder360",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-05 03:29:43",
+    "chave": "15f54ef73048b437dc3756caf845b2beb6a85269ac830e25472f44d422608121",
+    "titulo": "Copom mantém Selic em 13,75% a.a. - InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54ZkhBOFhVcGtkY3RHVHJSUEFpRE05ZzNCVjJYbXZOd0JkMDFpaHd4OFlPVC1qazRaZ0tXVmJWMmZyeDNLMHcyZTlNcFFILVFTR1lhZEU1dlRldFBLN3hlMnFkSTdwTmRtbWl5bFl4YzlieVE?oc=5",
+    "fonte": "InvesTalk",
     "score": 12,
     "tipo": "Acompanhamento",
     "ativos": [
