@@ -1,48 +1,51 @@
 [
   {
-    "titulo": "Autonomia do Banco Central e o paraíso imaginário do controle da Selic - JOTA Info",
-    "resumo": "Autonomia do Banco Central e o paraíso imaginário do controle da Selic JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdG1UN0xPQ1d2ZjVJVmdCMVFwNzZfUWtESUR5cWZIWVdVSFJLVmJKM0RyUFoxeVFDUTJDWnhhM05qemxPZ1J4X0wyTzgzcHZzcU9uSmhBdnlYNms2Ni14TURpZHFOWDBUWTU1WjBTdzdwSGZNWDViYVUzeHZib0FpSWRQOURLTzhROWVwTEpXaFZBNkZUVV8tNUlpYVE5bHZvcGtLUl84T2FYVEtzenNzVGRwdGN4X0NsRXc?oc=5",
-    "fonte": "JOTA Info",
+    "titulo": "Ibovespa cai e dólar sobe com tombo em NY e cautela após Copom - Valor Investe",
+    "resumo": "Ibovespa cai e dólar sobe com tombo em NY e cautela após Copom Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeG9CNW1VbkRpRDhoT003OGpuNFNTUTd4VTV3Uk02c1ZTeVozNjhuNlB4bk1ta1dOV2duZy1rb09EWFlvczJ2dGZGNXRZaTRFQzdkY0x4WHl2eVNQNFBHS0Q2Y3RUc0h5aXhkTUFrXzdxVy1QNWZmWmtHeEhSRTJ3R1lKQjFic1NaTmsyMFk3TkIzZW04Ry1HOGtBd0RGWVpDR0NwZjY2UVdTT0dDX19vejhkamhEMGhxdkZCZ0E4OU0tRDRSaXdjbXVqZTVSY2dRT0FqUnZYSdIB5gFBVV95cUxPMmY3cjRMMlptdHN1a0pkaVRja1V5Sjhlc2hWNTIzVGlUSENGbFpONTZCRDlTU09JVGdROXJkQUpsYWdycGgzV0ltN0F5NjMtaFVjcW9hZWJhQmRqekNPenpoM1g2Z0FnNnlqYmI5R2d3MXFQX05qYlJBeE5BVG1acGxLYjU1aThxTGlVc05VUGQ3SkQ0bzVqa1ltY2RHNkljWlJpVEd1OHhSaGtSRkt5WkxzYkgzRjJzVTRqMzBDYUxEQ0VGNjRJRkRmcDZINUktVUFoNUl5QUZaVWZNNFJXMzRsb05wUQ?oc=5",
+    "fonte": "Valor Investe",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6e1fe0ae8c5dde685cc1182bbcd62db9b1eec72a235e77d105dce71e45a30e7e",
+    "chave": "e1d6b6cc1462856b3687ee14163d3806846000975270f1baa45cc89295de162e",
     "ativos": [
       "IBOB11",
-      "KNCR11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Selic estacionada em 13,75% leva investidor a rever renda fixa e Bolsa; veja onde aplicar agora - Estadão",
-    "resumo": "Selic estacionada em 13,75% leva investidor a rever renda fixa e Bolsa; veja onde aplicar agora Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNjktZ0dETnVZaGFEaHhGaDFxQXpFYWZjelZBbjFqRXpnVDhWdS12eV8waWdnR3Z4TzkwUk5TeXlwSlZrOTlYdXM0VjBjVGlqd3AxQU1KbXU0MU10N2NDQ1lqSlhGWUZXeFktN0JZOTRBYmFzNDFpaGNFV1lRcU1XMEdCSVdjaG1qN2ZrQ3gtNGsxUDJyYkd5enE3Yi1GNV84T01tUG5tUHhBcUdqQ0x0ZnFiTnV6U19OejllY3ZJclBTV1pWcmNYWkpweXlVV2tIa25iUTV6MnNGamN1U2VJR09xMy1iSGtpOGc?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Dólar oscila e Ibovespa sobe após Copom manter a Selic em 13,75% - Suno - Investimentos Inteligentes",
+    "resumo": "Dólar oscila e Ibovespa sobe após Copom manter a Selic em 13,75% Suno - Investimentos Inteligentes",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPTE1GbFQyRE03NjhKSzhMNGtxOXpkUk16c1hGZi05NUtKREwtcDBXQzVmZmxVbkhtcVBpWU5Jd2pTVDZKaWF2c1U5MS1OTnQwWkY1b05CZXZHd2ZQVFBzckpJZDk5cFpUZjI2YkNtNkxPdzExbUdrWXFzWU_SAYIBQVVfeXFMTU92cnp3Ti1OcEtnaExoTHNzeTF3T3JxZ2gzWUJyNnBMclFrdUcxM1JVbUlwMmJvT05ISHhGT3E5WlZHNFM1NDdKLW12V2dVRkNxQTdJLXllWVA0RllTSWJ5cmNLcFdRLXRPRVo4cjh3QmdmanN6NDR2YU9jNklEbzRjZw?oc=5",
+    "fonte": "Suno - Investimentos Inteligentes",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "2b29befab8833779098af85c25a498cadf5a541c4f0dc94b3af95adf7050755a",
+    "chave": "dc025ff7b29055ada3fe0fdbfd1399006b8725d9206d0c6b7cd981debef5f574",
     "ativos": [
       "IBOB11",
+      "WRLD11",
       "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ativos Internacionais",
       "Ações Brasil",
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -52,64 +55,56 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "CCME11 avança 1,22% e movimenta R$ 148 mil no pregão da Selic - Fiis",
-    "resumo": "CCME11 avança 1,22% e movimenta R$ 148 mil no pregão da Selic Fiis",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSzh5UTVXd2pNTnd2UnRYTGRxZFprS1JXV2haNjAtdjJ0VXNEbWh3X0xrejNsVm9iT3YzbHFxUEhkM3pMdWs4dklsY2hXdEYtbVNvUEREa19pQzJkYnVOWE1mMFVhVHVBa1pTWDAwY1k5a3NtRG0xV2d5aVEySFlnaDA4VUdQMk94ZVI2UG55NFN6UQ?oc=5",
-    "fonte": "Fiis",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "4fe06e287d240a7995e5c61f2c159ab570068749be8e35c4c32f9e3c573a5d66",
+    "titulo": "Wall Street despenca: S&P 500 cai mais de 4% e Nvidia (NVDA) afunda; entenda - Suno - Investimentos Inteligentes",
+    "resumo": "Wall Street despenca: S&P 500 cai mais de 4% e Nvidia (NVDA) afunda; entenda Suno - Investimentos Inteligentes",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xWU9tZ20zcWtWSVBNaG1Yd3Z4X0ZoNEFuNlFWUk9sOXcxNlpBSElidGRXNkc2NEQzUFY3UUpaQ1B3RkhHTUZzbEZOdG9vV29CS2JDTHRhLTE4bW1EdU9QZVBNVXJSdko1UXRvWnd3LWM4UdIBd0FVX3lxTE9NcHJwdW40MG8tSUdQTGdCaTU2djlMVlFxWmZEWktfQ3BKQnFXQXlHUGZ0SDA4ai1KX1J6d2YyQjRDeW01Ml9uM3VIdEs3RXNlYzBZZXRIZDhiZmppcEFsd042d0hGcjNRVWVKUU5kQXg3b19lNTZZ?oc=5",
+    "fonte": "Suno - Investimentos Inteligentes",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "3265472ea7b725cc9b909be99947f1896910ad65ff2b07d4b32878f9511a5269",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Fundo cresce 2,55% em dia de decisão sobre a Selic - Fiis",
-    "resumo": "Fundo cresce 2,55% em dia de decisão sobre a Selic Fiis",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlhNVEhXZ09GaHpPSEFMN2EwQjFiOTZTTF83X1hxcGV0b2lwbHUtMWNpM1hZTFU3X2ZlekFNLW1paWVyT3ZsN0pITVBYanFvbTFQWGszVk13WW9SVUI1amV6MTg4S2dtM2laSGRkS1lMUk5aR0ducTBqQl8yVk1oYTVlQWZQakg4MHN3RzFldHcwai1vZ0lEaQ?oc=5",
-    "fonte": "Fiis",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "1be460f069446eff24c990734675f75cd4df7ae8c8b3bb111fb91d981226dbd8",
+    "titulo": "Wall Street despenca com queda de ações de tecnologia e Nasdaq se aproxima de correção - Brasil 247",
+    "resumo": "Wall Street despenca com queda de ações de tecnologia e Nasdaq se aproxima de correção Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlI4cnFTbEVlTlM1TlNrTnlXbGhpZU1KalpydWcxUXFwT1J3dG96ZVBzSklPZmpjdjdTNE9pOXlKLWdORmFRX0FROHRUR2lkQkdjc1pOMGNWa1JVNmRRbU54U2xQOFBnOWJVUnhoMXNHeEZrNkN4bS1HMGNPU3NhdGVUeUFZMTk3Wmdya0RJMXo4bWQ3RnZiWHZYSnkySkxjcXZwRFlIT1pOenMwamNNRVgzQldaZVNNWGFr?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "bd135ecd5dcb670be10e4fbe90eba6125984140289bf80c8d723f7bcaa878e42",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Na primeira decisão pós-eleição, Banco Central ajusta a direção da taxa Selic - NeoFeed",
-    "resumo": "Na primeira decisão pós-eleição, Banco Central ajusta a direção da taxa Selic NeoFeed",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnM2NXpnbmlsa2drZEF4N1Y2amduQWtEdGgteVFPcW8wbVNPUFkxemo2TFp2MlEyWTJTWFlua1hBWFFQbzV2cEsyR0xiNjVkc0tkNDNiY09sai16cmFwUU1YbjNONldWQUZGOE8wSjdiczVHU0xBcXZXcjlVU1VkUzBodzhRTXI0eFRRUkt5QU5YMmUyeFY2X0g2T2htMnc3TkMxd3N5UGx1S3I3QXc?oc=5",
-    "fonte": "NeoFeed",
+    "titulo": "BC interrompe corte de juros e mantém a taxa Selic em 13,75% ao ano - UOL Economia",
+    "resumo": "BC interrompe corte de juros e mantém a taxa Selic em 13,75% ao ano UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUd3bmZkTTB2MkIybG9fUkg3SXNuM2JPLTVIdFpEak9mVVl1QWVjTzdTSmM5bzFvRHdhT1F1OW1hMXk5R2NqQjFKazNTM3N5YktIMUo2U2pNQVp4NWVQS3hkb2lubmRNMUwwVDVXb0l0akVpNVZxeHVyN25sNExlMTdOSnkzeF9YX3NfVmkxY0hKTm82YWpLcm9qZU5rTVBp?oc=5",
+    "fonte": "UOL Economia",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ad4c7fe3dd0b76d726d135df4082dce44773d482e34d265ba351dc2ce9478da8",
+    "chave": "fb138c8c49f0f774a39d22dd7dddc39eb506ae0dbb07e940e574c04d8249da7e",
     "ativos": [
       "IBOB11",
       "KNCR11",
