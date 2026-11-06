@@ -1,20 +1,48 @@
 [
   {
-    "titulo": "Dólar cai a R$ 5,45 após eleições nos EUA e antes do Copom - Agência Brasil",
-    "resumo": "Dólar cai a R$ 5,45 após eleições nos EUA e antes do Copom Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3ZRRVVSaEUzeG93NXN5QzNlUXhfR0libHZReUNmeFpkcTc3OFN6SUwxRml3aFNWMnoxVzZmVGQwMTNqdkZUSW5HQXR1M2Z0X2t6dElzaF9RLS1XOGVoM3MwRjVyN05GOWQ2ekxXR09SY3g1T0ZwdC1OSTB0M1otVmd2U3dXX2twZERKbV9hRVVlQmpOaUl1ZXp4SEdDd3FQTGs4RGczclJJNUVEMEpGU1RR?oc=5",
-    "fonte": "Agência Brasil",
+    "titulo": "“Risco-Lula” faz Copom interromper queda na Selic - Gazeta do Povo",
+    "resumo": "“Risco-Lula” faz Copom interromper queda na Selic Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3STZXX3FQT1J1Wm1rQ1dPcnRUTjVGemNzdS1FTm9wZklsTlZncHZlNklWN3JUdnEtMzVyRFNwZkdEYTJnejBEbnRaamNWMWltUFVkZVoySDRkVlJSX3h5eTR0OUdDaGZ3U3lJWUgxazg4NXRRdWFVd05IbVdvQWM?oc=5",
+    "fonte": "Gazeta do Povo",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ed3a111ce85765a024d712e99d45fceea951203688e2ac7063eee96cf2c00292",
+    "chave": "46fb26490a5dacc8518cbb52ef00f767c20fad30cfc5df5193b119820c270c9c",
     "ativos": [
       "IBOB11",
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 19,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Selic a 13,75%: queda sustentável exige ajuste fiscal - Portal Contabeis",
+    "resumo": "Selic a 13,75%: queda sustentável exige ajuste fiscal Portal Contabeis",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUVVDbXc1VU9rYy1ERmZNSEVHb3RxMWhVMnFIY2pKWUpoZXQ4eUM0VkthVVVqZUh0RE1ROTJEbjdQMjZ1T2owb2d1Qm83RWoxTTFrV29TWlU3WEcyVmhnUjM0UUZVS3dib0ZDSXRTcTZ5b3lJN2x0SFA0OEw5VF9HWXhZNTM1RkgtTFRzdU0tTmlNbXJkZXRJM0RqR2k?oc=5",
+    "fonte": "Portal Contabeis",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "cf0aef5624ac9a0ff27ec24f5c6255c8128a5958a76139f44a278c0246f45697",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
     "score": 15,
     "motivos": [
@@ -27,43 +55,48 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Crise no Paraguai expõe riscos de investir no exterior além dos benefícios fiscais - Monitor Mercantil",
-    "resumo": "Crise no Paraguai expõe riscos de investir no exterior além dos benefícios fiscais Monitor Mercantil",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlQyN1EzdGQ1WlZ0N25sM0pwWlBMbk0tcHcyS1dHbjJjUXdsOVBKeWVVQ0VraUt1RzRqU0ttd2dqTDI5WUVYcEE1SHJyNm95VUQ4QzdPUzBTNURuVndtMHlNTVNqU2dJZGtoNEQxVFFCYTRCOU43aVpBYUh5eUdtTUZlRjlaRUJXREpPcFpRSmlzclMzNzNYampjZm9lSzFwMnBHRjVXSFlIUGl4eWVnNVRQLXJ2Zw?oc=5",
-    "fonte": "Monitor Mercantil",
+    "titulo": "O Banco Central do Paraguai começou a pagar adiantamentos aos correntistas do Ueno Bank, cuja intervenção deixou cerca de três milhões de clientes sem acesso ao dinheiro e desencadeou uma crise política no país.⁣ ⁣ A informação foi confirmada nest - Instagram",
+    "resumo": "O Banco Central do Paraguai começou a pagar adiantamentos aos correntistas do Ueno Bank, cuja intervenção deixou cerca de três milhões de clientes sem acesso ao dinheiro e desencadeou uma crise política no país.⁣ ⁣ A informação foi confirmada nest Instagram",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WMzloUUQ2RHF1SDhjZDNWaUh6aGN5bW5YOExGNWZPaXVJVkQyeXRzWkhmM2M3OWh4U2hRVlBCQVZXSGliUWoyZ1RqUjI2TWtsSUE?oc=5",
+    "fonte": "Instagram",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "43dbc2db357cf92b705749b65f8ace5bc592fbcce861174cb5ed188fbb6d4793",
+    "chave": "2fae645c4ed78286b516a3d6c0cbf18cb3902c7738cbfa89d3d78750c233820d",
     "ativos": [
-      "KNCR11"
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
+      "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 12,
+    "score": 15,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa perde 167 mil pontos à espera do Copom e com peso de Petrobras - UOL Economia",
-    "resumo": "Ibovespa perde 167 mil pontos à espera do Copom e com peso de Petrobras UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0RkUC1DeGxDUV83dzlTMUpOUmxyWVlBb0dETERvTWJLa24yT1RzZ3pVVElvS3BISkp1TVVGWDZXVmpXVVdacHF3Mlo3LTNzc2IwMWpvSHlYRU5oVWdUNUdrWnk4bUROd0szRGM4Nl9kc1lqUndiSmIxYmQzTlpBY2FDSTFUYmI0TUZETUFTWmFnb28xTDZXS2N0MUtIbTBaQlE?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "cf99011c47764e75c9c75e6f339689f0c210d512ec2be926372863675c4af093",
+    "titulo": "Copom mantém Selic em 13,75%: como ficam os investimentos nesse cenário - Bora Investir",
+    "resumo": "Copom mantém Selic em 13,75%: como ficam os investimentos nesse cenário Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV0dXWjU5QVRNd2pqSWpSZDk4eTZPeFZmaWF2OVF6c3pLNkJzUUdaR21rZ1hwV0Q1b2xwaFNrMTNFeE1aRVFDMkM5MGVReDJQTlRSSG1jYlRNNTQ3OERKeU1RaHNYQ01IOWI4RktSR19PUnoxWFV6UzN5WTNOOWtkal9zQWJ0dUtGYk5XMU5pemM3eXJqMndnUU1NMFlMSnN6VWdIR3NjYmpsOTVsRFdQY2poMkRWdnQ5TGVsUHNHT1Y2V2pKaDJtVzdncnV5Mzh3TzdHSA?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "c84789269949bf0db295711c91c8949cb21bfd65c166fe59704af0016c3cf587",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -73,36 +106,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom mantém taxa básica de juros da economia em 13,75% ao ano - G1",
-    "resumo": "Copom mantém taxa básica de juros da economia em 13,75% ao ano G1",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVJScGdNUWUtY29fZXczLVZldDVGX1FtZ0Z0em91QjFJbDU5ZDdLRHFiN1UtTG9XY2g2YXZqN2NfTVRKWk5talM1ZV9NNnNWNW9lTDluQmNueDhrNWZ0VWRjRkl2WExyNS1sdTJ4Y3VzR1NNQnk4RWZtQnoxVVJGa2RMbkhZaldfSC1rZ3dBMVJHR2hXV3NhWmVzZzRwQmlfcVF1RXlGWXZCWU40OTNrYm1aMjJyRHllZGhDb2NnQdIBzgFBVV95cUxOODBaVlh0OVE1STZlbkZLS1kwbWpTYmpFQkoxWU11dkRVWmRnbGd3S1hOSEVQY1pVMGl1MTlTTHM4S3g3Vk9NRmhHYzdHTHBtSERCbVZBdlQ1ajBPdTNsTFZoZVFDWWNMVUc1b3l3RVBZWkY3cmJpOVdPR0dXZ0pNMnlTVkEzVFU2NkxfNlJndWFaZi0wQzJ0ZTZTSXRMUUNiMG5lR3Vtc0FlYy1GWGVUenRacldMZFUwRnR3Y0ZucFRRQ2hVNFMwSUVmV0UwQQ?oc=5",
-    "fonte": "G1",
+    "titulo": "Economia em Destaque: Banco Central do Brasil mantém juros e sinaliza estabilidade adiante - XP Investimentos",
+    "resumo": "Economia em Destaque: Banco Central do Brasil mantém juros e sinaliza estabilidade adiante XP Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNmdsaHA3UG1SLVNuTjlpSzdhUGtPRGNEY1lSSTFPVTFYQ2dlRGNySkFOU1JVaWtPRnFYR2NxcnhFYzFUQ3NVSkJ5cGZ6S1g1empXb0Q5M0hyNWVLYVRlamVsMUlpYTJqMm1Wd1NDekZTN25JQTR3UFVaWUFQaWtmYnlYa0hwY2w1d3A1LVk2R1gtOHdNWUs5bTVaSjhidkxncnVvSVJsOFVXLVB6S210TjRwSU1iOU1DbHliN09Yd2RaNERFRkhz?oc=5",
+    "fonte": "XP Investimentos",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "03577f5194ad13e2730740c1455f99d34d1c356772cac3148e1aa68092394868",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central surpreende e mantém juros básicos em 13,75% ao ano - Agência Brasil",
-    "resumo": "Banco Central surpreende e mantém juros básicos em 13,75% ao ano Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0FpY3VSWGM5cGFQUEN5Zmh4YmpzSUdMM09fdHlmdEtRRGhNTVRnNkpQX2FKTjVqRVh6WDVBbVpxZkJUT3dBYzJNLU9qUERxN2hfM1VnNkZLTmlWaHYwOVNrSVFsSmZBQXkzS1ZDcEVERHZvUUVsdlhWX0NScDkwU0xuNVg3ZmZDbndvSzhISzdWY3VrVGxqWk9kZnZQRXVIZDFwMW9RdGJNUjVZR3c?oc=5",
-    "fonte": "Agência Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "ef442148eda354cb062784f9329f342bc4e122d8928d5c33b78869c4aceaf452",
+    "chave": "9c46867bfccabdc4d27cc9d2854a83c63b08613887369a0d19b6735d95937af0",
     "ativos": [
       "CDB 100% CDI"
     ],
