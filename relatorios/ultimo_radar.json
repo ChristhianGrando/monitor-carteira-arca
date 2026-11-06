@@ -1,11 +1,38 @@
 [
   {
-    "titulo": "Ibovespa cai e dólar sobe com tombo em NY e cautela após Copom - Valor Investe",
-    "resumo": "Ibovespa cai e dólar sobe com tombo em NY e cautela após Copom Valor Investe",
+    "titulo": "Ibovespa Futuro sobe com Selic mantida e expectativa de fim da guerra no Irã - InfoMoney",
+    "resumo": "Ibovespa Futuro sobe com Selic mantida e expectativa de fim da guerra no Irã InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2hZVGRQTTNuZ1JiZnhTRTRiZDVESExCcC1QMUUxMVQ2T1BOazNlTWZrOGpjUUdzSkVKWWp4NzFLUUJISU1FTUh4Z2xuQW9JTUhzc0tOT3BDaVd1OFV4OHNJa2NIMm5GVGF4Z2d1OEhMWG54dGhNcmQ1SHJGajhnUUU4TXM0RWl5d2pXYjFzdmtRclROcm1TMm1JbFEybjRHdUdMSGZuYzJUWk00RWtiZThTdmZHQdIBuwFBVV95cUxQb04xc2tHcE5jUEpuUkViWFN4Tlo0SGFSaEZDaXI3eDNOOVZISWdzR2l1b3dyai01Y25ndldjUmFuci1nUVhyQ25Gdk9yYncwWERIZHJNQTJqZGx6bjBldmZVNmdvMXI1cjN4cnpHanh3cFVJMkJBLUxMT0N4V29aanYyZlo2TG5Nb3JYaHV5elRMSU1ULWNHSFdEREFDZXRZNm0tZ0E3Wk14VkVqbFhZQ1E5d0N5ZTNqdWV3?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d20398e8c35279571744fd25057087bab6f27a73f3065ee177eb0aa949959edc",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 16,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Após Copom, Ibovespa fecha em leve queda diante da sangria em NY; dólar sobe a R$ 5,49 - Valor Investe",
+    "resumo": "Após Copom, Ibovespa fecha em leve queda diante da sangria em NY; dólar sobe a R$ 5,49 Valor Investe",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeG9CNW1VbkRpRDhoT003OGpuNFNTUTd4VTV3Uk02c1ZTeVozNjhuNlB4bk1ta1dOV2duZy1rb09EWFlvczJ2dGZGNXRZaTRFQzdkY0x4WHl2eVNQNFBHS0Q2Y3RUc0h5aXhkTUFrXzdxVy1QNWZmWmtHeEhSRTJ3R1lKQjFic1NaTmsyMFk3TkIzZW04Ry1HOGtBd0RGWVpDR0NwZjY2UVdTT0dDX19vejhkamhEMGhxdkZCZ0E4OU0tRDRSaXdjbXVqZTVSY2dRT0FqUnZYSdIB5gFBVV95cUxPMmY3cjRMMlptdHN1a0pkaVRja1V5Sjhlc2hWNTIzVGlUSENGbFpONTZCRDlTU09JVGdROXJkQUpsYWdycGgzV0ltN0F5NjMtaFVjcW9hZWJhQmRqekNPenpoM1g2Z0FnNnlqYmI5R2d3MXFQX05qYlJBeE5BVG1acGxLYjU1aThxTGlVc05VUGQ3SkQ0bzVqa1ltY2RHNkljWlJpVEd1OHhSaGtSRkt5WkxzYkgzRjJzVTRqMzBDYUxEQ0VGNjRJRkRmcDZINUktVUFoNUl5QUZaVWZNNFJXMzRsb05wUQ?oc=5",
     "fonte": "Valor Investe",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e1d6b6cc1462856b3687ee14163d3806846000975270f1baa45cc89295de162e",
+    "chave": "f85242ec0610242e6d1a4cad41f767607dac2c9ef0a1bbc719c28d75b9f43f80",
     "ativos": [
       "IBOB11",
       "WRLD11",
@@ -27,25 +54,50 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dólar oscila e Ibovespa sobe após Copom manter a Selic em 13,75% - Suno - Investimentos Inteligentes",
-    "resumo": "Dólar oscila e Ibovespa sobe após Copom manter a Selic em 13,75% Suno - Investimentos Inteligentes",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPTE1GbFQyRE03NjhKSzhMNGtxOXpkUk16c1hGZi05NUtKREwtcDBXQzVmZmxVbkhtcVBpWU5Jd2pTVDZKaWF2c1U5MS1OTnQwWkY1b05CZXZHd2ZQVFBzckpJZDk5cFpUZjI2YkNtNkxPdzExbUdrWXFzWU_SAYIBQVVfeXFMTU92cnp3Ti1OcEtnaExoTHNzeTF3T3JxZ2gzWUJyNnBMclFrdUcxM1JVbUlwMmJvT05ISHhGT3E5WlZHNFM1NDdKLW12V2dVRkNxQTdJLXllWVA0RllTSWJ5cmNLcFdRLXRPRVo4cjh3QmdmanN6NDR2YU9jNklEbzRjZw?oc=5",
-    "fonte": "Suno - Investimentos Inteligentes",
+    "titulo": "Ibovespa Fecha em Queda Pressionado por Exterior, com Balanços e Selic no Radar - Forbes Brasil",
+    "resumo": "Ibovespa Fecha em Queda Pressionado por Exterior, com Balanços e Selic no Radar Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUpHSFI4dkFrYlZvSzVhMHZZSk4yMk1mXzNSQlFZZDdQMXZ0b3RpM05HdUpOVG8yVHFoSHY1anFxNm1Da3JfcnZwZGtTSThUMEl4a1BEMWNUVVA4VF9COVRXNmpqMEdiaU02XzVNby1MQkw1MEx3M3oyVngzRDFiV2tJRW5fSnUxRTV3UHBWS3daRW44YnMyMmpZNXdOQkpvaXgtNHlVSzJMaUw2U3NnU3lyZ3JjN0VBOUJ6SzdZQQ?oc=5",
+    "fonte": "Forbes Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "dc025ff7b29055ada3fe0fdbfd1399006b8725d9206d0c6b7cd981debef5f574",
+    "chave": "1b48b05eb1e0be7aa8286317078e93bdbf8ea1312f7a3bd3bd829ef778b0e263",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar vai a R$ 5,48 com petróleo e Ibovespa recua após Copom manter juros - CNN Brasil",
+    "resumo": "Dólar vai a R$ 5,48 com petróleo e Ibovespa recua após Copom manter juros CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFhZUHpSVWpMemYyXzVoYXU1TlFCVHloTUQtOUhvWHRoLU9vaDd0c2lCOUtyTWp1YzBxdUZkVU84Q1NMRjdselFMbG9SS1l1Nm5xWURkYmljdERfSnV0N1ZXRWlRRTZvUXNQdlhkS0EyYTB5WFZOTUZsNnNDeEhQWlVJejdNa0R5VG9wVTFveFc5dmh4UkV4NVBDUEt6RC1icWlpcA?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9b211957a5cd8977d3a7c273e04f3f934f92616693a6da6955b0a117d5dbf3f4",
     "ativos": [
       "IBOB11",
       "WRLD11",
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 13,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -55,56 +107,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Wall Street despenca: S&P 500 cai mais de 4% e Nvidia (NVDA) afunda; entenda - Suno - Investimentos Inteligentes",
-    "resumo": "Wall Street despenca: S&P 500 cai mais de 4% e Nvidia (NVDA) afunda; entenda Suno - Investimentos Inteligentes",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xWU9tZ20zcWtWSVBNaG1Yd3Z4X0ZoNEFuNlFWUk9sOXcxNlpBSElidGRXNkc2NEQzUFY3UUpaQ1B3RkhHTUZzbEZOdG9vV29CS2JDTHRhLTE4bW1EdU9QZVBNVXJSdko1UXRvWnd3LWM4UdIBd0FVX3lxTE9NcHJwdW40MG8tSUdQTGdCaTU2djlMVlFxWmZEWktfQ3BKQnFXQXlHUGZ0SDA4ai1KX1J6d2YyQjRDeW01Ml9uM3VIdEs3RXNlYzBZZXRIZDhiZmppcEFsd042d0hGcjNRVWVKUU5kQXg3b19lNTZZ?oc=5",
-    "fonte": "Suno - Investimentos Inteligentes",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "3265472ea7b725cc9b909be99947f1896910ad65ff2b07d4b32878f9511a5269",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Wall Street despenca com queda de ações de tecnologia e Nasdaq se aproxima de correção - Brasil 247",
-    "resumo": "Wall Street despenca com queda de ações de tecnologia e Nasdaq se aproxima de correção Brasil 247",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlI4cnFTbEVlTlM1TlNrTnlXbGhpZU1KalpydWcxUXFwT1J3dG96ZVBzSklPZmpjdjdTNE9pOXlKLWdORmFRX0FROHRUR2lkQkdjc1pOMGNWa1JVNmRRbU54U2xQOFBnOWJVUnhoMXNHeEZrNkN4bS1HMGNPU3NhdGVUeUFZMTk3Wmdya0RJMXo4bWQ3RnZiWHZYSnkySkxjcXZwRFlIT1pOenMwamNNRVgzQldaZVNNWGFr?oc=5",
-    "fonte": "Brasil 247",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "bd135ecd5dcb670be10e4fbe90eba6125984140289bf80c8d723f7bcaa878e42",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "BC interrompe corte de juros e mantém a taxa Selic em 13,75% ao ano - UOL Economia",
-    "resumo": "BC interrompe corte de juros e mantém a taxa Selic em 13,75% ao ano UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUd3bmZkTTB2MkIybG9fUkg3SXNuM2JPLTVIdFpEak9mVVl1QWVjTzdTSmM5bzFvRHdhT1F1OW1hMXk5R2NqQjFKazNTM3N5YktIMUo2U2pNQVp4NWVQS3hkb2lubmRNMUwwVDVXb0l0akVpNVZxeHVyN25sNExlMTdOSnkzeF9YX3NfVmkxY0hKTm82YWpLcm9qZU5rTVBp?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "Sujeito às pressões do mercado, Banco Central mantém Selic em 13,75% - SindicarioNET",
+    "resumo": "Sujeito às pressões do mercado, Banco Central mantém Selic em 13,75% SindicarioNET",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanNRbVNDeVYwQ3dtWkcwZERGUS0xazlKU2pMWjdiZTZZRWdxNVBncDh3VjFlTjB6cEt6MzhJaWhwWjFLLVdQUEhobklUTUllS2VsRkktOEg0TTVGWjZ3U2FKNWQ0NUcyYXV5UjQyWkQ5b0Q5Und2Vnc2ZjZ3eksxZGdndVhmTEFYUE1zdXVzeUFlSEE0VFNjY2lBdXVLSlEtUmI5SUtqbDlpbkJGMDJV?oc=5",
+    "fonte": "SindicarioNET",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "fb138c8c49f0f774a39d22dd7dddc39eb506ae0dbb07e940e574c04d8249da7e",
+    "chave": "2efea8b62849d351f342de5b4f4c08cdea830fc6efa9b9a9abc6f27d84b675d6",
     "ativos": [
       "IBOB11",
       "KNCR11",
