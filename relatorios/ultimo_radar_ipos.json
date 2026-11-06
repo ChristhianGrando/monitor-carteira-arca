@@ -1,18 +1,19 @@
 [
   {
-    "titulo": "Mercado de IPOs nos EUA perde fôlego após recuo em estreias e adiamentos - Bloomberg Linea Brasil",
-    "resumo": "Mercado de IPOs nos EUA perde fôlego após recuo em estreias e adiamentos Bloomberg Linea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVldtbHF0Nno2cmZFbVo5UGdWODhGRExuUWtEeGZBQk5LUl9uUHdzcEtJc3BRSmQ1VllKZDBTSWpFNlQzVUdDdndpQkxrbHhZUHJVUl9lUTVZRUluQVVWYThDdVI4WExlS05lZHl5d2JTd2I5M1pKNUUxdkpjbmJMZV9SXzV6WE03V3RHeHJOSDRwWDZRcUlrMGlPNXROamt2MnFDSjZYb3JjVXB6SHNLc0Jac1YxRlh20gHMAUFVX3lxTE5pMGVyMkU3dEpvVTRQM1lQQWRRMks1UGFwMXNlYlZjbGI2ZzZZSkxKeHNfRk52NUpiYjhlUmtPZEVUdVJqR2dXTWN3dVR0UkNPSmNXc09Mbmd0djk3UWZnTnJmbEVtaTRFOENMaWR4ZnQ1b0tjWV9Zb0VMMWo2TS01RThvR2o3aklFQkhkSXh0RlpncjFpSWlJX2FnZkVHYWtXVUZwRmRQR1piejdhMzl5c3JveFF3Sk1OTnAydEk2M1MzU1dPN2RnOVZoeA?oc=5",
+    "titulo": "CVM determina que Centaurus faça oferta pública por ações da Oncoclínicas - Bloomberg Linea Brasil",
+    "resumo": "CVM determina que Centaurus faça oferta pública por ações da Oncoclínicas Bloomberg Linea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1NUV0syVC1UWHFhN242b2U3LWtlZGVzMFVSOVN4VEh6WlZMQmNqbnFQX0k2Y0E2ZHZqMTFQY1JkUVNrUEZ2ZmNSTUZILVBhU1lnMGU1azRrN3VpTVFoRmJYejRFc1Y2TDZwOVJZYXRGX1RTcEpPVHNFMmZ6amFIdU84eDd2Uk8zSGduN0NGUXVLR3pRUUFkY2h4N1UzNG0xVmJCRFhtYUFTZ1JhUHltM3BBQl9wU2hO0gHMAUFVX3lxTFB4V3YtOWxkQTgtWVg2c21mNm9Bd0pLTVlDdGVORlAyRXduWDhZZXM5VzNobUVJeG84Zk1GaWlBaHhqbVJ2cGVtTWVzVmpNVnRQNFd3UWJTRFFoTjJzeVlfckFjNUV0UW55SkxOMjZ3b0d5a0Z1b05LMW1BN19uaFlWN0gxUG5pMU9neG9sbWtYWGJLbDBfZDJFZF9IY1J4NjRucVZxMEZ5Nk5XbDNKVV96YVRMMFMxWUdMcHRtT3FueWx5YXJhYVo3T0V3cg?oc=5",
     "fonte": "Bloomberg Linea Brasil",
-    "consulta": "ações estreia bolsa IPO empresa brasileira",
-    "chave": "2e018b10942e9ba332f1e424da41e36fe10744e3e15da5da6747555214d6ad82",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "1f2ffc10ab4d4aa6a92f5a3a4e65458ec7f45ecf371da34143c88ff9a9b47438",
     "score": 8,
     "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa",
+      "envolve bolsa, regulador ou mercado externo"
     ],
-    "tipo": "IPO em fase avançada",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "Novo IPO em análise",
+    "estagio": "Pedido de registro / prospecto preliminar",
+    "acao": "Acompanhar próximos passos: prospecto, faixa de preço, coordenadores e período de reserva."
   }
 ]
