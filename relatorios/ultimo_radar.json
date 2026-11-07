@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Copom mantém a taxa Selic em 13,75% a.a. - Banco Central do Brasil",
-    "resumo": "Copom mantém a taxa Selic em 13,75% a.a. Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jRDBHSDVMOEJEeFRnU1FodFdNUHppQzVLV1dHS1VkWHBqU1RhWHo3WHh5S1RnczJ5c0hyWTI2ZG1JY09KbTJBVGkxSV82QzRLZllDZV9VVVI3cU8x?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4f876566d7cc246167d76634c3005a8eb546d51920bb7834b8cc0d3c6842b280",
+    "titulo": "Metodologia de cálculo do teto do consignado INSS considera impacto direto da Selic - JOTA Info",
+    "resumo": "Metodologia de cálculo do teto do consignado INSS considera impacto direto da Selic JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlRMQW84OXVzN3hGWFlTcW40azFxZWprUm9XVGc4NGtuajdZRDlfMC15bXg5ZThCT0pCOTlVUDlnTklmaWRKME14M3puUUFUS1k2TXZZYVd5bzhpMTgwRlN5UG5tekpnZ2RfekVSM2t3ZnEwZmdJNHdxRGc2cWZKRkR4QkhZV3lWRk00bV9yVU1sQkk3OXR6VGlTX2ZxcUM0c0Fmd21mMzkwMWhOaHEtN2daLXJtRFBNQjBEcXphTlY1Z2o0c0NBNXA4c1ZVQQ?oc=5",
+    "fonte": "JOTA Info",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4121aed1558965ac9824f57d5a4c30be4775e2603003b92c6a131e79299fcb41",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,12 +26,36 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Banco Central confirma instabilidade no Pix e acende alerta para quem vai viajar - Mercado e Eventos",
-    "resumo": "Banco Central confirma instabilidade no Pix e acende alerta para quem vai viajar Mercado e Eventos",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYmV1bXVSY1dRZjFGNjR0ekd3WktXR2pVSGE4YjMyU1ZGMU5MQ3pnWHhSQUxMdFJ1eTIxYTktOVl6NHAzaVVZNFBORHRhdFBEb2NCdUpPejdTVTVuWDdidTRsNWxqS0VPdDloay15ZExqUy1NelYwMUZRQTBhQ0hXdWV3SzI0dU5SbDJTa3Z4YXZpVDM2QnJrV19LWGtFTG9LTnU4cDRvaGZMcVVmYjZreF9STmpkN20xc0ZXSFFEeFRlNms?oc=5",
-    "fonte": "Mercado e Eventos",
+    "titulo": "Mercado teme influência política no Banco Central diante de ajuste fiscal limitado - Vero Notícias",
+    "resumo": "Mercado teme influência política no Banco Central diante de ajuste fiscal limitado Vero Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2NoR2E1ajk4ZWxuT1hzM1ktanY1RmxySlVSSkxJMG5kUFN2Y0hNcERhM1FmbVJ1UF8xRDJpSW1VdnlFNnVob250bGd6SjhPalZoV0hOemFINDVsLWJnd2YySGJoVEg5VHgwU2h5V0ZPcGZtY01sQjB0LV91RzZ0ZVhwSWRKbXdhUDFHTXhKVXBadlg2SDVMMF84cTYybXBCMUhFZVdPZjVEMzFLd3FVTXNwV0JNT1l6?oc=5",
+    "fonte": "Vero Notícias",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "387411b3cb8b058b5f218816b242481162ce49bbbc47ce4c388999979822a881",
+    "chave": "78a39d66d2b366f64de08cfc9c1f4cb38042faa8b3c2d168a9d54c181cc5292d",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central do Paraguai devolve cerca de R$ 880 milhões a afetados por quebra do Ueno - VEJA",
+    "resumo": "Banco Central do Paraguai devolve cerca de R$ 880 milhões a afetados por quebra do Ueno VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbTQxSVpRbHdQM1VBUkhTNnlZUEVoOS1OMDVzUXBPWk1fdTBXMkxxeHZoblE5OFNNdjl5eDVYUGJRWDA2WktMbWpvdGF4ZGlEbWVXOWZvV2VBVjEyUEhuOFZNRWJoVHVQbUttLW5fREJndXEwemdsZ3JmUXFPWEp5VXVSTEcxYjdMaVltaXoxcUQ3Tl9LUmFJaTF0LVNZblp6Y2RmN1JvV1c3bjhEd0dCMHBScjJsRkpvNWlF?oc=5",
+    "fonte": "VEJA",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "05bcc85bd8480d2a857cf5f5b5aa15ef1a483e3bc967e47dd92de57e714bb14b",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -48,25 +72,25 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Tesla e SpaceX, de Elon Musk, caem após vitória dos democratas nos EUA - InvestNews",
-    "resumo": "Tesla e SpaceX, de Elon Musk, caem após vitória dos democratas nos EUA InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmJsV0toaGRDUnhrYzN4eGQwbWtHTzloanNONS0wUExfeERLZHRGMjV4alVSODE2RVljS1dQNmtYU1RLYnVYbkpFY0lIMlN2dGl5M0pyVWh4THk5WDFOb2hjcHNhVzN5VVI0YlBnVFIzMFlIdTl6X3ZjTzkzZ04xMUNORDhEVzVWX1Z6cWhVekNibUFhNk1PbkpieWtRem1HZEZCMklzTdIBrAFBVV95cUxOOHBwRnd2SUhzWDN1MTk2bnNWaDh1V3hQWEFGd2dmeDE0RVZvRGFuMnJnLWZ2Q0p2aTNSSzZPQ2NuSm1EazF3TnU3S1E4R0lyejNNVU01SFltcUZpaFVMcHIxQXZQNjlKUnhEY3MxV09kUWtZVDRPR1pkOHp0LVk4Q3BGTUtVaFozLWFCSFA5dGI2OTgxbWxoczdNU1hrRERPaEhWRDFpR2V2WFI3?oc=5",
-    "fonte": "InvestNews",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "4f515c038316c007fc0c53e8a68368f08c3dc95f78c64971f20b9010b3bc149a",
+    "titulo": "Banco Central se pronuncia após Pix sair do ar e gerar milhares de reclamações nas redes - Portal Diário do RN",
+    "resumo": "Banco Central se pronuncia após Pix sair do ar e gerar milhares de reclamações nas redes Portal Diário do RN",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHp0YjNuc2NqbVc0bTllcnVEbnJEaWh2NThaNGwtZ1V1Q1Q3LTJUSkRGX1pfZkJzOVp1QW1pNEMxZURGTG9fR0xWNlplUDR6RUZXcmZ6azZtSVNiVVQ0bXBlekttYUl3clpIeElUODhqR2t2Z0lYeUI0TUl0NXVKZG1nN3p4SHZEQWlVZjlESEd0X3c0dlE5c3dEWXVnd2RSSk4zUWlKN3lzeHF2NFNnTXV5c0dfdw?oc=5",
+    "fonte": "Portal Diário do RN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4477cb573c76d96e9d38d8fa0974265a33f035cf95d404da5f8e61d007741f01",
     "ativos": [
-      "WRLD11",
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
