@@ -1,19 +1,18 @@
 [
   {
-    "titulo": "IPO da Anthropic pode ser adiado enquanto investidores questionam valuation de US$ 1,5 trilhão, queda nas ações de tecnologia atinge planos de listagem - TradingKey",
-    "resumo": "IPO da Anthropic pode ser adiado enquanto investidores questionam valuation de US$ 1,5 trilhão, queda nas ações de tecnologia atinge planos de listagem TradingKey",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWU54eUZiQ1NjQUhUSHJib293SVNjQmNEMFhsSUx2MUtVUURZblpGUWJLa3VPRE1Hdzk4Y0ZnXzNZRW53OUNqRGY2dUQyWGlVMzZJYldxZFBqQWMxaGE5RUhpN004NmJzdVRQQ1VmOHI3YmFJTkdmSWcwRVowWUh3ckg1Z3BwNGctcF9seFJXQm9oeWUyeGE0b3daTG44c1hJWlM1WkthOUM0OUtUTmRSbXJXQlAzSjV1cGpac3JmbmFxcU5vbDRKMTIyQTF6VEJjMVJYYllEZ0V0enkz?oc=5",
-    "fonte": "TradingKey",
-    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "61d09cea480d5ca34a6bff1c1899e4b3bea5f4baf4cc147f27458c89d859760d",
-    "score": 12,
+    "titulo": "Anthropic solicita abertura de capital e pode se tornar primeira empresa de IA na bolsa - Bloomberg Linea Brasil",
+    "resumo": "Anthropic solicita abertura de capital e pode se tornar primeira empresa de IA na bolsa Bloomberg Linea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb2RGQnRoX1ZWLTlJaGNhYzIxTk13THo2T3pJUGZDVjZfYW1lV0V1QUdmUnRpWURqdDBMaWVBOGE4amEyZ1YtaEVEVG8xMDJORE9LcDhqMG9VbzhzRXhEeWFuOFpiMVFWY3NKNWVWR3UwYUFJczRRR0VwYnlIMHlsS1R0NVRMWExqTWExX1YwUjNkMnJfaFQ2WjRaOHh6VndmT01aRW1veVZDNXdEenowLU1zUktGMFJ2VkVGY3hHWUZrSkF6dHBTZ0Jfb9IB3wFBVV95cUxNdEtnQUx4M1N1SEpJRkQ0VlpnUkViNThId0dNSWNHVWdPWDRaTnY3SkYzamQzUGU0Q1pFMGlhMjZvUVgyWkZXTUd0R0tTNTRFNXpWRmlnWTJFU0EyVllOWVhjYmZlRlRrYk5vVlBXMHIxVlJVT2RuNEh4QXhhdEtlbDk5a2xXZVZVZ1VxZE0xUjFrRnBJNVBtcU9MVk5TRzBMUGQydWtNdDRHYmcxai1BSVpDQ2ptdUhIanZpcnl2QmoxUkdhQVlFSDl0elNWZVF4U1pvWVVaWVhhdmhkaFBj?oc=5",
+    "fonte": "Bloomberg Linea Brasil",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "ade49dfc0c3da4fc91456d3d60594d7612f38dcf5a1f6c75478970c3a8ac8d1a",
+    "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem sinal de risco, adiamento, cancelamento ou baixa demanda",
       "tem relação direta com mercado financeiro/bolsa"
     ],
-    "tipo": "Atenção / risco na oferta",
-    "estagio": "IPO / abertura de capital",
+    "tipo": "Radar de IPO",
+    "estagio": "Mercado de ofertas",
     "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
   }
 ]
