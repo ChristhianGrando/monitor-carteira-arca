@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-09-12 05:47:48",
-    "chave": "80ffc6f28c2fcb58702d0fbaa76613f44aaaf8e4ce2b48816280cdab9b2456f5",
-    "titulo": "Juros futuros recuam após deflação do IPCA superar expectativas - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzdyeEpCU19OUDBLdFZvZTEyQXNhTWtlcEd5dmVaUHBPUTNzam94Ymc2d1VxYVRWLVlORUc5NVNDX2xWblVlRVRScENMeWdfRVRqbzhqcVdqNDB2cmZCcVR5WXMxQ1BNbElZbFZSNkx5NEZ2UUVlNk5lRFAxS2ZzWHhYWVpHcWtlT1JKeXlMdWJ5QmRYc1hNeU5wOWhzYTR4eDlReVFseUlKWnJITy1sX9IBvwFBVV95cUxON29uOHoyOTNOQmcxeXpkX2J5ZnpjWW1vTFZrSWd5bVVnZWtaMWRmd0ZsVWM4LWdlaVloSTdJTmN4Wkt6MHFycjU0ZEd0Z1Y1d25KTlJxVzBLNkhCRlFpWk5DaUJpaXRCdUpLMW5fQXVLZ0xPUlVrV3FDX1daYmFkeWxnUkprX19pNlRpcG9Pc1JCeFdRcXNBZXdrWUhNRWd5bEFYSnhMNHd3M2xuWmIxRGFUQ0FKY09kMU1iTzJLSQ?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-12 05:47:48",
-    "chave": "17d95abb8880a48c9c32b48251d31c428bce690c1ecd546946ec39ec398ffb91",
-    "titulo": "S&P 500 fecha em alta, com dados da inflação reforçando expectativas de aumento das taxas de juros - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WcGt6QTRDQ0V5THVPNzN2TEIxZHhUeFlINEl4RjNHTXUtNXVYOE9RbEkwcG9qTWY1WV9ZNDltbkdYV2ZxcmN1X0hCN1RjMEgydXNrV2pMOEs4VGozVGJJeGJDcUtvMkQ5QTc4Q0ZmYXRock9rcHJB?oc=5",
-    "fonte": "TradingView",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-12 05:47:48",
-    "chave": "8740385345d6b161139d558334fd8c80d9b9107e3702b76046b9093c860c0b7b",
-    "titulo": "S&P 500 fecha em alta, com dados da inflação reforçando expectativas de aumento das taxas de juros - Terra",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUEs5d2E1TnVpekxWaWJaQ2VvWTVmU2U4a2NnLVZrSTdBR0dPWlBNekxoZ3JWVlpMOHZPUXZHenVBc3VZbGVPVjRJQ2pGV1lGeU1meGlxUkZSRFBOUkFZUS1oV2ZkVnA1emUyMzg0Ynk5OVBrRl9WZkxkR0l6Q3Q2TkZpUXBnX1Y5ZjNaX0JhcHlNdkJlNDNGLWtvd3NsYUNZSEpqZWNSaE10eHVtSHQ4YzNqazlIOXY2QllKWm9pZ1RZNmJudmxGcnc1WXhiQVJ2Z0dLWGZpcHF6VFd4b1lNOXJWbE1QTzZOWnZ5UFFwREh2bVJlR1B4eDc4ZV8wNEVCRk83cVJwOA?oc=5",
-    "fonte": "Terra",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-12 05:47:48",
-    "chave": "d7fbe8ac8855b9040db7a5f68f2401ac56423d99674ea3153ddc4987579b4063",
-    "titulo": "Vorcaro tinha grupo de WhatsApp com servidores do Banco Central para pedir orientação, diz PF - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oS2J6RkdwQXFzSnRWbWRCS2FNXy1KOFpXNWNiREFfMktOVnpGb0FkbHYxdUtPcHBuSWFkV0dZaS1Qand4MU96azR1NGY3eEV1ZkpPNXZIeUNaU2RsY3BtMzRR0gFnQVVfeXFMT29JeVJNRW5RTVFwejlCTF9DWDJRc2tKcXBrQnZmbGNLLVBHOW5vblNUTUpjWDhuWEpYSUhSZ3R5RXREUWRkNG5aMnBfYjg2ZVNnblBUbUVPa185Yk9VeXhKWVlYNUwtSQ?oc=5",
-    "fonte": "BBC",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-12 10:47:04",
-    "chave": "59a4baf2a4cb119f83408ee98c5f6ad6a0073d9e3f1452fde430d1f1944811da",
-    "titulo": "IPCA cai 0,32% com bônus de Itaipu em agosto e tem maior deflação em quatro anos - folha.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUI5QzR0TkhSY1VqVmwwZzNnVEdMUE5NLVQybF8wS3o0ZUlBT1JJQlZ4UXZJT1VkVEJxT2FhS3VOUmg1SXM2T1VGcU55WkNtRjNJQVlZZExFVnM3SlhGR2hTZDA3YXplNC1zZmNSV1ZRVlpXZ0dPQkgtNDJLTVd4Y2pNY1c2bEs3WVNVZHphczBPRFB2VEhHRmJaNlA0eEVrX2p3S3JzU2NFSFJsU2xtVTltVldEQ2psTkFHdDlVNDhuNlBFMlY4?oc=5",
-    "fonte": "folha.uol.com.br",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-09-12 10:47:04",
     "chave": "2d53758c5d306fc83e94f50d8aed68f08b7a8cb3fc0172d7cdbb857bf89afd67",
     "titulo": "Ibovespa Cai 0,69% com Inflação nos EUA e Tensão Política - Forbes Brasil",
@@ -17474,6 +17387,87 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-07 02:48:26",
+    "chave": "01f66aa02851b2f6490797a962b79af3468cad134007e695d13af4fb24bde4af",
+    "titulo": "Juros: combinação de fatores compõe cenário em que dificilmente Copom evitará novas altas na Selic - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON2FTaHRGRmxUclItdmp2OWdMZERTTEZNN1hxU1U3MWFvLVBWek8ybS1sYzMyaUp3V3JXWVhiYlREMWcxMTR5Y0QxNlM1RVRoOHFVX0NYQkJqekR0NGdrVHR5dWtGWEczb0RVVnBhWEtGZXF5NjA4VUVXVTNXbGw0M3lwWEtnOUhZOTNPVEpmY1h1Z0hzU21tNGcySUFVdUczNjNCQTN1TWkyRXJpQllfQkR6bFlMckplaHowbUZKQ1IzdDdhZk1haHA2NkJFcjd6SnZIU1djRDgtYlNPbzlBQlQzc01YSjJOcVHSAe8BQVVfeXFMUHJCV2ttUHlkWnNZeTdfcjdmTm43Y2EzdDlFV1NOcE82ZG9oTGtZbDZvek5aVUF4aEh5MXZpekJXVkxBTGVQVU81V3pWdkRZWkVQLWZVMUZmZUw3NjFmTFl2eTBJVDNHV2YtTkhzMHVXZHYzcF9UcXZPUUVRQU9SQnFHaHpmOFdDcTAzc0tLSkd6VUE2MnV6MHpHRENKaTRuNDJLeDJOUEtfUEY0aGNtWlBVRk9uZkVpSURRLWFBaS03dGo5aklreDh6VmR0Wm5IU3BxUElyaUJrX3lqUmVvM191TVFPM21nQnViWmctSm8?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-07 02:48:26",
+    "chave": "1c4fd14334be2f854f906fcd8ecbff55604403a178cb622a8f64f1d22b10a140",
+    "titulo": "Taxa de juros pelo Banco Central; proibição às bets, proposta de redução da maioridade penal. - Portal da Câmara dos Deputados",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajZDMExDdVlkdl9DYVg5MW1IMF9pZDdjRjk3TDNBTWM5SFFSd1BmdkZhdV95NnJvLU93QzFtUy1BSzFlb0ZYRzdpTUZQcU9qcUpudEV4NHdUR3hWcG1ZVmNMUHZFLUxUbnhFamJYRnBkT3RiV1J0SHJuOW5HMDZzRXJWSzlpSHZkb3YzSFFpZHBuRnM3ZkxNVWJ5VXpKWFZ1c2xPSmpLY0ZPeVM5UGlqUEVxX1dTa2ltVTgyUnFoX1pkU3ZyQ1QtMG5KVjZ1cGpWSGM2d2kyOA?oc=5",
+    "fonte": "Portal da Câmara dos Deputados",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-07 02:48:26",
+    "chave": "ed7c7dcfe121d879494fdfe36d530fa44a92896b5a9076d99b3a57393f9534c3",
+    "titulo": "Banco Central do Paraguai começa a devolver dinheiro dos clientes do Ueno Bank - CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYndyaFBXU2pDRkpfeVhJdGUzemU0ZWxoMXFkZlNJT1d2aTc0eVdUbUpESURBSEluMzlBcVJLVGRZTFdKdFcyTFhYUWxrYkJxMzJGR2g0dEZudXhYMmFNNmdGNy1VVldTQk9qbUZRaWlidnNBRE5QLWlxZml1VktFbkU0M1VCdzlkaC15VTRLMkYxMW9PRWxDYV91cGhkZldOcTZ3TXZSaUlOdzRPZ21EcHRXWjVhUGxM?oc=5",
+    "fonte": "CartaCapital",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-07 02:48:26",
+    "chave": "b203a54be19e15560eff295e494d8d22d514924804b71f79245a9c3dbc2abb77",
+    "titulo": "Nasdaq despenca 5,5% com tombo da IA e vitórias democratas; Dow Jones e S&P 500 desabam em NY - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdm1sTEtqX01qVUsybjh3ZlRralF6YnJmb3pvaHJ0YjF6TmZ1QVkwVmYzSHdYMmREVTMybkFnOUxBSGJ6dThCSGZ0SHZUaWVxOXl6b3hsRXJ6a2NkNEZER0dURGltTV96Zk1aZXVpZmc2OEd3M2pyVFRTWnJCQnlqbTFodHBqNzJ5Z2tVY3hxN1UxSHVHOHpZNWRNUUFRZGNB?oc=5",
+    "fonte": "ADVFN",
+    "score": 9,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ]
+  },
+  {
+    "data_envio": "2026-11-07 02:48:26",
+    "chave": "6e264511d18aef50322f23bc22314d7464f8c0f5ee8e9104d6a8ac402b0e38ff",
+    "titulo": "FII registra resultado de R$ 4,4 milhões e mantém portfólio de CDI +2,5% - Fiis",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTnRza3h5dFVVZVZfZk1yWHpZSlRGcEZsNDZrSm1XZHhPX01DbHNFakNkcHA0UTllWXRFa216azVZVDQ3UUVNcm8wdDBMM2REcVI1Vl9LUHdaMlliTG1WV2RqN1F5SjMtU3hmOHBzeGE5NUFLekdYeHNBcUthelJKM3Rpcno5c0ozemhOTnR2QQ?oc=5",
+    "fonte": "Fiis",
+    "score": 9,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
