@@ -1,124 +1,51 @@
 [
   {
-    "titulo": "Selic fica no patamar inicial de Lula 3 e dívida sobe - Poder360",
-    "resumo": "Selic fica no patamar inicial de Lula 3 e dívida sobe Poder360",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0gtQmRZZVdhOGx5Z1c1OGI1eDZPdW1tU0JCTDRxZlNJMzUybGpnRERpb3FSLVdjbWQ0bjVzMl9nWHp5RjN3VDR3NlVMbzc3eXVJWWd6Z3RlRjJMLVpMN0FPZFFSUmtoVGM0SkpfYUxJSHRHSlprYzR3VDY4WUVIbXVDUjBENkViZXdFcEQ0S2hIbU55X0pTTDBXUnZ2UQ?oc=5",
+    "titulo": "Quando a Selic caiu a 5% – Paulo Gala - Brasil 247",
+    "resumo": "Quando a Selic caiu a 5% – Paulo Gala Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUZFB0dnJGZ0pyTEVNb19ldHlrNnFGYjJRcGdiQkhWRVMybDFvQWxWNVJNN3l3T2F3SEF6aTNJaW12aTh4ZmFvT1lzY0JyMEd5c05PU3dnZmhWMUhkOG1oYldoWHljUQ?oc=5",
+    "fonte": "Brasil 247",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "f2ad2eabbf22a4229a004553630dd8bc8f45eab1227a0596b0adeeb9d8052c72",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 15,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Empresas de Musk caem na semana com derrota republicana nos EUA - Poder360",
+    "resumo": "Empresas de Musk caem na semana com derrota republicana nos EUA Poder360",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFV3MUp1dVd3bWkwbmQ2MXYwdkhPV2U5S1dCT2lmS3hNckx1N1pGNmZLQ3F3bHk0OVctMmllSnFBY2tlQy1HdWdyajMzVmtxYVZzdlU1clhHUWJWV1gxa1lGY2pDcGFKLVRIUUdmY2wzWVZQTUhMcFNTOUd0dThSbG9oUWJzUVM4TFFOaWpGdWNJS2NiZmtYUHVGV25pRlc0OHJXS3RtaGQtWGFjNjJGOGdB?oc=5",
     "fonte": "Poder360",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "8c8350b30275cdce9569049a5789caae7328537066133472ee65b5d05c305683",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "f5b4e85f1b91106bfbfffc4cd56197711008016e408ec2266e72c335587257d4",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11",
+      "SPCX34"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
-    "score": 12,
+    "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Loyola: Postura do Banco Central sobre Selic foi correta e cautelosa - CNN Brasil",
-    "resumo": "Loyola: Postura do Banco Central sobre Selic foi correta e cautelosa CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3hGMGpTVkFhbTZabHkzaDBfSERNa0R4UWdUcGJ1c2JMZkp1REdpUUJueGlULV9oaXppTG45czVPb2owSm50S0pJeGVwd3hwRVYtTVY3YmNLTVZuMkVJMW1UeHJoeVFrQmkyTklEUEFYWG1LMnZfdTZ5SWN0VExoQl9HSFI2NWJJdmFTUkRSS0tNdmlhUlhnUFRDQWZUWS1PMS1QSWR5cXVMWDFpb0t0TnIwZU9iQ0JvVFc2NmFBcDZJMEF3?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "9dcc40c211ad95874d8624b5f96ea50793d4af685d3b12c075fcde733bee6221",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Petróleo atrapalhou o Copom de novembro, diz economista - CNN Brasil",
-    "resumo": "Petróleo atrapalhou o Copom de novembro, diz economista CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnd6cGtCVXR2MWxoWWk4U28wbDVVV1RfSUZsUDVxajlGUGhNdTZCbDNFdU5LWmM0RkozTEF2STVrVUk1LVNIZnItVlM2SW9WRjdQLW55d2k5TE1NeHFSMGtRWXNqWW5jR0JJbFpfaUpLNk1vaTlIeFVkMTBFMDVQdDA4ejc2WWxHTlNNeDBBek1lRE9kamhJa3BZQzR0RlpFbUQ4Wm8ybC1hdUtNcXN1N2FYZw?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "ae80c57904a623dde72cbd164b801706e727d8b4279787d06f01ab88ed7038d5",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana - Money Times",
-    "resumo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana Money Times",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5",
-    "fonte": "Money Times",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5f8d5fe07162ba523e230ef45000ec71e115fb3ebb5b8a077ad9c8de79c4da64",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Integração de sistemas como o Pix aumenta em 4% comércio bilateral, diz Banco Central europeu - Folha de S.Paulo",
-    "resumo": "Integração de sistemas como o Pix aumenta em 4% comércio bilateral, diz Banco Central europeu Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEt0SndLb2VpNDllU2ZIU0NuWl95Z2cyakpXQjZzZFBVeUNjVFFYRktILXB1bThMX004blgyeTNCMDlhVmFyNUxNM3doLXFWcERIZjh4T1paWHRGTnpYRTVzcURlWmh3ODdkR2ZUXzNmVV80VGlPOThNZ1gtOGEwMXJqdkdiRHhGVkpuaC1WWHpCclFxUE56bWFIUHBCdW5MSmNnTU5adWRpWEdmWE5TUGNmbEw4MW9RVkd5QTZzZXRpZzdmazJoN3pBZEdyczhWOFhqWG9GN2tqNms?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "aa7e8a69726e3173d01cafb5c914aba8424c97da1a476f2be238efff9672fda5",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
