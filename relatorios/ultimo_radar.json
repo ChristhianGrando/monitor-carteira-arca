@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Quando a Selic caiu a 5% – Paulo Gala - Brasil 247",
-    "resumo": "Quando a Selic caiu a 5% – Paulo Gala Brasil 247",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUZFB0dnJGZ0pyTEVNb19ldHlrNnFGYjJRcGdiQkhWRVMybDFvQWxWNVJNN3l3T2F3SEF6aTNJaW12aTh4ZmFvT1lzY0JyMEd5c05PU3dnZmhWMUhkOG1oYldoWHljUQ?oc=5",
-    "fonte": "Brasil 247",
+    "titulo": "Tema 1.484: quanto custa ao credor aplicar o IPCA mais 2% antes do requisitório - JOTA Info",
+    "resumo": "Tema 1.484: quanto custa ao credor aplicar o IPCA mais 2% antes do requisitório JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnlTNE9xb3ZrYVc5anJTeWpGdjdNRVpVQXBLMzE2a3JWbFZSR1NGX3cxcVdBT1ZUUDVPXzJ0S2JlNi05OHFJVEp0dmFtTi1URXMxVzRrNUs0X2hqc3YycnA5Zjk4LVB4eXdQNFQyYmladEN5UHhHUHJTcGZpdExsVjlDcXVpb3VvVlhNN2JIeXlEb0xsUUh4enVZR3hDdlZWWGs4TnZ3TVBkLVNPS1pHbUhTbm5pSHVNczBjYzVqdnBMZDA?oc=5",
+    "fonte": "JOTA Info",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "f2ad2eabbf22a4229a004553630dd8bc8f45eab1227a0596b0adeeb9d8052c72",
+    "chave": "02fcc38ba2f3fa08a5f2c34f993ea22727bf5d879d77f46d987a1f76b168e8e2",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,36 +16,37 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Empresas de Musk caem na semana com derrota republicana nos EUA - Poder360",
-    "resumo": "Empresas de Musk caem na semana com derrota republicana nos EUA Poder360",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFV3MUp1dVd3bWkwbmQ2MXYwdkhPV2U5S1dCT2lmS3hNckx1N1pGNmZLQ3F3bHk0OVctMmllSnFBY2tlQy1HdWdyajMzVmtxYVZzdlU1clhHUWJWV1gxa1lGY2pDcGFKLVRIUUdmY2wzWVZQTUhMcFNTOUd0dThSbG9oUWJzUVM4TFFOaWpGdWNJS2NiZmtYUHVGV25pRlc0OHJXS3RtaGQtWGFjNjJGOGdB?oc=5",
-    "fonte": "Poder360",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "chave": "f5b4e85f1b91106bfbfffc4cd56197711008016e408ec2266e72c335587257d4",
+    "titulo": "Inflação no Brasil e nos EUA concentra atenções do mercado nesta semana - brazileconomy.com.br",
+    "resumo": "Inflação no Brasil e nos EUA concentra atenções do mercado nesta semana brazileconomy.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDdJejhHM1dGeEpnclFhYWFFZEJwUE52TmlPLVpUQkU0VkxWbTBkdHctTGNpYnB3ZTBzdXIwQi1pTGxRdjg1WmM4a2l6U1E1al9EZ2preGFzUWJWNDU5cnVZRGJ6RGwwa3h6aU9OWEpwcVhsdktQUmJhZ2N0dUg5MUNCYi0zQmNJVkItYURmbjhPYnRKcExCalBWdHRCR2FMY3d4Y084TkxxQ2U2NmNaV0hDSHJqUUgtMnc?oc=5",
+    "fonte": "brazileconomy.com.br",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "f5fe5dcb31e7674909669bee988f610cede5cadfc474bc847a5937a78fac1e94",
     "ativos": [
       "WRLD11",
-      "SPCX34"
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ativos Internacionais",
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
