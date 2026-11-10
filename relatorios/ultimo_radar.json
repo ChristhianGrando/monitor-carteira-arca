@@ -1,91 +1,11 @@
 [
   {
-    "titulo": "Ata do Copom mostra expectativa de inflação mais alta com guerra, El Niño, fim da 6x1 e disparada do dólar - Folha de S.Paulo",
-    "resumo": "Ata do Copom mostra expectativa de inflação mais alta com guerra, El Niño, fim da 6x1 e disparada do dólar Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT1J3NzlNMTY1by1PSGFmWXZtd2lEQkIxR1owZU9XcElQMXdsbzNNN2lJR2VwNmhuSlB5UFBKazdoMkZ5cXpZM3RTVGhPSF82NGxFa1hfam9sa2VBMlFQaGRZUXp0UmJEdjVST1NsUXhVNmJXVUNQRm5jeUlYUWpKeFp0aEI4MlRfVHhkTmZUVnNIN0xWR21sWG1XdGg5RTlZME1DX3pEWDRkMU01SHB6NnJ5M0hBOUZqaWpGUFhqUTRQOVFLaXlIeS1nMjBxX3JMWm81YVRiMTk1NVYwN0lVUUpMZHdsbS0ycER6MA?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "7c31e001d781b47ce2938d2c07461f5b5ae5cf39a977f0c432f2f01e3407f4a9",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa cai e dólar dispara com inflação nos EUA e ata do Copom no radar - VEJA",
-    "resumo": "Ibovespa cai e dólar dispara com inflação nos EUA e ata do Copom no radar VEJA",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1Z5OWVockN3YWFaVU51X3V6cGtsclA3REw1RnV6cTdnMVdZcWp4aVVLMVBTM2I0TFVpejVJSFpsTGlyV3p5TmZtS3lvQTBtQWFGMGsxWXRZME44TGlYQkpZUndZVXlaOE13OGF6UmhnOWRIMzNRQTR6V3ptaU54T3hsSmNkQW80WVpfX0dGd04zcFdWU2dvUElCbGp4c25mdnhuN25DZG1Yb3RjdEE?oc=5",
-    "fonte": "VEJA",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "e0029a39d7908aa5065c3d9f919d1354595e965cd8cea11938ebebaf6e93be1d",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Bolsas dos EUA caem após dado de inflação; IPO da Anthropic fica no radar - UOL Economia",
-    "resumo": "Bolsas dos EUA caem após dado de inflação; IPO da Anthropic fica no radar UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSjFZUHVmdzMwMmpEY05pLTFFY21nQUpxSVJqMWo3VWl5eHpsMlNGenhVRmdhVWQwM3ZBcFVPYWFtR3N0aUdhWnJnRDNkcWVLamJ4VFg0RUNGLTBrMUVpYjlMaW9qeTdjSHBGeV9CQnp0M2FPVkhXQW9qV0RkanFHbUNBVEdlZ1ZzNVBGcFJvckdvQ0Zuald4dUtQR1MxTWt6cE5tTEcwVUFqTDBqMU1HaXdqRThWQWNBT0VfV2xPSTdmYnUybHV4ZmUxX21jQklOUVBiSWpnbDhidw?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "Bolsas de NY caem após inflação dos EUA reforçar aposta em alta de juros pelo Fed - Valor Econômico",
+    "resumo": "Bolsas de NY caem após inflação dos EUA reforçar aposta em alta de juros pelo Fed Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNblhNcmxLNmhORlpXd2R6M1Y0NkZIb0gyMzRvT2dYVWJvTjQySmhmaWljU2RIeDJFV3cwNHU5NFZrcm5GSTRfLWZSRFNybVE4NFlQZVJ5b3dKc09HM1BCMkJ6WDhBb3VJS196SFpRTHE0WGxFcjhfODlHd1NzaDBadVg3VjZhZmlJVjF1ZWt5Y0ExdnU2d216Ui1ZUXJXM29QQXNJX1JyRXA2VWhwdVZVcG5VcVVLR0RJMGdMcXlOcWI5R0lqZF9UTnlwTVo4eUlETm83bGdR0gHkAUFVX3lxTE5wb2V5eUdLOFh0ajRqSjQ4WUN1NE43MVhyOF9CbTR5NHA1bEl3T0tJQjZyZmlUeVROVXdodkMwdEtzQ3hmLUR1RmVqWFBrLTBqWXRMLUxqUW9JUGprd3hMYlNlLTlxRDNWMmVBYk5vbm43VzlmMWpQYXFPUHdncFVSLXY5Tk1vVGtneVM3akpNSkhsM0luZm94WkZEWHpIT0s3V1VQUzZaM0VHTUNMZUl1MUZEN2w5MU8zTzQ3ODRMa1VuZmZibk9JTGV5NkUwVDZWRF9zTmdwOWNLbWVZeWhmU1ltSQ?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "9acd9057597a20b2a1624558d60f680ae5cc918c0a857c030b2ac3224c8457e3",
-    "ativos": [
-      "WRLD11",
-      "SPCX34",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Os futuros do S&P 500 caem acentuadamente após a divulgação dos dados de inflação de outubro - TradingView",
-    "resumo": "Os futuros do S&P 500 caem acentuadamente após a divulgação dos dados de inflação de outubro TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iU0tpUEZzUmZ3SjNGV2JPVFlGQk9HV012TkRjdUtkTVZoZWdWSVlTMlFHVGFUMVhtVUR4VF94ajZQUVR2MFg0b2FSRm1NU0h6OUc4cTlUTFFBWjZSWm5KOWVDU0FEcTI2N1haRWc3aWh1TEVnbTY4?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "1d1ee50e0baa235bbb627c7d9b971223130c3b51ce1a65addefb2c824d9236de",
+    "chave": "c11f05e0fd89e46b5660a40da11f246a8d78ebf91f323ab12de839e53dd98527",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
@@ -105,12 +25,88 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa recua após divulgação de dado de inflação dos EUA - UOL Economia",
-    "resumo": "Ibovespa recua após divulgação de dado de inflação dos EUA UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWpKNVQ0N0R3VmNUb1YzYS1tcWFrTXBJT1V4dFpFb3hTem56VThXS3BnaGMyOXpNcDllR0JBU2JJbVd0Vzc0LUVVRE1FeW1ubHU3TjZTS0tzYUUwMlNEdjN0N1B1WE0xYWhVVVozZHBfSXVCSHZkTXdnTVRaRktsVW9tSm1OVU54OEl6cGUxRm0yc3M4UFFmZzJHbzB4TnFOdXp2WmR5RThPeWRkQUNXdWV3TkRPQzdiLUxVb2VPbVl5LThCWWhmV0hYRVBfX0VhNjlR?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "Wall Street fecha em queda após dados de inflação dos EUA elevarem temores sobre juros - Money Times",
+    "resumo": "Wall Street fecha em queda após dados de inflação dos EUA elevarem temores sobre juros Money Times",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TSjJxZzRSRGZBSjhxZlZ1LUZNTTI4MmlUSlIyQjQtbU55Zm5jUThObGhHUFBIMl9LVDV2S0dDNTRiY3otOWp4UXNBT29rRVNGN0xvXy1nRE5FZ182VkExNmNHWWxoRzZaQVE?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "3ec45ef4539cf55729fdd3707458672f6c194fe2f7cd20ce26a709921ba6710b",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Bolsas de NY caem com inflação forte nos EUA e Nvidia amplia queda da véspera - InfoMoney",
+    "resumo": "Bolsas de NY caem com inflação forte nos EUA e Nvidia amplia queda da véspera InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2tWX21seDF3b2tCSm9sLW9hZVpsRXFKWDhsRU5HQ09lZTh5VUxzdW5EQm5vLWgxNXBzZ2JWZHEyc1A4Z2pLdWxxWVpvX0RqMzNENzhkQ1BXREE1c0x1RV9QcXFsUHdIcDZjcGViRjBQQW5YRnY0NnRfeWd1bXlHUFlBSW1pTU1aRG40T1RiaWJiWWtSc2NpV3dhMGZfS1lXMDFwTmctS200NmY3cXRKNEJwaUFIWG1Ya2dLOExB0gHDAUFVX3lxTE4wVkJPQWhEdUVtaUlRUTV6cHRvQldvT3ZURUJYMVJaVnN5d0s4cF82bGRSQTBwT1dLci1ndVp2ZHYwd09RQmo5Z2RiTTByZFcxX1M0NFZSTmd0UDJiQmVJUHlaVThWcE8xLTNHY0JTd3Bldm11S1dyNHAyQ0FHMmNXSHpDbXVsa2RRNHhpWW1sVjg2eHpYR044Sm9WbG9JckJVVDJzendHSmJrY3NEN2hFZkJ1MURkVl9NLVctN3hyaTRDaw?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "98b4644a1ed34c4a62375d33f43f645024703aaf958c90bc4c72e8d11480eca1",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ],
+    "score": 14,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Na ata do Copom, BC diz que cenário exige Selic alta por mais tempo - CNN Brasil",
+    "resumo": "Na ata do Copom, BC diz que cenário exige Selic alta por mais tempo CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkZjbmEtNjZtdlhrS1hSRmZfRjdYWGNyTTdBay04c3dZdlN4WlBxOFc2bXpHWGhlMU1lTmFYc1ZpVkxOMFNBODc5MERaTi1vXzFVTDMzZHpMYTlmeVh4WTA4U2ltOGYxZzBoX0ppdUtCU3VnWWxYWnh3RGQ3RVBvS0RtRUZnUDJPZ3lyeTFzM05tUTZOckZObXZ0UVRhODg0bXZ6aGMybm12blZFNTc0TU9PeUhHclZLYVFjTWJqcHJqZVU?oc=5",
+    "fonte": "CNN Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "71d9c8cb82116bd3aea8cffc990f1cdbb727e8216bd71a7dfb14b473a150438f",
+    "chave": "29a7ae6b4a9d91fbefbfd7489a10671fd0b6e06b932957778a15afd2551da6f5",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Mercados hoje: ata do Copom e inflação nos EUA são destaques - Bora Investir",
+    "resumo": "Mercados hoje: ata do Copom e inflação nos EUA são destaques Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlZfRkpXbW5nR3FfUnNsWUpGY09lMjBUR3JlY1U4X1N5dWM3T0NfNVFDdlJmLUdRLTJGcnJTQk1uZU1fQUhlTFE0dWNLaG91ZWJPYkZwZjM4T3BKZUNHdXlXMzBxVndhUVVhZnI0VXFZbnRVVEUzRURrV18xa0VJaS1CbTVWSDdTRXhpSl81ckNEMHZSMTQ5b05hbWxzSTNFMkJJR1RKYm9jcVNa?oc=5",
+    "fonte": "Bora Investir",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4e0b9a2e6cca868a7762b43dbf3d582638b5fdfe5baae64ef6c8dcf55c8182e6",
     "ativos": [
       "IBOB11",
       "WRLD11",
