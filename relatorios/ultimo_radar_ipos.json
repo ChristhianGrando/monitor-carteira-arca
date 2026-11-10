@@ -1,34 +1,35 @@
 [
   {
-    "titulo": "Robinhood lança IPO Access no Reino Unido e libera ações de IPOs dos EUA para investidores de varejo - ADVFN",
-    "resumo": "Robinhood lança IPO Access no Reino Unido e libera ações de IPOs dos EUA para investidores de varejo ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUFDM0N0M0ZGNWluMGt4VHZqdlowQlJTR3BpYWtUM1Jya1lXallNZHNPNnZ2aGN0THFHUGtyei1CZjdkVmhrSWdXYkhFek96blBiWlFQWklLMExCeFlZOXF3RDBubU9aSlJjdGJkN3l2ZXgwS0x2ZW5ETHZYRWVqQ3JENkU1WHlzel9FLU1BRlh2eW9tRUhBaExvQUR2MWhlNHc?oc=5",
-    "fonte": "ADVFN",
+    "titulo": "Oferta de ações: Anthropic mira valuation de até US$ 1,45 trilhão com preço de US$ 78 em IPO; veja detalhes - Money Times",
+    "resumo": "Oferta de ações: Anthropic mira valuation de até US$ 1,45 trilhão com preço de US$ 78 em IPO; veja detalhes Money Times",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTV9VZmYyQzVLdDJHM0dpeC16dUdFeWtXUUItcjQ5V0k3YjRFSzZnaWJtNGhhT003VFI3QkQ5SEdRc2Z1WW5FQmRXaVBEU1ZFSEZxa2l2T19iZ24yY0FTNFVtVTdhVEJHRC16Q2puWnYtcXhiWDFvQW5XYjVsVjZTUTlIVTdnY2lnTVN2SDA1WEZVVXNqZWNTaWZEbGxjQXVoRlVxMWs1YmxyZjdVaU1RNDZ6bE9IUFIxX2JZUHZrVHBWRHZGeC1BVWVXUXJhWmpndXdkWQ?oc=5",
+    "fonte": "Money Times",
     "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "02f73585155be7be8f8c517625f1899939c02e5d62b61f191ad2a691e2fc6388",
-    "score": 8,
+    "chave": "509de8779bd8de723bd5457818c9a62dbb926b85ff7c63a849edc0704055d318",
+    "score": 12,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações",
       "tem relação direta com mercado financeiro/bolsa"
     ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   },
   {
-    "titulo": "Anthropic enfrenta pressão para reduzir avaliação do IPO após tombo das ações de IA - Valor Econômico",
-    "resumo": "Anthropic enfrenta pressão para reduzir avaliação do IPO após tombo das ações de IA Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbDRiVE94UEIzQVNxNUNCQmF4SExjWFZqSEdQeU9CNU5GTFgyM1U1UEFPUXdoV2lQXzhmbHFnYlZiR0s1LWNKdTEtZGo1dUUzdW5ucU5TclJPOS1vdVBZWmxaMm15dTdYRl95RHJMNHpXdnB5Z20wYUlZNjNJVndMdi03ckRwV1NKY1p4QWRrbXRmTnBkMkViTDY1ZHNQcVNhZGJrZnN1aTlBVDdMQnpKWWNxX2hvMDM2cThmMng1YnpBRHJTbkQ3Mi1pckVCckhkVzJkSUtmdEbSAecBQVVfeXFMUHhiM09saHZBbjZRMnJOSlV2X3V4ZFlBYzdZTVhuMUpKcndhbEZQdU5xMmxZTDJWdUZ3Tk1PQy1DdUNBWWxoZ0J2UE5pMlpTOVE5djg5dVQ3OGVzTURQZWJYdkxOaWpKMnZRWm93NVQtQ3VQSUxQUC1hVTFwbVpyd2tKUnZnckZlWExNeExwUUg0YzZjT1hGU2ZPNGxlcTNlaEttLXBvS1QtWWc1TWh2WktUY2Z6VWtTa2YzX0RwU0dtV25NMThBQ0NkNm9iZFZXUXBqRUlQMmdWYS1ROUdIX0RVaFUzWXRF?oc=5",
-    "fonte": "Valor Econômico",
+    "titulo": "Anthropic retira os preços da oferta pública inicial após minuta indicar captação de até US$ 69,3 bilhões - Unite.AI",
+    "resumo": "Anthropic retira os preços da oferta pública inicial após minuta indicar captação de até US$ 69,3 bilhões Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjBEaF9WWmZXOUhkYmxnYlZJdlhWN0RlQW1Dd3dHbmZuZTk5Zy1maHZDM09kLUF5eHNSbHJEODlfSHNHd3hWaVFfN1I3enhya2hBNGNFaFBBZzJCN0ppWlhqc1pubm1qQmgtc0M5MWhLVzh2cno5S3FBU2Z4UEtIeGVyRlBiTU9aU2tWYjI1bWJJS0p3NGN0YXZKQQ?oc=5",
+    "fonte": "Unite.AI",
     "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "fe61cab12bbe18f871f9a2f712a4e6dede8a6f2f114be59eccd4a6fbab69f706",
-    "score": 8,
+    "chave": "fcd287bac553eca5a0107300b3de66d30c526d6b7f7b5e1321a724b6d41e8f90",
+    "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
+      "cita oferta pública, follow-on ou emissão de ações"
     ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   }
 ]
