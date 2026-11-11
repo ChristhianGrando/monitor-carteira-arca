@@ -1,11 +1,39 @@
 [
   {
-    "titulo": "Ata do Copom afasta possibilidade de elevação da Selic - Valor Econômico",
-    "resumo": "Ata do Copom afasta possibilidade de elevação da Selic Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3o2eDVCSV9mekV2a1F6bVp6ZGc1VWJXcUJPazdidlpGeW1BWVNuazluaE1CLTUwWkZvUTl1OWYyanFmSzEydElCLUpUZzRKUkc5Rmk3eGQ2ZEdJR1F6ZFp0M0JfNVl0ZzZKWUdFeGlaWjgzbFZPOU5sRXF2VzlSM0t6bFZ1UHI1bHg1NGZMY3locnE2WmNkTVo4bW04dm45TTh4NzlzbllJNGU5c0VYQlBn0gHAAUFVX3lxTE91YWNFMHVwNFM4YTRVd3hNMndvYTlrOFdJQm9KeXdqQmthT3dLd2NsVEttYXdYVWg3Y2JNWGUycnJzdVRtWmkxVy1KTkZndEhSWDlGMWd5ZE0tM0dwcFhEMF90R1Zjd3JoOUc2eUx0YzV2ZkFJaTM4VUdMdER3YmFfY3RJd2NHWEhZZW5vZ2hkakJoYnFZOWExcFNfV3c3aGFrQUV2eHFlYXA5RXlwQ0l5LURSQ0J3eS1VLXJkSGxlUQ?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4c9204b4a0dc8b76d4d475c3d9f3e78564e40c580bedbcfc8cfff5e44f4713c8",
+    "titulo": "O “dólar brasileiro” como alternativa à Selic elevada e à venda de reservas internacionais - Diplomatique",
+    "resumo": "O “dólar brasileiro” como alternativa à Selic elevada e à venda de reservas internacionais Diplomatique",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGNvRy11bkhNSkZ2cEdxeGs1OGd6RUFLUXZOM05HZWYyZXlJNnlXS3Jmd0xpcEcyZ0hWNTFWa19HdXN6bXF1R2lHYk1YdWs3WS16c2VDOC1GZjhTWnVaSmdEV212aVFvNHlGa1Rab0dmSVVNaF93V043bEpXSzZReGtIY3E0QnRGV0YtQnBxSTNSckQyUjBVQ3JIRzR2ZU5BU25XSDhDb28tRzlXcHpYVHpkTjA2WC1Z?oc=5",
+    "fonte": "Diplomatique",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4547e9405cd3723099d026f5f082264ce9c347074b7ff511943ea399730ea679",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "El Niño pode \"esquentar\" a inflação para até 6% e travar a Selic - NeoFeed",
+    "resumo": "El Niño pode \"esquentar\" a inflação para até 6% e travar a Selic NeoFeed",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkx1YWVuUkJMR0FIZE54UHdpUDV0ZlN6NFJXNTNkLVZORm54akNZc3puOFRXVUs1X3BnajJ6NGZ0WU1jQ2ZvLXNaQ0xNdEc3WGhQUHBDa0FYbkdJN0NLZ09xUGZKVzZKXzdxQVM0dTFWcGplb3JQTm1SeW1nLVZ1NGRfNDJSejdERW1wTlZEclhqZHRsN2w5MVpR?oc=5",
+    "fonte": "NeoFeed",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "2d90e974625e386ab6025f772b30ca60dc9e3f6e2bd8eef6989011097607c68f",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -26,21 +54,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Copom indica que vai ser preciso manter juros altos por mais tempo para segurar inflação - G1",
-    "resumo": "Copom indica que vai ser preciso manter juros altos por mais tempo para segurar inflação G1",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX3JqeDRVNG43RzFmcGNUX3ppZndMVDlZSU1mUFQyYVFVNDNyWnp4TDh1ejFGODMzaTg4LWoxTEhTbUF6ODRrMzJKR3NHcWlNeWdoVUlHUGhSNzJhalFfTW5RczRhXzR4LWpsOXA0N00yS0s0RjhIYWFTZ2RvUFVVV28xeVQ4YnhUUmlZLXUxYmUwT3VKb095UGJhMEg0c09jdGthVGU3X3NGdmkzVERmSEtSbjgyVkhSYmQ4TjlnNGo1OVVfa05TVDBsVVRzZHBpZXZLQXN3WjJ1aEdyeElFVGg1NWXSAfMBQVVfeXFMTnY4MktfUWtTdUtKaGpYUWJBd3R6aXVIMGwxY0xwWVJ6cnF2UlFtQ1JRdU10WFEtaW0wbDIzUVZxNTg5a1ExWW0xOHhzNUdtRXdCeHM5U21OUEt1NDdBcmMzTzlCLXk4VEdCSUo3S2trdGY4a0pRMmZuMXdRdUpuYlc5WVhlXzduZEthcDc1OE5UV05rNG8ybnNOOFA1cWhmNHhnbkthdS1zMEJ4LTFCWS0xbVNxLS1pN1pOZFoxVUU1SFNEc3hWbEJfVERtbGRHRkU1eUoxVzh3a1VnYVJOS0VoTi1JTW95MWpNcml1Nl9hWDVr?oc=5",
-    "fonte": "G1",
+    "titulo": "Mercado estima que fim da escala 6x1 vai adicionar 0,3 ponto ao IPCA em 2027, mostra Questionário Pré-Copom - Valor Econômico",
+    "resumo": "Mercado estima que fim da escala 6x1 vai adicionar 0,3 ponto ao IPCA em 2027, mostra Questionário Pré-Copom Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSmhNal9QVV9TaVdXZE5KSUxXNkFDY2hfa01DQ2NoUnNFV2MyUWJnQXAzSDV1TnhxUmhzU0dQci00S0NMUkhySVpCSnpNSzJDMG41Mk5yQjFNVHAxWmRnaGdxdWRBOUZ5cVh2aHFURU9hb3g0WWI2bFBEazl2NUZTZTk1ZWdJTER6Rmh1RFRMRTdxbmU1aGNQTGc1b1piYV9DamNfLTZYaTlVbFE2OHZzR1dlcElWM2Q1WFJ2aHY4Zm1KYVdhVThGX3hPdWtmclhCeGNKX25mWG9kNF9OT3Y0bnZSNkVXTi1PMmhyZkx2TEFVcWVKeFHSAYQCQVVfeXFMTnlTVlhEUGtrSzcwRnFiSmN3MkI5Wmpia05md0NaTHJYWS1tMHFaaE9Rd0FiNnptZGhiVjN5WXh4cVRjN2FsTmRXNUJPZ01vX1NVSEQ5SEFPMVlIVk5XZTlNN29ya2hhWDloU0RPZ0t3UzdhanBkN1drcmo2VmVqc3BTOGlmU203eUk1X21UOXhtcjVWOW92ZldGTUw0enVOSVJyRTVqUWlzb01CRDl4V3gtbkRLZTAzTGN5VkRRQmtXWmVrUS1CNmRHLXBWaWZRNE90dEVNN2JwQnlSX3Z0TlJGTW9paE1VbnkzWEg5VGZ6SVhpQ0Zubm5lSGRTN1B2MkRDcnA?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6c38474ec202e70c4f7f689abaa472f607f1ffb3c672cf55e971f46b986967ea",
+    "chave": "846c8f3049271cc5ddc2ccbdc0c650bfd08fcf7fee414f903212c8d77bb365c5",
     "ativos": [
       "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -50,43 +80,21 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ata do Copom indica que desaceleração da economia não conteve inflação - Agência Brasil",
-    "resumo": "Ata do Copom indica que desaceleração da economia não conteve inflação Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlpoa212eGR3SEdDejd6U3hTQWdiRTVkV1lEU2hHWEVVQVVPdTc3cF9xc1hDeExEa2FYSDB3bU1sTzRZQ29aMklTNTVnM2p6WTVyLTdocEhnMkh6WWxfV091V0xNVFRDbi1wdENOak1KNURnTTZ4UTYybi1zMVlrZF81emlKLUFBRWw5eUstaDZBVTNrZTN2S2JkbnJjZm9tcG83YmRiR3NPQjc0bEtBVkFxZlZVUGJ3SWpQeGQ0VVZ0b0w1dmZV?oc=5",
-    "fonte": "Agência Brasil",
+    "titulo": "Dólar fecha em queda a R$ 5,56 e Ibovespa sobe com ajuste fiscal no radar - UOL Economia",
+    "resumo": "Dólar fecha em queda a R$ 5,56 e Ibovespa sobe com ajuste fiscal no radar UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbmJTYzVqaDNiR0ctOXhIZThwRkNqQ0tGSFZUVEJ5emk5ZG83dlE4Vmp5MVRLSGxzMXB0aW56S2R0Q1UybEZDaThNYWZQTjh0RE9oM0tEc1RQWUxoeVE0RVRqM3hCclRRS255Sm93SmVWN2RoVTVwMndlQXFpTzYwOXVfcXZId2RNNWlSR1l4SHh1WWNhRVplWFFwbnhIRTJmZG9JcVNvNlpXR0twOGFZTEx3cVFUNXpaQTBhcENXMWkxSU16aERSZkU0Qk9EMUtWYkE0NlgxeGI?oc=5",
+    "fonte": "UOL Economia",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "9a149ae4afad0e15bc361255ee2623ef80b9752e8662bfdcd8efe19d186e4bd3",
+    "chave": "81aa1f6177048fe292fd2b3be3e28205fa094d58ce19f03880858645436d2aea",
     "ativos": [
       "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "S&P 500 cai, pressionado pela liquidação das ações da Nvidia e pelos temores de aumento das taxas de juros - Times Brasil | CNBC",
-    "resumo": "S&P 500 cai, pressionado pela liquidação das ações da Nvidia e pelos temores de aumento das taxas de juros Times Brasil | CNBC",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0V2Q2ZQQ1B6RUdYWHJkSk9QUDNYNmF5c0YzUDhBTks2LUNCM1VHcVNYcFVKYm44VGczMk9rZktLQUN1SnRCQXZaUGVaQlhvYVRlU2Z6QWZfMlhxX2VESW1aY1hxOGRhMjlkYXhZWEdUd3Y3eWJ2aVlBYlV4VXpuc2xZa2hITUw2WTRENjI2ZFhUUjJrYm0tRG9vbGpfaFlBSWJQdVFVU2dtQll5UkJvdVVDc29HMDc1eXp6ajBkMEJOQlk1S1p4djFaV0NURVpFeWpUb2tUNW5Na1dEM0VvbXZCanJMUUk?oc=5",
-    "fonte": "Times Brasil | CNBC",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "1ffa48075b3b748cb26cc35cad76ad3cab151e52b3c6b56ee7e06c47d9612d52",
-    "ativos": [
       "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -96,19 +104,21 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Registro de Declaração Periódica Trimestral no Banco Central do Brasil – Data-base de 30 de setembro de 2026 - Demarest",
-    "resumo": "Registro de Declaração Periódica Trimestral no Banco Central do Brasil – Data-base de 30 de setembro de 2026 Demarest",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmN3MWlEV254alJ4cDhaOGM1WW9JUjU0VlFwSGVkSEE1MHdQdExvTk1yeFhHM2lXOURqNkkzWWc0eTJJeFZDaGl1RldTR01hYlpNVVp3WTdBa193R1BVY0pZdW1MYXpWNmY3WkVVUS1lMTBfUFh5VlJ6Rk85NFlJUGF3eUJ3bThjMFl3eGR4dU9UZHZQdGZva01LRFNOOS1VcFozU0FnNUk3cl8temNaZF9QZVJ1X2F3QTJXbjREMW1vVlZhbEtxRTVzVnVLOTVW?oc=5",
-    "fonte": "Demarest",
+    "titulo": "Ainda vale a pena ter o Banco Central como banqueiro da União? - Consultor Jurídico",
+    "resumo": "Ainda vale a pena ter o Banco Central como banqueiro da União? Consultor Jurídico",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWU8tWFByaFVMMlZkRWQ4VXE0a0huRzd0V29MUXN1R2VWQWp5Um9vcDRRbzJLVUdSbGZLSWhoa3RydHlVSWFWV084RDFpd09VVV9RbGw4bVlTbVl3WVE3TDdZTUZVWnp0QTRjT2R6Nm1FSTVWREhjSXZKU2otaFRQS1ZxbHlLXzdoandzSDNjUUFRTFhmWjVvR09WT2k?oc=5",
+    "fonte": "Consultor Jurídico",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "31744f4bd8cc2000069b427d933960eade9f50fe5748662aedca7e5e00c4694d",
+    "chave": "150b75224c49e08c117faf5e1737d14c3494689299c8d9a95dd5b4728672e478",
     "ativos": [
+      "IBOB11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
