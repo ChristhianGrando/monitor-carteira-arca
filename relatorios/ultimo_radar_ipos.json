@@ -1,35 +1,18 @@
 [
   {
-    "titulo": "Oferta de ações: Anthropic mira valuation de até US$ 1,45 trilhão com preço de US$ 78 em IPO; veja detalhes - Money Times",
-    "resumo": "Oferta de ações: Anthropic mira valuation de até US$ 1,45 trilhão com preço de US$ 78 em IPO; veja detalhes Money Times",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTV9VZmYyQzVLdDJHM0dpeC16dUdFeWtXUUItcjQ5V0k3YjRFSzZnaWJtNGhhT003VFI3QkQ5SEdRc2Z1WW5FQmRXaVBEU1ZFSEZxa2l2T19iZ24yY0FTNFVtVTdhVEJHRC16Q2puWnYtcXhiWDFvQW5XYjVsVjZTUTlIVTdnY2lnTVN2SDA1WEZVVXNqZWNTaWZEbGxjQXVoRlVxMWs1YmxyZjdVaU1RNDZ6bE9IUFIxX2JZUHZrVHBWRHZGeC1BVWVXUXJhWmpndXdkWQ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "509de8779bd8de723bd5457818c9a62dbb926b85ff7c63a849edc0704055d318",
-    "score": 12,
+    "titulo": "Dona do Claude mira avaliação de até US$ 1,4 trilhão em estreia na Bolsa - UOL Economia",
+    "resumo": "Dona do Claude mira avaliação de até US$ 1,4 trilhão em estreia na Bolsa UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ202VWdBOGdjVFUydVpZMHYxOHY1NWVLLXBJcUlsa3ZjMUYxRXhTbVVET0lSamN1OTEyR2FrcDV4WGU4UGNBZTFTb2lWS1oyLWZSVjNlNV9FdklKZlBvSThMMnJJU2tXSVBxQW5xenZHV2dtQVdVUVFnWkkwMVNBWHpFWUVNUDB6UE41YzhLSnlUaFdESDRDNFE0ajVSUTcyb1R4UDAwSnRVQnZiQVdxUkFqMFk1S29qa1hFVW9Mc1RTX18xT000?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "1fdc873b335d26833ebc4dc704ea1f58cd8eb813657c2131cd097f908e02e5ff",
+    "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "cita oferta pública, follow-on ou emissão de ações",
       "tem relação direta com mercado financeiro/bolsa"
     ],
-    "tipo": "Oferta / follow-on",
-    "estagio": "Oferta subsequente / follow-on",
-    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
-  },
-  {
-    "titulo": "Anthropic retira os preços da oferta pública inicial após minuta indicar captação de até US$ 69,3 bilhões - Unite.AI",
-    "resumo": "Anthropic retira os preços da oferta pública inicial após minuta indicar captação de até US$ 69,3 bilhões Unite.AI",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjBEaF9WWmZXOUhkYmxnYlZJdlhWN0RlQW1Dd3dHbmZuZTk5Zy1maHZDM09kLUF5eHNSbHJEODlfSHNHd3hWaVFfN1I3enhya2hBNGNFaFBBZzJCN0ppWlhqc1pubm1qQmgtc0M5MWhLVzh2cno5S3FBU2Z4UEtIeGVyRlBiTU9aU2tWYjI1bWJJS0p3NGN0YXZKQQ?oc=5",
-    "fonte": "Unite.AI",
-    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "fcd287bac553eca5a0107300b3de66d30c526d6b7f7b5e1321a724b6d41e8f90",
-    "score": 10,
-    "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "cita oferta pública, follow-on ou emissão de ações"
-    ],
-    "tipo": "Oferta / follow-on",
-    "estagio": "Oferta subsequente / follow-on",
-    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+    "tipo": "IPO em fase avançada",
+    "estagio": "Fase avançada / estreia ou precificação",
+    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
   }
 ]
