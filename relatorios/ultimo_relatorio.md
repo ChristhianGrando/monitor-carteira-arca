@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 10/11/2026 18:55
+# Relatório da Carteira ARCA — 11/11/2026 00:55
 
 ## Carteira monitorada
 
@@ -12,132 +12,132 @@
 
 ## Resumo
 
-Notícias coletadas agora: 45.
-Notícias novas, ainda não enviadas antes: 39.
+Notícias coletadas agora: 46.
+Notícias novas, ainda não enviadas antes: 33.
 
-Foram selecionadas 15 notícias relevantes para este envio: 15 de alto impacto, 0 de médio impacto e 0 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 10 de alto impacto, 5 de médio impacto e 0 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. BC divulga Ata da 282ª reunião do Copom - Banco Central do Brasil
+### 1. Dólar sobe e Ibovespa recua no fechamento desta terça-feira - Agrolink
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11
+- Fonte: Agrolink
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkRDcW50X0lGeHlvSGlHaXVGQ1M2WGwwc09NSnh5bUhFdG5EWXVUb21wMUhvazdtU3V3TXl4a0c4YlhnOWNEQ2pBOUlCTGdVSmNDZE53VDBPVUxMcjlXVktNXzcwV2dudWhQcFEyNU9acnQ5V0tJcUNOcFByRGI2cE16ZDhrb3lVaDZ1bDIzSXNfMnMtUEVjMlB2UVFldDltTWJZeGtaZngwZ0Fm?oc=5
+
+### 2. Ata do Copom: o que muda para os investidores - Safra
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: Banco Central do Brasil
+- Fonte: Safra
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wLWwwWnV1S1BDVnZCbnBnRGtIalZQeG1OZVNqa1J3M2U0SkdzR3VtTV9nUDF4eDRDVDktVGl4MXhsWlZaeE5DMVdhUU0wODJBNkt2Vnd6LTlGUXJi?oc=5
+- Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEJ2RzVRd2w1Y3REaE1OZ0FoM2diRTRzOGFqR3VvdFhEMTVRaFI0elQxNWZ6WXpXY0Zad3lreEZ6QWlTT21KOU55S2JsY1FKRnJSampseUdpcFlDbDA4ci1LcWstWXpMZVRSaUlyQjR6aFhzLXlnQ0pRUG1GekRfcGJpcHE?oc=5
 
-### 2. Ata do Copom indica que desaceleração da economia não conteve inflação - Agência Brasil
+### 3. Juros elevados por mais tempo? Ata do Copom reforça preocupações com inflação elevada - Suno - Investimentos Inteligentes
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: Agência Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlpoa212eGR3SEdDejd6U3hTQWdiRTVkV1lEU2hHWEVVQVVPdTc3cF9xc1hDeExEa2FYSDB3bU1sTzRZQ29aMklTNTVnM2p6WTVyLTdocEhnMkh6WWxfV091V0xNVFRDbi1wdENOak1KNURnTTZ4UTYybi1zMVlrZF81emlKLUFBRWw5eUstaDZBVTNrZTN2S2JkbnJjZm9tcG83YmRiR3NPQjc0bEtBVkFxZlZVUGJ3SWpQeGQ0VVZ0b0w1dmZV?oc=5
-
-### 3. Ibovespa recua após divulgação de dado de inflação dos EUA - UOL Economia
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, CDB 100% CDI
-- Fonte: UOL Economia
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWpKNVQ0N0R3VmNUb1YzYS1tcWFrTXBJT1V4dFpFb3hTem56VThXS3BnaGMyOXpNcDllR0JBU2JJbVd0Vzc0LUVVRE1FeW1ubHU3TjZTS0tzYUUwMlNEdjN0N1B1WE0xYWhVVVozZHBfSXVCSHZkTXdnTVRaRktsVW9tSm1OVU54OEl6cGUxRm0yc3M4UFFmZzJHbzB4TnFOdXp2WmR5RThPeWRkQUNXdWV3TkRPQzdiLUxVb2VPbVl5LThCWWhmV0hYRVBfX0VhNjlR?oc=5
-
-### 4. Ata do Copom: Banco Central diz que piora nas expectativas de inflação exige juros mais altos por tempo maior - G1
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: G1
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV3JnV0xDUmZoT05kb0lSbllVZGxBQzBxb1luYXYxTFJvSEZwNGhHc29mUlUyRGxDRWdRNGdlQUpLbFg0dmNPMGNPQkJhN1RmVkhZRE4tNEpyMUxmT1U0anUzTEZKdVlCcHpidTJjb2FoQmtKZXo4eEFYQzgwR0luVXZHbVBPc2h0SVcxTTdCaWtwRW1leERJZE52aWdSZE5uZ3gza2NtM2F0OU5DbU9RZ29ZdGoxUGxkNTF1Rk9pbER0S1loQkJaSWViYTVqV2pIZXczekNmWVV2SURpQjc2YzRkeDNqYW5wYUtsTjJWN2kzNjBxdjRBTNIBhwJBVV95cUxOdWNzTUxEaFlkVmYwM2l1aTBVbXNQaFBZYkE4SHJpY1VfV2FZV216ZUtKbmFJSnJJRkdqSDBObTRjaDJtUzljXzdBOTlJRHpxV0lpVnh6bGU4Q3dZenZVS0xMczQ0X2xCejk4QVp0clNDYTktN0tUZEs0bC1RN3NlZXVObDBIMklMblc2dlR5ZE9ObHNXc3R5dmh6eGUwYUxpOXNFbjZyQUpZcE5ZZ2JRZDBuSk9KUkVEYVp1UGRuSDk5RVk3Q3I1Nm1lWnBRNTRUM2ZrT1VTMGRnWXNiTnFVeVdPakZGdzNMcVhzQW13UG82YmNCTXNHZFRXNmx5OVNBckdBd1B0Zw?oc=5
-
-### 5. Na ata do Copom, BC diz que cenário exige Selic alta por mais tempo - CNN Brasil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: CNN Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkZjbmEtNjZtdlhrS1hSRmZfRjdYWGNyTTdBay04c3dZdlN4WlBxOFc2bXpHWGhlMU1lTmFYc1ZpVkxOMFNBODc5MERaTi1vXzFVTDMzZHpMYTlmeVh4WTA4U2ltOGYxZzBoX0ppdUtCU3VnWWxYWnh3RGQ3RVBvS0RtRUZnUDJPZ3lyeTFzM05tUTZOckZObXZ0UVRhODg0bXZ6aGMybm12blZFNTc0TU9PeUhHclZLYVFjTWJqcHJqZVU?oc=5
-
-### 6. Mercados hoje: ata do Copom e inflação nos EUA são destaques - Bora Investir
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, CDB 100% CDI
-- Fonte: Bora Investir
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlZfRkpXbW5nR3FfUnNsWUpGY09lMjBUR3JlY1U4X1N5dWM3T0NfNVFDdlJmLUdRLTJGcnJTQk1uZU1fQUhlTFE0dWNLaG91ZWJPYkZwZjM4T3BKZUNHdXlXMzBxVndhUVVhZnI0VXFZbnRVVEUzRURrV18xa0VJaS1CbTVWSDdTRXhpSl81ckNEMHZSMTQ5b05hbWxzSTNFMkJJR1RKYm9jcVNa?oc=5
-
-### 7. Tesouro Selic, dólar ou ouro: onde proteger seu dinheiro quando a bolsa cai? - Suno - Investimentos Inteligentes
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
 - Fonte: Suno - Investimentos Inteligentes
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE1BSTdFU0NnY3RGUEZIN2pheHo5dERHcEVJbXpsODQ0eTY2OVpVSXc3ZzJ2MEV3YWxJS0lTLXZkRzBqdENmeThmS0NLdGZmRUFDT3Y2eER0QXk4bTJfTVVvZV9XNmltU2didHlEN1N1NVVrQUoxdGQyZ9IBfkFVX3lxTE9FSjhLSVFVN1h0YkowNU8tejd1MnFSZ1IzT1I0NXRiNloyYXA5NjBsVkVaeVRaZ3E2NkcydThIc1dpQVB3MDExbEZKTWpaWmJKdEVla2xXRE1ERkxmV1ozUUhrbzIzZFg4d05SbU1OdW9zcWJMSHluLXJaeGlQUQ?oc=5
-
-### 8. Copom menciona fim da escala 6×1 para manter juros altos - CartaCapital
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: CartaCapital
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkZodEVaNnhvV2JISU1NcVk1eW51bUFncWczQ1FHV0dUbHJGTVdoU3czYkdnNzlpWlpaRU1kX1ZHNmExVXVJcmQyaURvRDJyMkloTGdJVWh2N0xTdkpya3pRN2ZSQVJQdkNoVmpBcUtSN2NBbUh5WDV4bkRvNkhrRGM2bGN0NW1paDh1ZzRnTkNmRHFXRGVkQWY1bWIwUms?oc=5
+- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5JT1E1V0h2bWc4UlZIT0lzZlhFSjVjT3oxYXNmZFpENXdONUhnbnhNeUxSRkhodzBhcFlhR1prMWZ5MkdaRDgzVnViTnNrQzZlZGxQSXM3T0VGQVVDeV81M2pQVjN2NjZicklkdmd0U1pITjByVEdST1cyMA?oc=5
 
-### 9. Ibovespa cai e dólar dispara com inflação nos EUA e ata do Copom no radar - VEJA
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, CDB 100% CDI
-- Fonte: VEJA
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1Z5OWVockN3YWFaVU51X3V6cGtsclA3REw1RnV6cTdnMVdZcWp4aVVLMVBTM2I0TFVpejVJSFpsTGlyV3p5TmZtS3lvQTBtQWFGMGsxWXRZME44TGlYQkpZUndZVXlaOE13OGF6UmhnOWRIMzNRQTR6V3ptaU54T3hsSmNkQW80WVpfX0dGd04zcFdWU2dvUElCbGp4c25mdnhuN25DZG1Yb3RjdEE?oc=5
-
-### 10. Ata do Copom: BC prevê desaceleração da economia à medida que a inflação aumenta - Bloomberg Linea Brasil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, CDB 100% CDI
-- Fonte: Bloomberg Linea Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUlucUtlMnpLWlYtUGpZUElsNkNndklOSkg5MEJ1QWpJY1JZUlprTlE1elNyWUNqdlhqQkpsTk9vbmdveW11aGcyUEk0T1p4Z000bDVZSFE0a1RmOUFHVkFoaU1wc0dmanVXS0wwZFRmTWlCYzNUODNHQm5TSVkwODYzaTJxa2ROdm8ycEFPUkFCdHRhRWpldHA1SzBGX2dRYkdIX25fTk80cEtxQS1EWTZhV2E3OEcyaHpvUE530gHSAUFVX3lxTFBjb2hhMmFtMEU5TFZUU2REVm1BdkJKekxhR3NhS0RCUUo3dy1WeWdOcWNtM01hUE5ZemhpSzVRbWNOelVTMHpWNTVYS204UHlkM3VSOUJrS3I2VWJ0bGJUWFV3a2g2eGZFeElxd0FVVVZKNDUtbkhHajQxOWJQakgzcWZ6NzlLa1dNNUNmQTA2UDMzeWlyZG9hOF8ycjdCQ0tHNzYwNlI1S2JReXV2MzN1Qk43MmVSRi1Xb3BrQmtiOGF5bWd2MkpDN21ITE1DVV9Edw?oc=5
-
-### 11. Bolsas dos EUA caem após dado de inflação; IPO da Anthropic fica no radar - UOL Economia
-
-- Impacto: Alto
-- Ativos afetados: WRLD11, SPCX34, CDB 100% CDI
-- Fonte: UOL Economia
-- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSjFZUHVmdzMwMmpEY05pLTFFY21nQUpxSVJqMWo3VWl5eHpsMlNGenhVRmdhVWQwM3ZBcFVPYWFtR3N0aUdhWnJnRDNkcWVLamJ4VFg0RUNGLTBrMUVpYjlMaW9qeTdjSHBGeV9CQnp0M2FPVkhXQW9qV0RkanFHbUNBVEdlZ1ZzNVBGcFJvckdvQ0Zuald4dUtQR1MxTWt6cE5tTEcwVUFqTDBqMU1HaXdqRThWQWNBT0VfV2xPSTdmYnUybHV4ZmUxX21jQklOUVBiSWpnbDhidw?oc=5
-
-### 12. Os futuros do S&P 500 caem acentuadamente após a divulgação dos dados de inflação de outubro - TradingView
+### 4. Bolsas de NY caem após inflação dos EUA reforçar aposta em alta de juros pelo Fed - Valor Econômico
 
 - Impacto: Alto
 - Ativos afetados: WRLD11, CDB 100% CDI
-- Fonte: TradingView
+- Fonte: Valor Econômico
 - Explicação: pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1iU0tpUEZzUmZ3SjNGV2JPVFlGQk9HV012TkRjdUtkTVZoZWdWSVlTMlFHVGFUMVhtVUR4VF94ajZQUVR2MFg0b2FSRm1NU0h6OUc4cTlUTFFBWjZSWm5KOWVDU0FEcTI2N1haRWc3aWh1TEVnbTY4?oc=5
+- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNblhNcmxLNmhORlpXd2R6M1Y0NkZIb0gyMzRvT2dYVWJvTjQySmhmaWljU2RIeDJFV3cwNHU5NFZrcm5GSTRfLWZSRFNybVE4NFlQZVJ5b3dKc09HM1BCMkJ6WDhBb3VJS196SFpRTHE0WGxFcjhfODlHd1NzaDBadVg3VjZhZmlJVjF1ZWt5Y0ExdnU2d216Ui1ZUXJXM29QQXNJX1JyRXA2VWhwdVZVcG5VcVVLR0RJMGdMcXlOcWI5R0lqZF9UTnlwTVo4eUlETm83bGdR0gHkAUFVX3lxTE5wb2V5eUdLOFh0ajRqSjQ4WUN1NE43MVhyOF9CbTR5NHA1bEl3T0tJQjZyZmlUeVROVXdodkMwdEtzQ3hmLUR1RmVqWFBrLTBqWXRMLUxqUW9JUGprd3hMYlNlLTlxRDNWMmVBYk5vbm43VzlmMWpQYXFPUHdncFVSLXY5Tk1vVGtneVM3akpNSkhsM0luZm94WkZEWHpIT0s3V1VQUzZaM0VHTUNMZUl1MUZEN2w5MU8zTzQ3ODRMa1VuZmZibk9JTGV5NkUwVDZWRF9zTmdwOWNLbWVZeWhmU1ltSQ?oc=5
 
-### 13. Wall Street recua após inflação dos EUA vir acima do esperado - Money Times
+### 5. Bolsas de NY caem com inflação forte nos EUA e Nvidia amplia queda da véspera - InfoMoney
+
+- Impacto: Alto
+- Ativos afetados: WRLD11, CDB 100% CDI
+- Fonte: InfoMoney
+- Explicação: pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2tWX21seDF3b2tCSm9sLW9hZVpsRXFKWDhsRU5HQ09lZTh5VUxzdW5EQm5vLWgxNXBzZ2JWZHEyc1A4Z2pLdWxxWVpvX0RqMzNENzhkQ1BXREE1c0x1RV9QcXFsUHdIcDZjcGViRjBQQW5YRnY0NnRfeWd1bXlHUFlBSW1pTU1aRG40T1RiaWJiWWtSc2NpV3dhMGZfS1lXMDFwTmctS200NmY3cXRKNEJwaUFIWG1Ya2dLOExB0gHDAUFVX3lxTE4wVkJPQWhEdUVtaUlRUTV6cHRvQldvT3ZURUJYMVJaVnN5d0s4cF82bGRSQTBwT1dLci1ndVp2ZHYwd09RQmo5Z2RiTTByZFcxX1M0NFZSTmd0UDJiQmVJUHlaVThWcE8xLTNHY0JTd3Bldm11S1dyNHAyQ0FHMmNXSHpDbXVsa2RRNHhpWW1sVjg2eHpYR044Sm9WbG9JckJVVDJzendHSmJrY3NEN2hFZkJ1MURkVl9NLVctN3hyaTRDaw?oc=5
+
+### 6. Wall Street fecha em queda após dados de inflação dos EUA elevarem temores sobre juros - Money Times
 
 - Impacto: Alto
 - Ativos afetados: WRLD11, CDB 100% CDI
 - Fonte: Money Times
 - Explicação: pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOTFRpVDBDRHVKM19sZWc2SV96NzA2eW4ybHF6R0hSUm5wM0JCZUZwOEU2d3dDOVoxa0x5TFA4SzZmVm50d0pCRVdxbHhwcmc0N3FEYWhTUF9FMTgwUHV0bldGcTdTd05FQ3poS0RSZVlNOFZkNWx1alJJLTV1WTJrYm41Z050Ti1MMTJqcG1hQjNiU25XYmNXMXBDazZzZw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiakFVX3lxTE1TSjJxZzRSRGZBSjhxZlZ1LUZNTTI4MmlUSlIyQjQtbU55Zm5jUThObGhHUFBIMl9LVDV2S0dDNTRiY3otOWp4UXNBT29rRVNGN0xvXy1nRE5FZ182VkExNmNHWWxoRzZaQVE?oc=5
 
-### 14. Robô humanoide da Tesla sofre com crise de memória e terá redução de RAM - Estadão
-
-- Impacto: Alto
-- Ativos afetados: SPCX34, KNCR11
-- Fonte: Estadão
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVl5MTFUbGNsYUctU2VuN09PVGdYYkY0SGJ5MGlNRW1HcTRVUWJPM3ZraDNYZEFpejZBdWJpNEhScUFRbi13cjhDUkt5RnBHcEJQM0RHLVpnZ1k3VS1JOU1NX1RIc2pxdjV0RjFaeGdDZjFQUXVXZmtGbVJMVmNZcVpmMnNtSUMyaEhxRDJnWUtqSUM3cjJMSHBOcEV6NU9aU0F5WjZKX1NKU2tpMnJuWXVyZ1XSAboBQVVfeXFMUHlrU0VIUEx4Vl95eTBMdE1TMW0zcGkwM05VVDdSeUh0NG5SMnJBcUZsUWY0T2RqdDMyZGhfTEFkbGpON2xNVU5FQjVqVkc5R2Ruak9qRnlaRlMzSVZLaVkzd0oxRHNZdDdMaFJUcWNwOEk5d3k3U3F1SkFEcHRJQUdGM2hnY1hqcFNpSDdhczRqREZsWkp6eHJxbEtPUzNBZlNxZWtDVUZqN2tKS0VNdXZsei1xLU5LM0hR?oc=5
-
-### 15. ATA DO COPOM | O Copom reafirmou nesta terça-feira, 10, que o contexto atual é caracterizado por taxa Selic substancialmente contracionista, aumento significativo das incertezas em torno do cenário base, expectativas de inflação mais elevadas e desacel - Instagram
+### 7. Wall Street fecha em baixa após dados de inflação reacenderem temores de novas altas de juros - Jornal de Brasília
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Instagram
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pbjVsNFJKQ2htcDljb08xM3BmSUJrY3J3WDZPVmNrV2xWZmxwZ2hYTnJ1TGdtMjBLS21LYkF0NWMteVpkaVYwTGZkTzdrc1BPUUE?oc=5
+- Ativos afetados: CDB 100% CDI
+- Fonte: Jornal de Brasília
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSFZuUW5HRnVQUUlFRk10OGJwZUJZejE5MkdvYnFxSkttZEwxMXRiR0podGZfWVpJR3JzWnZWczFXSm9NeFRIRnlHSlZSTTkzSHdQWXlHNWMyeWJISVpDeHV3LWplU09SUzFVLVpzR0swRVJXWG03OVd1akFtZU5Xa2pPbVY3a0tYTnpoMHlEVnpxa29hZ3Jfbm9oUlRLRHJRSXdGZmdRT1kzRjl2OVJQZ2FzdHVLUDNjY0xIS21Eb3BMNl92cU5XclViUXhzUkVfX3QyRFFmWGp6b3Zz?oc=5
+
+### 8. Galípolo compara juros altos a remédio e defende atuação do Banco Central contra inflação - CartaCapital
+
+- Impacto: Alto
+- Ativos afetados: CDB 100% CDI
+- Fonte: CartaCapital
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOclVWeUV3S2ZSNDRaQjhqblhSeE94bUsyM25KMlJfTmdoY3ZRbHhVdWQxVDRxbkdvMUQtVG5SVHV5UVhqeUExeGxLUmNMM2VWTUw2WVRGaFh0ZXc1U3NPdW5EVHpfaWNkalp1cFUxREdVRnN0Q3Y1MjQzSm1yMXd0Q0RRand0N2VWVzdIYlI2Y2FFX083a1dIdFlPYWpXU19tS29rWV9KM1FMeFNWYUJtdTBYVG9mZHM2Qm5UQlJjcWQ3dXE3YUk0MURYOA?oc=5
+
+### 9. Banco Central vê inflação pressionada e indica juros altos por mais tempo - Jornal do Comércio
+
+- Impacto: Alto
+- Ativos afetados: CDB 100% CDI
+- Fonte: Jornal do Comércio
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMmV1XzRHU0FHRUpxOEVTNXZnUFpxN2NxblJBQzlzem9fblFJTVdFeW9OUk5udUlEWlhCMUw1MU9KSlV0RUw5R2lTc1J3UzJtRklkb0NCTXQtY05OLVpzVmpzU0s0dEhvNFBwUUZ0MjRKMy1PYXdNeWlCeXhBMU50WjAxMzdKMG8zODdhNkJMQlgxbE1fb1dhV0N5V2FFUkJuMXpDUWtpN0dzLWhzeXR0dWV1dHpuWFhhWjZXZzJBZDhxMVFLNHBobHFuMDNQd3BXV1E?oc=5
+
+### 10. Ata do Copom mostra expectativa de inflação mais alta com guerra, El Niño, fim da 6x1 e disparada do dólar - Folha de S.Paulo
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11, CDB 100% CDI
+- Fonte: Folha de S.Paulo
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT1J3NzlNMTY1by1PSGFmWXZtd2lEQkIxR1owZU9XcElQMXdsbzNNN2lJR2VwNmhuSlB5UFBKazdoMkZ5cXpZM3RTVGhPSF82NGxFa1hfam9sa2VBMlFQaGRZUXp0UmJEdjVST1NsUXhVNmJXVUNQRm5jeUlYUWpKeFp0aEI4MlRfVHhkTmZUVnNIN0xWR21sWG1XdGg5RTlZME1DX3pEWDRkMU01SHB6NnJ5M0hBOUZqaWpGUFhqUTRQOVFLaXlIeS1nMjBxX3JMWm81YVRiMTk1NVYwN0lVUUpMZHdsbS0ycER6MA?oc=5
+
+### 11. Dólar sobe 1,46% e fecha no maior valor em 15 meses - Agência Brasil
+
+- Impacto: Médio
+- Ativos afetados: IBOB11, WRLD11
+- Fonte: Agência Brasil
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWNIcmJWMXAzSGtmUHByQmc1bWxON0ZaQVJvY2RzLWItbXFNaFRZbmhCbnVrSktWNktvTlJZMGlfa254MXEtOC1fR01fcVU2R01LNnJXQTd1bHNxOVZvWHktaThxUjJFVktQMVc3V01LYXRHOVlIQURYRUNzNllBdGJwQjE1QWtMOUZwenVoN3oyV0Z4VTZvM1ZvdUlwclFpel9LN3lJS0tnWlU?oc=5
+
+### 12. S&P 500 cai, pressionado pela liquidação das ações da Nvidia e pelos temores de aumento das taxas de juros - Times Brasil | CNBC
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Times Brasil | CNBC
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0V2Q2ZQQ1B6RUdYWHJkSk9QUDNYNmF5c0YzUDhBTks2LUNCM1VHcVNYcFVKYm44VGczMk9rZktLQUN1SnRCQXZaUGVaQlhvYVRlU2Z6QWZfMlhxX2VESW1aY1hxOGRhMjlkYXhZWEdUd3Y3eWJ2aVlBYlV4VXpuc2xZa2hITUw2WTRENjI2ZFhUUjJrYm0tRG9vbGpfaFlBSWJQdVFVU2dtQll5UkJvdVVDc29HMDc1eXp6ajBkMEJOQlk1S1p4djFaV0NURVpFeWpUb2tUNW5Na1dEM0VvbXZCanJMUUk?oc=5
+
+### 13. UBS mantém meta de 8.900 para o S&P 500 em 2027 e vê forte potencial de retorno - Investing.com Brasil - Finanças, Câmbio e Investimentos
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDc0WmVCcXJGN2RFcjltVkc1U3BTXzVCUmR5b05PQldlcVU1SmxlT0VGZ1ByNXNBRDYxaVJ2bzdLNndfN2dXU1BEVUdfSkczUjhpaFlJUm9uOFhOOWFMbWNZQ25GVXc5VXpNLXRUVVpmREV2bmU3WEV6RWFCNllxV3dWZGxJWXR3OUN1Y2JqX25wSmU4dEJ2Sk1JdzVmRTVzVHhuVEM2bU93NWtqTkJHUF9fX0RWZkJWNnQtUk1kRlNLY0lGa29vX1h2dGVKUQ?oc=5
+
+### 14. Wall Street sobe à medida que recuo do petróleo ameniza temores de inflação - CNN Brasil
+
+- Impacto: Médio
+- Ativos afetados: CDB 100% CDI
+- Fonte: CNN Brasil
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTFB5em9TcnR2dnpKLTRmM0ltWUJHVHZTZnJmS2lzTEFFbjRjS09VcEdZNndEbFQ1SnZiT3NuUEw5WG5TZDMwM0tIa2luTXB5Mnc2VG1CZUQzRS1RRnFfblYtNEtSMGxScWxPNkRPMmxZTER3bWdndGxfUDNsdw?oc=5
+
+### 15. SpaceX prepara teste histórico da Starship: foguete e nave podem ser capturados pela mesma torre; veja como acompanhar - CNN Brasil
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: CNN Brasil
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZEZacFhiVEM4WV9XQlRWaU16N1E5SVEwT3VLU254em9pc19TNGlDV19tZEJzVTh4RXB4MWZzY3E4S0hwTmt6Q0g0MG1WNDFJOGFCMVJHWmRydU1IQ05DdHNoU3ZadERuUmVPSU1GcEJpWGZiMm9iV1pURjBXVDVhdkZsd2lmVk9LbTJFRllGQXJsVkN1a2RmX2FnTU9fSUhsN21hSk9oQlprbHQ5RzdnZnpBUWRPNHpvNloyeGxJcVJ5dlA2YmMwUk1BTlJGYUZQT2VNR0JBcm5zNDhUMEdIT3ZkeWFaVkNMTlE?oc=5
 
 ## Conclusão para o próximo aporte
 
