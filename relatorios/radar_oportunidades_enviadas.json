@@ -1,96 +1,5 @@
 [
   {
-    "data_envio": "2026-09-16 00:20:27",
-    "chave": "51e942102226c69c5f758c71eab0af07f2e5f155bb7248f42a83f035c83b87b1",
-    "titulo": "S&P 500 fecha em baixa, com aumento dos rendimentos dos Treasuries e operadores preocupados com inflação - economia.uol.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONE4zbTRVNC1FLS0zRXNZZ2NwZWZQRG9SNERMeXRrMkxpVXFIRkc5UmNoTEdSVDlYeUFYcjR1ZTd4dU9PS2szbzFYQ01BQzVPeU53SDNidkZwN25DczRzRzNCaE55Qy02cVRiU2JsLUgtNDFxUVdWMi1Xampjci03eDNsaFpfSmxDT0ZaeHV3dmMwNnBGWlhGQWhHZ1BtRVJfdjNlVTdDaXFtZ3hVMEdpVmdRVWdhcEt2RVlTdnhtUWIyUGRPZkVWNGF3T2pkRDJ5LS1ucV8waEV0UDU5VDhvaWd5ck80cFFvcFdDZEMzX19mUVFq?oc=5",
-    "fonte": "economia.uol.com.br",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-16 00:20:27",
-    "chave": "07943fd7d366b4358e6d0c2df307b3e23aca1aad682c1c7f723c1d4c8ebe2234",
-    "titulo": "Opinião - De Grão em Grão: Copom deve cortar os juros nesta quarta, mas o próximo passo ficou mais difícil - Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU3Rkb3RIZDVmd294WmFUS09yWmR4ZGZUeEs1M1lnRDRZWGZOWFJyZ3lDSXVLd3VIbTNaWkNNa3pqLWkwQUdtaU9Kb0JHVVVfc0hkN21WclJ0dnU0TXhBNEtfd0VmcUR6cE9kaXVwMTVsdThHYmpXSGk1dF8tamkzSkFfNEhIa2N4ZVk0bnRvLVF4NllESW9MSWxiNVkwR0lZaFpRb0RlTUVxeGpWYzhRcGZ5dktsSXhtNE5QbGh2UnRZZy1NeGNVQmhlQ3BPcGFiS1UzaEdaUGRqeTZ3?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-16 06:02:15",
-    "chave": "6864db29a5802db0a10847e42043549ae1e69fafe29db5c1d754bdcd743886df",
-    "titulo": "Banco Central deve cortar a Selic hoje de 14% para 13,75% ao ano em última reunião antes das eleições - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeWpNeVVXQ0NMcEF2dmhpNmp3S3JSUFByUkp3OV9penBTckJ6dHEwdVFOV2JWZDdHbHZlUXN0V2ZmZS1oNW1hOTFHSnpLSDVzS2VyTzRvQ3UwSjVrbWxsZV9uWGFsMEZMRy01a3ZmWXR5NWpuWXlnQTV5azZTQVkwdFFOMmQ3dnBSSHhjRGRLdlRfZWtuS3R1andSYUtCZlJ0X01kUHhQZnFjZ3RsWThsdGVLTTh1RFUwdDAtb1JWemliZ2l0RXpBMUdaWno1M0VqTmhCWUxJSVpwelpsWXJnYk1zZjhyY0Vfa2VyUVk0a3d1T01CVV9aOGtjNUR1ZzVCWkRha0VtN2pYb2lh?oc=5",
-    "fonte": "O GLOBO",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-16 06:02:15",
-    "chave": "269799c2e0e5b1311c97b62bbb0e11941f0a860e3093ba12a3a058d4f3e346b9",
-    "titulo": "Anbima espera que Selic recue para 13,75% - monitormercantil.com.br",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iVUtYS200OHlHcVJxem9iNktzTlJUTWZGNnU0VGJheTNTQ2UtVUlRempmRTVrS0c1aWtsRHhvelFlZkpoRnkwaktWVzRXNk56d1JtNUVoXzh0cGxWUEJnRHZkVE5UVjdBN3dvSmdRSTU4VkVFWFA4Q0Eyems?oc=5",
-    "fonte": "monitormercantil.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-16 06:02:15",
-    "chave": "78160e9cb632d6b2c897a8b750b678a98edd3ad414990d494169e5f3f0a3cba0",
-    "titulo": "Copom Selic: reunião define novos rumos da taxa básica - Acia Araçatuba",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDZXV1JjZWdVbUM4LTN0WEo0YXJvTkZKdnZ5d2xLR0ZIUmk5RjJIX2UtNnB5XzNTWjdwLVNHRGtTdkk2V3FlenZmamM4dU9NZEtDa3RXbEF4QUp6TnhDY2xtWk5lTDNjWUhQTVZtSk5Wc3BSMkF4UWQ0UHRYZjVPay1R?oc=5",
-    "fonte": "Acia Araçatuba",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-09-16 06:02:15",
     "chave": "55d2588d9d5d037159ab80540a6f8ecd18d498f8b127586d4e85b79e3a18bdad",
     "titulo": "Opinião - De Grão em Grão: Copom deve cortar os juros nesta quarta, mas o próximo passo ficou mais difícil - folha.uol.com.br",
@@ -17438,6 +17347,101 @@
       "CDB 100% CDI"
     ],
     "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-12 11:10:06",
+    "chave": "d7626ec732790b83524e74a23a7c6fdad29fdc9a3c4e53f3b1f25823c5b90564",
+    "titulo": "Agenda do dia: IPCA, pacote fiscal e dirigentes do Fed no foco - Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVBIY1JnNEJyNkF5UVZWRjNobkpNZDdwUzRIMVJ3dW5rZnB4Z0RiX3JaZC03d2lZQ2JvcE16U1B3bjlSd28yMThYZHdWUDR0VEpLSEJCTWRURnE5dzZpdldEN2VJUXlwTG50Q1ktcnhOWVRxS2NaRlJKckM1OWEzWC1ZN2R0aFhaRjFVZm1xdURpWFlveXUyODhibUQ2N1IzV3o3X0tIWERfbTJaYWZZazY5SWNaQlpRVXfSAcgBQVVfeXFMUDhNSTBveUpzak1jU1FpTEpHVUdrT1kzUEhKM2ZUNDlURUgtQWpMdHd5b0wyWDhxUW5XdU9SYnJ3T1BTQklxQlZPdzZ6aWdfZGVCZmNodTdJaDdVWVN4TTNqQnJoNnhJRUZodUdNT1JNMnFWYWU4eFpFRTVWd3phMV9ZeEc1aF9pQUlmSmpzYUpIbzlVQmNXN00wdTFDOUpWN0hWajlWVnlsSmJ1Q0p1YzQ5a3JpMHV1cHhkODR1dVhEdkxud3hWei0?oc=5",
+    "fonte": "Valor Econômico",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-12 11:10:06",
+    "chave": "14891ced341690864239d21423d198d2774bde8d961c3f175e5e0246d58a8cfd",
+    "titulo": "Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVpYZTRtaHpJVS1DcG14SmljR3JTRklXaEhaZHF3aGxvMndrU3NWcmxvRDJ1NmVHOUVZeFZFODRyeG1Od080VEVBenpLeUc2OFhfSHJmZVExeWF2WG9nU0JqTTgzU1JSQzZwSXZaazBhaDlaSGxYNVJJYUFQaWN1aGdjQ1p3UXNKM1pJatIBkgFBVV95cUxOVUtFeGQyVFNCZ0xiNjBDR0dac1ZySFVGd1FtdW5FX3kxWlVLbWJGY0VpV2JlamIwNkhKaC1tbVAzbVZDcEh2U0lHYXF5MW9uVjBKZGRpbkhBZEE3eE83cTZ6SFhJNnczZ3NQaHJvSXBtbDlSeW03WDBWVjh6SENkVlB2akRPT3ZISkZ4RUVsVmsyQQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-12 11:10:06",
+    "chave": "177cc6e683ca1651b3bf76277473c2c70fad32718b7eb8a555930cd33244cbdf",
+    "titulo": "Ibovespa hoje: tombo de 66,5% no lucro do Banco do Brasil e IPCA de outubro deixam Bolsa em alerta - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNnRib3puU0NsZEs4YUt5YW9XWWFxd01iTkhwWkVJWXctY3IyalhVOWJKZjFnUUZOdFNkSmlSNEZtV1NVcG4zYmJjTnZrMzdJVU5aYkVkcEVPVy1OSlozdVd3STlfc1d6OHFuNGhySFl6d3VWNXNiaXd5SjZjUDNfSGZzQ2dnZHVsUGEtT1RqdUFNdVBJTUNrazY1SnB4Z0NUZHp6c01nSGNTZFhyZW9TazlQUjBoU2xyUkd3ekxBVEQxNHNXUjlUdmRhRXdUZVRsR21WWDF5OFdDeklkLVhhc0tnSWdFNjBPM1ctb1dSYi14WlZQ?oc=5",
+    "fonte": "Estadão",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-12 11:10:06",
+    "chave": "038833be49fe77219d0d6d2edf227b4dc2cf29671775a0b7ba15302509764267",
+    "titulo": "IPCA, tombo do lucro do Banco do Brasil e Nvidia: o que move os mercados hoje - Exame",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnNVNEVOc0JMeE9rQUFtVURyOHRFdXktdS04c2FFUWdUdHdmeHY5Z2V5dzNZOURGUl81WUZQTmtNS3BlT2Z5V0RlRTZocnFGOHFuZG9NNnpUU1RNS0JVV09BczhBWTNlMllldVlpYjlJTG5JeDRndTZpVWRMSFVER0tycloxTlY0eUkyRjZqZG9mRE5rdmUzajBiaGhjT3BCRGdKMjl3TS1nc1hvY3BZ?oc=5",
+    "fonte": "Exame",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-12 11:10:06",
+    "chave": "ac690bdd8114cd007af5ccc9f41bd863a89331cb0d672929d26d380286fb394b",
+    "titulo": "Juros devem seguir altos por causa da inflação prevista, diz Copom - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMkM1UFdyYmlCQ0Y1Q3BwZlBvS1FTTHczalFqMElRRmtHWjZTcmZtTjlLbUVscUUydjVTYkJnZVEzUTdySXJ2U0lpSS1NenE5b1RBblk0QzRsRHhKZWNLRmR5X3BuZzlDM2YtM0lUU1RLRkFPcTdlWW10ckRPem9VYm5DSmNGX005X1RaeHYzSmtqOHpQVVMtd3h6aHFxSGx6RWtJR3NuaThZMlV4azJHc2x0RHdRTFBndEtOR0lZN1ZEbU1lRzBEV3NYTlowMXJpZHF2R2stSUJtTFU?oc=5",
+    "fonte": "Agência Brasil",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
       "Caixa / Reserva"
     ]
   }
