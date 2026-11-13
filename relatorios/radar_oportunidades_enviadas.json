@@ -1,98 +1,5 @@
 [
   {
-    "data_envio": "2026-09-16 11:36:27",
-    "chave": "f183e001684cb721200a85f5d9df3a8f92929e7b3480b97397f4f19e831ee233",
-    "titulo": "Fed e Copom decidem juros nesta quarta com apostas em rumos opostos - CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXpFMTNfYXJKYmkxQmswMlJBRXI4WlJoY0dES3Q3XzZMT2NVcG96SVVKT1JPNHdoTzd2RDdwUnh1ZUZEc09iX1F5V3NpaFQ1X2tkaWoyS3JMYUkzSFFSczNJTVlBSmF5VkJIcmszaGJzLWVkX0JXZXA0bDRodkZtUW50c0pXSWlVSmd5eHhlM2xCMHQtTnZjQ0twRkVwTVNFRWdlTFdmWnJxN0QxeWVnTEVWbUJMWlFNUklWOTJEdS1IVkxS?oc=5",
-    "fonte": "CNN Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-16 11:36:27",
-    "chave": "446a508b9bd4de50493c75339dcefa90ee5bc72c817000f825d822d0a1350b14",
-    "titulo": "Bom dia ADVFN – Decisões do Fed e Copom movimentam os mercados, IBC-Br, WEG anuncia o pagamento de proventos - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeUQ1UzdHdDlOc3ZqU2hDVG82SGczZ1VoS2FhX3hESXoxR09mR1NtUGIzcE9VUGpOd2FqMU1IUVFGZmJKQ1dCNlJQNF8zbFB5UzI1d3B3VEFPRGo3N3RBS1h5bjJFZk1PMjlKbGViQ1k0eHFLYjJxakFmWDBCNU82aGNlQU5YUEg2RDFfWDRWS1FtMjFzZVlmUDlIWW1aVFhiQUhiRnp1bnlJcVZmLUdlMWZXb1F2TDZQSWxHeDloZGEtR3FTUW9NVGwzZzZxUVFoWndkT0pmVQ?oc=5",
-    "fonte": "ADVFN",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-16 16:55:42",
-    "chave": "41bd5b204934b7ae754a9afaf1323df942fd55eb79dd62b9958f56fee2880047",
-    "titulo": "Ibovespa cai com Petrobras, de olho em crise no STF e à espera de Fed e Copom - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3RqZHFDV25haWdPMmpfNXp4TXc4ZkRxWUFucTlyeHJVTVJuX0RlT2IyUmp1WVp2UDFUOGhYRl9XTDhNaHhuTFcxaGdhSDBwMGpVNEJ4SjdsMTNiaUZSaFl2LUhnRUxhbk8yQ2htdGlIRGItZmJvMUJZM052RFk2UEttLWRIdmF0X2xleDZ5bmIyUU8z?oc=5",
-    "fonte": "InfoMoney",
-    "score": 20,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-16 16:55:42",
-    "chave": "44134aa597e029fbd1962c70d5375dd8f935e2dad8885f953262d00be6780c73",
-    "titulo": "A tempestade sobre o Banco Central e o Fed, a crise no STF e o que mais move os mercados hoje - seudinheiro.com",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDRZYVM2Vjdjai1aV0VaZlFHT2RKVmVvQ2FrdElraXl1TTVXT3c0dE5jVXRXM0w1ZGhaWnh0bWk1QXdweWpTcTctV01GLUVkUDFxeGM0RlA5Y1JaVGFwYVFVMWlMV1lNdFpjMk5ueXhpR0VoMkI2RVpKLVl0Z1VJM3A2UmZqM2F4TlB2Y2s4MnBHYkdjZ1RmV0J4WmI2UXlrUy1oUE16V3daOTNSWnNpSkNVWmpERDFzVGVPV3J6TTR2U0U2ZF9IXzdiQmtnWHJsVGQwNU9ESHpvU2RocEpydA?oc=5",
-    "fonte": "seudinheiro.com",
-    "score": 16,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-16 16:55:42",
-    "chave": "94a9695cb1aa5b43cd81a4a22af381b7e30bd0b06731660b83e037f72c1b2559",
-    "titulo": "IBC-Br, prévia do PIB do Banco Central, cai 0,22% em julho, acima do esperado - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnNTUWVwZDZ1eTE0YUhadEVaV3VqNXZxSHNPWmtacFpNbXJNSGJudll1bkRnUWNPaTI0dGtMRWVpZ3ltRDBrZ2xoU1c2M19WaWVhNXVKZ3A4ZVF2cENHT180N093NDNFUk55Ymh3MmFFdERFbXVrZHctNUptNl9iODdrcGVHY3cyU2FRQXZYZVQ?oc=5",
-    "fonte": "Estadão",
-    "score": 13,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-16 16:55:42",
     "chave": "0749f6f6fb0257904c005d2b18e97c3b007a30982f90ab7600d0494fa6cbbe75",
     "titulo": "Corte na Selic ajuda União e grandes empresas, mas não chega às famílias - UOL Economia",
@@ -17428,6 +17335,99 @@
     "titulo": "Análises econômicas – IPCA - Portal do Comércio",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0xyN2tNRFVjY21ycERXN3dnLS05MndpMTZ6X2gtRS1OQXVnX2ZuNkVlSHE2ei1YWGZkWjhWc18xYS1udXQ2c2dCbzZlWEZvZld4anhLUEU5LXZ5QmRzNzlRUDdKMkxWNFF2MERkYjJOVzVXcXBaaHVPNjgwRHRCX0RVYw?oc=5",
     "fonte": "Portal do Comércio",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-13 00:24:19",
+    "chave": "1b21e7951376bdd958590d3a04cc76e9a7930d472fa4d08401447f1ac005315c",
+    "titulo": "Ibovespa volta a cair, com foco no fiscal, IPCA e exterior; dólar sobe mais de 1% - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTY4RS10S0VHVVVielFWNmJEMFdPcUhFS19NRDVNbElFYlRSYzVuS2Jra1BoSEJsUUlua0dWZWV6WGNDNU5KMDVjUnRBcktMaFRuakxoVGp5eHZlcGlpNjVBVm51YXdraXJaUVIyYUY2QWNFZ1BYRE1SZmlkYzB0d0dLUVFYUFNUU2J2ckM2dw?oc=5",
+    "fonte": "InfoMoney",
+    "score": 16,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-13 00:24:19",
+    "chave": "5a984b1e358896d933b103030f06a54fd34fde8e624d71ddd911388d126658cc",
+    "titulo": "Ibovespa recua com Banco do Brasil, IPCA e contas públicas no radar - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUVRhWXAyd252TzVROVBnMWx5c3J6X3dXNEE5eTFWejBBNGhRTWVnc2tLRjZDZXdzNm9lTW5fa2dmVUJhMWJpTG9yNVJHTDk3NHY0UllrNjM3YlFZazZwUVFXNVZmT0dzcHUwam9SazVQYVBoUURyR3BhYmhuZDBOcU95bmk0dDRPUlhQZm9nUmM2c25WMmh5ZjF1eW9nN25WRlZmalEtdzE0a3ZjX2UtcnowM19hUjNqbzNZaVAtX3RVV05YMVJxRXlmV19ya1pzR2ZR?oc=5",
+    "fonte": "UOL Economia",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-13 00:24:19",
+    "chave": "aa14505e409325a95e4af9cf91e90fbc2e4f233646c041982674e3ba70958bdb",
+    "titulo": "IPCA Sobe 0,14% em Outubro, Diz IBGE - Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1MzeU9iN3NMczBQMXIzMHAzOVVHVjA3VWNmdnM5aXlFMlR2NDlMU2wzVVVWQjM5ekpTZlVFRzZIR3BEN2NOZkloSkdTZmF0WUJBbG5Cc3ZCeFo0NzlSd2RtT05WWm1lN1BHWF93c1Z3NVhFNWY1bHJqaWMyR1hwOUdDTQ?oc=5",
+    "fonte": "Forbes Brasil",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-13 00:24:19",
+    "chave": "5aa42436b542c4d015f102e59ea1640a23be079d2532da29cfb5344ea0e13e2d",
+    "titulo": "Bolsas de Nova York fecham em queda com crise da Nvidia e ataques ao Irã - Money Times",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEEtajBITlltbERiU0tQSkRYWEtmQTd3Wld4Vmt0c2NEeWZrUG0xcFc5a3ZDWnhhbEJfTWc0LVN6N3BOd1Nhb3RUdWdTc0ptNW9zcGRsdXdOSkxHUUpHQV9EMndkMUUtRXd1UUZkZ1hCdmplc0ZvM1VuWDl6RmxMVVBLX2loM0xmOWZEUDJBMFJoeFNaaDU0M1VTV3hCbERNTUJQUmRzNkJ3RXNl?oc=5",
+    "fonte": "Money Times",
+    "score": 12,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-13 00:24:19",
+    "chave": "d88ad458f17edb90d2edbade7028764910497a2daadc11e169999837f003b636",
+    "titulo": "VRTA11 ou KNIP11: qual FII de CRI atrelado ao IPCA tem melhores indicadores? - Fiis",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXY3ZmY2RmFtWkFkVjBKazg5Tmw0ZTRHRnVERlo1TW9ZNUhLeWh6WF9ER3NqSGNUV3NiMkd3dEMwWVRHOS12V0QyZGZuVm91a2V3eWZRdXJJTnNMYWg1dm5Wa0xoa05iZG10QWJyMXlkVWxxaFJxc3hDY1Jqcy1JbWJ2NC0?oc=5",
+    "fonte": "Fiis",
     "score": 12,
     "tipo": "Acompanhamento",
     "ativos": [
