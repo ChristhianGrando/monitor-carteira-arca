@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "titulo": "Anthropic projeta captação de US$ 64,4 bilhões em potencial oferta pública inicial no mercado americano, aponta Avenue - Brasil Inovador",
+    "resumo": "Anthropic projeta captação de US$ 64,4 bilhões em potencial oferta pública inicial no mercado americano, aponta Avenue Brasil Inovador",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUWQ0RkQtSS02N1pqTlAwSGx0X2txVHhsc04xdngyRUpxUnNKQ2xTNW13TDFIUXJ2YUhJQmhZYzlFSExZUDVoUnZUNVh6VUFnel9kcUlXbTIxdTI5STVLLUpQWmlTQXVzazE1cTc5VmNXaTRLMWhjMW1JLUZHcHptYTRHOHpCOXJmZmdYNkhKMVgtNi1qNFRZSkRoMlQxZWYwWEg1VDVrUmQzaDZSR3lCYVRHb2VMMW9xSm83WnB5UXRRLUhsdVVHV2Z3WVlYZzJWX0t6bVhTbUNESVFsdFBF?oc=5",
+    "fonte": "Brasil Inovador",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "9571c7909483b6e3b5e07885cb13fed3c61f3b7ee74d6738c90f1136a3ed12e7",
+    "score": 12,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "cita oferta pública, follow-on ou emissão de ações",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
+  },
+  {
+    "titulo": "Agibank estreia na bolsa norte-americana valendo US$ 1,9 bi - Finsiders Brasil",
+    "resumo": "Agibank estreia na bolsa norte-americana valendo US$ 1,9 bi Finsiders Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOE05VWZhclFlTjVGZ3p2M1JVV0NPbGtxUFBObE9TUGpNZ19RaGFOa0N2UjF2MWt1WDRZOGlVNUM3cnFnY0VwV2FtNERPemhjTVdDRUcySkpxR1AzTjY1SWtkOVo3cFJtTU5JSVIzVHB3Umk4UE1VTHdIQUstc1JvQzlSekR6b1RTUVN4OVZXUTdZUmFwczNublluYmVOWEwtVWRLT1pNRWstRVh5ajdtZQ?oc=5",
+    "fonte": "Finsiders Brasil",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "092c39da0e2219411216be5bf259a4c3daff7e34f16c259ca2a540f5696127d3",
+    "score": 8,
+    "motivos": [
+      "cita IPO, abertura de capital, prospecto ou estreia",
+      "tem relação direta com mercado financeiro/bolsa"
+    ],
+    "tipo": "IPO em fase avançada",
+    "estagio": "Fase avançada / estreia ou precificação",
+    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
+  }
+]
