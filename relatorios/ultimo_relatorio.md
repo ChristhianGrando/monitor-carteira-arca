@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 14/11/2026 01:05
+# Relatório da Carteira ARCA — 14/11/2026 17:19
 
 ## Carteira monitorada
 
@@ -13,131 +13,131 @@
 ## Resumo
 
 Notícias coletadas agora: 49.
-Notícias novas, ainda não enviadas antes: 33.
+Notícias novas, ainda não enviadas antes: 28.
 
-Foram selecionadas 15 notícias relevantes para este envio: 5 de alto impacto, 10 de médio impacto e 0 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 2 de alto impacto, 7 de médio impacto e 6 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Ibovespa B3 sobe 0,66% após aprovação de pacote fiscal; dólar fica praticamente estável - Bora Investir
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Bora Investir
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXI1OVRubk1MMmhwTWgyNzRWQ2MwWmxLTXZGVUZuUkY0MkhiazZ4UHNwdGlaZnU1T1JKamw3MS1HYzBzZzBuMnFZaHowRy1TbTdxY1RZQy1GQlVwbkxpOGM2LUl2YVFxWlpFN3RZVUhCX2sydTh3ZE16WGcyTEpoXzFKNXRZSzI4Qm85NFJyenZGZi1sVUxVNGFra2hYQ1p1cDB3ZUJWWV8yUllfazBCb0tfRE02cXlZdDhSd2xTNzMwMnY5VDBtMTBoU3djUQ?oc=5
-
-### 2. Ibovespa sobe com fiscal no radar e avança 2,35% na semana; dólar supera ganho, com 2,66% - Exame
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Exame
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3hKUFliU29iWGtNMmVzSldPdVp4VEdYMURKMF9pNk4ybC1ScllTOU8zR1VaT1NfT0g4NVpOSmZrRFFkYkQ5RWQzTlR5ZFNMS3U4Y3VwOXloV0NqUTFybE5sYzRCNEd5aDRhY0wydW1YNmJ5czQ4cS1TVFNyVnc4WFpySGJ4WjJhSlZTTENwUS1xa29aUS1IWjlnQ3JXZjVQLXhEckVPZkZ4T3VQNHlEVmwwVEkzSHhDQmc?oc=5
-
-### 3. Nasdaq e S&P 500 caem pressionados por ‘techs’; Nvidia segue em queda após crise - Valor Econômico
-
-- Impacto: Alto
-- Ativos afetados: WRLD11, KNCR11
-- Fonte: Valor Econômico
-- Explicação: pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM0JmRzdhc19uWHB3RWlMX3R2UHQ1SHhvU2UxcEhYRE9KV3p6aXBKR3lRZDdVSnN1Tk9lcEhkSlZPclBkTEdLZ0h0ekgxRnQ0WjFCa1kyQTZoQmxwd1FDcFdhSEJpWE1veXVkbDhrRGcxZ0Z2aWdCNUFZSi13al96VXp3YkxkMFRBb2h6c1AtaVVva2R3TFhfVnA5bUF1RzJSYVk0QnFPcEMtZ1V4ZURiRmlaQTV3d3BnRk11WGJPR2RXY3N0c2M0NXd3dEstVWh2ZGdJ0gHiAUFVX3lxTE5PV2JuLXJETHU0NEl2VVJULWxOY21QVkpOZlBzbkNYMWZScmIyR3ZmalZERGRvN1FrU3FwdTJWZUlVLTVuVHN0Z2pheWZDbnlTX0ZXTXhVS0loY0t1SGRaRi1nWXE2bTVZWjZkdXBjdndvNGlOTjBZckxfUDFLV2JTblh5Z214aDFESlpSVVhnQ2pSZG9BT09VMUh5UnNFQTk4N0o0Wk5XYTRZYy1ibXZudlZMV0JuWFVmbTFVdWp1djRNN1dEY0xybGg0WnN4bmVNaE9tUnk5bGlrUUtxZkoxZ0E?oc=5
-
-### 4. Em meio a caos aéreo nos EUA, Starship é lançada nos EUA; propulsor falha e cai no Golfo do México - G1
-
-- Impacto: Alto
-- Ativos afetados: WRLD11, SPCX34
-- Fonte: G1
-- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNM05GYzhVRFlOamJvSFdhYjRhbExScWVvZkVTd3dZR3JNUjg1U2MxazZJU3RrYVNoZ195aF9xMU11MFpTX1ptTTlIZkhGNUpDZUhtXzRJaVkyNVhDWUhrTGhvYWlXVGc3TktiejctY1VVYWVfaEZBQ2ZVRXlpYlZ2NlhOdkZTLTdJN05EcG84SWlLeENUemE4OEZZUEVVS0R5ZlRSdXY2TjB6RDNYcTNKS9IBvwFBVV95cUxQR3Y2MTdZRG9iMV94RzRHUGVFd1RZN1dKbDRyWFVFeTFMaVZXcnBDUzBWU1lVQ0NaT3FSeVJraFBYQkpmVENPS2NlZlFKVEJtallfckdWaVprLWkwMGFpajlheG1IWUJXUWR3QVk0MnpqQVBpckpZQVVPX2pGY2VqYjZ1cnNxZlZOR0lZWFVzaGZfblBqSzZ6bDJkQVpIV082cWxXRE5wM29neF9Ld0NwdEZtaUE0VDY4RnpVYjNHWQ?oc=5
-
-### 5. Cúpula do PT decide apoiar ajuste fiscal do governo e elege Banco Central como culpado por crise - Estadão
+### 1. Mercado financeiro projeta Selic acima de 10% até 2030 - Vero Notícias
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Estadão
+- Fonte: Vero Notícias
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVFOTmtnVk5yMS02NmNwRkU2d0FhTi1oVnNBM2NhOHl2eXhFcUVVcEpJWU1nOWJZaHdqOTNwQ0w5Z1pEbUFIa1lNV001SF9MNzkzWW1sOWFjbGJvejY0blFIQ3NKSHFEeVh5RUYzamMzTk51U3FHeEQxNVZyXzZtX3l6QXlZeWZnZzg5MXp1dHU0Q3RnSl9ZRFNOdVByRGRsWVNEMU0wOUdvbmFmOFh0TnliV2x3UG9iUVpmSlF3WTFwYjBaXzRTUGxpeWF1QdIB0wFBVV95cUxOYkhranR4V3lSN3laSk85ZTlCNWlLN1FCaVQxTlV5MGdnZXgwNGludTA2WVJtVmh5MEhrYklSa3Z2Q3Nkc3o4TUNkNnR5c0FhTnNMRFctNC1WMzU3aWxOS1BJaFZxQy1sS1ZxSThTX0QxYzlNY1F2R2pYTC1XQ0pXeFZ6X3FTMlZNRE9xRFNvVlFUdEdsYmR2QWFBWjZfSEhoR1MycjNIaHh0WnNiNlVkSmFfangwRXVUX2NVeklILXhzMUVicUVQdTVNbFdsT2JwMm1B?oc=5
+- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNMDZsWnJuVVBEcUdPVTlkckNKMXVjcURtbnlXZGZkY0NaM3hSY29zUHlSamJoN2tBaS1wNjJ2MmEyRTB5Y0tUM1QzWXF5cDJfNzRBbjNZdkNEdWdSUlBTS3pkV3p4bUk1aUtLT2lCTnQ0M1VDX2w0NlV2aTBnTzBOcTd4ZlFrSlk4UmRlYnM2cXFEdw?oc=5
 
-### 6. Maiores altas e baixas do Ibovespa na semana - TradeMap
+### 2. Cúpula do PT decide apoiar ajuste fiscal e elege Banco Central o culpado por crise - InfoMoney
 
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: TradeMap
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMiWEFVX3lxTE80UFhCd3hnbHlZYWhhd3RqYXNsNVJueTBVR09BeDhVQThqc25rWjVNYm9EUW1OOWpFVFhaWGFSQTU0bUw3c1k4NzZJbUJnc3FSUkpVTWRETno?oc=5
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: InfoMoney
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnJQRW5BTjBvcXdIYmgyVWVVYlRZU0FHMzJjaVVVZzJnc2xuWjB0Sm1hbUlFLTNvVHZDSy1ENFhhLXRiT0diOGx3T3I3RU15cGRuQzVjcmRVNW1xbGFNVE9SYmJEVUJpcmxXLVJwVlpPdmJKSG1DQzIwUjJmb0swUnZVYjY1ZlBYOUNOWTVSQmt2dUFuSi1XSjk2UU8tOFNfS3A1YzRWWHpsX215TXduaExMNG5fX2lVNERlTGNn0gHDAUFVX3lxTFBIcDBGN1ROWDV5WF9taE1XWUJRUXpFUE1TYnNDZ25HdE5ibUJUTVlFTU1uYVg4dTZ1R2F2bzQtZDFET2EzV0tiOTVHVnN0N2owbzhfS3hGQXdzM3g1R1hEYmlaZUdiQU5QMDdrUmk1ckVMelBraTFRb0VxS18xeWRoZS1nRVZKNGRlaHZ1bXVUWnJTckNycjNXbTNqUHY2WVBHR1dPbTZMUFktc0JjUVNLWDd3MktkYjI4dlE1QmhUYm5rdw?oc=5
 
-### 7. Sexta-feira 13 não assusta Ibovespa, mas CSN (CSNA3) despenca 12% - Suno - Investimentos Inteligentes
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: Suno - Investimentos Inteligentes
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOMnV0LUhuQVN6UkctenpMTzd2TkZKOHg3SmVHYWpFQVN4NGJpNE90ZV8xMjlSQVVzVXQ4aHo0MGpabkRURmt5TW5mVjFFU0xGeTlkc3pMN3JKcTFVb08wT21JSnNvNzJrYlg0QzJ4cHd1RENuWTdfRmc4NS1JZnZBbdIBhgFBVV95cUxPbmc2LVNVQnJnTkdQQnhlM2l2VEp4TkdpNlBFbVh6OUVRWjQ2ZGtWSGc5QjRFR1ZiWDh3MkdKdGVJS1o4R25PaEszUHFnWVZDNGNaT3ZrVzA3UkRHWTl4ZlRRa2JucnVtVlpwRWtHcVRCejJzMDJzc0U1d09xYTF5YWdicG5tdw?oc=5
-
-### 8. S&P 500 e Nasdaq fecham em baixa, com incerteza em torno da Nvidia pesando sobre ações de tecnologia - TradingView
+### 3. S&P 500 e Nasdaq fecham em queda com incertezas sobre Nvidia - CNN Brasil
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: TradingView
+- Fonte: CNN Brasil
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBuaHA5dl91TU5lSmhWcFpJRHlDZjZLeEJYakRUY0szekx1LW9nSURNTWVQV2hhb3REa3g1QUNzWklMTGU3cUFvUGRRODFXQXYwcHJNM0RRZUFMWFJYY1lxeUYzNHZ5a3A1cVR3ay1WbkgtYjBxTlZj?oc=5
+- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDBfUGlIWmF5WkZuWVB5OXlHeXpKS0dTYXRmbGJBSDJITFhiTmxULUFPTlZWNktSRE8yTlpnLVZYZUcwUE1GZWVKS05NamF2cUJFMU9pQ2pMbm1tYUhMZUNLOG9VTm8yczlNckpJdnNQbmVXS0JBTThObHBwXzVSNjljZGRraERN?oc=5
 
-### 9. Nasdaq recua pressionado por novas perdas da Nvidia - Times Brasil | CNBC - Times Brasil | CNBC
+### 4. S&P 500 e Nasdaq fecham em baixa, com incerteza em torno da Nvidia pesando sobre ações de tecnologia - Terra
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: Times Brasil | CNBC
+- Fonte: Terra
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSkJkbF9fUzJtSUhOU01QTWotVDRNOVRKMTBTQUxZZVpzRUpGdzFiY082UG5wc2NZbW1sNGtaMVhxMUF5SnYtVXF4VV9jSXBLM1NVTGw4QkJKU3BBdHMxcHpsdFVlM0xwc0hKOURzdktacFBmZXBnZEtmdHFzRXMyZVl1YnJyV3R1RVE2dUgyeTFra0lpeXRVVklWQUl0TEtMWXlZbm5IUEtmQm54VWU4eWw4NlF3TlhWd1M1UktwS1psR1Y1bUdibWRoSENJYWlJOUY3aF9OVVMzMjZRREVIOEg4UEZ2d1A3WWM5MDJub090Qlp6YVpr?oc=5
+- Link: https://news.google.com/rss/articles/CBMiigJBVV95cUxPb3BPaGhFWE1GQkZCbHpWRzBIRkpPbEcweUVpQXhhaU13UzdrN3llQUhhWjd0OHFrT1JJUkFFakVEVUtlc2tYYVpFd3c3YmViZC01RVA0LXduam9BQXcwR3lvNkpZZnVEMUw4aElLM2daeHNkOXNoOEFtMjRlamI5dGZCdExpejh4bDBtVlN6SGpzVjVZeTFITlJXeFZwN0xNSjRPQ0ROcE5Jank5SjlHVHZOVzNVVDlkNkZfZWNQejFCdmptMzZzNkVxVGhyTTRwUGpwVUg4WjlGWnp6QllNQkNTQkpTRW1aYjd2aFhiRmVHWUttVU0zdHg2SjVLMWQxSm0wYmxaRjFHdw?oc=5
 
-### 10. Nasdaq amplia queda em 0,91% com ações de tecnologia liderando as perdas, AMD cai quase 9%, Nvidia recua 2% - TradingKey
+### 5. O sell-off das ações dos EUA acabou? Wall Street debate bolha de IA enquanto S&P 500 e ações de semicondutores divergem para 2027 - TradingKey
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
 - Fonte: TradingKey
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHNFX095dHhaMUQxUFZrOEMwMjltNFNzYm9aekM0QUtsbGR1LXZEU09UTmYwNFhZRXpCQm9DSHhrYjhwR0RMcTc1S2xpdzVIUHhfT3Iwem1FY0dFazYxWnMtd1R1V0g5TllrSFZseVB6UFk5YjRuVXVjcjJPV21wYl9DUDRKYVJiVVFyZEpLZTFucnFMSzNXQkRfVTJxeVBQZm9sRnpkSHlhRDBDZkZfZWNXN2FpTmFyNDA4VDFsNDVhOFp2?oc=5
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZXZWRlEtaUEwMGlkTTJTZ3JvWHdnbmJkaWZ2WE5lb293YjRfZEpKMGhqbUVNWlhUZU82Q3dvcVBzR1JpcVF5dkdoQkNkeG00SGhhTzV3RDZDRWItUElMbElVYUVlYjU3YmNyQ2p3SFhoc3N2LXB0NFFYV2hWalozR1JfNGRyRjFDOVdUNHNHcXJ3ckZYSUVqY0VVbGE0V3lKeFVvbzhQRjJLb0FjR1VpMU11YW1GeEFBN1FrelhiOENxY2VlS2R2VldRaGpiV3d3azdjNGNWenVzWVkwLVcwaQ?oc=5
 
-### 11. Starship decola nesta sexta-feira: O que se sabe sobre o 15º voo da SpaceX - Exame
+### 6. Starship da SpaceX tenta pouso inédito hoje; saiba mais! - Jornal Brasília Capital
 
 - Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: Jornal Brasília Capital
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMlVKazdGbVRuTm1jOXVPVlRQZ2gxd09rLUczbDRqRE5zNjFyNUFNbkNobmw4OHRQbG9fVHJON0ctZkNfUjdjSUFFZkNfc2VnTWVjTW5VR3R4alpIWW5WQjRrLWZ0dnZZS285T2czS0RqVkhIeVhYMFZZSDZEWkN6WDRBc0hwSkxF?oc=5
+
+### 7. SpaceX tentará recuperação inédita do megafoguete Starship - GZH
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: GZH
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTndnWEJOWVJGdjJ0a0tMcloyRFRqcklCcTAtQ0tZX1ZTUHRUVlRDQUphdWJoS0wxZ0V6dHhBVUFhN0R3cVhOdWd2cmVrZGtHcVdoSWU5VzhubVRmUnAyY0ZaUmF5QTk4QXFELXhoT004eVNEOU9qOWlhdHJsNE5VS0x3SHZiTVJvcWhhcmtzbmJKcmFnb3J3QjZNQ3ZwODhpYXdUVk5ra0ZYMnpONHRXallnVjRyR2VWNndVeVpycEdkSmE1M3libVItemM3V2Vtc2JNX2Rfcm4xeGt4LTJRMlZn?oc=5
+
+### 8. SpaceX lança 15º voo da Starship com expectativa de realizar primeira viagem de ida e volta Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0g5U1RqVHZBVjJicnQ3X3dtQzZIVG45bkE1NEdXUXN1eDFESUh2NHpWMmxmTDR6YmNzZW1FQVJLU2toemRIWE5jMVQ0cWg2WkpiWVNGS1F0ejFYcTljdUlpNlhuZG9vaDNCc01VaWNNWGZqOWU2cXBqclIxbDlRR2NPbnl6NzRzMFBQaDc0OFlEcTJNQUdGRFhWcUlhQS1hVlI3bHlGNXpLRS1mQ2M2LUlzQWF6b3h3dUs5WTY0X3hqZC1FbWJNSDhVc3kyUVpRZEtFQlkwb2hmZ2lhVlN3aQ?oc=5
+
+### 9. Ninguém nunca fez algo assim: SpaceX vai tentar capturar com braços gigantes as duas partes da Starship - Terra
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: Terra
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxOa2Y0ZTFYbWJnNWdHdkNqcW5teUxGaUtxWGl3M19UTXhUbXcxMzBTWWcxQ3ZPNS1pbGFBdnNma1RpUGcwX20zUXg4SGFVazdaZndFcUZKRkFGMzJrUVk4emZBa05SWmlQdVE0czNWVTB5ZWpaY3luMWk0SnVMM1BvbUh1LUp0dGZwQW44OVhiSVhUM2g2Nm41dFNXRXNVamZ2Z3NoSlhkZTMtbnEzVmtZM3FBRVpWb1VSc2VYMnJLeVRYM0RqNlRtRUxWcGpxc1lrVnk3ZURIc2dPYmw4WkdOekw5NkRsSzFUempJRVkxNmRCZ05KTHQ0Qmd4OHVfbE1kNUdCSnZlcHNtb0ZxSmVqejlMc1k?oc=5
+
+### 10. Porsche detona show de Elon Musk com Tesla Roadster, para o qual a Ferrari deu nota 10 - Motor1.com Brasil
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Motor1.com Brasil
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZ1IzUUFVWFFNV24wNlA1R1MxQU82d0gxUnBWTldaUnBDYlFjTVZ3YTJBcERmVDdpWnQzcUhhRkgwTE1IcnBCYUtteXZWNjlpd21Ja0ozX0o5S1lQWVpxbmpDMTBScFpEZGpSbVdXZ2ZobDVPQWtRWEJoNXJiUTg?oc=5
+
+### 11. Musk: ‘sem Huang, muitos acordos críticos feitos em aperto de mão serão perdidos’ - InfoMoney
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: InfoMoney
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPellkMF9kX0lhOTh2ZmZiY1BvTWFuQ2N2SVZWU1BrUjRac2Fpb1JrRExxblBBWjRTLS10eGYwVVRVcmtXb0hQUGk4YmNPU3RIQktYLWFGd0hOMGZZejBGMHZnWm9HeDdxemFJRlVYRXkxWk5EaUlHSnNDczJNemgtYXlLbHBnakFZQlpOaGFobk8yTDRWNXFJQ0l3aEhRbmVxSmlJeENYTkdwMHMyYzNrbGJVbFFoanPSAbwBQVVfeXFMTTJ6X3A3Ymk0R2xDd05Uc0ZhMGNVYnBUaG5KU0w4QWNPZWk1Sng3SlJQQXlLTUZDbkl0dG1qOGtaT1BaTkd3MS1UN1VYb185dTFVVXhHV081LXlZSnN0UFRrYlFxNlNFTzhBNUJnWGkxLS1kOHVIb09ldldVWGotckNfMUI0TUNSVWQ5NURjc2w3aWJlZm05WHVpcUFwc0FrQk80QVd5enNHc3IyZmRScHcwUjk5ak54MnpUeG0?oc=5
+
+### 12. CEO da TIM vê 'risco muito baixo' de SpaceX virar rival das operadoras no Brasil - Exame
+
+- Impacto: Baixo
 - Ativos afetados: SPCX34
 - Fonte: Exame
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3IxeHkwN01Wa1AyV0VlUzFzeTBPbE5IVDB1RjI5NVkwdUt5ZHZuU3dGTERXUGNaMUI0anljX2tBU245MXhmcDVkaUZ2bllNbTF6eDlPT2Y5SmpMQlRjQ0Nsa3VzdWhJLW9NdVh5T3dZdlhrSWw3OGRXWWROb3hXNHZKYUpCSVBxOXA4SExQeVRVSzNPNEpObWFoanBWSUR3RWc?oc=5
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2lnY24xS0Fib21ERHA3R05GV0tBRThGa3RfcXZnQ2djYkVkT3VrN1RxVHJYMHc0ZkdtMjFCVm9BQzlTS0UwLTRNaW51ZlBoekhjTXFfZTJNeFhMQWNrTzFHUVdFQy1wNGd3X1FrVDlTVk9IUXRqS2tuaW8tdjlnVW11QlRFSDJNczVmNEowUFdVbTZhUWYybjQzejl5RkRmTHFTcnVFUFV6LW9qZTg2b2xwNA?oc=5
 
-### 12. Starship da SpaceX entra em órbita terrestre, mas recuperação de propulsor é descartada - SWI swissinfo.ch
+### 13. CPTS11, TRXF11 e KNRI11: destaques do Bom Dia FIIs (13/11) - Fiis
 
-- Impacto: Médio
-- Ativos afetados: SPCX34
-- Fonte: SWI swissinfo.ch
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMmd4R3Y5amFMZFR1LVRuTGlCSHdhMG1RT1h1bzBLYUtlZ2M5ekpPX3IwSXAwbWt6R3R3T1VPWU5fdkVselFfOEdqZjJjWGFaZ2NxclVwMThORHdqN2dpZWV2VzFvQUhhRVF5VW1NMHp4aUZmOVZCMW9pNllaeXozTnB6SVg2TDlRZHhvbFNvTlhnallobFJqUlJLQVB5UjY1UGMzNVlqOFJuTnZPMm9MdnNNSXFGUEFRdm1sOC1NWi1PM0oyendhVmdPWHk2RThrWm15ZnFmcHU4bnZOWmxWSA?oc=5
-
-### 13. SpaceX lança a Starship em um importante voo de teste do foguete - Times Brasil | CNBC
-
-- Impacto: Médio
-- Ativos afetados: SPCX34
-- Fonte: Times Brasil | CNBC
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0Z0eUJ2ZUhadi11UEdDTnl1MDNGUVU3bmFlZWxrcUEyZ1NIR1VaS0hVcUZTczU2Snk4RkpIXzB5MjRCczIyWmRXbVo3d3VranlkV1E1Ny1LUHUwU0tzYm55T1JVRXVGZk5rZVhWR2pXQWIycnl5b1VfeWNDdUJKcVVYMVZvTENGMUlkblh2VmRraURkelR6Y0hyazlEUzl4TEZScU81a0ZMQVkzWTJsWDZOZlpyX1NoY1dwNEpXWnd1YjNIdGJOWnFlUjFmazFMMTY2bldVRGNyYUNGdlE?oc=5
-
-### 14. SpaceX realiza 15º voo de teste do foguete Starship com manobra jamais vista durante os voos anteriores - CNN Brasil
-
-- Impacto: Médio
-- Ativos afetados: SPCX34
-- Fonte: CNN Brasil
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTFBTOFQtUHV5NDdwRE1aNW5qVXhNbVl4UVpTWG41cmNjZFRMQUtRYkxFWG5pdi1pSWNtY0tRZU14cURpcFd4dDNDY0NEd1E2VXRQMUx0eUk0WjBzUHhDbGE3anppcFdFTVpONEx6cENwTDFtQzI1anJFbw?oc=5
-
-### 15. KNCR11, VRTA11 e outros FIIs pagam dividendos hoje (13); veja quais - Fiis
-
-- Impacto: Médio
-- Ativos afetados: KNCR11
+- Impacto: Baixo
+- Ativos afetados: KNRI11
 - Fonte: Fiis
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMUgwVU92alY0Z2JzeU1yOUxnR1hpaHBfb0VDSGdkTDBfM1FqQVMyY01CV0dWOUV2VHpqRUI1Ym9oX0lLZUxzNTl5OEtBWjRjd2tqMmplS29neHM4ZXhmSjFiVlQtdS1RX0p5ZlNZQVVIQnBRcU93?oc=5
+- Explicação: pode afetar FIIs de tijolo, vacância ou aluguéis
+- Link: https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZUtLQW1BWUNGcUFsOXY1MnBQX0FMb1puNmpDbkMzNkRxSUlEM0lFaENFTWJtdnZUbTBtNGVRU0JibXhQRHAxUG1TY01NQ2dJM2trdGltblF0Z21xdlE?oc=5
+
+### 14. KNRI11 e HGRE11: comparativo entre os dois fundos imobiliários - Fiis
+
+- Impacto: Baixo
+- Ativos afetados: KNRI11
+- Fonte: Fiis
+- Explicação: pode afetar FIIs de tijolo, vacância ou aluguéis
+- Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE1CYjEtcE1HaTBDYWZ1dF9VQWpRSUhmcHlVRFlBVkpZLWl6WmNHbDFlLUJEbnktV0dENVFRTGNDOVlMODFvNURYbmdLbl9idnlMaDZJX0luRlc5cThJRVlGWHBkYVNEbGNKOS1kbg?oc=5
+
+### 15. Galípolo é o ‘cavalo de Troia’ do mercado no Banco Central, diz Cid Gomes - VEJA
+
+- Impacto: Baixo
+- Ativos afetados: CDB 100% CDI
+- Fonte: VEJA
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHFGSnRaY1QwTldvcEJtbnEtVGx5YjlRUFRsVWNzemFoUWdKeHBNY19BMnZMS0l2b3N2clJicDNzQS1hVlJiUFk4TG9SbmxrY29JUFhDbnM5R1NmZUx0OHpDa1Q3Tko0ZzQ4cVd0TTVhNUtVdzZoM0xSdkE3elVpbEdyTlgzc3BsWEdrdF9PLVEtVWozb1RUU1kyVGpLVWxjRmlydzRwd01wQQ?oc=5
 
 ## Conclusão para o próximo aporte
 
