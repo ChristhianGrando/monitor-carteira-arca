@@ -1,45 +1,17 @@
 [
   {
-    "titulo": "Cúpula do PT decide apoiar ajuste fiscal do governo e elege Banco Central como culpado por crise - Estadão",
-    "resumo": "Cúpula do PT decide apoiar ajuste fiscal do governo e elege Banco Central como culpado por crise Estadão",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVFOTmtnVk5yMS02NmNwRkU2d0FhTi1oVnNBM2NhOHl2eXhFcUVVcEpJWU1nOWJZaHdqOTNwQ0w5Z1pEbUFIa1lNV001SF9MNzkzWW1sOWFjbGJvejY0blFIQ3NKSHFEeVh5RUYzamMzTk51U3FHeEQxNVZyXzZtX3l6QXlZeWZnZzg5MXp1dHU0Q3RnSl9ZRFNOdVByRGRsWVNEMU0wOUdvbmFmOFh0TnliV2x3UG9iUVpmSlF3WTFwYjBaXzRTUGxpeWF1QdIB0wFBVV95cUxOYkhranR4V3lSN3laSk85ZTlCNWlLN1FCaVQxTlV5MGdnZXgwNGludTA2WVJtVmh5MEhrYklSa3Z2Q3Nkc3o4TUNkNnR5c0FhTnNMRFctNC1WMzU3aWxOS1BJaFZxQy1sS1ZxSThTX0QxYzlNY1F2R2pYTC1XQ0pXeFZ6X3FTMlZNRE9xRFNvVlFUdEdsYmR2QWFBWjZfSEhoR1MycjNIaHh0WnNiNlVkSmFfangwRXVUX2NVeklILXhzMUVicUVQdTVNbFdsT2JwMm1B?oc=5",
-    "fonte": "Estadão",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "45e137902ef3f1b915d3116d6afff5ded7130a341c68493c64da000c242dbf79",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 16,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Nasdaq e S&P 500 caem pressionados por ‘techs’; Nvidia segue em queda após crise - Valor Econômico",
-    "resumo": "Nasdaq e S&P 500 caem pressionados por ‘techs’; Nvidia segue em queda após crise Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM0JmRzdhc19uWHB3RWlMX3R2UHQ1SHhvU2UxcEhYRE9KV3p6aXBKR3lRZDdVSnN1Tk9lcEhkSlZPclBkTEdLZ0h0ekgxRnQ0WjFCa1kyQTZoQmxwd1FDcFdhSEJpWE1veXVkbDhrRGcxZ0Z2aWdCNUFZSi13al96VXp3YkxkMFRBb2h6c1AtaVVva2R3TFhfVnA5bUF1RzJSYVk0QnFPcEMtZ1V4ZURiRmlaQTV3d3BnRk11WGJPR2RXY3N0c2M0NXd3dEstVWh2ZGdJ0gHiAUFVX3lxTE5PV2JuLXJETHU0NEl2VVJULWxOY21QVkpOZlBzbkNYMWZScmIyR3ZmalZERGRvN1FrU3FwdTJWZUlVLTVuVHN0Z2pheWZDbnlTX0ZXTXhVS0loY0t1SGRaRi1nWXE2bTVZWjZkdXBjdndvNGlOTjBZckxfUDFLV2JTblh5Z214aDFESlpSVVhnQ2pSZG9BT09VMUh5UnNFQTk4N0o0Wk5XYTRZYy1ibXZudlZMV0JuWFVmbTFVdWp1djRNN1dEY0xybGg0WnN4bmVNaE9tUnk5bGlrUUtxZkoxZ0E?oc=5",
-    "fonte": "Valor Econômico",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "65e25b23f493f223ad5e8f89f7a8ffe823460a8e33b639e47cc516e3c3a68a65",
+    "titulo": "Em meio a caos aéreo nos EUA, Starship é lançada nos EUA; propulsor falha e cai no Golfo do México - G1",
+    "resumo": "Em meio a caos aéreo nos EUA, Starship é lançada nos EUA; propulsor falha e cai no Golfo do México G1",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM05GYzhVRFlOamJvSFdhYjRhbExScWVvZkVTd3dZR3JNUjg1U2MxazZJU3RrYVNoZ195aF9xMU11MFpTX1ptTTlIZkhGNUpDZUhtXzRJaVkyNVhDWUhrTGhvYWlXVGc3TktiejctY1VVYWVfaEZBQ2ZVRXlpYlZ2NlhOdkZTLTdJN05EcG84SWlLeENUemE4OEZZUEVVS0R5ZlRSdXY2TjB6RDNYcTNKS9IBvwFBVV95cUxQR3Y2MTdZRG9iMV94RzRHUGVFd1RZN1dKbDRyWFVFeTFMaVZXcnBDUzBWU1lVQ0NaT3FSeVJraFBYQkpmVENPS2NlZlFKVEJtallfckdWaVprLWkwMGFpajlheG1IWUJXUWR3QVk0MnpqQVBpckpZQVVPX2pGY2VqYjZ1cnNxZlZOR0lZWFVzaGZfblBqSzZ6bDJkQVpIV082cWxXRE5wM29neF9Ld0NwdEZtaUE0VDY4RnpVYjNHWQ?oc=5",
+    "fonte": "G1",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "e75f8f8b76b16d50c876106a6ee57b82a86bcad858a93e346e2a23933deed55a",
     "ativos": [
       "WRLD11",
-      "KNCR11"
+      "SPCX34"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
     "score": 13,
     "motivos": [
@@ -51,35 +23,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Vacância em queda, aluguel em alta: o que pode mexer com os fundos imobiliários de escritórios - NeoFeed",
-    "resumo": "Vacância em queda, aluguel em alta: o que pode mexer com os fundos imobiliários de escritórios NeoFeed",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMzYtUzdVY29oNmRqZ1JJSEk5WjE2Z1JUT2hTV05UWFVrVHhKdUxIMVRTQVNOZFpQdS11U2JFLUs4WkJ5X3d3NWktUjJzZlEyVWVmUmhuRHFlaTJYOEszWGppVzFzVkJCcHk1amFmNFZ2cmwySDFmNG9VQmZvY0N4ZUJMRHFBWGVrdTZPek91alkxcTZGenVJRXJON28tYWc3UFNZNEszbFA0bzVrTGxVYUNsc0FvNHJKQzk0djd2NnhBNGc?oc=5",
-    "fonte": "NeoFeed",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "0d3b53eb2b66a79763258fa38fe185dc9284130fdf6e7d35c9ed384e585340cc",
-    "ativos": [
-      "HGLG11",
-      "KNRI11",
-      "KNCR11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Quais os perigos da desaceleração da economia citada pelo Banco Central? - CNN Brasil",
-    "resumo": "Quais os perigos da desaceleração da economia citada pelo Banco Central? CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV0VpOEZUNmw2ODczejdQLVc3VTRnWnRiUmU1M2RYRGJMSmFFY1VQRUFjZ25PS3ZNbnR2U1VGRXVZbTN4VUZOeUJUeWs5aUFiVHdGZWd3S3ltcFVxV1cyTTJSdEwyZHVjdW5lUUJsOFpZVHR3dkVya0JTR1ZGQTdSQWZPVkhOWlhiLU1FZHhwblZ5NnRGRURaTDd0N1Q3dkRzNlZKdlc1UksxUVpaTTNTdmRGRXBTc2ItNjE0cWFvVWhDbnpiSTVxdEZn?oc=5",
-    "fonte": "CNN Brasil",
+    "titulo": "Nubank (NU) bancão: roxinho recebe licença do Banco Central; veja o que acontece agora - Money Times",
+    "resumo": "Nubank (NU) bancão: roxinho recebe licença do Banco Central; veja o que acontece agora Money Times",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2F2ZGlPQ0NFU1VmTFllMmJxMmFXeGozS2RrNzM0Tk5BcGttMldvLVN2VlpnbDZjLUpuYXNMVWdjZDhLWWxzUHpWY1F0TWE1dGxhcjJ5VFc2ZC04cE5KdGlyMmlZUkdkVWZRd0dsNC1yelIzOExJX2txRFVCYld0Z2hVUE1oa1RobWRCZDVDRWhZX3dnc3Zn?oc=5",
+    "fonte": "Money Times",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3318d8508b70c69996c41c605b000f2fe1fb4ba90bc7506b7417b32e4f361948",
+    "chave": "eee4a95c8ac164f7e705fee7a1901adb0bb3c358db810c8ed35f94356e4831b7",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -93,6 +42,27 @@
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Sexta-feira 13 não assusta Ibovespa, mas CSN (CSNA3) despenca 12% - Suno - Investimentos Inteligentes",
+    "resumo": "Sexta-feira 13 não assusta Ibovespa, mas CSN (CSNA3) despenca 12% Suno - Investimentos Inteligentes",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMnV0LUhuQVN6UkctenpMTzd2TkZKOHg3SmVHYWpFQVN4NGJpNE90ZV8xMjlSQVVzVXQ4aHo0MGpabkRURmt5TW5mVjFFU0xGeTlkc3pMN3JKcTFVb08wT21JSnNvNzJrYlg0QzJ4cHd1RENuWTdfRmc4NS1JZnZBbdIBhgFBVV95cUxPbmc2LVNVQnJnTkdQQnhlM2l2VEp4TkdpNlBFbVh6OUVRWjQ2ZGtWSGc5QjRFR1ZiWDh3MkdKdGVJS1o4R25PaEszUHFnWVZDNGNaT3ZrVzA3UkRHWTl4ZlRRa2JucnVtVlpwRWtHcVRCejJzMDJzc0U1d09xYTF5YWdicG5tdw?oc=5",
+    "fonte": "Suno - Investimentos Inteligentes",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "4483d83dce212ae7d37375c0b8a5535cccfbb6aa6ac22659bb5d3ce423e8f775",
+    "ativos": [
+      "IBOB11"
+    ],
+    "classes": [
+      "Ações Brasil"
+    ],
+    "score": 9,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
