@@ -1,73 +1,9 @@
 [
   {
-    "titulo": "Mercado financeiro projeta Selic acima de 10% até 2030 - Vero Notícias",
-    "resumo": "Mercado financeiro projeta Selic acima de 10% até 2030 Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMDZsWnJuVVBEcUdPVTlkckNKMXVjcURtbnlXZGZkY0NaM3hSY29zUHlSamJoN2tBaS1wNjJ2MmEyRTB5Y0tUM1QzWXF5cDJfNzRBbjNZdkNEdWdSUlBTS3pkV3p4bUk1aUtLT2lCTnQ0M1VDX2w0NlV2aTBnTzBOcTd4ZlFrSlk4UmRlYnM2cXFEdw?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Cúpula do PT decide apoiar ajuste fiscal e elege Banco Central o culpado por crise - InfoMoney",
-    "resumo": "Cúpula do PT decide apoiar ajuste fiscal e elege Banco Central o culpado por crise InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnJQRW5BTjBvcXdIYmgyVWVVYlRZU0FHMzJjaVVVZzJnc2xuWjB0Sm1hbUlFLTNvVHZDSy1ENFhhLXRiT0diOGx3T3I3RU15cGRuQzVjcmRVNW1xbGFNVE9SYmJEVUJpcmxXLVJwVlpPdmJKSG1DQzIwUjJmb0swUnZVYjY1ZlBYOUNOWTVSQmt2dUFuSi1XSjk2UU8tOFNfS3A1YzRWWHpsX215TXduaExMNG5fX2lVNERlTGNn0gHDAUFVX3lxTFBIcDBGN1ROWDV5WF9taE1XWUJRUXpFUE1TYnNDZ25HdE5ibUJUTVlFTU1uYVg4dTZ1R2F2bzQtZDFET2EzV0tiOTVHVnN0N2owbzhfS3hGQXdzM3g1R1hEYmlaZUdiQU5QMDdrUmk1ckVMelBraTFRb0VxS18xeWRoZS1nRVZKNGRlaHZ1bXVUWnJTckNycjNXbTNqUHY2WVBHR1dPbTZMUFktc0JjUVNLWDd3MktkYjI4dlE1QmhUYm5rdw?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
-    "afetados": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "S&P 500 e Nasdaq fecham em queda com incertezas sobre Nvidia - CNN Brasil",
-    "resumo": "S&P 500 e Nasdaq fecham em queda com incertezas sobre Nvidia CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDBfUGlIWmF5WkZuWVB5OXlHeXpKS0dTYXRmbGJBSDJITFhiTmxULUFPTlZWNktSRE8yTlpnLVZYZUcwUE1GZWVKS05NamF2cUJFMU9pQ2pMbm1tYUhMZUNLOG9VTm8yczlNckpJdnNQbmVXS0JBTThObHBwXzVSNjljZGRraERN?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "S&P 500 e Nasdaq fecham em baixa, com incerteza em torno da Nvidia pesando sobre ações de tecnologia - Terra",
-    "resumo": "S&P 500 e Nasdaq fecham em baixa, com incerteza em torno da Nvidia pesando sobre ações de tecnologia Terra",
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPb3BPaGhFWE1GQkZCbHpWRzBIRkpPbEcweUVpQXhhaU13UzdrN3llQUhhWjd0OHFrT1JJUkFFakVEVUtlc2tYYVpFd3c3YmViZC01RVA0LXduam9BQXcwR3lvNkpZZnVEMUw4aElLM2daeHNkOXNoOEFtMjRlamI5dGZCdExpejh4bDBtVlN6SGpzVjVZeTFITlJXeFZwN0xNSjRPQ0ROcE5Jank5SjlHVHZOVzNVVDlkNkZfZWNQejFCdmptMzZzNkVxVGhyTTRwUGpwVUg4WjlGWnp6QllNQkNTQkpTRW1aYjd2aFhiRmVHWUttVU0zdHg2SjVLMWQxSm0wYmxaRjFHdw?oc=5",
-    "fonte": "Terra",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "O sell-off das ações dos EUA acabou? Wall Street debate bolha de IA enquanto S&P 500 e ações de semicondutores divergem para 2027 - TradingKey",
-    "resumo": "O sell-off das ações dos EUA acabou? Wall Street debate bolha de IA enquanto S&P 500 e ações de semicondutores divergem para 2027 TradingKey",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZXZWRlEtaUEwMGlkTTJTZ3JvWHdnbmJkaWZ2WE5lb293YjRfZEpKMGhqbUVNWlhUZU82Q3dvcVBzR1JpcVF5dkdoQkNkeG00SGhhTzV3RDZDRWItUElMbElVYUVlYjU3YmNyQ2p3SFhoc3N2LXB0NFFYV2hWalozR1JfNGRyRjFDOVdUNHNHcXJ3ckZYSUVqY0VVbGE0V3lKeFVvbzhQRjJLb0FjR1VpMU11YW1GeEFBN1FrelhiOENxY2VlS2R2VldRaGpiV3d3azdjNGNWenVzWVkwLVcwaQ?oc=5",
-    "fonte": "TradingKey",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Starship da SpaceX tenta pouso inédito hoje; saiba mais! - Jornal Brasília Capital",
-    "resumo": "Starship da SpaceX tenta pouso inédito hoje; saiba mais! Jornal Brasília Capital",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMlVKazdGbVRuTm1jOXVPVlRQZ2gxd09rLUczbDRqRE5zNjFyNUFNbkNobmw4OHRQbG9fVHJON0ctZkNfUjdjSUFFZkNfc2VnTWVjTW5VR3R4alpIWW5WQjRrLWZ0dnZZS285T2czS0RqVkhIeVhYMFZZSDZEWkN6WDRBc0hwSkxF?oc=5",
-    "fonte": "Jornal Brasília Capital",
+    "titulo": "Starship completa pouso inédito após voo de mais de 22 horas - Folha de S.Paulo",
+    "resumo": "Starship completa pouso inédito após voo de mais de 22 horas Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2UwdGgyV2FnLTJzNk04dDhTNWgtcHg1QUpXLUtTdVVLdExWQmlQdDhJdzhlRUsxT3RGRTBGS3pTNlZHZ2lSa0dIVjNHSmpMVGpIRUJUcE13UVdVUEtWbXhYM08xd24xZUt5M2RkRTdaOXlocjRYb2Z0Rlh0Q0l4YzBXVHAzX0RzR1IwR1pld3Y1NDRpWFRWb0ZwWnF5VURkMGZPQk5vV1I?oc=5",
+    "fonte": "Folha de S.Paulo",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -76,9 +12,57 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "SpaceX tentará recuperação inédita do megafoguete Starship - GZH",
-    "resumo": "SpaceX tentará recuperação inédita do megafoguete Starship GZH",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTndnWEJOWVJGdjJ0a0tMcloyRFRqcklCcTAtQ0tZX1ZTUHRUVlRDQUphdWJoS0wxZ0V6dHhBVUFhN0R3cVhOdWd2cmVrZGtHcVdoSWU5VzhubVRmUnAyY0ZaUmF5QTk4QXFELXhoT004eVNEOU9qOWlhdHJsNE5VS0x3SHZiTVJvcWhhcmtzbmJKcmFnb3J3QjZNQ3ZwODhpYXdUVk5ra0ZYMnpONHRXallnVjRyR2VWNndVeVpycEdkSmE1M3libVItemM3V2Vtc2JNX2Rfcm4xeGt4LTJRMlZn?oc=5",
+    "titulo": "Starship, da SpaceX, retorna da órbita e é capturada pelos braços mecânicos da plataforma de lançamento - G1",
+    "resumo": "Starship, da SpaceX, retorna da órbita e é capturada pelos braços mecânicos da plataforma de lançamento G1",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaTZNRmhiOU9GV09FRlZtamxyeUF3a2s5SXJMemd1ZjBXemFKTmJUYm0ydDhhSlp3RzBfa1ZieGtYUncyajhMWlNreUprb2RvMy1fWEc4dWJsZ29RMzYybTBGNjlvb05tempFbEtxTjN3dEk2elAxWHVzQ00yeWVJNk9TenRoM0p2cEJWVVdYTGxlUmtkVGpEa3lVWWdSZ3lPV2VKRExHZkZSMGpuX3NYd2p1TDBDSFp6Um9nYTZaRXp0eGswN0tFRDZXTjF3UThOR2Iwc282Wi1pS2JyWjJiWG1ra1VwU0Mx0gH3AUFVX3lxTE5XWnd0RVJZS0tEbmVJU0RBRnk2YWlsRzBhT2RybjNRZ29weGRSRVV3bVNpVk1GUG4wR09yZGRUelZhOVRRcnNKQzZtck0zV2pTYjJvNkxTdTIzUUtWaEI5c0p2U1BaX1kySHF2dURaUDI4Uks0am9PS20wM2h2WVBua09OYnNBOVdmMkF6djlLQWZIUTVyZXUzb1hnR3A0NlVXaXpReTA3UVRwV1I0NlZtQ25xOGRnRVc0YVlZUURxNkRWRjFsd0VaZDdJdkxndlVwWE5QX0hFbWdBZTZ6bENuVC0yWEhSTkZIdXo3endSWTNRc2hKMnc?oc=5",
+    "fonte": "G1",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "SpaceX avança em “foguete reutilizável” com primeira captura da Starship; entenda - InfoMoney",
+    "resumo": "SpaceX avança em “foguete reutilizável” com primeira captura da Starship; entenda InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHlnTVpGVjN1ZXQ2aWFXR2swRXhPNWJ5SE4yTUxDX09LT2RBSGJxQTUya2RGZE85YTlCd1k4cXktNmRaeEVQdTlpQTlYNnQ0MUljMk45Um5uR3JldWJuclg1ZThfX2s1elRsRzJsWVAxSVdFdHZmQWhiQTlmdkdwczRvVFNBT2s4RElGNGUxZTBvTjJMT2JxNXBEVlduLVBJZE96LVp1VTZ2U0YwT1M3V2pPUknSAboBQVVfeXFMTnpWNHgyTjFNT0xKZXJyM21taE5semNzN0p1cDVCTnhaSVZ1MGcybTVNSXVsWjE5RldCWFExUkRPY2dCMXRkZ3R0YVZVLXhvdDlBNkFaRGNmeURBd1E5bmtWQVJSLWFoSzVJUi0zd0VGUHFyM0xWWTREdlRiRm56S0EyYVN5d044ZmNIeWJFbWVMRGRrWkJWRmR3MHJRNEFkQUpQd3lER1dudld4aUdoR2pnd0x4TDBScl9R?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Starship retorna à Terra após 22 horas no espaço e é capturada no ar pela SpaceX - Estadão",
+    "resumo": "Starship retorna à Terra após 22 horas no espaço e é capturada no ar pela SpaceX Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM05iZjlKeWxQZjdTX3k3NVYwQkZ5MllvS19CTHVCWFNSOHU0VWQyeXpwb3BmaGt3Q08xX211Z09kbW9BRHNUa2RKN3BNd1NRV0hPWkIzOWZ6VEhiS09oNHJFZXEtS0JpdVhnOWdtZGpjVzQ4MWJKQUhaZy1HbnJQNzhIeFFnRXg3UGItY3FXTjMxQjZ1U1M4Q280dmlnTi12dlZ6VHdPOUd4R2w0cENPUU1OUXFaUU820gG-AUFVX3lxTE1QbDk5M3RwMW1GdkNUSlB3b0Z0cjFYNG5mZ3pSaXRLNDRQbW50YXVabEJVY3JuTUw0aXM0RG0tZURCZUthYnlkcEVyZ0J5dmZVcTRZNFhkX1JwOFF5VzhaaXpoWGFmWElnSW9tYlk0cVE3VUViQ01Vd05mVjIxWXhPdi1xbTBUSUE5MHNVUkhEZVhfLTVPMVlKd0FtaUtCY0lQTUFsV3N4RHVJZUtFVXZETmw4U1Nxd3lyaVhpa1E?oc=5",
+    "fonte": "Estadão",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "Custos de manutenção da Starship entram em foco após captura inédita - Economic News Brasil",
+    "resumo": "Custos de manutenção da Starship entram em foco após captura inédita Economic News Brasil",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HUThQYWZpZ09rcE1nMVlwbFA4cTVsYzZVNXhEa2lRMjFfdktYM0dkdDd6WXpkQV9ISlczdm9icXIyZkZ3elZNdjNjd0ViZmt5b1VvNDZ2R2N2NlRXdkxQNVVVMW1vQ3NwSFdaLTJwYnFfdzhfLWdCd3JnaVk?oc=5",
+    "fonte": "Economic News Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "afetados": [
+      "SPCX34"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+  },
+  {
+    "titulo": "SpaceX consegue resgatar parte do foguete Starship - GZH",
+    "resumo": "SpaceX consegue resgatar parte do foguete Starship GZH",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenJZQVNaLUNUYnVfajFGQzBvcEpSNkFtRmxsSnFqVmw5VUtzYlZCY2E4VktDTDAzUnFGSnpnbFhQQWxiZUpWTUx0eVVTdDFYNjN0ZVVySk1EWUhOQkNDSmJFVnpoY3dfaEZGWDVJMkp4bHdDYmJBREZzTjB3dVRVS0NwUDZHMHBOWWQtaWhXcEVubEVOVkdra1dzTi1IdXVLNnkxdE1RT0l0azdMR1ExMjA3cjRBUQ?oc=5",
     "fonte": "GZH",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
@@ -88,34 +72,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "SpaceX lança 15º voo da Starship com expectativa de realizar primeira viagem de ida e volta Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "SpaceX lança 15º voo da Starship com expectativa de realizar primeira viagem de ida e volta Por Reuters Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0g5U1RqVHZBVjJicnQ3X3dtQzZIVG45bkE1NEdXUXN1eDFESUh2NHpWMmxmTDR6YmNzZW1FQVJLU2toemRIWE5jMVQ0cWg2WkpiWVNGS1F0ejFYcTljdUlpNlhuZG9vaDNCc01VaWNNWGZqOWU2cXBqclIxbDlRR2NPbnl6NzRzMFBQaDc0OFlEcTJNQUdGRFhWcUlhQS1hVlI3bHlGNXpLRS1mQ2M2LUlzQWF6b3h3dUs5WTY0X3hqZC1FbWJNSDhVc3kyUVpRZEtFQlkwb2hmZ2lhVlN3aQ?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Ninguém nunca fez algo assim: SpaceX vai tentar capturar com braços gigantes as duas partes da Starship - Terra",
-    "resumo": "Ninguém nunca fez algo assim: SpaceX vai tentar capturar com braços gigantes as duas partes da Starship Terra",
-    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOa2Y0ZTFYbWJnNWdHdkNqcW5teUxGaUtxWGl3M19UTXhUbXcxMzBTWWcxQ3ZPNS1pbGFBdnNma1RpUGcwX20zUXg4SGFVazdaZndFcUZKRkFGMzJrUVk4emZBa05SWmlQdVE0czNWVTB5ZWpaY3luMWk0SnVMM1BvbUh1LUp0dGZwQW44OVhiSVhUM2g2Nm41dFNXRXNVamZ2Z3NoSlhkZTMtbnEzVmtZM3FBRVpWb1VSc2VYMnJLeVRYM0RqNlRtRUxWcGpxc1lrVnk3ZURIc2dPYmw4WkdOekw5NkRsSzFUempJRVkxNmRCZ05KTHQ0Qmd4OHVfbE1kNUdCSnZlcHNtb0ZxSmVqejlMc1k?oc=5",
-    "fonte": "Terra",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Porsche detona show de Elon Musk com Tesla Roadster, para o qual a Ferrari deu nota 10 - Motor1.com Brasil",
-    "resumo": "Porsche detona show de Elon Musk com Tesla Roadster, para o qual a Ferrari deu nota 10 Motor1.com Brasil",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZ1IzUUFVWFFNV24wNlA1R1MxQU82d0gxUnBWTldaUnBDYlFjTVZ3YTJBcERmVDdpWnQzcUhhRkgwTE1IcnBCYUtteXZWNjlpd21Ja0ozX0o5S1lQWVpxbmpDMTBScFpEZGpSbVdXZ2ZobDVPQWtRWEJoNXJiUTg?oc=5",
-    "fonte": "Motor1.com Brasil",
+    "titulo": "SpaceX realiza histórica captura de nave espacial - TradingView",
+    "resumo": "SpaceX realiza histórica captura de nave espacial TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoaTIyMm1lZ05lcWtoV3Z1ckNRdnpBOVg0a2xnYjNxSGhhdmhBNnNMbzZJanVyTVc0dy1kd2RBZzBJeWh3WWZOQmFHTmdUTGh6QThGVTJSazlpeFRHN201LXdn?oc=5",
+    "fonte": "TradingView",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -124,10 +84,10 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "Musk: ‘sem Huang, muitos acordos críticos feitos em aperto de mão serão perdidos’ - InfoMoney",
-    "resumo": "Musk: ‘sem Huang, muitos acordos críticos feitos em aperto de mão serão perdidos’ InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPellkMF9kX0lhOTh2ZmZiY1BvTWFuQ2N2SVZWU1BrUjRac2Fpb1JrRExxblBBWjRTLS10eGYwVVRVcmtXb0hQUGk4YmNPU3RIQktYLWFGd0hOMGZZejBGMHZnWm9HeDdxemFJRlVYRXkxWk5EaUlHSnNDczJNemgtYXlLbHBnakFZQlpOaGFobk8yTDRWNXFJQ0l3aEhRbmVxSmlJeENYTkdwMHMyYzNrbGJVbFFoanPSAbwBQVVfeXFMTTJ6X3A3Ymk0R2xDd05Uc0ZhMGNVYnBUaG5KU0w4QWNPZWk1Sng3SlJQQXlLTUZDbkl0dG1qOGtaT1BaTkd3MS1UN1VYb185dTFVVXhHV081LXlZSnN0UFRrYlFxNlNFTzhBNUJnWGkxLS1kOHVIb09ldldVWGotckNfMUI0TUNSVWQ5NURjc2w3aWJlZm05WHVpcUFwc0FrQk80QVd5enNHc3IyZmRScHcwUjk5ak54MnpUeG0?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Musk diz que Nvidia pode perder acordos após saída de Jensen Huang - Poder360",
+    "resumo": "Musk diz que Nvidia pode perder acordos após saída de Jensen Huang Poder360",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0ZjX0J5eUxLVDFMTnNLX0xFN3RpYmZWZEZMdUJEX3JGZUZuVHJYNTVpWENkdnhHQ01UUzVVdkxJMGZFMlZmTHNJcXpKd1o1OTY3WWRYYlVUc1dyd3JrYkxIQnRHRG41UXBpSHBpOWhqUTN3dVdCX2pKdk83endIdnd6RzNxVnFCNm1WMXoxVzA3T1BDaDhFTFRNcTNvMXYyMHJPbHpvQlNJT3VLTUVteVMyQXhUZw?oc=5",
+    "fonte": "Poder360",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "SPCX34"
@@ -136,46 +96,58 @@
     "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   },
   {
-    "titulo": "CEO da TIM vê 'risco muito baixo' de SpaceX virar rival das operadoras no Brasil - Exame",
-    "resumo": "CEO da TIM vê 'risco muito baixo' de SpaceX virar rival das operadoras no Brasil Exame",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2lnY24xS0Fib21ERHA3R05GV0tBRThGa3RfcXZnQ2djYkVkT3VrN1RxVHJYMHc0ZkdtMjFCVm9BQzlTS0UwLTRNaW51ZlBoekhjTXFfZTJNeFhMQWNrTzFHUVdFQy1wNGd3X1FrVDlTVk9IUXRqS2tuaW8tdjlnVW11QlRFSDJNczVmNEowUFdVbTZhUWYybjQzejl5RkRmTHFTcnVFUFV6LW9qZTg2b2xwNA?oc=5",
-    "fonte": "Exame",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34"
-    ],
-    "impacto": "Baixo",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "CPTS11, TRXF11 e KNRI11: destaques do Bom Dia FIIs (13/11) - Fiis",
-    "resumo": "CPTS11, TRXF11 e KNRI11: destaques do Bom Dia FIIs (13/11) Fiis",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZUtLQW1BWUNGcUFsOXY1MnBQX0FMb1puNmpDbkMzNkRxSUlEM0lFaENFTWJtdnZUbTBtNGVRU0JibXhQRHAxUG1TY01NQ2dJM2trdGltblF0Z21xdlE?oc=5",
+    "titulo": "KNCR11, VILG11, BRCO11 e CCME11 são destaques do Bom Dia FIIs (12/11) - Fiis",
+    "resumo": "KNCR11, VILG11, BRCO11 e CCME11 são destaques do Bom Dia FIIs (12/11) Fiis",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01QVkzRHd0THRtVTQ3djJKc0s2S1ZhUkItREF2NXJHUkllVTdtREpNUzhoX2xaUno4TnViSDc3SHV0MGRCNVJRYTd0T0ZHdUpYTDF5UlQ2Q1NHUmRhVkE?oc=5",
     "fonte": "Fiis",
     "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
     "afetados": [
-      "KNRI11"
+      "KNCR11"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar FIIs de tijolo, vacância ou aluguéis"
+    "explicacao": "pode afetar FII de papel, CDI, CRIs ou inadimplência"
   },
   {
-    "titulo": "KNRI11 e HGRE11: comparativo entre os dois fundos imobiliários - Fiis",
-    "resumo": "KNRI11 e HGRE11: comparativo entre os dois fundos imobiliários Fiis",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CYjEtcE1HaTBDYWZ1dF9VQWpRSUhmcHlVRFlBVkpZLWl6WmNHbDFlLUJEbnktV0dENVFRTGNDOVlMODFvNURYbmdLbl9idnlMaDZJX0luRlc5cThJRVlGWHBkYVNEbGNKOS1kbg?oc=5",
-    "fonte": "Fiis",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "titulo": "Banco Central tira instituições do mercado, Banco do Brasil (BBAS3) decepciona no 3T26 e renda fixa volta a brilhar: veja o que bombou na semana - Seu Dinheiro",
+    "resumo": "Banco Central tira instituições do mercado, Banco do Brasil (BBAS3) decepciona no 3T26 e renda fixa volta a brilhar: veja o que bombou na semana Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVlVSWnBpZHFkLUtMLXA2UEU5N1B3QlFnSGh6aEt2RHc1Mk9wZ3lneHRuVzlpeHIzanpyWVhpSGQtUkVEV3JkU3ZMNU8yUjF5TC1pTzNJYTZoRGtCMF90eEhWX1ZOV0tTbUV3Sk9ZQ1RQdWdUeTUtWEIxdVpHeEUwMjZmN3Roc1JGeWJWSlkwcE4tRnZ3T1pZeHJhWmV6SHptN29sTldwek9xV1g5Y1dCbkRjWDBhM3paenRzZGxxYjRKM3g3bEhXNVU0YVFFLU9jbmgyWnMxblZ3UDRPeldRblEySWtpSW5tTVpWUHZLa3M4SkVLeFZfUHBFQmdGZU1mUVFqclRaZkFpdXlaZUFjWGM1elprQ1E?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "KNRI11"
+      "CDB 100% CDI"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar FIIs de tijolo, vacância ou aluguéis"
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Galípolo é o ‘cavalo de Troia’ do mercado no Banco Central, diz Cid Gomes - VEJA",
-    "resumo": "Galípolo é o ‘cavalo de Troia’ do mercado no Banco Central, diz Cid Gomes VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHFGSnRaY1QwTldvcEJtbnEtVGx5YjlRUFRsVWNzemFoUWdKeHBNY19BMnZMS0l2b3N2clJicDNzQS1hVlJiUFk4TG9SbmxrY29JUFhDbnM5R1NmZUx0OHpDa1Q3Tko0ZzQ4cVd0TTVhNUtVdzZoM0xSdkE3elVpbEdyTlgzc3BsWEdrdF9PLVEtVWozb1RUU1kyVGpLVWxjRmlydzRwd01wQQ?oc=5",
-    "fonte": "VEJA",
+    "titulo": "Banco Central aprova compra do Banco Porto Real pelo Nubank - Poder360",
+    "resumo": "Banco Central aprova compra do Banco Porto Real pelo Nubank Poder360",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW5DRnJfNjVuOHhsZGR5NWNIQjJrQTFaUzBaNGNyT0lDXzEyVEFTLW5NNzdUbkM1M1hHbGFJVjRLa3lETzVtZHdVNGJ4MzFuQ25taGRnSEZzaGxtMHZfMWRFQnVxcjd0cXZRNXA5TDZJRC15dmY3TS1va2NONlVGVkVnZ2o1Ny1nWkJDRFMyMndIczZlV2lVT2lFTnZEX3NqUVNFaDd3?oc=5",
+    "fonte": "Poder360",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Falta ao Banco Central ser central nos conflitos de consumo - JOTA Info",
+    "resumo": "Falta ao Banco Central ser central nos conflitos de consumo JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NpSUNyVFV4RHY5ODlJWE12TlJTelFmTnJ2UG5JRGNOd2JxeXVhaW1uSHJrYzU0RzhTUjNqR1RUYl9EWnV6aHg4Vm9DbGdqZDR4Q0h6dnNJc19wR2lCcU5hTGloX05LS3hvMENOUDBWOHZZYjdkU2JCalpKVmxlb3c0c0xMaXRmWmFHbUJFbjdVRWw4XzBydUcwZC1FMmhoNFE1YXJTbE5KNlVWZ3hfQmlrSUkxLXJCVkRKeDFpVS1QNHlFVko2dm9FY2ZweUZVRGtVV05B?oc=5",
+    "fonte": "JOTA Info",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "CDB 100% CDI"
+    ],
+    "impacto": "Baixo",
+    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Nubank recebe aprovação do Banco Central para ter licença bancária - UOL Economia",
+    "resumo": "Nubank recebe aprovação do Banco Central para ter licença bancária UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMjBhTFpYRkl1dEEyVUlYMHVLR0h5OXlkazlocWJpUjZjdTF0QUVnXzVUNlBXbWFpdVdtN21aVnlWbWNRVUgwSkswcVRWcUtLcWlHakU2QWFCbG1xVGt1Y1BEc09zTWVnLUdfbnRxN0g5amtvVWlGaTRkUm9VbERTQW9PTGhSdzNZSWw4QzY4SDZBdXg0Uk9xS0RKcG9kQTdNdVdOUW5ITG53MnVpU2FpZ050cmJ2X0xBYzhuVHVrNlFSRTM0?oc=5",
+    "fonte": "UOL Economia",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "CDB 100% CDI"
