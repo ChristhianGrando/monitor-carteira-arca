@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 15/11/2026 18:01
+# Relatório da Carteira ARCA — 16/11/2026 00:25
 
 ## Carteira monitorada
 
@@ -12,124 +12,92 @@
 
 ## Resumo
 
-Notícias coletadas agora: 48.
-Notícias novas, ainda não enviadas antes: 24.
+Notícias coletadas agora: 50.
+Notícias novas, ainda não enviadas antes: 18.
 
-Foram selecionadas 14 notícias relevantes para este envio: 1 de alto impacto, 3 de médio impacto e 10 de baixo impacto.
+Foram selecionadas 10 notícias relevantes para este envio: 2 de alto impacto, 6 de médio impacto e 2 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Expectativas sobre impacto mais forte do El Niño no IPCA estão se deslocando para 2027 - UOL Economia
+### 1. Expectativas sobre impacto mais forte do El Niño no IPCA estão se deslocando para 2027 - Jovem Pan
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: UOL Economia
+- Fonte: Jovem Pan
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxORjBseXIwVjFvTGM3ZWpIcW1PdjI3MWRjREl1bGx1VjM3cnhheHh1TU94VXN4YkNWdm4zZ01UVUMyemgzRXhINVk5WnBDZWx2ZnpfakM0aC0zMmhxYkFsRjIwRGJ6emxlUEYtX2xXRVZGX2NDbEZSbXpkMExibnF6TWRvZlY4UDBjT041bXhpWjhDYlpTdXhzb0JGclhIcVV2OC1jZklSdS1aaFgzTVU3UlBHWGdCeFI2LXRqUWJ2SUpKUWt2OUt6RFBGUEJHNG4taXVBZGFzWFQzUzBXWG5lcUxDM2NUWVZfYjhz?oc=5
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVpVZDdmbWIyRlRXRkRSZ2hmYk9OYVNGTzB0VlJfVXhuQk5YcXRSQU00X1FqQm1OS2NDNDl2VlVtQmZScDdtUm1WcXpLQThfdDN4bDNLTnJTcGhEYXVlQzJZd1BvY2YxdkNDMjExdHNQXzdPdWxtUy1tX1YzUXFaZjFHMTZ4UUhYSHhibG5VOXZKeG9QemJrMURLc0Q1SlM0anMxNW9kY21ITHQ1WmVOanZ6UWdZRERwQ3pKbg?oc=5
 
-### 2. Fusão com a Tesla pode ser o atalho da SpaceX para entrar no S&P 500 - InfoMoney
+### 2. Selic a 13,75%: quais FIIs seguem pagando mais do que os juros? - Riconnect
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: Riconnect
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxONGxYVVFUOFN2X0xXLVdUQnFqQnJoZHJpMUlqN2oydGljOUR6bU1EYWwyeU51aTVPb3pfUGV6Ri1WSi1OSWxJX2g2a1VIMHFsNUVjcllhUlVxNUZDNDh4NDVuMUZSLUs0b3RjSVJFVi02VW1GX0RpWEpzVDNTUnhZVEZpaFdIaW1HRUw0MTJOZEZOVlk?oc=5
+
+### 3. SpaceX faz captura inédita da Starship e avança na reutilização de foguetes orbitais - Bloomberg Línea Brasil
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: Bloomberg Línea Brasil
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQR1c3dWhnTG5STUE3a3dMRXdrQjVLY3hZcURwcnA2OEJrbDd5WE1uU3V5RGhYNk5RVmxlSzd3ay02SFJhLVFIa2xzQXdRSGFfSTZGR3BSLXI5OU1ndmc2ak9pOTJDUW5TaEI5MEc3ZG8tbkRUTTlGUHc1MEs1SlZkNW9pYVhaMTQ2LWo0bE1MR3FOSDlxWERleDVaQVJEbXJHcHBYd0xkS1VXT1NUT3JwOU5MYXV6dTQyV3dVM2xnT0dJN2tZR0V30gHbAUFVX3lxTFBmekl3SmNneEVBMWVCT29IS0dBQWpoa2sycnRRaUNLcmRDQU1paXZXaHBwRHZDN3AzODJHZUhsVUJUajR5djBvLVhkcS1NTE1JNkMwbnJlRXdvN1o3d3ViWkN1UjdtSGpmWHhBdXkyMUdXTFhuMjlxSzN2YjgzVlpzUXJXNDJJSHZCeVNjWkNnMGVFaFFMLUtOc0dBSEZxVmpkaFVrV05Qd2tXbGZEcUdra19lREVLV3JHRGhXWUpFNnVlVW9KVVVZLVJQWUhuNGVqSmJTRHFpb2hVZw?oc=5
+
+### 4. Espaçonave Starship, da SpaceX, retorna à base pela primeira vez após um dia em órbita; assista - O GLOBO
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: O GLOBO
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOUQ2SS1FaUtrVFR1S2UwMFJ2MXFtY1lvRzRod0Zhdm5lMW40MDFid3dpd2Ewd251TFJmZ1RoX1QtMDBsTlVvOUNWYTBMN2IwMHFiZDR1NkE5VThxaWRRYS04ZUUtYzZxR2RFbkMxbkVkcTFYOU1lZkZpZFZIazltWjJNTzRGNzlZTWN4UGtSYkRuVV9fOWs5bWhSYkVIWHZpd2VlR3ZjdFNocDdIeGZXYjJXT0ZWeno4ZlI4c2s2MEZkZmV4T29ON2k1NHNSWUxMVHhhTk1sYjdXdi1YNHphamtuTkQwX0JaZkHSAfgBQVVfeXFMTmNYQ3BBenBJaWdwcE9sTERRTGFJOExVSHhldEdYUnJvWkVTbW5NU2xKYnp3eFoyZ194T2lqUmtIY19WNU54R1NlZGJzV0ItRW1JVk1QNlkxcS1ScDF2UEUyQ3M5a0lzYkFHUUpDeDdFTjZoTDB0VWhVVmZuZUYyb1QtcWVVWDBMdUo0WXQxeGhBR19Tb3FLN2MwbzVGSWlFTnd4VmVhRDU3MmFYZl84dGlxWHZOajUwZXhmdFhtZEZTNG56czdZcnNELVdrTjZWYUpZZUxaYzhrVldha3c2RmRKMDQxVXhzU05leUVCaXc4al9JVGZ1cWI?oc=5
+
+### 5. Elon Musk e outros CEOs do Vale do Silício pressionam Nvidia a trazer Jensen Huang de volta - Exame
+
+- Impacto: Médio
+- Ativos afetados: IBOB11, SPCX34
+- Fonte: Exame
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzN3aWxncUFlQUtTLXpLZG1iTFduOFFtTlNVeGZCaWpubUdIVEVLT0YtWVAtZGpZTEJxRnBiekUwRXZyVTJ5bW1VWk1mLXl2WXoyMG14UkpMSVlTS0taM1RxbTRUaXNTYXNielYtWEtqbURVRERHTk5TMHdzSUgxcC1KMDFYSm9WLWptMGdJcTNYdTZUdGRMUHA5eGkwOWNvWjNuMGx6NGJzemVwTUpuTVJiN0VHUWhLM3Z0c2h6bkJ1Y0RG?oc=5
+
+### 6. Starship da SpaceX retorna da órbita à plataforma de pouso e passa em teste - InfoMoney
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: InfoMoney
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVRTbWFqbWg0LV9YT3RDWHNiYTJ4UTI0SERCOHJpdW02NGxLdllCd19tNVdJZmwyNWN0TWhPdUs2T2dGQjVXa1ItZEh4U3FTZU5xRHVrRTVfRGVQcldUUTVmWEVRaXFPbjhsS2prMFA1VVZ0VExyN1M0TkVDNjBzejFWQmFuUmZsNVhPTDlCdUpuTjFiU3lTYm9lTlZYdktxeW80T3FyQ0tzSVRmalgyZNIBtgFBVV95cUxQb2NLdVBVMHpqY3B3aVBuVE1oME9qdEtnczR6RHBGUFlKNy1BUVM2TG1UQXkyZFVIUnJIYjBlUmFrZkxYV2VoYjVuSk9nZVEwd19OOHUxQlIxcVExb3FPY2FxelRWYUFmOWlBa0lpa0RxRXFfeVpfSkFKdFd6eFVSZ2padzBVODMtb0JkY1RqX1gyTjhhMktwQ3NKcERsdkpuT3FzRm01TTBuUFRwdU45NWwzTEkxQQ?oc=5
+
+### 7. SpaceX recupera foguete Starship em operação inédita - iG Último Segundo
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: iG Último Segundo
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNNGVYSzB3d1c5bVV4Y0ZjdDQ5OEY4aDd5LVRib0xSTjQyNXYtSFc3WFp1bHdVdlEyTjFWOXBrZG10ZHQ1eHNuRFpnZnZHVVFwV0NaV1k4THNmMHJfR25lWkoyc2d2TXczVmhCTHc3TjNIeG9pWGNEWXJQXzlZRlBSelBkeHhVRWllVU1YZkhMR2hvWXYwWGNGbDhxY2h0M0hQNEHSAacBQVVfeXFMTjVCdnBrS0c2MnhRSzFsT0V0cmFuMlc0a1YyMkFIU2k5V0pydU5qWEM2TXVScWFDajZPblZiMFlDVW5Id3JaSTRQS21KXzFUT0o1VEU2Ul9Fdk9qcUtBWU5hdVozaHYyYVI2QWhOZ3ZZcXNmaDNjY0YzWXpWMHJuNXRzV3RoVUt5Mmo1NGVWdEN0OGJmVDRmV25jX3hXeGUzMkMwWWRiX28?oc=5
+
+### 8. Zelensky pede a Musk e aos EUA fim de restrições a satélites - UOL Notícias
 
 - Impacto: Médio
 - Ativos afetados: WRLD11, SPCX34
-- Fonte: InfoMoney
+- Fonte: UOL Notícias
 - Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYnAyaU1GXzh6MWc1cDhVV2FHWXItMDdiOGJ5M3pDNmd6U0cxWnZ1d1VNZFlLWkVfOTNBcnZyTHNlU2otTnVEd2h2SHF5MEE5RzVWWk0tclJQQUp1VldBT2RGNVhNQUlrM1ZzRlpGc28wNkI4aUlOY181Y0YzZHVtOEV3OWdBRTBydVZtT0xHSDJSa0Uxa2VScjhVSjJSNkdkMmZFbW80ekVPd9IBrwFBVV95cUxOaEtEaHF3NmtKSmlfaDF4RXVURUlyUDdjUWpsMnU1cWJnVXFnNnhhNnprbW1kTk1NN1BoanhBZHdoemd1eGoyVkJjaTJNeFNsX0R4S2lYVUFaWWpNSXNIcXFZWnhNWGw5UkpST1hxd3dyV0t6QmZ1T2dsczVxLTRzVGdmTGYxc19vNkxsZjhxSElkVTFmbE5qUG5GUENQV0dFZTJzRGl4Y0xmY3hoRmI4?oc=5
+- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVRhVEROOVIyUE5hcTItTmVHZ1VwUExMbi1ZakNSaUZNcUc3ckRDVUpkOGs1WEQ4Yi1Sem9fZTRZNGNpNHpFWUhFZG9sOFl3eS1hUWc1UWo4R2FUSlVVSDc2LUpDWENENk1MRkw1OUg1OXU2dDZxNnZFemk5WF9jTGc2R1RGSEVGR3NQZTNxcEVnS09fYjhIZk12bGVKeHR2aUVxdUU1WncyMGVvay1zazYxQVVXWEdxUUFTckFVc2VYRUhWQWhtT00tNjdkY0Ff?oc=5
 
-### 3. Previsão para o S&P 500: Índice se Prepara para Retestar Máxima Histórica em Novembro Após Recuo de 500 Pontos, Maior Alta Diária em Quase Sete Meses - TradingKey
-
-- Impacto: Médio
-- Ativos afetados: WRLD11
-- Fonte: TradingKey
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc19aallPWmZxcDVOdWZxWXByN1QyUDlZSzdFaDNYR0hLbjhkU0FUOUpVdDQ4Sk1QWXBucTFoMHpYdHNXZE1QWlhHQUY3MVpCUW11WWNIcjVKVk1ZYW1jUHhhQmR2UVMyODBzcXdFdDJjblZHVjdzUHBQUnoxd0VXRndYN1NsaHVzbHJaUVhiMlhIWUJiWkZaMDBIN2xXdUFTVE5JbUE4X3MyUGREb195WkFYNjNOY21N?oc=5
-
-### 4. “Só a tecnologia não resolve a dor”, diz CEO de startup que criou IA para normas do Banco Central - GZH
-
-- Impacto: Médio
-- Ativos afetados: KNCR11, CDB 100% CDI
-- Fonte: GZH
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMijwJBVV95cUxQdHVaVkM3OVVOR0R0WEs0Z0IxajVrVmdBV3U3WVQ0X3F0QXREMWJFUUxDQzFUVVNtTEdQNzdnTk1RaEw0OGgwVE5mS2w0cHdJUjhSZlpFRE1rLXEwZlp4MkltRXpGWTF1SWVXdDFhcmE1MlhUN29MbWtZUTNtR1FPZmh2QVVueWs1bVVudFBaVWRBUGtSRTljZC1EZ3o3NDZ2aFVSVmFER3diQk1kRTVhUExfTktpbFptdHZTNDVRcnJOTFBUeVJYREppeEhIVnM4LXUzOU9PY1NoeVBtVl9pV2JnVDJLekF0VFFfYzZvazBnbFBtQ1JLZmtEd3RSVGJ4N2RZaFhNUGp3OWtrODJ3?oc=5
-
-### 5. Fusão entre SpaceX e Tesla pode obrigar fundos a comprar US$ 100 bilhões em ações - Exame
+### 9. Mercado de CRI perdeu fôlego? Gestor aponta setores que ainda sustentam o crédito - InfoMoney
 
 - Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Exame
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3NKSVJHOVFTLUNlay0xNmdaWkpLTXROTElZRDgtTVNXaUFESEZUeXRnQzdfWWNUdnhibC1hZk9WdmdtN0tBMUdHV05JOEk3cDFRWUNBX2otdENkSWNQS3BmQmFkc19jdS1SeHFhSXdGYmJYT1lHaDJEcm5hODBoTXc0WWxLLVVEYUpnQWxvd1NydFRxckJGcXNOcmxpV0dfNWpOQktBY0hhYjRSYlR1MlNzc0Nndw?oc=5
+- Ativos afetados: KNCR11
+- Fonte: InfoMoney
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSnlzOUZUeG5ERVdZZ05jOElsb0JTdkFzQW9CbmZEN3hMdjY3RkowN3V5cU1kNkI5c0lTaEo0ME53TVhXeGIwN2FxazR4dnlrSUpwNHo1M1ZjRlZJaUUycnVzNEFQMWduNTNlUzBNa1pVTGg3VHNZNzk1MjdfaFZuYVczeHZNTVQ3eS16WllCWWpLcmZSZE9tQlhvejRYNVo4UWlPVXVmNUFYTkYwRTZvN2s2SWFpS2tpNEFV0gHAAUFVX3lxTE9ua2xMWnFtOGFINFpUSk0yVDFrak5KZ2E5ZVM4U3MxTjJpOXB5QWJtM0o1eUxIUll6VlpoOEQ3eTRkdm1rT19TV1RRZDdOZUt2SzJNNngyWWF5bWNJUmZuZUFYTUM1c3EzbjV4Z244QXJnaVVqYjJNb0lQV0tUN1o0YzNPaFJScDRXY29RRlVYaGQ0NGw2bU5qSDBCTlJuRVhYanN5Rk1vejRWeGVIcmR4QVkxZG10LTlEY3FSZlgwWg?oc=5
 
-### 6. VÍDEO: Nave de Elon Musk é capturada por braços robóticos após ficar 22 horas no espaço - Midiamax
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Midiamax
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUlHcXVlcXYwMkFjZUJzLTI2ZXd4Z2FtMFdqWmNGVU84Q3dZMzZqc2FuNHY0LUpzNFhOb2c5aFc5d0tjZURydnpLTTVCSW5aai1qNzFXT3JhdDdHdTl4ckhNbzl3SFBDbnQ2WThLb2M2M3o2Vy1KV3p0bk9mTFpfRDFwWXJkQ1BPLWJBaC1pcnpueWZSbkNyaWN1djdNeDBpQ0JxeG1VVGlzTWU0bnZ3?oc=5
-
-### 7. SpaceX captura nave no ar e avança na reutilização do foguete - InvestNews
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: InvestNews
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHFyNHIwSEk5R01wZ1ZIWV80NVpsZzh0aFdieTNRRHJSRHNWR1YzT0NsbFZvcEdJeU92ZGRTQ0h4djZOQVh5eGo0RjBaelFlQ2I4dV9Lc0lOeGZHekNRSXV3TFV1VzdoYjIwYzFNa0J2ekx4aTcyTmw1cFZpMW4wMGFIYW9BaG9pRkJGenZndTU4c1hTQ1RTRXpDcjdBUndsbEJmN25ONHRFcGpscGVWT0t3S19ZR3MzNnpz0gHAAUFVX3lxTE9tQTFVbmpwUE1GMDVtRDc0MVZsY181V2M1c3liXzduY21wVnh6NUlOSWlEZ195OUFiQ1pYVE96ZEQ5amgtTHBXTXdQZVZzYjRZMW8yRGZCYTRlYU5aUlNsLVlDbGt5TEw2UHJReXF2Q1NFa2IzdDY1ak9HY3VLMldtaUpGWnlvaTAwVHJEdHlIWXQ4RUNrekNuSGN3M2ZGbnRyVERDR0QtTDFDXzN1LTVuazNkamxWdDZZWVNLbVVjZg?oc=5
-
-### 8. Petição para trazer Jensen Huang de volta à Nvidia já tem mais de 100 mil assinaturas e apoio de Elon Musk - Seu Dinheiro
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Seu Dinheiro
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaGg3VFoyRWJHbTJ1bW00SXF3RVd4c2c3Y1QxQVI2dFRacFd4RGstTEl3ajZWZm5CVGdxeE9RTC1OdUJLR2h0elVuVW1FNmdNUS0wXzBzcnA5SmpTVk1sYWZMQzJQYUR1aUpGeXl0aEJ0THlGSlZocjdOM202eDBvRVlnTWI5VFJERkg3RkN1ZDhCTEVfVk56b05TZ0ZHeHloVzRkaXR2UEJSZ0NadTZHQmd3WFZBTzNPT2dHeWVqRWtFblVHODNNbk5JMk5SMFNJdVEwVlJlNl9zTjhtdVI4RFdGY2gzNjdXb3c?oc=5
-
-### 9. Petição para retorno de Jensen Huang à Nvidia supera 100 mil assinaturas e ganha apoio de Elon Musk - Money Times
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Money Times
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1JPcndqTFRqaU1oWnI0QWpuWERvZmRDQTFMcmlEamRpY1hiSk11N1U2eTRjZUhIems1Uzk2ZDI1cWVLbFliZlBtNFlheVVya1NKRGZQMUVfV2VlakV4WjBHYkFfRFJYcXZYeG9JNXdpSG5sUTNkczFqYlFjTGJLb1dDOWhnckQ0ekFFM3BWenc4NW10bU5sS21WVHBRbjhuelFXN253QUNoa2xXNDU3a1FNQV9nZmZTb3FXY2ZDTmQwOXptTFRmeEppLUUyTFlR?oc=5
-
-### 10. Quanto investir em HGLG11 para receber R$ 1.000 por mês? - Fiis
-
-- Impacto: Baixo
-- Ativos afetados: HGLG11
-- Fonte: Fiis
-- Explicação: pode afetar FIIs de tijolo, vacância ou aluguéis
-- Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE9sSlJteVloVTA3bHJ3aWhIUkQ5bXNxQ25tTXF6UGhCb2NRaUF1NURCTTA0TXloTFZqbjZ3YzRYME1fSEpBQjJCV3VZYWhxb21Hc3BVekwyU3dhaGMzSnRkM2RTU0xYTHpDSTFqYUtXTTFBNm8?oc=5
-
-### 11. Novas regras reforçam segurança e ampliam uso do Open Finance por clientes pessoas jurídicas - Banco Central do Brasil
+### 10. Lula terá 73 indicações em agências e Banco Central - Blog do Esmael
 
 - Impacto: Baixo
 - Ativos afetados: CDB 100% CDI
-- Fonte: Banco Central do Brasil
+- Fonte: Blog do Esmael
 - Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XMU90UkNVeE1rZFB0X1A3UUduTlBGT2xvR1Q2d25ZMm9XS0tDYUVqZXRseVZndUJ5bmxXMUJ6LV9kMXppTVhjclhQZy11WF9BaUN4c3NjSW9hM0p0NGg4cg?oc=5
-
-### 12. Caso Master leva Banco Central a registrar maior número de liquidações desde 2002 - Vero Notícias
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Vero Notícias
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHVVS3dUUWR4THNNM3B3MzdCN3paTnBaQVQ5LUZjYmxXckF0RVl3bl9FMUN0VGVkNnE3SldRRnhpVUk0MXJQVVd0a0ZRRXFBX3VzWmFLc3d5dG85djJ3cmhPTU52Mzk4cHBtSVpfdEI5SEU0d3QyS1V3LVpmZlpyZHp0YzhXaDBNVDhpcnZxV2Zld0dwMzFKaW45SmI2MHl4MjVCT05tX3BwOVhtcDJfSWZEVW5sMW8?oc=5
-
-### 13. Lula Indica 73 Novos Nomes para Agências e Banco Central - Jornal Brasília Capital
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Jornal Brasília Capital
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUJ0SERjN2Q4WGpFNW9ValNBM0laazd0cFFpRTg1OExKb1J2a0hUNlMyUWp4bVl6YU90Q2FTY1BqdDNtcXMwbjAzVVd0YkFoWUJfeDE4WTNWejVDNkJnTVdRUXRNVHdDM19QLTkyYWxUbkhUeGtINzZLb3I5Y3piRTRsSXFLTnRQY1Fr?oc=5
-
-### 14. Cresce a irritação no PT com a condução do Banco Central por Galípolo - PlatôBR
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: PlatôBR
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzAxcHU3djdTejhLeVU0bkl3dXVEMkRhelZkNVpqbGdyemRJeDhnTndxSk5FcUhHdTRHOUw3XzFYMWhQMzk1bFEwTFhIQnlmTzczb3ZJUWNzY3g1ajNlV3dIQVRhQTkzNmpGZWxIcVRLeFRlcnNyY1FHeEJyUzNULVpINmFJMzVqNU05Yk1BeGI3RXZpck8w?oc=5
+- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMmJGWWxVcFhlQjJnSEZOV0NfNUJVLTUtb3RpTFE2VFdBa1dJSkpzXzdKbldGSjlRa2NQcWZ5VGNYZnVpekRxWEl3U2hNbzdmNi11SWlZTnRBdW5xZkhZT1c3akw1ekZLRnJPRjRUQkk0eGhMbUZneHNVNi1ZNTQ?oc=5
 
 ## Conclusão para o próximo aporte
 
