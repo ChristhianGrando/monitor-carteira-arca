@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 16/11/2026 00:25
+# Relatório da Carteira ARCA — 16/11/2026 21:16
 
 ## Carteira monitorada
 
@@ -12,92 +12,132 @@
 
 ## Resumo
 
-Notícias coletadas agora: 50.
-Notícias novas, ainda não enviadas antes: 18.
+Notícias coletadas agora: 40.
+Notícias novas, ainda não enviadas antes: 36.
 
-Foram selecionadas 10 notícias relevantes para este envio: 2 de alto impacto, 6 de médio impacto e 2 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 6 de alto impacto, 7 de médio impacto e 2 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Expectativas sobre impacto mais forte do El Niño no IPCA estão se deslocando para 2027 - Jovem Pan
+### 1. Nasdaq e S&P 500 caem mais de 1% na véspera da divulgação dos resultados da Nvidia e da estreia da Anthropic na bolsa - TradingView
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Jovem Pan
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVpVZDdmbWIyRlRXRkRSZ2hmYk9OYVNGTzB0VlJfVXhuQk5YcXRSQU00X1FqQm1OS2NDNDl2VlVtQmZScDdtUm1WcXpLQThfdDN4bDNLTnJTcGhEYXVlQzJZd1BvY2YxdkNDMjExdHNQXzdPdWxtUy1tX1YzUXFaZjFHMTZ4UUhYSHhibG5VOXZKeG9QemJrMURLc0Q1SlM0anMxNW9kY21ITHQ1WmVOanZ6UWdZRERwQ3pKbg?oc=5
+- Ativos afetados: WRLD11
+- Fonte: TradingView
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1YbzVYeU9aWUg5UUFBVWJld09MaHhPc0VnRFA5cW1PTnh5TUV5UExGbmRrck1qMEdMVXZlc3VXaE9JbGE0YUdVMHBIYTc1Njgwal9SUWxOdm5iUDhTY2pqZVREUXA2enJ6ek9CLUlvbUZGX3dwaU1F?oc=5
 
-### 2. Selic a 13,75%: quais FIIs seguem pagando mais do que os juros? - Riconnect
+### 2. Tempo real: Ibovespa cai mais de 1% e dólar vai a R$ 5,78; acompanhe - Money Times
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Riconnect
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxONGxYVVFUOFN2X0xXLVdUQnFqQnJoZHJpMUlqN2oydGljOUR6bU1EYWwyeU51aTVPb3pfUGV6Ri1WSi1OSWxJX2g2a1VIMHFsNUVjcllhUlVxNUZDNDh4NDVuMUZSLUs0b3RjSVJFVi02VW1GX0RpWEpzVDNTUnhZVEZpaFdIaW1HRUw0MTJOZEZOVlk?oc=5
+- Ativos afetados: IBOB11, WRLD11
+- Fonte: Money Times
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qNkMzOTBhU2gwbTd5M0ltRXQ3NUthQzZwSldZaXhnNDl4cGtaU3VYY2FUYVBoUFdYUzVNVUNpQXdjTXFKalFISGxEWExzZnZCY0p3RGU2YmhrUVBYMDRjbkY0M1BxbEd4?oc=5
 
-### 3. SpaceX faz captura inédita da Starship e avança na reutilização de foguetes orbitais - Bloomberg Línea Brasil
+### 3. Dow Jones, Nasdaq e S&P 500: resultados da Nvidia e IPO da Anthropic em foco - Investing.com Brasil - Finanças, Câmbio e Investimentos
 
-- Impacto: Médio
-- Ativos afetados: SPCX34
-- Fonte: Bloomberg Línea Brasil
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQR1c3dWhnTG5STUE3a3dMRXdrQjVLY3hZcURwcnA2OEJrbDd5WE1uU3V5RGhYNk5RVmxlSzd3ay02SFJhLVFIa2xzQXdRSGFfSTZGR3BSLXI5OU1ndmc2ak9pOTJDUW5TaEI5MEc3ZG8tbkRUTTlGUHc1MEs1SlZkNW9pYVhaMTQ2LWo0bE1MR3FOSDlxWERleDVaQVJEbXJHcHBYd0xkS1VXT1NUT3JwOU5MYXV6dTQyV3dVM2xnT0dJN2tZR0V30gHbAUFVX3lxTFBmekl3SmNneEVBMWVCT29IS0dBQWpoa2sycnRRaUNLcmRDQU1paXZXaHBwRHZDN3AzODJHZUhsVUJUajR5djBvLVhkcS1NTE1JNkMwbnJlRXdvN1o3d3ViWkN1UjdtSGpmWHhBdXkyMUdXTFhuMjlxSzN2YjgzVlpzUXJXNDJJSHZCeVNjWkNnMGVFaFFMLUtOc0dBSEZxVmpkaFVrV05Qd2tXbGZEcUdra19lREVLV3JHRGhXWUpFNnVlVW9KVVVZLVJQWUhuNGVqSmJTRHFpb2hVZw?oc=5
-
-### 4. Espaçonave Starship, da SpaceX, retorna à base pela primeira vez após um dia em órbita; assista - O GLOBO
-
-- Impacto: Médio
-- Ativos afetados: SPCX34
-- Fonte: O GLOBO
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOUQ2SS1FaUtrVFR1S2UwMFJ2MXFtY1lvRzRod0Zhdm5lMW40MDFid3dpd2Ewd251TFJmZ1RoX1QtMDBsTlVvOUNWYTBMN2IwMHFiZDR1NkE5VThxaWRRYS04ZUUtYzZxR2RFbkMxbkVkcTFYOU1lZkZpZFZIazltWjJNTzRGNzlZTWN4UGtSYkRuVV9fOWs5bWhSYkVIWHZpd2VlR3ZjdFNocDdIeGZXYjJXT0ZWeno4ZlI4c2s2MEZkZmV4T29ON2k1NHNSWUxMVHhhTk1sYjdXdi1YNHphamtuTkQwX0JaZkHSAfgBQVVfeXFMTmNYQ3BBenBJaWdwcE9sTERRTGFJOExVSHhldEdYUnJvWkVTbW5NU2xKYnp3eFoyZ194T2lqUmtIY19WNU54R1NlZGJzV0ItRW1JVk1QNlkxcS1ScDF2UEUyQ3M5a0lzYkFHUUpDeDdFTjZoTDB0VWhVVmZuZUYyb1QtcWVVWDBMdUo0WXQxeGhBR19Tb3FLN2MwbzVGSWlFTnd4VmVhRDU3MmFYZl84dGlxWHZOajUwZXhmdFhtZEZTNG56czdZcnNELVdrTjZWYUpZZUxaYzhrVldha3c2RmRKMDQxVXhzU05leUVCaXc4al9JVGZ1cWI?oc=5
-
-### 5. Elon Musk e outros CEOs do Vale do Silício pressionam Nvidia a trazer Jensen Huang de volta - Exame
-
-- Impacto: Médio
-- Ativos afetados: IBOB11, SPCX34
-- Fonte: Exame
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzN3aWxncUFlQUtTLXpLZG1iTFduOFFtTlNVeGZCaWpubUdIVEVLT0YtWVAtZGpZTEJxRnBiekUwRXZyVTJ5bW1VWk1mLXl2WXoyMG14UkpMSVlTS0taM1RxbTRUaXNTYXNielYtWEtqbURVRERHTk5TMHdzSUgxcC1KMDFYSm9WLWptMGdJcTNYdTZUdGRMUHA5eGkwOWNvWjNuMGx6NGJzemVwTUpuTVJiN0VHUWhLM3Z0c2h6bkJ1Y0RG?oc=5
-
-### 6. Starship da SpaceX retorna da órbita à plataforma de pouso e passa em teste - InfoMoney
-
-- Impacto: Médio
-- Ativos afetados: SPCX34
-- Fonte: InfoMoney
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVRTbWFqbWg0LV9YT3RDWHNiYTJ4UTI0SERCOHJpdW02NGxLdllCd19tNVdJZmwyNWN0TWhPdUs2T2dGQjVXa1ItZEh4U3FTZU5xRHVrRTVfRGVQcldUUTVmWEVRaXFPbjhsS2prMFA1VVZ0VExyN1M0TkVDNjBzejFWQmFuUmZsNVhPTDlCdUpuTjFiU3lTYm9lTlZYdktxeW80T3FyQ0tzSVRmalgyZNIBtgFBVV95cUxQb2NLdVBVMHpqY3B3aVBuVE1oME9qdEtnczR6RHBGUFlKNy1BUVM2TG1UQXkyZFVIUnJIYjBlUmFrZkxYV2VoYjVuSk9nZVEwd19OOHUxQlIxcVExb3FPY2FxelRWYUFmOWlBa0lpa0RxRXFfeVpfSkFKdFd6eFVSZ2padzBVODMtb0JkY1RqX1gyTjhhMktwQ3NKcERsdkpuT3FzRm01TTBuUFRwdU45NWwzTEkxQQ?oc=5
-
-### 7. SpaceX recupera foguete Starship em operação inédita - iG Último Segundo
-
-- Impacto: Médio
-- Ativos afetados: SPCX34
-- Fonte: iG Último Segundo
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNNGVYSzB3d1c5bVV4Y0ZjdDQ5OEY4aDd5LVRib0xSTjQyNXYtSFc3WFp1bHdVdlEyTjFWOXBrZG10ZHQ1eHNuRFpnZnZHVVFwV0NaV1k4THNmMHJfR25lWkoyc2d2TXczVmhCTHc3TjNIeG9pWGNEWXJQXzlZRlBSelBkeHhVRWllVU1YZkhMR2hvWXYwWGNGbDhxY2h0M0hQNEHSAacBQVVfeXFMTjVCdnBrS0c2MnhRSzFsT0V0cmFuMlc0a1YyMkFIU2k5V0pydU5qWEM2TXVScWFDajZPblZiMFlDVW5Id3JaSTRQS21KXzFUT0o1VEU2Ul9Fdk9qcUtBWU5hdVozaHYyYVI2QWhOZ3ZZcXNmaDNjY0YzWXpWMHJuNXRzV3RoVUt5Mmo1NGVWdEN0OGJmVDRmV25jX3hXeGUzMkMwWWRiX28?oc=5
-
-### 8. Zelensky pede a Musk e aos EUA fim de restrições a satélites - UOL Notícias
-
-- Impacto: Médio
+- Impacto: Alto
 - Ativos afetados: WRLD11, SPCX34
-- Fonte: UOL Notícias
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
 - Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVRhVEROOVIyUE5hcTItTmVHZ1VwUExMbi1ZakNSaUZNcUc3ckRDVUpkOGs1WEQ4Yi1Sem9fZTRZNGNpNHpFWUhFZG9sOFl3eS1hUWc1UWo4R2FUSlVVSDc2LUpDWENENk1MRkw1OUg1OXU2dDZxNnZFemk5WF9jTGc2R1RGSEVGR3NQZTNxcEVnS09fYjhIZk12bGVKeHR2aUVxdUU1WncyMGVvay1zazYxQVVXWEdxUUFTckFVc2VYRUhWQWhtT00tNjdkY0Ff?oc=5
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDYtbHl2Y2JfUGhsZDJwdW5RUWVmZmZ2NDE0a2VKUFNfNUs1a3FtQWN0bVF5Y2QwUVlsWmNPeElHSmFvbV84ZHdxa2UtRUtETFBSbXM2UWhCQzF6WThtbzk0X3lQYktHN2NnQmcxbkk2RDdFaWtXcXAwOE5FaXl5LVVJeHBTa0t2ZmllbXBUWGtSSkxiZGlrenVJZURuWWQ1OXpqeFNTc3lyUm10bWxIN3dBeTBvaTB2X19CVS1jY3lpWURfd2EyZQ?oc=5
 
-### 9. Mercado de CRI perdeu fôlego? Gestor aponta setores que ainda sustentam o crédito - InfoMoney
+### 4. “Elon Musk criou um novo tipo de capitalismo” - Valor Econômico
 
-- Impacto: Baixo
-- Ativos afetados: KNCR11
+- Impacto: Alto
+- Ativos afetados: SPCX34, KNCR11
+- Fonte: Valor Econômico
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOMFBhVkdQSWx0TU1saUdUZTBDRDVpajZKS3ByMUE3akV5dW1CalNuWGNkWVNuUTBMNU5naENPY0k4YTJJOHp4emNMZ3dZckhXU1o4MmstVUJ6ZjFSaXdEWlhwMzF6UVJ6RTlVNkVTbG5fNHBETndLZ1d0UE1PYlh2OW9pSC13TXdNVTJIZW5vQ3RoTVBTSUtGYm5tNlJ4S0hpeElZ?oc=5
+
+### 5. Focus eleva projeção de inflação e Selic para 2027, mas corta IPCA em 2026 - InfoMoney
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
 - Fonte: InfoMoney
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSnlzOUZUeG5ERVdZZ05jOElsb0JTdkFzQW9CbmZEN3hMdjY3RkowN3V5cU1kNkI5c0lTaEo0ME53TVhXeGIwN2FxazR4dnlrSUpwNHo1M1ZjRlZJaUUycnVzNEFQMWduNTNlUzBNa1pVTGg3VHNZNzk1MjdfaFZuYVczeHZNTVQ3eS16WllCWWpLcmZSZE9tQlhvejRYNVo4UWlPVXVmNUFYTkYwRTZvN2s2SWFpS2tpNEFV0gHAAUFVX3lxTE9ua2xMWnFtOGFINFpUSk0yVDFrak5KZ2E5ZVM4U3MxTjJpOXB5QWJtM0o1eUxIUll6VlpoOEQ3eTRkdm1rT19TV1RRZDdOZUt2SzJNNngyWWF5bWNJUmZuZUFYTUM1c3EzbjV4Z244QXJnaVVqYjJNb0lQV0tUN1o0YzNPaFJScDRXY29RRlVYaGQ0NGw2bU5qSDBCTlJuRVhYanN5Rk1vejRWeGVIcmR4QVkxZG10LTlEY3FSZlgwWg?oc=5
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE56R3RLMkFlWS1BNk5wV3JjLW1zTzFqaFN4RFEzMFR2U2R5ZXA5ZDRiTk0xTUkzWjNjMWZxZ3U0aUxWYkZsa2pBNko3X1dhdE9ZMXgzSW5KNncxemFRYldNTHU3RDdDZTVkYThVLTJOMFRYd1NUWF9meXE0RdIBgAFBVV95cUxQdnFDUDdjdXN6SFpqRzZqVS1maG5DcG9UaTd2QjN3OVBVUVRDUXVvSHlhTUpWUm5ZQ2hISDlVa3NTc08ySVRMcHpuN2thV2s3TDJsLWJqdG9mZi1lQnNyQWVOTWxJZWdJbWxwb3I4bEdqU3BLZkJUU2NpaThubElXeQ?oc=5
 
-### 10. Lula terá 73 indicações em agências e Banco Central - Blog do Esmael
+### 6. Mercado reduz projeção para inflação e PIB no ano e prevê Selic mais alta em 2027 - Estadão
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: Estadão
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDlPVjBxZDRib29xSHRrYklXTnZvbzVOYnhLbUxEUWlSbEF6VUVOTzUtdXRRSk5obV9QYlNoYm9iTDR1YXduNUVtLURva1FtWmhwd1R3dGtKNlNfWGppbjZpNlFLZEx2clFZOTFWRVN6b012QnhpUXZyLXh3Y2d1QjBJVjE0aW1Wdk4yY2hSQXU3eENwV1V0YVZoODBIQUxT0gGmAUFVX3lxTFB3bUlkWmlzX3duMEdBRGxxRFZGelhPVDFoWEMxX2NtODEwQkNVYXlSM1VpTGFjOWRJQ3gwalZuTnZUYkY3R2hpVThrZG43dEVzSnZpM2RJdHB2bmlnUmViUDlnNUQ0dUc4OTBaSDREekMxTktmcEtPOXZ4SE42U2hyWE9oaGxXX01xUUtfOWIxRXlSVEJ0NlZYT0d6aVlXNmlRbHdYZmc?oc=5
+
+### 7. Um oásis na crise da Nvidia? O S&P ‘equal-weight’ - Brazil Journal
+
+- Impacto: Médio
+- Ativos afetados: KNCR11
+- Fonte: Brazil Journal
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUtkanRhRS1rV203eC01VlNwSTFiVTFCbHlhdXprUFJiaVFMTndQdnBLOFpxOVdYTjZlTGRBMWNmZ2RkRUhXazhNSUFZNXNsWm9oeDlNOTBuY3U3bE5qZEVmRnozWW1KRmdPYWo3dTdpbl9BUmhiQTh6UnZsbWQwYnZR?oc=5
+
+### 8. Nasdaq cai 1% na abertura, pressionado pela Nvidia antes de balanços - CNN Brasil
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: CNN Brasil
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDhIR3B3M29hWnJmZ2lhOXA2cUVvVTBqN2tKREE4TGJBZHZDWXJHaFdSZXhOaTZvMTRKeWxiTFY1dVdIWHpMcVM0QkxaVTdITnVNTmktMHM1RGlIdGl0Zi1rSmRRRVNVR0h1YS10Q2Y0cHRabFVBbGhvZXpTWG45Umx5ZGhoaU0?oc=5
+
+### 9. S&P 500 e Nasdaq devem abrir em baixa, com as ações do setor de IA sofrendo o impacto da Nvidia - TradingView
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: TradingView
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZZVFNTWdKdm82d292V29Sa3AyWDRJNkNHRlUxUGh5eWs2b0JhQ0lGT2QtWXl2TmoxSlFOQWxsTjMyLXRYTWJfRHpPRVNWa3ZsakNLeW5Pb3BfVzZGLXE4OHYzOTVMY25VM2JyMHhidUpoVVF6WFE0?oc=5
+
+### 10. SpaceX divulga novas imagens de pouso inédito do Starship - Folha de S.Paulo
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: Folha de S.Paulo
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDg4UkFwOHBzbVViQ2E4UGN2dXA4MHJOVUh6SDJ3NU1leEc0Wl9jcmduZHJfWEY3MUlkZldxc0tNd04zZmpZUlMxdG9QX2pRb0huN2tKXzFQa29MeThzS2RkNjRRdXAyRDRjajB3RzNWMEM2X3Rwa2ZMRzAyLWFad1h3SEIyTXJnb3BROGZfOFl4b3JCbmZubmdScGJFc0cySnhtTnlBSzl3UVNfUlE?oc=5
+
+### 11. Dividendos do KNCR11 ficam atrás do CDI em 12 meses - Suno - Investimentos Inteligentes
+
+- Impacto: Médio
+- Ativos afetados: KNCR11, CDB 100% CDI
+- Fonte: Suno - Investimentos Inteligentes
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTFBHb2VPeXA2MURXeGg5WG9Fdk1MTmItNXlfclhyNkI0ZjczRFZqX1NxRUpvWEV3N1Nsa3otemkyTkFjMTN2VEcyQUJrWm5KaGQtd0FaaUQ1MEJNRE04MmhGNEc5VFdNa0FseVZhRFg1REdUZmkzcE56NHpSMNIBgAFBVV95cUxOSUppLUxpWERKOVlTWE5ITWZqSEIxdWxNMU5lTkh4bS13blBHenc0V0E5WmRET0hMMVNxUHo0dzZZSE12TjlyeUV5ZFBTRnhjRXJ0SVQ4MmNQdTEzeWFSUG9yaGpLWGFxT0ZiNGJEalRlekk0ZUV6MXFXc3JFNTJHaQ?oc=5
+
+### 12. FII de escritórios paga dividendos de 22,35% de retorno - Fiis
+
+- Impacto: Médio
+- Ativos afetados: KNCR11
+- Fonte: Fiis
+- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5PREY1Rk9HSVgtb3RqOHFRXzEyckZCRTlPUW40MUdGbkJTU1RQOVROSUoxX2FYc09EY1p3MW81T3p1Z3N2a1lHV1VXa284WkJDalRncGEtb1Nudm1jRFhOYW5oWDJRUkNIcU1CdTZvanZCRnhiYWFGUG1ET0w?oc=5
+
+### 13. Como e-commerce elevou ocupação dos galpões logísticos e os FIIs - Suno - Investimentos Inteligentes
+
+- Impacto: Médio
+- Ativos afetados: HGLG11, KNRI11
+- Fonte: Suno - Investimentos Inteligentes
+- Explicação: pode afetar FIIs de tijolo, vacância ou aluguéis
+- Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxOTThtSWs2WGYzVXd2TlBtV0xuMEZySlFiNVZTSHZMcFhZM204aWRyOTJ5UFk0U250U0RPS0V6dVZrd2FGYU5jTHNGMDA3QmtJbHlMa0I1YWluNk9Qb3RhUWd4MkR5S3ItYjJwZGVFcVZaZXNKSTVrc0tYRGdwYTQyNTFn0gGHAUFVX3lxTE5QUnBKT0FLR0Z0UHN5dU5aOEJ5d1lHbG96bTZFcVZSWUdxeVlpOHhLT3FrS1poTVEzdGdTano3TzhJYkF0MTdSQjY0RmFYdkdzeGhUXzFzRGNCWDRzUUg1QXRYb0RCMVVJSGlDQXRRRnRjM05yQUJrN1VvWHJBX1p1VFdkdnhIUQ?oc=5
+
+### 14. Elon Musk e outros 165 mil pedem retorno de Jensen Huang à Nvidia em carta aberta - CartaCapital
 
 - Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Blog do Esmael
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMmJGWWxVcFhlQjJnSEZOV0NfNUJVLTUtb3RpTFE2VFdBa1dJSkpzXzdKbldGSjlRa2NQcWZ5VGNYZnVpekRxWEl3U2hNbzdmNi11SWlZTnRBdW5xZkhZT1c3akw1ekZLRnJPRjRUQkk0eGhMbUZneHNVNi1ZNTQ?oc=5
+- Ativos afetados: SPCX34
+- Fonte: CartaCapital
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ0NzVk41WllOUDhUeUpOeGNVWi1mWV92aWpPdmRKaFhfbG9jRFpwaVlDSW9Ia3phaHQzeE55MzNvRGV6RDVBVWFhRUVhcFBKQUJZVnRHZDZIQkRxTFdQdkw3NVBkRGp3Z2JtRzNqTDEtbl9RdE5aRnhuamVLbW5ZaDE1SmpDSTFqMFlVVzNTc2tFSE9jNHBBYmZHSWFBZ0lIcnh1NTg2SFZrYms3NVpQd29tM19CYTBUNmR3WFJiSzZkSHc?oc=5
+
+### 15. Elon Musk assina petição para trazer Jensen Huang de volta à Nvidia - Fast Company Brasil
+
+- Impacto: Baixo
+- Ativos afetados: SPCX34
+- Fonte: Fast Company Brasil
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnA2b2ZoNDJpelQ0bTNLQl9tWldfNXZWMnZCcWxnX2ZfVGpNZkJhaXFVVldpbW1tVFduRnk3Q3lHd0JETGJBc05OVGtQNDh2RjdtYzlBS3UwZGg5aE8weXZ1cHNwMm1fRTVBSkdBMU56TVVWUnpVUnlXWVhoakpOV0lHWWx3VWpVbXhPVWU1SU1jYWxfUXpidHFCTFp0ZmU5Tzlj?oc=5
 
 ## Conclusão para o próximo aporte
 
