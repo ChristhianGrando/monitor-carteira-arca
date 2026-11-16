@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "titulo": "Selic a 13,75%: quais FIIs seguem pagando mais do que os juros? - Riconnect",
+    "resumo": "Selic a 13,75%: quais FIIs seguem pagando mais do que os juros? Riconnect",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGxYVVFUOFN2X0xXLVdUQnFqQnJoZHJpMUlqN2oydGljOUR6bU1EYWwyeU51aTVPb3pfUGV6Ri1WSi1OSWxJX2g2a1VIMHFsNUVjcllhUlVxNUZDNDh4NDVuMUZSLUs0b3RjSVJFVi02VW1GX0RpWEpzVDNTUnhZVEZpaFdIaW1HRUw0MTJOZEZOVlk?oc=5",
+    "fonte": "Riconnect",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "feb008abfa39bd722a038a291077ab4503cb3e701d445ec6ece4d14930ab5b29",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Lula terá 73 indicações em agências e Banco Central - Blog do Esmael",
+    "resumo": "Lula terá 73 indicações em agências e Banco Central Blog do Esmael",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMmJGWWxVcFhlQjJnSEZOV0NfNUJVLTUtb3RpTFE2VFdBa1dJSkpzXzdKbldGSjlRa2NQcWZ5VGNYZnVpekRxWEl3U2hNbzdmNi11SWlZTnRBdW5xZkhZT1c3akw1ekZLRnJPRjRUQkk0eGhMbUZneHNVNi1ZNTQ?oc=5",
+    "fonte": "Blog do Esmael",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "94d6da0d6a2546a28620fa591f81156c6ff879c0edc2b002467b6a5da46a9007",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  }
+]
