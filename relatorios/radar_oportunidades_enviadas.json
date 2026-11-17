@@ -1,86 +1,5 @@
 [
   {
-    "data_envio": "2026-09-18 15:01:09",
-    "chave": "1ecb519e58cca6b0fb6e8af9d71e3db867b32c598a2b7d2b3accea5867e2f871",
-    "titulo": "Ibovespa opera em queda com ressaca global de juros e reajuste do Bolsa Família - VEJA",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSzlsZmh3REJrVGNDTnI5WWo3QjVvUGNkUW9QQVQyejBjTmM1dEw4X1dPdWtIMWcydmVBTXYzNzFVbXJrd0VwYUhjT0I5Z3NURHpUN29CREtYZkVidlpQdnh4MlVqd0VmQzhfdEtaV0RnaHVtekt5dXlyWmluRG9naUZNUEpOWDRTRHluc2VLa2hNUlVCRkpCMzQ0eDF5aTBrVEhLTFI0OW9fVndJU1VUcFJITWFsdw?oc=5",
-    "fonte": "VEJA",
-    "score": 10,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11"
-    ],
-    "classes": [
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-18 18:29:03",
-    "chave": "6e055b8a2d270645b857661292d51c5bc4ad466eb3a4b0eb17ee3c56b9f5cdce",
-    "titulo": "Banco Central anuncia novas regras para o Pix, incluindo combate a fraudes e Pix Automático em contas-salário - Finsiders Brasil",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RGT2RuWHkwZ2RLMjRtUkhkaTl6T3lRdTRNNDZIblRwdEFfZWtlTzNUSUkya29URGtrbmFybW4tNGNMSnlQYWJBM2xQZEgyREQ3ZHp1TC1za2NzT3hIRzNNc2toVWNqZ0E2aVJiRC13UHBBRUlLY3J5b01nSVJ5U2J6R0NvWkczWlFpUzBKazc2UndkeThEUXY5LWJSMWNX?oc=5",
-    "fonte": "Finsiders Brasil",
-    "score": 14,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-18 18:29:03",
-    "chave": "f979b8fc984179a2669648c540a382bec295e0174467d896de04a7b84f85b3c1",
-    "titulo": "Reunião do Copom começa com expectativa de nova redução da Selic - contee.org.br",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlVXT1JqSEdpXzRvQUJlbXc3NVJGNzdEZ1hqUU9hN1lLVmM3elhMNkFYT0lpdXkwenBwRU00Z3R3UnpMT29zM1FoeHNud2hUSWYyNmVBUEtOWlJWOExpaXVZWl9VaU1MeFJCelV5OTQ4YURfRUl6OFdoc2xGTGlHTmdCY29IMFktaDBvbkwyQi0?oc=5",
-    "fonte": "contee.org.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-18 18:29:03",
-    "chave": "6fb37bc266d4346cb31ba4baddd95fcdeffd7d3789c5b7f944036950d2569462",
-    "titulo": "Copom: como o corte dos juros afeta o mercado de FIIs - Fiis",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkNENG8xNm9CeExLN0JDUE85Q0UwaFdZOU4yS2lNTWU0NUZtS1dXOXNVTWxlQnNKWWtCSGpnWWpVWHJ1Tk90aGJYdW1BSUhfS2ZHMGJndXVxV1VTOHk4MllfU0prTmRGdjNoVm5YbzMzVlRWd2ZtN0JNcHppNkVfUDRTN1Q3VWM1b2Z3RElrRm55YUkzX2ZPVENySWM4Zk45RWJfT0ctNWM?oc=5",
-    "fonte": "Fiis",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-18 18:29:03",
-    "chave": "a53ea0bc173ef218addfbb2aba604411ee5c9422e5e14f54eda54bf6620ea9d0",
-    "titulo": "Banco Central do Japão eleva taxa básica de juros para 1,25%, a maior em 31 anos - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVRBZlVWZ3FIOGdzcUR2ZnNPMEhLcVBZdUt6TDVrdC1QS2tnSGFjOTNCN3lCbkgtUE14TVREQjRWQkJ4LXUzOVhhb1VKU2NQZzFvWEVCRkh5ZnZjRXdyNnk3SEFtTHhrM3lFN003Z01vdDdpcDBCUE1YcjNRaGFJRG00RVV3RzhtQzFobWNpdWlIWnFJcS1IMC0zeFZnUHdqT3F2RE5kTzI?oc=5",
-    "fonte": "Estadão",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
     "data_envio": "2026-09-18 18:29:03",
     "chave": "7eac1130f99a316d5963f9b0f0422e4f01f683f8f80e87e95240018a4021d4db",
     "titulo": "Entenda as mudanças no Pix anunciadas pelo Banco Central - VEJA",
@@ -17322,6 +17241,85 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-11-17 22:24:23",
+    "chave": "d18b631e84971749df36c4aa8c13736aa9db97602f294704bcde8e9332104623",
+    "titulo": "Dirigentes do Fed citam inflação e risco de estresse e admitem alta de juros - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaWxEa1RqbE5rVjFxcEdwNlhzdXFZZnlKZFZscDZKOHFqM2w0Mmo4M0hzSmVwZUJrZVpRV2JxWUw5dzMtZW10dXRRSDBSYjhrWVhnZmlleERyWDFmdmhaTVZiX1hlM2tUVVp3SHVxdF9hOGQweWJvNmI2UEtTVUVvOFRJTUIzSjI4c25jWTdybENiaTNRbV9VUXNLUzVNNGpDT044Y29GV3VCaGFoN09ra0xRRng0cFVPcG5yUFptUUR6YVJnVEtucjliZkpQM3c1bFZn?oc=5",
+    "fonte": "UOL Economia",
+    "score": 15,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-17 22:24:23",
+    "chave": "fa6d4cd8edbe68cc6de817de51a6eecf8c39b416ac6b468297a41aa6d4bca7fb",
+    "titulo": "Dólar fecha a R$ 5,78; Ibovespa perde força com fiscal e queda em NY - UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVpLdGZ1WUdHakUyOWFfcExxTlFMSm5OSWhJZ1FSajAwbjRmOXZsSFYzaWZUMzZJUkxaZzAxal9URFhNQmpkSmxxbTd4cU9mYjBhTGotRnJEWHBlZVczTGRXM1ZPUHNlRkZTdUF0MjRLVUFXaHZZN2NnMDIyQWJuOF9aeW9rc0FkeFFNdmFRaThLQnRhdWI5bUF5UXZyQlF0cjMxclE1cFRTY2s?oc=5",
+    "fonte": "UOL Economia",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-11-17 22:24:23",
+    "chave": "8d322a600762c24d6f4baf2b356c47850dfd81b9a6d8be5408e6636e932b7cd0",
+    "titulo": "Pix celebra 6 anos como motor de inclusão e eficiência financeira em todo o Brasil - Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xZmpLZHZScmJUYUZ1VVJSRW1GU1VMTFB5ZGxQMlhuaVNCcGF0WFJ1alNXUExjWFN5bHk3S1BCbk44bkdfeTNEZzlreVhfaHFmZHBGN1p2QXYwcEZUWUMzRA?oc=5",
+    "fonte": "Banco Central do Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-17 22:24:23",
+    "chave": "499e1ff3b305637b89b516ca1c8dba51e957766a5481e51fffc5dedb58ea779b",
+    "titulo": "Banco Central projeta Pix por aproximação off-line e integração internacional - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcWlveElCWndkMDVDWDBMTEFrYjhlbnU0VTVqLVhqZElUUkNxTTYxWEY0cXQ0QUxwT2ZIeEJrMGpIUTZYMkFhWUJBU2dWWTdXb3Bpc1FfNWlTT3lCdkUteDE4d1Z4ZGR3YnB2aXEteUM4LUhEQlBhVVhBWmhTSWRTYVZaQjZDRmtBV0VQa0RWcnBfem5GVm5ndGJva2hheUxNOFFVb29reWV2emZIbUU4ZFgyZTdRQ1JHUHpoWWFsVC1xRUQ5aGhEbGVlSjdvN19YTFBuWXFpazQ1S1Ayek5hetIB7wFBVV95cUxPUm5lSkhsTXpLNFBKTWZOX1I0NmptNHVzUDZndURXZjd6N1hTSHU1bHJfVTY2ZU40cWQ1MEMwRjdxcHlaSS00U09WWVd5ZEltdXNoZHJwNk1VelFTWlVKdGFDcmo5Tk9GSWRVN2w1cGtWZVY1cjRFOVZMUkJOdmJTbExQS1pyWXh6QWJxSHlqeTZWOE41M29jd2NzLVVOMGh4OGZlZGVUUFZSWFNBV3JRU0FvVnNQOVk4QTlUZEpWWXJyTURlc1ZJOVBVZUlXS2tCdTRFX2J0cFB6RFdySlR2VzF2OEppS2hobVNleTdwZw?oc=5",
+    "fonte": "O GLOBO",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-17 22:24:23",
+    "chave": "850d1f196863bce2cfab802b4e7a3a8b59258fcc7c86babefbe9787407e15797",
+    "titulo": "Ata do Banco Central da Austrália revela divisão sobre juros e mantém alerta com inflação elevada - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUtRWlkxcTZFaU54WU85aGRWVHZCYkgxQ2lwMF9MbmZXWWx1YThjUTNiN05tbFRlSllNZWpzYjNfVFFHcElhZVFvV1VFTkh4SUNLcGZUVlB4cnRmbmhEVVpVN2pIckNFR2ZpdUVBWUhCU09KUjU5UUIyUEFYSW82UHY5WVJJbTJ0ZlRJNlpDci0yU3V0WUxfTmRVbjBBbDJUMkZtMUEtZjJqMHBGTEUtczRRV0NKVkNIN19PTU9LdU8zUFNuUDdXY3cxTUtyUQ?oc=5",
+    "fonte": "ADVFN",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
