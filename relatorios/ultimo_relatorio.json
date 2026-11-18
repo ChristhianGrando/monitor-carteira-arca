@@ -1,9 +1,9 @@
 [
   {
-    "titulo": "Dólar perde força e passa a cair; Ibovespa avança quase 1% com Petrobras e Vale em alta - Estadão",
-    "resumo": "Dólar perde força e passa a cair; Ibovespa avança quase 1% com Petrobras e Vale em alta Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcHI1ZU15cmhQM0pQQzBNZkF4VUR1aVdPT0otTWYxdmUwN1VsdjRLSngzeU5OeWM0YXE4d0VlVkZWR09qclZ0WGdOVlFYcF8xVEdpZHRHQkNLVFhFOFlFcDBXaWJlUWttYy1IbFNnWDNTOE1od3Q3V1JaS29XM2QxRER5XzFJLUN4UE53VFdvLS1fc0Nvc1A0TktjWmQ5RDk4QkxpTHAxSUxpbUMtbEpUWGtMc0RuVE9XNC1mc3MySDFkT1h1RXpKYkxhUV9uWUEzb1VraUhjcFdhMnBscW9DcXVmaGg4aXBm0gHuAUFVX3lxTE9sXzd2Z29OekRyOTJ1SDRyQ1lWekdKMERGUDVDSEFJeVRnSVFpMkJiaWdJR25QUFpGa2JENGNQWXpZd0dUaG8xeGJUOTlxMkNjclp5amxTOWp4dl9VNUpRa194RHFYZDhoX3ZPQlkxd3hIMVM4M2lJZDFjT1JGekN0cE1GSWhnU19qWlNpSi16c1g5MWxSR1NwblQyVll5akFiSUhtbHprTXlmcElfOUNrWFRDclkzLWljcE5reXRwSnFfS1UxZmN2MHB3QllsQ3lqYVBrWThhOFV0MkJTTy1XVndlS2l0cUM2ZmxZcmc?oc=5",
-    "fonte": "Estadão",
+    "titulo": "Ibovespa desidrata durante o dia mas fecha positivo; dólar sobe de novo - InfoMoney",
+    "resumo": "Ibovespa desidrata durante o dia mas fecha positivo; dólar sobe de novo InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONldBemI5aVFPLW5nRE50TzJoMVZQYlU3Tmh5Sm9ZV05Iajh0UWI0MXgxWUdBNWU3TlFjSDNtMW1lM2lNc2xNX3NSaXJCeVFaV2toQ3lpVEJxT3VTRjlielo5bkdUclFEZ3VKSHR4OEhISjhVdkV3RW16ZnJGdWZFVHdadkVEaTY5YU5POEtYMA?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -13,9 +13,22 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa busca recuperação, mas dólar segue pressionado por incerteza fiscal - VEJA",
-    "resumo": "Ibovespa busca recuperação, mas dólar segue pressionado por incerteza fiscal VEJA",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFFVWGhPazZsdk9rN1lGMWdnOTBBZFdWbG11TFdEOFF4bEhJRlJrZUdSMVUxQWhCc0ZmamlPaEoybDAyTWRZejVDUDJGYVZyT0F5Nk4tclhGeGtWdHl3SXJMSHVWZTZjZkRncmg1UGVlQjI4M2sxMktqa3F4V0RwQkxubUptR1BENW1ZTGlfRFVqVW90di1pTnYtUFNPNlY3OTlqZ2s0cnpMYkc1eUpjcg?oc=5",
+    "titulo": "Dólar fecha a R$ 5,78; Ibovespa perde força com fiscal e queda em NY - UOL Economia",
+    "resumo": "Dólar fecha a R$ 5,78; Ibovespa perde força com fiscal e queda em NY UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVpLdGZ1WUdHakUyOWFfcExxTlFMSm5OSWhJZ1FSajAwbjRmOXZsSFYzaWZUMzZJUkxaZzAxal9URFhNQmpkSmxxbTd4cU9mYjBhTGotRnJEWHBlZVczTGRXM1ZPUHNlRkZTdUF0MjRLVUFXaHZZN2NnMDIyQWJuOF9aeW9rc0FkeFFNdmFRaThLQnRhdWI5bUF5UXZyQlF0cjMxclE1cFRTY2s?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Ibovespa sobe e dólar vai a R$ 5,78 nesta terça-feira - VEJA",
+    "resumo": "Ibovespa sobe e dólar vai a R$ 5,78 nesta terça-feira VEJA",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVZDdmRKbUstdGJGSkFFWXRyVGpJZkJJMnhxSkU2VDdBNDhUUXZkX091S3MyMU9UOVU3X2RsbnRucFB5Yjk4OFE5ajQ5OTdrckpnS0FTNDFBbmJ3UTdUUzVXWVRaM0lzOW9sLV90YkNBVnlwakVnMzZydDVzc01VLTF0bzB3SGlENU1vZHFpQlNHSFBEeUZGSHlFOEZYUUVn?oc=5",
     "fonte": "VEJA",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
@@ -26,61 +39,24 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa sobe e retoma os 170 mil pontos; dólar segue em alta e bate R$ 5,80 - Exame",
-    "resumo": "Ibovespa sobe e retoma os 170 mil pontos; dólar segue em alta e bate R$ 5,80 Exame",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnhLMVdfUFJIQ0MwOXl2VjFtZ2hYdlhjaTJBclptMFVMNFdtbGFwM2QzekpMRmlqbU1CeWF2akhlak53QVIzQUdIWjQ1c2QxNWdJTHc0SG9zcDhVdURZaFphQS1ER2g3Qzlhb3Y5dXRKWFdCRlBSU2VCWW5nbFo3b001QUNiMC1LRXZZeVdubE5GMFBGalo3bVhyNURZM3M1Rkc1ZGpyd0hhWElD?oc=5",
-    "fonte": "Exame",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Morgan Stanley rebaixa Brasil para venda; Ibovespa cai e dólar sobe - Suno - Investimentos Inteligentes",
-    "resumo": "Morgan Stanley rebaixa Brasil para venda; Ibovespa cai e dólar sobe Suno - Investimentos Inteligentes",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2pMN1JOQUJSNVppV1hmV3ZiUE5ia0hPOEFVX29PWjRpNXV0QktVUkIxRXhOUGlaeGpTaG5LVGhzVE14RVJBSDBwSlpwR2tvQ1lwUmJQQVJCYkJhTjVaSExnNXdXN2stMzZYc0VhV3Nqd21Jb3RrSkxBdVoyckx4TTR0eENwa1JlcnhzY3ZsUHVVUdIBlwFBVV95cUxOczB5TDQwcXlMcHJwZHowYmJBUGQtbWlUMmhBdEZkRjFjY3dwYjZrckhPVEF6Rm1rcC1KSFRVWkYwc1JaZlB3N3ZDR1l2ZnEtVHdkZzdZLUFVaURrQUVWOHpUSnlMeTN4NGpSTmFYVHBoUThRMHZIZXdTTVI2SUgyUHBuc0tUdzhnMTFtcWVsLVUxSHZlNnRn?oc=5",
-    "fonte": "Suno - Investimentos Inteligentes",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
-  },
-  {
-    "titulo": "Nasdaq recua enquanto Wall Street aguarda resultados da Nvidia e IPO da Anthropic - TradingView",
-    "resumo": "Nasdaq recua enquanto Wall Street aguarda resultados da Nvidia e IPO da Anthropic TradingView",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LTUZlRUZWLVlfNWM2aEVoaVRyNUVYd1YtWUxDN0xBOGtrMzhLa3dvOEM4eDJ5NXNyM2w3M2lna2dwbWphSERiRFJ6ekkxN0RyekJrQ25oU1JsRnk4U2hZY0RPcFBTZw?oc=5",
-    "fonte": "TradingView",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional"
-  },
-  {
-    "titulo": "Ata do Banco Central da Austrália revela divisão sobre juros e mantém alerta com inflação elevada - ADVFN",
-    "resumo": "Ata do Banco Central da Austrália revela divisão sobre juros e mantém alerta com inflação elevada ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUtRWlkxcTZFaU54WU85aGRWVHZCYkgxQ2lwMF9MbmZXWWx1YThjUTNiN05tbFRlSllNZWpzYjNfVFFHcElhZVFvV1VFTkh4SUNLcGZUVlB4cnRmbmhEVVpVN2pIckNFR2ZpdUVBWUhCU09KUjU5UUIyUEFYSW82UHY5WVJJbTJ0ZlRJNlpDci0yU3V0WUxfTmRVbjBBbDJUMkZtMUEtZjJqMHBGTEUtczRRV0NKVkNIN19PTU9LdU8zUFNuUDdXY3cxTUtyUQ?oc=5",
-    "fonte": "ADVFN",
+    "titulo": "Com dólar a R$ 5,78, máxima em 19 meses, Banco Central anuncia intervenção no câmbio - O GLOBO",
+    "resumo": "Com dólar a R$ 5,78, máxima em 19 meses, Banco Central anuncia intervenção no câmbio O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXlXVk1pLWJya3BxSFNUNzViYUNoVkVTaHRoWGprakhoaXF4QlVJR1VnRlBLZlBBb1VKdzNnNjZEUVRnU1UyS1ZYdGVvR0JSellIS1dieHM5bFlvQkdfWkhlZEdMbHliaTdBNFQ4azlKTnB3bnphc1R0cnhWaUt2YjJWSFREVDVBUFlSSVI5TW1NTjlRaG9qNVZaYjJQeFHSAa4BQVVfeXFMTi1FZmRGZGFWeXBmQVM3Um5TLTUwNDZEcUtacEptSWprc2w3SmE0Z3VWNWZfZW9YWnQ2LWdiNlJIX24yWXhnUk1reGQtQ2dUaU5OVG1FV1VGN0x0SDV0b20yOW93ZXhBYjNyd3o1RWsxd01aMWUwaGZaUDRVaU05SUxyR0xYN3BYOEdhdC1HVTJkd3IxYS0zb3ZFRkR2VDBOMjBMWHd4LTBfa000VTdR?oc=5",
+    "fonte": "O GLOBO",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
+      "IBOB11",
+      "WRLD11",
       "CDB 100% CDI"
     ],
     "impacto": "Alto",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Lara Resende propõe meta para queda gradual da Selic e rejeita rótulo de “tabelamento” - SINDSEP-PE",
-    "resumo": "Lara Resende propõe meta para queda gradual da Selic e rejeita rótulo de “tabelamento” SINDSEP-PE",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOG1iWll0MURkVFVmcWFDeGh1ZElNbndjZk8ya1NETGtRZmJqNEgtbzVaaVBqeFR6U3VEUjZLLU8yZUJ3U3Q2NlFlSUFaZlNxVEdFZ09BcUFCcUZ5ZnRtSm5LN1pwVXVNTmEzQ2haZXg4ZHNjbEwxTTdqNUx4XzJueDhVblhkMEkwUUN1Ul9TalVQREpkYmc5aUFuZlhIRlh1TzdzSXJJTk1QdUMtTTRqWmxSUy0xaTZaZVB2d01DYUxpUnRXTjc5WWNISFZlZkgxUGFz?oc=5",
-    "fonte": "SINDSEP-PE",
+    "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados - InfoMoney",
+    "resumo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0tKNTZRc2NBb05vN3JOUEZCRURuMDJaNHdlTmswaHI4ekdSTUliWk1xUnF4REdremVRNGlScmh3SlBPN3BTLXpZdXNTWkVaWGxfNExfWVducHd6NDhnRGExdjZqT18xcktmLUhsZlJ3a3BiX0ZkcWJWRGZCNnJsNTlBZDVDWlhESWJ6UHlwSlNsdURrV3F1M1NjMXo3Y2s1NEY0Q1B0d1JiZllIbFRKVC1OYTJHRmpVbm1qR1lR0gHDAUFVX3lxTE5OeTllazBBS1E1bXV0Z290cEtkN3NoSXpJeFluOVNpS3Exc0k5akNqMjlmZ1NUbzNPOGxrSlpKdGpsejFqSVE1SF9jMEdndHhCVm4zeWVmZ0xXS3hzOGtNMWVzaktsX1NpanIyazlNMF9zUm9pMFE4UV9aLVRwbFNoYkxyREFST2l2Rmo0ZmJDcW1aN0pWNnVRTlpoTFR5T0dqVTg2VzMyQ0RYbm5OYmFfa25ING42ODRyZkFXQ25OQVpYdw?oc=5",
+    "fonte": "InfoMoney",
     "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
       "IBOB11",
@@ -91,58 +67,71 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "Ibovespa Futuro amplia perdas após tombo na véspera, em meio a temores fiscais - InfoMoney",
-    "resumo": "Ibovespa Futuro amplia perdas após tombo na véspera, em meio a temores fiscais InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEY1cktHVEJCZ1BROU1rMDBPWEJhNFpLVzRhQXVyTDBwdTFqZG9OVG1rY2tYdGJXbmVsVi14djd1b1J2U191VW1uODdRTWxMLXdTSV9YbEVKREphUm50SWZLSGpldHJBN0FMR0ptaFlKNjA2aUplNktuOERSMExXc1FEZmdLRklSU1hNMEgtNE9IZG5RdE5KbVU0S0VybDBFZnlRM1dGWUpKTG1NSzF4NW56QTBVY0nSAbwBQVVfeXFMUGk4dC1zNEpkSHM0bTZGSVhlU1c4U2NnYmtoQ0hCWTBnQTJvWmJmVWVCcHdpaWU2Rk5BMXQzd05vY3c4cVlWckdOZVR0a1hKNVgtOGdqZkJDN2N5MEhYRWNBaGRlWUhick9uS041dXZwc2hzQjJwckR2S1BFWGFWcEFRMnozTmdIc29uNE85a2sweE9weFBuMGpYQXNMRkxMZWdmQzVHM29kYlFhajJ4aURSM0xudVUtdVExWUI?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "titulo": "Dirigentes do Fed citam inflação e risco de estresse e admitem alta de juros - UOL Economia",
+    "resumo": "Dirigentes do Fed citam inflação e risco de estresse e admitem alta de juros UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaWxEa1RqbE5rVjFxcEdwNlhzdXFZZnlKZFZscDZKOHFqM2w0Mmo4M0hzSmVwZUJrZVpRV2JxWUw5dzMtZW10dXRRSDBSYjhrWVhnZmlleERyWDFmdmhaTVZiX1hlM2tUVVp3SHVxdF9hOGQweWJvNmI2UEtTVUVvOFRJTUIzSjI4c25jWTdybENiaTNRbV9VUXNLUzVNNGpDT044Y29GV3VCaGFoN09ra0xRRng0cFVPcG5yUFptUUR6YVJnVEtucjliZkpQM3c1bFZn?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
     "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Mercado agora | Bolsas europeias caem, pressionadas por setor tech; Ibovespa segue em alta - InvesTalk",
-    "resumo": "Mercado agora | Bolsas europeias caem, pressionadas por setor tech; Ibovespa segue em alta InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yY2s3dlNiYS1oLUthZE5ERUpubjF2SUozMTJfNWNqWFBHV0ZRSGVtTmZ6dVhPRTRnLXFVS0NCaVVzZTZweEl5N3VSRXdpYWNEeThldjVuek9uZ1FlR19Fc0lSOFdwRjgzNmlRUzZMZ09jbnFGemc?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Pela primeira vez em quase 60 anos, Ibovespa terá ações estrangeiras - O GLOBO",
-    "resumo": "Pela primeira vez em quase 60 anos, Ibovespa terá ações estrangeiras O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlJManBqc1d6cWpJWnNSU2FTczFuTkxTcWlPeU9IUlZPQ1MwQmRVNDFoTm90blVwUGtiWWdTS0x5ZHFQZnNvQnJXeUxEdTNjeE5ZdC04bnlPZEZfQkZkS0I1X0k1WVluSi1fbXVHUDVoRU44X1lQZkVyYnRKVHFSYV83Um5jNkZYeUdJN3VMZUFJWG1OZzMtODAzN2Q1elZMWXRsTNIBswFBVV95cUxNdjB0SE5XbXlHdTZxMWhtTC1kbGdPVEJsMV9wN3VNYUpSYzRBODJaOUpWdEpwY1hHd2JYNDR6a2hJU1JNNUs2SDFsbFkwc29SVFZabkstME13aUJHa3dCWjYxeXY5ZHJHMjRfVDBmTnY3anNoN2I2TTZJR3VUbG1TeGo5M0RTNE93QjdkZkxFNmpheUdkR1VQNFNBSFdGSGM2aDV6TjVFWXZmOEpqQUV2UFhjVQ?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
-  },
-  {
-    "titulo": "Mercado reduz projeções para inflação e crescimento econômico em 2026 - Agência Brasil",
-    "resumo": "Mercado reduz projeções para inflação e crescimento econômico em 2026 Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzU3Tnlpd0NYeTkwUFFfMWI5Vm1KaDhrTWpubWVWWTlMNDktQUJOUFRvYUpQdW1JMVRiZVAtZVVFdWxTeXNTSUlUclFMTGJNWHE2bE9nM2F2LW5WZkZuakR0NzJuQ3JWSC1yWTFPNFRXN2Jld1pYTDJ1NlhBdHUzYVgyenV4V2hwYV9XSVVqQTFsM09LZlhEeTRNcF83UXdpQjN1RGU4NkhjQk1tdHFNeVg2V3RqYWxJMktRQUhTOWpTQVBZMkNn?oc=5",
-    "fonte": "Agência Brasil",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
+      "WRLD11",
       "CDB 100% CDI"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar a rentabilidade do caixa/CDI"
+    "impacto": "Alto",
+    "explicacao": "pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
   },
   {
-    "titulo": "O Wells Fargo define meta de 8.200 para o S&P 500 em 2027 e aposta nas empresas de hiperescala à medida que o setor de IA amadurece - TradingView",
-    "resumo": "O Wells Fargo define meta de 8.200 para o S&P 500 em 2027 e aposta nas empresas de hiperescala à medida que o setor de IA amadurece TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzYlRuQjQzWWFqZ2ltYmNIUEltYjNqd01oOUMxb09NSEdPYV9DVFI4N1dzdm0ySlNSTm5qTlFQNjdwWVRGU3ZGTG1jQkNZXzczaWt4bUVsdnJQcmFhSEhOaUxfendyVmVpY2dSMlMxVnJPbHdESENr?oc=5",
-    "fonte": "TradingView",
+    "titulo": "Ibovespa vai mudar: índice passará por segunda grande alteração em quase 60 anos - Money Times",
+    "resumo": "Ibovespa vai mudar: índice passará por segunda grande alteração em quase 60 anos Money Times",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUhBREZ6UnMxbEtvYXdQcmJuVWxBZkY0UnVlRzZMVjVrYW13WjVvRzhBTHpuSHFZSlBxLVk1MlFLNzU4VWRvcDNNbld0ZkhYOWduWk9QUmJ4WFFtejJoeFR1dHl4ZFhFUTJHaG1DY1ZwVmplcXcySmJJVDdMYzJNT05OVGViODV2bHhkZEpkRFBBRGUxQzBtSFN5SFZsTGV3Yk5ZMkd4dXdjcno3LVVTbjF5bnoyUQ?oc=5",
+    "fonte": "Money Times",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "B3 vai incorporar ações de empresas brasileiras listadas no exterior ao Ibovespa - Bloomberg Línea Brasil",
+    "resumo": "B3 vai incorporar ações de empresas brasileiras listadas no exterior ao Ibovespa Bloomberg Línea Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3J4Qm0wejdldjdGQ3J6SnRhSzNBTVdSWW12dm9helV2N2JmTEo0azZnUUg2ejdselM4WXBQak5rSUxEdnczVUIwYVJER1hHSWtfUm53bjZkZXlVNkIteWpwQVJEWUp2TzhHZGpyandzR1ZzOWJ4OXFFRThfaUlodGxKaER5UFNreEhwdExzMHdiZElTSWZmMmN2NjBtVG01RFlQdWdfRDRFSDJqbTdHVW8xbHB1eXJtOHNjQmJEYjVTZ9IB1gFBVV95cUxNaEFCZXFDVm9qRjVRVmlwcThhZmh2cENzRlQzTjl3cUZHQmFhN0tNMHNIdV9oalZzQkFucFctbWZfcTkyYXNoWUJ6STVnUjhWNVhxYVljMlVFQnI2N2tmamVkYm4tSlVxZzdneEhrZllzNXpnNmlyT3dWR3h1cXpLN1QzZEhISzFFNDd1dW5zSzkxNi05eHhKdFNfbnVnd2RmLVlDWEVRLUNqWVY1ZFhNemlCdGVZZDFVcE9QaTFyODlGeFlwZkVraXNXMWRBWXlnY2dyOXBR?oc=5",
+    "fonte": "Bloomberg Línea Brasil",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Ibovespa quase recupera tombo de 3 mil pontos, mas devolve ganhos e fecha com alta de 0,31% - Suno - Investimentos Inteligentes",
+    "resumo": "Ibovespa quase recupera tombo de 3 mil pontos, mas devolve ganhos e fecha com alta de 0,31% Suno - Investimentos Inteligentes",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5MWsxQnZybHdLMFJYaTZjU0swOWNUQk43QmNOeXpGWDhTOENJVE9HdGFNSGREckIyNFBZSHQ0ZWxfWGVOQTRMdnk1WC1fbjJMbThLMVZQSnRaSzFVYUYwNGpaOVdqY1pOSlUzTy16NkJmaTJuQUHSAXtBVV95cUxQejVhcVU1Z3NOZDJVZ0FrSGh3UE1PS1RYcVBjT1BnOXRHNWdVa180VXI4WXFfbUVuQWZ3RDdGelNWNmI3MzhfWmZlUEJuSFprOUYzYk9hakZ2U0FFdTF4ZWZHTE83dTFnOXoyZDI5ek11cG42ZDk2MXNjeGM?oc=5",
+    "fonte": "Suno - Investimentos Inteligentes",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia - InfoMoney",
+    "resumo": "Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcU9SaHlPZWNUeHVFTXFRQmtXQjh5Vm94QVpPNGhsQXVaOXdHQ3JDd2FKSW05MG4tTk05VjZUXzUzQXZNTE9XekhSU2dENDVKcWROTWRoSU5GRzY4bERoNjJpNlFXQlVtc3J2dExSUHpuVmRpbktjdHl5NTQzTkcyeXFfZmM0UGhMeE9vUHo1LWJWWDRTU3B0MdIBngFBVV95cUxOMHhKRGNxcUZ5cTNuR0lOaDJ3RE03cE1zeEZPaW5YUzZ1ZXBLLUM0MmhUbGVaZktERkFoUTJVVk1PUnVHOXJIcTBkY084V0ktRlRNYkZrZ2VySUFrZnFJZnRrX0dONGNMTElnM0cycTJjazBsR250TG9JQS1rWGs3X1BUdzhPUHFDal9JZDNHUWhBYUl0UnRNU0JLWE1rdw?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Dow Jones perde mais de 800 pontos, enquanto S&P 500 registra menor fechamento desde julho - Times Brasil | CNBC",
+    "resumo": "Dow Jones perde mais de 800 pontos, enquanto S&P 500 registra menor fechamento desde julho Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTkZEODRPOFlGWjFGWkM4T3RRUDlqOFdlOGtqWFZHbmt3bDVjZUEzWFJDM0xlbU5lRHVadjhPMWpDYTVZN2IzWHdQR0tERUhJck9hbm5xM3MwdHVfVVoxVzRqQklnT0tTSkVFdmR1VUxXZlZPSWhPaXpMSGp1b3hvVmFjbDNueWtQTzMxTHZldE5GamlaT0xIelpNcWkwRzlibVg5OG5TYXk4aFNhb2gtU09KeS1HUGJVdmZON1k0UUFoSzZUZlBxZGRiWFdnZmktQUE?oc=5",
+    "fonte": "Times Brasil | CNBC",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -151,9 +140,21 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Por que o Goldman Sachs espera uma alta do S&P 500 em 2027 - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Por que o Goldman Sachs espera uma alta do S&P 500 em 2027 Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEpQUjRSNG5MWGdHOUwyVkd6NjY4THZ4eDVFR3Z4RFFWWVRFRDM4cVNxWTZ4V1NTeUFlVGxnajkycG1ta0UzOHZhTTRrUGNZbjR1MEoxeDJUbjJMWGJwLWxVOV91MWRDZU1QaEJYTjk2Slh5ZVppV21aLVRxQTNsWWp0eHBmRmZCemJwaENGN2NUaG4yYzB5VGVVT1lraElyU3JuM0JoNklYUURBbi1oVUw2bw?oc=5",
+    "titulo": "Dow Jones cai e Nasdaq sobe leve com varejo dos EUA e espera pela Nvidia - ADVFN",
+    "resumo": "Dow Jones cai e Nasdaq sobe leve com varejo dos EUA e espera pela Nvidia ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTC1hYjQ0Q1VWSmlNaFBKajVTWVFJVHc1UHRPWG9SdEw4TTdvZWw2bFdRdmNkemtVMEc2X3J5R3ZyLU5ZcTJ1TVhhS0NRVlJsUnJEYjNUMFVTeDdCYWxkd1VjTWZDTExoYmVCWS1OTUJLU2IwSkFmSzJRUXRKYS1PZjY5VVNxcEFxUE1lbzFCV3Uxb2RlYXFxTmN5YzUyZE9NdlE?oc=5",
+    "fonte": "ADVFN",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "95% das posições compradas no S&P 500 estão no prejuízo, alerta Citi - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "resumo": "95% das posições compradas no S&P 500 estão no prejuízo, alerta Citi Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlR5N2JkNkRPQVVzRVJzZEk2cGNGN1pLbGRsTE1UOXBTclRobEZPcndHc2lTYnF2NlpsR011OE1jaTRSM0RaY2pkcHdwWUFNaUI1VXh0VXJ5RU1oMzVqeUE1dklyenBhUXlKMWxTZ3NlLWZVU2NvWDlNWFB3cGNMV052dUJGZy1pa3JQeEJZam51LTJYMlFpd0djaGc5VzNwdTltdXBmaS1LYVhoa0p2cWVGRVZyaGdsY254QlNB?oc=5",
     "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
@@ -163,10 +164,10 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "S&P 500 e Nasdaq fecham em baixa, com incerteza em torno da Nvidia pesando sobre ações de tecnologia - UOL Economia",
-    "resumo": "S&P 500 e Nasdaq fecham em baixa, com incerteza em torno da Nvidia pesando sobre ações de tecnologia UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdUx2TF81NUxudUNpd251MmNwSDJLUm5JUVVEQnZBY0JlVklJcFEtWDBRN3lfTXVYLXBycUw2TkM3S1BWZWtnS0MtY3czeXB2VXFLX2VUSUxKcWZNQTI0TDVDWU95V0hmakViMkNoWFRTRWNUTEViXzZyVFNGVFlZYkNWMDVBck00aU5tbkRWSy1nNG1UYVJDclF2NlY5aTBrTk9OV2E3MW9VdkxaSkY0bjJoeUZ5dzg2VGJLNUFmQzRNTFJ1cENWTWlTcVlFRnNiT1VOQTZqZmc4dnc3NkhYV2N6RC1LREhVeUJ4S0c1Zw?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "Nasdaq cai 1% na abertura com cautela antes de balanço da Nvidia - Notícias Agrícolas",
+    "resumo": "Nasdaq cai 1% na abertura com cautela antes de balanço da Nvidia Notícias Agrícolas",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWk1tMFlpbUFBRE9ueTYxSWVLM0tVWV8zeHJLYWFwMnVGVjdTMHQ5Y2NoZ1c0T0loYVNrM1Y1Sm9kTzUzTGMwTnMta0NwS1VmV1hCMDJQTGl3eGVVOGpYanhjU3ZNVlBUMWVkYm56T1FwT0phSFRydndJN0VRVDR5NEcwbkl4N3p3ay05aThnSEtyR0x2SHF6VUYyX2tib00zTmhJZzlmbDVPMDdWWE5fbWlfQ25NbXA5RHA2RmtndmpOaHZlM2Q4dlVkUlNqbFZvNWdHcHlR0gHbAUFVX3lxTE1Xei1JZVFMQlVTaUlMV1dxdDRPQUFIZkNFcGJBZ1dhb1Y1ajUweTJfUmVkeEw2MzgtNkJZWVNHRzh3X0U0QzhGM25XM3NmazJlMm53U3ZFNUhNNzRKOGFQU2NIbWJJSW9LR3BET2tOckx4MjkxQUdDcnlrNjBSUWdiREdCOHN4NVkzS1NWVzF1UkFtU3V4THI0U1gzYl80a1RVUTlBMkY1czY1NjQtek5sX1pERU1oTUlSTk5XckRWUUYyVEZmR2RPb0NOb1pLbnVLVnBvTHVHTEpIRQ?oc=5",
+    "fonte": "Notícias Agrícolas",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -175,15 +176,13 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic - Money Times",
-    "resumo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic Money Times",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd09kQmh6ckZDbEFfZDRzY2JFaXRYRGEydkR0SmpjVjNjY2tSakNzM3A3X204a2UzM2dpRk05R1gzVEdOMTB5eWVzMTdCNXFoZU9jMTJZLXZVal9TS1VQV05IcUV6ZEZ1NkxuU1hoM2N5eXR6d1dsTFZHLXRZbmZFTS1NT0RadmpRd0tzbGYtbDI4YVZjN1pXRlFZOEFrbzlPX0Q3dThablZPRjR4b21PQ2lHYUZQc3dJbTR4bk55VjlPMzNUUmxGeG5oRWQwcHRXVW5rbk9MbUtmSHFY?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "SPCX34"
-    ],
+    "titulo": "FII renova 23 contratos com Banco do Brasil até 2036 - Fiis",
+    "resumo": "FII renova 23 contratos com Banco do Brasil até 2036 Fiis",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByVnBWOG9XaG9DYWY3VXFQRGh6S0xnbkR0NkVvdmZpREFRNnVBdjdQeWliZzJVdGtwQzlmRjNmT3hmcTlfNDRqd1RpZ3lFT0tLUHhPNzQ3MHFYS3cyVDJiRnBCRzRyemQ1OF9LY2tEbHkycG1ncEUzbQ?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "afetados": [],
     "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
+    "explicacao": "impacto indireto ou apenas informativo"
   }
 ]
