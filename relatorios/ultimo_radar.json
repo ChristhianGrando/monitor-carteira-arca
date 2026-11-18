@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Com a Selic em 14,75%, só estes 5 FIIs pagam dividendos acima do CDI; confira - InfoMoney",
-    "resumo": "Com a Selic em 14,75%, só estes 5 FIIs pagam dividendos acima do CDI; confira InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDRIcF9RczFLM2NVMXlPVEdMQVI5YmFORjItUlMtQ0djVGxjNFpuVFRuOFRrZUh5MUNJclBWMnNobnJnT2pmd3BVbUExcFlHY1dXMjBOVm9EYVBSMmJlWlRpUGFRMGdBOXZGOWVVWVMtQ094bVRLbXFfTGlOR3ctcTZETHJjUjlhMWR0cXBZVjhPUk9TTU9FZUVqazc4MjJtTlNUNXdaUFlJY1pVSE5KSDM0Rk8xMVNi0gG-AUFVX3lxTE54ZlMxdG93QzVLYm9tMkd0bXJDbmFJbjltcnNsMllmNUI4UUo1NXphTzJuTVNycG1tSXVZcnJjNUpmRU05d0lTeWhjM2hPUzh4Zm1FSnM4VlI4WDJBS182WjJ4MGFObGtmckViS2dpaDNuMDZCU0l0R0J2QThvX2tDRXZaNU1idnZMaGdlX0RvMEVoQ3Z6cnphNmU1Mkpud19UaUZUNnhFc2pnUjFwZFNhb1dCa3N1OUFiMmFxWVE?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
-    "chave": "deeb6873f734fe52886d43f6fd9047c0b2dc4903a0e9453af01905cacd89176b",
+    "titulo": "Bancos repassam mais altas do que cortes da Selic - SBT News",
+    "resumo": "Bancos repassam mais altas do que cortes da Selic SBT News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONTAtbGNxamtmV1N0cjBnV05WWk9ob2Z6S3RqMVd2NFd2YXdEajNFSE9lcjRGNF9ORzhjNW9rZkYwLW9rWmU2S0pWREgyRnVieWd1OXdXYmxiajI0OVVMRHExQ3gyUFFMSGNIUU1MUFlUblZFUzh4eXJZLWo3NWE5NnhVRVpEdkFiRlAyREdUQlNTbEhUcnhKRw?oc=5",
+    "fonte": "SBT News",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "eca108091efe69d07f02448891785136edb5094e5825f688fbada9dca27e276f",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -16,32 +16,7 @@
       "Caixa / Reserva",
       "Real Estate / FIIs"
     ],
-    "score": 15,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Com dólar a R$ 5,78, máxima em 19 meses, Banco Central anuncia intervenção no câmbio - O GLOBO",
-    "resumo": "Com dólar a R$ 5,78, máxima em 19 meses, Banco Central anuncia intervenção no câmbio O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXlXVk1pLWJya3BxSFNUNzViYUNoVkVTaHRoWGprakhoaXF4QlVJR1VnRlBLZlBBb1VKdzNnNjZEUVRnU1UyS1ZYdGVvR0JSellIS1dieHM5bFlvQkdfWkhlZEdMbHliaTdBNFQ4azlKTnB3bnphc1R0cnhWaUt2YjJWSFREVDVBUFlSSVI5TW1NTjlRaG9qNVZaYjJQeFHSAa4BQVVfeXFMTi1FZmRGZGFWeXBmQVM3Um5TLTUwNDZEcUtacEptSWprc2w3SmE0Z3VWNWZfZW9YWnQ2LWdiNlJIX24yWXhnUk1reGQtQ2dUaU5OVG1FV1VGN0x0SDV0b20yOW93ZXhBYjNyd3o1RWsxd01aMWUwaGZaUDRVaU05SUxyR0xYN3BYOEdhdC1HVTJkd3IxYS0zb3ZFRkR2VDBOMjBMWHd4LTBfa000VTdR?oc=5",
-    "fonte": "O GLOBO",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4f37f6049dad91dbb8288265c17fa29048fc0a4a8eb01d00bc845ea1036fdab8",
-    "ativos": [
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Caixa / Reserva"
-    ],
-    "score": 11,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
@@ -51,19 +26,43 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech - Money Times",
-    "resumo": "Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech Money Times",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYXpUQjVPS0pybzhTZlA5SHpoY3hTbEJPZlhBaXF6WFp2SmlVcXdlMXJ0QWtaMFJiM0FDR0hEdlJvZVJMNFltcm5rNTR3WTBNVXY5VnFfaWE4VkhwRGZTVTE0UG15dDNvOFRsU1pYOUktNE5pWUJqRTVlYnp0R0JyNDZ6empuWDFmZlhCbHRfVTFYZWN3WE9iMHVPR1JIeW4yVnBpX0ZheXNnLUo2Q1pldVNGN0RubFA2WHpZ?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "17cc0b26514013b8d150061898a6e9392bb98e758280e7f6c281f80b696ac635",
+    "titulo": "FIIs vivem melhor momento pós-pandemia, mas têm desconto de crise na Bolsa, diz Kinea - Exame",
+    "resumo": "FIIs vivem melhor momento pós-pandemia, mas têm desconto de crise na Bolsa, diz Kinea Exame",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGJYYTNjRjFRX3RucEJBMjhadnlfbGk5T195cjhTRFdOOEtlbkJsMS1JazlXYkdGQ1l6SHY1ZHZIaUYxazhqdFEtbW45N3VNa0NSRDFxZ1ppNzNLaWV6cWtDeWUwbks2WFNsZWVzNkluYVAyUDMza1BhdllWVGFKbGJSNk85dzMxZFg1dGctOWtYNkF1NmN6R0xXZTBibjNoUGkyS09NdWFQWVdEeGl2VE9lTmVCX3g0TVE?oc=5",
+    "fonte": "Exame",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "5b3bb3f3accd42bb2e64d2b2ca7de5886e8f751842a967d6c0c6f0c2893de388",
     "ativos": [
+      "KNCR11"
+    ],
+    "classes": [
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Ibovespa e dólar hoje: futuro abre em queda e moeda vai a R$ 5,81 - Valor Investe",
+    "resumo": "Ibovespa e dólar hoje: futuro abre em queda e moeda vai a R$ 5,81 Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc2FzVi1vNmZWNGZaRENBRDQzR3FTbF9uTHZJakxjTDZxVUNsLVlEYVh0R0otMDdYVjhwX1FXMVl4VG9mR0xnak1kekc2aU1QMzFXaUNlcldaRU95R29ZcWRPdEVKRVh5Q2JnVkdfNDJPbnBQMi1mVjlDYXBIeDJHRnc2TGExX0RIcEU0WE1GODJxSC0xdjZPZENWQlZUZDU3aFNWMGdvSmdkWTFERmhUc05pUEZIdGZlUExGRXpQVW9sb282OV94VmFjRzItVC1ZN3NlUDJJZHRGMm1HVjhGaTYwYVhYV3Q4OENjMXJ30gH8AUFVX3lxTFBNYzY3aVh1UmlESHpMdlZnQ1hzT2FzNi04U1QzLVN4NjV0WURDb0dZeWRIaEF6X1EydWx1VXNvbjBCbFhGYllhZENBQkluMWVrOGlRMnNucFBaeGtqaGxqNHlocmJSUGdveUYwTVZuMFo1MlMzdmhzVGlSZENTMDl3enBiMEhHNzdqMEZRU0lDcWJMV1Q0NkE4cGUyY3N2R1F2ZjZHQk80YU8xY1p0SVQzeXdEX2dycG5sNG1GOUtrcDR5bnM0T2g1U21ObjlKQkRudHVuUXQzTFd6UklLQmhYLTQ5Sl9IblFyUWY5SWF0MjBNZksyeGk3WlNuaA?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "c564aebfea5fdf84f7c29c7f3df6c01671ae583ae26423391709ddc67de6caa6",
+    "ativos": [
+      "IBOB11",
       "WRLD11"
     ],
     "classes": [
-      "Ativos Internacionais"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
@@ -73,44 +72,44 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Um oásis na crise da Nvidia? O S&P ‘equal-weight’ - Brazil Journal",
-    "resumo": "Um oásis na crise da Nvidia? O S&P ‘equal-weight’ Brazil Journal",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUtkanRhRS1rV203eC01VlNwSTFiVTFCbHlhdXprUFJiaVFMTndQdnBLOFpxOVdYTjZlTGRBMWNmZ2RkRUhXazhNSUFZNXNsWm9oeDlNOTBuY3U3bE5qZEVmRnozWW1KRmdPYWo3dTdpbl9BUmhiQTh6UnZsbWQwYnZR?oc=5",
-    "fonte": "Brazil Journal",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "dd52b3b0ebe45e38488074d75d52f5db3b91350c8c21e607b2daab0cb44d7b2e",
-    "ativos": [
-      "KNCR11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
-    ],
-    "score": 9,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "CDI: por que três letras podem mudar quanto seu dinheiro rende? - Suno - Investimentos Inteligentes",
-    "resumo": "CDI: por que três letras podem mudar quanto seu dinheiro rende? Suno - Investimentos Inteligentes",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzRQWFhVU0N5dG4tWDBVcW5vSi1SMEtQOVVJYXJvU2JEWkFhN3Z4TGVyVnFPTW1yVC1RNlA1cHBsQ3h2OVE3ZkU3WVlqYzBFRll3UW1QQUx0YmxiMHp3NU1zNU9TSTRUTWFOU0ItOFBkYXlweDNJbEx1X004Zl9PYko3OXBYcGRGU05QTjlBNmLSAZYBQVVfeXFMUER3cnZsSFlnU1BLeXotQ3UyWGZLZDJ1X2lxMVVTTXRBMVRqVVlrUEhIUFdsWjNjOHE3a1lqM3RmZkdBU1VnWWFwdy1xVVFzTW0tM0FpOVBGYUQ5R053R3FSQjZzX2d4aE1FQkVNZ05mZ1RxOHIzVnViSVc1M1hhVjVCancwZTcta3g5Wjk0SW1CbThLLWNB?oc=5",
-    "fonte": "Suno - Investimentos Inteligentes",
+    "titulo": "Com caso Master, Banco Central bate recorde de liquidações em 24 anos - UOL Economia",
+    "resumo": "Com caso Master, Banco Central bate recorde de liquidações em 24 anos UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVJyeEpqZHJQdEVyX0pqX0JRa3RSOXJyMkJNeGotVkozLUhLMmg5Q25uclZnVml0WlVvbXRlWkQ4U08zSGFOSWdiVFY4czdvZmNrOVBSTnc5QmdoYjEtTHczR29scDk0TjdzRXpzbGZfMHBGSHZiZVM4Y3FFZElBRlA4ME5WRlI5bGV4RjZRYS01YS1sc0QxRFlDcFB2ZHZ1V2lPZ0lRa1o4emY5ZDBPeE0ta2pwLXI1N1hESk1vaVlTMkVOYWpuZ0ZZQXM?oc=5",
+    "fonte": "UOL Economia",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3c09216dba22177baaac82e1cc7d21bcf8f9cdd7484f4fee03edaf09f7d35411",
+    "chave": "69ea99191f2742a7de757b773fd976553c3901cee4564d0266f4d962c66eb76d",
     "ativos": [
-      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Caixa / Reserva"
     ],
-    "score": 9,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Por que 2026 foi o ano com mais liquidações pelo Banco Central desde 2002 - Metrópoles",
+    "resumo": "Por que 2026 foi o ano com mais liquidações pelo Banco Central desde 2002 Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFRyVUYybFNuYWNRZHdlMEtGbVdBbnd5dWVIMjRraHBKVFNtY093TkxybEdzZldnbWQ4Y2lNNDJnbmJiNWJDSG1IN290LUR2THB1MUVUeDVMZWE2aTVBZ1VsT0psQVJxcnRBNXFaeFFtaWZuSFQ5dHhnSkpoRHBuUVVoTWswSG5hTThFZWZFbUx1Rml0NndoY01ncDE2YmxaeG16VlhNdG9zX3M?oc=5",
+    "fonte": "Metrópoles",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "5ee7c7c0af2e883579a039145d582bdfbeffb8f6d5758ca826d5b3c37a2a577c",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
     "tipo": "Acompanhamento",
