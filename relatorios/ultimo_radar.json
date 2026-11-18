@@ -1,42 +1,16 @@
 [
   {
-    "titulo": "Bancos repassam mais altas do que cortes da Selic - SBT News",
-    "resumo": "Bancos repassam mais altas do que cortes da Selic SBT News",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONTAtbGNxamtmV1N0cjBnV05WWk9ob2Z6S3RqMVd2NFd2YXdEajNFSE9lcjRGNF9ORzhjNW9rZkYwLW9rWmU2S0pWREgyRnVieWd1OXdXYmxiajI0OVVMRHExQ3gyUFFMSGNIUU1MUFlUblZFUzh4eXJZLWo3NWE5NnhVRVpEdkFiRlAyREdUQlNTbEhUcnhKRw?oc=5",
-    "fonte": "SBT News",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "eca108091efe69d07f02448891785136edb5094e5825f688fbada9dca27e276f",
+    "titulo": "Dow Jones despenca mais de 500 pontos; S&P 500 amarga quinta queda seguida com recuo das ações da Nvidia - Times Brasil | CNBC",
+    "resumo": "Dow Jones despenca mais de 500 pontos; S&P 500 amarga quinta queda seguida com recuo das ações da Nvidia Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcS05NW9BS2JmVGVuZVFUTlBQUWJhR290NzdXX0tlZk91dE1LR2VnT2tRanN0d3YxaTNid2NUcGxjQXBKVk1HemhpOFBOdjVlXzVlNXlXNFo5Ty1BX0p2VEFFTXpKbmw1QU5URnJfbERXTG1QLUV1NGFYZzNzMWFrYnFyOHJ1WVY4NldaM01QaTBJclpCLUVIMVFpNGlKd0N4NEZpbFotMkprRjVGaVpUTUZLdmh4bVpqeHd4MUZobDlQMi1Yd1h0WmFxU2l2dGI0SG1RdmNZYmZfbEltT0d2U1JnSWU?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "882e11dc40a5326e92f2f5921efe40acee4e41ba0fa1eae781ad7a6bc1060c45",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "FIIs vivem melhor momento pós-pandemia, mas têm desconto de crise na Bolsa, diz Kinea - Exame",
-    "resumo": "FIIs vivem melhor momento pós-pandemia, mas têm desconto de crise na Bolsa, diz Kinea Exame",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGJYYTNjRjFRX3RucEJBMjhadnlfbGk5T195cjhTRFdOOEtlbkJsMS1JazlXYkdGQ1l6SHY1ZHZIaUYxazhqdFEtbW45N3VNa0NSRDFxZ1ppNzNLaWV6cWtDeWUwbks2WFNsZWVzNkluYVAyUDMza1BhdllWVGFKbGJSNk85dzMxZFg1dGctOWtYNkF1NmN6R0xXZTBibjNoUGkyS09NdWFQWVdEeGl2VE9lTmVCX3g0TVE?oc=5",
-    "fonte": "Exame",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "5b3bb3f3accd42bb2e64d2b2ca7de5886e8f751842a967d6c0c6f0c2893de388",
-    "ativos": [
-      "KNCR11"
-    ],
-    "classes": [
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
     "score": 12,
     "motivos": [
@@ -48,12 +22,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa e dólar hoje: futuro abre em queda e moeda vai a R$ 5,81 - Valor Investe",
-    "resumo": "Ibovespa e dólar hoje: futuro abre em queda e moeda vai a R$ 5,81 Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc2FzVi1vNmZWNGZaRENBRDQzR3FTbF9uTHZJakxjTDZxVUNsLVlEYVh0R0otMDdYVjhwX1FXMVl4VG9mR0xnak1kekc2aU1QMzFXaUNlcldaRU95R29ZcWRPdEVKRVh5Q2JnVkdfNDJPbnBQMi1mVjlDYXBIeDJHRnc2TGExX0RIcEU0WE1GODJxSC0xdjZPZENWQlZUZDU3aFNWMGdvSmdkWTFERmhUc05pUEZIdGZlUExGRXpQVW9sb282OV94VmFjRzItVC1ZN3NlUDJJZHRGMm1HVjhGaTYwYVhYV3Q4OENjMXJ30gH8AUFVX3lxTFBNYzY3aVh1UmlESHpMdlZnQ1hzT2FzNi04U1QzLVN4NjV0WURDb0dZeWRIaEF6X1EydWx1VXNvbjBCbFhGYllhZENBQkluMWVrOGlRMnNucFBaeGtqaGxqNHlocmJSUGdveUYwTVZuMFo1MlMzdmhzVGlSZENTMDl3enBiMEhHNzdqMEZRU0lDcWJMV1Q0NkE4cGUyY3N2R1F2ZjZHQk80YU8xY1p0SVQzeXdEX2dycG5sNG1GOUtrcDR5bnM0T2g1U21ObjlKQkRudHVuUXQzTFd6UklLQmhYLTQ5Sl9IblFyUWY5SWF0MjBNZksyeGk3WlNuaA?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Ibovespa perde mais de 2 mil pontos, dólar chega a R$ 5,86 e Vale (VALE3) cai pela 7ª vez - Suno - Investimentos Inteligentes",
+    "resumo": "Ibovespa perde mais de 2 mil pontos, dólar chega a R$ 5,86 e Vale (VALE3) cai pela 7ª vez Suno - Investimentos Inteligentes",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CV19OcTZ5WEZXTlptNWRZV05JazBoY2xqM2lQWnZkUWtyb3NaUkZRM2x0NXBYSGpxMUlmTmYzbjFmcjBsczRuczBEc0JVZ3hINnhsNHdFSnlJT09xdk83ck1sci1sNkx4OUlaQngzeGIydGdRbkFWeWxSc9IBgAFBVV95cUxQTjVVdTRGT0l2UlVPb3JOXzNQc3RfeW82dW90cTBsZFZ2dWtFa21HMzg4dVd1OU1ERzZkRnFHRFU3bWVacnpweWZMWFNZMzdJREUySHpqRjJCc2wtLWFGYndMWnRCUHFFbFBIM0lTak15dGtvSk5KZ3JHV3pBNTBNNQ?oc=5",
+    "fonte": "Suno - Investimentos Inteligentes",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c564aebfea5fdf84f7c29c7f3df6c01671ae583ae26423391709ddc67de6caa6",
+    "chave": "076c4d40119d2a885ce8524733d375bac272f8c4360be17909e96802409b2874",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -72,47 +46,74 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Com caso Master, Banco Central bate recorde de liquidações em 24 anos - UOL Economia",
-    "resumo": "Com caso Master, Banco Central bate recorde de liquidações em 24 anos UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVJyeEpqZHJQdEVyX0pqX0JRa3RSOXJyMkJNeGotVkozLUhLMmg5Q25uclZnVml0WlVvbXRlWkQ4U08zSGFOSWdiVFY4czdvZmNrOVBSTnc5QmdoYjEtTHczR29scDk0TjdzRXpzbGZfMHBGSHZiZVM4Y3FFZElBRlA4ME5WRlI5bGV4RjZRYS01YS1sc0QxRFlDcFB2ZHZ1V2lPZ0lRa1o4emY5ZDBPeE0ta2pwLXI1N1hESk1vaVlTMkVOYWpuZ0ZZQXM?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "69ea99191f2742a7de757b773fd976553c3901cee4564d0266f4d962c66eb76d",
+    "titulo": "Ibovespa e dólar hoje: bolsa cai mais de 1% e moeda vai a R$ 5,84, de olho em ajuste fiscal - Valor Investe",
+    "resumo": "Ibovespa e dólar hoje: bolsa cai mais de 1% e moeda vai a R$ 5,84, de olho em ajuste fiscal Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc2FzVi1vNmZWNGZaRENBRDQzR3FTbF9uTHZJakxjTDZxVUNsLVlEYVh0R0otMDdYVjhwX1FXMVl4VG9mR0xnak1kekc2aU1QMzFXaUNlcldaRU95R29ZcWRPdEVKRVh5Q2JnVkdfNDJPbnBQMi1mVjlDYXBIeDJHRnc2TGExX0RIcEU0WE1GODJxSC0xdjZPZENWQlZUZDU3aFNWMGdvSmdkWTFERmhUc05pUEZIdGZlUExGRXpQVW9sb282OV94VmFjRzItVC1ZN3NlUDJJZHRGMm1HVjhGaTYwYVhYV3Q4OENjMXJ30gH8AUFVX3lxTFBNYzY3aVh1UmlESHpMdlZnQ1hzT2FzNi04U1QzLVN4NjV0WURDb0dZeWRIaEF6X1EydWx1VXNvbjBCbFhGYllhZENBQkluMWVrOGlRMnNucFBaeGtqaGxqNHlocmJSUGdveUYwTVZuMFo1MlMzdmhzVGlSZENTMDl3enBiMEhHNzdqMEZRU0lDcWJMV1Q0NkE4cGUyY3N2R1F2ZjZHQk80YU8xY1p0SVQzeXdEX2dycG5sNG1GOUtrcDR5bnM0T2g1U21ObjlKQkRudHVuUXQzTFd6UklLQmhYLTQ5Sl9IblFyUWY5SWF0MjBNZksyeGk3WlNuaA?oc=5",
+    "fonte": "Valor Investe",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "59c0f7f815e9c215f2d19b25dcdbac2c229ea18c431995f687f4df80a6a6dd33",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Por que 2026 foi o ano com mais liquidações pelo Banco Central desde 2002 - Metrópoles",
-    "resumo": "Por que 2026 foi o ano com mais liquidações pelo Banco Central desde 2002 Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFRyVUYybFNuYWNRZHdlMEtGbVdBbnd5dWVIMjRraHBKVFNtY093TkxybEdzZldnbWQ4Y2lNNDJnbmJiNWJDSG1IN290LUR2THB1MUVUeDVMZWE2aTVBZ1VsT0psQVJxcnRBNXFaeFFtaWZuSFQ5dHhnSkpoRHBuUVVoTWswSG5hTThFZWZFbUx1Rml0NndoY01ncDE2YmxaeG16VlhNdG9zX3M?oc=5",
-    "fonte": "Metrópoles",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "5ee7c7c0af2e883579a039145d582bdfbeffb8f6d5758ca826d5b3c37a2a577c",
+    "titulo": "Ibovespa cai com impasse fiscal no Senado e temor de “choque de juros” nos EUA - VEJA",
+    "resumo": "Ibovespa cai com impasse fiscal no Senado e temor de “choque de juros” nos EUA VEJA",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQako5OHZ1Mlo4a3ozdDczOXM3ZjJLRThmVy1hT1pXdEVXU2RFY2hkY293QXllenJ0a2V4MlRBQmFRNE1DUzcyVVRNTDN6Y0I4cXNBZ1B4dlczdzVXbGZCR1RERmdhRnNGakJwazVneGlpZzdtX0d4MWxyeWdfem5DaUJlN0VLeUJFVzIwRmxTelhfamJUMVBYMVJTdmJVVFVkek85N2JJT0s2MnU4RW51X3d3?oc=5",
+    "fonte": "VEJA",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "9d19b238147310ecaba00d83e8c214f27dd3c9a2ed9d8cb246e3572ebc528fb8",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "WRLD11"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 10,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Queda da Nvidia pesa em NY antes de ata do Fed sobre os juros; mercado monitora IPO da Anthropic - Estadão",
+    "resumo": "Queda da Nvidia pesa em NY antes de ata do Fed sobre os juros; mercado monitora IPO da Anthropic Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRkd3dko5M1ZPdGhycnNOdm5FYXhSQUtmOFYzZVpQajZobEF0Yy1lZUdCdHJsb0hDc1pWNUNhYmczRG83TEFTZUxPUWtIdWpnc0ZPbVJWM2xJUWpHbnZuTkxvYV9QQ3VjT0VHYzMzOVNQX2VtbXpWcVZfSGdBWGlRVmN2Mkh2V1dzTmNqMm9wd2ZUYWVjdkZseFVIdU5HdUdWRFplMTJGVTI5Rk9VSEVOUjRWeWs1dU9wWFZVaXJoaUZuVWRoa0w5NEkzQmhwVnQ2SnN0SzEzNk0yOWxoVkRGak9XR2ZvZTBuVHc0VWpWWdIB9AFBVV95cUxNYldvbmVRQVZaWVY4dGIzdXFxZWRrdWlVOW1aLVd5MThHZ25kekU3b21jNWQ2bnBxOXpfdG1GT284R01yXzR5NzlVTkFCRHlJTC1LMk1Oc1B1anJwTzIyZ2JITEhYckRtWV9SOTJsd3FjOUV4bGxrd3JqUlF1emJENWFQQ3lVb1JrNUpBdTl1Z0lCVkZsSlFNRTlRMF9GNS11NE9TZzhOa25lMzhMbzRXWVZpbUlidFBCZUlWWjJWbGhLTnRjeEtSc05uLW9EaDJUNFozMExDVklGdXZTRWZFNVpHb0lYbWxFcHJ2Rm0wTVFwc0R4?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "10470b85f2fd800f8b45d9936c0555dc8fc132e9d813cad279e2b293b0b1dd1c",
+    "ativos": [
+      "WRLD11",
+      "SPCX34"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
