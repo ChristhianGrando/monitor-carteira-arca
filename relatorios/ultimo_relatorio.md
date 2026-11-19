@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 19/11/2026 02:04
+# Relatório da Carteira ARCA — 19/11/2026 19:38
 
 ## Carteira monitorada
 
@@ -12,132 +12,132 @@
 
 ## Resumo
 
-Notícias coletadas agora: 49.
-Notícias novas, ainda não enviadas antes: 34.
+Notícias coletadas agora: 50.
+Notícias novas, ainda não enviadas antes: 42.
 
-Foram selecionadas 15 notícias relevantes para este envio: 5 de alto impacto, 6 de médio impacto e 4 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 8 de alto impacto, 7 de médio impacto e 0 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Ibovespa tem novo dia de baixa ampla e dólar dispara mais uma vez, a R$ 5,86 - InfoMoney
+### 1. Ibovespa recua após falas de Lula e intervenção do BC no dólar - UOL Economia
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11
+- Fonte: UOL Economia
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR1dtRkE1aWw3NmpFYmhlUjhTRUpwS0NrNHZPcUtwSkxWbGZzQVpXRng3VTFibVlfVklIaXZneTZjQTJ4TVBDdjBNSDlZYzFwaTBSVm1KTUZEM3BoaDdzUk9rZGVGczBhakNERE9TZ3NGQjY1MXBkLTdPOFVvX054dURsWk8zc3pyY0tjMEZjUnI3NHBZdzdNd3lqUzVRZDVZNG9mSFpYSkNRZlBmZFJRLVFyQkZ1dW1tRm9VaE9hdThndlVPMi11bmxmWmk4cFphcE5DV29lcmVvbms?oc=5
+
+### 2. Ibovespa Hoje Ao Vivo: Bolsa cai após intervenção do BC no dólar, que sobe a R$ 5,92 - InfoMoney
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, WRLD11
 - Fonte: InfoMoney
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxOVE05ZDljM2M1OXV5NVFIUjZwLV9qRFNpZWtHSDdGNlBrLUhGQ2NaWGFoc2JraThoNmYxb1hOdU9iS2hVMmlIZGlSaHlpMVlsREhmTDVCNWNWV0EweTlvNi1oWjhpTWZxeXFnT29tb3lqaFE0aVpkVEU2cGpaa2h2V2dpLXliQ1BObEs5V0lsRQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21JcVpKdTE1VllmY05QQ25IaHVfOGNEZGhUU0V2OXhlS0s4Z1BWcC1TeWgtNkpPdG1uM1AtajNtYWpqVzFZZEVISFBWSWUtVjFyNFc1QjBFSUZGT1FPWXhYNFRFMWEyYU1mRjVXMkxFS3VPOGU4NFFEajEwWGxEYVUxb3JCN3Nfdm5VWkNBQQ?oc=5
 
-### 2. Ibovespa perde mais de 2 mil pontos, dólar chega a R$ 5,86 e Vale (VALE3) cai pela 7ª vez - Suno - Investimentos Inteligentes
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Suno - Investimentos Inteligentes
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5CV19OcTZ5WEZXTlptNWRZV05JazBoY2xqM2lQWnZkUWtyb3NaUkZRM2x0NXBYSGpxMUlmTmYzbjFmcjBsczRuczBEc0JVZ3hINnhsNHdFSnlJT09xdk83ck1sci1sNkx4OUlaQngzeGIydGdRbkFWeWxSc9IBgAFBVV95cUxQTjVVdTRGT0l2UlVPb3JOXzNQc3RfeW82dW90cTBsZFZ2dWtFa21HMzg4dVd1OU1ERzZkRnFHRFU3bWVacnpweWZMWFNZMzdJREUySHpqRjJCc2wtLWFGYndMWnRCUHFFbFBIM0lTak15dGtvSk5KZ3JHV3pBNTBNNQ?oc=5
-
-### 3. BC: Como a Selic afeta as condições de financiamento - Monitor Mercantil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Monitor Mercantil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGRZYXBlQjV2c1dIc25NNzE3TmYwVlhBUzlxQVl0b09tTG5kOW1RcEV2d3JDbTBsV3ZVN05FYTY5SlBRXzgtT19oUk9uaDhXQ2dTQU0zaXF0UG9hMXlRb3FmRGQ0cURwaG11UjVvSmJycUJHZ1Q3UmtWdzN3Vzd5amIwWlF0VVQyVkJzTg?oc=5
-
-### 4. Dólar dispara a R$ 5,86, maior valor desde abril de 2025; Ibovespa cai com impasse no ajuste fiscal - G1
+### 3. Ibovespa recua com mercado atento ao ajuste fiscal; dólar chega a R$ 5,90 - Exame
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, WRLD11
-- Fonte: G1
+- Fonte: Exame
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE13YjNxbXVkRl9iZHA2VUYtT2UyM3o3Q0FPUm52Z1RucDVNZzRfVDZfZnA1YTZMMGxoaDBsTkdoLTFNeVFaUklHQ1dFT1FqbVdSd0tWNXEtN25icWpuYUtXbV9WaHZtTVFETlhqTDhhbENuRGdFbW5pMtIBhwFBVV95cUxQalJhSE1nMjRqVTBhTGRFRkMwY1VOdndybDRTVjVhc0xlS0ZnellnUjlhOHotbDgyZVdiaWxKLTJKbm9OTlpFSHp3d2w0QnJ3RzBtMmxFaTNGaUNaMkZFNDM3TlJmR0hTY1dxUGUta3QzSXRQaGFIQXBySVAtVHdEby0zWThvY1U?oc=5
+- Link: https://news.google.com/rss/articles/CBMia0FVX3lxTE5EcVBycVMwTTJhYlBKN0syZkU5ZmdZdnhPVFU4VmdFc2xYZGIybmlxV09qTGR0eVkwamVlb0FOc1g1ME1OZ29ZVU4tdFI5LTRrMmhxZWQ2N01jeEZSRXR5cHhyQXJnVEtfOWJZ?oc=5
 
-### 5. O dilema da taxa Selic - AEPET
+### 4. Meio-Dia Mercado: Ibovespa instável e dólar em alta com pacote econômico, Wall Street reage ao IPO da Anthropic - ADVFN
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: AEPET
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwZWtIcnZld28yc0dXdGo4MXlLNTZyRFhfR0JmaWVPRUQtb2tDRzgtYWJXWW9yNXA2ck1QdkpMa3ppc1Z4eXI1aHdxZk5wMGNULXF5S0hMTXp6Zlc5dHIxVQ?oc=5
+- Ativos afetados: IBOB11, WRLD11, SPCX34
+- Fonte: ADVFN
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQWtsLVp1ZUtXS3JaT2JyRnNJYzhnOUxVb1BMbTZhWGltclg4Qm5aVUxtMDZUaDlQTExfODJvTlpseVhlUFA4ajY4M29YZDN1andhc0wtLW5ockNrT1huQnEwSk9DMFZxNDJRd1lSS3F1Z1o3NmFGcTktRWQ2T2ZPc1pZcGg4VHpnRWNnSm5ZUmE4R3B2WHJzdnFHLWtQMmFSVmtoWXRSbVNXdHpMYTNkb3dzbzV0NkVpc282S2tBZm11VXN0eWQzLXd3WkJSdUNNc1lfejFmdlZqb1hRN1E?oc=5
 
-### 6. Fechamento (18/11) | Ibovespa acompanha recuo do petróleo e perde 1,34%, aos 167.537 pontos - InvesTalk
+### 5. Ibovespa abre em alta e futuros da Nasdaq sobem 2% com IPO da Anthropic - Portal do Agronegócio
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11, SPCX34
+- Fonte: Portal do Agronegócio
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXVhMk9KelVMbUZUSXdoelV4SWF5V2F6eGVGTk5WT3BBX2ZnSXpDdmVONkRZNWNyd2pTdkF0MVlwZWJhRERvYTJldUNmamhPUXpYRGZJRmZoWjRMQmpoTVFpMWhyNmVVajVYWHNXdDhxb1pmcGdHU2lXY1AtTUx6aFJTY1FLUThZUjZDYkc4M1RISmZJeW1hYzQ5Ul8xZFViSEVPNFB5eXk5bzhTUHZCTURSaEJFSmhab090SEpnLUVnYzU5cUd3eGZhSklFQVhKYVRjcjMtV1JJbk1hYkJJ?oc=5
+
+### 6. Wall Street fecha mista após balanço da Nvidia e ata do Fed - CNN Brasil
+
+- Impacto: Alto
+- Ativos afetados: WRLD11
+- Fonte: CNN Brasil
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOTElIZkowakFqVDV4YnB5RVNzUGdhVmtMV1J4MldkTlpSTHJjRDlOMXh6U2IxSmJUc2tpSFU0RW9JV1lPZmpGTzFTUlE1UkhmQVVUNVI1ODlSa3J6Q3E4M0ljRVVYV2JybFRRSnEwcEkta1pCNExOY3pUVHNMWWZDaXM5WHcxd2c?oc=5
+
+### 7. Maior IPO da história: Anthropic supera desconfiança com IA e vale mais que a SpaceX, de Ellon Musk - ConvergenciaDigital
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, SPCX34
+- Fonte: ConvergenciaDigital
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMl9iZXpnZU5BUjJuZGxIVDRRX090QWxHcWxPUFJYVkVTRVRtZ2NzZHQ1U2hyeVgzODZkZV9CWGM0dHpnMWx2eWpWeHFyS0N2RzBRUDJiSVBVb0taaDFxMFplYWtfZXhKWnhFdHR1ZDV2YXRWa0hTQkJZOW5sdWZWdXFXY2NpMENicVB6Qy1sNkZ4eEVnSU5YSkQ1UjJWbVRVaXJyaFcwaGRLLWsxdFVJV3JVY3hZc3dHdVZVeHYya3VYWGYwYU4wX295eUlNdVo0aGVxZ2VJUGY?oc=5
+
+### 8. HGRU11: FII com vacância quase zero paga dividendos de 10% ao ano - Fiis
+
+- Impacto: Alto
+- Ativos afetados: HGLG11, KNRI11
+- Fonte: Fiis
+- Explicação: pode afetar FIIs de tijolo, vacância ou aluguéis
+- Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9IcGpVU3dveDFTUk1vWXZGblNjSnpyOU9xNjBSVjEwRmtaRThPWDNPdUR1Z2huYlgxTUI2LXNmdWJPc3U5dzQ4WURvc1k3cW0zUEdyYmhFYUJwanBLN0REVHViR0xESGtnb3g1NDNiNWxWM1RVVFVKckRvbGY?oc=5
+
+### 9. Ibovespa tem leve alta após aprovação do pacote fiscal pelo Senado - VEJA
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: InvesTalk
+- Fonte: VEJA
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE41OUlSdmpFY3Z4M1JPNXRXb01JTERSZFk5RkRaVUNnX0xGQVJSUm5vWUhXeFQ3UzdjZTNoTWZCaVVWbXhyR3NFa2hnNUFDanNGakdNcDI4cjFSbUFjUGt3M3FfQTE0ZWdvX2RJS0ZxUlRheHlUbEE?oc=5
+- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlJXYWFVVndfbVJIUnpmNnY3NVVGcFlKYmxITlMtQm1yVnphQXozUl9ZYlM1VzU5ZFhkNmdhU2lOa283TXIxb2ZtT21maHNXSXBWdG1BdF9tUmJYc2o2YUM1cE5iVGROemVsR0xOeVBkbXNiTTk2UXJQMGZ5YjdZUUhhRVVMZEtDc05aRVR0VUNsVjdQZlFOeUJpYzF4R3BwN2lEUA?oc=5
 
-### 7. Wall Street fecha mista com tombo da UnitedHealth e virada da Nvidia; Nasdaq sobe - ADVFN
+### 10. Dólar sobe após bater máxima a R$ 5,93, na maior cotação em 19 meses - Estadão
+
+- Impacto: Médio
+- Ativos afetados: IBOB11, WRLD11
+- Fonte: Estadão
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM0RZR3FtdGNiaEZfak1xMHVxVmxWRTJ0TlAtVWxPVk10S2tNXzV6a182V3lLWlBWdk9uVndONmxWSUczZ21sbHdVdTNNQU5CV0hMUzhCaUFFWjc0NmxIMzdlVnpYTkdkcGNJa1ZPdFZIVE01RlRpckU2UXBSTV9acjFMekhMZUhvVFM0MXJjbnRpTjc2d2FxQTlkTDZBdW5UY09VQmctYzZBVmtMdl9RSk1wYmkyQ2t3Uk9uRi1Ea042WFlFZ1RvaFcxcW5lWGNmMkJiVHpsb2c4c1BCOWpwakhLLVU4clFJLXfSAe8BQVVfeXFMTjBRbU93NEhWTnpoU2Y3dnlBSFNaOTNsVGNySWhTWDlRdTQyNVJLSjdHaE9ZY3h1V1doQUR6NE5UTkVxMmF3S0FacHgtNU9RLXR0Q3B1VTJhWkdLWkFoV095VEZfYmdLOGh6Nk1salo2NXg0S2JPb0pQNFR6RVVjbUVvdU9FcUtNeFY3NGVMSGFBYzlOTmViT296d3JjdS1Cc0YtSDVNS2l6V1p0UUJSTkNPRGdoaWpxRk9hdGw3QS1VYjFWUUpUc3M0eDJRSzd6VjAtSkJKa3o1d1BlUjdmUmthMGZpYU55ZVV6YldDaFE?oc=5
+
+### 11. Nasdaq passa a cair forte após Anthropic ser avaliada em mais de US$ 2 tri em estreia - InfoMoney
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: ADVFN
+- Fonte: InfoMoney
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNNy16dEloamMzN004dm1WSUF5NDlhMlgyNmdaVVRDQjNodVhoU1FPcFpFMExuRGpacEF5aUhrVXZMeGxueW1MMGNBc0lyWjJuYVNPXzBWXy1hU1UwakVRVlRRSmRkX1ZpRHFEdUV0Vld2Q2s4aXNCWmVQZV9PWERzeDFNTW9DNWtCdWFvLQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVhDNEFsOExNNWNyN0FWQW9XZFRDZTl6RHFoejVMTmNqLXlCSjJRcjBRSmtzUzA0LWp2b2xTUVJmMHNPbXJwOUdJMGJZMmwtcmw4b0VLTWpYOWJZMWZUd1dIT252SUpxVDNXVHFJS3FNbzJBVXNIa25zdG1BeFBBLTB4V3doS2Q0WWw1bVdKTXpfZ9IBlwFBVV95cUxPdmtDOFhScFNQMGpYY0FybF9CNXVWWXA3ZWVJODdIZDdteXdPaG9TaklNUF82Y3ZycjlxYlgwNGxEcnh6MzVDU3ZqTUotb3FrVHQ1N2NESTMxMlFiUWJXd1JzMGFGVlJyclhiNlRxRVBCMERmZ0NZRzlWMXR4TEpzc2tjcDNadF8xcDJObkRQQnV3eWlIWXU0?oc=5
 
-### 8. Dow Jones despenca mais de 500 pontos; S&P 500 amarga quinta queda seguida com recuo das ações da Nvidia - Times Brasil | CNBC
+### 12. Futuros Nasdaq sobem 560 pontos: 5 coisas para saber antes da abertura de Wall Street - TradingView
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: Times Brasil | CNBC
+- Fonte: TradingView
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcS05NW9BS2JmVGVuZVFUTlBQUWJhR290NzdXX0tlZk91dE1LR2VnT2tRanN0d3YxaTNid2NUcGxjQXBKVk1HemhpOFBOdjVlXzVlNXlXNFo5Ty1BX0p2VEFFTXpKbmw1QU5URnJfbERXTG1QLUV1NGFYZzNzMWFrYnFyOHJ1WVY4NldaM01QaTBJclpCLUVIMVFpNGlKd0N4NEZpbFotMkprRjVGaVpUTUZLdmh4bVpqeHd4MUZobDlQMi1Yd1h0WmFxU2l2dGI0SG1RdmNZYmZfbEltT0d2U1JnSWU?oc=5
+- Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGOXlvRTFCanFBZVlFYVRoT20wYnFHdS1uaF94a2NheXlKeVJZdVk3UWZobGlvbFA4ZDlVUnVQeHdKM0pBaW5OZ1F2WkZJaGNkVUtXeHUtMjNnLUpDOU5xenNSdXV2dw?oc=5
 
-### 9. Anthropic pode superar SpaceX e fazer maior IPO da história; veja os números - InvestNews
+### 13. Nasdaq passa a cair após Anthropic ser avaliada em mais de US$2 trilhões em estreia na Nasdaq - Terra
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Terra
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxQSEJjb1JiQjU0M3NDQXY3MnRGbUduRkVnaF9iV3F2bGRieUtvZ1NNYm9wXzhJOXJRTUpGN2xNM2oybm9JQW5sZUpUcFE0bDF5MHRORjVnQk9PNkpUdVktb0xvQ3V3aVlmZzMzRDhuV0IxZ2R6ZTVPQlJ6VTFZMHdFQVVvQ2lkU0lQdWVuTjVzX2g2eHhoZ29LZXRHS2M2NW9keXp2NEN3aXdLNnBsRkdhYWZ6bEtiRWRRRmIxcWNCSWRCb0JPYXJuWWh4WE51OE8zNktvcnZzTFNZM2Z5N29DeXZZU3lnTml4a0pTWFd1cS1VNURadGlxcVZvdXktYjNWdHc?oc=5
+
+### 14. O UBS prevê que o S&P 500 chegue a 8.200 até o final de 2027, impulsionado pelos sólidos resultados financeiros e pela resiliência da economia - TradingView
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: TradingView
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTjNlWU9BYWw2TTY2UjRoZDhfWkd4MDBlVDlVbmtkdGpIcm1LNWlPT1dSZFNaNkJkdEFjUU55NzRraWc5Rnk3UE96akVobENzcWRyNllDdC1VbTVqNG1wblNBT0lkTzV3WGRiTE5SZGw2NWR0VUpv?oc=5
+
+### 15. Ucrânia quer usar Starlink como arma de guerra, diz Elon Musk - Canaltech
 
 - Impacto: Médio
 - Ativos afetados: SPCX34
-- Fonte: InvestNews
+- Fonte: Canaltech
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVQ5MWY3aDZrS193QnJhYzMxazlFYWduUGh4X3g1bWJWNF84blU0SWhxeUdBQXBkM3lRdlV0YlEtVGNJcGRhSVlLMXRmcXpobnpiYWQ2bFllc2RsZVNJeFFmTWY1cVJ1RU1ReDlMU0VkV1JldGNjMWxiclhOejlPUWItWms1M1pXejRuMGo3UE1oRlF3WDRLTmZCSXI3UFBsemFnR25XNkZYRU1sSUhxcNIBtgFBVV95cUxNZlVvRWtjNUMyTUc4WmpxZG5pZVBmUS1faU9oLVRQUU1HS3h1ZE5oR0JpNVFxSG1PQlBBdlhBdjZCaGFFS2RmREktb3hPUEJucm9BQXp3a1pJay04cFRyLXVOcmdtOWw2bDEwWGc2dXdydkxrY3BwY3dGRFc2dFQ4OUpTdjRCdVh6X0VkMjZSYU1JbE9md0g1R3pSLVhIakZQcG1LeTd0QTlVb2E3YmEwZ2NCWFpUZw?oc=5
-
-### 10. SpaceX alcança marco com recuperação inédita da Starship - TELETIME News
-
-- Impacto: Médio
-- Ativos afetados: SPCX34
-- Fonte: TELETIME News
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE5LZ1dtaDdpbVk0V2c1U0lUQ0xGejM5b1JNM1ZtUTlQTm9rWmthU0VwbmZwamJHZUlaMm85M1V1ZTQ5ZEM3NE91cnlCOWxyMjdXb1M5bG15X2hyeDZiajBfMHJiZU5aTW1WYTl2bg?oc=5
-
-### 11. IRIM11 vê receita de CRIs despencar, mas mantém dividendos; entenda - Fiis
-
-- Impacto: Médio
-- Ativos afetados: KNCR11
-- Fonte: Fiis
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzNDcFZXZlAxZzUyd2kyMEpTX1FTdWRhR18tUFM2WGlyZzBzVTNFMC02czJxd2VjNktYQnl5dG1PQnFsQUlCaVQzeXpKaVpETE9FQjBSV2NhQWtBWm9BSXpIQU14N0NXOUczV0VnR1JiNW9oMmFYRWh4aXQ4RzZRWENB?oc=5
-
-### 12. Skydance | Empresa recebeu investimento bilionário de Elon Musk, confirma David Ellison - Omelete
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Omelete
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2pmd2ZUd3dmeVNTc2w0eEtuUDFuWEZQZldubE1vT3QxcXM0cDhZZkd5bzN2aHJSa2s3aVdjRU5VczI1UGs3OWlCQThhN1M2S25zZnV0bWZRVnVvSEpJZHhFVHlPYTdoaF9EOEJHcW8yYkZmaHFEYmRxVGFTVDBlSTRWOGRqenV6N29fUEttbEZwN0NabWlYQzdVb0VNdmhoVVpDejZpTQ?oc=5
-
-### 13. Elon Musk repercute ação da Prefeitura de Rondonópolis de conectar escolas rurais com Starlink - Prefeitura de Rondonópolis
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Prefeitura de Rondonópolis
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa1FwWEFXT3lqZU9mb2hyUEtILTNfUlpEYjh4Zkc1aGJGUXRsZXpBTldmdjFQcEJCblBYRVkwYmZtdkVFS2l4Sm9VT1Q1YUdXNmNDVXRrcUVubjEwWGlQUmxNUDdJeFFkRnpxWXdyMWZmQnl0Z3pSVGpQMVp5OHZOLTV5ZHpDZE0yclRTZk1SVDVEVGw5Q3oweFRaUVJJVXJPUTZSNGFqQnlRTVh0U1R0Q3FYSXNrMmxOS3ZnT1o5NmtxbjRCWG5DWnhZM0dWc0tnWEVjVlNR?oc=5
-
-### 14. Sociedade vive ‘pacto da impunidade’ e prova é que Elon Musk está solto, avalia sociólogo Jessé Souza - Brasil de Fato
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Brasil de Fato
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxNSHA0T0xOOWNXdkkwYndXZm5KU0JTejFUVnlKRkRUWDYtSkdWSE50UTBMSlpnbXo3N0pQRVBjLU1UT2QyeGVSZW9wSnV5TG1kVE5BMVhUTndNeUVqUEN0WU5teC1qWHpUZWhxNFhVWEc2eWNRLW1fWnVoMUFmcEZjcHJaYU9IY1Jkd1pnN1NqYnVWYmdHSEZHZWRzSzhQSUxObmItOUN5YWdTWWdfdjIycGJwUlhBZXdjRkJ0Qzlfa0QwQXNVcXZsVFVTSHY1djhBeFFTZGdhYjNsV1NBcXo1dmdSM1dGOGoxd0pFbGtDUFNHcEcydUIxemJhQldwYjN6S1l6Z3ZaZw?oc=5
-
-### 15. Indiana Reliance quer rede de satélites para competir com a Starlink - ConvergenciaDigital
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: ConvergenciaDigital
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0dGMkF6X0l0U3E1VHFqM1dkU2p5Zk5Yc2padUJycmNKMktnUGdjMlNiY0xTUGNJWlBaNm45b2lqczVjWUFwYVpjMk9nR0tZeHpRemNmTHc3WGQ3VkdYYnBlTWJaUjY4Z1h4Z3pzTVEtUUNocHBqR09RTE9MV0o3cmFkdG15S1pRY3VuUklDR0dLTFFUMzZnQWVTcUpYQ0N0dWdnZkdMRldia2FHRS1DVjBB?oc=5
+- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlVTMmh5VDduYnVSamFVS0xaWlQzZFdWYXZNTDI4VGN6WHNKQ3haQ04zT0NUWVJSbHl5aFB5NXhRSmthSS04d2ttZUszSlZDc20zMmdZVXpwNmxPRGowR1dfU0RhNm8yTEFIc08wbEwxbFB5bURmNHZadFBlRXhJNjBIOVB5eTVMRDdZellua0Fmb0lfZzdfVk5B?oc=5
 
 ## Conclusão para o próximo aporte
 
