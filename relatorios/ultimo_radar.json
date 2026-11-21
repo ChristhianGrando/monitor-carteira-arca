@@ -1,23 +1,100 @@
 [
   {
-    "titulo": "Ibovespa recua 1% com rebaixamento do Goldman Sachs e fiscal no radar - UOL Economia",
-    "resumo": "Ibovespa recua 1% com rebaixamento do Goldman Sachs e fiscal no radar UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEFMSmVwWTNMcFh1VHF3Ml9RV1hZUEZIRVQySlY4UmpNSldrb2ZtY0I2RG5kWUdqNmJHQldnRHItWFJqQ2lzZG9FTzQ1ZnpNWXhudklBUW0yb01VVnlZb2Q0R0hCbmZ1NDRKdDdRZ2NiWWdBOVVmbklNZGU0VW9DZjNBc1ZITlpjQ1RNNk9QZTdYVFBXR196Y2JNbDdpOWU4bVA0OGJpS1JfLXpzcWdxYjFWeVQ1YzFwRmk4WEpETzBGaTZ1RjJBOF8xV2gxeWt6X2tCeFRn?oc=5",
-    "fonte": "UOL Economia",
+    "titulo": "O debate sobre reduzir a Selic - VEJA",
+    "resumo": "O debate sobre reduzir a Selic VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMW9TU1NxM19Ibk5JNjJ3THhmbkdEeHZqdWh4Sy0tRktsbEQxem4wTmh1Wmg2bVRBRzhSM1luR05qZ1NCVEotejdmN0xOQlFvU1UyTzQ1Ymc0VHRWUkJMb2ZtaXZ3QVdwZFB0MDAwbi1EVFRheDJfRndCQXNkRmZwRUwtSUtjeTdoelh3?oc=5",
+    "fonte": "VEJA",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "5dd63c5002bd6f693705bad3a483981cd184d250505d1001b9ba3a4fa7d14efe",
+    "chave": "dd49a66385d3f9d9068298705af72da97b3dca15c424f2f0618838895d6a0001",
     "ativos": [
-      "IBOB11"
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
     ],
     "classes": [
-      "Ações Brasil"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 9,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Risco / Atenção",
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Selic alta corta mais crédito direcionado que livre, diz BC - Let's Money",
+    "resumo": "Selic alta corta mais crédito direcionado que livre, diz BC Let's Money",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXhjT2pRdlFHZ0h4OFFEUEp6UHU5Z1VNUEU5TmlfWV8tUXdKaDZTbzRJaEt6RzB1eTJnTGJOcHBWYW0yelE1bjJLLXMwelFBQXlfN09OeXpjai1ZcVpsM29WWXVHQTMxMW95cWUzcDkxSVNPVVVPbVNqWEtDU2drekJMSlQ0ZVpCNURR?oc=5",
+    "fonte": "Let's Money",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "d51096c499302706764da9a8b0d2c63d17414aed108c43a4d09b82ba7aaf7562",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Bancos restringem crédito às famílias além do esperado, aponta Banco Central - Canal MyNews",
+    "resumo": "Bancos restringem crédito às famílias além do esperado, aponta Banco Central Canal MyNews",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPektMT2x0S1lMT041cmlIREhrRktabVJUME5jRU5wSnFBN3J0ZlViYWNxMGtMY1oyLTA3Q1NTWHpxbUk0TWJSckFZTHRvT1JCb1R3anNRNzd3Z2RMQnRDaC1vbEx2b0xsUTdES0Ezdk1Ncm5nRGN3QUhiWF94d1dMR0RZRkZpV3p0Z2RjYkQ4QzUwYTdqdS1XVFdQZVB6cElTSmkyRlkwMnp2dU5UcW9ZbElRZ1JDNjJPQnc?oc=5",
+    "fonte": "Canal MyNews",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "54d9764a43b1410ba0752a109dc9f50fa18967e6f7d4c4a3ac7843befd1e6a5f",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Quem cobra as contas do Banco Central?, por Maurício Luperi - Jornal GGN",
+    "resumo": "Quem cobra as contas do Banco Central?, por Maurício Luperi Jornal GGN",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHJZd1dGQWVSQ3ZBT3Y3ZHVvRnd2TENDRzJaMzRTT1UxczdXV0ltRG8xUUNzUjc1ejdoVDZYbWFWSTJSY01vWGhtN09UYlBDeEZ5TWJPNU94R25CSGpObXdIaVZMVFRtdnIyNHVvSHNjQUFUY3ZlMWlqLTd6Vk9Dbjc0MlB2Z194N0tsTmRoay1ZOVV0b2c?oc=5",
+    "fonte": "Jornal GGN",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "7a2dfcdd5f16fed57315b111065f4e76e5907bdf0b74109fa0f5b4d0cc22f3e2",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
