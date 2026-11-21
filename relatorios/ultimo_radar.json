@@ -1,99 +1,111 @@
 [
   {
-    "titulo": "Banco Central amplia acesso de cooperativas de crédito ao mercado aberto e moderniza regras do Selic - Brasil Inovador",
-    "resumo": "Banco Central amplia acesso de cooperativas de crédito ao mercado aberto e moderniza regras do Selic Brasil Inovador",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMi1NSXh0bEgweGJlTVdPTS1fLW15aDNmWld5aFNlZjFYTVhyOXpYcE1zWXctTm91cjB5OTlua3Q5eXZLMmE0UDNpekFObkxPNUxFeVBHLWNPUndJd1J0R1BRLWZza0l1dmxYemU1VWItSDIxUVljaXFqTGNrTm9sZHdtTWtWWllDZDNsR05MR29JQ3YzY2FkSjZ2Qm41aUd5YzJVc210TUNoMzllVjJMRThZOXZkaHRtbURlcHl3emVURTgwX01tSnVDZw?oc=5",
-    "fonte": "Brasil Inovador",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "846f969ff7ff30c28f457fcd3ca41689fc61a719baabc31bdcd363ac54fd4f9f",
+    "titulo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs - Money Times",
+    "resumo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs Money Times",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlRsT0oxT0hwZ3NSR1lEazFPYW1OSjJIWWNUQmFCdVZscjZwZHhPM0pjWDVvNmZoMmNtdW91S1ZDcTdFRGh5UW92blJrR1JiZ29MV0QyWklCTVlQVGZzNl9mUTZ0SEhBclRkUW9JdHZwSUdSMHZEenZRMzZWT1RUOHB5RU5qaHlDVk5QRklZaGFxYm5zaVBRR0pLTC1Qb3VIUkpqRjJ0bzYyLVh4M1FhaW1leXA4V0hFOE8tRFh1a2RMUW9YQ2NBUmdZUDVqN0o2endR?oc=5",
+    "fonte": "Money Times",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "4b087e41bd71bab0ff2bef099f588d3fe3b5b9f7722c817c4879e36c0f5be365",
     "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
     "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar sobe 1,16% com intervenção do BC e Ibovespa cai - Acia Araçatuba",
-    "resumo": "Dólar sobe 1,16% com intervenção do BC e Ibovespa cai Acia Araçatuba",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BaTNDcjhvaXBqclVUVnFpdUtZVW4ySEtXRmZuTFJmLTJaTTNxa3JtSjM0OXA0MWQxcmdSWGluMS1USmo4aWMzN2hQLU9tbXdSYzU2QXB1U25oeFJvYThhSi10OUY3d3otd0VIRWx6OWhQSlRnTXZJ?oc=5",
-    "fonte": "Acia Araçatuba",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "86873380937f85ef4f9a76a617f1bd4843513c2c2c4b07ee430fd1965e4250e7",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Flávio Dino dá prazo até janeiro para CVM e Banco Central unirem regulação sobre tokenização e criptoativos - Livecoins",
-    "resumo": "Flávio Dino dá prazo até janeiro para CVM e Banco Central unirem regulação sobre tokenização e criptoativos Livecoins",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTk5iVUhLNlU5aWZYNVdkV2lLYUVUV3R4YTZKRlRuV3V6WGFXUnpYVzU0bmhQZVRPQU1HUHo2Q1U2cUxPRHp1ZXYzM3JKcDVTSVhycGpYbTRaeS1XWXhZN05OTXhvcFUwMEdhNHI5SkRRWUNvWDh4UjNJSkU4SWpsWnJyRVA2WjlacEhScy0zZUgybGJreWFCT0xMcU5VNHR0ZGFmQ2l0N0F6bWdDVVVTRDgzcWpHeFU2Umxhc3NoZlkyTlhMcEJhMWEyTFMwUdIB0wFBVV95cUxOc1JlZXZzNWhBSnZVVHZUNGpBdWhSM0pSc3ZzamVVRUZXaXFaOWRLNDYzanVVbjFiOERmdUVHaDQxeG9ZYXJhcnJxVVRVck1DSk1JVE9vV3FReUNTVEtiY3czSkc2SGdMSW1XU0FQUFBqQjZMNkU5dDdOQWxVUEF5NUxsMDRycXNScGxWSjZDNjJqcVMzb01VNTN6RzdPV2lJR3pWdHBYemVxbUhaRmkzRU05U2NnMHItU21hQ0hCVHJScnZMMUxmSnU4ak1ISUF0bVdF?oc=5",
-    "fonte": "Livecoins",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "6ae3646291f84fa0ffc9372746c1cf69dd2d5a1ae71efaabae9e3d853613a3b8",
+    "titulo": "Nasdaq despenca mais de 5% um dia após IPO da Anthropic - iG Economia",
+    "resumo": "Nasdaq despenca mais de 5% um dia após IPO da Anthropic iG Economia",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjV4V2d4REtSUXV3amg5OUFmaDRsUzZ6MnVZdzduN0F0c2NLMG9oNG1WMjhQaVNEVHdXTnRkQ0hPOFRSVU93dElsbndjY3V5eDM5OVI3QzBnMnZUNzk0T002aE43T3RxYnc0VlZ3SlJRQmdFSjYybVBfcFhxMXF3Z3owX3d6SnBsMXNZSVp1UFp0em1vbER0WXdjR3Vqd9IBowFBVV95cUxORmFxT1QyWWRHS205ZWFaYnRPa0dXR3JET1p1U0J1d2c0NldnWWlFdFNZa25DNDdoNVNVYUlSd3BKRHZTbTdlalF3S2hhS3VpQjYtMnJzWlE1YUNvU2hzZnlMbEJVYWlRMmVMOG9FeVdJNWplRHpWNXFKeFMwTnZKWlM0NEszQ3JyN00wOHpYSFdlRUJTRzVKU21TR2JoVWxWSy1V?oc=5",
+    "fonte": "iG Economia",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "80a34e4606df5aac23f32aed64e29cb7f3ba8994999dbcdd82888862a12e937f",
     "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Fechamento (19/11) | Ibovespa cai 0,69%; IPO da Anthropic não sustenta Wall Street, que cede em bloco - InvesTalk",
-    "resumo": "Fechamento (19/11) | Ibovespa cai 0,69%; IPO da Anthropic não sustenta Wall Street, que cede em bloco InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVVZyNGp2TzhReHlwU3NfZE5fT3NJR2VWREVxeGE2UlAySnMwQzVGOTB5NFFiN3lNbXl1Tzd5QkItZlRLUXh4ZGRxSEY3TkZabEdSQXhsYUxWYmNuOWMtUHlHUjM5T0lFVUt4Vkk2MGs2Vldtc3c?oc=5",
-    "fonte": "InvesTalk",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "90e174bfc14aa48d9e0c9425378b9c2ba41bba37fe4013c9980db5624315074e",
-    "ativos": [
-      "IBOB11",
+      "WRLD11",
       "SPCX34"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
+      "Ativos Internacionais"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC) - Banco Central do Brasil",
+    "resumo": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC) Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sTVdUT19yYktzclE1QW81VU92NXFuRTNjZjlfZEtLUk45akJJcHVCMEVCYUp0X05tVzRyZVVhQmotMFJnRE40Nk5NVHdvbjRUaERZUEplclo5aU1m?oc=5",
+    "fonte": "Banco Central do Brasil",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "4cdd07efe873822733bc297dc6ff1722e7931c007f08cc32268025fe7fe52b01",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Caso Banco Master expõe diferenças entre Campos Neto e Galípolo no Banco Central - Sindicato dos Bancários",
+    "resumo": "Caso Banco Master expõe diferenças entre Campos Neto e Galípolo no Banco Central Sindicato dos Bancários",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWRzUDlZWUhYOVQ5SVBWZjIzZEx4MDc5U3U5dkxReVE5QTBacGozWU5qUC02X3I0UjB5T0V3a2xzNTc3d3FOZ1hod0FZZGc5c2JDd3FjVzVUdXFyQVA4NjMtc1kwRUJFNEQxdkVjV1A2YWJqQy1oSUhZT3FNay04X3MyVTgxaFdOckdja0V3?oc=5",
+    "fonte": "Sindicato dos Bancários",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "3c26721db23900efcde8b4a4d9324d2d896aeb85fe5c91c46ff0a1316dafe404",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Nasdaq desaba 5% com venda de ações de tecnologia e possível investigação contra a Nvidia - Estadão",
+    "resumo": "Nasdaq desaba 5% com venda de ações de tecnologia e possível investigação contra a Nvidia Estadão",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJRVTFvN3J5d3FpTkVBVTZpMXlwNkxCUnhqTm9nRUs0enA1QVhmQ0dDc1dlQVdGOUVFNEtleXVkMXRURzJNV0V0YTdzOFRobWRzTjhfRVotX3BiM0JWMkpYTGZPdjd4bC02QWtHdWdWMjFEU1dwWWZLTjNTdWdKeFBPVlczYzBhZksxTXpyeEVTaWRmX0h0V2prcE9lSjhfUkl5aWpJX0M3RGxtaWpWRXZES1VKSm5tOXlCYmhhQkVRZlU2cVhDRtIBzgFBVV95cUxQSFVoa3F6aXhYQ09FRXZad0NzUi1YTnBkV1hfcDJaMUt0U2pGaW1QS2FqMkxETm5ac2lVNjAwRkVfLWNBQjlPUm1kSEFjNlRVa2JnLVdBR1JwZURScnRKOEtCR2lDNnBScERWWWVsb0xaeVdPRlZXZU16dEZ0bzQybUVyNjZNSjhnX2NnZ1BudHlELWJrVmQzZ2VZR2dEcnFfWHFoVnkxTmdEZmpkUnVWV0o1OHU4Rm9pM0NkQ2x1OE9kNjd6Vmw2VkU3VG4zZw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "563f86ddeedb7448897d9f8c75411af5fa9cd1c59861b31486bf0a3dd1978d93",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
     ],
     "score": 9,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
