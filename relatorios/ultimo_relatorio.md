@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 21/11/2026 01:50
+# Relatório da Carteira ARCA — 21/11/2026 18:18
 
 ## Carteira monitorada
 
@@ -12,132 +12,132 @@
 
 ## Resumo
 
-Notícias coletadas agora: 49.
-Notícias novas, ainda não enviadas antes: 28.
+Notícias coletadas agora: 48.
+Notícias novas, ainda não enviadas antes: 29.
 
-Foram selecionadas 15 notícias relevantes para este envio: 1 de alto impacto, 4 de médio impacto e 10 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 3 de alto impacto, 8 de médio impacto e 4 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Nasdaq despenca mais de 5% um dia após IPO da Anthropic - iG Economia
+### 1. O debate sobre reduzir a Selic - VEJA
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: VEJA
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMW9TU1NxM19Ibk5JNjJ3THhmbkdEeHZqdWh4Sy0tRktsbEQxem4wTmh1Wmg2bVRBRzhSM1luR05qZ1NCVEotejdmN0xOQlFvU1UyTzQ1Ymc0VHRWUkJMb2ZtaXZ3QVdwZFB0MDAwbi1EVFRheDJfRndCQXNkRmZwRUwtSUtjeTdoelh3?oc=5
+
+### 2. Selic alta corta mais crédito direcionado que livre, diz BC - Let's Money
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: Let's Money
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXhjT2pRdlFHZ0h4OFFEUEp6UHU5Z1VNUEU5TmlfWV8tUXdKaDZTbzRJaEt6RzB1eTJnTGJOcHBWYW0yelE1bjJLLXMwelFBQXlfN09OeXpjai1ZcVpsM29WWXVHQTMxMW95cWUzcDkxSVNPVVVPbVNqWEtDU2drekJMSlQ0ZVpCNURR?oc=5
+
+### 3. Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia - Exame
 
 - Impacto: Alto
 - Ativos afetados: WRLD11, SPCX34
-- Fonte: iG Economia
-- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOdjV4V2d4REtSUXV3amg5OUFmaDRsUzZ6MnVZdzduN0F0c2NLMG9oNG1WMjhQaVNEVHdXTnRkQ0hPOFRSVU93dElsbndjY3V5eDM5OVI3QzBnMnZUNzk0T002aE43T3RxYnc0VlZ3SlJRQmdFSjYybVBfcFhxMXF3Z3owX3d6SnBsMXNZSVp1UFp0em1vbER0WXdjR3Vqd9IBowFBVV95cUxORmFxT1QyWWRHS205ZWFaYnRPa0dXR3JET1p1U0J1d2c0NldnWWlFdFNZa25DNDdoNVNVYUlSd3BKRHZTbTdlalF3S2hhS3VpQjYtMnJzWlE1YUNvU2hzZnlMbEJVYWlRMmVMOG9FeVdJNWplRHpWNXFKeFMwTnZKWlM0NEszQ3JyN00wOHpYSFdlRUJTRzVKU21TR2JoVWxWSy1V?oc=5
-
-### 2. A bolha da IA furou? Nasdaq cai 10% na pior semana em mais de um ano e apaga ganhos de 2026 - Valor Investe
-
-- Impacto: Médio
-- Ativos afetados: WRLD11
-- Fonte: Valor Investe
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxNMTBuY2s2RjM0aEx6Yl9zQ1o3M3hueklOdmhVenV6OHd4R1dDdGN5RGI4SG1kel94c3BveGVwUTFaQXBONjZRakdYaG1YZXVjNjQtclJaWGZHeG53RUZlRTU4ZWtOeG51aFhyOHNGdjF5SnlhdEV1bmFVTWsxeXNoejdBSmZsT2NRQ1lZZFVra0NmdTZHbzA1ZlBseGctaW03cllaOXNBTGx6NzVXcWhLM2k2bHMtTHZFeGZBS2h2OVRMcFpwY0k1bGc4cjc5MHI4S25UZ0RadHNnUEVUd3VCdG9zaWliOHRJN09XRGJ4WUxGS1ZXVXBxaTZzTGVXVzN6VmhibXA0Mndia0pTLV9DZUpGUdIBogJBVV95cUxQZTdWNjI4N1V0U3VyMGNaLXpOb0hRYXBkcml6dC14bjdKRlJ1UkxlWTl5elNIVkRZLTNlZGgyVWJPSVh2M1E0S2h5SzRmWl9sdUhGbmVTQW5COXZtVmNlemNJbkRXQUpsSUFaRzhOWklCMTlHcVFiaW4ycnI1YlFTNFIxRXRMeVMzbXQwVEppZUw4U2RJN2dkU3VWUzlhbXpKM1hFdkxGWEJ3cjBfLWlWNmVJLThMT3QxallHQzJaZGp4WDU3dHNvRzZjNURRX0NBV2tGLXhSRnpaQXJSN1JTczRNMDNjRXFnREdIeUduakpXWEVpcEktbkQ3dXJaSUNMSDRjcEk4bHpuTG1wNXdud2NJbE55Zi1xVk4tQ1BsUnp2UQ?oc=5
-
-### 3. Wall St fecha em forte queda com vendas no setor de IA; S&P 500 e Dow Jones entram em correção - Terra
-
-- Impacto: Médio
-- Ativos afetados: WRLD11
-- Fonte: Terra
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxQLXlxNTY3U2hUZWswVG9GNURKZnlXUDFfZDUtNnA2X3h1a1loaV91RnVlelNWNk5EQWQtYjVPU2FqQXhEcXRpanBCNHBBTmVDMEJKaWJpdWd3NjVyYnZtWWlXRDhoMEE3ZU85Z25WcjhyeHBqX2MxTDJmelhlbDE1ZFJ1MlZYc1JzQUdCQTZGNDREWE1mQUJXMHppcUcxaFRQbEJaeWVQdXJnT2JjeUMydm0wUnk1N3ZZU1dILXVXa0RJV1V6NExESTJIdV96bEVHZEVTYi1yZjJtSEM3R2VEOXBXR281STgzazVMWGVnWmhPMzFZWFdYYlpPYUs1MzQ0Q2c?oc=5
-
-### 4. Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs - Money Times
-
-- Impacto: Médio
-- Ativos afetados: WRLD11
-- Fonte: Money Times
-- Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlRsT0oxT0hwZ3NSR1lEazFPYW1OSjJIWWNUQmFCdVZscjZwZHhPM0pjWDVvNmZoMmNtdW91S1ZDcTdFRGh5UW92blJrR1JiZ29MV0QyWklCTVlQVGZzNl9mUTZ0SEhBclRkUW9JdHZwSUdSMHZEenZRMzZWT1RUOHB5RU5qaHlDVk5QRklZaGFxYm5zaVBRR0pLTC1Qb3VIUkpqRjJ0bzYyLVh4M1FhaW1leXA4V0hFOE8tRFh1a2RMUW9YQ2NBUmdZUDVqN0o2endR?oc=5
-
-### 5. Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia? - Estadão
-
-- Impacto: Médio
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Estadão
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUp6aVRIck9WM0t5VjZERk0wNnVQZVU2UzFBZXVWSFBZdVVNY1JQQ3FzbXEwVk8wcXZsUXFSQUV5bGczX2Y0N2hsdmg1TnVFWjZvejN3RW81N2R0NlFSczJMZVpjSTBEUmY5Skd6c1BwU2VzS3ZkMWx5X216bHpTcFpVVnBkVWRrZjRwOUdJeENmY0duR20yazNnUmpSTjJQTGJ1ZjVtMXJVVzZEWFUxaVlGeEx6UEpxdWdYM0QyVXNYZ1hLUGFz0gHMAUFVX3lxTE9GNWozOWFFTGNKM2JnQWFETFlDNVNmbXB4WmZjSEdZbjYySjVJcHpiWTBOelJuSXZCZWV6em9OVXhZOUp4S1BxVU9OY2xIYjM5b0xPbjVsUExMaWw1M0h2YkotSTExNTFzMkhYOUt6dGJSMmF4UDktTHlLemZTRlBfaW1Kak1JUzNQek85cFBDVFR6OUl0TUljeWVpcmotYWJZeVBoZ1UzdGNIVEhqS0NtQ2NoVnlpRXIwVFVHcGctU21EQkdOeGxxVjhLNg?oc=5
-
-### 6. Elon Musk repercute envio de antenas pelo Governo de MT: “Starlink salva vidas” - RepórterMT
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: RepórterMT
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWxpUURDM1p2dERCNzFqb0s4NUZsdmpWTXk0V0VUc0dpb2lSNEpHLXR5YWEtZ0JwMERBQ2hicV9sNXpzNEN1U2t4aV8wWjkwMGpNYzdRNzE0VHIta1ZiZEdrNURDOENFTTdaQlhvT3czaXZtX1doYnRPMjJWSVFzTEMyYVhIU0piMXlhVlJyenFiM051QUsyMlJKdlNyQnAtOWs4d2E0UGY4S1ZfVUlRcENGemhWX21qdERBdA?oc=5
-
-### 7. Elon Musk vira acionista da Skydance, dona da HBO Max e da Warner - Exame
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
 - Fonte: Exame
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE50UVVvWHF5YWtmWWYtOVZJM2JaODdJUlVfTjVUZElZd18zeDQ2ZTNxZHd3Unp0WUtHbm1yNkNmWV8zTTFIUnVfMHZyMG05Y2hEbDJSNndmNXVnWnU1UnNsLTVzT1F0RHpJWHFWb3RKcV8?oc=5
+- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOUW9QQkxmSnlNUVVDczdlUmMwWGZVNHo4emVxa2FhWDBYRUlLMDdHNm5YSjIzdHpPTHJWb1JmNDd1REVhN2dZSnpBYjFWNlBLWS0yUWZTZ1dYNDNIMU8zS1RreFpRdnZ5d2J4NFpYMEZsOGxJTTdUR1ZOWThydmM4LXNZOElRTE9LSE91bmVtTE82TS1sQVJrWDFSREx4NXB4Vm1JZVcxQVlFTlJRRjZ1aUhndU83R0ZGTS1BUUNB?oc=5
 
-### 8. Depois de Musk dizer que não é mais 'MAGA', Trump defende empresário: 'Ele tem boas intenções' - O GLOBO
+### 4. Tarcísio, mudança no Ibovespa e BB rebaixado: o que bombou na semana no Money Times - Money Times
+
+- Impacto: Médio
+- Ativos afetados: IBOB11
+- Fonte: Money Times
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkU0VnVGVVFNSkt3V0s1dzViZnBGZEszY25pSEV5eHhwRFNkaDdwMDFyX0tsRXdiODljRFl2OTJvQlhtVzNqUzdlMWlVUFRhTVdTbVJYQXR1OGtTR2U2LW9CQ2RzMENKYTFtRGdiRzdRYXVYeTI3SlJRdTJlb1RJd1ZhNnFBcExrSG16VTFrTkNKTGF6LTVuMDJrVklGWlFzZUNrZzJpODVSaHA5RTRyU2l3?oc=5
+
+### 5. S&P 500 Chega À Mínima em Sete Meses e Provoca Mudanças no Ranking de Bilionários - Forbes Brasil
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Forbes Brasil
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUQ3Y2M0Q2liLW5UQ3QteFlLZEZVSFR1WmxkTnd1b2dIRzJVX1Atb1dvSXVlUlZZR1EyOVZObmhlOVFuZlhHbUsxaERZM2FSdTRiOF9PY204Y0pjLXpaRHpPa0FqTGlmbndJSjJoVW1KSUZKd3M3em9LMVhHZ0FtQmx6c00?oc=5
+
+### 6. Nasdaq cai 5,28% com temor sobre IA; S&P e Dow entram em correção - ISTOÉ DINHEIRO
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: ISTOÉ DINHEIRO
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMibEFVX3lxTFBPNVpvaElnYXNzUVlESDZpcmZJSVFnaTI4RjNkLWdQWVgybTcwYnRBVGRaak1UZmNJbnc1aUs4TUQzc05JMWpYbWtodUVQRWM2bnRaMVVyRlhweVBLdE1US0RGLXpVRHBMZURobQ?oc=5
+
+### 7. Bolsas de NY ampliam perdas, com S&P 500 e Dow Jones em território de correção - Valor Econômico
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Valor Econômico
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaV9xUllsMTlmYm1va00tOFlzZVp1MXY1TDBZQ0dIUG1rZmpEczB5M3YtVDM2THJDci1ZQmJKZllPbWhCRVBSVmlFdUZma3dRN3Ayak54VkswZVhkLU90Y2JXbHMtODhQZ2sxd3Z1ZjhSOE1LQ3BYdVhvWXpxN21UU0VIVTYyUXFRc2pQSTRvUXZhMXZmWXJxYnNVWXFnbkJmV2Vza0xiU3ZOdmVFZ1IxUXhlT3ZmaTQwNjJheThJeG5yR2pPVnpabVhaQWlUTXY5bTI3MkZFbjZ5bVh0WVB5bzU3bFpPZ2JwNWdWbdIB-wFBVV95cUxON180R3VBWUxvYjFTV1dmSHNJcndRLW5wMXJja0U0UmVTREloSXVpbEkyZmFFZ0NabTRmeHFFbXV5ay1YQk9LMXI3MC1rR0VkQVpjSGgxWGNBT1pvMXlWUWpLZlZfbmVBLUlFd19YNUpTWndTYkpwakVmb2VnN0QwTDAtQmlZLU4zNlVTVEtPSUJaZ3dXY2xMcGRJdTZaQ1hIQUptM0VtXzVKbmxmVTg3NGlEcGYtZkxzSnFNaGN6TnZ2SHNhZHV0MXN6UWpYcmNHMFRZekY5b2lKX2luNTZOUFVSTTZ6XzhYV24xcWZfYloydjFVT0JnZVphQQ?oc=5
+
+### 8. Exôdo de ações tech anula ganhos do Nasdaq com temor sobre IA de volta - CNN Brasil
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: CNN Brasil
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbW90WmZzV3drblhxbnVkbXhVWVpSZ0V2TkdCaUdCQUxLamM3TmlFTFFsQnJ1ZllmY1NSSXNlMGw1aU45OVB5YkhDVEdpTXVoS1ZCa1NXd1dsdXV2aU1EYkdwcXZ6TkJfVWxaTUdjNnZ2UXp3elFzYjFqUG9LQmw2TUdWcDZQVGFpWllTNmQyRGpjLTlGWTBMdkI5QW5jenhCdU53RWdaQXZkNmJDLUZXOE1oa2JGUnJNcnp4SFo0MFc?oc=5
+
+### 9. Wall St fecha em forte queda com vendas no setor de IA; S&P 500 e Dow Jones entram em correção - TradingView
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: TradingView
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBnaWJrMHlCMnlBdllMOTdrUHlVSzZlaGFXdWNoRmI1ZXpOOGtoakZpdjRYNlJGMjBCZ2I0Y2dVMDFCS0RMY21BOFZTNC1zX2owQVVWMXpmNnZocUlab0Z6UTFta0k5V242TEFzU3hFbkJybEhManZN?oc=5
+
+### 10. ARRI11: fundo imobiliário paga dividendos de 1,21% e anuncia resultados - Fiis
+
+- Impacto: Médio
+- Ativos afetados: Carteira em geral
+- Fonte: Fiis
+- Explicação: impacto indireto ou apenas informativo
+- Link: https://news.google.com/rss/articles/CBMifEFVX3lxTFBWM2hqbjVLQmJNNkFrckg1dXU3MzJKWV9zOHROUXVvR1AzVHZoZGN6ZDhob3BnN0haRnkxWVd2OHowQXp2N2JKTXJJYm9tcnFFYm9jc2JqOWNhYlR0cGdkMTlkT3JXazZTTkpBUm02Qzg2UW9IaDd1SVVKTFY?oc=5
+
+### 11. Bancos restringem crédito às famílias além do esperado, aponta Banco Central - Canal MyNews
+
+- Impacto: Médio
+- Ativos afetados: IBOB11, CDB 100% CDI
+- Fonte: Canal MyNews
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPektMT2x0S1lMT041cmlIREhrRktabVJUME5jRU5wSnFBN3J0ZlViYWNxMGtMY1oyLTA3Q1NTWHpxbUk0TWJSckFZTHRvT1JCb1R3anNRNzd3Z2RMQnRDaC1vbEx2b0xsUTdES0Ezdk1Ncm5nRGN3QUhiWF94d1dMR0RZRkZpV3p0Z2RjYkQ4QzUwYTdqdS1XVFdQZVB6cElTSmkyRlkwMnp2dU5UcW9ZbElRZ1JDNjJPQnc?oc=5
+
+### 12. Petróleo sobe e bolsas dos EUA caem forte em 20 de novembro - Campo Grande News
+
+- Impacto: Baixo
+- Ativos afetados: WRLD11
+- Fonte: Campo Grande News
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWdVcXdYZVdiMm1IYnpWc2hyd0hEa2I2QlM3ZXVCOEZERVU3WmFMVWZlX01QMDJBWldDNWZWUXhUWnIyQVVWTE5lYkNUR0h3SDg4VlNoTjczUlVvaHNJNGo3QUVwZndKZG5LQnNJQVRkQVZoWFpoUDNYR0hicENnWGFXYWxCMmRmTTdjU0lYLVhmdWptSTdvQkFUVjNuMnFyZHEwamQ2OHFhQVB5U1pz0gGvAUFVX3lxTFBQbDZTeGJMb25NSWxwZXdmcEczSlU4bC0weGMtbGFWbjVYUHo1VExDR3A0aXZUTjFXT0JaaVZGTjAtemtUTTJjdjJyLVh4VFdjUXFlUVlVbnotRWZKMFhzWmxHU0pqZm1iWXF3ZnlXUUhsTjdnN3JDeFB6ZHhUQ1kxa0hNdXRCc01JSUdhSVZac1hzUHhaaDdqYWFvTTVfQTVXd1dkZGNzVXVkTndEQjA?oc=5
+
+### 13. O advogado de Elon Musk se junta a Tom Brady na compra de participação no Chelsea - O GLOBO
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
 - Fonte: O GLOBO
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWdxeTFaUXBQT04zTW0xRnVQUDZqRmJvOUIxQXhyU3VpTDl3R2xHeFhkR0RjYTl5WHB4NFVjbnQtOE1mVVEtYmw4em9tZVl6YUdlZExxLWVjX1kxZVVheTBsTFZlU2d5Y016THlGYVlMM3BDLVVvMjlIMXJiYmlWUkNaMk1iNlZsY3oyMmdzSGxXQ0VERi1QUHg2QWNVbHhrRndCQ1lKX1VGd3J6UzJrRi1RSXNUT3I4Mkd4LU9JNEFnaUlUUHZQRUF5T2E0Q2hGXzNHSXl3TDk0MTZU0gHrAUFVX3lxTE4wTEhQWTNJOENDdVd3amc3aGFjYUZNd0FXVENQQzRFRktaZ0tlalNEcHZtX2hHLWo3QUZ0bDlPTVVtaE5Xd2FZQ3FpeUh3dVJqaFZsSm14cXozQlFwRGRPM1RyT2Zaek52V2x3UVRyaHlBbzJQUXo2NTR6UTd5X01vVDZFRmxkSExuTjRlQjFHSjluem83MlJlektVR0RybHNZaHFXWWVSdnVBQnpiVkU0MDhwZzFPbm5iZkR3Y2xpblc1cXZVSGtXOUFFUjlNMlA2YWlkTXZ0dUZFdFNPbWlpdUlVdVRFanp6X0k?oc=5
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZUkxY21QRG1ZOFhGdG8zOXVRSmlobFA4dm15eWpFTWNVNGFxbWtaSGNaSlgxSUc3ZHBPQVZWazQxTTlFME9sRG05ZERsLUVyWDd4WTBGb20wb09fbHRHYm91aDFtZER2cWRHTy1uZ0RSdWtyU0FIQm16ZEZ3UnVPS3l4bWxPa2U5NXJ0RXRKQkJlTEcwTDlMRng5WXpjWU5GdWk1OHJGSjdzT0RVc05oSlNHcjk5R2hPd1M3MFc4cEZBaTBQcnZBQ0Rlam85Q1pEUkZNdW5zRdIB5gFBVV95cUxNcEhIY0xpNEFCdFc5WkxLQVNick8xc2ZKTTlCWUc3ZTYzSndOLV94dmZCUmJVN3ZfOHI2cTNCWFZCSUFVWktrc01nVDFvZTFfcHNBWk81QmsyazQtOFl3R0RzcWIyRkFjcE5nc0sxaTZFVzZ1cW5wckQxVTlmc2tKTFpXaGd2QzB2c2I5UUJ5eFlGd1RVV254YlM3Y0VFZVl1bm55dnJwUXlRMVNQY0lhdFNlSFNHTVZjZGc0TjdXSXExbGh1blhoSWVjNWZkVW9oTFY2bl8zZ0ZFbnRvUkQtNkdTekJQdw?oc=5
 
-### 9. Neuralink, de Musk, diz que implante para devolver visão a cegos está pronto - VEJA
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: VEJA
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVBhQ1o5OG5xaU8yLXQ5VlU2YmFJSWhkWFgyazNRdGhwMUl1RkYxUURyTVJHd0FXR29ldHJUQlhDY0o0dGtheU9RT3p3TkRKbVJhckhpcDFBOHBWVWVZZjQxUXpqcnlHY3FnS2hELUcwS0k5eG9IaFFzc1B1alduUDBmTV9OblNkYmdTNFBlLUxSWGNCNWFIblMyQlJlOFRvUThPcnpIR2VyU3h1ZjZB?oc=5
-
-### 10. Musk comenta envio de Starlink para famílias afetadas por enchente em Cuiabá - Primeira Página
+### 14. Às vésperas das eleições de meio de mandato, Elon Musk mobilizou tanto sua fortuna, desembolsando quase US$ 500 milhões (aproximadamente R$ 3 bilhões), quanto sua influência pública para ajudar candidatos republicanos a vencer. Mas, após a vitóri - Instagram
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Primeira Página
+- Fonte: Instagram
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDZXWDBYRUNiaHg1NGdmcGFYUHM5RXhDNTNrVUFXaHdJbEVhMGlPMXdvTU04ZWdDNlQ2dzRfV0RwcG5rMjQzRjZEbUF2VnkxcmxRMUdhZi1NZVJfWHdIZ1NTMGxjMVdiNm42NXNydGV0b1dLMzBNN01Kd0tNNDRvbG1NMU9fRXQxTEp5SnBKYjJ2eWNwM2pLNFFiOTdidHZsTEVSTHE2VHpubDNHRUFfSE4yZWg4OWwwRXpUb21Ka0dUV3h0NFE?oc=5
+- Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RTU81WGNLazNkLTZMMkRUVms5bVJPd0R0azJyNGtmUzZqVDR6LWtNRFd2NjhtV25fV1BtUERuSHN6dTBOczVIbmFtM1dFN3FLLWc?oc=5
 
-### 11. Elon Musk destaca uso de antenas da Starlink em resgates de famílias afetadas por enchente no Mato Grosso - Portal VV8
+### 15. Como o Goldman Sachs montou um financiamento de US$ 32 bilhões para os chips da SpaceX - InvestNews
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Portal VV8
+- Fonte: InvestNews
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxONWpfR0RZYnNSUlROcWk3dXFrOUx2X2cxTW1NaHUyZTBqclRPVE5yUFZzMnE2TDF3YUxDNWh1alVfS01xQXR0ZUI2TDFwQmpUdXYxd05oZm5QazFWQ2pFR00yTzZZZnptNHIyZ2dPWTJfSUlfU1NwYWdvLVM0V21KUzFXWFVHSGlHbmpMSHhrMDhQdGVkOE9BQ3otNk9uRV9LM0lsZ0NIT1dYbEJmMDhaQnJnTUJYT3JsdzNjSFRQc1JXUFFCQ3BvaWRsbktlR2djVmx1MG90dHRzUnZu?oc=5
-
-### 12. Elon Musk destaca uso da Starlink em resgates de famílias atingidas por enchente em Cuiabá - Estadão MT
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Estadão MT
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3pLNGp0Q2w5VlltcGVvZlFObFVEZm12QkluS0g3RnQ4NC1UM2JzTjlQb3ZHVlZQUjJBVjVGRENFSkFadmsybEZYZ1JvRHVFYkNSZEIxNG1Zanp4eVBhSXZ1aFFTUFU3UXZfOUVvaUF5Rld3SnFkRlpHT1hCbTVzQUJERlhkVnBhRC1KaWpZNkt3UmpGbFlfa1RfaE9CTlNsa21Nb1RPb1Yzb0ZBTGRMczRhcFhQZlRJUDFyaVNhZjIzT19WZUMxX1lpOU81QkljNU1OTW9JQ3FRbXAyTnc?oc=5
-
-### 13. Elon Musk, Elizabeth Holmes e a fabricação de valor no mercado financeiro - Diplomatique
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: Diplomatique
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnJzUVBpcVBVbDZXWWVac1ViRVZ6WEtzdFJOTzFBcHY3R3NuaXFQckNjbEZpMTVHeEd0U1ZzaHlOamRIdjFqTnBiNExLZkNkNEZMM2o3R3pmaC14NDJxUFdMemhyVHY1WTRROXo1ZXJSWjVqV25QMmZVU2lQNDZKMmxOR3VrLTRpY2lWQ0NpMWx5UXJPanp5ak1nRDZMMlgwdE1F?oc=5
-
-### 14. Por que as ações da Tesla caem mais de 3% hoje? - TradingView
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: TradingView
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE85c3RpNUR3aXlQNTVnQlp0cnZXR0FoQU5nQUU1N3diNnUzbU81RU9qNXJ6ZXdUdy0yQmQxYkFkVnROcHc0RS1jYWRtTDVvS3N4RVV6U1RtREkybkdja2NmeUxxb0xsUQ?oc=5
-
-### 15. BC publica Pesquisa Trimestral de Condições de Crédito (PTC) - Banco Central do Brasil
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Banco Central do Brasil
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sTVdUT19yYktzclE1QW81VU92NXFuRTNjZjlfZEtLUk45akJJcHVCMEVCYUp0X05tVzRyZVVhQmotMFJnRE40Nk5NVHdvbjRUaERZUEplclo5aU1m?oc=5
+- Link: https://news.google.com/rss/articles/CBMiekFVX3lxTFBmZk9hb1VScGJPZG9EUEhETlpXcVJzYnhwVTB2elZRR3NsNTRIUE9NaDNqd2J3dEtSc00xRDI3V2hnY2JXbGZTSGVzVTE5SmQyTHJPWkJWTXdVRHNSZGc2TFRLOTBGLXY1djFMdnZielNfLTg1WTlGVThR0gF_QVVfeXFMUEQ0QUlEMXNxTWh2Q1pPeFdyVFBYMEEwX0RrU2dwdHZyb2JKS0V0c2wydXUxSE94QTdteHh0M1JxY3hyanhyWExOZGlpY3VjRlhqOUNpY01WczFVVXBCUDRNMDFQaE16c3JrYzYxSzFoUERrdmF2UnBiUk81MlZJWQ?oc=5
 
 ## Conclusão para o próximo aporte
 
