@@ -1,76 +1,43 @@
 [
   {
-    "titulo": "BDR da Anthropic estreia na B3 com alta de mais de 30% em paralelo ao IPO na Nasdaq - BPMoney",
-    "resumo": "BDR da Anthropic estreia na B3 com alta de mais de 30% em paralelo ao IPO na Nasdaq BPMoney",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkotZm1aSEJ6NUtOOTBGNDVxc0VjQm80a0k3SzlENURSeU9GN1NVVi1IOFp4ejBqajdSbjNrWDhGWDZwWmFDOWdjOEJMcWJwLVFna2pMZUdtRUZ1OWNDOVVjMDFocHpEOW1mYk1lbXo1aUZrMUFmdUJEOWE0SFF0TXVYVFFMdnhhQ0FqT2RVY3MtS0pzV0pKWVlEM2U4Q1E?oc=5",
-    "fonte": "BPMoney",
-    "consulta": "ações estreia bolsa IPO empresa brasileira",
-    "chave": "6777cc1ab225803c45ae4c95fc39ab38a3136ad1308bdcf2446ad580e3eb710b",
+    "titulo": "IPO da Anthropic movimenta US$ 93,5 bilhões e supera SpaceX como maior oferta pública da história - Portal Business",
+    "resumo": "IPO da Anthropic movimenta US$ 93,5 bilhões e supera SpaceX como maior oferta pública da história Portal Business",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPczBRMXBLdGdwbTVDSHMzbzNEOGNHT1FJZTFtRWQ3SV95V0lfckltVjRtWEVkV25nVUR2cjJUWWNJbzhyaFMzTTZQYllndTktTzgyckYyZzMtZElDOW1zUGw3MXQ4TXZXOVRLblVfODBVMW1qaWJnM0FOVXdDLUh3b1VQNVNtZVdjTVo3TnMyaXRZYng2bzVzM3pTOHFmNGV0M1o3TEdRS2lCOTlrRXRTUjNzMXNuS3pPLWZNeVlMT0ZpVXBwS2pLNVhYVWpkVDJrRXVHRQ?oc=5",
+    "fonte": "Portal Business",
+    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
+    "chave": "01cbc5aa54549c3a2e1076929c95d775c4e5470ff82a67bc908b8ffa604db24f",
     "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa",
-      "envolve bolsa, regulador ou mercado externo"
+      "cita oferta pública, follow-on ou emissão de ações"
     ],
-    "tipo": "IPO em fase avançada",
-    "estagio": "Fase avançada / estreia ou precificação",
-    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   },
   {
-    "titulo": "IPO da Anthropic atrai mais demanda de investidores de varejo do que o da SpaceX - Bloomberg Línea Brasil",
-    "resumo": "IPO da Anthropic atrai mais demanda de investidores de varejo do que o da SpaceX Bloomberg Línea Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmt6eG5rVHg4UWxfSDNfZTVXZVA5ZzFNNVFQdlVEcjhUZng0eVpPY2MwZTRUMlVhdzdHcF9sVlZneC1qZG92MjFSbGlNejVqR01wRzVuOU92ZUdEWllRbzAtaTEtbUJJRERGX2hnX3V6Zi0tazQtV2p1a0dZVmlGUDYzdmlJYnRkTHZMM0dlOTNWb2hldmpVX0dnRkp3ZjVaMWJkSTAzRUNKNUI1WU9PakRzSVMzaE9yb0N4YWUyT2k5QdIB1gFBVV95cUxOaW5WQVVUQ1NsUjZJY3Q1Smh2Nm1oYktRa1hDYVFETU41VThFeGZud0pyV3VLVFlJbnBRSzZXbGlKZklqZnJiNGQ4TlJTeE04YjE1UXBVal9tUEN2eVJSc1FKekRFYmNjR2VqVWdkcHQ0LTZwLVl4TWNuZzk2ZHNoNmFwUnkxakVqQmxQY3lmRmpac3lOM2Y4WUhzRHdxVDVUeGVCdTNKZXBNU3Fla0l0WGdDck1GUktIb0lOZHl6TmgtSGFGQ3A1QlQyejFrY3BkdHlHeUhR?oc=5",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Oferta Pública Inicial (IPO) e colocação privada da Anthropic devem arrecadar valor recorde de $107 bilhões - CoinDesk",
+    "resumo": "Oferta Pública Inicial (IPO) e colocação privada da Anthropic devem arrecadar valor recorde de $107 bilhões CoinDesk",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUR3Ung4OWphM1l3VHREQ29KSm1xa2Jra3dhWXp6WVNrU21aMmQyd29OLWMxajdwdVk2SGFsOEt2VE4tY3c3VnVOWklzUU1hVUlmNm1uRVpoY1JkLTdLaXNOWHBhWUNIdlNHQjR0a18wYWNkUTR5R3l1SG9FVk5lSUZ1T296cm5DeW1Ea0J3MEVkdzdjaDhSM0hkcTI2WXByeGE2U01iUFJUTkNneHNKMi10RXNOZw?oc=5",
+    "fonte": "CoinDesk",
     "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "c236755d2c66799616f1673c3e582a6ebb6e1c53eec3ceeaedbdb43fa2986c68",
-    "score": 8,
+    "chave": "bb5919e05ac1cbc3977aac3735e68f0b272a1bf8ca1e0f08122467049990a125",
+    "score": 10,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
+      "cita oferta pública, follow-on ou emissão de ações"
     ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
+    "tipo": "Oferta / follow-on",
+    "estagio": "Oferta subsequente / follow-on",
+    "acao": "Ver se a oferta pode diluir acionistas ou melhorar caixa da empresa. Não entrar sem analisar preço e objetivo da captação."
   },
   {
-    "titulo": "Ações da Anthropic caem 8,5% no 2º dia depois de IPO recorde - Poder360",
-    "resumo": "Ações da Anthropic caem 8,5% no 2º dia depois de IPO recorde Poder360",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTk9DNjBmazFYUmxDS2ZFeW5sTGxiTUJhRzZ4NGJrWkU0VnB5QjUwRHZvSnFsSTJ5cm50RFFabVg4REh5WWdLeVp1NkhrclJsVTdrendOWkNCSlFnY3pGVzl0M2RSUWlIUEptTm1YUnhrZ3A5X0xiMWQyV0xoZUpWRmNaNjZGOHpIN0xvOEdBek04dkhmelNmb1NUYXVPSzRmV1lKbA?oc=5",
-    "fonte": "Poder360",
-    "consulta": "follow-on OR oferta subsequente OR oferta de ações OR oferta pública ações",
-    "chave": "0bcc307f1b3c11dcb89a9a5d22008a342357df307c4883738e883256ce2406e2",
-    "score": 8,
-    "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
-    ],
-    "tipo": "Radar de IPO",
-    "estagio": "IPO / abertura de capital",
-    "acao": "Acompanhar. Não é recomendação de compra, apenas radar para estudo."
-  },
-  {
-    "titulo": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil - G1",
-    "resumo": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil G1",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzRrcnFrSDlLdWx0akRVMjZoZWloSi1fazlFMkM2TTRvOEhRZUZZcjlSRkc3MVgzZ1h2cVZ3aUdqU2JobVZPdTNZRHJpYTU1VEFCX25DOUpSWXFIZmtBel8xWlF4MUNMNnpYeVllcHQtcnV0MXN1VTFta2gzZ1luVjFsZzEyb2VLb1duS0w5VmFqb3FGVkQ2NW9BRzJqOU9X0gGvAUFVX3lxTFA0a1k2M1JGaFRjbHpKNHBVR0QyNDA0YUpveWNnMjgyWWRsQUF2ZjdWQmJ0ZC1wZmJLYl9BX0R2Q0tvUzVtTUdLTjhZeDFiRlRPM3BxYlgxXzVKVDNCY3hNV25ia2F3Tl9NMW4yNmNTSTFDUkJVVVNNNy1tX3RKVExTUnZfYnNZVlJzOHBGNFA2Y2sxZ0k1UlFCeU9mOHBkNWlCaVM1MGpSVi04UnJpMms?oc=5",
-    "fonte": "G1",
-    "consulta": "ações estreia bolsa IPO empresa brasileira",
-    "chave": "000f436a8feb6ada093bdf6086968fc8a1c38b4f3f0ae00abc2877556af40a9b",
-    "score": 8,
-    "motivos": [
-      "cita IPO, abertura de capital, prospecto ou estreia",
-      "tem relação direta com mercado financeiro/bolsa"
-    ],
-    "tipo": "IPO em fase avançada",
-    "estagio": "Fase avançada / estreia ou precificação",
-    "acao": "Vale estudar com calma antes de entrar. Ver preço/faixa indicativa, setor, dívida, lucro, destinação dos recursos e se combina com sua estratégia ARCA."
-  },
-  {
-    "titulo": "IPO da Anthropic: Dona do Claude estreia na bolsa avaliada em US$ 1,5 tri - CNN Brasil",
-    "resumo": "IPO da Anthropic: Dona do Claude estreia na bolsa avaliada em US$ 1,5 tri CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTi1TMm5CQmVCelg1bENZSnk2Rkl4V2RkbTVmakVkMVZ2STcxS3lLZGJhRUZuOVNkM3FUVE5PNGhMMW01aEVPNV9qMVNOcE9yQXV0b3plOVotSlRLQi1NS1JwZ1BrWGZXRS1ocE1CYmotYW05T09TaDVaWGVhd2szaklKLXM1dlM1M3lXRS1CQ0prRzlRamRwbTNaX3h1ai1xdWFBV3RjN2pzV21kOG5jX0wtdFRlVW80NlNwaDRyRG4?oc=5",
-    "fonte": "CNN Brasil",
-    "consulta": "ações estreia bolsa IPO empresa brasileira",
-    "chave": "2909d5f852c23e6d8c6307550a86af0aeddef4364e9da39db1e531b67c1f661c",
+    "titulo": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil - Expressão Rondônia",
+    "resumo": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil Expressão Rondônia",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXZpd1dVZFhhcUpiS3lGTjNTZUdmWHF1VnhNcUJFM3lnRUV1OTFYUUNUdzc5RGlqYTVIWlJJUEtyOEtDX0pGYkJBQUg3cVBJbUVpb1dHa2xaaDJuOXdINWtHVnN5NjJ1cmJBcy1pWDRvMExaRERtLVA2djBmMVJYUXZLN19MRXAtUnJtWXBSdUdUQ2l4b3hTb0xlX09XYWhYZFhvUXRTaDBHZHM4a1dLaHllTVNOSmxlbXhlY3YzdUd2TWhkamdicE5Lal9aQnZv?oc=5",
+    "fonte": "Expressão Rondônia",
+    "consulta": "IPO OR oferta pública inicial OR abertura de capital OR estreia na bolsa",
+    "chave": "2ceec1099d859a71e56cd72625495d3c390b8caeecd8a19a7b02a32290264648",
     "score": 8,
     "motivos": [
       "cita IPO, abertura de capital, prospecto ou estreia",
