@@ -1,104 +1,16 @@
 [
   {
-    "titulo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs - Money Times",
-    "resumo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs Money Times",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlRsT0oxT0hwZ3NSR1lEazFPYW1OSjJIWWNUQmFCdVZscjZwZHhPM0pjWDVvNmZoMmNtdW91S1ZDcTdFRGh5UW92blJrR1JiZ29MV0QyWklCTVlQVGZzNl9mUTZ0SEhBclRkUW9JdHZwSUdSMHZEenZRMzZWT1RUOHB5RU5qaHlDVk5QRklZaGFxYm5zaVBRR0pLTC1Qb3VIUkpqRjJ0bzYyLVh4M1FhaW1leXA4V0hFOE8tRFh1a2RMUW9YQ2NBUmdZUDVqN0o2endR?oc=5",
-    "fonte": "Money Times",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "4b087e41bd71bab0ff2bef099f588d3fe3b5b9f7722c817c4879e36c0f5be365",
+    "titulo": "Ibovespa recua 1% com rebaixamento do Goldman Sachs e fiscal no radar - UOL Economia",
+    "resumo": "Ibovespa recua 1% com rebaixamento do Goldman Sachs e fiscal no radar UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEFMSmVwWTNMcFh1VHF3Ml9RV1hZUEZIRVQySlY4UmpNSldrb2ZtY0I2RG5kWUdqNmJHQldnRHItWFJqQ2lzZG9FTzQ1ZnpNWXhudklBUW0yb01VVnlZb2Q0R0hCbmZ1NDRKdDdRZ2NiWWdBOVVmbklNZGU0VW9DZjNBc1ZITlpjQ1RNNk9QZTdYVFBXR196Y2JNbDdpOWU4bVA0OGJpS1JfLXpzcWdxYjFWeVQ1YzFwRmk4WEpETzBGaTZ1RjJBOF8xV2gxeWt6X2tCeFRn?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "5dd63c5002bd6f693705bad3a483981cd184d250505d1001b9ba3a4fa7d14efe",
     "ativos": [
-      "WRLD11"
+      "IBOB11"
     ],
     "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Nasdaq despenca mais de 5% um dia após IPO da Anthropic - iG Economia",
-    "resumo": "Nasdaq despenca mais de 5% um dia após IPO da Anthropic iG Economia",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjV4V2d4REtSUXV3amg5OUFmaDRsUzZ6MnVZdzduN0F0c2NLMG9oNG1WMjhQaVNEVHdXTnRkQ0hPOFRSVU93dElsbndjY3V5eDM5OVI3QzBnMnZUNzk0T002aE43T3RxYnc0VlZ3SlJRQmdFSjYybVBfcFhxMXF3Z3owX3d6SnBsMXNZSVp1UFp0em1vbER0WXdjR3Vqd9IBowFBVV95cUxORmFxT1QyWWRHS205ZWFaYnRPa0dXR3JET1p1U0J1d2c0NldnWWlFdFNZa25DNDdoNVNVYUlSd3BKRHZTbTdlalF3S2hhS3VpQjYtMnJzWlE1YUNvU2hzZnlMbEJVYWlRMmVMOG9FeVdJNWplRHpWNXFKeFMwTnZKWlM0NEszQ3JyN00wOHpYSFdlRUJTRzVKU21TR2JoVWxWSy1V?oc=5",
-    "fonte": "iG Economia",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "80a34e4606df5aac23f32aed64e29cb7f3ba8994999dbcdd82888862a12e937f",
-    "ativos": [
-      "WRLD11",
-      "SPCX34"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de risco/queda/alerta"
-    ],
-    "tipo": "Risco / Atenção",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC) - Banco Central do Brasil",
-    "resumo": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC) Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sTVdUT19yYktzclE1QW81VU92NXFuRTNjZjlfZEtLUk45akJJcHVCMEVCYUp0X05tVzRyZVVhQmotMFJnRE40Nk5NVHdvbjRUaERZUEplclo5aU1m?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4cdd07efe873822733bc297dc6ff1722e7931c007f08cc32268025fe7fe52b01",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Caso Banco Master expõe diferenças entre Campos Neto e Galípolo no Banco Central - Sindicato dos Bancários",
-    "resumo": "Caso Banco Master expõe diferenças entre Campos Neto e Galípolo no Banco Central Sindicato dos Bancários",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWRzUDlZWUhYOVQ5SVBWZjIzZEx4MDc5U3U5dkxReVE5QTBacGozWU5qUC02X3I0UjB5T0V3a2xzNTc3d3FOZ1hod0FZZGc5c2JDd3FjVzVUdXFyQVA4NjMtc1kwRUJFNEQxdkVjV1A2YWJqQy1oSUhZT3FNay04X3MyVTgxaFdOckdja0V3?oc=5",
-    "fonte": "Sindicato dos Bancários",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "3c26721db23900efcde8b4a4d9324d2d896aeb85fe5c91c46ff0a1316dafe404",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Nasdaq desaba 5% com venda de ações de tecnologia e possível investigação contra a Nvidia - Estadão",
-    "resumo": "Nasdaq desaba 5% com venda de ações de tecnologia e possível investigação contra a Nvidia Estadão",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJRVTFvN3J5d3FpTkVBVTZpMXlwNkxCUnhqTm9nRUs0enA1QVhmQ0dDc1dlQVdGOUVFNEtleXVkMXRURzJNV0V0YTdzOFRobWRzTjhfRVotX3BiM0JWMkpYTGZPdjd4bC02QWtHdWdWMjFEU1dwWWZLTjNTdWdKeFBPVlczYzBhZksxTXpyeEVTaWRmX0h0V2prcE9lSjhfUkl5aWpJX0M3RGxtaWpWRXZES1VKSm5tOXlCYmhhQkVRZlU2cVhDRtIBzgFBVV95cUxQSFVoa3F6aXhYQ09FRXZad0NzUi1YTnBkV1hfcDJaMUt0U2pGaW1QS2FqMkxETm5ac2lVNjAwRkVfLWNBQjlPUm1kSEFjNlRVa2JnLVdBR1JwZURScnRKOEtCR2lDNnBScERWWWVsb0xaeVdPRlZXZU16dEZ0bzQybUVyNjZNSjhnX2NnZ1BudHlELWJrVmQzZ2VZR2dEcnFfWHFoVnkxTmdEZmpkUnVWV0o1OHU4Rm9pM0NkQ2x1OE9kNjd6Vmw2VkU3VG4zZw?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "563f86ddeedb7448897d9f8c75411af5fa9cd1c59861b31486bf0a3dd1978d93",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
+      "Ações Brasil"
     ],
     "score": 9,
     "motivos": [
