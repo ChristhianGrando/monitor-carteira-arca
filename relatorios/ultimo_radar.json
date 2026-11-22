@@ -1,46 +1,25 @@
 [
   {
-    "titulo": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito - Banco Central do Brasil",
-    "resumo": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yaU1lV2tndjYwUElaWVJPZ1JheDNqbngwYTRlYnBPdEhsWnhSY1lGTHhHUEJXeXk1Rk1pemh3bTZDbFhsdndYT3l4S0ZBRzA2SmcwV0hRRUp3WGV1?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "87c11e143ee67350a2e5f0a62a92394cc453a75c886a0f29eb6f890a705d9737",
+    "titulo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos - Nord Investimentos",
+    "resumo": "IPO de FII vale a pena? Entenda os riscos dos fundos novos Nord Investimentos",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96WS1QWWVsTmhXSFRUSzJ1LWk3M2pLb2dtVFh6M3dlSUdBUGttTWNMMzRKdEUtYW5kS3hpVjRwOXFDd2hpVEFfVXZGeXViMDBVSTRfS1lpSFdRZlh1S0x0cUg2ONIBaEFVX3lxTE93cm40V0xjLTRZS0dhWmM1UnpIVDNVQ2drVHpzMWN3MXJtVVJNdGFIUGo1N0dWTEl1ZWFFSUIzeENOMU5BUGRFQWVQQWQ3bzJlZm9EUS1PV05DcUhVanh3ckR1clh3TzQw?oc=5",
+    "fonte": "Nord Investimentos",
+    "consulta": "FIIs oportunidade compra desconto vacância dividendos Selic",
+    "chave": "9eda1d7f4acc9a2df886ed6c8f9b058f22ebfb27d9f981b26a815ee57962481c",
     "ativos": [
-      "CDB 100% CDI"
+      "IBOB11",
+      "SPCX34"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
     "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central projeta Pix sem internet para os próximos anos - SERJUSMIG",
-    "resumo": "Banco Central projeta Pix sem internet para os próximos anos SERJUSMIG",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWFnbXU2bEVhaXZpaXFhQldqU0xfbkxPMXFQZE1lWDhxM3U1S0U5bjhTZFhhS1BYVTJvTVBjUUZJOHhIV0R5NFpzSjFaTGpRZGpqV3JNdHdGYUFfX1RTeHNDcmwtcU1IaGgxVkRCVkdMNW1LSzVKTFpxd2g3dEt0WTBVUzFNeVRydlV5LVdXVQ?oc=5",
-    "fonte": "SERJUSMIG",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "4df7a1874811f6c71d3f3d656e578b77766c9064014369cadef84676ddc485d0",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
