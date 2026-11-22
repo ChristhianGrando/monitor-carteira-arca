@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 22/11/2026 00:42
+# Relatório da Carteira ARCA — 22/11/2026 18:42
 
 ## Carteira monitorada
 
@@ -13,75 +13,107 @@
 ## Resumo
 
 Notícias coletadas agora: 49.
-Notícias novas, ainda não enviadas antes: 18.
+Notícias novas, ainda não enviadas antes: 23.
 
-Foram selecionadas 8 notícias relevantes para este envio: 0 de alto impacto, 0 de médio impacto e 8 de baixo impacto.
+Foram selecionadas 12 notícias relevantes para este envio: 4 de alto impacto, 5 de médio impacto e 3 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Brady e advogado de Elon Musk negociam participação no Chelsea - Correio do Povo Penedo
+### 1. PIB nos EUA, IPCA-15 e desemprego no Brasil: o que mexe com o mercado nesta semana - Estadão
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
+- Fonte: Estadão
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTQ3YUkxZjZJSWpSR205S1JEWDBLQzYxazBnVHhTT0pCVU9WQWRCVkx3M1pJaEdpVk0zREZ2UV9nV2Q0enF1QzZZMmpoXzlocEtteHpJS0lKMlBReFFOVWlQZ3ozZVExRDhUMHFtdk9IWlUtem5iUUhnTENpY0RyNmhuN2h1SldEMHIyYW9VRzJPUEszTnNQaEs4Q2ZXRjVxMDB5bUZBTkNhS0VQQXFMMnJ4YU5MSmRGY3F0cjY0bGpCdzNzNEtMQUE3WE9idzBCWWFaQURn0gHbAUFVX3lxTE43VFlWMUlMb2JMTERkWVk2WFd0LU5IODZnWmNQcnJJQWM5U3BjX3pCS2hSOUszZlYybUgxOTVHa3BrTW9kZ01WbXZXd0RtQVBZd3hpMVluUkktSkNrdXpXTjNVZ1RSS0hJSzljZ1R4X2RmbUJodDYxbTgxMDFMX2k3M2EwQW9aMnh3STdRUE55MVNUZjh6VzluZml4S1AzTG04akpZOGJsUGwxRXhHSGJxU3FXbWRXUU1FZDhqSkNFNWtHWGJQTi1BdmozQmNobjJTeElXVWJLaTNLZw?oc=5
+
+### 2. Macro Semanal: S&P 500 Derrete e o CDI não é a única opção de proteção - Investing.com Brasil - Finanças, Câmbio e Investimentos
+
+- Impacto: Alto
+- Ativos afetados: WRLD11, KNCR11, CDB 100% CDI
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
+- Explicação: pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmQ2VTlHckI0NDhtQWR1bWw4d2hkend3dExJbzVKOExIS1RMR0hscm5rd2I3Yl9aR2x3OWJMcGhRbjlWMnVEc0ZJUzk3Wno5ZEZmVlpEWTRNV3BCeW9sS3hqR21lSUxkNUJpS3pBWVVaNmYzZllBTTBTS1VyNXlVY2dFejdBZzJBLW0tNWlCUTl0WUtkbHVvTmJoNTBLeng3Qm84eXJLQkZFV0JPcUZkZW53?oc=5
+
+### 3. Banco Central amplia acesso de cooperativas de crédito ao mercado aberto e moderniza operações do sistema Selic - Jornal Grande Bahia
+
+- Impacto: Alto
+- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Fonte: Jornal Grande Bahia
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU09UMzE4TGY3OTRvSWlveEI4NDA3STlpOHhJejZzTllnTjN3eDRIbVY0Q0licDNCV0VsdmhSMDgzWlRyNDQ2bVJfaHdCaDdBZkNUV096MHYtYWw5SlhZalVtZW1fVDBiZlN3M0RZaWp5Q0JuOXJLbzM0TEFxYlRjWjdXVWxfMzRhM0VkdjlSZmdLMVRtRnpMbHhiRGdjckh2VnEwS1RwM2dKcV93dnNDRTFENE5xVFN4YzBHS0NBOE12VkVNa29PSnNSb1NqV0EwNThsQXh1WUJfNjFVbWJ4SURYaThKZFBN?oc=5
+
+### 4. Agência de Comunicação - Juros e inflação: como eles afetam as decisões de quem aplica - Estadão Blue Studio
+
+- Impacto: Alto
+- Ativos afetados: CDB 100% CDI
+- Fonte: Estadão Blue Studio
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUEVPd1BvZEdRTFp1dXcySEp4dzJXX2w3bFpfcWRMcWQ3bUZGX0Y1T2FnOXZkQTRtZTdkWjBFaTFvLWptdjQ4R1pqc1JaMFhKeVY5enoxRk5TZkxOUFhFTmNXLV81aXBweTVIT2J2MTV2ZHlVZkNLRVI3M2lmaF9VYzhoTnJBWEsxUDlxcHpNaENySFBFR0ZJd0U4RE5icGR4OVBrUXdKNXJWM1N3QlRKZnhNNWhyZVgzNVJxTnpQZzgySV9MbExJRzVXNzA2M0txQ1IwTk5NaFBkeGp4Vmc?oc=5
+
+### 5. Itaú BBA Vê Ibovespa a 195 Mil Pontos em 2027, Mas Alerta para Juros Altos - Forbes Brasil
+
+- Impacto: Médio
+- Ativos afetados: IBOB11
+- Fonte: Forbes Brasil
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjJVb1MyNUoweU9VNkRCWThhZ1N6eGY4cF9rT01HNjFRTHlOVXFyaE1yYVlyZW9Lak53b3h5YkNsdU44amR0alhtLTk1TzZUdWNaQnUwRVdlZ2ozY3hzQWpKUnU1bnF2TmlhMTRjYXpNanBwRkQ3QjhBT2h6U3lRR2w4UlZBRXNfbm1DNEtxVVd1WXVKWnQ5Wg?oc=5
+
+### 6. Tombo das ações de IA derruba Nasdaq em 5,28% e provoca onda de perdas em Wall Street - Exame
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: Exame
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRFYnJaeHNCcTBHYlJneWxidzg0QW5IOTM2Z2tfVVZWaU9scjRxeXBDM0FPNXp5eTBXZVhFSTEwTGtSNS1HNjQ4b0I0SEtOd3RPZTBhdHUxanYtSjRvMTNHeVluMkR0ZEFzNFgyMndwSTJUdFNMX1hVeW5nQzNhbVFXM1h5MDJkZngtOWFFTVNfY0JvMmlzQXpnNTl1akdHT1RDTzE2MFprNnBlcDliQlZ3TzY2LXB3MHc?oc=5
+
+### 7. S&P 500 cai abaixo da média móvel de 200 dias: oportunidade de compra na baixa ou alerta de bear market? - TradingKey
+
+- Impacto: Médio
+- Ativos afetados: WRLD11
+- Fonte: TradingKey
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQYTNNd3lzMWhrd2tydDZzVUZhdVBlejFrUUVxc0ZHZC1XaEM5MUt4eUJqS3Z3REdDbkJzTFQ3VFp3bzJsb2hfYXZOWDNJTlp1SDlJZEhYa2cxMl9KZ185c0JPeGhWOUNZQzN6bnZCNmEzenluQ0RSTjBzLTR3S2tmTEtxNVlBLU1ZVUt1blhMTFBHd05rbW5hcUxWbmJ2MVNhRk93M0xnNVhjOG5PRWp1WUZWc05kZw?oc=5
+
+### 8. Assim como a SpaceX, Anthropic adota modelo incomum de IPO - CNN Brasil
+
+- Impacto: Médio
+- Ativos afetados: SPCX34
+- Fonte: CNN Brasil
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNb25uUG9ILWRSdExrTzhVSXNVYklEQllINE5OOEIxRFRsdHM1UDJicVhLZmlXSk5vYU1WS0ROYkpYMmoyLVlWcXM4d1ZfcURidE1PTjJMN3dkZ3lka3RNOGVSRWNrajRpcEJxdUdlLVUwR212NkN1cWp0SzlRdEx6a09UNmZOT2dIU0FpSDIzdUZIcVRfQVZlbXI1UkNKOVMyQXVnYWZDS29JOWwyQzJjbQ?oc=5
+
+### 9. BNDES reduz exposição à Petrobras para 20% do patrimônio líquido do banco - TAGD Advogados
+
+- Impacto: Médio
+- Ativos afetados: IBOB11
+- Fonte: TAGD Advogados
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGVObXZFc3JLREVTQ0cxRlMwOUJMeklTdzhpdERCTzRrUTVWZlluM2RyaW9TTWRXLURHcjVRUEVmTDZ5OFRVaTYwaTlrbFhRREJ0aUl3dDk4cDZuRkk5LW9hX3Y5S0VCN1ppemRpUktLeWtjWVlobXdNSmoyejd3TnpCdmZjQno5ZEl5M1ZIYmNpNm5ZTWFlMWloSUs?oc=5
+
+### 10. Milei inaugura primeira loja da Tesla na Argentina com participação de Elon Musk - 40graus.com.br
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Correio do Povo Penedo
+- Fonte: 40graus.com.br
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNamhiZjNJcm5URkRrcW5ETE5McnVpd0lQSzYxRWFlRHBlbWJvdFJQclI2cFBXRFdpcXJuYlVkZ0VJcGhManhXXzBfX0NMWHlwZ3VNQWdtSU5QVzFoR1h5RFFuRzgzakJLSUdyQ210eGZXdGZXNTc1bHUzQmdrMjhwZV9pbjhNU1Q1QloyOE95ZGh0MnZKdnRtcEtUYmR5NndyOHY1aGNKRkpGV3pab1lwZ01zN3dwMzA?oc=5
+- Link: https://news.google.com/rss/articles/CBMickFVX3lxTFBQZEhtLXkxWUt4N21QTUxDWGd0aWZOODVmQTE1NGdYZC1oUnVMdUYzMW1GbmI5dHRvZmRNRHcxaEZZVHZDTnNwTUhZd0VIOUlUSTAxNmZaXzhJenV1OTM0YjN4TmswUWhXTnJvTFNhQ1FOQQ?oc=5
 
-### 2. Musk diz que se sente "tolo" por doar milhões para candidatos republicanos - DW.com
+### 11. Musk e Milei inauguram primeira loja da Tesla na Argentina - Revista Oeste
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: DW.com
+- Fonte: Revista Oeste
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQVTJpUUpuN3JhVEEteWdxc09jN3RJNXhVaHZzQ2VKNnJnb0pwWVk1aVB6NGczYzdRTWwwRTZVejhlaEd4bHZQQzhNck9xUEk4ODJNc29QRFlGZ1A4TWFKa0tEN092TFBPVUVNY05HbGE4ZHlBclYzR0RwRE5xMVBNNmN4aEJNczBTTXYtdTk0M216eHFyODN6dVFOY3J0RjRhaTlZLWtrREZibnQxcVdHX2lwTdIBswFBVV95cUxQT211R0hEclpCMkxCdk9qWVhFSnpjMDZkOThwVllxbWtKQm9PSXpUQ0FHUW5Bamlic1BjZ3JzWHd3Tjl3emJFTGJBM0ZfZEJWOXdXaXo4YUF0SG1GZm5GS3VtejAteEFNdjQ4R3kwWnNINDUwaFg3Z2I3TW5lMjE2R2FpU0ZjWmFsTVRSNWxGX2pBZXZ4TEtEWFpjb1lMckh1djBFUkRuTUJkV1NtZDREcmdQOA?oc=5
+- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3owNTY1TXVFbENTZlEzN0I0YVAxR3pEWjVIWmJacjNzZ1VsNGdKdUxtMGM5Z2V0ODNMQ0QwN2QwUGhELTFkMHZCMkNvRVVuUVFEelpmQVdkZXJvWGNVdDZRbkdOald5NzVUV0JMQ29reHpQSDRfX1dOUHp6d3FjaTNUVmQtY0plNzJIUUtwYUJCU194?oc=5
 
-### 3. Elon Musk quer fundir Tesla e SpaceX. Os negócios das empresas já se sobrepõem - InfoMoney
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: InfoMoney
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm01X0NDS0xVM2IydXJLeFg4bXJ2ZG5ETGl6RUFQYUU1NWlQdC1qMEtDaEFicG1OTTNIMkFLVzBFc2Z2YW1XODRFUnBPMzhRdTFaYWwxc1Vza2RhMDRFdTE1NFkxUTM2Y3dGOVlETWtRREhWN09tRjNQT2dONV9fVF9LZU5sbW9wTTliZ2ZOTmdkVWVqY1lJWTFCa2EyUl9mcTJnZE8tSi1BdFN6M2JqTVhBRjlVanpoVVhvdHoyUlnSAcYBQVVfeXFMTUNQZm5lbVlVc2plQ3lVZkQyaXRSR2dSSmk4WE9QMmdfV0JSaTJjb2I2Z0ItYnM0cVJ5TS1kZ2o1N3hXbnB5bXdhWHMzTGZZbElWLU80SW5DbVdSc0lrZjhsM1JRaTlzYk1WdzBJVEZEeXNVVUNQY1hnank5WFNTNkhudHNYMXdIckNHVW9leEJ6QTk3bmRMWjdnczI4ZWxrVGtpMGdYTzlDOU9BTG5BSmo0VTdhQW1ReGwtTG91QXVzek5VdGp3?oc=5
-
-### 4. BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito - Banco Central do Brasil
+### 12. Pix celebra 6 anos como motor de inclusão e eficiência financeira em todo o Brasil - Banco Central do Brasil
 
 - Impacto: Baixo
 - Ativos afetados: CDB 100% CDI
 - Fonte: Banco Central do Brasil
 - Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yaU1lV2tndjYwUElaWVJPZ1JheDNqbngwYTRlYnBPdEhsWnhSY1lGTHhHUEJXeXk1Rk1pemh3bTZDbFhsdndYT3l4S0ZBRzA2SmcwV0hRRUp3WGV1?oc=5
-
-### 5. Alinhar o Banco Central à Fazenda vira prioridade para integrar agenda econômica - Extra Classe
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Extra Classe
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbXR0TmpwNkR6SzFGYWZLbUg5aGE2WVJ6UXR6MlJZWXBDNjZtS3RWZlY4MmIwUUV1MlZBSmk3dzRvTWVKRmpSRFVLMmtNZmRXc0lld0JMamdWMHgxUGNURG1sYTJJV211SGlZOUJEbUh0bE05NG0yUUFxdExHRVhtYzFwWDRvQlpKd19HdTRMeE5ycjlzcm5kRV9iREhJNGQxT1otY3ZDVk1mUVpNSXJhMk1jTE9OVi1ULWtXOU1fZTNDbDY2emQyTg?oc=5
-
-### 6. Banco Central muda regras para incluir cooperativas no mercado aberto - UOL Economia
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: UOL Economia
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFM3Mmg2bzVqT003QW1TWkQxMk9SN2V2ODNHOGJNandJb252TUsyRDFoQXlveVVfcEJrMDB1SDdUY2ZvVXU2eE4xdWdDVVR6RDZ4dVF3eU9tSnJtS1YtbmdTRUE3dVBlc1RIWGk0UnpxdkJRNDJ0M1AtaEpFVWdZRy02M3JCZVpwU3AyU3RXaFBaT0dIT0VhQS1fODYtcF9RSzFoVkQtOEdzeFdudXc?oc=5
-
-### 7. Banco Central projeta Pix sem internet para os próximos anos - SERJUSMIG
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: SERJUSMIG
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWFnbXU2bEVhaXZpaXFhQldqU0xfbkxPMXFQZE1lWDhxM3U1S0U5bjhTZFhhS1BYVTJvTVBjUUZJOHhIV0R5NFpzSjFaTGpRZGpqV3JNdHdGYUFfX1RTeHNDcmwtcU1IaGgxVkRCVkdMNW1LSzVKTFpxd2g3dEt0WTBVUzFNeVRydlV5LVdXVQ?oc=5
-
-### 8. Caso Banco Master expõe diferenças entre Campos Neto e Galípolo no Banco Central - Sindicato dos Bancários
-
-- Impacto: Baixo
-- Ativos afetados: CDB 100% CDI
-- Fonte: Sindicato dos Bancários
-- Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWRzUDlZWUhYOVQ5SVBWZjIzZEx4MDc5U3U5dkxReVE5QTBacGozWU5qUC02X3I0UjB5T0V3a2xzNTc3d3FOZ1hod0FZZGc5c2JDd3FjVzVUdXFyQVA4NjMtc1kwRUJFNEQxdkVjV1A2YWJqQy1oSUhZT3FNay04X3MyVTgxaFdOckdja0V3?oc=5
+- Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xZmpLZHZScmJUYUZ1VVJSRW1GU1VMTFB5ZGxQMlhuaVNCcGF0WFJ1alNXUExjWFN5bHk3S1BCbk44bkdfeTNEZzlreVhfaHFmZHBGN1p2QXYwcEZUWUMzRA?oc=5
 
 ## Conclusão para o próximo aporte
 
