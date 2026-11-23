@@ -1,11 +1,63 @@
 [
   {
-    "titulo": "PIB do Chile registra maior queda desde 2020 e Banco Central alerta para recuperação lenta - Vero Notícias",
-    "resumo": "PIB do Chile registra maior queda desde 2020 e Banco Central alerta para recuperação lenta Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3NCNVFkSnB2TnhmRUZrOFZIb2ZuMnlBNUtOSzJmMzFCR1RlWERWcjBlV0ZibjRnbktYSzZKeXFvS2l2Z2ZsdElwNFo3d3NjV0JKcnJrRHBBSXhOUFpBNmZ2LW5aNlhYejA3NEpTZ0xtVlYxc1hXdTNPclNEVnJnd0x4WmlRUEdkX2syM1dEWEw0WWxuTE1kRTJTTW9YeTQzUk9Fa3ZObzNtNklEQUpfS1hUUDlBM25uM1dqWkVESTRoRU0?oc=5",
-    "fonte": "Vero Notícias",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "789809d5278cfd53d0308e57fbbff33b7f0f86bfb8a84e6e27da72002ace58dc",
+    "titulo": "Boletim Focus eleva projeções para inflação e dólar e prevê Selic a 13% em 2027 - InfoMoney",
+    "resumo": "Boletim Focus eleva projeções para inflação e dólar e prevê Selic a 13% em 2027 InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11WUVGWmFkMjM0a0RjREZRblluSkxpQ21fOC1xUEROT0l0MzN2Zlh1NUxaX0FwX1pzckdaRkY0ZG1HT2xrYWNsRUZBNWhoTnBLS0QwWUladFRldXNsYmlzS2xwMEgxYlVza29OQmE2V01LMTc4aUp0OWFib9IBgAFBVV95cUxQSjNTWnA0cWtSNjgzMEtORTVoR2hzYndBTExSVUFzSUJzblVDUzhRWUZuZm9RZ2wyMDBEeWdfWG9DdjV6VnIyaUxMUFVZekk1Y3doS2tlRVM1Z0ZCYXlsR1hpbjlpSjIwZGFBbmp1Y3B4WjdTMWlTRGVjYm5tTXpSaQ?oc=5",
+    "fonte": "InfoMoney",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "12f33e9b0b20c0803eed4dedb5a3bd5ccd720faeeaebdd0a1f9e725ce3fbb48c",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Do IPO da dona do Claude à crise da Nvidia: a correção de Wall Street em cinco pontos - Exame",
+    "resumo": "Do IPO da dona do Claude à crise da Nvidia: a correção de Wall Street em cinco pontos Exame",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1ZIRXh0d2VVWjVqX0ZwcG1lODNUQUtiektINnR5QldyUS1PNWRWV1p4TGdyMmlRSG9oamlxc2dKVFZXWG1Vc09CRmdJWHc2WEpvUlhMaDNxYkpZdkR5LWtoWVJZVUthUkpENVZiOEhtSUNKeUhVQ2wtQS1Lc3EySE03bWZON2RwaW51RW9GSHdJbnpPNGViN2o4TXNQSGl3RUFncy00TEI2ejF0T09JTGZKWlBScjc4anY4?oc=5",
+    "fonte": "Exame",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "a90a7a89464aba05be1fc35dbf2d174d2729463e856d2f7fba01e86fc754a814",
+    "ativos": [
+      "SPCX34",
+      "KNCR11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Real Estate / FIIs"
+    ],
+    "score": 13,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "KNIP11: como a inflação afeta os dividendos deste FII? Veja a estratégia - Fiis",
+    "resumo": "KNIP11: como a inflação afeta os dividendos deste FII? Veja a estratégia Fiis",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ua1AwUVNndWV2bm5iTmNzZV9DbXptSU9HWVJHZF90cUhpSWhWcTAxbkdLWmo5V3pYV2tMd3NhWHY2TElCU0lKY3Z1OUEtejBvakNzUW8wejJ4V0NoSUtaOHZWYWZzRXFsM2xmRWRTMzhhS1E5VERlcHdHVQ?oc=5",
+    "fonte": "Fiis",
+    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
+    "chave": "564bcdb63c351b5ffee2c4f8144390138c43f2e01bdbe948224b908773b7270d",
     "ativos": [
       "CDB 100% CDI"
     ],
@@ -23,21 +75,21 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ibovespa hoje enfrenta novo teste com dados dos EUA e projeções de juros e inflação no Brasil - Estadão",
-    "resumo": "Ibovespa hoje enfrenta novo teste com dados dos EUA e projeções de juros e inflação no Brasil Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMm9kOXBlODlDb2pkY0RhTmVDeUtNMUYtZDZCSVpRbVhOV1BNdzFqQWE4SHJmUUtzYUpjVGNZZE1DaWVkMVc0eTU3RVZGOTVIYTBNQ1Nhek1KajBmQ0lpNnctc0dGYmV4N0ZHRjZxSTNCVjIxcmlFQW03YTFoM3I4UTVIVG91OGNwNnN5UVpBXzVBOFF6N1o1MU8zMFZqcEg4c3pQVVdlM0FZbUdfYmxsU1cwd0JPQTN6LV9SVkYwQ1QzZUFNMmRBR3NKaTNmT1VKQ1ZjeXhidS1BUy1BenJQSDJiQXYtWkp6OGxzTFZfZ0xvdw?oc=5",
-    "fonte": "Estadão",
+    "titulo": "IPCA FICA EM 0,14% EM OUTUBRO - Portal CNA Brasil",
+    "resumo": "IPCA FICA EM 0,14% EM OUTUBRO Portal CNA Brasil",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuSmhsQ0phYzJhenpRWWJKRk9NelVRb281M0p3UW5uM3lOZFZRdkJZcng1anMzVEJXMW5PNi04MkM4QUxoVC0ta1Z3V1Nfc1l6bUlSOUNZY3JDdkwzdTFLeW9zV3dybXFXUGxOdDZHWW9LM0U?oc=5",
+    "fonte": "Portal CNA Brasil",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "cdc47374399303689ad432632b32f1fb4f9eb33f07e60b243f4de42e5a3ea284",
+    "chave": "67acc3e656f8e80f0d1636d9dfceafefb9310eb12989fb8d7063cafe2f35bb36",
     "ativos": [
       "IBOB11",
-      "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Ações Brasil",
-      "Caixa / Reserva"
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
     "score": 12,
     "motivos": [
@@ -49,63 +101,23 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "As quatro mulheres sondadas por Galípolo para a diretoria do Banco Central - PlatôBR",
-    "resumo": "As quatro mulheres sondadas por Galípolo para a diretoria do Banco Central PlatôBR",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHRaNk8zc3htWlBxZm1ncWEyVk1rUXVFRndIUlR1U1JuUmVZNlg4WDVDcnJvMzdwN3dPWUhPSGN1Y2E2RUYzNHVUMjlpd0dqT3NpVDFOVnZJeEl6THNnUERFS1BtUTRUaG1JbWViaEFkVUk5LWswaTZLaUlNdm9qUTlqNWozUFJoX0RqdC1TbGRua0JQNXlBdWJxcXhnZw?oc=5",
-    "fonte": "PlatôBR",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "f0decb792d89c70155825a6ed8ae41739319489495c31cf6391c81f7ae3d0619",
+    "titulo": "Boletim Focus eleva previsão de inflação e aponta Selic de 13% no fim de 2027 - Portal do Agronegócio",
+    "resumo": "Boletim Focus eleva previsão de inflação e aponta Selic de 13% no fim de 2027 Portal do Agronegócio",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVGRSblJESFZwWXVPYTRIeXV0b2RQT3ZqVnByQU9UQUhYNktkd3dHSFphOWhyeFFVdzVWcmQxVm1ZWGQ0MXB2UHZ4dVBmQzR1VGdHeWNCZHREeFpuYnBjQWVKd3h4X1JqV3dNSkFVOFdOVTByTXBCT1Jhdl96YmkwLTRkbDlPdXFKUC1SZzRidW5sYWhDRWNFVWdYaW9TVkRXV2hVc1lTWjMtelZrbVRVTnpsd2U4Z2l5T0RVVlVSb0QtT2RiQTQtOHpzY0VKbkM5Z3FsTld2UndLNklwaW0ybElhMm1VdFk?oc=5",
+    "fonte": "Portal do Agronegócio",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "6595b02d8a1779bff1693d04ce55472d1b652020606629d9934676fef90baa5c",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Estrangeiros reforçam compras de dólar futuro e pressão sobre o real continua - InfoMoney",
-    "resumo": "Estrangeiros reforçam compras de dólar futuro e pressão sobre o real continua InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWm1rTm8zWWJWdTVBRl9wblRIc081M0wwbGxvd1dGNGtPemdTV1kwOUFDdnRTRlFZM3pBdnp4THVab0cxdnV2cGllM0ZYNHI0Z0VYY0dpNHZ4YzZvbHJodU9WR05VSzVWNjlMZjFCQmVjVmRtaVVRQlZTWXRMc2JZUkV0TnNBSFU0VDUwWVpR0gGTAUFVX3lxTFBlVTBTUHdyRFpPc25RaHNVUjNQWTEwSjJweUFlcWk2elFMVFV1VVZveXV1bW02V2d6eURFR3hlbzAxWVhmVTBMWkZlay1zdTE4UDVIaXVqZXBCbDFnVndRcEMybTJsb3l5VGlzdjFrMFRTaDhsclNGVmtkbWNqUjl2ZW9oYkIwNlNmOVh5aUx5YUZwRQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "945322ae9727dcb3490eb56cee5bf56fd5bf42ac10eeb59c78a8f7ca9b47c9e8",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ],
-    "score": 10,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central amplia acesso de cooperativas de crédito ao mercado aberto - Conexão Marília",
-    "resumo": "Banco Central amplia acesso de cooperativas de crédito ao mercado aberto Conexão Marília",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkV6T2NiMnl2U2V2cERPei1Va093T2x1OEo0b2hEUEVDLVlHeVJ5UUNiTDRIbHRHeldqTm1GOUx3R0ZGbFQ2NEpZTFlMa25oNzNEVnJMNGlqY18xbjc1YnpZVmpzZUgtWFo2bVdveHNsbkYyVlZKTzc2Y0pLSVdDR29kZzdMR2xaQ2YyVjRZSXh2VmxJZl9SMEVfREh5Zk9DSVN1OUNVSFNzLV9VcWdNajFDbEE?oc=5",
-    "fonte": "Conexão Marília",
-    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "8a5c4ee24947590e9e88fd5526aa21a89b7cf9edd9842206668e96998b73964b",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ],
-    "score": 10,
+    "score": 12,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
