@@ -1,39 +1,11 @@
 [
   {
-    "titulo": "Boletim Focus eleva projeções para inflação e dólar e prevê Selic a 13% em 2027 - InfoMoney",
-    "resumo": "Boletim Focus eleva projeções para inflação e dólar e prevê Selic a 13% em 2027 InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11WUVGWmFkMjM0a0RjREZRblluSkxpQ21fOC1xUEROT0l0MzN2Zlh1NUxaX0FwX1pzckdaRkY0ZG1HT2xrYWNsRUZBNWhoTnBLS0QwWUladFRldXNsYmlzS2xwMEgxYlVza29OQmE2V01LMTc4aUp0OWFib9IBgAFBVV95cUxQSjNTWnA0cWtSNjgzMEtORTVoR2hzYndBTExSVUFzSUJzblVDUzhRWUZuZm9RZ2wyMDBEeWdfWG9DdjV6VnIyaUxMUFVZekk1Y3doS2tlRVM1Z0ZCYXlsR1hpbjlpSjIwZGFBbmp1Y3B4WjdTMWlTRGVjYm5tTXpSaQ?oc=5",
-    "fonte": "InfoMoney",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "12f33e9b0b20c0803eed4dedb5a3bd5ccd720faeeaebdd0a1f9e725ce3fbb48c",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 13,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Do IPO da dona do Claude à crise da Nvidia: a correção de Wall Street em cinco pontos - Exame",
-    "resumo": "Do IPO da dona do Claude à crise da Nvidia: a correção de Wall Street em cinco pontos Exame",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1ZIRXh0d2VVWjVqX0ZwcG1lODNUQUtiektINnR5QldyUS1PNWRWV1p4TGdyMmlRSG9oamlxc2dKVFZXWG1Vc09CRmdJWHc2WEpvUlhMaDNxYkpZdkR5LWtoWVJZVUthUkpENVZiOEhtSUNKeUhVQ2wtQS1Lc3EySE03bWZON2RwaW51RW9GSHdJbnpPNGViN2o4TXNQSGl3RUFncy00TEI2ejF0T09JTGZKWlBScjc4anY4?oc=5",
-    "fonte": "Exame",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "a90a7a89464aba05be1fc35dbf2d174d2729463e856d2f7fba01e86fc754a814",
+    "titulo": "Elon Musk alerta que empresas de IA podem enfrentar uma crise de caixa em 2027 - BeInCrypto",
+    "resumo": "Elon Musk alerta que empresas de IA podem enfrentar uma crise de caixa em 2027 BeInCrypto",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54S3AzX0FtWVJaY2M5Zk5seF8wdS13UzZ3a3lUcHB3SGV2cjNGOUkzWVQ4dXJoX1l2ODI4d3VhR25FU09YZVpycElxM0xQNXA1UWk5dUdha1M5WHlpbkRRX09kQ1V5T3FaWmotbWFEZUZKNXJKaFE?oc=5",
+    "fonte": "BeInCrypto",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "38de8fc712ebb5c707c53b313470897b50918f4ec1d246c4a3ccfe525576db4a",
     "ativos": [
       "SPCX34",
       "KNCR11"
@@ -52,78 +24,101 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "KNIP11: como a inflação afeta os dividendos deste FII? Veja a estratégia - Fiis",
-    "resumo": "KNIP11: como a inflação afeta os dividendos deste FII? Veja a estratégia Fiis",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ua1AwUVNndWV2bm5iTmNzZV9DbXptSU9HWVJHZF90cUhpSWhWcTAxbkdLWmo5V3pYV2tMd3NhWHY2TElCU0lKY3Z1OUEtejBvakNzUW8wejJ4V0NoSUtaOHZWYWZzRXFsM2xmRWRTMzhhS1E5VERlcHdHVQ?oc=5",
-    "fonte": "Fiis",
-    "consulta": "HGLG11 OR KNRI11 OR KNCR11 OR fundos imobiliários OR FIIs OR CRI",
-    "chave": "564bcdb63c351b5ffee2c4f8144390138c43f2e01bdbe948224b908773b7270d",
+    "titulo": "Boletim Focus: Mercado projeta Selic de 13,00% ao fim de 2027 | 23/11/2026 - XP",
+    "resumo": "Boletim Focus: Mercado projeta Selic de 13,00% ao fim de 2027 | 23/11/2026 XP",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHlwc2FfLWt4LXlmTEFRVHAtVmFzcW5JdVZHaG5YNTJ2NlUtYXg4WTlVNEI1a1VMQUJRaVRuV2E0clZUbl9wcmJ4WlJsRXJzWGMyeEVhU0JSRW9SdWtfQm9GaW0wdm9aY2dRUUc5NXFiOTMwbTFjZlFKSkVlbFBDSGJ4RzJCWGFkcEFPdHV5RnZqcUs1bG5HOWhjZGVpXzd6bjczOUVnaTN2Zk9n?oc=5",
+    "fonte": "XP",
+    "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
+    "chave": "2a2b2beb8dcde74d86ae11829f8cd78a728547302cdac5ac60fd266ae38d33b7",
     "ativos": [
+      "IBOB11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ],
+    "score": 12,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Copom mantém previsão da taxa básica de juros para 13% em 2027 - Agência Brasil",
+    "resumo": "Copom mantém previsão da taxa básica de juros para 13% em 2027 Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGc0WEpaNzBTTW5oM3I2Qm1lSVRSa3ktSlJsTXJuZWl0VW1ncC1RdXNJMExZdmhFdXNZdXVpUnZTMEVIdXF0OU54RVhKQklua0ZwTGVLZEZycjgtUzRGQWpiMWU2dGVOaW1maDV5elV1bkpCcjZmclNhMnlaQ3dGR0Fmd21LMm9zajFaSlBGT2NyQ2JsSDZrNzJ1TmJYTkg0SkM5MUE4UVQ3cnJtRzQxQW5tQ1pzYmMzMy03cUo2dlNucFlkRmFQcXdxbG5ZT1JqTGFqTzJ3?oc=5",
+    "fonte": "Agência Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "3220483032f8b36b703faebce9d44fc4dacd0954afc158651de4a60d8d02e883",
+    "ativos": [
+      "IBOB11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
       "Caixa / Reserva"
     ],
-    "score": 13,
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "envolve macroeconomia/juros/dólar",
+      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+    ],
+    "tipo": "Acompanhamento",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Depois de superar R$ 6, dólar passa a cair; Ibovespa segue no negativo com queda de 2% da Petrobras - Estadão",
+    "resumo": "Depois de superar R$ 6, dólar passa a cair; Ibovespa segue no negativo com queda de 2% da Petrobras Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMm9kOXBlODlDb2pkY0RhTmVDeUtNMUYtZDZCSVpRbVhOV1BNdzFqQWE4SHJmUUtzYUpjVGNZZE1DaWVkMVc0eTU3RVZGOTVIYTBNQ1Nhek1KajBmQ0lpNnctc0dGYmV4N0ZHRjZxSTNCVjIxcmlFQW03YTFoM3I4UTVIVG91OGNwNnN5UVpBXzVBOFF6N1o1MU8zMFZqcEg4c3pQVVdlM0FZbUdfYmxsU1cwd0JPQTN6LV9SVkYwQ1QzZUFNMmRBR3NKaTNmT1VKQ1ZjeXhidS1BUy1BenJQSDJiQXYtWkp6OGxzTFZfZ0xvdw?oc=5",
+    "fonte": "Estadão",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "6fbadd96aa3e9621c8c880839225e8394c2cdbc3fa19c69c94ed9b5af526e1cd",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "envolve macroeconomia/juros/dólar"
     ],
     "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "IPCA FICA EM 0,14% EM OUTUBRO - Portal CNA Brasil",
-    "resumo": "IPCA FICA EM 0,14% EM OUTUBRO Portal CNA Brasil",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuSmhsQ0phYzJhenpRWWJKRk9NelVRb281M0p3UW5uM3lOZFZRdkJZcng1anMzVEJXMW5PNi04MkM4QUxoVC0ta1Z3V1Nfc1l6bUlSOUNZY3JDdkwzdTFLeW9zV3dybXFXUGxOdDZHWW9LM0U?oc=5",
-    "fonte": "Portal CNA Brasil",
+    "titulo": "Após bater R$ 6, dólar cai e fecha a R$ 5,92, com mercado de olho no pacote fiscal; Ibovespa cai - G1",
+    "resumo": "Após bater R$ 6, dólar cai e fecha a R$ 5,92, com mercado de olho no pacote fiscal; Ibovespa cai G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBUlZrS2w1WFdBb2c3TVpiWGxYdDc2NnM1WDJnWk42NEhIaWxDMV82bHZjNDdhanF3NnZYNDdqY2tNeS1NNXZyVWpJd0ZXdVdBZWZqeVM5TzE0R091dnBFOEtLc1lBS3UwdEVweWxmcjc4WHpkUmF4U9IBhwFBVV95cUxNcGpwdm8tRzd5S09HXzZZRU5rcllVWF9kR0o4RE1KVDRCT0dnMEpURUl3RWt0T2toZzViTTYzVlBWWDRBWUtkS3p0MmZpZ1JOR1NrX216djliai1LQy1IdVF0R25wMHRma3RVRmRONXhCQlNfdHlJLXQ3YjZDYk5JQl9LcHZ4RXM?oc=5",
+    "fonte": "G1",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "67acc3e656f8e80f0d1636d9dfceafefb9310eb12989fb8d7063cafe2f35bb36",
+    "chave": "3833fe66db0e453c548510d5c683fff91710109d823be5108ee1280612b20a4e",
     "ativos": [
       "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "WRLD11"
     ],
     "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais",
+      "Ações Brasil"
     ],
-    "score": 12,
+    "score": 11,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
     ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Boletim Focus eleva previsão de inflação e aponta Selic de 13% no fim de 2027 - Portal do Agronegócio",
-    "resumo": "Boletim Focus eleva previsão de inflação e aponta Selic de 13% no fim de 2027 Portal do Agronegócio",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVGRSblJESFZwWXVPYTRIeXV0b2RQT3ZqVnByQU9UQUhYNktkd3dHSFphOWhyeFFVdzVWcmQxVm1ZWGQ0MXB2UHZ4dVBmQzR1VGdHeWNCZHREeFpuYnBjQWVKd3h4X1JqV3dNSkFVOFdOVTByTXBCT1Jhdl96YmkwLTRkbDlPdXFKUC1SZzRidW5sYWhDRWNFVWdYaW9TVkRXV2hVc1lTWjMtelZrbVRVTnpsd2U4Z2l5T0RVVlVSb0QtT2RiQTQtOHpzY0VKbkM5Z3FsTld2UndLNklwaW0ybElhMm1VdFk?oc=5",
-    "fonte": "Portal do Agronegócio",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6595b02d8a1779bff1693d04ce55472d1b652020606629d9934676fef90baa5c",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
+    "tipo": "Oportunidade de estudo",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   }
 ]
