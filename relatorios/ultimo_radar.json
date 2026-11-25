@@ -1,36 +1,39 @@
 [
   {
-    "titulo": "Dow Jones futuro cai antes de inflação dos EUA e em meio a temor de novas tarifas - InfoMoney",
-    "resumo": "Dow Jones futuro cai antes de inflação dos EUA e em meio a temor de novas tarifas InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzc2QUhOcEhnS1MzOTlpYm84YkFuRVZrTlMwTXJxUW90M3VnY3VVY0gxdjI3YTBWaFVBVVlRZ1NncFUyOXdtNWFqRGkxUFFBWWdpZHROX3ducXROc1B1NzRCMlFpNENUY3pTY3FTUER0dkF4UnlIdzY1VEMwMFZHWjVqQWxWaGloYzVHODBJSmI1VUxONlZibWZSLUdNTTZCY1VObXhPRS1HUE94WjVzSDJTd1ctTFNyWjgxbtIBwgFBVV95cUxPR2c1bWJFbGFVbE84cW55SEpPOTJrR1FmMmlpalc2VFNZNFFjRklfenJBRHpDcllCSlZxQ0YwZFc3N0JJUHBHU0ZLaU12LUR1cWRGazM2cEtISW5KNkdydldRblBxWUFydThBM3JCZ0hOZFRUd2owTWNXSEtYZjk5bW1zaXdKaU82dE1MUk11dTFheTEwcWo5NFZDY0h0WFJNMk8wbDJIbVlKbUZHRzRCYUc1T0Jyb1BaMDVQWkNXam5zQQ?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Tesouro IPCA+, Treasurys e S&P 500: Itaú dobra a aposta no exterior e reduz o peso do Brasil nas carteiras para 2027 - Seu Dinheiro",
+    "resumo": "Tesouro IPCA+, Treasurys e S&P 500: Itaú dobra a aposta no exterior e reduz o peso do Brasil nas carteiras para 2027 Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlPdTVabjVJemxkSXpaaHJvNkJSMXNuRXNIMG5iNExrSEVaQTl2cEZBS3oxTDVLQ3huWllicFY2SkJENmRrVGtkLXpzcEFNblhQckMxYUcxUU5UNHJ3VXhlVDdsVmxxTEVFbEg3OEdlRldOLVNpQnVjUDlHZF9yNWYwdXZXa3daZUN1bzJ3bldFa0E5X09RemlXb3p1LW83aHd5aVJybjVOWGo1dTF6bmZRSUF4bUNrY1dFanJxMzFPQQ?oc=5",
+    "fonte": "Seu Dinheiro",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "fd061f9dbd733b72631a3223a832881879b9125dc2ef3e1890ec612f7a3e20cc",
+    "chave": "aacdc018839a8296c713e55dba943f7779baee21dd8a3e920b273bec84b599b5",
     "ativos": [
+      "IBOB11",
       "WRLD11",
+      "KNCR11",
       "CDB 100% CDI"
     ],
     "classes": [
       "Ativos Internacionais",
-      "Caixa / Reserva"
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ],
-    "score": 14,
+    "score": 13,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
       "envolve macroeconomia/juros/dólar",
       "afeta a classe mais abaixo da meta: Caixa / Reserva"
     ],
-    "tipo": "Oportunidade de estudo",
+    "tipo": "Acompanhamento",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Tesouro Selic Como Investir - Defensoria Pública do Rio de Janeiro",
-    "resumo": "Tesouro Selic Como Investir Defensoria Pública do Rio de Janeiro",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yU2VrRXNhWWVvOUlKMHE1YmhCcGRLaWk3d2Ezb01vYjliNmlQa1o0Q0lvRmh6d2VRUnZrY2dkQkU2Qmp0SUZGU0x3c0hBTkRnZ0tmZVFNNGdYUlF6RmJoUjR3UVpOa2VaMFlJN2wzOTlSV2s?oc=5",
-    "fonte": "Defensoria Pública do Rio de Janeiro",
+    "titulo": "Ceron: impacto no IPCA seria de pelo menos 1 pp sem subvenção a combustíveis - eixos",
+    "resumo": "Ceron: impacto no IPCA seria de pelo menos 1 pp sem subvenção a combustíveis eixos",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1hfNGwyNTdodzVrRlVqdGlldzR4UkV6ZVJGSjdDWS0zZzRDMDlOZjRfczEtbVNkV01RRC1wNUUwSTI0SUNoR1hER0M0Q2JQSHhnZHRuUXdGOFIwR3NqZXotVG1ZR3V3NlNVQUxMc0licVlFVFpwejhINXlYZEZ1Y2kyTHV2X3dhemFvOWdBTUN2WHZaQlBuLVNPd01CSTNBcWotR3JoaVF5WjgtNldYcUZoZ2VsYXZUTGM5UnEyVWI?oc=5",
+    "fonte": "eixos",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "bcd11fe7b0c03cb367d8e801fe5a644fbee5b958ba09e710019c4ea64b0e3465",
+    "chave": "505e232a1f7f5692684ff28a2318bb1a0f9ba741c20ff3d78817104123500539",
     "ativos": [
       "IBOB11",
       "KNCR11",
@@ -51,38 +54,12 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Dólar e Ibovespa hoje: moeda sobe a R$ 5,95 de olho em fiscal e inflação dos EUA - Valor Investe",
-    "resumo": "Dólar e Ibovespa hoje: moeda sobe a R$ 5,95 de olho em fiscal e inflação dos EUA Valor Investe",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnR2ckV0ODY4c19UcUVDZ2hxazlSc2V1UXlHb0ticjNILXIwcEJVb1ZPcXNLSUQyWTVuYTk4Y3NCWjUxMGZxSndXQm1EdEtnRjg2b1lrSEx0OEozYWMxbTFlRU5HTDdERHBXSlBkdnhXa3l5djhNaDF6V1F3cnJaZzZwczNQaDAyV0RBaDY0TmhyZGRudFFaT3FuNlhjWnBVM05Cd1Z3VlhHYWJYMFluOC1WTXNKNkVmWU5jWDFrY2pxdThkVEZDMHcwZ0pTRDJUWGxVcldROVpuMDlVQXNTLXRjZVVLeWJ3ZkgwMndJSGgxWU3SAYICQVVfeXFMUEVPcXhLUXFFWjdoWmltSU00LWw0M01kWGdvOVE0UGpaN2E0dlJCVUtEODVfZWo2OUtvT3R5RWV4M2s1N0hZYjBCNkxJTmdrQmJTM3VGQXg3elNJRzVKend0dTl6dVhPOUZNX0JJaFBvZlJMb3ZpQ0pOTTBIaFBMUzQtU0g0U3F0YllIX2RScFQxeU1DWFBUQkhqSFdKckoxWWUyTGduOFpFYmU3WlBpYlIwQ2RUakZlNjZnY3FYN3B2LU1vRTRfT1ZuUXF6R0ZnZUx6aVFSSUlrbHdRaENHeHBLa19FbFl3aVRoV1l3dWU5bHNzejRjRXBLMFpUOVl1S09n?oc=5",
-    "fonte": "Valor Investe",
+    "titulo": "Dólar fecha em queda, mas fica acima de R$ 5,91; Ibovespa cai com tombo da Vale e da Petrobras - Estadão",
+    "resumo": "Dólar fecha em queda, mas fica acima de R$ 5,91; Ibovespa cai com tombo da Vale e da Petrobras Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFFtQ1pwY25fR192RU1zTEo1VWZRcXQ1SWFacnU3WGEtdUhyLW1lLTJpZFpvR2cyeGRqYlc2WlU0eG5UV2d6ekFDbGdLR0tCazc1ZTJnV0dvbTF4VHE0OXRSQWttZVAySFc2Wk51c0p5ZWdla3U2UUU5Z3Q4M2d5azVCLW5YQjg2ZXpvT2ZicDJFVXNMbFhwN3UxeGw3TlNCaWJjWDFPVnJkckhkcF93NmRiSGdKYlo2bW1udHhqaGxpaFRob0E0VkY1dVNra0Q5bXNhNW1XTmwxZ9IB3wFBVV95cUxOU2xMN0t6dkpTSzlJblVoUW5QOENBb0lIZHNuOGxkVi1ENVVweWRkQS1tN3BkOFh2ZWlhaF92VmViN0p4U05lWmVqdmpOdHlCSGlYaU01VHpCWjdNYTM1TVprTTlXa21zdWhOVncwdEFhUl92YTJUUVdIVmRXVE1xckQ1SVZSLU9KMW9qUmFXbDluUTBhQkxCTkY1bVJfa3pWS3U2SzlUNDhlQ19EbXF2RU9zNnAxSkFFRVRDUmV6cWlmVjlXcTlZbVcxUE8xMnVOMW01WlJYZmtCNlg3eUtZ?oc=5",
+    "fonte": "Estadão",
     "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "cba8e2639f75b55dd2ae32c376d1fae353284b5c7878753b9c90b30e5f6983f1",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Ibovespa fecha em queda após perder força durante o pregão; dólar recua a R$ 5,91 - Mercado e Eventos",
-    "resumo": "Ibovespa fecha em queda após perder força durante o pregão; dólar recua a R$ 5,91 Mercado e Eventos",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLS1zNThMRlZWR05fRUg2SXl2bUl5blBZazdwMEJoVWUxV2FyTllQTWJzb0FBaURIeHRrd09mbFlTLWpWdFlwdlBvS2xDY2ZkTWVuODhqZTBJZlFONlkza1BlM0QwNVo0b25rQmVWLWp2VEk4MzNxSlVYUWE4VENXbjdjTEcxckgzdTY4VXcxbndsczU3NXcxcUszd0EweXB5bDZrdVctS1U0MHQ1N3BnWXZNMGNqMGlDWlpkYU1IaEp4SmVEdmJBM2oyX0hVWXY1MWFCUnZWWQ?oc=5",
-    "fonte": "Mercado e Eventos",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "c5f0cd8eb9ca7f11aabfc34dc92418940d515a756dd360c971a3f9916504ad77",
+    "chave": "6838076e7e36b345564d707d70b19b71fd9992c92f0f95b038b7402fefe8b342",
     "ativos": [
       "IBOB11",
       "WRLD11"
@@ -101,12 +78,36 @@
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Brasil contra dólar a R$ 6? Banco Central fará leilões de linha nesta quarta-feira - Investidor10",
-    "resumo": "Brasil contra dólar a R$ 6? Banco Central fará leilões de linha nesta quarta-feira Investidor10",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWhWVGE4UnZTUUh0Nk04dmNoRUFiRUJ1eWhPNWNOVVlLWEtZYXNMY0x5d190N1RZeVBxS2w4aVRzRExfalUtV2szN3NadG84bXZfWHEtVUtudWFSTGp4akNaSXpfOFFfWWtNeHZ3UG1fM3JRNlZHMko1MmVOcW9ocUVZUWNzMFZjM2dQeGJNdlI3Y0RqcmQ0WE5KQ2hUUjJibE12NHpRb3FiQXV2bGJ4RGhVLW1aTnp6TlNsc2JZdXBtZDTSAcgBQVVfeXFMTXRwNlB3UnJMNU4yZS1LZWM4eXFhYWwwSFludGIwQThHb0x3dnFRQmJMaDhkRDRSanNTVTJXV0ZOMW5Hd0dNZ0J1VjdLUkdERi01cjEwZ19qejhOb0xUZ1JpSXJOOG9JNVhHSjcyZmxITHRmWEcyVVZJdFdHY25xTTZ1cTkyVElaR2hHZFNDTjUyRzZ4QVRIaWRuR1dXS3dhdWstaW1KdXVVNWY2aUg2RU9saHAyLWxkLWFFVWVwNTB0alYzdWQySUM?oc=5",
-    "fonte": "Investidor10",
+    "titulo": "Otimismo com equipe econômica leva Ibovespa a alta de 1,5%; dólar caiu mais de 1%, cotado a R$ 5,91 - Estadão",
+    "resumo": "Otimismo com equipe econômica leva Ibovespa a alta de 1,5%; dólar caiu mais de 1%, cotado a R$ 5,91 Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
+    "fonte": "Estadão",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "chave": "e34eb0d4e92549d9608f86c5c3db25c3f58bf17ec6b0eb75ad9608a2baa3172c",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Banco Central vende US$ 2 bilhões em leilão em meio à pressão sobre o dólar - Money Times",
+    "resumo": "Banco Central vende US$ 2 bilhões em leilão em meio à pressão sobre o dólar Money Times",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHhoSmt4LVV4QllRU0d5YTBzUXZJakZobnVRWWtQenZqMTBINUNtMjFNSmRLSldudThmZzZMaktNRk1JalZtSjQzLWpOM3REcTRmMU9kZHVVZ0FnbmE5YWh6VXF2cXRxNnJUaHNURWR1VjlmWmNxYU16dVVTcUpFSGFocUpiWjNhdU54ZDdaMDhicHM4ZkY5d0s1b2hsam42c0VwV0U1UUlTd0ZTX2Jr?oc=5",
+    "fonte": "Money Times",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "a79a0aeca8f49f5af345c9a60934f49589ea058a2e7d33f586021e0a8773017d",
+    "chave": "809831ce5af1c7945001c8aa3c03bd450c374649b0b492e2b6a063e72afac63b",
     "ativos": [
       "WRLD11",
       "CDB 100% CDI"
