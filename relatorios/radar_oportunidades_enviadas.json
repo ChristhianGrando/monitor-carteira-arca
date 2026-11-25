@@ -1,100 +1,5 @@
 [
   {
-    "data_envio": "2026-09-22 22:09:28",
-    "chave": "941978a00e54730e01f96692e4c9c87a03b1f8d8eb2927101016fc583847e02e",
-    "titulo": "Ibovespa B3 sobe 0,44%, com Ata do Copom e petróleo no radar; dólar fica em R$ 5,10 - Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ194VWxMZm1jcDdkS3poclBXX3pSUkJzYXFJZEc4clB5NGFWMzktd2QyaGQ5dllPZ2ZhZ3J1Nk8yam1DNGppMUVpY0FrTmhwQXZmUVN0TVhQVXU3UXpUYTV3X250NVlXWmlQNG1KWktmclhGZ3JDejBaSHVjM1lkZnZCT3ZNTTJOSmlvWlRUQjMtSklaVjVXNVVYbmlaeWJSaENnWWtjUHBFckp1V3F4a3hrdzdlcjZoR3pld01KOFY0eGtw?oc=5",
-    "fonte": "Bora Investir",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 22:09:28",
-    "chave": "dc3beca8721f0585885fb492d968b0a066022668fb5c443185ca022cef5be3c4",
-    "titulo": "Taxas Tesouro Direto sobem; Copom mantém Selic em 13,75% - ISTOÉ DINHEIRO",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NX0hiNG9BcGRtNTlCSWxwV3pSb25iVkhiOWZPTjE0ZUR3UUpXU2s5Ymw5c0dfdGpnem1OckdHVEZEdS0tODVzdFhWZlpTTTJVdVRnbl83YS1VSl83alpfcGZhMFJfbWx1MUV6UjN1czRXRW5pdGg5MmJhQQ?oc=5",
-    "fonte": "ISTOÉ DINHEIRO",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-22 22:09:28",
-    "chave": "658d8f0875c985d53ad9f5a9953cf072ffc4d626c745a6d65913224b0dd0b67d",
-    "titulo": "Copom opta por ata neutra e indica continuação do ciclo de cortes da Selic, avalia Monte Bravo - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQzM4bU8yTTFUOXJCakVOSU9rVWVKWTR5R0hkczVsRlV1dzJ1S25DanNvLVlFeGJ5Nkk4alowa0RQaFBnMDh4S01ZMWs2bTgtV0t2TEFhd19pYkk0Zkx4RmxVZURVaVhUUzEyVkdHNjdOQnVOUElwSE1Td0VVM0dqbDhzeUQ0NFRMcHA3TFFnd1IyWVN0VlRzenU3VXp0aWk2TTNYUlJfUkJFZWV2TkFkTDQ3eGFnYmxxOEZGUE1zb2k5NzVMM2ljT0RfazMzZVc3UnJhM1ZLSVRBOU5XbGhIMlRlUdIB8gFBVV95cUxPU2pTUlVMWXFoeExuOG00OHV1M1c5WDFNVmVRcVl5b2s0QUhlQ3ZfWkhOdW5Jc0NuZFFhUEs0NG9EQi1HaXo4eUZyR3h1UTIyLU5EQWg0a1J1REZhaDBkMVRCXzB1dUgyYUI2UzJ2QWExbVZyUll1aGRDdFg2eWNkeHVEMUNOR3JmSlhadjhQTkYyS05pTHFlOFF2NF93OGxWSS14UHoyRUZLUzJYMHlrQnRPUW9nZ0VoWmN1Q093aS1FancwdE1seDhSdkVKOWU1NmpfOTZhLVBZWUpDQ3FmN0sxVlFLNzEzVW4tb0VuVy1LZw?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 00:33:35",
-    "chave": "99e25f42ca5da53f1170a9f72728aa952faa9c0d51f90c41cd0a6ac09d4db92a",
-    "titulo": "Senadores do PT defendem continuidade da queda dos juros após ata do Copom - ptnosenado.org.br",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1V5R1hhb1pCUHh5NFhRUGo4OTdtcklFcEQtWEhmQ0tDTFh1WUo3UnBBMHpCTTBnbnJERDdNQ3BQR0EzeHhINVEzSVptNmRvWDdTWDBTc3FkZDIzRFV6MUxFSEg2Z2sxMGVmdjRJLXpvXzRFZWIwMW9EeG9JWUFhNGlaLUlJVVh4cGd5aTdkRlVDZmtzQ0ZXZkFDck1pSkI5THVN?oc=5",
-    "fonte": "ptnosenado.org.br",
-    "score": 14,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 00:33:35",
-    "chave": "88f535565a77661f719a79df4cd23669d009257d50704f6bf7f15f874df72aeb",
-    "titulo": "Projeto atualiza tabelas de redução do Imposto de Renda pelo IPCA - Senado Federal",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjZfNVBaUldnRk9XY19fd3BmMFRWeFR5dHNqN0N1dk9DQzJwNTJxTUg2cDNwUE9OX3NkRzJ4c1RrWXpEem41NFRpY1BIUGpnU0U4eWRHbkFmb1FtRXNLUk5rdkg1V3h3b3JzNXAybzB1VnRILTVrY1pNRVFaOUxUanU0WGg1aHQzZ0hGMnlHTm5nbXE5NlpRVWdlMU9kT3Ytc0RXWXpxSEpLUkxlRC1KWHFxd3JqVzBQOFVrTw?oc=5",
-    "fonte": "Senado Federal",
-    "score": 13,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-09-23 00:33:35",
     "chave": "90e148318693c7e0d284442886d46ed653e75a1072c3f9c83379701a7d06f66d",
     "titulo": "Ata do Copom sinaliza mais um corte de juros? Veja o que diz o mercado - UOL Economia",
@@ -17197,6 +17102,95 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-11-25 12:55:42",
+    "chave": "fd061f9dbd733b72631a3223a832881879b9125dc2ef3e1890ec612f7a3e20cc",
+    "titulo": "Dow Jones futuro cai antes de inflação dos EUA e em meio a temor de novas tarifas - InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzc2QUhOcEhnS1MzOTlpYm84YkFuRVZrTlMwTXJxUW90M3VnY3VVY0gxdjI3YTBWaFVBVVlRZ1NncFUyOXdtNWFqRGkxUFFBWWdpZHROX3ducXROc1B1NzRCMlFpNENUY3pTY3FTUER0dkF4UnlIdzY1VEMwMFZHWjVqQWxWaGloYzVHODBJSmI1VUxONlZibWZSLUdNTTZCY1VObXhPRS1HUE94WjVzSDJTd1ctTFNyWjgxbtIBwgFBVV95cUxPR2c1bWJFbGFVbE84cW55SEpPOTJrR1FmMmlpalc2VFNZNFFjRklfenJBRHpDcllCSlZxQ0YwZFc3N0JJUHBHU0ZLaU12LUR1cWRGazM2cEtISW5KNkdydldRblBxWUFydThBM3JCZ0hOZFRUd2owTWNXSEtYZjk5bW1zaXdKaU82dE1MUk11dTFheTEwcWo5NFZDY0h0WFJNMk8wbDJIbVlKbUZHRzRCYUc1T0Jyb1BaMDVQWkNXam5zQQ?oc=5",
+    "fonte": "InfoMoney",
+    "score": 14,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-25 12:55:42",
+    "chave": "bcd11fe7b0c03cb367d8e801fe5a644fbee5b958ba09e710019c4ea64b0e3465",
+    "titulo": "Tesouro Selic Como Investir - Defensoria Pública do Rio de Janeiro",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yU2VrRXNhWWVvOUlKMHE1YmhCcGRLaWk3d2Ezb01vYjliNmlQa1o0Q0lvRmh6d2VRUnZrY2dkQkU2Qmp0SUZGU0x3c0hBTkRnZ0tmZVFNNGdYUlF6RmJoUjR3UVpOa2VaMFlJN2wzOTlSV2s?oc=5",
+    "fonte": "Defensoria Pública do Rio de Janeiro",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-25 12:55:42",
+    "chave": "cba8e2639f75b55dd2ae32c376d1fae353284b5c7878753b9c90b30e5f6983f1",
+    "titulo": "Dólar e Ibovespa hoje: moeda sobe a R$ 5,95 de olho em fiscal e inflação dos EUA - Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnR2ckV0ODY4c19UcUVDZ2hxazlSc2V1UXlHb0ticjNILXIwcEJVb1ZPcXNLSUQyWTVuYTk4Y3NCWjUxMGZxSndXQm1EdEtnRjg2b1lrSEx0OEozYWMxbTFlRU5HTDdERHBXSlBkdnhXa3l5djhNaDF6V1F3cnJaZzZwczNQaDAyV0RBaDY0TmhyZGRudFFaT3FuNlhjWnBVM05Cd1Z3VlhHYWJYMFluOC1WTXNKNkVmWU5jWDFrY2pxdThkVEZDMHcwZ0pTRDJUWGxVcldROVpuMDlVQXNTLXRjZVVLeWJ3ZkgwMndJSGgxWU3SAYICQVVfeXFMUEVPcXhLUXFFWjdoWmltSU00LWw0M01kWGdvOVE0UGpaN2E0dlJCVUtEODVfZWo2OUtvT3R5RWV4M2s1N0hZYjBCNkxJTmdrQmJTM3VGQXg3elNJRzVKend0dTl6dVhPOUZNX0JJaFBvZlJMb3ZpQ0pOTTBIaFBMUzQtU0g0U3F0YllIX2RScFQxeU1DWFBUQkhqSFdKckoxWWUyTGduOFpFYmU3WlBpYlIwQ2RUakZlNjZnY3FYN3B2LU1vRTRfT1ZuUXF6R0ZnZUx6aVFSSUlrbHdRaENHeHBLa19FbFl3aVRoV1l3dWU5bHNzejRjRXBLMFpUOVl1S09n?oc=5",
+    "fonte": "Valor Investe",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-25 12:55:42",
+    "chave": "c5f0cd8eb9ca7f11aabfc34dc92418940d515a756dd360c971a3f9916504ad77",
+    "titulo": "Ibovespa fecha em queda após perder força durante o pregão; dólar recua a R$ 5,91 - Mercado e Eventos",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLS1zNThMRlZWR05fRUg2SXl2bUl5blBZazdwMEJoVWUxV2FyTllQTWJzb0FBaURIeHRrd09mbFlTLWpWdFlwdlBvS2xDY2ZkTWVuODhqZTBJZlFONlkza1BlM0QwNVo0b25rQmVWLWp2VEk4MzNxSlVYUWE4VENXbjdjTEcxckgzdTY4VXcxbndsczU3NXcxcUszd0EweXB5bDZrdVctS1U0MHQ1N3BnWXZNMGNqMGlDWlpkYU1IaEp4SmVEdmJBM2oyX0hVWXY1MWFCUnZWWQ?oc=5",
+    "fonte": "Mercado e Eventos",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-11-25 12:55:42",
+    "chave": "a79a0aeca8f49f5af345c9a60934f49589ea058a2e7d33f586021e0a8773017d",
+    "titulo": "Brasil contra dólar a R$ 6? Banco Central fará leilões de linha nesta quarta-feira - Investidor10",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWhWVGE4UnZTUUh0Nk04dmNoRUFiRUJ1eWhPNWNOVVlLWEtZYXNMY0x5d190N1RZeVBxS2w4aVRzRExfalUtV2szN3NadG84bXZfWHEtVUtudWFSTGp4akNaSXpfOFFfWWtNeHZ3UG1fM3JRNlZHMko1MmVOcW9ocUVZUWNzMFZjM2dQeGJNdlI3Y0RqcmQ0WE5KQ2hUUjJibE12NHpRb3FiQXV2bGJ4RGhVLW1aTnp6TlNsc2JZdXBtZDTSAcgBQVVfeXFMTXRwNlB3UnJMNU4yZS1LZWM4eXFhYWwwSFludGIwQThHb0x3dnFRQmJMaDhkRDRSanNTVTJXV0ZOMW5Hd0dNZ0J1VjdLUkdERi01cjEwZ19qejhOb0xUZ1JpSXJOOG9JNVhHSjcyZmxITHRmWEcyVVZJdFdHY25xTTZ1cTkyVElaR2hHZFNDTjUyRzZ4QVRIaWRuR1dXS3dhdWstaW1KdXVVNWY2aUg2RU9saHAyLWxkLWFFVWVwNTB0alYzdWQySUM?oc=5",
+    "fonte": "Investidor10",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
     ]
   }
 ]
