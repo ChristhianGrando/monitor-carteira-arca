@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-09-23 11:37:07",
-    "chave": "48304213e6e7afd3449796dde4de66cc765f8d09a953e3baf8e05a6e8f6190b7",
-    "titulo": "Ibovespa B3 sobe 0,44%, com Ata do Copom e petróleo no radar; dólar fica em R$ 5,10 - borainvestir.b3.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ194VWxMZm1jcDdkS3poclBXX3pSUkJzYXFJZEc4clB5NGFWMzktd2QyaGQ5dllPZ2ZhZ3J1Nk8yam1DNGppMUVpY0FrTmhwQXZmUVN0TVhQVXU3UXpUYTV3X250NVlXWmlQNG1KWktmclhGZ3JDejBaSHVjM1lkZnZCT3ZNTTJOSmlvWlRUQjMtSklaVjVXNVVYbmlaeWJSaENnWWtjUHBFckp1V3F4a3hrdzdlcjZoR3pld01KOFY0eGtw?oc=5",
-    "fonte": "borainvestir.b3.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "WRLD11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 11:37:07",
-    "chave": "5febd0c9d7cc886e521caacdf759f0edf55284d4b9eae1a467164d014ed43ecf",
-    "titulo": "Depois de cortar juros, Copom faz bem em manifestar cautela para o futuro - O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV001Tm9acVE1b3p4bWxfWVpMX1Z6MlUzVmxQOGxZbmpOOVE5VThodXduWnNic0RIemI2UG1wcEI4X0JkUkNlUWQ2TnFBVTlmVXB1T002M2tRUFhfejV1RHFjRTlqckJCcC1xR3d3RGRxdHl5aHJDaXN2VzJQcVZOZ0xla015b3UzMGktaE5Ydl9mdWlJSU5vTF9FWkk1TUNhaGJXQUt0aVc5YkxjclNEenl2T09YQlNGbnFJcmUxam5ENU1Ud2g0RGVIa3gzT25WWXQ0ZXBLQm1DOVF1cnZ0N9IB4AFBVV95cUxQV001Tm9acVE1b3p4bWxfWVpMX1Z6MlUzVmxQOGxZbmpOOVE5VThodXduWnNic0RIemI2UG1wcEI4X0JkUkNlUWQ2TnFBVTlmVXB1T002M2tRUFhfejV1RHFjRTlqckJCcC1xR3d3RGRxdHl5aHJDaXN2VzJQcVZOZ0xla015b3UzMGktaE5Ydl9mdWlJSU5vTF9FWkk1TUNhaGJXQUt0aVc5YkxjclNEenl2T09YQlNGbnFJcmUxam5ENU1Ud2g0RGVIa3gzT25WWXQ0ZXBLQm1DOVF1cnZ0Nw?oc=5",
-    "fonte": "O GLOBO",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 11:37:07",
-    "chave": "832406c1b9097eda143d29b2e5ca89139cf6c9c267cc56d9cb4f74ecaefea970",
-    "titulo": "Dow Jones e S&P 500 disparam e Nasdaq bate recorde histórico com queda do petróleo e alívio nos juros dos EUA - ADVFN",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXRJNjJSLWxfbm55aGctU1FWMlpQQllzT3IzQnB1N0dJWmVOaGIzNEN5bDVHUnkzQ3FxTTZScXVTeHhfeVE4d2lRdW05MmV2QzN1aUxWNF9wSlJ1NDc1T00xMzJUUGVvY1F4OGRHcUN4U0pxa0FjM283ODktQl83NTBVM3BCNzQyU3B6c0dmZURhcF9GaXZNRzB6aU0yVllGZ21yekRRTzc3dzlDLTIwenBfT1lzZw?oc=5",
-    "fonte": "ADVFN",
-    "score": 10,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 16:59:10",
-    "chave": "6182e51c9db6c4eba00c520a31da1f98abd18af1cdcb9a71df3af2c108e08fdf",
-    "titulo": "Taxa dos prefixados cai ao menor nível em duas semanas após ata do Copom - InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb2k0cTBZejNlMUhPVl9RQkhDb1FKVV9LRF9ycFNSbXJyLWtac1JPM0k5UjVOcUhMVk5LTjNsVENZSVk3c1lnajRNZ1IzNXRWTUFmUk1qN3RMOHlSbVlBVG9PeE5TRWwxNXBmdlBSb0ZxY184blIteXlxam9kUVA4eVdlMnBGemtGOVhBRUl4VzF3enFHSFdSeW1jRGbSAaIBQVVfeXFMTzN5Q1MyU3RScXRYMk9PWUc0Q0o3amQ1eVJlQTlVVUxrRWtqN2ZfOVROX25iUEJwbzFZdFp5LVVpR3RZRG5HNUxzb1dpV2gtaDdsN2FSM25Ja1d3U3E0SzhDRXBIdmRZLTl0a0QzSl9EMjBPRURQYl9JT1hQUkpOMUtiR3VQdmxtMDVGbnlLdG9SNkdzWmM3TmRROTE3MVhEUE1B?oc=5",
-    "fonte": "InvestNews",
-    "score": 14,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 16:59:10",
-    "chave": "70d33ca8463d839280a3d41494973fcc5dc6b20e769714d994a68d7e50ef6e84",
-    "titulo": "QPC: 97% achavam que o Copom cortaria a Selic em 0,25pp em setembro - UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVo4b2NpZUlEaUk0aWRUOFpKMFNrdTkxZjRLT2duS05BeU5WeVYzSkc1SlczVExKb2diX3BqLTN6cXRnZG9ybUpNWUIxcTlNb2N3ekNuWmdfTkk1bmpCN1pGai00NkdRaVVoS0lvYnFFUUdnSWphVjFNTTJzQjJpR3dPa0VNNWtZUWU3UUxQUDhjWWNJS2dxRVpqYkUyM2ZBNXVzUjgtbUJ4RWhTVlcyZWR0MnFCZF81eVVFWExjT3BMeTBSd3drTTZlZTVfUQ?oc=5",
-    "fonte": "UOL Economia",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-09-23 16:59:10",
     "chave": "d49b6f92786b2727822e9b59a3614a8d25ddcc97262eca9466795178f27a6173",
     "titulo": "Maioria avalia que BC deveria interromper cortes na Selic em novembro, mostra Questionário Pré-Copom - Valor Econômico",
@@ -17178,6 +17091,107 @@
     ],
     "classes": [
       "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 15:16:56",
+    "chave": "98dffabae33150dbe74d28da346dc24a0f259b666ece97d4b18f75838e328902",
+    "titulo": "Ibovespa hoje: IPCA-15 de novembro traz alívio de curto prazo e PIB dos EUA mostra economia resiliente; veja destaques desta quinta (26) - Empiricus",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbjRHOFdsMWhQZnJoN3ZRd0c4VlNoZXhuTVd6YmdqbVdNenJXdzR5Ykp0UFMycTc1NlRFaVp0LTNsNHIwTm5tVW8wdXUzWkI5b3VPZ19FZXNnVDFaQ3laR3BsTDRCVkRJdW9JREoyYURZV0NhZ2pPYzVPQUthcGMtNlFDbml3YXFlOTVRMnhrZml3RDRlSXZObHA3clhlRkhWeGZoTDlDSW1YQ0hxOE9qTmN3dW5GZGRKQ3dLbTYxMUtsZG1UTkFvZjJmMk9DX1h3U0EzZnBtazZMb2FjQWpRRzEyN1AwNVB0UTdYVVhUVW5wcTB3SVFJNzRfZmxFR3JtM2pxdzJyN2JUM1J0MEREMTFZVmRWeVBl?oc=5",
+    "fonte": "Empiricus",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 15:16:56",
+    "chave": "dd568857ad5b6d1ce3f76a10b69cf70e79e3331956a3e9c4191be9579305e09b",
+    "titulo": "Abertura | Mercado repercute IPCA-15 e espera novas medidas do governo, em dia de feriado nos EUA - InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00cFFwdnhKdjFNRHhTc0QxOUFsaVpvM3NMd3d4eEJqQV9xYkhZQk5vQXBDUnppb2phRnFra3lEcElSUDgtdEJQR1pSWmt4OWdqUTcteUQwLUNCd3UwTF9YeGVUWmZMeWlZdU9JTnhibkpLTmhid1E?oc=5",
+    "fonte": "InvesTalk",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 15:16:56",
+    "chave": "d792fcd614cb0096707356673d07156b22deef5b85435ddf8a693c3863b2ece2",
+    "titulo": "Mercados hoje: IPCA-15, equipe ministerial e novas tarifas dos EUA estão no foco - Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFlxVGp4YnlfbDQtNUpycjMwcU5aNkpZS2R0OU5zVmR3QmoycURONVRzdndySi1LMDNZaE55N2xya0d6MkNYczFBTGpSenNBVVNvTjVfeTRpZ2VNdlNYS1lsT2psdDRxZWJWbzA1Zk9RUlRZaExNcUtPMzdhV2dfclFtVnlJS08yTWRzT2FKVVBEbDU0clEzU21NUHlLQVBWY3JqQWlSVlpuQTdpQkhWRzBzODBmbHJsY1hMamd4dlV2OGROTGc?oc=5",
+    "fonte": "Bora Investir",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 15:16:56",
+    "chave": "16f2f52318e7076ee356e3288b7b231b56c778d265b8ce33c552748ae5fd9c48",
+    "titulo": "IPCA-15 teve alta de 0,22% em novembro - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGhGQWo5RGxDNXh2dzFmZWo0QnhHSVlsOHB0Sm1tODZ2UDcteGJOY0VEYjNtZ1h0TU1QQ2Y1YkdhRDlwcWFIUk94NWxjX0hnQlJxWDJ4M3ZBS054WG0wZm5WVElsa1p2eXhqdkg0LVJ4d0FEM25oNFM0ZDY0bm5UX2lFLW9NWWdPbDlYRzJScW53ZTY4dVhUMlR3?oc=5",
+    "fonte": "Agência Brasil",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 15:16:56",
+    "chave": "52ab1f9b6876c8eb9c4490d911b288a73e5e2f74919972fdfef708de14b8b477",
+    "titulo": "Em novembro IPCA-15 é de 0,22% - Agência de Notícias - IBGE",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVRaeVEzcVVsYjRhUWtELXNuX0lpLUJZellTeTVKeVVMSFBQbmxNMC1sMmhzSW5YVmhxVmpvekhKaUVkYU1yUWRFaTJYTnlXUDNDNHBZT2hFUXJPa3oxR0FvZnRHNG5mN2pkMmZPUVBmLTdUb0dhZHFIaU93aFdXRThjeUlKNDZGalRqdWVOY3piTG1MaEY0bEh3U0FoTGtvX0JKVGstV2QyaURDUVlicW5lVWx3T3M?oc=5",
+    "fonte": "Agência de Notícias - IBGE",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
     ]
   }
 ]
