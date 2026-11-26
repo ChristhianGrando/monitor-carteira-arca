@@ -1,122 +1,109 @@
 [
   {
-    "titulo": "Tesouro IPCA+, Treasurys e S&P 500: Itaú dobra a aposta no exterior e reduz o peso do Brasil nas carteiras para 2027 - Seu Dinheiro",
-    "resumo": "Tesouro IPCA+, Treasurys e S&P 500: Itaú dobra a aposta no exterior e reduz o peso do Brasil nas carteiras para 2027 Seu Dinheiro",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlPdTVabjVJemxkSXpaaHJvNkJSMXNuRXNIMG5iNExrSEVaQTl2cEZBS3oxTDVLQ3huWllicFY2SkJENmRrVGtkLXpzcEFNblhQckMxYUcxUU5UNHJ3VXhlVDdsVmxxTEVFbEg3OEdlRldOLVNpQnVjUDlHZF9yNWYwdXZXa3daZUN1bzJ3bldFa0E5X09RemlXb3p1LW83aHd5aVJybjVOWGo1dTF6bmZRSUF4bUNrY1dFanJxMzFPQQ?oc=5",
-    "fonte": "Seu Dinheiro",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "aacdc018839a8296c713e55dba943f7779baee21dd8a3e920b273bec84b599b5",
+    "titulo": "Dólar cai a R$ 5,81, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe - G1",
+    "resumo": "Dólar cai a R$ 5,81, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe G1",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSmdsNU51NWlvZS03eDR4U3FpZW4yV0VIMXZ4bWctcFc0N2dmcHJzMDdkN0FET1M2dUM2dFlRaVR5MG5sd3c5SURZcU0xRWkzdkdIVDN2MHVTUGZ3VGo5UXdkVk5kVXJFWUNCcDRWcU9uNjgyT191TdIBhwFBVV95cUxNUW1Qai1CQzE2bHphejdnZjR3MGg5LUE3eEhBVWVsNDluWEtnNnYxeVVPU1dsS1hNYzkyTFgxNUJpblhBZFpkbXZQbVA4dGR4SnZtRDhNVXNfMzM1dVFJdmRycGN1cGFjZkFjMWo2TE1NanZNS1B2aHNCQWw4Z2ZJSDd2MDJtakk?oc=5",
+    "fonte": "G1",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "1ebc0117bf0bde42f5c37cd1e14da5723776683556b2dc58a3589a7e143ba1df",
     "ativos": [
       "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 11,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda - Agência Brasil",
+    "resumo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON05kUWR3YzhSSEJQR0o1Z2xGZml6OGIwbGJhdVBWLWMyRmhXLW5Rd3U3SGhpOUVyckNrUFpEMDBCZDZkMnBfT19zSWNIRVhHa3lWZlJSZlhhRmN6WHNEbEt0anZrdnVrV3lCWlluMzRZZTYzX1NVel9lZDhmemNGWThIU3Z5aDNkRHlqVF9TXy1SdFNxWWlHQmhWN18ydkZFU2xVRTFXN0x2WVdtOGNGN05WOWc1OGd1MHc?oc=5",
+    "fonte": "Agência Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "58082395f5e8b8c7d79ae4797832c0daf52f69a24c2c365ab91b2a5e40c072e4",
+    "ativos": [
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de oportunidade/compra/desconto",
+      "envolve macroeconomia/juros/dólar"
+    ],
+    "tipo": "Oportunidade de estudo",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa - CNN Brasil",
+    "resumo": "Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjJ2VnhHeFRpMHV1SVFVVTBBSmFLUnhKUUczTDNsS25QRFltS0E0OEtnOUt0cEt4aDBwM3gzb3RuT01jYUxzSmQwY2lGRUxBRXRKVjhTYzNRSS1rcFZsZEN6Y2lFWllFMWZCendJZGFvZVFtX3FJVHlNTzZJbjVRNEE3dHZhcmlFaTJreFZkNmpnLTExUzFTY215V0NsbkxBaGEzNmFIckYwTDhBSGd3d21UWHBIWHhsUVRHQ25mVWU0UQ?oc=5",
+    "fonte": "CNN Brasil",
+    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
+    "chave": "40b55453d565722bb35f2be8b7267ce7aff64d61e950e31ee660d9b02016c72b",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ],
+    "score": 10,
+    "motivos": [
+      "cita ativos ou temas ligados à sua carteira",
+      "tem linguagem de risco/queda/alerta"
+    ],
+    "tipo": "Risco / Atenção",
+    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
+  },
+  {
+    "titulo": "Elon Musk Pede a Tribunal dos EUA Que Anule Sentença por Fraude no Twitter - Forbes Brasil",
+    "resumo": "Elon Musk Pede a Tribunal dos EUA Que Anule Sentença por Fraude no Twitter Forbes Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcU5qTzU1OTRfal94dUMyTmNHNEh5bERELTU2eGFPWXlfdlAwd2JnUUdyS3NGZHM4X3liNUEzbU5lRHR3NUhleDRkbmxsYnl6aXcyRk13LXZJR1hDOWowdUdvY0ZQdkJJajFPYkF4QXdxLTE1V1ZUR2pDWWhZQWo3VDUyUThuUWVwVmtPM1NDUFA2cnN5bDVJbkJZNGZoYmY4UGZrQXltTEVqQ1VUaU9EMGp1MUEzbXNX?oc=5",
+    "fonte": "Forbes Brasil",
+    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
+    "chave": "e585fb3a44de44a8a25873ec3d2d4b4d2db562c6fe41888d00b8346bb025a5eb",
+    "ativos": [
       "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
+      "SPCX34"
     ],
     "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
+      "Ativos Internacionais"
     ],
-    "score": 13,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
+      "tem linguagem de risco/queda/alerta"
     ],
-    "tipo": "Acompanhamento",
+    "tipo": "Risco / Atenção",
     "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
   },
   {
-    "titulo": "Ceron: impacto no IPCA seria de pelo menos 1 pp sem subvenção a combustíveis - eixos",
-    "resumo": "Ceron: impacto no IPCA seria de pelo menos 1 pp sem subvenção a combustíveis eixos",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1hfNGwyNTdodzVrRlVqdGlldzR4UkV6ZVJGSjdDWS0zZzRDMDlOZjRfczEtbVNkV01RRC1wNUUwSTI0SUNoR1hER0M0Q2JQSHhnZHRuUXdGOFIwR3NqZXotVG1ZR3V3NlNVQUxMc0licVlFVFpwejhINXlYZEZ1Y2kyTHV2X3dhemFvOWdBTUN2WHZaQlBuLVNPd01CSTNBcWotR3JoaVF5WjgtNldYcUZoZ2VsYXZUTGM5UnEyVWI?oc=5",
-    "fonte": "eixos",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "505e232a1f7f5692684ff28a2318bb1a0f9ba741c20ff3d78817104123500539",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ],
-    "score": 12,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "envolve macroeconomia/juros/dólar",
-      "afeta a classe mais abaixo da meta: Caixa / Reserva"
-    ],
-    "tipo": "Acompanhamento",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Dólar fecha em queda, mas fica acima de R$ 5,91; Ibovespa cai com tombo da Vale e da Petrobras - Estadão",
-    "resumo": "Dólar fecha em queda, mas fica acima de R$ 5,91; Ibovespa cai com tombo da Vale e da Petrobras Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFFtQ1pwY25fR192RU1zTEo1VWZRcXQ1SWFacnU3WGEtdUhyLW1lLTJpZFpvR2cyeGRqYlc2WlU0eG5UV2d6ekFDbGdLR0tCazc1ZTJnV0dvbTF4VHE0OXRSQWttZVAySFc2Wk51c0p5ZWdla3U2UUU5Z3Q4M2d5azVCLW5YQjg2ZXpvT2ZicDJFVXNMbFhwN3UxeGw3TlNCaWJjWDFPVnJkckhkcF93NmRiSGdKYlo2bW1udHhqaGxpaFRob0E0VkY1dVNra0Q5bXNhNW1XTmwxZ9IB3wFBVV95cUxOU2xMN0t6dkpTSzlJblVoUW5QOENBb0lIZHNuOGxkVi1ENVVweWRkQS1tN3BkOFh2ZWlhaF92VmViN0p4U05lWmVqdmpOdHlCSGlYaU01VHpCWjdNYTM1TVprTTlXa21zdWhOVncwdEFhUl92YTJUUVdIVmRXVE1xckQ1SVZSLU9KMW9qUmFXbDluUTBhQkxCTkY1bVJfa3pWS3U2SzlUNDhlQ19EbXF2RU9zNnAxSkFFRVRDUmV6cWlmVjlXcTlZbVcxUE8xMnVOMW01WlJYZmtCNlg3eUtZ?oc=5",
-    "fonte": "Estadão",
-    "consulta": "Ibovespa OR IBOB11 OR BOVA11 OR Selic OR Copom OR IPCA",
-    "chave": "6838076e7e36b345564d707d70b19b71fd9992c92f0f95b038b7402fefe8b342",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Otimismo com equipe econômica leva Ibovespa a alta de 1,5%; dólar caiu mais de 1%, cotado a R$ 5,91 - Estadão",
-    "resumo": "Otimismo com equipe econômica leva Ibovespa a alta de 1,5%; dólar caiu mais de 1%, cotado a R$ 5,91 Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
-    "fonte": "Estadão",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "chave": "e34eb0d4e92549d9608f86c5c3db25c3f58bf17ec6b0eb75ad9608a2baa3172c",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ],
-    "score": 11,
-    "motivos": [
-      "cita ativos ou temas ligados à sua carteira",
-      "tem linguagem de oportunidade/compra/desconto",
-      "envolve macroeconomia/juros/dólar"
-    ],
-    "tipo": "Oportunidade de estudo",
-    "acao": "Caixa/Reserva está abaixo de 20%. Mesmo com oportunidades, priorizar recompor CDB 100% CDI nos próximos aportes, salvo se você já tiver reserva fora do BTG."
-  },
-  {
-    "titulo": "Banco Central vende US$ 2 bilhões em leilão em meio à pressão sobre o dólar - Money Times",
-    "resumo": "Banco Central vende US$ 2 bilhões em leilão em meio à pressão sobre o dólar Money Times",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHhoSmt4LVV4QllRU0d5YTBzUXZJakZobnVRWWtQenZqMTBINUNtMjFNSmRLSldudThmZzZMaktNRk1JalZtSjQzLWpOM3REcTRmMU9kZHVVZ0FnbmE5YWh6VXF2cXRxNnJUaHNURWR1VjlmWmNxYU16dVVTcUpFSGFocUpiWjNhdU54ZDdaMDhicHM4ZkY5d0s1b2hsam42c0VwV0U1UUlTd0ZTX2Jr?oc=5",
-    "fonte": "Money Times",
+    "titulo": "BC divulga IBCR de setembro - Banco Central do Brasil",
+    "resumo": "BC divulga IBCR de setembro Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PaV9FV3ZYOWpDN0dHTFZvRjV0bUVmd1EwbHdvdlVBNVk0QU5tRnR2N1h3Uk9KNTVJckNyVGF0Yy1vbVQxdE9meHZSbVp2V0d5TWdMYWhoQ3JVRGhq?oc=5",
+    "fonte": "Banco Central do Brasil",
     "consulta": "CDI OR Selic OR Banco Central OR Copom OR IPCA",
-    "chave": "809831ce5af1c7945001c8aa3c03bd450c374649b0b492e2b6a063e72afac63b",
+    "chave": "ce1a0a9462372a1bac8c53df7e89f87a6cab7a3571f4ea61e56906e3e7f90c85",
     "ativos": [
-      "WRLD11",
       "CDB 100% CDI"
     ],
     "classes": [
-      "Ativos Internacionais",
       "Caixa / Reserva"
     ],
-    "score": 11,
+    "score": 10,
     "motivos": [
       "cita ativos ou temas ligados à sua carteira",
       "envolve macroeconomia/juros/dólar",
