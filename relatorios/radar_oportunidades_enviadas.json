@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-09-23 16:59:10",
-    "chave": "d49b6f92786b2727822e9b59a3614a8d25ddcc97262eca9466795178f27a6173",
-    "titulo": "Maioria avalia que BC deveria interromper cortes na Selic em novembro, mostra Questionário Pré-Copom - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSHNNLXBkbEVxWWJGSTR1dEhId0RYVmxuZU5wM0tPSUF4R2Q1SkN1UnIwcnp3ejVBdEExMTZfRU44Qk5LazBxTm1nLTBwT0dHNHgycFdzSHVYSXdMY2xFdjNwWU5nOVh1d01rbWViSU81QTctd0ROUU1MR1V4SGFTeVhZc2tLVF93Sy1DbFpFeGZMQ1QzNzB3THJHYVF4bXU0SW14ZXhzSVRuOS1xa3V2UzQyNk9wakhLRjZEWm05Q2ppdzBOUjBHcEhmbmZDd0o0aTBlMkZTSFRXRElLMGRsNGtrOGtWSXZrSUI0Ry1R0gH8AUFVX3lxTE9WRjFKb3Y2NTd6enczV2hSbVVkOWFyX3hCNjVjbFRkNG1HTk5wT05UenFmaWJ0Qld5N2YwMl9tSDRyZUtQUFZpTXpZelZOUGJiS1JGYTZKRkx5Z1FXd3hPanZuM0NmSFNjTEZNZ2NDTC1VbGp2emdjd29OZG5nYllVMkJKUDJjOU1xQ2JLVkx1REFaNlpyQUo2YUcyNFF5Z2tQNlZNQjVTQ3A2MExEY2tHM3E5eW5LeHNXQW1DZDIzaTRUVmE4bXh6NDhWR3dFSmx4VU9uSFVKU3FZV085VHgwQ2RsLVJuWjV2cHQ3Qk5iTWJQYTBDWXBUN19RdQ?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 16:59:10",
-    "chave": "c503694fa4ddccd8c67599097f24916bc2a2e3cc1726feae070fbeeb9440e159",
-    "titulo": "BC faz atualizações e aprimoramentos no regulamento do Pix - Banco Central do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0STh2QXF3WjZQU0dvNzdLWVY3Szl2UU5xNk9aRUdVbnhoNF9lbHRENENaWkNHc1gtcG1CTmY4MTdwZktHMGtDTGx5c1lZd3FxdFhLRjk0WmVYOWZi?oc=5",
-    "fonte": "Banco Central do Brasil",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 16:59:10",
-    "chave": "bca97cbc0b5b0ecf56844e00540b448bbabed53f999c08ee1f5555218a7b3d9d",
-    "titulo": "Banco Central propõe atualização de regras contábeis para reforçar convergência aos padrões internacionais - MundoCoop",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPREs4YlF0T1M0MVd4bF83Vk05cDdSRnp5bXFFcHpFU1pPWHZPdnVwV1pfQjYwWEhna1FMQURHVjNpMmNNbjREc0pkLTBXQmg5RW1RZUNmMWhUSE9kUUg0dEVYVzFEcHJjeXlrOUxqdmE1ejBydjU2aTlOY24yUWdYcGpBWm45YlVfZkxLZXQtUmhULU1WSFBlT1NFUzJDa1lzSWZYMHJKMzhuMzVpSEpRU1hmejNnQ18zUkVpaURqU1BCa3lTYVF4UHFFMWRlSi14QlZJSWE3X1ZVclk4NjVMLUEwQnQ?oc=5",
-    "fonte": "MundoCoop",
-    "score": 10,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 20:22:18",
-    "chave": "52e7614b9a7c29c61f7a5fab8b73eb327400161fd941c4507c8785758bb8a7cc",
-    "titulo": "BC Defende Cautela nos Juros e Diz Que Selic Seguirá em Nível Contracionista - forbes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVdRUTVfUkIwOGRNcHFpTEtBWkh3YmJxeV9MRElNMHRETGRWWDEzTGJGcHpORkR6U0NZQzlCTEtoUjBua2FNRTdKazE5VTF5dTFDN3NqRHZxQWpYWFAwSmdjMFo1TlhoV1RtR1NKSFpWbnFpU2hzYi1UWUFTUXRBdjc3aUFIQnYyQ1M1ZURjOXlDUkRaLXBzY3RXX3VnenNWWWtiTWZBTDlkWVlIZVJubngzSUxKTzlNeW1INg?oc=5",
-    "fonte": "forbes.com.br",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 20:22:18",
-    "chave": "a9f9834b1fec1d3169cd0e5f834445064126c0809d87357eef0e750950d44fb0",
-    "titulo": "Selic e inflação preocupam mais o investidor do que as eleições de 2026 - Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGNiTnVBV0s0dWNzQ1hHWUNFTWVtTDkyc1Q5QS1Nd2tGN0daSWpfZURDNERQQW9WQ0dPaDdzNXBydzlXZExTQ0lVdnhrOUFscUdDelpYTWMzQi1BbE41a3loMk01aVI5RXY3UkdoSlZRM3lBVEgyS3g2cHhTbTdoLWlKRTBSb0U1aF9CZFpEQVN6Y3NjSGM0aTAwdU50WTRKTks3aGpXeGd4aFlsMk95b1ptVVhuM2l5MFhHdTM5VGJ1MVptUUZuOVN1STVZN3pTVGQ1Vg?oc=5",
-    "fonte": "Estadão",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-09-23 20:22:18",
     "chave": "92115e7c1d94d5fac13ae58122ae8fdf7170b30d83847052d6acb981e6c2f1c0",
     "titulo": "Cenário de incerteza demanda ação cautelosa na Selic, diz David, do BC - CNN Brasil",
@@ -17181,6 +17094,105 @@
     "titulo": "Em novembro IPCA-15 é de 0,22% - Agência de Notícias - IBGE",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVRaeVEzcVVsYjRhUWtELXNuX0lpLUJZellTeTVKeVVMSFBQbmxNMC1sMmhzSW5YVmhxVmpvekhKaUVkYU1yUWRFaTJYTnlXUDNDNHBZT2hFUXJPa3oxR0FvZnRHNG5mN2pkMmZPUVBmLTdUb0dhZHFIaU93aFdXRThjeUlKNDZGalRqdWVOY3piTG1MaEY0bEh3U0FoTGtvX0JKVGstV2QyaURDUVlicW5lVWx3T3M?oc=5",
     "fonte": "Agência de Notícias - IBGE",
+    "score": 12,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 23:54:15",
+    "chave": "a5a0971239147b05b7b36cbc819975d8e120f8d03a58f3e4078997997aafa7c2",
+    "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74 - Bora Investir",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXl1R0NiSDliSVUxSVVrNl9XbzZpSFRUOTlqb0pQRFg2emFnVUp1RmxpaWlDZUs0TnJmbkhrdFo0ZlhoTW5JWlQ4WnlRZkJHNmladDZhTU9IWXkzOEdlcENKNWw0YldyVDJMUktqUWhYSUQtWl9Nc3lPVWM5X2VVbUJoV1E0YkZKMWZIY1dBd2RJczNUR0k1cTRrT0NmaFVoSDNqZFlFOHhxR09MS0ZyeDRfZHhpRlJycm8yOFBrUHlDNDF5cGVPNTV3?oc=5",
+    "fonte": "Bora Investir",
+    "score": 16,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 23:54:15",
+    "chave": "f6fa41c1301175c90f021c76048bd0fbca4fa3980acab361b5e7247ae352f6f1",
+    "titulo": "FII que rende IPCA+10%, fundo com quase 30% de desconto e setores em destaque: onde investir em fundos imobiliários no 2º semestre de 2026 - Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMThaRkJYOUpJSm5WWTk5UjFndVFzNTcxMzFXb3BJWVNxdVZMRVZyeGNFak9XWS1jeWZqXzREM3hLTWpfczlEUlpMVjZkTGZXS2U4Q0FXbEphVndKbXZNZDVrTHU3Xy1KcmtfQjB6TjNOUEJCVkQ1Qi1fVmVyZFE2WkREN3ptMzV1NFU0NmtmWkJDMUExdHdYS01rZXBaV21IU0RDd0NHNEVYOVU1RU92ai0tWEJ0X2ZJWm1LNnltelg3d3d4cVhiQVg3b2kzeHpZS2dRaHRJRzRFS2NPV1A1V3NVT3hObThFanQ5eC1DSktNLWtvRUNmX3RoTkRaUFF5QlpVbGlqUFBQUEs1NnpjRWhseGtYYVRHakE?oc=5",
+    "fonte": "Seu Dinheiro",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 23:54:15",
+    "chave": "c1e80d258574af336386f38ec977784a0ae0b9b83bb9c2ba99ddf95f9bda29b7",
+    "titulo": "Diferentemente dos ciclos anteriores, o corte da Selic em 2026 não reduziu o juro médio das famílias - Fundação Getulio Vargas",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzNWQzFWZW9FSkhELWN3Qm8wZFNvWElxZGxXY2dzZFFMS1gxd2ZrS2poaXhsdktrbks2bUNrUmJZSXlHNnZSbTlqbEF5WmdrTHN5Z1pyNUMzM3ozeGJmY3pSbFZkT1lKT1ZJNXJIYjV6NHdLVHp3a3NUU2duMno2Q0FiMlk4em1YUXRoR2EyS2F6NHdxSWJYX0JFampmUzUyOHVwNFlJMERpcmU1WGU2MTRxZk9odFVKVjIxelA4Zw?oc=5",
+    "fonte": "Fundação Getulio Vargas",
+    "score": 15,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 23:54:15",
+    "chave": "3da6bfb4efcf7406aaf6e0394bbd2dd1a7a07cd59e1d609b48d8bf2aec8b09b9",
+    "titulo": "IPCA-15: serviços aliviam, mas clima e dólar desafiam a inflação - FGV Ibre",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOVBSM1FyQUw0YlNYUXBaUzFsaXlYb3ZQQW5kNk1wOENRSVBDejZGVW5kdDUwMm0xM2t4amJndmV6d2dnc0pSYm1jY2hrMkhBXzNUUUtLcWRTMjdxSGFwT2xrT2JMa2RZY0FXMmEwMmV3QjBaRmEtb3JDd0h2cjJHT3NCY3loeFg0SDFQUWwya3VuRGZvMjhZd1ByVQ?oc=5",
+    "fonte": "FGV Ibre",
+    "score": 13,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "IBOB11",
+      "WRLD11",
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil",
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-26 23:54:15",
+    "chave": "93183a0808be6d2e26e24cdfb060408fbe9466587a911ed499b2e3e579f576c8",
+    "titulo": "Ibovespa hoje dispara 6% com ‘efeito Trabuco’ e IPCA-15 abaixo do esperado - Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUQ?oc=5",
+    "fonte": "Estadão",
     "score": 12,
     "tipo": "Acompanhamento",
     "ativos": [
