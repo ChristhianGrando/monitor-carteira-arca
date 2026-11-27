@@ -1,39 +1,9 @@
 [
   {
-    "titulo": "Dólar cai a R$ 5,74, e Ibovespa sobe mais de 6% com IPCA e 'efeito Trabuco' - UOL Economia",
-    "resumo": "Dólar cai a R$ 5,74, e Ibovespa sobe mais de 6% com IPCA e 'efeito Trabuco' UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNDZBcmQtcGVfOXRtVzVRQU5qbEpjeHFRYVZqbWpOc05wWGtwb3g5T1hzSElYODUwYlM3MHp3XzN6VFZadGxVblgxcGlGekk0MmtobGVSd0dpMlhiaXVibnY5eDVpVXVqY0c4OVF2VXBISkNWUWY1ME5HNzZmeTdkSkpMTVdNLU9RNXo0SktIZkF2MTJaTnVnLXR0cUFjQ0g2VlBzZnlBcU9ZVGtWeUpxYi1fY0prR1dwVllZ?oc=5",
-    "fonte": "UOL Economia",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74 - Bora Investir",
-    "resumo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74 Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXl1R0NiSDliSVUxSVVrNl9XbzZpSFRUOTlqb0pQRFg2emFnVUp1RmxpaWlDZUs0TnJmbkhrdFo0ZlhoTW5JWlQ4WnlRZkJHNmladDZhTU9IWXkzOEdlcENKNWw0YldyVDJMUktqUWhYSUQtWl9Nc3lPVWM5X2VVbUJoV1E0YkZKMWZIY1dBd2RJczNUR0k1cTRrT0NmaFVoSDNqZFlFOHhxR09MS0ZyeDRfZHhpRlJycm8yOFBrUHlDNDF5cGVPNTV3?oc=5",
-    "fonte": "Bora Investir",
-    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
-    "afetados": [
-      "IBOB11",
-      "WRLD11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "impacto": "Alto",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI"
-  },
-  {
-    "titulo": "Dólar cai pela quarta vez consecutiva e Ibovespa dispara mais de 5% - Agrolink",
-    "resumo": "Dólar cai pela quarta vez consecutiva e Ibovespa dispara mais de 5% Agrolink",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaXNDY2NuQ2RvTkdPeE0xVWdvYWtqbVN5c2RiTTNlLUhOdTFEWnROQjROMzNCNlNBTVZ0SDJvWGEweTZsVnY4Rmd2N3RaZ1FKOFFFVzRmWHI2RGk5NmVHZTVNMzBKaTczQUJwX0FwVVo1VGJhVHFSMkhDWl85R0xQTE5Ma2JBckNac0xLamI4THp6U1FKWjhsMlRFbkppd0V0U2JSaVBIenMtOTU3dEVSUWtOUmxQZW8?oc=5",
-    "fonte": "Agrolink",
+    "titulo": "Dólar cai a R$ 5,74 e Ibovespa dispara 6,07% após anúncio de Trabuco - Agência Brasil",
+    "resumo": "Dólar cai a R$ 5,74 e Ibovespa dispara 6,07% após anúncio de Trabuco Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ1k0cE9OLVdLOHl4eWlqX3dTd2l4TmVZUU4yNlVQWHhQOVRJRXNhdUNHdmhOOUdjaS1IYWs1b2YwR2V6R0lyWXNCS3NkRXl4SHNiVjRiMGxoR09WXzRWVTVmZDdUS2E3c3hqYk0yV28wQVhnVEcwZlNBT0NreFlNWHJyb2ltbXJUZWhaQVBrYmtHSkg1WTB6dVdBSWxKcE1wNHpxSTI1WUt0dmVBMHg1Xy1vbk1sMVZsVW9EalBSM21NWUNiOUw0dHFWc0FteFI5NWtMcWRTVQ?oc=5",
+    "fonte": "Agência Brasil",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
       "IBOB11",
@@ -43,21 +13,62 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021 - G1",
-    "resumo": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021 G1",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEtyMHQwcHZZWWR4RUhXVHE3R3BsVGFvOWVBX19BbXVuTUlJWG5SZFZmbHJHejZnWmdVX2tKZjNXQ25HZmlnOEpsaFZUUC1nMHNUdkZXOS10N2RQVXpJemFscGoxQ0NLOFp5ZW92VFBSemtGc2xkcE9GTWtVaVJYUVdSU1Z6X1BvQ0FOamdn0gGcAUFVX3lxTFBKd3NpX3h6Sk5icjFYMjUwQlpfMnQxSi1ZcnBkU2tTbk9pMDRPZ2lpclZiUzN6XzJBcUtRM2tTdldQSGE4OElWSlM5SFotMkRCSWd2TUFyZEdZT1h6Sy1fRWtDU2NFSVhNREVmZ0oycThpdDlWdGNLaXhpcTFpalhSSW5jeHhWQjNPQ0diTUo5Y2xkUXp4aVBvYjZQTQ?oc=5",
-    "fonte": "G1",
+    "titulo": "Ibovespa destoa do otimismo com Trabuco e perde força; dólar cai mais de 3% e fica abaixo de R$ 5,53 - Exame",
+    "resumo": "Ibovespa destoa do otimismo com Trabuco e perde força; dólar cai mais de 3% e fica abaixo de R$ 5,53 Exame",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVcmttTWVDV3ZxMmFxeU5LcGZpZnRObGRxVUZ2S2ZOQlZpYkV5UDI4U19maXZUOFBHVzhhODZCQTRkQmtULUIwMEJneFVjWVc2NE4yWEtvelEtTnpOejBOYWNxZXBMMFl1NlFr?oc=5",
+    "fonte": "Exame",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
-      "IBOB11"
+      "IBOB11",
+      "WRLD11"
     ],
-    "impacto": "Médio",
-    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês - InfoMoney",
-    "resumo": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVBXSzJ2cW5OSGp4ZG1YN2h3aW55SUsxcjhSQTN5b0x4RjdYTFF4eEJ2T19aTUhETDhhM050aWlBWVM2dFNvMHluNWVsTWV3U1k2Ym5WdTdJTmgzTlBGNWNQY3FDQlBvTGxOVmF5VnpadmJSTzZ3NHROVk1BTUNzT21uNDRVTmxicUhNQjVzX0JMMjVWYlBXa2dzYXV5RURCN3ZQRE9ZOU1rUi1FNDZBMlVjMGVOQdIBuwFBVV95cUxOdVZKNmRsM0paNXo2M2Z0dmdQdkVHa0FFZDRIZmFGWjJKTV84WGpTVzh3cC1nNVhlaUVJSGhtcklnVERJcVlmaUMxajhWZElCOEtSbnY3NFpfbjhGMUUzQUFTcGJIVGQ2MmZrZ1F2VVZKTHRiZm80TFZ1ZXRKWVhJbUV4cGtrLXRwLXMwQWVCejc2WmIzaUp4MEFOZGREUFBxeWtkMHVLZHpMUzNpRV9OU01pNkF3azV0dllF?oc=5",
+    "titulo": "‘Efeito Trabuco’ leva Ibovespa aos 183 mil pontos e derruba dólar em mais de 4,60% - Seu Dinheiro",
+    "resumo": "‘Efeito Trabuco’ leva Ibovespa aos 183 mil pontos e derruba dólar em mais de 4,60% Seu Dinheiro",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMm5EOE1kOUxXVU5tUXlyTGh5ZEdfMXJWOV9PcVlPTGxOa2pVZ0FFeUZqTi1GVHQyMkR4MDNTNjY1Y0RXT3hMMWNzNUN1TXNHSW1uZl85eXJZZjdqcC1VSGtqcU1XQkttRWFUaDlSakhnWFNOY0czX3pCY1pBU2NnMXJsNk5acUw0TE1FMXVLUVJKSGlrYncyTk12cWgxdEJDMVZDMDg3MllNRi1ZeXNuMm1vemp4MXZvS29SR1A0bUFGUVAzekE?oc=5",
+    "fonte": "Seu Dinheiro",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Ibovespa sobe 3,84% com Trabuco na Fazenda, dólar cai a R$ 5,50 e bolsas globais avançam - Portal do Agronegócio",
+    "resumo": "Ibovespa sobe 3,84% com Trabuco na Fazenda, dólar cai a R$ 5,50 e bolsas globais avançam Portal do Agronegócio",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSWswbklNQmNSeE5BM25uWXZYWGpxekpGeW9ZZkppQ0pKd25YS0I1eDFlenh6RG5OZExzTi0yUGxfR0JxOXpOYkhoUDRrTDVFZW5zY0piTmdtZ2IwYTRNSE43X3d2Zm9GbXh4WW9LQnJuUVlvNmFtQk95REZqNmFNR0FONVg3U0lkSEszNk5sQ1hhLUF5dzVaZEFBb3B2T1lwM1A0ZWJ0alM1Xy1ieUtCcmptR2FXWUxFNUFQT0wwUGpIT0V3ZktWVl9lRHNuU0p1dDFkMVpGVlB0S0ZTTXVMWTN0MEVlSno0aV83cThLcVN4Zms?oc=5",
+    "fonte": "Portal do Agronegócio",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Alta do dólar eleva perdas do Banco Central com swaps cambiais a R$ 38,96 bilhões em novembro - Portal do Agronegócio",
+    "resumo": "Alta do dólar eleva perdas do Banco Central com swaps cambiais a R$ 38,96 bilhões em novembro Portal do Agronegócio",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZDV4bDRoNW1qSV9OTUU5Z0ptTGJXcTJ6aFdCcmdrMi1xTE8zUzg2a2NGaUYybnlvZ1VUOGRoeVI1YlhIMkI0ZnVRbHhXQzlwZHNpU1l5OXpIbC0ya0VrNHNOMERVVTZPckFQSW40aHZlaGd1NU44QTNUSHB5ZG8zQnhrbHkwSDFfc1lkNW44dnlqNFoyd3BSRGdPNXFHRV9IMHlVTmZDV3FPS3JJUU94dlhpN2hMYnNfeFhSNk1XaWFqTHJKZy16OW9UQU1VQU11bHZHNmNad3NzTllOdkhmTm5Eb2xsdnFBUWxsdkhHTHRSUkszNzhqaFdZTlk?oc=5",
+    "fonte": "Portal do Agronegócio",
+    "consulta": "CDI OR Selic OR IPCA OR Banco Central OR Copom",
+    "afetados": [
+      "IBOB11",
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "impacto": "Alto",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar a rentabilidade do caixa/CDI"
+  },
+  {
+    "titulo": "Por que Ibovespa amenizou ganhos após saltar quase 7 mil pontos com “efeito Trabuco”? - InfoMoney",
+    "resumo": "Por que Ibovespa amenizou ganhos após saltar quase 7 mil pontos com “efeito Trabuco”? InfoMoney",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcFpiY2hxUVNYbEZrYlZ1R2dQSThoU0NSVnlONW9IaDdSZ1dabXZEdEEtODRyR2kxWmhwZklMYzFTNlFlRl8wZk9fMWlwaXV3T2Z4eUpMcnBDeTFzZnhCdkliSWRKLVJicHZoRkZrUjFQXzZLS1dBZU03U3BMRzVYamhZblpzZGRfcXQ3cFUtbGZwekxsVEJ4WlBPZFRqZ1N4U1puT0ZIbUxWRGpLSXM1THZTVdIBuAFBVV95cUxOeElEYWxFdmRabUN2cHVRcGlmOThiekV6a3NTNWtIbzl0S3QzWm8xV2tmd1Q2Vk9fX2U0dmpmQkJtR2NwaDZxNmhLUXR5bHI0WjE0ekwyclhBOEt3UVYzcHBiZVVqc2dLMmgzblhDelpaTE1mZ3BfajNOOW1Wa2JjcW15MVl0bW1pNGJtRG5qTThUdC1ZS1hUZElqbjBUa2lqanNqeF9GbXdvV0RoTUxJd01fSnNlZ1BN?oc=5",
     "fonte": "InfoMoney",
     "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
     "afetados": [
@@ -67,10 +78,46 @@
     "explicacao": "pode mexer com bolsa brasileira/IBOV"
   },
   {
-    "titulo": "Thanksgiving e Black Friday: como o feriado afeta o S&P 500? - EBC Financial Group",
-    "resumo": "Thanksgiving e Black Friday: como o feriado afeta o S&P 500? EBC Financial Group",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONE9ncGpyOEZLS2owa1QxR0NjVXgtdlJ1c0tqZUVERl9TLV9iQ1VaclhmaGdFUVIyWjNJUW9kLVBSeHdFOHNsLTBadllNNDdDY0lpQ3J2dC1kcWpMU0VxcVZIeVZQamxrTmsxV1lINFhxNDE4X0ljb0Rkd0ptanZmeGdFbkxETklDU3Q5WWJOUGpBcWxUZFJJ?oc=5",
-    "fonte": "EBC Financial Group",
+    "titulo": "Ibovespa perde força com investidores embolsando ganhos com a nomeação de Trabuco - VEJA",
+    "resumo": "Ibovespa perde força com investidores embolsando ganhos com a nomeação de Trabuco VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUVDUktFamlFbmN4dWtDRWNUSllxanNMY1dZTmNIcXJMSlYxWjFFOHpoVjU1Q0lpeTNwSnRkc051SzJzRkFXZVItbDc0b0dZX0t0WGMtbVdXTmdiV19zVy1ENUdrWmcyTjMxZmpUc0VsVlc3UUE2YjNzNlhwTE52TTM3LTdzVENXeXFrUmxtSjRLTWhfai1DNE51bHR4ay02UFdwcEZ5cXRHdF9qMUtlRFBvX21aV1p6?oc=5",
+    "fonte": "VEJA",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Mercado agora | Bolsas europeias estendem ganhos e fecham em alta; Ibovespa vira o sinal e cai - InvesTalk",
+    "resumo": "Mercado agora | Bolsas europeias estendem ganhos e fecham em alta; Ibovespa vira o sinal e cai InvesTalk",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10dXVXYURWajk0Yk80dVlnZEhIYzExcFBqanVxSW5ZYngzN1dZSHBiTUJPQ1VNb1BfY1JMN3ZQUktqUE05ZEdoQ2t0MC1RRnlxRW9TbHlvVjhkN1ozUUtuYXRaNm9sRHlJcHRkT1NydDlQd3h2Vnc?oc=5",
+    "fonte": "InvesTalk",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Ibovespa reduz fôlego após euforia com Trabuco no comando da Fazenda - UOL Economia",
+    "resumo": "Ibovespa reduz fôlego após euforia com Trabuco no comando da Fazenda UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThMZHVSZDZDQktqQVNJU3FyTXY2NkZuOHBnYm5DNGxvZy1DaVVLNTQ5cHFHalBzLXJhczdNRHhBS0l1SXNTZmZXMHNsNmxlSE5kV2Q4TWl5UzFlVXV2eWw4U3N1dFc0R19oclp4bjRsU205b0RGTzZ3d0pleUgwdUxXemtjdFAzRXN1UFpuc1dSajVoMlE0NDBOYTQ5bWVPcmR1NW5saGttU08yUGlBQW83Mjh6eDdHMzlIdjI3M0JkNVhUVnhn?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "IBOB11 OR Ibovespa OR Selic OR Copom OR IPCA",
+    "afetados": [
+      "IBOB11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode mexer com bolsa brasileira/IBOV"
+  },
+  {
+    "titulo": "Nasdaq e S&P 500 recuam à medida que alta da IA impulsionada pela Nvidia perde força - UOL Economia",
+    "resumo": "Nasdaq e S&P 500 recuam à medida que alta da IA impulsionada pela Nvidia perde força UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMXhUSU04U3lkZm1kc0dZUkM2b0Z3OTNtcVVWVXZNRjExTXFhVWtDNlROaXcwS1pSZ0dWOU9iZm9nYy1EUVBSbk9Edlc4anFGRUdQNUJBa20tRE16enA0UzkwY1Fpem9qbzA1TmFhUGpvcU1CRk5kUFJMd2NyT0RzclA1YkdLMWxGa3lUZklWcWNoX0RhWm5jdEktZlVBNWhGYk1vMFljVXpLcGU3bGh2THd0bkxjb1hpYVN0Y3dIaWdSMVo5TG1MaUtubk83M0htcjhyZE93SEp1a28?oc=5",
+    "fonte": "UOL Economia",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -79,10 +126,10 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Previsão para o S&P 500: liquidação de techs pode estar perto do fim, índice deve subir 25% para atingir 9.000 até 2027 - TradingKey",
-    "resumo": "Previsão para o S&P 500: liquidação de techs pode estar perto do fim, índice deve subir 25% para atingir 9.000 até 2027 TradingKey",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUFV2SzhtTVdqNHdMbzAtOXVvQ3VtUHloRFp2elJ3SF8yVGU3X084NURuMFQ1TUhZSVNtd2I1SkNpei1aYkRKSVJEaC1nTGRxZzU5OXpNNC1jUV9MR3dIOFdqRWUxNng2S3FFbFFJVERZaUE0NWJ3aTVCWXZuQlhrQWlwUG9xbVhQMld0UTJrSzdaRHRiVEZkSUp6V3o5WG9lQ1FKMUtnemtpeGRiTWNpYkd4SklFRThvS2hjZlFnbGJ6cjByS3JxQ05FYTFqVHFPZnlGcFZIMA?oc=5",
-    "fonte": "TradingKey",
+    "titulo": "S&P 500 e Nasdaq caem com correção em ações de tecnologia em NY - Valor Econômico",
+    "resumo": "S&P 500 e Nasdaq caem com correção em ações de tecnologia em NY Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNW5vQnd6THFqR1ZTOVo4YXpGRHhRU2tPMGZvLWZ5RzVWM2l4SmJOaWltRG5KemhYMnpQcVpLZ252NUVHOTBMaEhfQmFWZ1lqdjRTTkRyS04zVUpYWUhpR0FpZG1QU0xEMVlGcXNWMlo2MnFCcEpuOG5aaUpFQWZSVmlOZTY0T0dGTXdXSFFKeGo2dGY3cnBjNTdlcHg1RkN3a1QtVFlMU1BtbUt0Z3pMbE9UNkdfVk1zamtiaVpweTNxZ0JjT09RWXl30gHYAUFVX3lxTFBMLThPTUNhaERUOG1Za2QzeElWU2V0aG85WWhSSW0wM3VPaVBaY19kUU9nVXpfbEFjQ1N4Y3ROZTQ5ejlxSFhrc3RLRmdNd00yY05EeENMWjB4eGtPUmdmWFY3dm40aG5DQndTS3BnMlJPRjQ5NzB6aW95MlgySkRmT3NCMEZYOEpqVE1OZEFMRHhrRXlkRmo4a2g3RkFLY0VSOEJ4TG5JZE04eUVaMm5lNVBjcjc4NFFLTnUzdHR0YVh4QzdGeWNIZkliZ1VRQmk3aEtzLWpSSg?oc=5",
+    "fonte": "Valor Econômico",
     "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
     "afetados": [
       "WRLD11"
@@ -91,10 +138,22 @@
     "explicacao": "pode afetar exposição global e dólar"
   },
   {
-    "titulo": "Elon Musk anuncia doação de duas ações da SpaceX por criança beneficiada nos EUA. Distribuição ocorrerá por contas de investimento em 2026 e 2027. - www.portalviu.com.br",
-    "resumo": "Elon Musk anuncia doação de duas ações da SpaceX por criança beneficiada nos EUA. Distribuição ocorrerá por contas de investimento em 2026 e 2027. www.portalviu.com.br",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYm9qTjFUUzIySHljc1Y0RTBMNV9rOTBoSFNBbGw1c0Q4enA3bm0wTlFZeXhwdmdZMno4eVdka3ZkWml1b0h3dG10Xy15RUdtUjYzelZrRWV3NjRSOHZDQk5STVRpeHJ4LTBMcmdibmh3RjFxbTdIZk9KeWJ1Y01GSUYxZENud3lkU2wyaDdDNldjY2JTRDJMQk9lT0h4NHRVUENIbzc5ZzRqeTY5ckR1VG5BOUtvT3FPUEUzQVNkQkhTcmdKREhHV09iejFYOWZleUw5OW0yOEF3ZVFPQUFpTl91U0p1Tklxd0JncFlKaURmbzNMbFlj?oc=5",
-    "fonte": "www.portalviu.com.br",
+    "titulo": "Nasdaq e S&P 500 fecham em baixa após alta impulsionada pela Nvidia na segunda-feira - UOL Economia",
+    "resumo": "Nasdaq e S&P 500 fecham em baixa após alta impulsionada pela Nvidia na segunda-feira UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb3JubWxHeVdZSWl3UjRMTE5pNm1YQXJKV0piX0c0VUUyZ1plNFE5ZEZ4ak0zZVd1U2RRdW84LU92Wm4xNzVkYVFDRXpPZ2lQbXJmTnJkQjZpYlJ4djJ0bVVqQWx3cE1vZXNaRjJ0YTI2eWZ4azFHMUs4SGlaRlJqX08zVjAtS2JOU2hoeUtoQ2RmSkNMeUhyTVdkdXVnYVJ4aGVXbUdlYlJ3ZDNJbTFPX211ZW1IRFZXWFAyUlVuTV9JU253NElrYWNPa280Q2NlaFJISFVQdE91Wnc?oc=5",
+    "fonte": "UOL Economia",
+    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
+    "afetados": [
+      "WRLD11"
+    ],
+    "impacto": "Médio",
+    "explicacao": "pode afetar exposição global e dólar"
+  },
+  {
+    "titulo": "Elon Musk promete duas ações da SpaceX a cada criança dos EUA em doação que pode chegar a R$ 100 bilhões - O GLOBO",
+    "resumo": "Elon Musk promete duas ações da SpaceX a cada criança dos EUA em doação que pode chegar a R$ 100 bilhões O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSlZYbmQ1QXV6eGFPZ3h4anBLNm53eG5wNmVZMmFuUG5jaFcyN2xVQy1QNnBjeHQ3T0JpSTJQaGphNU8tdF92MEtESjFsbFo0d0NHMVV3aE5wSkxDYjNjSW9TektRZXIyaDJnMnVZNmdISHlpWFg2dWo5VnM3NGh1NnZkQ09XMXFQSkpBUzF4aWJzR0Z6M3lqVWVFbmw4ZURqVnJ5THlUWk5NcVZkOTlRTS1Bd1FzM1BSVVRoQ25ZS2VyamRORlpDaF9jMXZzaXROODZEYlNSNFpQVGIzNGVlTEpPODFBcnpiTWZTODltd2dQT1o3QXU5RUI1Qk_SAYsCQVVfeXFMUFM3Y2tuelF0QVZMejlYM3E4bmNPbHVhLTgxVmJkdTE3MUNCSm04c0ZEM2NuY09lblkzU0U5RXhKdjdRZzZWVm4xQVI4Wm8wZHl3RVl1NmM1ZlBwSzVPVDQ1Tk12UkJJak9GcldKeVR2N055WENLNDdwREJzWDlpZHQyR2RpeTg5NTdjbnVXYTUtYjZwNGFwSGhQY2VLdmhfMkY4M3k2ZkFMUURCQVZxS2M2Y010RkRxN2JxWHhxQUI0bFVOTmdFQ3NiREU4WlJoaTlKVHVISFBOQTBJTVAyWmFqX2txblpzRldoNndEZmZWSGtmRlB1QUVicXY4dl9qa0MwQ3Y0Ukp3Sldn?oc=5",
+    "fonte": "O GLOBO",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "WRLD11",
@@ -105,23 +164,10 @@
     "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
   },
   {
-    "titulo": "Elon Musk promete doar duas ações a cada criança dos Estados Unidos - Opera Mundi",
-    "resumo": "Elon Musk promete doar duas ações a cada criança dos Estados Unidos Opera Mundi",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWF1ZTRxTmRQaENHdllCOFByTDMxUHVBN19fcEZmSXVwYk92cVZkMVE4Um5taGNOaUt1bHVURFo1Q2ptOWRIWmR4NkEyRzR0LV94em04eFlGX0MtWEp0LW15QTQ3TXQ1TS1DQS0xX2YxbWxxUld3eW9RYWQ3V2dVX2hJZzJBbXc1NW1WT2VIclpqUkJ1ZXo1SzJlcXAtajZtMFUtTUNHak91U29wRktDUkdjWQ?oc=5",
-    "fonte": "Opera Mundi",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34",
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Musk promete 2 ações da SpaceX para cada criança dos EUA em ofensiva por apoio à IA - InfoMoney",
-    "resumo": "Musk promete 2 ações da SpaceX para cada criança dos EUA em ofensiva por apoio à IA InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG1ZZEpDcDF4UUxKMzFhYU1KWk5PbWRmZnhyMFVNcXhHWS1RVHdBWjczNUE3WFBqMmZEajBaRkg5ZzZDeFJuQXlnRjVfRnVuRjNWcEJPWVJ4TTBHSEhONUtBS0FrT09zRE00ODlzaV9McXlEal9zd0lWUEdHdFJmektEdFJkVWtMR295ZjZuMklrSmpOZk9Ud09wZVFMT25tdTF0RU5oTkRHNzNFNGZnSkR1TzNNZzJIUXJrNE1Tc9IBxAFBVV95cUxOMHd6ZXBRRkdtbVdTT2RiWkhSWlkyVW9pYjJtTXRzbExjaFQxd0h5U0FZTWp0ZldBM1VSeU1EN212WHNYdzVQOXYxN3ZZZUdUNjAxTVpLM2Q4dXRwdkowZzhVRDMzR0VJWlFBRmNRaDkzM0JIYllhV1hYSUlxUDl6cXhWS3NtUXlPY3BaT0dMb0ZMMlhEQWZ2ZXF2N1g2aGcxQU51VDNueVRRQjFUZEU2R2I0Sk0zbFRBbmExa0x6TDRKWXlW?oc=5",
-    "fonte": "InfoMoney",
+    "titulo": "Ações da SpaceX sobem 7,47% após Elon Musk ampliar plano de doação de ações para crianças nos EUA - Times Brasil | CNBC",
+    "resumo": "Ações da SpaceX sobem 7,47% após Elon Musk ampliar plano de doação de ações para crianças nos EUA Times Brasil | CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNW14cDlOcXZGX0hWR1BTSjB6TVJMUnROOEhyYTE2UXo2T1BsYkJ2ZE1YRzVEMEIzLVNJemJsbUwySDhhUEdrUGhTNF9ZRm1EWlNDSWRoamxVZGRQRktoM2t4LXBmajhBa0oyZng3N2hub21PbEhvaEFocFNVaWlwU0dOSi1sTDVWcVhLTjk4ZHVRUkQzSEkxRDVKakE4MUNabzhUMkJ4aTJ0M2hWbkRhZ3pBVWdNS0tqdUJfeTVsdWZNSmFtT1gtZTlKeDVIZ2JraFE2U0M1dER4Z0k?oc=5",
+    "fonte": "Times Brasil | CNBC",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
       "WRLD11",
@@ -132,68 +178,15 @@
     "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
   },
   {
-    "titulo": "Elon Musk promete doar duas ações da SpaceX para cada criança dos Estados Unidos - VEJA",
-    "resumo": "Elon Musk promete doar duas ações da SpaceX para cada criança dos Estados Unidos VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWgxdDhFZ2lZbmR6QjJGNmxkNjRJN0ppcFJUeFI5RVFNVUhfa2F0OVhVYmlVaXNWSEFZLXo2MFpHM2dGS21NUU1UUjIyYWMtNlM0V1lTNFY3Tmc4d2VZOEt4cnhMNmlmbTI5ZlNERTItOFlkSjc1MUhRTVE3REZreU9XenZ5eTJlalQzYjBoOWtyZlUwT2w4c29SeE1iUEJvNmpWVHhfQzRndEN0aWZuUUh2UQ?oc=5",
+    "titulo": "Como empresa de Elon Musk atuou na apuração das eleições brasileiras - VEJA",
+    "resumo": "Como empresa de Elon Musk atuou na apuração das eleições brasileiras VEJA",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX29wVmdSaUdzRVBtSEUwbVZhQ1JkTXJMT01BUFV2c1NIbl9jbExheXZOaFUtbS15U3V1Vy1VbkJtUThrY1Q1c2IxSk9TSFljWXBfY1ZvY0pEazNEekVBamhqclJTckNJOFM3dTNYYU5SV3hVWnBlQVJmVTBONnpRbjhWMENqcEpsekM4WC1kR2szRXlXT0QyeEFPbGo1ZnlVVnFWNnIwTQ?oc=5",
     "fonte": "VEJA",
     "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
     "afetados": [
-      "SPCX34",
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Musk promete duas ações da SpaceX para cada criança nos EUA - Gazeta do Povo",
-    "resumo": "Musk promete duas ações da SpaceX para cada criança nos EUA Gazeta do Povo",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHQ5d2JyYVA0YlNYdkZkUXBwM2UtNGEyalRBWWt3dEpBZzdTcDR0ZUViZVVwU2hFek1iaDF0ZVgtTUVZWHllVEExWWt4NWR1ZFlaeWU3MXowSGw5SmtLT0lZRVdnbE94R0JMNFVRN2dVSGxYVkhTdG53eFl5VTdfbURQSG5WYV9YLVFKU1ktc2NsbGFnOHRIY3pLTzNLMHc?oc=5",
-    "fonte": "Gazeta do Povo",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "WRLD11",
-      "SPCX34",
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Musk promete doar mais uma ação da SpaceX anualmente a crianças americanas - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "resumo": "Musk promete doar mais uma ação da SpaceX anualmente a crianças americanas Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUllXbGRINVY2eEFUNnQtNlEyaTgtcWxsS0wzc0xaVFh6Ty1XZUMtWHBHdUpYeXAtX05JbS0zZU1KVHpmbHBnb1ZpYVREVEJGdGN6ZWxBTWNYQ2VQb1AwWnJGd3JPeDlyV1FYV09WSTVDTWliMUNwdldGX3hqc0dDTXJyNk1kWnpOMzZCVjNINHpibV9kS3ZrQXotcWZMV1JMVFdZbEpRRXJwTXJRTEFFeGtUbEphbHpMR3ZhWkY2RUhCN2ljZWJ0UDRR?oc=5",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34",
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "Elon Musk promete dar 2 ações da SpaceX para cada criança dos Estados Unidos em doação de US$ 18 bilhões - www.radio96fmns.com.br",
-    "resumo": "Elon Musk promete dar 2 ações da SpaceX para cada criança dos Estados Unidos em doação de US$ 18 bilhões www.radio96fmns.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDhpTjZsS181eE92YThrSFdxVTNCdmw0NzVBM0NCSmoxYkgtUHlGTUZ0a095QjBOUnJwalJNLTE3R01xZ3lYWGVGV3pNN0pKZ3E2am1HOVJVekQxUWVQZUp1VmhxeGpqTG9aZGVoS3JFclN2MU51cVFVLXB2b3RsZkZrZi01MEJjUVlTOVlRX1dfRUhtWnFfLUkxMktQTDFQWDAtbVc4OW9PUGRzX1pVS0xpSlpsM3k1YXlKU3JEaGtVaTQ0?oc=5",
-    "fonte": "www.radio96fmns.com.br",
-    "consulta": "SPCX34 OR SpaceX OR Starlink OR Elon Musk OR Starship",
-    "afetados": [
-      "SPCX34",
-      "KNCR11"
-    ],
-    "impacto": "Médio",
-    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência"
-  },
-  {
-    "titulo": "A Bolsa americana está na máxima: isso significa que está cara? - Nord Investimentos",
-    "resumo": "A Bolsa americana está na máxima: isso significa que está cara? Nord Investimentos",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2FhaUNYc1BkdFFNVkFwVkZNdEctekw5TWxRNU5UbHhRS0JobUcxU3BYeTM1MnBWNERBVWVnVklHZzVUallfNHN1TU50MlNlTDFLczBTd05JNjhvUjJYczhJcTEycXJBX1lTdWZoem1PMmN6NGJMVXh5MnZYdHFlZ9IBhgFBVV95cUxNcE5KVnBHSGdyVU9KR3lsbENVMXZYTjRPQ2hvSC1WQjByLVdqUV92b1B1TXRaSl9JLXQwZHNaRDI3OVNrQzhwRHRNN0FLdHZfOERydDktWU9sYzYxS2JuN2tBaS13OXQ2bGdydVZNd0oybWstM3JWM0hhTy1sdkVfMEhjWVp0Zw?oc=5",
-    "fonte": "Nord Investimentos",
-    "consulta": "WRLD11 OR S&P 500 OR Nasdaq OR Fed OR dólar",
-    "afetados": [
-      "WRLD11"
+      "SPCX34"
     ],
     "impacto": "Baixo",
-    "explicacao": "pode afetar exposição global e dólar"
+    "explicacao": "pode afetar SpaceX/BDR e tecnologia internacional"
   }
 ]
