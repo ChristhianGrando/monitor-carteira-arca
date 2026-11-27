@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 26/11/2026 20:34
+# Relatório da Carteira ARCA — 27/11/2026 03:18
 
 ## Carteira monitorada
 
@@ -13,131 +13,131 @@
 ## Resumo
 
 Notícias coletadas agora: 50.
-Notícias novas, ainda não enviadas antes: 42.
+Notícias novas, ainda não enviadas antes: 36.
 
-Foram selecionadas 15 notícias relevantes para este envio: 9 de alto impacto, 6 de médio impacto e 0 de baixo impacto.
+Foram selecionadas 15 notícias relevantes para este envio: 3 de alto impacto, 11 de médio impacto e 1 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Em novembro IPCA-15 é de 0,22% - Agência de Notícias - IBGE
+### 1. Dólar cai a R$ 5,74, e Ibovespa sobe mais de 6% com IPCA e 'efeito Trabuco' - UOL Economia
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Agência de Notícias - IBGE
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxORVRaeVEzcVVsYjRhUWtELXNuX0lpLUJZellTeTVKeVVMSFBQbmxNMC1sMmhzSW5YVmhxVmpvekhKaUVkYU1yUWRFaTJYTnlXUDNDNHBZT2hFUXJPa3oxR0FvZnRHNG5mN2pkMmZPUVBmLTdUb0dhZHFIaU93aFdXRThjeUlKNDZGalRqdWVOY3piTG1MaEY0bEh3U0FoTGtvX0JKVGstV2QyaURDUVlicW5lVWx3T3M?oc=5
+- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
+- Fonte: UOL Economia
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNDZBcmQtcGVfOXRtVzVRQU5qbEpjeHFRYVZqbWpOc05wWGtwb3g5T1hzSElYODUwYlM3MHp3XzN6VFZadGxVblgxcGlGekk0MmtobGVSd0dpMlhiaXVibnY5eDVpVXVqY0c4OVF2VXBISkNWUWY1ME5HNzZmeTdkSkpMTVdNLU9RNXo0SktIZkF2MTJaTnVnLXR0cUFjQ0g2VlBzZnlBcU9ZVGtWeUpxYi1fY0prR1dwVllZ?oc=5
 
-### 2. IPCA-15 teve alta de 0,22% em novembro - Agência Brasil
+### 2. Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74 - Bora Investir
 
 - Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Agência Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGhGQWo5RGxDNXh2dzFmZWo0QnhHSVlsOHB0Sm1tODZ2UDcteGJOY0VEYjNtZ1h0TU1QQ2Y1YkdhRDlwcWFIUk94NWxjX0hnQlJxWDJ4M3ZBS054WG0wZm5WVElsa1p2eXhqdkg0LVJ4d0FEM25oNFM0ZDY0bm5UX2lFLW9NWWdPbDlYRzJScW53ZTY4dVhUMlR3?oc=5
+- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
+- Fonte: Bora Investir
+- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXl1R0NiSDliSVUxSVVrNl9XbzZpSFRUOTlqb0pQRFg2emFnVUp1RmxpaWlDZUs0TnJmbkhrdFo0ZlhoTW5JWlQ4WnlRZkJHNmladDZhTU9IWXkzOEdlcENKNWw0YldyVDJMUktqUWhYSUQtWl9Nc3lPVWM5X2VVbUJoV1E0YkZKMWZIY1dBd2RJczNUR0k1cTRrT0NmaFVoSDNqZFlFOHhxR09MS0ZyeDRfZHhpRlJycm8yOFBrUHlDNDF5cGVPNTV3?oc=5
 
-### 3. Ibovespa dispara 4% com ‘efeito Trabuco’ e recupera os 173 mil pontos; dólar cai a R$ 5,74 - Estadão
+### 3. Dólar cai pela quarta vez consecutiva e Ibovespa dispara mais de 5% - Agrolink
 
 - Impacto: Alto
 - Ativos afetados: IBOB11, WRLD11
-- Fonte: Estadão
+- Fonte: Agrolink
 - Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNaXNDY2NuQ2RvTkdPeE0xVWdvYWtqbVN5c2RiTTNlLUhOdTFEWnROQjROMzNCNlNBTVZ0SDJvWGEweTZsVnY4Rmd2N3RaZ1FKOFFFVzRmWHI2RGk5NmVHZTVNMzBKaTczQUJwX0FwVVo1VGJhVHFSMkhDWl85R0xQTE5Ma2JBckNac0xLamI4THp6U1FKWjhsMlRFbkppd0V0U2JSaVBIenMtOTU3dEVSUWtOUmxQZW8?oc=5
 
-### 4. IPCA-15: prévia da inflação sobe 0,22% em novembro, puxada por alimentos - G1
+### 4. Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021 - G1
 
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
+- Impacto: Médio
+- Ativos afetados: IBOB11
 - Fonte: G1
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJNWGJacmt2WERuUVBSVmJUQUhNVE5YOF9nZUI3WmRubVUtY0Y2cGtSMGdVeEhhU2Rvbi1vTnA3QWlTZkdVbEgxdTlrMU1PeEt4SlVYVF9QYkJCa2E5Wm11QTdSZjMwMEEzV19UQUZzdVF0VW1DblphcFloNlRaVF9TamIzN2ZYZEkwdGVzSkxDV2J60gGjAUFVX3lxTFBJa3F5ZTRYNGhvdU5ncTc5eEFtX1FSdDZ2eGE0UTJmTXZTR3JYeWxWRmpNcDR3bG1xYWF2cjRYa3V0M3lNRnhGLTVwcHlEWGpSV01qNGdwN0kwRW9EeHFiMjNSMmNKRXFEd1JpYjlwUlNGT3k1Z29IMDJYbFFSQ1R2SjY4OUM0cTJTWV9TVjJwUHk4enRibUxRYlVCZFZaVlEwRU0?oc=5
+- Explicação: pode mexer com bolsa brasileira/IBOV
+- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEtyMHQwcHZZWWR4RUhXVHE3R3BsVGFvOWVBX19BbXVuTUlJWG5SZFZmbHJHejZnWmdVX2tKZjNXQ25HZmlnOEpsaFZUUC1nMHNUdkZXOS10N2RQVXpJemFscGoxQ0NLOFp5ZW92VFBSemtGc2xkcE9GTWtVaVJYUVdSU1Z6X1BvQ0FOamdn0gGcAUFVX3lxTFBKd3NpX3h6Sk5icjFYMjUwQlpfMnQxSi1ZcnBkU2tTbk9pMDRPZ2lpclZiUzN6XzJBcUtRM2tTdldQSGE4OElWSlM5SFotMkRCSWd2TUFyZEdZT1h6Sy1fRWtDU2NFSVhNREVmZ0oycThpdDlWdGNLaXhpcTFpalhSSW5jeHhWQjNPQ0diTUo5Y2xkUXp4aVBvYjZQTQ?oc=5
 
-### 5. IPCA-15: serviços aliviam, mas clima e dólar desafiam a inflação - FGV Ibre
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
-- Fonte: FGV Ibre
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQOVBSM1FyQUw0YlNYUXBaUzFsaXlYb3ZQQW5kNk1wOENRSVBDejZGVW5kdDUwMm0xM2t4amJndmV6d2dnc0pSYm1jY2hrMkhBXzNUUUtLcWRTMjdxSGFwT2xrT2JMa2RZY0FXMmEwMmV3QjBaRmEtb3JDd0h2cjJHT3NCY3loeFg0SDFQUWwya3VuRGZvMjhZd1ByVQ?oc=5
-
-### 6. Ibovespa hoje: IPCA-15 de novembro traz alívio de curto prazo e PIB dos EUA mostra economia resiliente; veja destaques desta quinta (26) - Empiricus
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11, KNCR11, CDB 100% CDI
-- Fonte: Empiricus
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMimAJBVV95cUxPbjRHOFdsMWhQZnJoN3ZRd0c4VlNoZXhuTVd6YmdqbVdNenJXdzR5Ykp0UFMycTc1NlRFaVp0LTNsNHIwTm5tVW8wdXUzWkI5b3VPZ19FZXNnVDFaQ3laR3BsTDRCVkRJdW9JREoyYURZV0NhZ2pPYzVPQUthcGMtNlFDbml3YXFlOTVRMnhrZml3RDRlSXZObHA3clhlRkhWeGZoTDlDSW1YQ0hxOE9qTmN3dW5GZGRKQ3dLbTYxMUtsZG1UTkFvZjJmMk9DX1h3U0EzZnBtazZMb2FjQWpRRzEyN1AwNVB0UTdYVVhUVW5wcTB3SVFJNzRfZmxFR3JtM2pxdzJyN2JUM1J0MEREMTFZVmRWeVBl?oc=5
-
-### 7. IPCA-15 sobe menos que o esperado em novembro, mas inflação anual avança a 4,64% - Bloomberg Línea Brasil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Bloomberg Línea Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODlNaGlVZUtCUHhabE1FQmFPSURaQ0J2WGV6N1Rxd0hCNTcxcG55Q0JDc2lyMXpaVk1TN0F4aWxTZkNzMVFTUXJKdlJsODhqNjQxNDZUaUl6d1g0d052emFpcjRWWmFWMnVBN1RUeGpydUdJRmpxVHg4Sng3RU1BMkZGS1NUWHd5em82cW91cEVZR3RmeENwM2RiYjdqcnF6eU4yRUpQMTQzTWZVdnlFUTVscU5ERmRJNjhn0gHPAUFVX3lxTE52YmsyU05SVDFsN0FzaHBMNDF1aFN4ZHhvYzdrUl96Wm9aQ0xoYUxiTWo3amNGdndZRWxqNWVwOFZqcVNLTHBQWXUxNFZ6Tlo0NkcyTzlDaGxGU1NXZ09GWVhMZ3dLZ3JLME53SGZqLU1NUDdfUGZoZFZoSEZWeFlRempSdEhTWlVGSHM1Y1ZrN2ZlV3BFNUtnUWh4ZFptTUdDUHNsVi1MNGZMUGtCSHBlRkEzVHpNZ3BTRkxmbm5uM0l0bHpTX2E3eGw4ekFFWQ?oc=5
-
-### 8. Black Friday freia inflação e IPCA-15 fica abaixo do esperado - Safra
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Safra
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE5fNzh4UXBOZDdDTVgybXNCeGJ1Q19neTNCNlBiOEVFME5mX1ZHTHRYT0JrRzBsSUMwVHdDUTBXdTZNR2pOZU5kNTNuYnc2eEhZdTdMMTVVSTJEbDdMeHVtV3JkaE54N1djVHhla2lyXzZCV1Vtc1hINDBSM09rbWM?oc=5
-
-### 9. Diferentemente dos ciclos anteriores, o corte da Selic em 2026 não reduziu o juro médio das famílias - Fundação Getulio Vargas
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: Fundação Getulio Vargas
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzNWQzFWZW9FSkhELWN3Qm8wZFNvWElxZGxXY2dzZFFMS1gxd2ZrS2poaXhsdktrbks2bUNrUmJZSXlHNnZSbTlqbEF5WmdrTHN5Z1pyNUMzM3ozeGJmY3pSbFZkT1lKT1ZJNXJIYjV6NHdLVHp3a3NUU2duMno2Q0FiMlk4em1YUXRoR2EyS2F6NHdxSWJYX0JFampmUzUyOHVwNFlJMERpcmU1WGU2MTRxZk9odFVKVjIxelA4Zw?oc=5
-
-### 10. Ibovespa Hoje Ao Vivo: Bolsa sobe 4% com notícias sobre Fazenda; Bradesco dispara 7% - InfoMoney
+### 5. Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês - InfoMoney
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
 - Fonte: InfoMoney
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWM2dXVvZ0wxN0NqQlUtd3pZdldSSW52alRseG5RdTRKcm9rX3h6My1oeTlPOVIzY0JfMzdJejVGeDdtMzZIalR4UXpjTlJBRVk5MVhOdEdTOEplRHkyNEJGakNOVDNNMXVXVXJtOHBuNUd3RndoYklhc0hGbjFIWGFTWGsxamhtVXY2bWdBdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVBXSzJ2cW5OSGp4ZG1YN2h3aW55SUsxcjhSQTN5b0x4RjdYTFF4eEJ2T19aTUhETDhhM050aWlBWVM2dFNvMHluNWVsTWV3U1k2Ym5WdTdJTmgzTlBGNWNQY3FDQlBvTGxOVmF5VnpadmJSTzZ3NHROVk1BTUNzT21uNDRVTmxicUhNQjVzX0JMMjVWYlBXa2dzYXV5RURCN3ZQRE9ZOU1rUi1FNDZBMlVjMGVOQdIBuwFBVV95cUxOdVZKNmRsM0paNXo2M2Z0dmdQdkVHa0FFZDRIZmFGWjJKTV84WGpTVzh3cC1nNVhlaUVJSGhtcklnVERJcVlmaUMxajhWZElCOEtSbnY3NFpfbjhGMUUzQUFTcGJIVGQ2MmZrZ1F2VVZKTHRiZm80TFZ1ZXRKWVhJbUV4cGtrLXRwLXMwQWVCejc2WmIzaUp4MEFOZGREUFBxeWtkMHVLZHpMUzNpRV9OU01pNkF3azV0dllF?oc=5
 
-### 11. Bolsa De Valores Ibovespa - Defensoria Pública do Rio de Janeiro
-
-- Impacto: Médio
-- Ativos afetados: IBOB11
-- Fonte: Defensoria Pública do Rio de Janeiro
-- Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMib0FVX3lxTFBRVDdlNms4SXczSWdKRGN4SEZMa0c5cUlodVdxWklOcUR6WWhWZnlfZzlrYXVYVHN3bkFkZmNnb1hCWkoyaEFBWWd3dEtQeDRLYldZX1l6d1NkRHdac0FzTUh2N19KZ3FWSV8yeV9QMA?oc=5
-
-### 12. A Anthropic não deve entrar no S&P 500 tão cedo. Veja por quê - BeInCrypto
+### 6. Thanksgiving e Black Friday: como o feriado afeta o S&P 500? - EBC Financial Group
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: BeInCrypto
+- Fonte: EBC Financial Group
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTFA5QjRPQVBKMVhUQ1FEd181Zm9kdWZsM0NyUmdQMXVqSFBCRHVEUnA0UGZRY1dzR3hzMnRZOUZmTDlOelRieUZBbkhvaUUxTXVsbnVNZm9iaUJNallLeDdBTDVSWFJLLUFOb1U0eXlKZ04?oc=5
+- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxONE9ncGpyOEZLS2owa1QxR0NjVXgtdlJ1c0tqZUVERl9TLV9iQ1VaclhmaGdFUVIyWjNJUW9kLVBSeHdFOHNsLTBadllNNDdDY0lpQ3J2dC1kcWpMU0VxcVZIeVZQamxrTmsxV1lINFhxNDE4X0ljb0Rkd0ptanZmeGdFbkxETklDU3Q5WWJOUGpBcWxUZFJJ?oc=5
 
-### 13. S&P 500: Onda de vendas volátil e rotação de investimentos – Deutsche Bank - www.tmgm.com
+### 7. Previsão para o S&P 500: liquidação de techs pode estar perto do fim, índice deve subir 25% para atingir 9.000 até 2027 - TradingKey
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: www.tmgm.com
+- Fonte: TradingKey
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPbE5YeUhSNlc2bUVianp5MlMzb0F1SFRDMzNIQ1A0NEZYeUZkdzg3M3NaWWc4RWM0Mkg4WUpoUFFTTnIwYjdGVFpHUHdoTGIxdHhGMG9xTTV4bENpS0ZtaGtKd3NxaG84Q3lGN29RdHBJMFZ4aHlfUV9RbllXSlNQZ2UxR2dvMUgxWUZpb01wWDdDcnl6QnItUWl0TjFVRWVEOXdja250am02b1NaWll1ODUzOVI0dTNLc2VHOTA2bw?oc=5
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUFV2SzhtTVdqNHdMbzAtOXVvQ3VtUHloRFp2elJ3SF8yVGU3X084NURuMFQ1TUhZSVNtd2I1SkNpei1aYkRKSVJEaC1nTGRxZzU5OXpNNC1jUV9MR3dIOFdqRWUxNng2S3FFbFFJVERZaUE0NWJ3aTVCWXZuQlhrQWlwUG9xbVhQMld0UTJrSzdaRHRiVEZkSUp6V3o5WG9lQ1FKMUtnemtpeGRiTWNpYkd4SklFRThvS2hjZlFnbGJ6cjByS3JxQ05FYTFqVHFPZnlGcFZIMA?oc=5
 
-### 14. Musk dobra a aposta e promete doar duas ações da SpaceX para cada criança dos EUA - G1
-
-- Impacto: Médio
-- Ativos afetados: WRLD11, SPCX34, KNCR11
-- Fonte: G1
-- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0IxeXF6MmNtVWE0MGw1TFZ3dGkyUWRzR1ZDWFN6aVlwaVVGbFE0ZDl3c2c5VHo4RFhTcnVQV2tDNXpxZ1hCSWlCSmZjeVljZXFiRnFFTURZQzFpLVk4aXRaMGEwUGVmX0hkZ1BPbHpLQjRXQnBydFE2WjRIc3VXc3Vhb0p5ckY4MHZmY0Uzcjc1OGtsNnlCVmhVaEVJNmtRdG5CRGJyaHJZVmNtMFBhbFhnNjI0b19EQTlsRExxbFg2SGdoWHJkZ2Uxb3Q2SnhGMUHSAeABQVVfeXFMTk92MlVFcjBFdnZVamlrdGd4VmtGQ1V6UEdsTlVLNkNwQTV0SV9GOXFiY1gyb3FVc3RJa1VFUUh1U1FINW9JUEFzbk5qRjg4XzYzR2NXRzVIWFFMcFRjM242c0IydnVGemUyYVRuRG1wU3VKMmxHVTRJRTVmZ2JFMnlQYWMtSS1hRlhsQmlhMVdRcWIzMHRoaE81NlhTOFZSc3hpTGxGY2owY2UtUU9kdlhXVXAzLTd3M2Q5bmJYeE5zOUxfVUFhNVYxdXRhUGZaY2x4d3ZQMGl4eFVlbDBDaWQ?oc=5
-
-### 15. Musk promete 2 ações da SpaceX para crianças nos EUA - ISTOÉ DINHEIRO
+### 8. Elon Musk anuncia doação de duas ações da SpaceX por criança beneficiada nos EUA. Distribuição ocorrerá por contas de investimento em 2026 e 2027. - www.portalviu.com.br
 
 - Impacto: Médio
 - Ativos afetados: WRLD11, SPCX34, KNCR11
-- Fonte: ISTOÉ DINHEIRO
+- Fonte: www.portalviu.com.br
 - Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMib0FVX3lxTFA0dDJ0c0hFLTBKNWszVzl6WXR1R3ZwR29UX2ZyVDVqTk5JcE84WlJnOFJPdmFOdExBY05Mam82NkhmN01OMXFMNTVCME13ZEJZcVJVcEQ1RWZ4SDFLQkI5MHdUbUhfNjNNRWx2aU5XMA?oc=5
+- Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYm9qTjFUUzIySHljc1Y0RTBMNV9rOTBoSFNBbGw1c0Q4enA3bm0wTlFZeXhwdmdZMno4eVdka3ZkWml1b0h3dG10Xy15RUdtUjYzelZrRWV3NjRSOHZDQk5STVRpeHJ4LTBMcmdibmh3RjFxbTdIZk9KeWJ1Y01GSUYxZENud3lkU2wyaDdDNldjY2JTRDJMQk9lT0h4NHRVUENIbzc5ZzRqeTY5ckR1VG5BOUtvT3FPUEUzQVNkQkhTcmdKREhHV09iejFYOWZleUw5OW0yOEF3ZVFPQUFpTl91U0p1Tklxd0JncFlKaURmbzNMbFlj?oc=5
+
+### 9. Elon Musk promete doar duas ações a cada criança dos Estados Unidos - Opera Mundi
+
+- Impacto: Médio
+- Ativos afetados: SPCX34, KNCR11
+- Fonte: Opera Mundi
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWF1ZTRxTmRQaENHdllCOFByTDMxUHVBN19fcEZmSXVwYk92cVZkMVE4Um5taGNOaUt1bHVURFo1Q2ptOWRIWmR4NkEyRzR0LV94em04eFlGX0MtWEp0LW15QTQ3TXQ1TS1DQS0xX2YxbWxxUld3eW9RYWQ3V2dVX2hJZzJBbXc1NW1WT2VIclpqUkJ1ZXo1SzJlcXAtajZtMFUtTUNHak91U29wRktDUkdjWQ?oc=5
+
+### 10. Musk promete 2 ações da SpaceX para cada criança dos EUA em ofensiva por apoio à IA - InfoMoney
+
+- Impacto: Médio
+- Ativos afetados: WRLD11, SPCX34, KNCR11
+- Fonte: InfoMoney
+- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG1ZZEpDcDF4UUxKMzFhYU1KWk5PbWRmZnhyMFVNcXhHWS1RVHdBWjczNUE3WFBqMmZEajBaRkg5ZzZDeFJuQXlnRjVfRnVuRjNWcEJPWVJ4TTBHSEhONUtBS0FrT09zRE00ODlzaV9McXlEal9zd0lWUEdHdFJmektEdFJkVWtMR295ZjZuMklrSmpOZk9Ud09wZVFMT25tdTF0RU5oTkRHNzNFNGZnSkR1TzNNZzJIUXJrNE1Tc9IBxAFBVV95cUxOMHd6ZXBRRkdtbVdTT2RiWkhSWlkyVW9pYjJtTXRzbExjaFQxd0h5U0FZTWp0ZldBM1VSeU1EN212WHNYdzVQOXYxN3ZZZUdUNjAxTVpLM2Q4dXRwdkowZzhVRDMzR0VJWlFBRmNRaDkzM0JIYllhV1hYSUlxUDl6cXhWS3NtUXlPY3BaT0dMb0ZMMlhEQWZ2ZXF2N1g2aGcxQU51VDNueVRRQjFUZEU2R2I0Sk0zbFRBbmExa0x6TDRKWXlW?oc=5
+
+### 11. Elon Musk promete doar duas ações da SpaceX para cada criança dos Estados Unidos - VEJA
+
+- Impacto: Médio
+- Ativos afetados: SPCX34, KNCR11
+- Fonte: VEJA
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWgxdDhFZ2lZbmR6QjJGNmxkNjRJN0ppcFJUeFI5RVFNVUhfa2F0OVhVYmlVaXNWSEFZLXo2MFpHM2dGS21NUU1UUjIyYWMtNlM0V1lTNFY3Tmc4d2VZOEt4cnhMNmlmbTI5ZlNERTItOFlkSjc1MUhRTVE3REZreU9XenZ5eTJlalQzYjBoOWtyZlUwT2w4c29SeE1iUEJvNmpWVHhfQzRndEN0aWZuUUh2UQ?oc=5
+
+### 12. Musk promete duas ações da SpaceX para cada criança nos EUA - Gazeta do Povo
+
+- Impacto: Médio
+- Ativos afetados: WRLD11, SPCX34, KNCR11
+- Fonte: Gazeta do Povo
+- Explicação: pode afetar exposição global e dólar; pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHQ5d2JyYVA0YlNYdkZkUXBwM2UtNGEyalRBWWt3dEpBZzdTcDR0ZUViZVVwU2hFek1iaDF0ZVgtTUVZWHllVEExWWt4NWR1ZFlaeWU3MXowSGw5SmtLT0lZRVdnbE94R0JMNFVRN2dVSGxYVkhTdG53eFl5VTdfbURQSG5WYV9YLVFKU1ktc2NsbGFnOHRIY3pLTzNLMHc?oc=5
+
+### 13. Musk promete doar mais uma ação da SpaceX anualmente a crianças americanas - Investing.com Brasil - Finanças, Câmbio e Investimentos
+
+- Impacto: Médio
+- Ativos afetados: SPCX34, KNCR11
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOUllXbGRINVY2eEFUNnQtNlEyaTgtcWxsS0wzc0xaVFh6Ty1XZUMtWHBHdUpYeXAtX05JbS0zZU1KVHpmbHBnb1ZpYVREVEJGdGN6ZWxBTWNYQ2VQb1AwWnJGd3JPeDlyV1FYV09WSTVDTWliMUNwdldGX3hqc0dDTXJyNk1kWnpOMzZCVjNINHpibV9kS3ZrQXotcWZMV1JMVFdZbEpRRXJwTXJRTEFFeGtUbEphbHpMR3ZhWkY2RUhCN2ljZWJ0UDRR?oc=5
+
+### 14. Elon Musk promete dar 2 ações da SpaceX para cada criança dos Estados Unidos em doação de US$ 18 bilhões - www.radio96fmns.com.br
+
+- Impacto: Médio
+- Ativos afetados: SPCX34, KNCR11
+- Fonte: www.radio96fmns.com.br
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional; pode afetar FII de papel, CDI, CRIs ou inadimplência
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDhpTjZsS181eE92YThrSFdxVTNCdmw0NzVBM0NCSmoxYkgtUHlGTUZ0a095QjBOUnJwalJNLTE3R01xZ3lYWGVGV3pNN0pKZ3E2am1HOVJVekQxUWVQZUp1VmhxeGpqTG9aZGVoS3JFclN2MU51cVFVLXB2b3RsZkZrZi01MEJjUVlTOVlRX1dfRUhtWnFfLUkxMktQTDFQWDAtbVc4OW9PUGRzX1pVS0xpSlpsM3k1YXlKU3JEaGtVaTQ0?oc=5
+
+### 15. A Bolsa americana está na máxima: isso significa que está cara? - Nord Investimentos
+
+- Impacto: Baixo
+- Ativos afetados: WRLD11
+- Fonte: Nord Investimentos
+- Explicação: pode afetar exposição global e dólar
+- Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2FhaUNYc1BkdFFNVkFwVkZNdEctekw5TWxRNU5UbHhRS0JobUcxU3BYeTM1MnBWNERBVWVnVklHZzVUallfNHN1TU50MlNlTDFLczBTd05JNjhvUjJYczhJcTEycXJBX1lTdWZoem1PMmN6NGJMVXh5MnZYdHFlZ9IBhgFBVV95cUxNcE5KVnBHSGdyVU9KR3lsbENVMXZYTjRPQ2hvSC1WQjByLVdqUV92b1B1TXRaSl9JLXQwZHNaRDI3OVNrQzhwRHRNN0FLdHZfOERydDktWU9sYzYxS2JuN2tBaS13OXQ2bGdydVZNd0oybWstM3JWM0hhTy1sdkVfMEhjWVp0Zw?oc=5
 
 ## Conclusão para o próximo aporte
 
