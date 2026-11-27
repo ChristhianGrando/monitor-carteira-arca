@@ -1,92 +1,5 @@
 [
   {
-    "data_envio": "2026-09-23 23:42:12",
-    "chave": "b94e905cc3fa0b0a25b908c30c0e16ad36cd57b16756e0790c2e25a84ca712e4",
-    "titulo": "Ibovespa B3 fecha em queda de 0,86%, com maior aversão a risco no mercado global - Bora Investir",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGpuSllvcGNJcGVvTDNUU2RoeERSZm5ZNWdmQ0R6Z3FTV21CdE1ITVZGVjl1YzBWZVBSUTVfZUdNZEtydkxDZ0VMM1dueTBVN3FUa19Tek91OTZUZ0U2U1B2LVBkNGdPYzQ4ZndEVUVPVFFyQjMtZ3BxV0dHRGpPWV9xVW44b2IxYkQ2aGZVbE5CQ25OcmVmOFIwMEVWWXlDMUl5b0UzaXNKdy1UUkR5TVVTUzlkcU15WXVZSnVfSmoxeDND?oc=5",
-    "fonte": "Bora Investir",
-    "score": 13,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 23:42:12",
-    "chave": "465ecec9ef71b6985c1426ee67cbebfd628e469fc4c2b9c7056668c4db34b6bd",
-    "titulo": "BC Defende Cautela nos Juros e Diz Que Selic Seguirá em Nível Contracionista - Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVdRUTVfUkIwOGRNcHFpTEtBWkh3YmJxeV9MRElNMHRETGRWWDEzTGJGcHpORkR6U0NZQzlCTEtoUjBua2FNRTdKazE5VTF5dTFDN3NqRHZxQWpYWFAwSmdjMFo1TlhoV1RtR1NKSFpWbnFpU2hzYi1UWUFTUXRBdjc3aUFIQnYyQ1M1ZURjOXlDUkRaLXBzY3RXX3VnenNWWWtiTWZBTDlkWVlIZVJubngzSUxKTzlNeW1INg?oc=5",
-    "fonte": "Forbes Brasil",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-23 23:42:12",
-    "chave": "d72db390771a5a63e97121d367e07ea8f78068662457d0659debe28d4a535100",
-    "titulo": "Fechamento (23/09) | Cautela externa repercute no Ibovespa, que cai 0,86%; dólar sobe 1,28% - InvesTalk",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04NWQteTZieDJ6MzhldEJSalBKT2tlbHJrMTI5cmcxdGI3d1NVNEZEOTg0WHcyeExDa2RkLVdtelVGa1lYTTJjX0V5YVJXS1Bzc3lBN3ZRbF8xMlBRUWYzdDBuMWk2V2R6TTRWbHFaRWpKb1kxWVE?oc=5",
-    "fonte": "InvesTalk",
-    "score": 11,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-24 04:51:22",
-    "chave": "9a4843f99f1e0e02fd8b60c355697ba4ca2e9c0ceea31dd4c31d4433831fb907",
-    "titulo": "Ibovespa Cai Contaminado Pelo Risco; Petróleo e Dólar Sobem - forbes.com.br",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFVoOXdfbldISE5DVk9hLXlhV21BcXdxWTk4QngwNUZQaGxsa0x1YVpFMDdib2xqT25RR2JuOHRJT2VQZmpKVFh6WFF6dndEb2tsbmdFcmNTd1ZfNmJSTTluM1IzTkF2SzJLNHlMSS12WGpXZGEwWlVhUnJ2MVEtRlZtdTBLeVUzNTdOUDlfaWlxQk16UWRzLVZJZw?oc=5",
-    "fonte": "forbes.com.br",
-    "score": 15,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-24 04:51:22",
-    "chave": "581bef465e2a2db861c3a2d05308eac6707a1ad4d5e764c8e1abfd733ae44b57",
-    "titulo": "Banco Central amplia controle sobre criptomoedas e exige comunicação ao Coaf - A Crítica de Campo Grande",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT05YRmF0WWl5dm5hR1VYcDIycHJ6S1NHTnRjZVhmMzNtQ1NldThxZ3hKbWQ5ZlNHRnNMX1NYZS1OMldIMkhsc2t5RDBXZktMeFcxMWctVnZwa3JXeXd2ZUtMV2QzcHlXNFVOZXYyS1BOOC1RR3labDdnenNKOTZJUWJmQlVBdlA2VUdCZ3oyV19jVWtrS3IwU3RkVnIxNUd1X2J4NmktSm9iRjQ?oc=5",
-    "fonte": "A Crítica de Campo Grande",
-    "score": 11,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-09-24 04:51:22",
     "chave": "ab1dac1e16971a914b35511de5a657f2caf78733637d79ea9d25ef2480dc3bb9",
     "titulo": "Economistas esperam que El Niño aumente inflação em 0,5 ponto no Brasil em 2027, mostra BC - Folha de S.Paulo",
@@ -17202,6 +17115,89 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-11-27 18:59:30",
+    "chave": "75d035beb2a6102268670cc1e9782239e205ae38a5ec8928b44ca5b926897862",
+    "titulo": "Inadimplência sobe para 5,1% em outubro, diz Banco Central - Poder360",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTVrWHZaNFBMc3hIS3VBWGs0emNzR295R2FZV0k3NUdkZncyWjdiMW5WQ3pfbTBtcmd4YzQwNDlwcjlTdjdLZVBES3NLWFZKem8xUmRURV9jUnAzaGpFYzVVbmdSN25YaktYaHB4Mk1FZERpODZaRFVqTUZUd2VQcFRTLUNwSWw3cVFjTmNrWmFnR1hFdDE3Nzh3NXFmTGE5?oc=5",
+    "fonte": "Poder360",
+    "score": 15,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "KNCR11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva",
+      "Real Estate / FIIs"
+    ]
+  },
+  {
+    "data_envio": "2026-11-27 18:59:30",
+    "chave": "b4fc1e71176ae181af4901a728982e1d3294c2427071c38c88d515f341b7ea98",
+    "titulo": "Banco Central da China promete liquidez e estabilidade do yuan diante de riscos crescentes na economia global - ADVFN",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWFIwUU9jLVA4dVJrRnR0TTB3bExpN3VZLVZmWDlwZnFCSmpYZkJkRVJNbkQ1YzZPRGhMMllWa19jOFhIajhNVnpQTzhhZ2Z6RnNNTGZURWhwazJVWk43T1pHT1ZsZ0lOMnoya0xxTS1sOU9sYS1EeFQ0eE5tWWE5eW5NSExHU0lzRXRhdGJST0h1Y1IwQ0w4eG9TNy1qOXE1c1JsRS1KdGtaVThISjdvdG5iZV93Y09YT2xXcU1SeGVaNERaZkFMNmI1dEVld18xZ0duN1NQYTNYVFBmWmc?oc=5",
+    "fonte": "ADVFN",
+    "score": 14,
+    "tipo": "Risco / Atenção",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-27 18:59:30",
+    "chave": "b9968739f5026d3096388b2bf00803526d596cf7d686e7fe800cd33528107fb8",
+    "titulo": "Dólar cai a R$ 5,74 e Ibovespa dispara 6,07% após anúncio de Trabuco - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ1k0cE9OLVdLOHl4eWlqX3dTd2l4TmVZUU4yNlVQWHhQOVRJRXNhdUNHdmhOOUdjaS1IYWs1b2YwR2V6R0lyWXNCS3NkRXl4SHNiVjRiMGxoR09WXzRWVTVmZDdUS2E3c3hqYk0yV28wQVhnVEcwZlNBT0NreFlNWHJyb2ltbXJUZWhaQVBrYmtHSkg1WTB6dVdBSWxKcE1wNHpxSTI1WUt0dmVBMHg1Xy1vbk1sMVZsVW9EalBSM21NWUNiOUw0dHFWc0FteFI5NWtMcWRTVQ?oc=5",
+    "fonte": "Agência Brasil",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-11-27 18:59:30",
+    "chave": "afe6ad5155eb447fc04bb3dca3876550e3e07f96246892ce8153e45712b14339",
+    "titulo": "Dólar hoje cai a R$ 5,55 e Ibovespa sobe com Trabuco na Fazenda - Valor Investe",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGdENW9FcHB1S2NRX3Q1X04xMS0xWG5oZlkxRjNkbVY2QlZYZmNFUFU4SUhzOThqLUxodHV4bXRwUWplamprZkg1NTNUeDh3cDBoZTFmRXVHUFhoSEpwVGs4LUdwdG5wUE9UVXF2MkxqTUNGSnJQMnlDZGY5RXR6SDZmemY3aU8yVmsyallIS0N3bWRIT0dHTjF6Q2pLdkQtWTg4Rjh5aFhpcTI4eEhELVpUM3FpY2F2VkFXV1MySV9EcTRNVDlIZzRnb25NaEgxNURWM090d05mTnVfRkRLYzlkdmFvZEJHM3FEQ3B0TXdvVEHSAYICQVVfeXFMT1ZzaDlMVllWblowZlVaUUZETVZtbFZVNGdycW9mRW40UkZyU1BaZ3RlMTRNby1zamtJM05ZVDV4OFBoYmdMaHJESmNPR0lxM185T1Y4ZkFqMllGeVA5UklTVWNlQWNTYjBqZEtObm5lX2szbmY4STZwSVBfc0hJeDE4alFWdVlFRTZXYi15bVY2NDVWTkJwRkJrampEQjVuWWhKV2lDWmZMV0R6Z2l5MnMxcHJsNEpoRlgxTmVHOHR5OEZ4WkpqaGVEczBHN1haeldFZFZsdkdyVjFuaTBIQ1pTZWFTb3NFOFNTeXdZWkRkRDZFWHU0UDNMSXJqakZia2NR?oc=5",
+    "fonte": "Valor Investe",
+    "score": 11,
+    "tipo": "Oportunidade de estudo",
+    "ativos": [
+      "IBOB11",
+      "WRLD11"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-11-27 18:59:30",
+    "chave": "39f6e7a9282d906da2f42866ba278635aee2a0e47cc9e16289e69765221173ab",
+    "titulo": "Alta do dólar eleva perdas do Banco Central com swaps cambiais a R$ 38,96 bilhões em novembro - Portal do Agronegócio",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZDV4bDRoNW1qSV9OTUU5Z0ptTGJXcTJ6aFdCcmdrMi1xTE8zUzg2a2NGaUYybnlvZ1VUOGRoeVI1YlhIMkI0ZnVRbHhXQzlwZHNpU1l5OXpIbC0ya0VrNHNOMERVVTZPckFQSW40aHZlaGd1NU44QTNUSHB5ZG8zQnhrbHkwSDFfc1lkNW44dnlqNFoyd3BSRGdPNXFHRV9IMHlVTmZDV3FPS3JJUU94dlhpN2hMYnNfeFhSNk1XaWFqTHJKZy16OW9UQU1VQU11bHZHNmNad3NzTllOdkhmTm5Eb2xsdnFBUWxsdkhHTHRSUkszNzhqaFdZTlk?oc=5",
+    "fonte": "Portal do Agronegócio",
+    "score": 11,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "WRLD11",
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Ativos Internacionais",
+      "Caixa / Reserva"
     ]
   }
 ]
