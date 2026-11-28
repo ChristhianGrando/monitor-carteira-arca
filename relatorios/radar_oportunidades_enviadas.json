@@ -1,94 +1,5 @@
 [
   {
-    "data_envio": "2026-09-24 10:01:26",
-    "chave": "e82015a6eb563146711941c719377c1c4f0bfb6db14043785a54fb74763b1e80",
-    "titulo": "Morgan Stanley vê risco de queda de 7% no S&P 500 com petróleo e juros pressionando ações - portalin.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjctTEZJMUk3Vm1BV2pzdEx5am9BS0pqbGJ6NkFIVGtZQ2ktcnl0ZkUwRkRlcDVOaENmdkQwRnkxMElBUEtfZ2gwOHdSdEtxM2FVMXVNYnQwYjBCR1JDdUQ5YThjd2RYTXlqWWZIeFMzQ1BFX2lvdDhxYVZTYlBacDVjYkNVaXh6WUE1cXNkWGg0c3dFOEhMMWw0cHVjeXJGVzA1R1N5eXlkQl9wRmlxNHhUMm9fbkNqMHZiakNRQkpQT2M?oc=5",
-    "fonte": "portalin.com.br",
-    "score": 14,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais"
-    ]
-  },
-  {
-    "data_envio": "2026-09-24 10:01:26",
-    "chave": "9ca168c1fb089ec0d1016d4d78dcf14dc5fa97ab71fd7e0d0f8eb332ad2e8f3f",
-    "titulo": "Ibovespa B3 fecha em queda de 0,86%, com maior aversão a risco no mercado global - borainvestir.b3.com.br",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGpuSllvcGNJcGVvTDNUU2RoeERSZm5ZNWdmQ0R6Z3FTV21CdE1ITVZGVjl1YzBWZVBSUTVfZUdNZEtydkxDZ0VMM1dueTBVN3FUa19Tek91OTZUZ0U2U1B2LVBkNGdPYzQ4ZndEVUVPVFFyQjMtZ3BxV0dHRGpPWV9xVW44b2IxYkQ2aGZVbE5CQ25OcmVmOFIwMEVWWXlDMUl5b0UzaXNKdy1UUkR5TVVTUzlkcU15WXVZSnVfSmoxeDND?oc=5",
-    "fonte": "borainvestir.b3.com.br",
-    "score": 13,
-    "tipo": "Risco / Atenção",
-    "ativos": [
-      "IBOB11",
-      "WRLD11"
-    ],
-    "classes": [
-      "Ativos Internacionais",
-      "Ações Brasil"
-    ]
-  },
-  {
-    "data_envio": "2026-09-24 15:06:39",
-    "chave": "7940a38f0384958c0259439194475d1d40f6ee0eec16913502f22dcc935d6d71",
-    "titulo": "Tesouro Direto hoje: prefixados sobem e interrompem sequência de quedas antes do IPCA-15 - InvestNews",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEpEOVBBeUZZc1M0bllzU05FX1VaNEp5eGtuRmZScjRkNndfZjdNR1dHWHhwS2hCbUxyNjRvQnRMYmxhTkxzMXpPYVlmaEdFak4zek9tRFF1bkZvMlVucFYxTVo0RWZ0d3REVzFHdld5Q1NXYk9PemtTRzZrbU1KaDhWNGx0X2lkR3ZGdWFnVVh1eEMzb2JqZkF3Sl9mQzZQSWpnMzJPZDFPRlFwdjE0aTdnZWtpcUNRaUdIdlJfeGxFYUtySWs00gHMAUFVX3lxTFBJeVRGM0pvbVZSb0xnakFlWlBaTUFkSlJiWFlFcEl2b01oa1dXYTFMX2RZR09HUXBlSUVmN3RBVE9reXJGY2cydFdUTjFLTEdBNjlqaVAxOWFiZnlDcW9vdWhQSDVremVqdU1NdGk3THRzVmtxTm5Udi1Xam1Mem1YZHhRR1JmVkJFRnRhTFotbXgzd19XUUp5ZmQ4WElSQmlmLXJRb1BfN296T3ZFbkplQ3RMZVl4azlCTjVtdDhMMFNnWDBXYzhyYmxYLQ?oc=5",
-    "fonte": "InvestNews",
-    "score": 15,
-    "tipo": "Oportunidade de estudo",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-24 15:06:39",
-    "chave": "3577fb5ca46b25782daf4c9b895ee8f8647d2bd0521d47b5bceb617712aa64e6",
-    "titulo": "Especialistas veem impacto maior do El Niño no IPCA - Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdm5aR05nRVljd0x5OFRYZGR1alZuX1dCaTFMcUdOUGtwbDFrem9oZG1NdWlwcmZkTzY3a2JFUE43MVpBMVJJLU5KZS1ma2xhU2dpNzRScDB0WXhndExyNGN4U182elZUMXQ4SGRIU3ZuNWl0QlV4N0FmZEVOUnp5dzd4TnlpSmJ0OGxHekwzc2tMSEw1Y3hVVnRSUDQ0U1IxQnktc2VwY1lkbTDSAboBQVVfeXFMUEJYSExZVWZPZFBGY19NbU1PTjZuZ1U5dVRSZ3UwclBPV18yNkVZeGFpVTdtMVd0NzE2R05aR0dSbEJMT1RzUzdhZWtlSV9lTGhtN3RaT0RRQW9IdFN6YnVkc1hxUXpJdENoU0xvdXlUNk52Q184cmZfSlplTmJ1WUhRek9saW1GZFN3RHZudHAxbmNQMkY4ZHJBQlJlVnVudVdoWmFyWWJ6a1ZUNFZ3NlB3MzF3RWZJVEpn?oc=5",
-    "fonte": "Valor Econômico",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
-    "data_envio": "2026-09-24 15:06:39",
-    "chave": "f3c9bd0d9bd039113aa5b6324019c22b782e93b225afb8e89164611fa088e5f2",
-    "titulo": "BC projeta IPCA em 12 meses de 3,1% no 1º trimestre de 2029, último número da série - InfoMoney",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWRYMFZQNGFXVEVnXzRfSkpwcGtVbmxoS21uOHozSVdrUGRfNUVTVndjM0RjbFBTbHdnU1lKR2V2MF9fcGVmMFVOODIxSmk5aWxVR2hHSUdKYWxuakRzYjNldXRySHZ2RWhHR3lST2JkQVlzM0EzX2tBQ05GbTlyS2FlMlItZEUxNVlBZ2lHNkx1bTRFNFp0bmxCdFo5eUQ0TW1VZmc1amVoNmNGLXhueW5XTkVXd25EeHRZ0gHAAUFVX3lxTE0zejlQMzNtME1lcGlXTmtxOXNZNHpiaFJPRmtDeGtoNHc1dnlYMFZNajFwbFNZcXdjNjdqMDF6RTdKTFNLQWRmVkE0cW8ya3ZBdnFNemNCREJqVjF6UjFiWU9CSm85anQ4bTRMMFNRTDZKNDV0Y05NWmU0LURrUC1RdzVhRWdoby0xUU1ndGdHWXRmODN6Q1lnS1BxbzYzV21tdmt5bFd4UmpGY1o0Z3c3UFpON1oxSHR2TGYtb0ctZg?oc=5",
-    "fonte": "InfoMoney",
-    "score": 12,
-    "tipo": "Acompanhamento",
-    "ativos": [
-      "IBOB11",
-      "KNCR11",
-      "CDB 100% CDI"
-    ],
-    "classes": [
-      "Ações Brasil",
-      "Caixa / Reserva",
-      "Real Estate / FIIs"
-    ]
-  },
-  {
     "data_envio": "2026-09-24 15:06:39",
     "chave": "434216b159f9305b9c67a5e3859eb0573bd717d24919de66053b031753d8cc68",
     "titulo": "BC vê 90% de chance de IPCA estourar teto da meta em 2026 - Poder360",
@@ -17200,6 +17111,81 @@
     "classes": [
       "Ativos Internacionais",
       "Ações Brasil"
+    ]
+  },
+  {
+    "data_envio": "2026-11-28 10:27:24",
+    "chave": "20dee8260a906f2dd146ee892e820d093e4e1204fad958595838871ff8f3a823",
+    "titulo": "Aprender Valor amplia conteúdo e passa a oferecer educação previdenciária nas escolas - Banco Central do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uSlpRUUhManYtRm04b215SGF5TzkxdXBXb2d0RmVFTkZKZnhvVERLelRHX09DM3NiT2Fabzg1NnN3SXZWZGF4WTdFLUVOV2wtQm5Wa3VqUFU4U0pldUptWA?oc=5",
+    "fonte": "Banco Central do Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-28 10:27:24",
+    "chave": "3b71364f9e2598dcf8f2e84bbcd7907f02186d3c4415205572761f37f38fc910",
+    "titulo": "CMN e Banco Central regulamentam cessão de créditos por instituições financeiras - Mattos Filho",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkdYS0ltNk9IcnFUNld0VFAyaEF1S3FHZ05vMU9xZHhjY3JGdG9JSVk1cHozekVFTndZS000d3R0STJudzVDSkdhVzdtU0xlVTdMQWN2UVcybFFLZlAtaXFjLTJKSmVSM213ZHNhX3NsQzFPSGhSaFVGX3F0YzJ2bUVCTQ?oc=5",
+    "fonte": "Mattos Filho",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-28 10:27:24",
+    "chave": "ac9a8ef1d69df78aa5ef08da3c2df01a583dda9acef0687793b9dfa5d51bd33b",
+    "titulo": "Banco Central anuncia nova intervenção no câmbio, de até US$ 2 bi - O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGF1VzdZYlhkajMtQXJsOUttRlk0MVZGQTBQUnVlTmItWU8wcjF4ZHR3dVMyRndVRjE1WG5hUHQ2am1ULXgyTTEtZjItZ1EtN015anpzMURFbGhyU3N6LUltMmRRRkxmbUtKSDE4UEhIeTN4QUJFa0tJNjlaelN5UzFCLWpGY2JYQXlvcXdTY0I5RE5Dbzk4YW5qUVhMWkhzOC1MYmlGWW5OQdIBuAFBVV95cUxPdUVVVjRhNmhVcWNFRk1qTmZ4YVZMVVFSNTFvVFZDWExxUmNfUUFUb05TX0xTMnBUOUhzNlNVdTM4cFRBaUtiYlQwOE9NVlhYa2N2Q1dqa0NVUmZ2T2dibXdfci04ZndrdWNfaTNlbk55SnZfdFZNcFFFdFRwcW1BemxSdHUxOVpGdm5rNDRTUXh5Qm1tUU1hUmpGNzBiU0E4R1ZhYnNzQ0lDQlpGVUpzX1RYdWp3SHN6?oc=5",
+    "fonte": "O GLOBO",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-28 10:27:24",
+    "chave": "606dcdeec31a86dd5994f33b8baddb5933d398411b5d47f22b3a540992cad2b1",
+    "titulo": "Banco Central prepara novas regras do Pix para 2027 - Safra",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nWHMzLWRuWmhIT0xMMmg4RWpfaHA4TDJXTlJkd2pVdUphZExsQWp2V2FLcFZ3all0UW96dU41ZE9JX0ZKbEpHbUhDd241WVcxMGUxZDBHYnVzODh5dW9nVVNqOUFTc2d0T2RWMg?oc=5",
+    "fonte": "Safra",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
+    ]
+  },
+  {
+    "data_envio": "2026-11-28 10:27:24",
+    "chave": "b792f70a1471bb9306329fee487105c7bb67a5d299c9d267e8c37d0180c76ff4",
+    "titulo": "Banco Central apresenta mudanças previstas para o Pix em 2027 - Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHRaVmhVSFJUR0xDcDNFdHp0anVyUDZta3Y0UGVPR1NYM2xmUWtvZW41SnBENlhtWXJjeXdWWmlLbjZsS1ZCVlh3RFJ5SUpsRGZFWWYwcmN0c0taS2FHWUlaTGdRTFJLV3kwNFEwYnEwRnlRRXFYb2diMnJqbXhVMUptd3ZxclpvMlc2NmdzTGNMZGg4MHhwdkdyTXRmUUxFT0liVUI0UnI2OU1GOFZfSTVZclN1LTBIcnUtRFlMQXZGRWtMbEpfWEt6c3lyd2lrWGRMSnRn?oc=5",
+    "fonte": "Agência Brasil",
+    "score": 10,
+    "tipo": "Acompanhamento",
+    "ativos": [
+      "CDB 100% CDI"
+    ],
+    "classes": [
+      "Caixa / Reserva"
     ]
   }
 ]
