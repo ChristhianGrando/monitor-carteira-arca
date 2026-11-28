@@ -1,4 +1,4 @@
-# Relatório da Carteira ARCA — 28/11/2026 02:58
+# Relatório da Carteira ARCA — 28/11/2026 19:10
 
 ## Carteira monitorada
 
@@ -13,131 +13,123 @@
 ## Resumo
 
 Notícias coletadas agora: 50.
-Notícias novas, ainda não enviadas antes: 33.
+Notícias novas, ainda não enviadas antes: 25.
 
-Foram selecionadas 15 notícias relevantes para este envio: 4 de alto impacto, 2 de médio impacto e 9 de baixo impacto.
+Foram selecionadas 14 notícias relevantes para este envio: 0 de alto impacto, 2 de médio impacto e 12 de baixo impacto.
 
 ## Notícias relevantes
 
-### 1. Dólar despenca 4%, Magalu (MGLU3) dispara e Ibovespa tem melhor semana desde o primeiro turno - Suno - Investimentos Inteligentes
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Suno - Investimentos Inteligentes
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0FKTjdmM19Pa0FyTnBEN3BGQ1RTVV8zR3UwQ3VQSTVPdjYzekl0T0c2TUp1b1JHMndkX0s0RnB2em1wSlR5bzdEdnMtR0lTZVg0N1JqcTg4WTZuaEVtdVBuNUNHVi1JZjlmMEtHREgzNnNscjRlTWJKR3RXY3l3UlNmekRQUdIBiwFBVV95cUxPMzFxYmQ0UXBrRFVvQXpYeVdnOS0yRE5ER3RNS2htSS1aQ2tudUd6akh4RmJqMUp5dERXRzhTMXNvWWgwYm9iRE5pa1h6dVRkUlhSRVlDRUVRQW1DYnZjd28zVHFXTHc2WTNVU29oS0NRc083Z3lTTS1iWmg1eWl6Y1lFT2QtX1NhdmlN?oc=5
-
-### 2. Ibovespa corrige alta e encerra o dia em leve queda; dólar recua mais de 7% na semana - Bloomberg Línea Brasil
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Bloomberg Línea Brasil
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFE2eFR4MHdPN2pDbEk3VWlhU3RRU3VhdlV2X004ZDJudGxUWENkczBlc2hFVHNnblI3cml1RkstVDY4em5leWVqaDBfUUhibzV4cVhzSlpQbXkwUFdHODhVOGtTZEJQa29fMXUyR0dRZGY4R2VFZzFTSXpOQkZyWjA4U21MZHZXUzMyUjBwa1hXZVlIbjExSXZxeGEyWE5QU2E2Z3pVNGxtOU9nV18zWkJ0NEdKOHlpMFdBbFBrYVFfME3SAdcBQVVfeXFMUC1JcDZTVmNVTTFKalNhUlY5cndvQ0ZXTWxrOWFuU0g5VnFoOHF1cXZBVUY0QVh1LU9pa1lZdDFTTEVocVJrNG1qY3lpOW5yWFg5Wng1WmFva1phcVl0UXVDLWh3WS1OUjFFMGQtemdOVHFjSjZMWHNVN2V2NGh0WDg4Q19BR3dSZFl4clJ4c2QtTUpYSWZ5XzV2ZW5QRzg3SWJXczJRc1o5emc5TE0wX2hadzhleGJILWF1R0xsZjRDdjZZRkJROFFGcEhodVF5OEExRUN1cjQ?oc=5
-
-### 3. Dólar cai a R$ 5,74 e Ibovespa dispara 6% com Trabuco e novas medidas fiscais - Valor Investe
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, WRLD11
-- Fonte: Valor Investe
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVFFpYTJWeW12NGdpdGxKNW1FU29LNV8zYUVxMndKdXNSa2xGV0UxUDJjemltVTZWT3ZSbkZsUnFHV3VfV1R3cklJOEpKWVBIbVZJZ0ZoOGtkWWJKbVFTQjVWVHZxT1BuRHhzTmk3ZERiR21TeDNfOS1ld2EtNzJBU0pUdFlFaER4ZzhwYTJMdTdQbzA4cVdLV1VaaHlYanV4bHFCR3VqeE1QOGsxMXRRMjZhVUUxdFI0MHNRZlBmZTh5UjU4MFhSZ0pYY1BKZThBRXZXZGE5UjhKZ9IB6AFBVV95cUxPTlNWLW9SeVluX2V5SWhWYmUtNDBrV0xVY2lvaVVVQmxvSFNoeVRHOTdCTXBhWmh1T0l6VHU4OGI3QjRzeGxNeEE2RGU5eEsyZUVjQmprYTlTOEtFUTV1MGg5eEJTWG1nZ0NyeDkwbVJpaW5lVmVPZjkwcFl3eFlvSE5DejJ5SkV2U0dkODY0ZU1OOHhYV0g4amZqdnAzWGdESUM0UW9hOVZTSElrdW8wU0FmR2k5b1FQOFk4dUJ2RVNiWTZXcXIwUmpOR3J4WkRtdGYyN0FaU3F1YTNhbkw4TDlrcHAyS2FG?oc=5
-
-### 4. A Selic ficou parada. Por que as taxas da renda fixa caíram? - InvesTalk
-
-- Impacto: Alto
-- Ativos afetados: IBOB11, KNCR11, CDB 100% CDI
-- Fonte: InvesTalk
-- Explicação: pode mexer com bolsa brasileira/IBOV; pode afetar FII de papel, CDI, CRIs ou inadimplência; pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWVuRzhVaVhZaHhkc19NdHJVWkh4czdMTk5hUjFBa1J0WTk1bFo4Wmx5U0JqR0paeFQtcHoxVUVMSm9kcm90U2pqcTlfVzI4a2k4b2dNTm5Hcml4TW4xenltMWk5TnZIdzN4d184dVNDWjIzdFFkSlVDaC0wM1FBbXQtMVgzQTdZM2c?oc=5
-
-### 5. Ibovespa Futuro dispara quase 3% após confirmação de Trabuco na Fazenda - InfoMoney
+### 1. Gestores veem espaço para Ibovespa voltar aos 200 mil pontos — mas em 2027 - Exame
 
 - Impacto: Médio
 - Ativos afetados: IBOB11
-- Fonte: InfoMoney
+- Fonte: Exame
 - Explicação: pode mexer com bolsa brasileira/IBOV
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPcS1melFYdGZadHVjQl9TVFRtZncxeVloTUswQnh0QlJzZkcyQ3A2bk5xMS1BNTFkSHJmTGk0UW1JQkhTN1lLTEpTXzRkeGwxNThnR2c5bDFMWHVCUjZ3ZDJqYVlkOTVob2NFTXdWOVZ4Q29kWFVyV0h3ZmRlZkROR2o0VHlsWXZ1TUktSFRQb1QtNVRvRmNoaWpCRFJnamVyTUppaTUxeWFKR1VKX1HSAbMBQVVfeXFMTTQ5Q2lhOWRyTjFmUE40aVc1emxOc1NCcjBvQUVETVl6Qmh5NENHckZ3ZmpNVGFzV2JBekhLZ1JtaUptdXFSUW96RnVaMFc3LXpSeXgwUG5wUVB3UlNOY1k1RzU5aDlfRU5pM3RpaDRLQVJHQktpeHFKcVRGWVFuVXhPRXdEeUt2TEpHcTdTNExtZWVlUEZna2huLXBTdWRNeXVCeGEzckYyZURjU1FhTU10eFk?oc=5
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNY25xNlgtNlRocjEtWWZxdHFUTXFmMU51dGc2a0FfbU53M05MS2ZsWVppOVE2Rl9JaVNWYUZjell0RGNfcVlla3oyOHdySE94LWlvb2x3RjUwbklYVVR6Y3k3X3JLSE4yMXY0cV94cFdRbnFLWlJIQzBoWmtvZnFiakM0b1h5Y1FiTkw0dlk2Sk5lY2t2U1h3UFpad0U4cEIyT09mWDdPOXJmSnVXRFd4TDZZcV9YZlU?oc=5
 
-### 6. S&P 500 tem melhor rali de Ação de Graças desde 2008. O que esperar? - BeInCrypto
+### 2. Em artigo publicado hoje no Rota Jurídica, João Pedro Barbiero, advogado e sócio do ABR Advogados, explica como as novas regras do ITCMD afetam doações e heranças com bens no exterior e por que as exigências da Receita Federal para identificar qu - Instagram
 
 - Impacto: Médio
 - Ativos afetados: WRLD11
-- Fonte: BeInCrypto
+- Fonte: Instagram
 - Explicação: pode afetar exposição global e dólar
-- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1CZmpnOWRsWl9LQ1FWNHJwMUpJOW0zRjdfWlY1MFRTQ2VSOTc2eC1CZmI4SlJ1R01pdENDNFptYUZiaHI1MWdjclBjVGtjeGEtWmcwd0N3X0UzOUZFekRXSHRKUEZZSnlaOWxfeHNIcjRyM3FseHVsaVBNRWYzMEk?oc=5
+- Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZUnpIdmlSSERBYVBPZ1Q2T3R1aHhwcmhPS1d1ZVBXak5MNml2OFE3M1VKbDRwQzM1ZV9qUEVtTl93TWtoZ2hKVlVfYjhYWWQzMmc?oc=5
 
-### 7. Elon Musk é o maior beneficiado de uma possível fusão entre SpaceX e Tesla. Entenda - InvestNews
-
-- Impacto: Baixo
-- Ativos afetados: SPCX34
-- Fonte: InvestNews
-- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2tRa3FJYVRpVVVYX3JPb0Y3VlVmUmxQbFRUdkZRaENzRmRNMzFyWGJMYy0wS2lhOE81cE1jcUp2TGd4cXFrVHhSTXVSbjNybTg0TGNmQ0JfWkRlM0ZQRVBpZjhnYXZvaUd1Q3FFV0Y4al9WVnhaaHh6R256WkNXNDdwckxDWTBuR1JERTRIMUZxNzF0R0dRVkY1MFYxTWVxdDNadS1mbWdJbVk0WmVzb1BNQlQyNXVZTlHSAb8BQVVfeXFMTi0zd2FwckUzSGtMNVk1eWdac0gxU2JHZ2xvWlV1Q3RDVkJydG41NkhDNmhJRUtJRDRxNUlyWUtqTGlpWU81bEItVV82cW5jY0RLZDJhVzROOU55ajMzd05FdkViYzI5SWROT2tJVmh1RGs1Z2VCdFZLY1JlTThndFVxNUJpNFRubjR4SUp2MkVTUjV0Qm5DVENfNTJGdGFqQkl0Q2pSMnZRSXM4REVqYU5ERENRdWoybF9qaXBGd28?oc=5
-
-### 8. Documentário Musk, de Alex Gibney, tem quase 4 horas e desconstrói a imagem mítica de Elon Musk - Startups
+### 3. Musk diz que Google quer alugar mais capacidade computacional da SpaceX - InfoMoney
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Startups
+- Fonte: InfoMoney
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkNPWEFtY3ZtUXA4UmZKcGc4MzRaV2xDa1FPMXhQaE4wenVDNElTTng0MElBclUtMzJ2anJZOThRcm9aVkxVZlRNUGZXRVJlVjdPZmNjSXdQbTZwWGlUR0xhcTVlVmotMWVBZU0wcHNING11NnpIeXFCMEJkZnoxNXNYZ3FkRGJaS2QtWmZpSzNHRFdncHhYaXRORnVKOWdRb3lqVA?oc=5
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDR2Zmk5VjhzbmdCU1EtWUNjLWRjQjNYSERhU0hpcGJWMkFyQ3pYbEx1QnRaRkQ0VXl5dVNvS3lQUlpkM3BBNFZjaTE5R2ZIRnNLZXpvTzFxaVQ0R3lkWGFSRmxRamUxc2M4R3BXYnhBb0ZQcVpFRDVXU2tIaUFFQk5zdGw4cGZ5NERpaGhwUnFSU0tQQWxTN0ZucjRXQUlHN2JZbVlsbmZ2SzM3ZUVz0gG0AUFVX3lxTE5LRUJxZ251RnFYRldZaE42Y3lEeVBuR0RTR0JBR0tJYVEydWhBd3hCak1IQjJWdlJ2Wk95NVpOZHV2QWJjb3JOMzZSTzgzZ2VkMUFRaVVPNGNmSXM0aTRYeXQ4eGsxWTBKa1Z5dnNySVRLcGQydXJIazZzRlBpZ3ZaUDF3ZFVUNXExWm5MWEZLdFE2RkQyeWpzV0ZMT2FsbVJsWUNzOFA2V2VHX0Mwd2NOLTc5QQ?oc=5
 
-### 9. Starlink: A batalha de Elon Musk contra as leis de empoderamento negro da África do Sul - Agência Pública
+### 4. Ações da SpaceX Disparam após Musk Prometer Ampliar Distribuição de Papéis - Forbes Brasil
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Agência Pública
+- Fonte: Forbes Brasil
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzY3MUlVOHV6N3lyblVlT3Ftek5wMkJYVkFfaTA1UGRUU2FSdjAxYWNGTFpzTmVQdmNWR2lCUXJOV21iWFNtNFRyRHB5QUdzSGZhM29KT0Zwc1AtQVFMeDJWVkhFTXdfRGFrX0dPd05LZmlXcjA2NWVjLW9tREstOWN5Y0l6LWhqMGhxVVNrejlJZUtxajVJaENTTFB6cVhvRGxxNjhUdUxocko1SUd1QkVCTmpVem_SAbwBQVVfeXFMTnRzUk1ZYVV0c3BjTGNySXBuS2laUldZZTAxYzA4N3ByWmh3UHZjRHR0ZEF0UHdlZXhPdnNIUmk0dkVVLXdzMTJLYlBtVXdTbXlZTHFwcldmX1JiSjNMQ2NTWHE3V3lpUWxMY3EtSFdWS1FpODE5YWFVYTd4SUo1aWFORmNOWjE3ZkcwNU1ULTVpMTRXWEgyeXc2Y1Bha2otd2hHc0NLLUJqb0oweU9kMklhendlcWRnZy12VFM?oc=5
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEkxMjZadjZmTE1Jek96bHctUU5BVmFybnZRbm1CU0tSNkhGRjZybkZrR1V4VlRfNGF4aTZhcXhncnBnVkFrOXBydjZBV2dmcGxLSHh0UFBRLWJ3bnNPZmRFN1pFV0luRWlRQjFacllKQVY5UE9pS2VjN0d5MEpPVERodHVnX2gyVnFJVzlMX1JQamY4eEJtN285MjRXS2FNZ3FyVnBPR0dLR2NNZm1kMWoySXZ5dXFTYVE?oc=5
 
-### 10. Como funcionam os satélites data centers que a SpaceX quer enviar ao espaço - CNN Brasil
+### 5. Ex-sócio de Elon Musk é premiado em cerimônia em São Paulo - Tribuna do Sertão
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: CNN Brasil
+- Fonte: Tribuna do Sertão
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSEJBcURFZTBvcFB5eGpKcUlnOFZIVHlUN0JIaVY0WWRTUnlLM2Nqbnl6ajJieUlRVmc3TGhyVmY3aVAwc3J5bTZYREtpd2wxMHZYUzFzWUhVS3dJOW5CZVdFYlpnNHNiSG5kVVBJTDY2dG5SdzVxRVBKWDRyVWxqM3N3YjA1b0ZlSmlZX2ZHdXFQb3ZIWkN4Z2NUS21Rc1E4LXphV0tDdWFwZFNYNG1QT252SjQ3WHZDTDZFaE5oSENIVFBNOElwbVR1VVo0NXJnOVVISTM3QmJuOF9h?oc=5
+- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxONkNjeU9HeTRVWEVKTzloc3VzMjdBMXZDMzF0Yzhoc1pUVWdTRDNqWGxMZGdYWFBwdkhjOTZnWXhvUjhWcHlZajN5ZXdBTXdJV3dsV3BEMUNOdi1jRnVocE44dTB5NWZQRlRDZF9zVW5XbmdLeVdNZS1zMmtoaGxqSzQ4MWFjMzZTZG5vR1FDeFBCLXR5SWpxN2dNM1hrREZhb2JhbE1aNHlfcmJwNmJXTk0tV3oxN1Z5WGFPZHdZS1R5QQ?oc=5
 
-### 11. Ação da SpaceX dispara 7,5%: será que doação de Musk pode desencadear rali maior? - TradingView
+### 6. Musk posta vídeo de homem de pijamas vendo filme em táxi autônomo - Poder360
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: TradingView
+- Fonte: Poder360
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE11RXZOOE8xVnhoTXlKX3dxWUtZdjAyVEtfSVBUOXVpdHptdldQNGExdThZdkViQlhubHA0RWZfcGZfV1ZIUlBYdjhkd1BQWTBhS1dtZHhzdTNsNWhLdHZmNEFfRXlqdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzZMYUVCT3d2MHFfTVRvQTBNVWl5WkRMSWQtOXVxenRSSDg4WnNXWXNHZ0hBV05mbGdGNEhabHZHYnNvZHNhTWZMUWp1YjROSWNfcV8yWFdJM0NuUUZoLW9ZeWRpbGo1TUtIZFBQVm9XR01rUy14MlFaNy1zXzlJd183Qmx4bXBxSUZIc0ZaSkVVT2J2eWR0MFVLa0R2WncybkMzQ2dhbGQ?oc=5
 
-### 12. Por que Jensen Huang tinha que voltar – segundo Elon Musk - Brazil Journal
+### 7. Musk diz que Google quer alugar mais capacidade computacional da SpaceX - Investing.com Brasil - Finanças, Câmbio e Investimentos
 
 - Impacto: Baixo
 - Ativos afetados: SPCX34
-- Fonte: Brazil Journal
+- Fonte: Investing.com Brasil - Finanças, Câmbio e Investimentos
 - Explicação: pode afetar SpaceX/BDR e tecnologia internacional
-- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTlXYWhFc1hfT084SldnSk9IQ1dvbGR5Wm02R0YxdFBuajd5cFFpbHRmbUtSdG81dkpQU09zZ3Q3a0xvRHEtMDhuZlFVcVVNODdweFduUjhfMVdhLXVYTlBLWUhJampoZmZkYmtRS3g0YWhrVUp2Q1B3cHl3UHNmRFJwUmxUT0d3?oc=5
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPSGt2dU1EVGUwSWJNQkx2Q3RXaHI5M1ZFczJBX3FmY050Z2t3czBLeXdKejVVTkk2S29tUmtDRWM3T2t2VUpQOFNNeWVUb2VwYklSZnFlZ1g2SzFMbU8tNmZsMFJfRnF2MUg4QjhCV0lQQ092ZlE2b3JwLVBRWUJMSGxWUFZsYkJwbUNsajVYVUdzVG1FQVhWT3MxQkdFTC1Cc1BCVzhuZVhJekkwdkJlX3FpbG5MUkZHcTVPRF9TNA?oc=5
 
-### 13. MCCI11 investe R$ 145 milhões em CRI com imóvel locado ao Google - Fiis
-
-- Impacto: Baixo
-- Ativos afetados: KNCR11
-- Fonte: Fiis
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTFAycWZZR1htRThrbVB3eDk2a0x6bldyejNnQ3MyUDMyc2NabWtkZjVoeFVmeTA3YlNVYjd3WWxpTGhpczRybUZETmhYMmdFaWwyVXAydHhjZFN3cmx6aGtrVW1oS1BUcGphd2F1d0pUZjRndHo2cGc?oc=5
-
-### 14. FII lucra R$ 4,18 milhões, tem yield de 13,35% e revela novas compras de CRIs - Fiis
+### 8. SpaceX ganha autorização para lançar 1 milhão de data centers no espaço - Minha Operadora
 
 - Impacto: Baixo
-- Ativos afetados: KNCR11
-- Fonte: Fiis
-- Explicação: pode afetar FII de papel, CDI, CRIs ou inadimplência
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9laXJma1hvOE14ZlptY2EtbFNVSnZfcFlXOTFmdnZ3dlozcHZ4aWUtZVBzNmtFZXdkelRUX1RZc1I3VC1kenlfcHhyWFVqclRXZ0t5VFh6R0dVQmRjRUxmT0t2a0tWSU5wcm01bkZndWJ4SnU1aXc?oc=5
+- Ativos afetados: SPCX34
+- Fonte: Minha Operadora
+- Explicação: pode afetar SpaceX/BDR e tecnologia internacional
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3lkbjUxX1BnR0ZRVTlRZlpTbXVJZ3VwQ3FBWVJ3WlBVVVZRa0gyUWZDS2VoZE03NGZxcjQxbkRDSURwaTBETDZ2M3NEbFBXekU2TUVmRlh0eE84bHpBUmdKTVo5U0Q3RTg4SE1tTmxyaF9FOUZQUVJfUFp5UkM2RS1uckZWWEhodk5ZS1RMUEFkbjhIZE5kX25BaERtV0IzVzhiR1N3YUJPNUlWTjMtWkFNV3oybVVwbnc?oc=5
 
-### 15. CMN e Banco Central regulamentam cessão de créditos por instituições financeiras - Mattos Filho
+### 9. Fórum Pix projeta avanços para 2027 - Banco Central do Brasil
 
 - Impacto: Baixo
 - Ativos afetados: CDB 100% CDI
-- Fonte: Mattos Filho
+- Fonte: Banco Central do Brasil
 - Explicação: pode afetar a rentabilidade do caixa/CDI
-- Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkdYS0ltNk9IcnFUNld0VFAyaEF1S3FHZ05vMU9xZHhjY3JGdG9JSVk1cHozekVFTndZS000d3R0STJudzVDSkdhVzdtU0xlVTdMQWN2UVcybFFLZlAtaXFjLTJKSmVSM213ZHNhX3NsQzFPSGhSaFVGX3F0YzJ2bUVCTQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlZEE4Rmt4RVpXRjFEVTFEVWI4SFgtZmJqdDU1U3llYzdGYm9XRWM1MTJhYWJ6Vi01Sl96eTE3MnVCaU1ZbzlnMzcwTU1sVGZmXzJ6Y0VmMTNNQW53aUV4ZA?oc=5
+
+### 10. Banco Central apresenta mudanças previstas para o Pix em 2027 - Agência Brasil
+
+- Impacto: Baixo
+- Ativos afetados: CDB 100% CDI
+- Fonte: Agência Brasil
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHRaVmhVSFJUR0xDcDNFdHp0anVyUDZta3Y0UGVPR1NYM2xmUWtvZW41SnBENlhtWXJjeXdWWmlLbjZsS1ZCVlh3RFJ5SUpsRGZFWWYwcmN0c0taS2FHWUlaTGdRTFJLV3kwNFEwYnEwRnlRRXFYb2diMnJqbXhVMUptd3ZxclpvMlc2NmdzTGNMZGg4MHhwdkdyTXRmUUxFT0liVUI0UnI2OU1GOFZfSTVZclN1LTBIcnUtRFlMQXZGRWtMbEpfWEt6c3lyd2lrWGRMSnRn?oc=5
+
+### 11. Banco Central anuncia nova intervenção no câmbio, de até US$ 2 bi - O GLOBO
+
+- Impacto: Baixo
+- Ativos afetados: CDB 100% CDI
+- Fonte: O GLOBO
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGF1VzdZYlhkajMtQXJsOUttRlk0MVZGQTBQUnVlTmItWU8wcjF4ZHR3dVMyRndVRjE1WG5hUHQ2am1ULXgyTTEtZjItZ1EtN015anpzMURFbGhyU3N6LUltMmRRRkxmbUtKSDE4UEhIeTN4QUJFa0tJNjlaelN5UzFCLWpGY2JYQXlvcXdTY0I5RE5Dbzk4YW5qUVhMWkhzOC1MYmlGWW5OQdIBuAFBVV95cUxPdUVVVjRhNmhVcWNFRk1qTmZ4YVZMVVFSNTFvVFZDWExxUmNfUUFUb05TX0xTMnBUOUhzNlNVdTM4cFRBaUtiYlQwOE9NVlhYa2N2Q1dqa0NVUmZ2T2dibXdfci04ZndrdWNfaTNlbk55SnZfdFZNcFFFdFRwcW1BemxSdHUxOVpGdm5rNDRTUXh5Qm1tUU1hUmpGNzBiU0E4R1ZhYnNzQ0lDQlpGVUpzX1RYdWp3SHN6?oc=5
+
+### 12. Banco Central prepara novas regras do Pix para 2027 - Safra
+
+- Impacto: Baixo
+- Ativos afetados: CDB 100% CDI
+- Fonte: Safra
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE1nWHMzLWRuWmhIT0xMMmg4RWpfaHA4TDJXTlJkd2pVdUphZExsQWp2V2FLcFZ3all0UW96dU41ZE9JX0ZKbEpHbUhDd241WVcxMGUxZDBHYnVzODh5dW9nVVNqOUFTc2d0T2RWMg?oc=5
+
+### 13. Aprender Valor amplia conteúdo e passa a oferecer educação previdenciária nas escolas - Banco Central do Brasil
+
+- Impacto: Baixo
+- Ativos afetados: CDB 100% CDI
+- Fonte: Banco Central do Brasil
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uSlpRUUhManYtRm04b215SGF5TzkxdXBXb2d0RmVFTkZKZnhvVERLelRHX09DM3NiT2Fabzg1NnN3SXZWZGF4WTdFLUVOV2wtQm5Wa3VqUFU4U0pldUptWA?oc=5
+
+### 14. Banco Central determina que limite do cartão de usuários frequentes de rotativo seja reduzido - O GLOBO
+
+- Impacto: Baixo
+- Ativos afetados: CDB 100% CDI
+- Fonte: O GLOBO
+- Explicação: pode afetar a rentabilidade do caixa/CDI
+- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVmt5Q0k4Qk1CRTl6V0taZUxZOVR0eThVa0dBeTVHajZMWUprZnZEUEtRdlhUWnZXTTlWakFMVEY5eWRTc2o2NUZoMlpaZmRfQWZxTklQczRvUURlTW13eDdnLVZoa2NQLUFmUXFSZ0ZUb0ZmOFd2a2hFQTNoQ241TzhxZFN6c0dKV0Q0SlVNWmVyRHlIMlZnTkp4blJ1V296OEVyWlVRZm9veHBFZWtGb08xZkprYUJjeDF6c3NIckZsZklkdmh6LWd4Z2p2LS1xMVBOSlN3RGJlVFBFMW9lSmlOWEJ6MEHSAfYBQVVfeXFMT2RnQ2UyeExHYVkza2ZyNXJ0eDJqa01MM1A2QUlFSF95OTBDMWlQN2M0Z3lzM08tbkxvd1NXSUtEN2otNG5wZk1lSmhqZUdkRFdHc1BlZTZSbE9WWlNUakxyVHA0YUx4aHlEWVNfNU5jWTdwUGUxaTRRTUY0elpHM0RFZHkwS3VTN3FvSmNTNUthUXBWOWVXTk5Vb1lfMDd2MnhaU2tMU0VIZHpSQ19JSmo1YjlyV25GVjJQSHBldGFyRFUyb1k5MUc2TXZYOHhKVkxwNXdIS0JlZG1EWERXMldWamR0THhjRkZfUzVvaVBSbDhUc01R?oc=5
 
 ## Conclusão para o próximo aporte
 
